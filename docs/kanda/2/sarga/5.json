@@ -1,0 +1,373 @@
+{
+  "kanda": 2,
+  "kanda_name": "Ayodhya Kanda",
+  "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+  "sarga": 5,
+  "verses_count": 26,
+  "verses": [
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 5,
+      "verse": 1,
+      "sloka": "सन्दिश्य रामं नृपतिः श्वोभाविन्यभिषेचने ।पुरोहितं समाहूय वसिष्ठमिदमब्रवीत् ॥२-५-१॥",
+      "transliteration": "sandiśya rāmaṁ nṛpatiḥ śvobhāvinyabhiṣecane ।purohitaṁ samāhūya vasiṣṭhamidamabravīt ॥2-5-1॥",
+      "translations": {
+        "english": "The king having instructed Rama summoned Vasistha, the priest and spoke to him about the coronation that was to take place on the following day",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 5,
+      "verse": 2,
+      "sloka": "गच्छोपवासं काकुत्थ्सं कारयाद्य तपोधन ।श्रीयशोराज्यलाभाय वध्वा सह यतव्रतम् ॥२-५-२॥",
+      "transliteration": "gacchopavāsaṁ kākutthsaṁ kārayādya tapodhana ।śrīyaśorājyalābhāya vadhvā saha yatavratam ॥2-5-2॥",
+      "translations": {
+        "english": "Could you, O sage, whose wealth is asceticism go to Rama engaged in strict observance of vows and advise him along with Sita, my daughterinlaw to undertake fast for securing prosperity, fame and kingdom.",
+        "hindi": "डी मि छल है > ८३ PN हषे किमिदमस्थाने कृतवत्यसि बालिश । च ७ शोकसागरमध्यस्थं नात्मानमवबुध्यसे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 5,
+      "verse": 3,
+      "sloka": "तथेति च स राजानमुक्त्वा वेदविदां वरः ।स्वयं वसिष्ठो भगवान् ययौ रामनिवेशनम् ॥२-५-३॥",
+      "transliteration": "tatheti ca sa rājānamuktvā vedavidāṁ varaḥ ।svayaṁ vasiṣṭho bhagavān yayau rāmaniveśanam ॥2-5-3॥",
+      "translations": {
+        "english": "Venerabel Vasistha, the best amongst the knowers of the Vedas, skilled in mantras and firm in his vows said to the king, 'Be it so.' Thereafter, mounted on the best of the chariots befitting a brahmin, with horses harnesed he proceeded personally to the abode of Rama to ask him to undertake a fast in accompaniment with mantras preceding the installation ceremony.",
+        "hindi": "मुझे तो मन ही मन तेरी बुद्धि पर हँसी आती है कि, अत्यन्त दुःखी होने का कारण उपस्थित होने पर सी तू शोक न कर, प्रसन्नः हो रही है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 5,
+      "verse": 4,
+      "sloka": "उपवासयितुं रामं मन्त्रवन्मन्त्रकोविदः ।ब्राह्मं रथवरं युक्तमास्थाय सुदृधव्रतः ॥२-५-४॥",
+      "transliteration": "upavāsayituṁ rāmaṁ mantravanmantrakovidaḥ ।brāhmaṁ rathavaraṁ yuktamāsthāya sudṛdhavrataḥ ॥2-5-4॥",
+      "translations": {
+        "english": "Venerabel Vasistha, the best amongst the knowers of the Vedas, skilled in mantras and firm in his vows said to the king, 'Be it so.' Thereafter, mounted on the best of the chariots befitting a brahmin, with horses harnesed he proceeded personally to the abode of Rama to ask him to undertake a fast in accompaniment with mantras preceding the installation ceremony.",
+        "hindi": "सुरे तेरी दुबुद्धि पर तरस आता है, क्या कोई भी समझदार स्त्री अपनी सोत के पुत्र की, अपने लिए मृत्यु के समान उन्नतिः उन्नति _ देख, प्रसन्न हो सकती है?",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 5,
+      "verse": 5,
+      "sloka": "स रामभवनं प्रप्य पाण्डुराभ्रघनप्रभम् ।तिस्रः कक्ष्या र्थेनैव विवेश मुनिसत्तमः ॥२-५-५॥",
+      "transliteration": "sa rāmabhavanaṁ prapya pāṇḍurābhraghanaprabham ।tisraḥ kakṣyā rthenaiva viveśa munisattamaḥ ॥2-5-5॥",
+      "translations": {
+        "english": "Having crossed the three courtyards in the chariot, that foremost of ascetics (Vasistha) entered Rams's abode, shining like a mass of white clouds.",
+        "hindi": "जिस प्रकार राज्य पर रामचन्द्र का स्वस्व है, इसी प्रकार सरत का भी है। इसलिए राम को भरत का डर है और यह ठीक भी है, क्योकि जो जिससे डरता है, उसको उसका डर रहता ही है । मुझे यही सोच कर बड़ा खेद है। ( क्‍योंकि जब राम राजा होंगे, तब वे अपने भय के कारण भरत को अवश्य ही दूर कर देंगे अथोत्‌ मरवा डालगे )",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 5,
+      "verse": 6,
+      "sloka": "तमागतमृषिं रामस्त्वरन्निव ससंभ्रमः ।मानयिष्यन् स मानार्हं निश्चक्राम निवेशनात् ॥२-५-६॥",
+      "transliteration": "tamāgatamṛṣiṁ rāmastvaranniva sasaṁbhramaḥ ।mānayiṣyan sa mānārhaṁ niścakrāma niveśanāt ॥2-5-6॥",
+      "translations": {
+        "english": "Seeing the venerable sage(Vasitha) arrive, Rama quickly came out of his abode in great excitement to receive him with honour.",
+        "hindi": "राम को भरत ही का इतना भारी खटका क्यों है ? लक्ष्मण और शात्रघ भी तो राज्य के स्वत्वाधिकारी हैं। इसके समाधान में मन्धरा कहती है ) लक्ष्मण जी सब प्रकार से श्रीराम चन्द्र के अनु- वर्ती अथीत्‌ आज्ञाकारी हैं ( अथोत्‌ लक्ष्मण चू नहीं कर सकते ) । शत्रुघ्न जी उसी प्रकार भरत के सर्वेथा अनुवर्ती हैं, जिस प्रकार लक्ष्मण जी श्रीरामचन्द्र जी के । ( अतः जब भरत जी को श्रीराम मारेंगे तब शत्रुन्न भी उनका साथ देने पर अवश्य मारे जायेंगे । अतः श्रीरामचन्द्र जी के प्रतिस्पर्धी केवल मरत हैं )",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 5,
+      "verse": 7,
+      "sloka": "अभ्येत्य त्वरमाणश्च रथाभ्याशं मनीषिणः ।ततोऽवतारयामास परिगृह्य रथात्स्वयम् ॥२-५-७॥",
+      "transliteration": "abhyetya tvaramāṇaśca rathābhyāśaṁ manīṣiṇaḥ ।tato'vatārayāmāsa parigṛhya rathātsvayam ॥2-5-7॥",
+      "translations": {
+        "english": "Hastening with rapid strides, Rama approached the chariot of the sagacious Vasistha and personally helped him alight from the chariot.",
+        "hindi": "फिर उत्पत्ति के क्रमानुसार भरत ही को राज्य निलना चाहिए t यदि राञ्यक्रम का त्याग किया जाय तो, इस क्रम से भी राज्य: . भरत ही को मिलना उचित है.",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 5,
+      "verse": 8,
+      "sloka": "सचैनं प्रश्रितं दृष्ट्वा सं भाष्याभिप्रसाद्य च ।प्रियार्हं हर्षयन् राममित्युवाच पुरोहितः ॥२-५-८॥",
+      "transliteration": "sacainaṁ praśritaṁ dṛṣṭvā saṁ bhāṣyābhiprasādya ca ।priyārhaṁ harṣayan rāmamityuvāca purohitaḥ ॥2-5-8॥",
+      "translations": {
+        "english": "The family priest Vasistha also, having gratified him by enquiring about his welfare, said thus to Rama, who was humble and lovable:",
+        "hindi": "श्रीरामचन्द्र जी राजनीति-विशारद हैं । परम चतुर तथा 'अमयानुसार तुरन्त कार्य करने. बाले हे । अतः भरत को रामचन्द्र भय समभ-में भयभीत हो कॉप रही हूँ । ( अथीत्‌ राम चतुर हैं और भरत बुद्ध हैं, अतः भरत को राम सहज में पराजित. कर सकते हैं । )",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 5,
+      "verse": 9,
+      "sloka": "प्रसन्नस्ते पिता राम यौवराज्यमवाप्स्यसि ।उपवासं भवानद्य करोतु सह सीतया ॥२-५-९॥",
+      "transliteration": "prasannaste pitā rāma yauvarājyamavāpsyasi ।upavāsaṁ bhavānadya karotu saha sītayā ॥2-5-9॥",
+      "translations": {
+        "english": "O Rama, welldisposed towards you, your father will declare you heirapparent. Do undertake fast today, along with Sita.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 5,
+      "verse": 10,
+      "sloka": "प्रातस्त्वामभिषेक्ता हि यौवराज्ये नराधिपः ।पिता दशरथः प्रीत्या ययातिं नहुषो यथा ॥२-५-१०॥",
+      "transliteration": "prātastvāmabhiṣektā hi yauvarājye narādhipaḥ ।pitā daśarathaḥ prītyā yayātiṁ nahuṣo yathā ॥2-5-10॥",
+      "translations": {
+        "english": "Your father, king Dasaratha, will be pleased to coronate you as heirapparent early tomorrow morning as Nahusa did (to his son) Yayati.",
+        "hindi": "तुझे उस कोसल्या के सामने, जो सब प्रथ्वी की स्वामिनी. होगी ओर उसके सब शत्रु मारे जायेंगे, हाथ जोड़ कर दासी . की तरह खड़ा रहना पडेगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 5,
+      "verse": 11,
+      "sloka": "इत्युक्त्वा स तदा राम मुपवासं यतव्रतम् ।मन्त्रवत् कारयामास वैदेह्या सहितं मुनिः ॥२-५-११॥",
+      "transliteration": "ityuktvā sa tadā rāma mupavāsaṁ yatavratam ।mantravat kārayāmāsa vaidehyā sahitaṁ muniḥ ॥2-5-11॥",
+      "translations": {
+        "english": "The ascetic (Vasistha) having thus spoken to Rama made him undertake fast along with Sita in accompaniment with sacred hymns.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 5,
+      "verse": 12,
+      "sloka": "ततो यथावद्रामेण स राज्ञो गुरुरर्चितः ।अभ्यनुज्ञाप्य काकुत्थ्सं ययौ रामनिवेशनात् ॥२-५-१२॥",
+      "transliteration": "tato yathāvadrāmeṇa sa rājño gururarcitaḥ ।abhyanujñāpya kākutthsaṁ yayau rāmaniveśanāt ॥2-5-12॥",
+      "translations": {
+        "english": "Thereafter, Vasistha, preceptor of the king duly honoured by the descendant of Kakutstha (Rama) left his abode.",
+        "hindi": "इससे राम जी की स्त्री तथा उसकी सखियाँ परमानन्दित होगी: और भरत को राज्य न मिलने से अथवा उनका प्रभाब नष्ट होने पर तेरी पुत्रवधू को भी बड़ा दुःख होगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 5,
+      "verse": 13,
+      "sloka": "सुहृद्भिस्तत्र रामोऽपि सहासीनः प्रियंवदैः ।सभाजितो विवेशाथ ताननुज्ञाप्य सर्वशः ॥२-५-१३॥",
+      "transliteration": "suhṛdbhistatra rāmo'pi sahāsīnaḥ priyaṁvadaiḥ ।sabhājito viveśātha tānanujñāpya sarvaśaḥ ॥2-5-13॥",
+      "translations": {
+        "english": "Rama also sat for a while in the company of his sweettongued friends and duly honoured by them in every way took leave of them and entered his apartment.",
+        "hindi": "मन्थरा को इस प्रकार बड़ी प्रसन्नता कें साथ ऐसे वचन कहते ( अथौत राम की निन्दा करते) हुए देख, देवी केकेयी श्रीराम” चन्द्र के गुणों का बखान कर कहने लगी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 5,
+      "verse": 14,
+      "sloka": "हृष्टनारीनरयुतं रामवेश्म तदा बबौ ।यथा मत्तद्विजगणं प्रपुल्लनलिनं सरः ॥२-५-१४॥",
+      "transliteration": "hṛṣṭanārīnarayutaṁ rāmaveśma tadā babau ।yathā mattadvijagaṇaṁ prapullanalinaṁ saraḥ ॥2-5-14॥",
+      "translations": {
+        "english": "﻿ The residence of Rama, full of cheerful men and women, looked splendid like a lake with fullblown lotuses flocked by multitudes of intoxicated birds.",
+        "hindi": "श्रीरामचन्द्र अत्यन्त घर्मज्ञ, गुरुओं से सुन्दर शिक्षा पाए हुए, बड़े कृतज्ञ, सत्यवादी, परम पवित्रता से रहने बाले और महाराज के ज्येष्ठ पुत्र हैं। अतएव सब प्रकार से वे ही यौवराज्य पाने के: योग्य हैं.",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 5,
+      "verse": 15,
+      "sloka": "स राजभवनप्रख्यात्तस्माद्रामनिवेशनात् ।निर्गत्य ददृशे मार्गं वसिष्ठो जनसंवृतम् ॥२-५-१५॥",
+      "transliteration": "sa rājabhavanaprakhyāttasmādrāmaniveśanāt ।nirgatya dadṛśe mārgaṁ vasiṣṭho janasaṁvṛtam ॥2-5-15॥",
+      "translations": {
+        "english": "Vasistha thereafter emerged from the abode of Rama resembling a royal palace and beheld the highways filled with people.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 5,
+      "verse": 16,
+      "sloka": "बृन्दबृन्दैरयोध्यायां राजमार्गाः समन्ततः ।बभूवुरभिसंबाधाः कुतूहलजनैर्वृताः ॥२-५-१६॥",
+      "transliteration": "bṛndabṛndairayodhyāyāṁ rājamārgāḥ samantataḥ ।babhūvurabhisaṁbādhāḥ kutūhalajanairvṛtāḥ ॥2-5-16॥",
+      "translations": {
+        "english": "The royal highways in the city of Ayodhya were jammed on all sides with groups of curious people.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 5,
+      "verse": 17,
+      "sloka": "जनबृन्दोर्मिसंघर्षहर्षस्वनवतस्तदा ।बभूव राजमार्गस्य सागरस्येव निस्वनः ॥२-५-१७॥",
+      "transliteration": "janabṛndormisaṁgharṣaharṣasvanavatastadā ।babhūva rājamārgasya sāgarasyeva nisvanaḥ ॥2-5-17॥",
+      "translations": {
+        "english": "The highways resembled the sea and the exultation of the multitudes, the roar that emanated from the clashing of waves.",
+        "hindi": "हे मन्थरे ! तू इस उत्सव के समय जिससे सब का कल्याण होगा, क्यों जली जाती है ?",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 5,
+      "verse": 18,
+      "sloka": "सिक्तसंमृष्टरथ्या हि तदहर्वनमालिनी ।आसीदयोध्या नगरी समुच्छ्रितगृहध्वजा ॥२-५-१८॥",
+      "transliteration": "siktasaṁmṛṣṭarathyā hi tadaharvanamālinī ।āsīdayodhyā nagarī samucchritagṛhadhvajā ॥2-5-18॥",
+      "translations": {
+        "english": "On that day, the thoroughfares of the city of Ayodhya, surrounded with (pleasure) gardens, were sprinkled with water and swept. The flags (on the top) of the houses were raised high.",
+        "hindi": "¦; | सुकको जैसे भरत प्यारे हैं, वैसे ही राम भी हैं। चे तो कौसल्या से बढ़ कर मेरी ही सेवा-शश्र,षा करते हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 5,
+      "verse": 19,
+      "sloka": "तदा ह्ययोध्यानिलयः सस्त्रीबालाबलो जनः ।रामाभिषेकमाकाञ्क्षन्नाकाण्क्षदुदयं रवेः ॥२-५-१९॥",
+      "transliteration": "tadā hyayodhyānilayaḥ sastrībālābalo janaḥ ।rāmābhiṣekamākāñkṣannākāṇkṣadudayaṁ raveḥ ॥2-5-19॥",
+      "translations": {
+        "english": "﻿ Then all the people living in Ayodhya including women, children and aged alike wishing to see the coronation of Rama eagerly waited for the sunrise.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 5,
+      "verse": 20,
+      "sloka": "प्रजालङ्कारभूतं च जनस्यानन्दवर्धनम् ।उत्सुकोऽभूज्जनो द्रष्टुं तमयोध्यामहोत्सवम् ॥२-५-२०॥",
+      "transliteration": "prajālaṅkārabhūtaṁ ca janasyānandavardhanam ।utsuko'bhūjjano draṣṭuṁ tamayodhyāmahotsavam ॥2-5-20॥",
+      "translations": {
+        "english": "﻿ People were anxious to witness that great festival of Ayodhya which was to them (precious) like an ornament and a source of immense joy.",
+        "hindi": "कैकेयी की बातें सुन मन्थरा बहुत दुःखी हुई ओर लंबी साँस ले केकेयी से यह बोली",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 5,
+      "verse": 21,
+      "sloka": "एवं तं जनसंबाधं राजमार्गं पुरोहितः ।व्यूहन्निव जनौघं तं शनैराजकुलं ययौ ॥२-५-२१॥",
+      "transliteration": "evaṁ taṁ janasaṁbādhaṁ rājamārgaṁ purohitaḥ ।vyūhanniva janaughaṁ taṁ śanairājakulaṁ yayau ॥2-5-21॥",
+      "translations": {
+        "english": "The priest (Vasistha), beholding the overcrowded highway forced his passage through the crowds of men dividing them into two tracts and slowly entered the royal palace.",
+        "hindi": "अनर्थं को अथ समभने वाली अरी मूखो | शोक के महा“ सागर में बूड़ती हुई भी तू अपने को नहीं समझती",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 5,
+      "verse": 22,
+      "sloka": "सिताभ्रशिखरप्रख्यं प्रासादमधिरुह्य सः ।समीयाय नरेन्द्रेण शक्रेणेव बृहस्पतिः ॥२-५-२२॥",
+      "transliteration": "sitābhraśikharaprakhyaṁ prāsādamadhiruhya saḥ ।samīyāya narendreṇa śakreṇeva bṛhaspatiḥ ॥2-5-22॥",
+      "translations": {
+        "english": "Having ascended the royal palace resembling the peak of a mountain covered with white clouds, Vasistha approached the king like Brihaspati meeting Indra.",
+        "hindi": "जब रामचन्द्र राजा होंगे तब उनके पीछे न 2 होगा (या भरत ९ ) भरत तो राज्य से वञ्चित हो रहेंगे अथवा भरत राजब्रंश से भ्रष्ट हो जायेगे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 5,
+      "verse": 23,
+      "sloka": "तमागतमभिप्रेक्ष्य हित्वा राजासनं नृपः ।पप्रच्छ स च तस्मै तत्कृतमित्यभ्यवेदयत् ॥२-५-२३॥",
+      "transliteration": "tamāgatamabhiprekṣya hitvā rājāsanaṁ nṛpaḥ ।papraccha sa ca tasmai tatkṛtamityabhyavedayat ॥2-5-23॥",
+      "translations": {
+        "english": "On seeing Vasistha the king descended from the throne and enquired whether he had performed the mission to which the ascetic replied affirmatively.",
+        "hindi": "राजा के सब पुत्र कहीं राजसिहासन पर नहीं वैठते ओर “यदि कहीं वैठ।ए जाते होते तो बड़। अनथ होता",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 5,
+      "verse": 24,
+      "sloka": "तेन चैव तदा तुल्यं सहासीनाः सभासदः ।आसनेभ्यः समुत्तस्थुः पूजयन्तः पुरोहितम् ॥२-५-२४॥",
+      "transliteration": "tena caiva tadā tulyaṁ sahāsīnāḥ sabhāsadaḥ ।āsanebhyaḥ samuttasthuḥ pūjayantaḥ purohitam ॥2-5-24॥",
+      "translations": {
+        "english": "All those present in the assembly with him (the king) also got up from their seats as he (Dasaratha) did and paid their obeisance to Vasistha.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 5,
+      "verse": 25,
+      "sloka": "गुरुणा त्वभ्यनुज्ञातो मनिजौघं विसृज्य तम् ।विवेशान्तःपुरं राजा सिंहो गिरिगुहामिव ॥२-५-२५॥",
+      "transliteration": "guruṇā tvabhyanujñāto manijaughaṁ visṛjya tam ।viveśāntaḥpuraṁ rājā siṁho giriguhāmiva ॥2-5-25॥",
+      "translations": {
+        "english": "The king then, dully permitted by the preceptor, disposed the assembly of men and stepped into his inner apartment, like a lion entering the cave of a mountain.",
+        "hindi": "हे कैकेयी ! इसी लिए राजा लोग बड़े पुत्र को राज्यशासन का भार सौंपते हैं । ( हाँ, उस दशा में जब बड़ा बेटा गुणवान नहीं होता और ) छो छोटा बेटा गुणवान हो ः वा हे 2 बोट न्‌ होता है तब बह होता है। \"ठु राज्य रिया एक ही को जाता है जि न ५ FY न्त्‌ र ह असावत्यन्तनिभग्नस्तव पुत्रो भविष्यति | अन तय सं खे* श्च व्य 'उवत्सुखभ्यश्च॒ राजबंशाञ्च वत्सले",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 5,
+      "verse": 26,
+      "sloka": "तमग्र्यवेष्प्रमदाजनाकुलं ।महेन्द्रवेश्मप्रतिमं निवेशनम् ।विदीपयंश्चारु विवेश पार्थिवः ।शशीव तारागणसंकुलं नभः ॥२-५-२६॥",
+      "transliteration": "tamagryaveṣpramadājanākulaṁ ।mahendraveśmapratimaṁ niveśanam ।vidīpayaṁścāru viveśa pārthivaḥ ।śaśīva tārāgaṇasaṁkulaṁ nabhaḥ ॥2-5-26॥",
+      "translations": {
+        "english": "The king entered the inner apartment thronged with excellently attired women which looked like the palace of Mahendra. He resembled the beautiful Moon that illuminates the sky crowded with stars. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे पञ्चमस्सर्गः।। Thus ends the fifth sarga of Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+        "hindi": "य फे कारण ही शत्रुघ्न भी भरत के साथ चले गए । क्योंकि जैसे लक्ष्मण राम के अनुयायी हैं वैसे ही शत्रुन्न भरत के अनुयायी हैं",
+        "telugu": ""
+      }
+    }
+  ]
+}

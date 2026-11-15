@@ -1,0 +1,485 @@
+{
+  "kanda": 6,
+  "kanda_name": "Yuddha Kanda",
+  "kanda_name_sanskrit": "युद्धकाण्डम्",
+  "sarga": 111,
+  "verses_count": 34,
+  "verses": [
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 111,
+      "verse": 1,
+      "sloka": "अथ संस्मारयामास राघवं मातलिस्तदा ।अजानन्निव किं वीर त्वमेनमनुवर्तसे ।। ६.१११.१ ।।",
+      "transliteration": "atha saṁsmārayāmāsa rāghavaṁ mātalistadā ।ajānanniva kiṁ vīra tvamenamanuvartase ।। 6.111.1 ।।",
+      "translations": {
+        "english": "Matali reminded Rama in this way,\" O heroic Rama, why are you doing this way, as if you do not know?\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 111,
+      "verse": 2,
+      "sloka": "विसृजास्मै वधाय त्वमस्त्रं पैतामहं प्रभो ।विनाशकालः कथितो यः सुरैः सो ऽद्य वर्तत ।। ६.१११.२ ।।",
+      "transliteration": "visṛjāsmai vadhāya tvamastraṁ paitāmahaṁ prabho ।vināśakālaḥ kathito yaḥ suraiḥ so 'dya vartata ।। 6.111.2 ।।",
+      "translations": {
+        "english": "\"O king! As spoken by Suras, the destruction of Ravana has come now. Use the missile of the creator Brahma.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 111,
+      "verse": 3,
+      "sloka": "ततः संस्मारितो रामस्तेन वाक्येन मातलेः ।जग्राह सशरं दीप्तं निश्वसन्तमिवोरगम् ।। ६.१११.३ ।।",
+      "transliteration": "tataḥ saṁsmārito rāmastena vākyena mātaleḥ ।jagrāha saśaraṁ dīptaṁ niśvasantamivoragam ।। 6.111.3 ।।",
+      "translations": {
+        "english": "Suggested and reminded by Matali, valiant Sri Rama seized hold of the wonderful glowing arrow, bestowed by Brahma, and given by the divine to sage Agastya first. Breathing heavily, like a serpent, Rama seized the arrow.",
+        "hindi": "गधे बड़ी घुरी तरह रेंकने लगे। आकाश में रूखे बादल, उत्पातसूचक गर्जन करते हुए चारों ओर घूमने लगे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 111,
+      "verse": 4,
+      "sloka": "यमस्मै प्रथमं प्रादादगस्त्यो भगवानृषिः ।ब्रह्मदत्तं महाबाणममोघं युधि वीर्यवान् ।। ६.१११.४ ।।",
+      "transliteration": "yamasmai prathamaṁ prādādagastyo bhagavānṛṣiḥ ।brahmadattaṁ mahābāṇamamoghaṁ yudhi vīryavān ।। 6.111.4 ।।",
+      "translations": {
+        "english": "Suggested and reminded by Matali, valiant Sri Rama seized hold of the wonderful glowing arrow, bestowed by Brahma, and given by the divine to sage Agastya first. Breathing heavily, like a serpent, Rama seized the arrow.",
+        "hindi": "श्रीरामचन्द्र जी को क्रुद्ध और इन सुदारुण उत्पातों को देख, समस्त प्राणी त्रस्त हो गए ओर रावण के सन में भी भयका सख्ार हुआ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 111,
+      "verse": 5,
+      "sloka": "ब्रह्मणा निर्मितं पूर्वमिन्द्रार्थममितौजसा ।दत्तं सुरपतेः पूर्वं त्रिलोकजयकाङ्क्षिणः ।। ६.१११.५ ।।",
+      "transliteration": "brahmaṇā nirmitaṁ pūrvamindrārthamamitaujasā ।dattaṁ surapateḥ pūrvaṁ trilokajayakāṅkṣiṇaḥ ।। 6.111.5 ।।",
+      "translations": {
+        "english": "Earlier, this powerful arrow was created for Indra's sake by Brahma and was bestowed to Indra, the king of gods, who was desirous of conquering the three worlds.",
+        "hindi": "आकाश में विमान में बैठे हुए देवता, गन्धर्वे, महोरग, ऋषि- दानव, दैत्य, गरुड़ तथा अन्य आकाशचारी जीव",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 111,
+      "verse": 6,
+      "sloka": "यस्य वाजेषु पवनः फले पावकभास्करौ ।शरीरमाकाशमयं गौरवे मेरुमन्दरौ ।। ६.१११.६ ।।",
+      "transliteration": "yasya vājeṣu pavanaḥ phale pāvakabhāskarau ।śarīramākāśamayaṁ gaurave merumandarau ।। 6.111.6 ।।",
+      "translations": {
+        "english": "The wind god presided over its feathers, the fire god and the Sun god presided over its head, its energy was presided over by Meru and Mandara mountains and its weight by the sky.",
+        "hindi": "विविध प्रकार के भयंकर अखों-शाख्नों से लड़ने वाले उन दोनों शूरवीरों के उस लोक-प्रलयकारी महायुद्ध को देख रहे थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 111,
+      "verse": 7,
+      "sloka": "जाज्वल्यमानं वपुषा सुपुङ्खं हेमभूषितम् ।तेजसा सर्वभूतानां कृतं भास्करवर्चसम् ।। ६.१११.७ ।।",
+      "transliteration": "jājvalyamānaṁ vapuṣā supuṅkhaṁ hemabhūṣitam ।tejasā sarvabhūtānāṁ kṛtaṁ bhāskaravarcasam ।। 6.111.7 ।।",
+      "translations": {
+        "english": "Its form was shining with feathers, decked with gold, splendid with all elements and brilliant like the sun.",
+        "hindi": "इ हद्व: ता वती १ विग्रहपाग ता:--विग्र हयुद्ध द्रष्टुमागताः । ( गो० ) था | बह बडा पैना आर बडा भयंकर था। ११२६ युद्धकाण्डे जो देवता और दैत्य श्रीरामचन्द्र और राण का युद्ध देखने आए थे वे उस महायुद्ध को देख, बड़े अनुराग ओर हषं से जयजयकार बोलते थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 111,
+      "verse": 8,
+      "sloka": "सधूममिव कालाग्निं दीप्तमाशीविषं यथा ।परनागाश्ववृन्दानां भेदनं क्षिप्रकारिणम् ।। ६.१११.८ ।।",
+      "transliteration": "sadhūmamiva kālāgniṁ dīptamāśīviṣaṁ yathā ।paranāgāśvavṛndānāṁ bhedanaṁ kṣiprakāriṇam ।। 6.111.8 ।।",
+      "translations": {
+        "english": "Like fire at the time of dissolution of the universe, burning like venomous serpent, capable of splitting hosts of enemy, men, elephants, and horses and quick in action.",
+        "hindi": "जो दैत्य वहाँ आए ईए थे वे रावण का जयजयकार बोल रहे थे, और जो देवता वहाँ थे वे बार बार “श्रीरामचन्द्र जी का जय” “श्रीरामचन्द्र जी का जय” पुकार रहे थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 111,
+      "verse": 9,
+      "sloka": "द्वाराणां परिघाणां च गिरीणामपि भेदनम् ।नानारुधिरसिक्ताङ्गं मेदोदिग्धं सुदारुणम् ।। ६.१११.९ ।।",
+      "transliteration": "dvārāṇāṁ parighāṇāṁ ca girīṇāmapi bhedanam ।nānārudhirasiktāṅgaṁ medodigdhaṁ sudāruṇam ।। 6.111.9 ।।",
+      "translations": {
+        "english": "Capable of splitting gateways, iron bars, even mountains, smeared with blood and brain marrow of various Asuras, of dreadful appearance.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 111,
+      "verse": 10,
+      "sloka": "वज्रसारं महानादं नानासमितिदारणम् ।सर्ववित्रासनं भीमं श्वसन्तमिव पन्नगम् ।। ६.१११.१० ।।",
+      "transliteration": "vajrasāraṁ mahānādaṁ nānāsamitidāraṇam ।sarvavitrāsanaṁ bhīmaṁ śvasantamiva pannagam ।। 6.111.10 ।।",
+      "translations": {
+        "english": "Strong as thunderbolt, loud sounding, dispersing every deceitful kind of army, frightening to all kinds of beings, hissing like a serpent.",
+        "hindi": "वह हथियार वज्ञ की तरह कठोर बड़ा भारी शब्द करने बाला ओर पर्वत के समान था, जिसे देखने. ८ या, खने से उत्पन्न हो जाता था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 111,
+      "verse": 11,
+      "sloka": "कङ्कगृध्रवलानां च गोमायुगणरक्षसाम् ।नित्यं भक्ष्यप्रदं युद्धे यमरूपं भयावहम् ।। ६.१११.११ ।।",
+      "transliteration": "kaṅkagṛdhravalānāṁ ca gomāyugaṇarakṣasām ।nityaṁ bhakṣyapradaṁ yuddhe yamarūpaṁ bhayāvaham ।। 6.111.11 ।।",
+      "translations": {
+        "english": "In war, it provides food for buzzards, vultures, and herons, and also jackals and Rakshasas, causing terror in the form of Yama (God of death).",
+        "hindi": "वह प्रलयकालीन सधूम, आग के ढेर की रा : इत्‌ त . उसका प्रहार कोई सह नहीं सकता था। यहा तक कि काल के हि था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 111,
+      "verse": 12,
+      "sloka": "नन्दनं वानरेन्द्राणां रक्षसामवसादनम् ।वाजितं विविधैर्वाजैश्चारुचित्रैर्गरुत्मतः ।। ६.१११.१२ ।।",
+      "transliteration": "nandanaṁ vānarendrāṇāṁ rakṣasāmavasādanam ।vājitaṁ vividhairvājaiścārucitrairgarutmataḥ ।। 6.111.12 ।।",
+      "translations": {
+        "english": "Provides delight for Vanara chiefs, causes destruction of Rakshasas, provides picturesque plumes of eagles to arrows.",
+        "hindi": "और सब जीवधारियों को त्रस्त एवं विदीण करने वाला ओर छेदने वाला था । रावण ने रोष से भभक उस शूल को उठाया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 111,
+      "verse": 13,
+      "sloka": "तमुत्तमेषुं लोकानामिक्ष्वाकुभयनाशनम् ।द्विषतां कीर्तिहरणं प्रहर्षकरमात्मनः ।। ६.१११.१३ ।।",
+      "transliteration": "tamuttameṣuṁ lokānāmikṣvākubhayanāśanam ।dviṣatāṁ kīrtiharaṇaṁ praharṣakaramātmanaḥ ।। 6.111.13 ।।",
+      "translations": {
+        "english": "The great arrow, was a dispeller of fear of enemies to Ikshvaku kings, which takes away the glory of enemies, delighting to oneself, chanting vedas as per tradition, charging with mystic power, mighty strong Rama fitted to the bow.",
+        "hindi": "परम क्रोध में भर बलवान्‌ रावण ने उप्र शूल को बीच में पकड़ा । उस समय समरभूमि में रावण के पास बहुत से शूरवीर राक्षस आ कर इकट्टे हो गए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 111,
+      "verse": 14,
+      "sloka": "अभिमन्त्र्य ततो रामस्तं महेषुं महाबलः ।वेदप्रोक्तेन विधिना सन्दधे कार्मुके बली ।। ६.१११.१४ ।।",
+      "transliteration": "abhimantrya tato rāmastaṁ maheṣuṁ mahābalaḥ ।vedaproktena vidhinā sandadhe kārmuke balī ।। 6.111.14 ।।",
+      "translations": {
+        "english": "The great arrow, was a dispeller of fear of enemies to Ikshvaku kings, which takes away the glory of enemies, delighting to oneself, chanting vedas as per tradition, charging with mystic power, mighty strong Rama fitted to the bow.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 111,
+      "verse": 15,
+      "sloka": "तस्मिन् सन्धीयमाने तु राघवेण शरोत्तमे ।सर्वभूतानि वित्रेसुश्चचाल च वसुन्धरा ।। ६.१११.१५ ।।स रावणाय सङ्क्रुद्धो भृशमायम्य कार्मुकम् ।चिक्षेप परमायत्तस्तं शरं मर्मघातिनम् ।। ६.१११.१६ ।।",
+      "transliteration": "tasmin sandhīyamāne tu rāghaveṇa śarottame ।sarvabhūtāni vitresuścacāla ca vasundharā ।। 6.111.15 ।।sa rāvaṇāya saṅkruddho bhṛśamāyamya kārmukam ।cikṣepa paramāyattastaṁ śaraṁ marmaghātinam ।। 6.111.16 ।।",
+      "translations": {
+        "english": "As Raghava started fixing his excellent arrow, all beings got terrified and the earth shook.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 111,
+      "verse": 16,
+      "sloka": "स वज्र इव दुर्धर्षो वज्रिबाहुविसर्जितः ।कृतान्त इव चावार्यो न्यपतद्रावणोरसि ।। ६.१११.१७ ।।",
+      "transliteration": "sa vajra iva durdharṣo vajribāhuvisarjitaḥ ।kṛtānta iva cāvāryo nyapatadrāvaṇorasi ।। 6.111.17 ।।",
+      "translations": {
+        "english": "Rama, provoked by anger, stretched the bow to full length, very well prepared, released the arrow on Ravana, which was capable of tearing into the vital parts.",
+        "hindi": "युद्ध में वाहवाही चाहने वाले हे राम! आज तक यद्ध में जितने शूर राक्षस तेरे हाथ से मारे गए हैं, आज तुमे बार कर मैं तुझे उन्हींके समान कर दूँगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 111,
+      "verse": 17,
+      "sloka": "स विसृष्टो महावेगः शरीरान्तकरः शरः ।बिभेद हृदयं तस्य रावणस्य दुरात्मनः ।। ६.१११.१८ ।।",
+      "transliteration": "sa visṛṣṭo mahāvegaḥ śarīrāntakaraḥ śaraḥ ।bibheda hṛdayaṁ tasya rāvaṇasya durātmanaḥ ।। 6.111.18 ।।",
+      "translations": {
+        "english": "Like the thunderbolt hurled by the arm of Indra, difficult to obstruct, capable of bringing life to an end, that arrow released by Rama penetrated into Ravana's chest.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 111,
+      "verse": 18,
+      "sloka": "रुधिराक्तः स वेगेन जीवितान्तकरः शरः ।रावणस्य हरन् प्राणान् विवेश धरणीतलम् ।। ६.१११.१९ ।।",
+      "transliteration": "rudhirāktaḥ sa vegena jīvitāntakaraḥ śaraḥ ।rāvaṇasya haran prāṇān viveśa dharaṇītalam ।। 6.111.19 ।।",
+      "translations": {
+        "english": "Loosed at high velocity, that arrow capable of putting an end to the body, split as under the heart of evilminded Ravana",
+        "hindi": "हे रास ! देख, यह भेरा बज्र के समान कठोर शूल है । क्रोध में भर में इसे तेरे ऊपर चलाता हूँ । यह शूल भ्राता सहित तेरे प्राणों को हरण करेगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 111,
+      "verse": 19,
+      "sloka": "स शरो रावणं हत्वा रुधिरार्दीकृतच्छविः ।कृतकर्मा निभृतवत् स्वतूणीं पुनरागमत् ।। ६.१११.२० ।।",
+      "transliteration": "sa śaro rāvaṇaṁ hatvā rudhirārdīkṛtacchaviḥ ।kṛtakarmā nibhṛtavat svatūṇīṁ punarāgamat ।। 6.111.20 ।।",
+      "translations": {
+        "english": "That arrow which was capable of putting an end to the body took out Ravana's life and smeared with blood, it entered the earth.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 111,
+      "verse": 20,
+      "sloka": "तस्य हस्ताद्धतस्याशु कार्मुकं तत् ससायकम् ।निपपात सह प्राणैर्भ्रश्यमानस्य जीवितात् ।। ६.१११.२१ ।।",
+      "transliteration": "tasya hastāddhatasyāśu kārmukaṁ tat sasāyakam ।nipapāta saha prāṇairbhraśyamānasya jīvitāt ।। 6.111.21 ।।",
+      "translations": {
+        "english": "That arrow of Rama, on killing Ravana, soaked in blood, having accomplished the task quietly reentered its quiver.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 111,
+      "verse": 21,
+      "sloka": "गतासुर्भीमवेगस्तु नैर्ऋतेन्द्रो महाद्युतिः ।पपात स्यन्दनाद्भूमौ वृत्रो वज्रहतो यथा ।। ६.१११.२२ ।।",
+      "transliteration": "gatāsurbhīmavegastu nairṛtendro mahādyutiḥ ।papāta syandanādbhūmau vṛtro vajrahato yathā ।। 6.111.22 ।।",
+      "translations": {
+        "english": "Thus, when Ravana was killed and lost his life, the bow and arrow in his hand also fell along with his life breath.",
+        "hindi": "रावण के हाथ से छूटा हुआ वह शूल आठ घंटों सहित घनघनाता हुआ आकाश में बिजली की तरह शोभित होने लगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 111,
+      "verse": 22,
+      "sloka": "तं दृष्ट्वा पतितं भूमौ हतशेषा निशाचराः ।हतनाथा भयत्रस्ताः सर्वतः सम्प्रदुद्रुवुः ।। ६.१११.२३ ।।",
+      "transliteration": "taṁ dṛṣṭvā patitaṁ bhūmau hataśeṣā niśācarāḥ ।hatanāthā bhayatrastāḥ sarvataḥ sampradudruvuḥ ।। 6.111.23 ।।",
+      "translations": {
+        "english": "The king of Rakshasas, who possessed terrific speed and courage, having lost life, fell on earth like Vrttra struck down by thunderbolt.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 111,
+      "verse": 23,
+      "sloka": "नर्दन्तश्चाभिपेतुस्तान् वानरा द्रुमयोधिनः ।। ६.१११.२४ ।।",
+      "transliteration": "nardantaścābhipetustān vānarā drumayodhinaḥ ।। 6.111.24 ।।",
+      "translations": {
+        "english": "Seeing their Lord killed and fallen on the ground, the leftover night rangers fled all over in fear.",
+        "hindi": "श्रीरामचन्द्र जी ने उस शूल को वाण चला कर, उसी प्रकार रोकना चाहा, जिस प्रकार इन्द्र जलवर्षं कर धधकती हुई प्रलय की आग को बुकाते हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 111,
+      "verse": 24,
+      "sloka": "दशग्रीववधं दृष्ट्वा विजयं राघवस्य च ।अर्दिता वानरैर्हृष्टैर्लङ्कामभ्यपतन् भयात् ।गताश्रयत्वात् करुणैर्बाष्पप्रस्रवणैर्मुखैः ।। ६.१११.२५ ।।",
+      "transliteration": "daśagrīvavadhaṁ dṛṣṭvā vijayaṁ rāghavasya ca ।arditā vānarairhṛṣṭairlaṅkāmabhyapatan bhayāt ।gatāśrayatvāt karuṇairbāṣpaprasravaṇairmukhaiḥ ।। 6.111.25 ।।",
+      "translations": {
+        "english": "Seeing Ravana killed, the Vanaras holding trees went roaming on all sides, feeling triumphant.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 111,
+      "verse": 25,
+      "sloka": "ततो विनेदुः संहृष्टा वानरा जितकाशिनः ।वदन्तो राघवजयं रावणस्य च तद्वधम् ।। ६.१११.२६ ।।",
+      "transliteration": "tato vineduḥ saṁhṛṣṭā vānarā jitakāśinaḥ ।vadanto rāghavajayaṁ rāvaṇasya ca tadvadham ।। 6.111.26 ।।",
+      "translations": {
+        "english": "The Rakshasas hurt by the Vanaras, lost battle and their king killed, were piteous and went towards Lanka in fear, eyes filled with tears.",
+        "hindi": "किन्तु रावण को उस विशाल शूल ने श्रीरामचन्द्र जी के चलाए हुए बाणों को उसी तरह जला कर भस्म कर डाला, जिस प्रकार ' आग पतङ्गों को भस्म कर डालती हे ॥२४) ८; र तान्‌ दृष्टा भस्मसाद्‌ भूताञ्शूलसंस्पश चूणितान्‌। सायकानन्तरिक्षस्थान्‌ राघव! क्रोधमाहरत्‌",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 111,
+      "verse": 26,
+      "sloka": "अथान्तरिक्षे व्यनदत् सौम्यस्त्रिदशदुन्दुभिः ।दिव्यगन्धवहस्तत्र मारुतः ससुखो ववौ ।। ६.१११.२७ ।।",
+      "transliteration": "athāntarikṣe vyanadat saumyastridaśadundubhiḥ ।divyagandhavahastatra mārutaḥ sasukho vavau ।। 6.111.27 ।।",
+      "translations": {
+        "english": "Then the Vanaras, feeling triumphant, got highly excited over Rama's victory and the death of Ravana, and shouted aloud in joy.",
+        "hindi": "तब तो रघुनन्दन श्रीरामचन्द्र जी ने अत्यन्त क्रुद्ध हो इन्द्र की बनाई ओर मातलि की लाई हुई शक्ति ( बर्छी ) उठाई",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 111,
+      "verse": 27,
+      "sloka": "निपपातान्तरिक्षाच्च पुष्पवृष्टिस्तदा भुवि ।किरन्ती राघवरथं दुरवापा मनोरमा ।। ६.१११.२८ ।।",
+      "transliteration": "nipapātāntarikṣācca puṣpavṛṣṭistadā bhuvi ।kirantī rāghavarathaṁ duravāpā manoramā ।। 6.111.28 ।।",
+      "translations": {
+        "english": "And then thirty drums of gods sounded in the sky. Divine fragrant pleasant breeze blew.",
+        "hindi": "जब बलवान ध्रीरामचन्द्र जी ने उसे हाथ में ले तोला तब उसमें लगी हुई घंटियों बड़े जोर से बजीं और उससे प्रलयकालींन उल्का के प्रकाश की तरह आकाश में उज्याला हो गया । अर्थात्‌ शक्ति सें इतनी चमक थी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 111,
+      "verse": 28,
+      "sloka": "राघवस्तवसंयुक्ता गगने ऽपि च शुश्रुवे ।साधु साध्विति वागग्र्या दैवतानां महात्मनाम् ।। ६.१११.२९ ।।",
+      "transliteration": "rāghavastavasaṁyuktā gagane 'pi ca śuśruve ।sādhu sādhviti vāgagryā daivatānāṁ mahātmanām ।। 6.111.29 ।।",
+      "translations": {
+        "english": "Then from heaven, a very pleasing shower of flowers, difficult to know from where, fell on Raghava's chariot covering it and dropped on the ground.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 111,
+      "verse": 29,
+      "sloka": "आविवेश महाहर्षो देवानां चारणैः सह ।रावणे निहते रौद्रे सर्वलोकभयङ्करे ।। ६.१११.३० ।।",
+      "transliteration": "āviveśa mahāharṣo devānāṁ cāraṇaiḥ saha ।rāvaṇe nihate raudre sarvalokabhayaṅkare ।। 6.111.30 ।।",
+      "translations": {
+        "english": "The gods too praised Sri Rama, the great soul saying, 'Well done, Well done', from the heaven, which was distinctly heard.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 111,
+      "verse": 30,
+      "sloka": "ततः सकामं सुग्रीवमङ्गदं च महाबलम् ।चकार राघवः प्रीतो हत्वा राक्षसपुङ्गवम् ।। ६.१११.३१ ।।",
+      "transliteration": "tataḥ sakāmaṁ sugrīvamaṅgadaṁ ca mahābalam ।cakāra rāghavaḥ prīto hatvā rākṣasapuṅgavam ।। 6.111.31 ।।",
+      "translations": {
+        "english": "When Ravana, a terror of all worlds was killed, the Charanas and Devas were filled with great joy.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 111,
+      "verse": 31,
+      "sloka": "ततः प्रजग्मुः प्रशमं मरुद्गणा दिशः प्रसेदुर्विमलं नभो ऽबवत् ।मही चकम्पे न हि मारुतो ववौ स्थिरप्रभश्चाप्यभवद्दिवाकरः ।। ६.१११.३२ ।।",
+      "transliteration": "tataḥ prajagmuḥ praśamaṁ marudgaṇā diśaḥ prasedurvimalaṁ nabho 'bavat ।mahī cakampe na hi māruto vavau sthiraprabhaścāpyabhavaddivākaraḥ ।। 6.111.32 ।।",
+      "translations": {
+        "english": "The foremost of the Rakshasas killed, Raghava was pleased and having fulfilled the desire of Sugriva, Angada, Vibheeshana, he made them happy.",
+        "hindi": "श्रारामचन्द्र जी के तीरों को मार से रावण का सारा शरीर घायल हो गया और उपके समस्त अङ्गां से रुधिर बहने लगा । युद्धभूमि में स्थित र!क्षसेन्द्र रावण डस समय पुष्पित अशोक वच्च को तरह देख पड़ने लगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 111,
+      "verse": 32,
+      "sloka": "ततस्तु सुग्रीवविभीषणादयः सुहृद्विशेषाः सहलक्ष्मणास्तदा ।समेत्य हृष्टा विजयेन राघवं रणे ऽभिरामं विधिना ह्यपूजयन् ।। ६.१११.३३ ।।",
+      "transliteration": "tatastu sugrīvavibhīṣaṇādayaḥ suhṛdviśeṣāḥ sahalakṣmaṇāstadā ।sametya hṛṣṭā vijayena rāghavaṁ raṇe 'bhirāmaṁ vidhinā hyapūjayan ।। 6.111.33 ।।",
+      "translations": {
+        "english": "Then the host of gods attained tranquil, quarters brightened, sky became clear, earth no longer shook, wind blew and even the Sun became steady and radiant.",
+        "hindi": "इति चतुरुत्तग्शनतम: सगः ॥ श्रीरामचन्द्र जी के बाणों से विद्ध हो राक्षसेन्द्र रात्रण रक्त से नहा उठा । उस समय बह्‌ उस लड़ाई से बढ़ुत दुःखी हुआ और ( अपनी उस दशा को देख ) वह अत्यन्त कद्र हुआ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 111,
+      "verse": 33,
+      "sloka": "स तु निहतरिपुः स्थिरप्रतिज्ञः स्वजनबलाभिवृतो रणे रराज ।रघुकुलनृपनन्दनो महौजास्त्रिदशगणैरभिसंवृतो यथेन्द्रः ।। ६.१११.३४ ।।",
+      "transliteration": "sa tu nihataripuḥ sthirapratijñaḥ svajanabalābhivṛto raṇe rarāja ।raghukulanṛpanandano mahaujāstridaśagaṇairabhisaṁvṛto yathendraḥ ।। 6.111.34 ।।",
+      "translations": {
+        "english": "Then all of them (hosts of gods) coming together, accompanied by Lakshmana, Sugriva, Vibheeshana, and Angada along with other friends, happy about the victory in the battle offered prayers to charming Sri Rama in accordance with tradition.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 111,
+      "verse": 34,
+      "sloka": "इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये श्रीमद्युद्धकाण्डे एकादशोत्तरशततमः सर्गः ।। १११ ।।",
+      "transliteration": "ityārṣe śrīmadrāmāyaṇe vālmīkīye ādikāvye śrīmadyuddhakāṇḍe ekādaśottaraśatatamaḥ sargaḥ ।। 111 ।।",
+      "translations": {
+        "english": "His foe slain, firm in his vow, surrounded by the host of his own people, the delight of the kings of Raghu's line shone upon that field as Indra shines encompassed by the hosts of the gods.",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

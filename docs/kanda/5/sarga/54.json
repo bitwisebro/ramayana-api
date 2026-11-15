@@ -1,0 +1,723 @@
+{
+  "kanda": 5,
+  "kanda_name": "Sundara Kanda",
+  "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+  "sarga": 54,
+  "verses_count": 51,
+  "verses": [
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 54,
+      "verse": 1,
+      "sloka": "वीक्षमाणस्ततो लङ्कां कपिः कृतमनोरथः ।वर्धमानसमुत्साहः कार्यशेषमचिन्तयत् ।। 5.54.1 ।।।।",
+      "transliteration": "vīkṣamāṇastato laṅkāṁ kapiḥ kṛtamanorathaḥ ।vardhamānasamutsāhaḥ kāryaśeṣamacintayat ।। 5.54.1 ।।।।",
+      "translations": {
+        "english": "With his objectives achieved, the monkey gazed at Lanka with growing zeal and pondered over the remaining work.",
+        "hindi": "उस समय हनुमान ादि महाबली वानरगण, महेन्द्राचल पर्वत के शिखर पर बैठे हुए प्रत्यन्त हषित हो रहे थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 54,
+      "verse": 2,
+      "sloka": "किं नु खल्ववशिष्टं मे कर्तव्यमिह साम्प्रतम् ।यदेषां रक्षसां भूयः सन्तापजननं भवेत् ।। 5.54.2 ।।।।",
+      "transliteration": "kiṁ nu khalvavaśiṣṭaṁ me kartavyamiha sāmpratam ।yadeṣāṁ rakṣasāṁ bhūyaḥ santāpajananaṁ bhavet ।। 5.54.2 ।।।।",
+      "translations": {
+        "english": "'Is there anything still left which can further torment the demons here?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 54,
+      "verse": 3,
+      "sloka": "वनं तावत् प्रमथितं प्रकृष्टा राक्षसा हताः ।बलैकदेशः क्षपितः शेषं दुर्गविनाशनम् ।। 5.54.3 ।।।।",
+      "transliteration": "vanaṁ tāvat pramathitaṁ prakṛṣṭā rākṣasā hatāḥ ।balaikadeśaḥ kṣapitaḥ śeṣaṁ durgavināśanam ।। 5.54.3 ।।।।",
+      "translations": {
+        "english": "'All the trees of the garden are broken, powerful demons have been killed, and a contingent of the army is destroyed. Only the destruction of the citadel is left.",
+        "hindi": "उन्होंने पूछा कि, हे हनुमान ! यह तो बतलाग्नो कि, तुमने सीताजी को कसे देखा मरौर वे वहाँ किस तरह रहती हें, कूरकर्मा रावण उनके साथ कैसा बर्ताव करता है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 54,
+      "verse": 4,
+      "sloka": "दुर्गे विनाशिते कर्म भवेत् सुखपरिश्रमम् ।अल्पयत्नेन कार्ये ऽस्मिन् मम स्यात् सफलः श्रमः ।। 5.54.4 ।।।।",
+      "transliteration": "durge vināśite karma bhavet sukhapariśramam ।alpayatnena kārye 'smin mama syāt saphalaḥ śramaḥ ।। 5.54.4 ।।।।",
+      "translations": {
+        "english": "'If the citadel is destroyed it would be a happy conclusion with a little effort. I can successfully complete my task.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 54,
+      "verse": 5,
+      "sloka": "यो ह्ययं मम लांगूले दीप्यते हव्यवाहनः ।अस्य सन्तर्पणं न्याय्यं कर्तुमेभिर्गृहोत्तमैः ।। 5.54.5 ।।।।",
+      "transliteration": "yo hyayaṁ mama lāṁgūle dīpyate havyavāhanaḥ ।asya santarpaṇaṁ nyāyyaṁ kartumebhirgṛhottamaiḥ ।। 5.54.5 ।।।।",
+      "translations": {
+        "english": "'It would be proper to satiate this fire at the end of my tail by offering it to these excellent mansions (I shall set fire to these houses).",
+        "hindi": "श्रीरामचन्द्रजी के पास चलने पर जो बात उनसे ही कहने की हो उसे छोड़ आप प्रोर सब हमसे कहें",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 54,
+      "verse": 6,
+      "sloka": "ततः प्रदीप्तलाङ्गूलः सविद्युदिव तोयदः ।भवनाग्रेषु लङ्काया विचचार महाकपिः ।। 5.54.6 ।।।।",
+      "transliteration": "tataḥ pradīptalāṅgūlaḥ savidyudiva toyadaḥ ।bhavanāgreṣu laṅkāyā vicacāra mahākapiḥ ।। 5.54.6 ।।।।",
+      "translations": {
+        "english": "The great Hanuman, with his burning tail wandered on tops of the mansions of Lanka, which looked like clouds with lightning.",
+        "hindi": "जाम्बवानजी के ऐसे वचन सुन, हनुमानजी के रोंगटे खड़े हो गए । वे सीता देवी को सीस नवा प्रणाम कर, कहने लगे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 54,
+      "verse": 7,
+      "sloka": "गृहाद् गृहं राक्षसानामुद्यानानि च वानरः ।वीक्षमाणो ह्यसन्त्रस्तः प्रासादांश्च चचार सः ।। 5.54.7 ।।।।",
+      "transliteration": "gṛhād gṛhaṁ rākṣasānāmudyānāni ca vānaraḥ ।vīkṣamāṇo hyasantrastaḥ prāsādāṁśca cacāra saḥ ।। 5.54.7 ।।।।",
+      "translations": {
+        "english": "The vanara moved from one house to the other, looking at the gardens and houses of the demons without fear.",
+        "hindi": "यह तो आप लोगों के सामने ही की बात है कि, में इस महेन्ट्राचल क शिखर से, समुद्र के दक्षिण तट पर जाने की इच्छा से, बड़ी सावघानी सें उड़ा था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 54,
+      "verse": 8,
+      "sloka": "अवप्लुत्य महावेगः प्रहस्तस्य निवेशनम् ।अग्निं तत्र स निक्षिप्य श्वसनेन समो बली ।। 5.54.8 ।।।।",
+      "transliteration": "avaplutya mahāvegaḥ prahastasya niveśanam ।agniṁ tatra sa nikṣipya śvasanena samo balī ।। 5.54.8 ।।।।",
+      "translations": {
+        "english": "Powerful and brave Hanuman who was equal to the Windgod in speed jumped down on the house of Prahasta and set fire to it. From there he jumped on to Mahaparsva's house and set it ablaze. Hanuman appeared like the fireflame at the time of dissolution.",
+        "hindi": "प १ रक्षितव्यं--गोप्तव्यं । (मो०) I UN ~ 9 है २9१०-20) = र) गच्छुतश्च हि से घोरं विघ्नरूपमिवाभवत्‌ । काऊ्यनं शिखरं दिव्यं पश्यासि सुमनोहरम्‌",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 54,
+      "verse": 9,
+      "sloka": "ततो ऽन्यत् पुप्लुवे वेश्म महापार्श्वस्य वीर्यवान् ।मुमोच हनुमानग्निं कालानलशिखोपमम् ।। 5.54.9 ।।।।",
+      "transliteration": "tato 'nyat pupluve veśma mahāpārśvasya vīryavān ।mumoca hanumānagniṁ kālānalaśikhopamam ।। 5.54.9 ।।।।",
+      "translations": {
+        "english": "Powerful and brave Hanuman who was equal to the Windgod in speed jumped down on the house of Prahasta and set fire to it. From there he jumped on to Mahaparsva's house and set it ablaze. Hanuman appeared like the fireflame at the time of dissolution.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 54,
+      "verse": 10,
+      "sloka": "वज्रदंष्ट्रस्य च तथा पुप्लुवे स महाकपिः ।शुकस्य च महातेजाः सारणस्य च धीमतः ।तथा चेन्द्रजितो वेश्म ददाह हरियूथपः ।। 5.54.10 ।।।।",
+      "transliteration": "vajradaṁṣṭrasya ca tathā pupluve sa mahākapiḥ ।śukasya ca mahātejāḥ sāraṇasya ca dhīmataḥ ।tathā cendrajito veśma dadāha hariyūthapaḥ ।। 5.54.10 ।।।।",
+      "translations": {
+        "english": "The great, brilliant vanara bounded on to Vajradamstra's, of Suka's and wise Sarana's.",
+        "hindi": "सेने भ्रपने मर में विचारा कि, में उस पर्वंत को तोड़ डालू और भेंने रेसा ही किया । मेने श्रपनी पूछ उस पर ऐसे जोर से मारी कि, उसका सूर्य के समान प्रकाशमान शिखर, हजार टुकड़े होकर गिर पड़ा । अपने शिखर के टुकड़े-टुकड़े हुए देख, वह महागिरि मधुरवाणी से मुझको प्रसन्न करता हुआ बोला--हे पुत्र ! में तुम्हारा चाचा हूँ, क्योंकि तुम्हारे पिता पवनदेब अरे मित्र हूँ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 54,
+      "verse": 11,
+      "sloka": "जम्बुमालेः सुमालेश्च ददाह भवनं ततः ।। 5.54.11",
+      "transliteration": "jambumāleḥ sumāleśca dadāha bhavanaṁ tataḥ ।। 5.54.11",
+      "translations": {
+        "english": "Thus Hanuman, the chief of the vanaras set fire to Indrajit's residence and then to Jambumali's and Sumali's building.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 54,
+      "verse": 12,
+      "sloka": "।।्य च महातेजाः सारणस्य च धीमतः ।रश्मिमकेतोश्च भवनं सूर्यशत्रोस्तथैव च ।ह्रस्वकर्णस्य दंष्ट्रस्य रोमशस्य च रक्षसः ।। 5.54.12 ।।।।",
+      "transliteration": "।।्ya ca mahātejāḥ sāraṇasya ca dhīmataḥ ।raśmimaketośca bhavanaṁ sūryaśatrostathaiva ca ।hrasvakarṇasya daṁṣṭrasya romaśasya ca rakṣasaḥ ।। 5.54.12 ।।।।",
+      "translations": {
+        "english": "The brilliant monkey leader bypassed Vibhishanas's house and avoiding it that way set fire to the mansions of other ogres, Rasmiketu, Suryasatru, Hrasvakarna, Vajradamshtra, Romasa, Yuddhonmatta, Matta, Dhwajagriva, Vidyujjihva, Hastimukha, Karala, Pisacha, Sonitaksha, Kumbhakarna, Makaraksha, Yagnasatru, Brahmasatru, Naranthaka, Kumbha, and wicked Nikumbha.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 54,
+      "verse": 13,
+      "sloka": "युद्धोन्मत्तस्य मत्तस्य ध्वजग्रीवस्य रक्षसः ।विद्युज्जिह्वस्य घोरस्य तथा हस्तिमुखस्य च ।। 5.54.13 ।।।।",
+      "transliteration": "yuddhonmattasya mattasya dhvajagrīvasya rakṣasaḥ ।vidyujjihvasya ghorasya tathā hastimukhasya ca ।। 5.54.13 ।।।।",
+      "translations": {
+        "english": "The brilliant monkey leader bypassed Vibhishanas's house and avoiding it that way set fire to the mansions of other ogres, Rasmiketu, Suryasatru, Hrasvakarna, Vajradamshtra, Romasa, Yuddhonmatta, Matta, Dhwajagriva, Vidyujjihva, Hastimukha, Karala, Pisacha, Sonitaksha, Kumbhakarna, Makaraksha, Yagnasatru, Brahmasatru, Naranthaka, Kumbha, and wicked Nikumbha.",
+        "hindi": "में मेनाक पर्वत के नाम से प्रसिद्ध हु भ्रौर इस महासागर के भीतर रहता हूँ । हे पुत्र ! पूर्वकाल में पवंतों के पद्ध हुआ करते थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 54,
+      "verse": 14,
+      "sloka": "करालस्य पिशाचस्य शोणिताक्षस्य चैव हि ।कुम्भकर्णस्य भवनं मकराक्षस्य चैव हि ।। 5.54.14 ।।।।",
+      "transliteration": "karālasya piśācasya śoṇitākṣasya caiva hi ।kumbhakarṇasya bhavanaṁ makarākṣasya caiva hi ।। 5.54.14 ।।।।",
+      "translations": {
+        "english": "The brilliant monkey leader bypassed Vibhishanas's house and avoiding it that way set fire to the mansions of other ogres, Rasmiketu, Suryasatru, Hrasvakarna, Vajradamshtra, Romasa, Yuddhonmatta, Matta, Dhwajagriva, Vidyujjihva, Hastimukha, Karala, Pisacha, Sonitaksha, Kumbhakarna, Makaraksha, Yagnasatru, Brahmasatru, Naranthaka, Kumbha, and wicked Nikumbha.",
+        "hindi": "वे इच्छानुसार समस्त पूथिवी पर घूम-फिर कर प्रजाग्रो को कष्ट दिया करते थे । जब यह बात इन्द्र को मालूम पड़ी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 54,
+      "verse": 15,
+      "sloka": "यज्ञशत्रोश्च भवनं ब्रह्मशत्रोस्तथैव च ।नरान्तकस्य कुम्भस्य निकुम्भस्य दुरात्मनः ।। 5.54.15 ।।।।",
+      "transliteration": "yajñaśatrośca bhavanaṁ brahmaśatrostathaiva ca ।narāntakasya kumbhasya nikumbhasya durātmanaḥ ।। 5.54.15 ।।।।",
+      "translations": {
+        "english": "The brilliant monkey leader bypassed Vibhishanas's house and avoiding it that way set fire to the mansions of other ogres, Rasmiketu, Suryasatru, Hrasvakarna, Vajradamshtra, Romasa, Yuddhonmatta, Matta, Dhwajagriva, Vidyujjihva, Hastimukha, Karala, Pisacha, Sonitaksha, Kumbhakarna, Makaraksha, Yagnasatru, Brahmasatru, Naranthaka, Kumbha, and wicked Nikumbha.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 54,
+      "verse": 16,
+      "sloka": "वर्जयित्वा महातेजा विभीषणगृहं प्रति ।क्रममाणः क्रमेणैव ददाह हरिपुङ्गवः ।। 5.54.16 ।।।।",
+      "transliteration": "varjayitvā mahātejā vibhīṣaṇagṛhaṁ prati ।kramamāṇaḥ krameṇaiva dadāha haripuṅgavaḥ ।। 5.54.16 ।।।।",
+      "translations": {
+        "english": "The brilliant monkey leader bypassed Vibhishanas's house and avoiding it that way set fire to the mansions of other ogres, Rasmiketu, Suryasatru, Hrasvakarna, Vajradamshtra, Romasa, Yuddhonmatta, Matta, Dhwajagriva, Vidyujjihva, Hastimukha, Karala, Pisacha, Sonitaksha, Kumbhakarna, Makaraksha, Yagnasatru, Brahmasatru, Naranthaka, Kumbha, and wicked Nikumbha.",
+        "hindi": "आर वह पर्वत जिस मनुष्य शरोर को धारण कर मुझसे बातचीत करता था, उसे उसने छिपा लिया और वह विशाल पर्वत समुद्र के जल के भीतर छूव गया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 54,
+      "verse": 17,
+      "sloka": "तेषु तेषु महार्हेषु भवनेषु महायशाः ।गृहेष्वृद्धिमतामृद्धिं ददाह स महाकपिः ।। 5.54.17 ।।।।",
+      "transliteration": "teṣu teṣu mahārheṣu bhavaneṣu mahāyaśāḥ ।gṛheṣvṛddhimatāmṛddhiṁ dadāha sa mahākapiḥ ।। 5.54.17 ।।।।",
+      "translations": {
+        "english": "Moving among those highly luxurious mansions the glorious Vanara burnt away the wealth of all the rich demons.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 54,
+      "verse": 18,
+      "sloka": "सर्वेषां समतिक्रम्य राक्षसेन्द्रस्य वीर्यवान् ।आससादाथ लक्ष्मीवान् रावणस्य निवेशनम् ।। 5.54.18 ।।।।",
+      "transliteration": "sarveṣāṁ samatikramya rākṣasendrasya vīryavān ।āsasādātha lakṣmīvān rāvaṇasya niveśanam ।। 5.54.18 ।।।।",
+      "translations": {
+        "english": "Heroic and illustrious Hanuman, having crossed all the residences of the ogres finally reached the palace of Ravana, the king.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 54,
+      "verse": 19,
+      "sloka": "ततस्तस्मिन् गृहे मुख्ये नानारत्नविभूषिते ।मेरुमन्दरसङ्काशे सर्वमङ्गलशोभिते ।। 5.54.19 ।।।।",
+      "transliteration": "tatastasmin gṛhe mukhye nānāratnavibhūṣite ।merumandarasaṅkāśe sarvamaṅgalaśobhite ।। 5.54.19 ।।।।",
+      "translations": {
+        "english": "Then Hanuman, the hero with the burning tail set fire to the chief palace of Ravana that resembled mountains Meru and Mandara, decorated with different kinds of gems and exquisite with several auspicious articles. While the flames were rising up, he roared like the thundering cloud at the time of dissolution.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 54,
+      "verse": 20,
+      "sloka": "प्रदीप्तमग्निमुत्सृज्य लाङ्गूलाग्रे प्रतिष्ठितम् ।ननाद हनुमान् वीरो युगान्तजलदो यथा ।। 5.54.20 ।।।।",
+      "transliteration": "pradīptamagnimutsṛjya lāṅgūlāgre pratiṣṭhitam ।nanāda hanumān vīro yugāntajalado yathā ।। 5.54.20 ।।।।",
+      "translations": {
+        "english": "Then Hanuman, the hero with the burning tail set fire to the chief palace of Ravana that resembled mountains Meru and Mandara, decorated with different kinds of gems and exquisite with several auspicious articles. While the flames were rising up, he roared like the thundering cloud at the time of dissolution.",
+        "hindi": "तब में बड़ी तेजी से शेष मार्ग पूरा करने के लिए भ्रागे बढ़ा श्रौर बहुत देर तक उसी चाल से रास्ता ते करता रहा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 54,
+      "verse": 21,
+      "sloka": "श्वसनेन च संयोगादतिवेगो महाबलः ।कालाग्निरिव जज्वाल प्रावर्धत हुताशनः ।। 5.54.21 ।।।।",
+      "transliteration": "śvasanena ca saṁyogādativego mahābalaḥ ।kālāgniriva jajvāla prāvardhata hutāśanaḥ ।। 5.54.21 ।।।।",
+      "translations": {
+        "english": "The windgod's association made the fire spread at great speed. It appeared like fire at the time of dissolution.",
+        "hindi": "तदनन्तर मैंने नागमाता सुरसा को देखा | समुद्र में खड़ी हुई सुरसा, मुझसे वे वचन बोली",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 54,
+      "verse": 22,
+      "sloka": "प्रदीप्तमग्निं पवनस्तेषु वेश्मस्वचारयत् ।अभूच्छ्वसनसंयोगादतिवेगो हुताशनः ।। 5.54.22 ।।।।",
+      "transliteration": "pradīptamagniṁ pavanasteṣu veśmasvacārayat ।abhūcchvasanasaṁyogādativego hutāśanaḥ ।। 5.54.22 ।।।।",
+      "translations": {
+        "english": "Combined with the wind the fire began to spread, burning the houses with great speed.",
+        "hindi": "है कपिश्रेष्ठ ! तुम तो मेरे भक्ष्य बन कर यहाँ श्रा गए हो । तुम्हारा पता मुझे देवताश्रों ने दिया है । श्रतः मे तुझको खा जाऊंगी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 54,
+      "verse": 23,
+      "sloka": "तानि काञ्चनजालानि मुक्तामणिमयानि च ।भवनान्यवशीर्यन्त रत्नवन्ति महान्ति च ।। 5.54.23 ।।।।",
+      "transliteration": "tāni kāñcanajālāni muktāmaṇimayāni ca ।bhavanānyavaśīryanta ratnavanti mahānti ca ।। 5.54.23 ।।।।",
+      "translations": {
+        "english": "The palatial structures with windows of golden meshwork, embedded with pearls and gems and other precious stones tumbled.",
+        "hindi": "सुरसा के ऐसे वचन सुन, में भ्रत्यन्त विनीत हो श्रौर हाथ जोड़ कर तथा मुख फीका कर, उसके सामने खड़ा हो गया प्रौर उससे बोला",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 54,
+      "verse": 24,
+      "sloka": "तानि भग्नविमानानि निपेतुर्वसुधातले ।भवनानीव सिद्धानामम्बरात् पुण्यसंक्षये ।। 5.54.24 ।।।।",
+      "transliteration": "tāni bhagnavimānāni nipeturvasudhātale ।bhavanānīva siddhānāmambarāt puṇyasaṁkṣaye ।। 5.54.24 ।।।।",
+      "translations": {
+        "english": "Unable to protect their rich houses, and thoroughly disappointed the demons said, 'Alas, the Firegod came in the form of a vanara' A tumultuous sound arose.",
+        "hindi": "कि महाराज दशरथ के पुत्र परन्तप श्रीरामचन्द्रजी, लक्ष्मण भ्रौर सीता को साथ ले, दण्डक वन में प्राए थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 54,
+      "verse": 25,
+      "sloka": "संजज्ञे तुमुलः शब्दो राक्षसानां प्रधावताम् ।स्वगृहस्य परित्राणे भग्नोत्साहगतश्रियाम् ।नूनमेषो ऽग्निरायातः कपिरूपेण हा इति ।। 5.54.25 ।।।।",
+      "transliteration": "saṁjajñe tumulaḥ śabdo rākṣasānāṁ pradhāvatām ।svagṛhasya paritrāṇe bhagnotsāhagataśriyām ।nūnameṣo 'gnirāyātaḥ kapirūpeṇa hā iti ।। 5.54.25 ।।।।",
+      "translations": {
+        "english": "A few shedemons at once jumped out of their burning mansions surrounded by fire. They held their breastfeeding babies in their arms, their hair let loose shouting as they jumped. As they were alighting, they glowed like lightnings dropping from the clouds.",
+        "hindi": "उनकी भार्या सीता को दुष्ट रावण हर ले गया है । सो में श्रीरामचन्द्रजी की भ्राज्ञा से सीता के पास उनका दूत बन कर जाऊंगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 54,
+      "verse": 26,
+      "sloka": "क्रन्दन्त्यः सहसा पेतुः स्तनन्दयधराः स्त्रियः ।काश्चिदग्निपरीतेभ्यो हर्म्येभ्यो मुक्तमूर्धजाः ।। 5.54.26 ।।।।",
+      "transliteration": "krandantyaḥ sahasā petuḥ stanandayadharāḥ striyaḥ ।kāścidagniparītebhyo harmyebhyo muktamūrdhajāḥ ।। 5.54.26 ।।।।",
+      "translations": {
+        "english": "A few shedemons at once jumped out of their burning mansions surrounded by fire. They held their breastfeeding babies in their arms, their hair let loose shouting as they jumped. As they were alighting, they glowed like lightnings dropping from the clouds.",
+        "hindi": "तू भी तो उन्हीं के राज्य में रहती है, प्रतः तू भी इसमें कुछ सहायता दे । अथवा सीता को देख झौर उनका हाल जब ग्रविसष्टकर्मा श्रीरामचन्द्रजी को सुना भाऊ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 54,
+      "verse": 27,
+      "sloka": "पतन्त्यो रेजिरे ऽभ्रेभ्यः सौदामिन्य इवाम्बरात् ।। 5.54.27 ।।।।",
+      "transliteration": "patantyo rejire 'bhrebhyaḥ saudāminya ivāmbarāt ।। 5.54.27 ।।।।",
+      "translations": {
+        "english": "Hanuman saw many colourful molten minerals mixed with diamonds, corals vaiduryas, pearls and silver flowing (dropping) from every mansion.",
+        "hindi": "तब में तेरे मुख में चला ञाऊंगा (प्रर्थात्‌ तू मुझको खा डालना) में सुझसे यह सत्य-सत्य प्रतिज्ञा करके कहता हूँ । जब मेने इस प्रकार उससे कहा तब वह कामरूपिणी सुरसा कहने लगी, मुझे उल्लंघन कर कोई नहीं निकल सकता । क्योंकि, मुझे ऐसा ही वर मिला हुआ है । उसके यह कहने पर में दस योजन का हो गया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 54,
+      "verse": 28,
+      "sloka": "वज्रविद्रुमवैदूर्यमुकारजतसंहितान् ।विचित्रान् भवनान् धातून् स्यान्दमानान् ददर्श सः ।। 5.54.28 ।।।।",
+      "transliteration": "vajravidrumavaidūryamukārajatasaṁhitān ।vicitrān bhavanān dhātūn syāndamānān dadarśa saḥ ।। 5.54.28 ।।।।",
+      "translations": {
+        "english": "Just as fire is not satisfied with dry sticks and grass Hanuman was not satisfied with the dead demons.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 54,
+      "verse": 29,
+      "sloka": "नाग्निस्तृप्यति काष्ठानां तृणानां हरियूथपः ।नाग्नेर्नापि विशस्तानां राक्षसानां वसुन्धरा ।। 5.54.29 ।।।।",
+      "transliteration": "nāgnistṛpyati kāṣṭhānāṁ tṛṇānāṁ hariyūthapaḥ ।nāgnernāpi viśastānāṁ rākṣasānāṁ vasundharā ।। 5.54.29 ।।।।",
+      "translations": {
+        "english": "The flames of fire were shining like kimsuka flowers here, like salmali wood there, and like saffron flowers elsewhere.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 54,
+      "verse": 30,
+      "sloka": "क्वचित् किंशुकसङ्काशाः क्वचिच्छाल्मलिसन्निभाः ।क्वचित् कुङ्कुमसङ्काशाः शिखा वह्नेश्चकाशिरे ।। 5.54.30 ।।।।",
+      "transliteration": "kvacit kiṁśukasaṅkāśāḥ kvacicchālmalisannibhāḥ ।kvacit kuṅkumasaṅkāśāḥ śikhā vahneścakāśire ।। 5.54.30 ।।।।",
+      "translations": {
+        "english": "Hanuman, endowed with great speed, burnt Lanka just as Tripurari, or Rudra burnt theTripuras (three cities of gold, silver and iron).",
+        "hindi": "तब मेंने उसको बड़ा भारी मुख खोले हुए देख, भ्रपना शरीर बहुत छोटा कर लिया । यहाँ तक कि, उस समय मेने श्रपना शरीर श्रेगूठे के बरावर कर लिया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 54,
+      "verse": 31,
+      "sloka": "हनूमता वेगवता वानरेण महात्मना ।लङ्कापुरं प्रदग्धं तद्रुद्रेण त्रिपुरं यथा ।। 5.54.31 ।।।।",
+      "transliteration": "hanūmatā vegavatā vānareṇa mahātmanā ।laṅkāpuraṁ pradagdhaṁ tadrudreṇa tripuraṁ yathā ।। 5.54.31 ।।।।",
+      "translations": {
+        "english": "The fierce fire lit by Hanuman, the hero endowed with great speed, spread around in circles and shot up flying high to the top of the Trikuta mountain on which Lanka was located.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 54,
+      "verse": 32,
+      "sloka": "ततस्तु लङ्कापुरपर्वताग्रे समुत्थितो भीमपराक्रमो ऽग्निः ।प्रमार्य चूडावलयं प्रदीप्तो हनूमता वेगवता विसृष्टः ।। 5.54.32 ।।।।",
+      "transliteration": "tatastu laṅkāpuraparvatāgre samutthito bhīmaparākramo 'gniḥ ।pramārya cūḍāvalayaṁ pradīpto hanūmatā vegavatā visṛṣṭaḥ ।। 5.54.32 ।।।।",
+      "translations": {
+        "english": "Fanned by the wind, inflamed by the fat from the corpses of the demons, the fire spread in the mansions burning without smoke. It spread with great speed like the fire at the end of the universe.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 54,
+      "verse": 33,
+      "sloka": "युगान्तकालानलतुल्यवेगः समारुतो ऽग्निर्ववृधे दिविस्पृक् ।विधूमरश्मिर्भवनेषु सक्तो रक्षश्शरीराज्य समर्पितार्चिः ।। 5.54.33 ।।।।",
+      "transliteration": "yugāntakālānalatulyavegaḥ samāruto 'gnirvavṛdhe divispṛk ।vidhūmaraśmirbhavaneṣu sakto rakṣaśśarīrājya samarpitārciḥ ।। 5.54.33 ।।।।",
+      "translations": {
+        "english": "The highly radiant fire stood like a crore of Suns surrounding the entire Lanka. It was glowing, cracking like Indra's thunderbolt as though the whole universe was collapsing.",
+        "hindi": "हे महाबाहो ! तुम सुखी हो । में तुम्हारे ऊपर प्रसन्न हें । उस समय सब; प्राणियों ने वाह ! वाह ! कह कर मेरी प्रशंसा की",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 54,
+      "verse": 34,
+      "sloka": "आदित्यकोटीसदृशः सुतेजा लङ्कां समाप्तां परिवार्य तिष्ठन् ।शब्दैरनेकैरशनिप्ररूढैर्भिन्दन्निवाण्डं प्रबभौ महाग्निः ।। 5.54.34 ।।।।",
+      "transliteration": "ādityakoṭīsadṛśaḥ sutejā laṅkāṁ samāptāṁ parivārya tiṣṭhan ।śabdairanekairaśaniprarūḍhairbhindannivāṇḍaṁ prababhau mahāgniḥ ।। 5.54.34 ।।।।",
+      "translations": {
+        "english": "The dazzling flames of fire red like kimsuka flowers shot up violently into the sky. The clouds engulfed by the smoke rising from the subsiding fire was shining like the lustre of blue lotuses .",
+        "hindi": "तदनन्तर में गरुड़जी की तरह बड़ी तेजी से रास्ता तै करने लगा। इसी बीच में मेरी छाया को किसी ने पकड़ लिया, किंतु जब मुझे छाया पकड़ने वाला कोई न देख पड़ा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 54,
+      "verse": 35,
+      "sloka": "तत्राम्बरादग्निरतिप्रवृद्धो रूक्षप्रभः किंशुकपुष्पचूडः ।निर्वाणधूमाकुलराजयश्च नीलोत्पलाभाः प्रचकाशिरे ऽभ्राः ।। 5.54.35 ।।।।",
+      "transliteration": "tatrāmbarādagniratipravṛddho rūkṣaprabhaḥ kiṁśukapuṣpacūḍaḥ ।nirvāṇadhūmākularājayaśca nīlotpalābhāḥ pracakāśire 'bhrāḥ ।। 5.54.35 ।।।।",
+      "translations": {
+        "english": "'Is this the wielder of thunderbolt Indra, who is the king of gods? Is it Yama himself? Is It the Windgod, or Firegod, or Varuna or Rudra? Is it Kubera or Sun or Moon or is it the god of death himself? He cannot be a mere monkey, indeed.",
+        "hindi": "तब गति रुक जाने से में चारों शोर देखने लगा । किन्तु मेरी चाल को रोकने वाला मुझे कोई न देख पड़ा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 54,
+      "verse": 36,
+      "sloka": "वज्री महेन्द्रस्त्रिदशेश्वरो वा साक्षाद्यमो वा वरुणो ऽनिलो वा ।रुद्रो ऽग्निरर्को धनदश्च सोमो न वानरो ऽयं स्वयमेव कालः ।। 5.54.36 ।।।।",
+      "transliteration": "vajrī mahendrastridaśeśvaro vā sākṣādyamo vā varuṇo 'nilo vā ।rudro 'gnirarko dhanadaśca somo na vānaro 'yaṁ svayameva kālaḥ ।। 5.54.36 ।।।।",
+      "translations": {
+        "english": "'Or is it Grandfather Brahma, the supreme fourfaced god enraged and arrived in the form of vanara to kill the clan of demons?",
+        "hindi": "तब में यह सोचने लगा कि, जिसने मेरे गमन में इस प्रकार का विघ्ना डाला है भ्रौर जिसका रूप भी नहीं दिखलाई देता, उसका क्या नाम है या; ` वह कौन है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 54,
+      "verse": 37,
+      "sloka": "किं ब्रह्मणः सर्वपितामहस्य सर्वस्य धातुश्चतुराननस्य ।इहागतोवाग्रूपधारीरक्षोपसंहारकरः प्रकोपः ।। 5.54.37",
+      "transliteration": "kiṁ brahmaṇaḥ sarvapitāmahasya sarvasya dhātuścaturānanasya ।ihāgatovāgrūpadhārīrakṣopasaṁhārakaraḥ prakopaḥ ।। 5.54.37",
+      "translations": {
+        "english": "'Can he be the vast boundless energy, the unthinkable and infinite lord Visnu assuming the monkeyform? Is he the peerless, unmanifest form beyond all imagination who has arrived here by virtue of his Maya (illusory power) in order to destroy the demons'?",
+        "hindi": "यह मे सोच ही रहा था कि इतने में मेरी दृष्टि नीचे की ओर गई और मैंने देखा कि, एक भयंकर राक्षसी समुद्र के जल में लेटी है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 54,
+      "verse": 38,
+      "sloka": "।किं वैष्णवं वा कपिरूपमेत्य रक्षोविनाशाय परं सुतेजः ।अनन्तमव्यक्तमचिन्त्यमेकं स्वमायया साम्प्रतमागतं वा ।। 5.54.38 ।।।।",
+      "transliteration": "।kiṁ vaiṣṇavaṁ vā kapirūpametya rakṣovināśāya paraṁ sutejaḥ ।anantamavyaktamacintyamekaṁ svamāyayā sāmpratamāgataṁ vā ।। 5.54.38 ।।।।",
+      "translations": {
+        "english": "All eminent demons having collected together, quickly surveyed the situation.Seeing the burnt city, with all its living creatures, houses and trees consigned to the flames, they spoke to one another.",
+        "hindi": "उस भयंकर राक्षसी ने भ्रट्टहास कर तथा गरज कर और निर्भीक हो यह्‌ झनुचित वचन मुझसे कहा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 54,
+      "verse": 39,
+      "sloka": "इत्येवमूचुर्बहवो विशिष्टा रक्षोगणास्तत्र समेत्य सर्वे ।सप्राणिसङ्घां सगृहां सवृक्षां दग्धां पुरीं तां सहसा समीक्ष्य ।। 5.54.39 ।।।।",
+      "transliteration": "ityevamūcurbahavo viśiṣṭā rakṣogaṇāstatra sametya sarve ।saprāṇisaṅghāṁ sagṛhāṁ savṛkṣāṁ dagdhāṁ purīṁ tāṁ sahasā samīkṣya ।। 5.54.39 ।।।।",
+      "translations": {
+        "english": "Lanka with its chariots horses, elephants, flocks of birds, animals and trees burnt all of a sudden, the ogres cried loudly and piteously.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 54,
+      "verse": 40,
+      "sloka": "ततस्तु लङ्का सहसा प्रदग्धा सराक्षसा साश्वरथा सनागा ।सपक्षिसङ्घा समृगा सवृक्षा रुरोद दीना तुमुलं सशब्दम् ।। 5.54.40 ।।।।",
+      "transliteration": "tatastu laṅkā sahasā pradagdhā sarākṣasā sāśvarathā sanāgā ।sapakṣisaṅghā samṛgā savṛkṣā ruroda dīnā tumulaṁ saśabdam ।। 5.54.40 ।।।।",
+      "translations": {
+        "english": "\"O father dear O son O my dear O friend alas, the life which is enjoyable, sacred and prosperous is destroyed in this way\". Saying this, the demons cried out dreadfully and loudly.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 54,
+      "verse": 41,
+      "sloka": "हा तात हा पुत्रक कान्त मित्र हा जीवितं भोगयुतं सुपुण्यम् ।रक्षोभिरेवं बहुधा ब्रुवद्भिः शब्दः कृतो घोरतरः सुभीमः ।। 5.54.41 ।।।।",
+      "transliteration": "hā tāta hā putraka kānta mitra hā jīvitaṁ bhogayutaṁ supuṇyam ।rakṣobhirevaṁ bahudhā bruvadbhiḥ śabdaḥ kṛto ghorataraḥ subhīmaḥ ।। 5.54.41 ।।।।",
+      "translations": {
+        "english": "With the Fire god spreading flames all over, heroes dead, retreating troops shattered by Hanuman's anger, Lanka appeared as though it was cursed.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 54,
+      "verse": 42,
+      "sloka": "हुताशनज्वालसमावृता सा हतप्रवीरा परिवृत्तयोधा ।हनूमतः क्रोधबलाभिभूता बभूव शापोपहतेव लङ्का ।। 5.54.42 ।।।।",
+      "transliteration": "hutāśanajvālasamāvṛtā sā hatapravīrā parivṛttayodhā ।hanūmataḥ krodhabalābhibhūtā babhūva śāpopahateva laṅkā ।। 5.54.42 ।।।।",
+      "translations": {
+        "english": "Highly sensitive Hanuman saw the city of Lanka filled with perplexed, scared and sorrowful demons, Lanka succumbed to the flames of firegod and looked as if it was hit by the anger of Brahma, the selfborn god.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 54,
+      "verse": 43,
+      "sloka": "स सम्भ्रमत्रस्तविषण्णराक्षसां समुज्ज्वलज्ज्वालहुताशनाङ्किताम् ।ददर्श लङ्कां हनुमान् महामनाः स्वयम्भुकोपोपहतामिवावनिम् ।। 5.54.43 ।।।।",
+      "transliteration": "sa sambhramatrastaviṣaṇṇarākṣasāṁ samujjvalajjvālahutāśanāṅkitām ।dadarśa laṅkāṁ hanumān mahāmanāḥ svayambhukopopahatāmivāvanim ।। 5.54.43 ।।।।",
+      "translations": {
+        "english": "Hanuman, son of the Windgod stood at ease having shattered the garden that was full of excellent trees, and killed the demons and burnt down rows of beautiful houses in the city.",
+        "hindi": "वह पर्वताकार दृष्टा राक्षसी हृदय के फट जाने से दोनों हाथ फैला खारी समुद्र में डूब गई",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 54,
+      "verse": 44,
+      "sloka": "भङ्क्त्वा वनं पादपरत्नसङ्कुलं हत्वा तु रक्षांसि महान्ति संयुगे ।दग्ध्वा पुरीं तां गृहरत्नमालिनीं तस्थौ हनूमान् पवनात्मजः कपिः ।। 5.54.44 ।।।।",
+      "transliteration": "bhaṅktvā vanaṁ pādaparatnasaṅkulaṁ hatvā tu rakṣāṁsi mahānti saṁyuge ।dagdhvā purīṁ tāṁ gṛharatnamālinīṁ tasthau hanūmān pavanātmajaḥ kapiḥ ।। 5.54.44 ।।।।",
+      "translations": {
+        "english": "Standing on the peak of Trikuta mountain with his tail burning like the aura of the Sun, the lion among vanaras looked resplendent like the Sun surrounded by his rays.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 54,
+      "verse": 45,
+      "sloka": "त्रिकूटशृङ्गाग्रतले विचित्रे प्रतिष्ठितो वानरराजसिंहः ।प्रदीप्तलाङ्गूलकृतार्चिमाली व्यराजतादित्य इवांशुमाली ।। 5.54.45 ।।।।",
+      "transliteration": "trikūṭaśṛṅgāgratale vicitre pratiṣṭhito vānararājasiṁhaḥ ।pradīptalāṅgūlakṛtārcimālī vyarājatāditya ivāṁśumālī ।। 5.54.45 ।।।।",
+      "translations": {
+        "english": "Great Hanuman, sought Rama's presence in his mind after killing many demons, breaking down many trees of the garden, and setting fire to the mansions of demons.",
+        "hindi": "उसको मार मुझे विलंब हो जाने का स्मरण हो श्राया । तब बहुत दूर चलने के बाद मुझे पर्वतयुवत समुद्र का वह दक्षिणतट जिस पर वह॒ लंकापुरी बसी हुई थी, देख पड़ा । जब सूये छिप गए तब में राक्षसों के रहने की पुरी लंका में",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 54,
+      "verse": 46,
+      "sloka": "स राक्षसांस्तान् सुबहूंश्च हत्वा वनं च भङ्क्त्वा बहुपादपं तत् ।विसृज्य रक्षोभवनेषु चाग्निं जगाम रामं मनसा महात्मा ।। 5.54.46 ।।।।",
+      "transliteration": "sa rākṣasāṁstān subahūṁśca hatvā vanaṁ ca bhaṅktvā bahupādapaṁ tat ।visṛjya rakṣobhavaneṣu cāgniṁ jagāma rāmaṁ manasā mahātmā ।। 5.54.46 ।।।।",
+      "translations": {
+        "english": "All the gods praised the vanara chief, son of the Windgod, who was powerful, wise and efficient and had the speed of the Wind.",
+        "hindi": "सव्यमुष्टिप्रहारेण पराजित्य सुभेरवास्‌ । प्रदोषकाले प्रविशन्‌ भीतयाऽहं तयोदितः ॥॥ ४8११ उस महाभयंकर राक्षसी को वाम हाथ के घ्‌ से से परास्त कर, में सन्ष्या समय पुरी में आगे बढ़ा । उस समय उसने भयमीत हो मुझसे कहा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 54,
+      "verse": 47,
+      "sloka": "ततस्तु तं वानरवीरमुख्यं महाबलं मारुततुल्यवेगम् ।महामतिं वायुसुतं वरिष्ठं प्रतुष्टुवुर्देवगणाश्च सर्वे ।। 5.54.47 ।।।।",
+      "transliteration": "tatastu taṁ vānaravīramukhyaṁ mahābalaṁ mārutatulyavegam ।mahāmatiṁ vāyusutaṁ variṣṭhaṁ pratuṣṭuvurdevagaṇāśca sarve ।। 5.54.47 ।।।।",
+      "translations": {
+        "english": "Hanuman destroyed the garden, killed the demons, burnt the city of Lanka and was shining with delight",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 54,
+      "verse": 48,
+      "sloka": "भङ्क्त्वा वनं महातेजा हत्वा रक्षांसि संयुगे ।दग्ध्वा लङ्कापुरीं रम्यां रराज स महाकपिः ।। 5.54.48 ।।।।",
+      "transliteration": "bhaṅktvā vanaṁ mahātejā hatvā rakṣāṁsi saṁyuge ।dagdhvā laṅkāpurīṁ ramyāṁ rarāja sa mahākapiḥ ।। 5.54.48 ।।।।",
+      "translations": {
+        "english": "The gandharvas, gods, siddhas and great sages were amazed at seeing the burning city of Lanka৷৷",
+        "hindi": "सुन्दरकाण्डे शरीर वाली किड ऐक सी पास ककी हुए मि आ खड़ी हुई । वह मुझे मार डालना चाहती थी । उसके सिर के केश प्रज्ज्वलित अग्नि की तरह चमचमा रहे थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 54,
+      "verse": 49,
+      "sloka": "तत्र देवाः सगन्धर्वाः सिद्धाश्च परमर्षयः ।दृष्ट्वा प्रदग्धां तां विस्मयं परमं गताः ।। 5.54.49 ।।।।",
+      "transliteration": "tatra devāḥ sagandharvāḥ siddhāśca paramarṣayaḥ ।dṛṣṭvā pradagdhāṁ tāṁ vismayaṁ paramaṁ gatāḥ ।। 5.54.49 ।।।।",
+      "translations": {
+        "english": "All beings were afraid of Hanuman thinking that he was the fatal fire, consuming worlds at the hour of dissolution .",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 54,
+      "verse": 50,
+      "sloka": "तं दृष्ट्वा वानरश्रेष्ठं हनुमन्तं महाकपिम् ।कालाग्निरिति सञ्चिन्त्य सर्वभूतानि तत्रसुः ।। 5.54.50 ।।।।",
+      "transliteration": "taṁ dṛṣṭvā vānaraśreṣṭhaṁ hanumantaṁ mahākapim ।kālāgniriti sañcintya sarvabhūtāni tatrasuḥ ।। 5.54.50 ।।।।",
+      "translations": {
+        "english": "All gods, great sages, gandharvas, vidyadharas, nagas and yakshas and all great beings experienced supreme joy. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये सुन्दरकाण्डे चतुःपञ्चाशस्सर्गः।। Thus ends the fiftyfourth sarga of Sundarakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+        "hindi": "ग्रहं लंकापुरी वीर निजता विक्रसेण ते । यस्मात्तस्माहिजेतासि सवंरक्षांस्यशेषतः ।। {०॥। हे वीर ! में इस लंकापुरी की अधिष्ठात्री देवी हूं । तुमने अपने पराक्रम से मुझे जो हराया है, सो मानो तुमने समस्त राक्षसों को जीत लिया । अर्थात्‌ तुम प्रब समस्त लंकापुरीवासी राक्षसों को जीत लोगे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 54,
+      "verse": 51,
+      "sloka": "देवाश्च सर्वे मुनिपुङ्गवाश्च गन्धर्वविद्याधरनागयक्षाः ।भूतानि सर्वाणि महान्ति तत्र जग्मुः परां प्रीतिमतुल्यरूपाम् ।। 5.54.51 ।।",
+      "transliteration": "devāśca sarve munipuṅgavāśca gandharvavidyādharanāgayakṣāḥ ।bhūtāni sarvāṇi mahānti tatra jagmuḥ parāṁ prītimatulyarūpām ।। 5.54.51 ।।",
+      "translations": {
+        "english": "",
+        "hindi": "में वहाँ जानकीजी की खोज में सारी रात घूमता-फिरता ही रहा । मैं रावण के रनवास में भी गया; किन्तु वहाँ भी उस सुन्दरी सीता को न पाया",
+        "telugu": ""
+      }
+    }
+  ]
+}

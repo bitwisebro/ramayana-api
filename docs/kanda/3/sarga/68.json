@@ -1,0 +1,541 @@
+{
+  "kanda": 3,
+  "kanda_name": "Aranya Kanda",
+  "kanda_name_sanskrit": "अरण्यकाण्डम्",
+  "sarga": 68,
+  "verses_count": 38,
+  "verses": [
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 68,
+      "verse": 1,
+      "sloka": "रामः प्रेक्ष्य तु तम् गृध्रम् भुवि रौद्रेण पातितम् ।सौमित्रिम् मित्र संपन्नम् इदम् वचनम् अब्रवीत् ॥३-६८-१॥",
+      "transliteration": "rāmaḥ prekṣya tu tam gṛdhram bhuvi raudreṇa pātitam ।saumitrim mitra saṁpannam idam vacanam abravīt ॥3-68-1॥",
+      "translations": {
+        "english": "Seeing the vulture lying on the ground thrown down by the fierce demon, Rama said to friendly Lakshmana:",
+        "hindi": "पक्षिराज की जलक्रियादि प्री कर, श्रीरामचन्द्र ओर लक्ष्मण वहाँ से रवाने हो, वन में सीता को ढुँढते हुए पश्चिम दिशा की रोर चले",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 68,
+      "verse": 2,
+      "sloka": "मम अयम् नूनम् अर्थेषु यतमानो विहंगमः ।राक्षसेन हतः संख्ये प्राणान् त्यजति मत् कृते ॥३-६८-२॥",
+      "transliteration": "mama ayam nūnam artheṣu yatamāno vihaṁgamaḥ ।rākṣasena hataḥ saṁkhye prāṇān tyajati mat kṛte ॥3-68-2॥",
+      "translations": {
+        "english": "Struck down by the demon in the combat on my account this bird is going to give up his life which is indeed difficult.",
+        "hindi": "फिर धनुष वाण खडग हाथों में ले दोनों भाई उस मागे से जिस पर पहले कोई नहीं चला था, चल कर, पश्चिम दक्षिण के कोण की ओर चले",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 68,
+      "verse": 3,
+      "sloka": "अति खिन्नः शरीरे अस्मिन् प्राणो लक्ष्मण विद्यते ।तथा स्वर विहीनो अयम् विक्लवम् समुदीक्षते ॥३-६८-३॥",
+      "transliteration": "ati khinnaḥ śarīre asmin prāṇo lakṣmaṇa vidyate ।tathā svara vihīno ayam viklavam samudīkṣate ॥3-68-3॥",
+      "translations": {
+        "english": "O Lakshmana, it appears he is frightened and is experiencing excruciating pain in the body. His voice sounds faint, too.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 68,
+      "verse": 4,
+      "sloka": "जटायो यदि शक्नोषि वाक्यम् व्याहरितुम् पुनः ।सीताम् आख्याहि भद्रम् ते वधम् आख्याहि च आत्मनः ॥३-६८-४॥",
+      "transliteration": "jaṭāyo yadi śaknoṣi vākyam vyāharitum punaḥ ।sītām ākhyāhi bhadram te vadham ākhyāhi ca ātmanaḥ ॥3-68-4॥",
+      "translations": {
+        "english": "O Jatayu If you are still able to speak, tell me about Sita and about how you have been struck down.",
+        "hindi": "गुल्मेह क्षेत्र बहुमिलताभिश्व अवेष्टितम्‌. | ह न ॥ आहत सबतो दुगं गहनं घोरदशनम्‌ ॥२ हर अनेक प्रकार के घने भाड़, इच्षवल्ली, लता आदि होने के कारण वह रास्ता केवल दुगम ही नहीं था बल्कि भयङ्कर भीथा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 68,
+      "verse": 5,
+      "sloka": "किम् निमित्तो जहार आर्याम् रावणः तस्य किम् मया ।अपराधम् तु यम् दृष्ट्वा रावणेन हृता प्रिया ॥३-६८-५॥",
+      "transliteration": "kim nimitto jahāra āryām rāvaṇaḥ tasya kim mayā ।aparādham tu yam dṛṣṭvā rāvaṇena hṛtā priyā ॥3-68-5॥",
+      "translations": {
+        "english": "Why did Ravana abduct Sita? What fault did he find with me so that he kidnapped my beloved ?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 68,
+      "verse": 6,
+      "sloka": "कथम् तत् चन्द्र संकाशम् मुखम् आसीत् मनोहरम् ।सीतया कानि च उक्तानि तस्मिन् काले द्विजोत्तम ॥३-६८-६॥",
+      "transliteration": "katham tat candra saṁkāśam mukham āsīt manoharam ।sītayā kāni ca uktāni tasmin kāle dvijottama ॥3-68-6॥",
+      "translations": {
+        "english": "O best of birds how did her delightful, Moonlike face look when she was hijacked. What did she say at that time?",
+        "hindi": "यहू वन मेघों की घटा की तरह गंभीर था । उसमें जिधर देखो उधर फूल खिले हुए होने के कारण तथा भाँति-भाँति के पक्षियों से भरा पूरा ओर तरह-तरह के अजगरों और अन्य वन जन्तुओं से परिपूर्ण होने के कारण बह हँसता हुआ जान पड़ता था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 68,
+      "verse": 7,
+      "sloka": "कथम् वीर्यः कथम् रूपः किम् कर्मा स च राक्षसः ।क्व च अस्य भवनम् तात ब्रूहि मे परिपृच्छतः ॥३-६८-७॥",
+      "transliteration": "katham vīryaḥ katham rūpaḥ kim karmā sa ca rākṣasaḥ ।kva ca asya bhavanam tāta brūhi me paripṛcchataḥ ॥3-68-7॥",
+      "translations": {
+        "english": "O father how powerful is that demon ? How does he look?What work does he do? Where does he dwell? Do answer my questions?",
+        "hindi": "दोनों राजकुमार सीता जी के हरण से दुःखित हो, उस बन . भें इधर उधर सीता जी को खोज्ने लगे। बीच बीच में वे ठहर मी जाते थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 68,
+      "verse": 8,
+      "sloka": "तम् उद्वीक्ष्य सः धर्मात्मा विलपन्तम् अनाथवत् ।वाचा विक्लवया रामम् इदम् वचनम् अब्रवीत् ॥३-६८-८॥",
+      "transliteration": "tam udvīkṣya saḥ dharmātmā vilapantam anāthavat ।vācā viklavayā rāmam idam vacanam abravīt ॥3-68-8॥",
+      "translations": {
+        "english": "Thereafter Jatayu, a piteous soul, looked up at Rama who was crying incessantly and said this in a feeble voice:",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 68,
+      "verse": 9,
+      "sloka": "सा हृता राक्षसेन्द्रेण रावणेन दुरात्मना ।मायाम् आस्थाय विपुलाम् वात दुर्दिन संकुलाम् ॥३-६८-९॥",
+      "transliteration": "sā hṛtā rākṣasendreṇa rāvaṇena durātmanā ।māyām āsthāya vipulām vāta durdina saṁkulām ॥3-68-9॥",
+      "translations": {
+        "english": "Ravana, the lord of the demons created violent winds through terrific magic and whisked her away in the sky.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 68,
+      "verse": 10,
+      "sloka": "परिक्लांतस्य मे तात पक्षौ चित्त्वा निशाचरः ।सीताम् आदाय वैदेहीम् प्रयातो दक्षिणा मुखः ॥३-६८-१०॥",
+      "transliteration": "pariklāṁtasya me tāta pakṣau cittvā niśācaraḥ ।sītām ādāya vaidehīm prayāto dakṣiṇā mukhaḥ ॥3-68-10॥",
+      "translations": {
+        "english": "O my child when I was exhausted, that demon cut off my wings and carried Sita off in the southern direction.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 68,
+      "verse": 11,
+      "sloka": "उपरुध्यन्ति मे प्राणा दृष्टिर् भ्रमति राघव ।पश्यामि वृक्षान् सौवर्णान् उशीर कृत मूर्धजान् ॥३-६८-११॥",
+      "transliteration": "uparudhyanti me prāṇā dṛṣṭir bhramati rāghava ।paśyāmi vṛkṣān sauvarṇān uśīra kṛta mūrdhajān ॥3-68-11॥",
+      "translations": {
+        "english": "O scion of the Raghu race, I am gasping for breath. My eyes are reeling. I see root hair growing on the tops of golden trees.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 68,
+      "verse": 12,
+      "sloka": "येन याति मुहूर्तेन सीताम् आदाय रावणः ।विप्रनष्टम् धनम् क्षिप्रम् तत् स्वामि प्रतिपद्यते ॥३-६८-१२॥",
+      "transliteration": "yena yāti muhūrtena sītām ādāya rāvaṇaḥ ।vipranaṣṭam dhanam kṣipram tat svāmi pratipadyate ॥3-68-12॥",
+      "translations": {
+        "english": "The time Ravana kidnapped Sita is known as 'Vinda'. The effect (of that time), is that her husband will regain his lost wealth. O scion of the Kakutstha race he (Ravana )did not know it.",
+        "hindi": "बह छोटे जीव जन्तुओं के लिए बड़ी डरावनी थी | उसका रूप बड़ा घिनौना था । वह देखने में बड़ी भयङ्कर थी । क्योंकि उसकी डा ढें बड़ी पैनी थीं ओर पे८ बड़ा लंबा था। उसका खाल बढ़ी कड़ी थी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 68,
+      "verse": 13,
+      "sloka": "विन्दो नाम मुहूर्तो असौ स च काकुत्स्थ न अबुधत् ।त्वत् प्रियाम् जानकीम् हृत्वा रावणो राक्षसेश्वर ।झषवत् बडिशम् गृह्य क्षिप्रम् एव विनश्यति ॥३-६८-१३॥",
+      "transliteration": "vindo nāma muhūrto asau sa ca kākutstha na abudhat ।tvat priyām jānakīm hṛtvā rāvaṇo rākṣaseśvara ।jhaṣavat baḍiśam gṛhya kṣipram eva vinaśyati ॥3-68-13॥",
+      "translations": {
+        "english": "Ravana, king of the demons, will perish soon for running away with your beloved Janaki just like a fish carrying away a fishhook (which causes its destruction).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 68,
+      "verse": 14,
+      "sloka": "न च त्वया व्यथा कार्या जनकस्य सुताम् प्रति ।वैदेह्या रंस्यसे क्षिप्रम् हत्वा तम् रणमूर्धनि ॥३-६८-१४॥",
+      "transliteration": "na ca tvayā vyathā kāryā janakasya sutām prati ।vaidehyā raṁsyase kṣipram hatvā tam raṇamūrdhani ॥3-68-14॥",
+      "translations": {
+        "english": "You need not worry about Janaka's daughter. You will soon enjoy the company of your beloved, Vaidehi after killing that demon.",
+        "hindi": "TH | जब कुहरररु क ~ ० ra है १ समालम्बत--दस्दै णदीतबती । ( गो० ) बह्‌ राक्षसी इन दोनों भाइयों को देख ओर आगे चलते हुए लक्ष्षण को देख, बोली -“आओ हम दोनों विहार करें”, तदनन्तर उसने लक्ष्मण का हाथ पकड़ लिया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 68,
+      "verse": 15,
+      "sloka": "असंमूढस्य गृध्रस्य रामम् प्रति अनुभाषतः ।आस्यात् सुस्राव रुधिरम् म्रियमाणस्य स अमिषम् ॥३-६८-१५॥",
+      "transliteration": "asaṁmūḍhasya gṛdhrasya rāmam prati anubhāṣataḥ ।āsyāt susrāva rudhiram mriyamāṇasya sa amiṣam ॥3-68-15॥",
+      "translations": {
+        "english": "As he(Jatayu) was speaking to Rama with an alert mind even while dying, blood mixed with flesh started oozing from Jatayu's mouth.",
+        "hindi": "बह्‌ लद्टमण जी को चिपटा कर कहने लगी--मेरा अधोमुखी नाम हे । तुम सुझे बड़े प्रिय हो । (बड़े भाग्य से) तुम सुके मिले हो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 68,
+      "verse": 16,
+      "sloka": "पुत्रो विश्रवसः साक्षात् भ्राता वैश्रवणस्य च ।इति उक्त्वा दुर्लभान् प्राणान् मुमोच पतगेश्वरः ॥३-६८-१६॥",
+      "transliteration": "putro viśravasaḥ sākṣāt bhrātā vaiśravaṇasya ca ।iti uktvā durlabhān prāṇān mumoca patageśvaraḥ ॥3-68-16॥",
+      "translations": {
+        "english": "Ravana was Visrava's son and Vaisravana's (Kubera's) brother, said Jatayu and gave up his rare life.",
+        "hindi": "जब वह वहाँ से चली गई तत्र शत्रुओं का नाश करने बाले और महातेजस्वी दोनों भाई श्रीरामचन्द्र और लक्ष्मण, वहाँ से शीघ्रता पूर्वक चल, एक (दूसरे) गहन वन में पहुँचे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 68,
+      "verse": 17,
+      "sloka": "ब्रूहि ब्रूहि इति रामस्य ब्रुवाणस्य कृतांजलेः ।त्यक्त्वा शरीरम् गृध्रस्य जग्मुः प्राणा विहायसम् ॥३-६८-१७॥",
+      "transliteration": "brūhi brūhi iti rāmasya bruvāṇasya kṛtāṁjaleḥ ।tyaktvā śarīram gṛdhrasya jagmuḥ prāṇā vihāyasam ॥3-68-17॥",
+      "translations": {
+        "english": "As Rama was saying to the vulture with folded palms 'Tell me, tell me'( about Ravana) the life breath of the vulture soared into the sky leaving the body.",
+        "hindi": "उसके ऐसे वचन सुन, लक्ष्मण जी ने कुपित हो और म्यान से तलवार निकाल उसके नाक, कान और स्तनों को काट डाला",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 68,
+      "verse": 18,
+      "sloka": "स निक्षिप्य शिरो भूमौ प्रसार्य चरणौ तदा ।विक्षिप्य च शरीरम् स्वम् पपात धरणी तले ॥३-६८-१८॥",
+      "transliteration": "sa nikṣipya śiro bhūmau prasārya caraṇau tadā ।vikṣipya ca śarīram svam papāta dharaṇī tale ॥3-68-18॥",
+      "translations": {
+        "english": "Then Jatayu dropped his head down, his feet thrown about, his body outstretched on earth.",
+        "hindi": "जब उसके कान और नाक काट डाले गए, तब वह भयङ्कर सक्षसी भयङ्कर नाद करती जिधर से आई थी इधर ही को भाग खड़ी हुई",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 68,
+      "verse": 19,
+      "sloka": "तम् गृध्रम् प्रेक्ष्य ताम्र अक्षम् गत असुम् अचलोपमम् ।रामः सु बहुभिः दुह्खैः दीनः सौमित्रिम् अब्रवीत् ॥३-६८-१९॥",
+      "transliteration": "tam gṛdhram prekṣya tāmra akṣam gata asum acalopamam ।rāmaḥ su bahubhiḥ duhkhaiḥ dīnaḥ saumitrim abravīt ॥3-68-19॥",
+      "translations": {
+        "english": "Stricken with deep grief, his eyes red (with tears) Rama saw the vulture looking like a mountain. Seeing him dead, he said to Lakshmana:",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 68,
+      "verse": 20,
+      "sloka": "बहूनि रक्षसाम् वासे वर्षाणि वसता सुखम् ।अनेन दण्डकारण्ये विशीर्णम् इह पक्षिणा ॥३-६८-२०॥",
+      "transliteration": "bahūni rakṣasām vāse varṣāṇi vasatā sukham ।anena daṇḍakāraṇye viśīrṇam iha pakṣiṇā ॥3-68-20॥",
+      "translations": {
+        "english": "Dwelling for many years happily in Dandaka forest, the abode of demons, the bird lost his life (on our account).",
+        "hindi": "महातेजस्वी, निर्मल मन वाले सदावारी एवं पवित्र शरीर वाले लक्ष्मण जी हाथ जोड़ कर प्रकाशमान श्रीरामचन्द्र जी बोले",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 68,
+      "verse": 21,
+      "sloka": "अनेक वार्षिको यः तु चिर काल समुत्थितः ।सो अयम् अद्य हतः शेते कालो हि दुर्अतिक्रमः ॥३-६८-२१॥",
+      "transliteration": "aneka vārṣiko yaḥ tu cira kāla samutthitaḥ ।so ayam adya hataḥ śete kālo hi duratikramaḥ ॥3-68-21॥",
+      "translations": {
+        "english": "This Jatayu, who lived for long years, is lying dead now. (The dictate of) destiny is inescapable.",
+        "hindi": "हे भाई ! मेरी वाम भुजा बहुत फडक रही हे ओर मन ऊब सा रहा है | इनके अतिरिक्त और भी अपशकुन सुमे देख पड़ते हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 68,
+      "verse": 22,
+      "sloka": "पश्य लक्ष्मण गृध्रो अयम् उपकारी हतः च मे ।सीताम् अभ्यवपन्नो हि रावणेन बलीयसा ॥३-६८-२२॥",
+      "transliteration": "paśya lakṣmaṇa gṛdhro ayam upakārī hataḥ ca me ।sītām abhyavapanno hi rāvaṇena balīyasā ॥3-68-22॥",
+      "translations": {
+        "english": "O Lakshmana, see this Jatayu, my benefactor, killed by the powerful Ravana while he was reaching out to help Sita.",
+        "hindi": "सो आप मेरे कहने से तैयार रहिए | ये सारे सारे अप- शकुन मुझे निकटवर्ती भय की स्पष्ट सूचना दे रहे हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 68,
+      "verse": 23,
+      "sloka": "गृध्र राज्यम् परित्यज्य पितृ पैतामहम् महत् ।मम हेतोः अयम् प्राणान् मुमोच पतगेश्वरः ॥३-६८-२३॥",
+      "transliteration": "gṛdhra rājyam parityajya pitṛ paitāmaham mahat ।mama hetoḥ ayam prāṇān mumoca patageśvaraḥ ॥3-68-23॥",
+      "translations": {
+        "english": "This lord of the birds left his ancestral kingdom of viltures and gave up life for my sake.",
+        "hindi": "सत्ववान--निर्मलमवस्कः | ( गो” ) (गो ०) ३ शुचि:--कायशुद्धियुक्तः | (मो०) परन्तु विजय हमारी अवश्य होगी। क्योंकि यह अत्यन्त भयानक बञख्चलक पक्षी मानों हमारी विज्ञयसूचना का बखान करता हुआ बोल रहा हे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 68,
+      "verse": 24,
+      "sloka": "सर्वत्र खलु दृश्यन्ते साधवो धर्म चारिणः ।शूराः शरण्याः सौमित्रे तिर्यक् योनि गतेषु अपि ॥३-६८-२४॥",
+      "transliteration": "sarvatra khalu dṛśyante sādhavo dharma cāriṇaḥ ।śūrāḥ śaraṇyāḥ saumitre tiryak yoni gateṣu api ॥3-68-24॥",
+      "translations": {
+        "english": "O Lakshmana valiant souls and protectors, being righteous and honest are found even among animals and birds.",
+        "hindi": "जिस समय तेजस्वी श्रीराम और लक्ष्मण उस वन को ढूँढ रहे थे, उस समय एक ऐसा भयानक शब्द सुन पड़ा, जिससे ऐसा जान पड़ा कि, मानों बन कड़े टुकड़े हुआ जाता हो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 68,
+      "verse": 25,
+      "sloka": "सीता हरणजं दुःखम् न मे सौम्य तथा गतम् ।यथा विनाशो गृध्रस्य मत् कृते च परंतप ॥३-६८-२५॥",
+      "transliteration": "sītā haraṇajaṁ duḥkham na me saumya tathā gatam ।yathā vināśo gṛdhrasya mat kṛte ca paraṁtapa ॥3-68-25॥",
+      "translations": {
+        "english": "O scorcher of enemies, O handsome Lakshmana the grief I experience due to Jatayu's death on my account is more intense than Sita's abduction.",
+        "hindi": "उसके शरीर के रोंगटे काँटों की तरह बुक्रीले थे और बह पहाड़ की तरह ऊँचा था । बड़ा भयङ्कर और मेघ की गरज की तरह उसका स्वर था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 68,
+      "verse": 26,
+      "sloka": "राजा दशरथः श्रीमान् यथा मम मया यशाः ।पूजनीयः च मान्यः च तथा अयम् पतगेश्वरः ॥३-६८-२६॥",
+      "transliteration": "rājā daśarathaḥ śrīmān yathā mama mayā yaśāḥ ।pūjanīyaḥ ca mānyaḥ ca tathā ayam patageśvaraḥ ॥3-68-26॥",
+      "translations": {
+        "english": "This lord of the birds for me is as worthy of reverence and honour as the famous and prosperous king Dasaratha.",
+        "hindi": "वे दोनों भाई उस शब्द होने का कारण जानना ही चाहते थे कि, बड़े डीलडौल का और चौड़ी छाती वाला एक राक्षस समीप ही देख पड़ा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 68,
+      "verse": 27,
+      "sloka": "सौमित्रे हर काष्ठानि निर्मथिष्यामि पावकम् ।गृध्र राजम् दिधक्षामि मत् कृते निधनम् गतम् ॥३-६८-२७॥",
+      "transliteration": "saumitre hara kāṣṭhāni nirmathiṣyāmi pāvakam ।gṛdhra rājam didhakṣāmi mat kṛte nidhanam gatam ॥3-68-27॥",
+      "translations": {
+        "english": "O Saumitri fetch firewood. I shall generate fire by rubbing them and cremate the king of the birds who has laid down his life for my sake.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 68,
+      "verse": 28,
+      "sloka": "नाथम् पतग लोकस्य चिताम् आरोपयामि अहम् ।इमम् धक्ष्यामि सौमित्रे हतम् रौद्रेण रक्षसा ॥३-६८-२८॥",
+      "transliteration": "nātham pataga lokasya citām āropayāmi aham ।imam dhakṣyāmi saumitre hatam raudreṇa rakṣasā ॥3-68-28॥",
+      "translations": {
+        "english": "O scion of the Raghus I will place the body of the lord of the world of birds, killed by the fierce demon, on the funeral pyre and crimate him with honour.",
+        "hindi": "मातरिरना-बायुना | पर इङ्गे हण है उजा (गोऽ) २ कळे--गुल्मे । (नोऽ) 2 प Drv. Sanne nse ees meee 7 ० रोमभिर्निचितैस्तीदंणेमहा गिरिमिवो च्छितम्‌ । नीलमेघनिभं रोद्रं मेघस्तनितनिःस्वनम्‌",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 68,
+      "verse": 29,
+      "sloka": "या गतिः यज्ञ शीलानाम् आहित अग्नेः च या गतिः ।अ पर आवर्तिनाम् या च या च भूमि प्रदायिनाम् ॥३-६८-२९॥",
+      "transliteration": "yā gatiḥ yajña śīlānām āhita agneḥ ca yā gatiḥ ।a para āvartinām yā ca yā ca bhūmi pradāyinām ॥3-68-29॥",
+      "translations": {
+        "english": "O mighty lord of the birds by my grace attain the state of those who perform sacrifices, who kindle and maintain sacrificial fires, who beat no retreat from the battlefield and who offer land in charity. Purified by my offering of fire, you may depart for the best of the worlds.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 68,
+      "verse": 30,
+      "sloka": "मया त्वम् समनुज्ञातो गच्छ लोकान् अनुत्तमान् ।गृध्र राज महा सत्त्व संस्कृतः च मया व्रज ॥३-६८-३०॥",
+      "transliteration": "mayā tvam samanujñāto gaccha lokān anuttamān ।gṛdhra rāja mahā sattva saṁskṛtaḥ ca mayā vraja ॥3-68-30॥",
+      "translations": {
+        "english": "O mighty lord of the birds by my grace attain the state of those who perform sacrifices, who kindle and maintain sacrificial fires, who beat no retreat from the battlefield and who offer land in charity. Purified by my offering of fire, you may depart for the best of the worlds.",
+        "hindi": "एक नेत्र उसका उसकी छाती पर था। यह नेत्र अत्यन्त भयङ्कर देख पड़ता था । उसका भुख भी बहुत बड़ा था,' जिसमें बड़े बड़े दाँत थे. और बह अपने ओठों को चाटता था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 68,
+      "verse": 31,
+      "sloka": "एवम् उक्त्वा चिताम् दीप्ताम् आरोप्य पतगेश्वरम् ।ददाह रामो धर्मात्मा स्व बन्धुम् इव दुःखितः ॥३-६८-३१॥",
+      "transliteration": "evam uktvā citām dīptām āropya patageśvaram ।dadāha rāmo dharmātmā sva bandhum iva duḥkhitaḥ ॥3-68-31॥",
+      "translations": {
+        "english": "Thus said, righteous Rama laid him on the pyre and sadly cremated the lord of the birds as one would do to his own relative.",
+        "hindi": "बड़े बड़े भयङ्कर भालुओं, सिंहों, गों आर. पक्षियों को बह खाया करता था ओर बड़ी बड़ी तथा भयङ्कर एव एक योजन भर लंबी दोनों भुजाओं को फैला, हाथों से अनेक रीछों, पत्तियों और मृर्गो को पकड़ कर, अपने मुख में डाल लिआ करता था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 68,
+      "verse": 32,
+      "sloka": "रामो अथ सह सौमित्रिः वनम् यात्वा स वीर्यवान् ।स्थूलान् हत्वा महा रोहीन् अनु तस्तार तम् द्विजम् ॥३-६८-३२॥",
+      "transliteration": "rāmo atha saha saumitriḥ vanam yātvā sa vīryavān ।sthūlān hatvā mahā rohīn anu tastāra tam dvijam ॥3-68-32॥",
+      "translations": {
+        "english": "Then the mighty Rama, accompanied by Saumitri, got into the forest and killed a huge deer, brought it and spread it as an offering (to the dead Jatayu).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 68,
+      "verse": 33,
+      "sloka": "रोहि मांसानि च उद्धृत्य पेशी कृत्वा महायशाः ।शकुनाय ददौ रामो रम्ये हरित शाद्वले ॥३-६८-३३॥",
+      "transliteration": "rohi māṁsāni ca uddhṛtya peśī kṛtvā mahāyaśāḥ ।śakunāya dadau rāmo ramye harita śādvale ॥3-68-33॥",
+      "translations": {
+        "english": "Tearing the flesh of the deer to pieces and making them into balls, the celebrated Rama laid it on a lovely, green grassy land as offering to the bird.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 68,
+      "verse": 34,
+      "sloka": "यत् तत् प्रेतस्य मर्त्यस्य कथयन्ति द्विजातयः ।तत् स्वर्ग गमनम् पित्र्यम् क्षिप्रम् रामो जजाप ह ॥३-६८-३४॥",
+      "transliteration": "yat tat pretasya martyasya kathayanti dvijātayaḥ ।tat svarga gamanam pitryam kṣipram rāmo jajāpa ha ॥3-68-34॥",
+      "translations": {
+        "english": "Rama muttered the mantras recommended by brahmins for dead mortals as one would do for his father, to help him ascend to heaven.",
+        "hindi": "बह रास्ता रोके हुए था। एक कोस की दूरी से ही राक्षस दोनों भाइयों को देख पड़ा ओर जब वे उसके पास पहुँचे, तब उस अत्यस्त भयङ्कर एवं निष्ठुर कबन्ध ने अपनी लंबी सुजाएँफेज्ञा कर, उन दोनों को किचकिचा कर पकड़ लिआ ॥३३)",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 68,
+      "verse": 35,
+      "sloka": "ततो गोदावरीम् गत्वा नदीम् नर वर आत्मजौ ।उदकम् चक्रतुः तस्मै गृध्र राजाय तौ उभौ ॥३-६८-३५॥",
+      "transliteration": "tato godāvarīm gatvā nadīm nara vara ātmajau ।udakam cakratuḥ tasmai gṛdhra rājāya tau ubhau ॥3-68-35॥",
+      "translations": {
+        "english": "Then both the princes went down to river Godavari and offered libations for the king of vultures.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 68,
+      "verse": 36,
+      "sloka": "शास्त्र दृष्टेन विधिना जले गृधाय राघवौ ।स्नात्वा तौ गृध्र राजाय उदकम् चक्रुः तदा ॥३-६८-३६॥",
+      "transliteration": "śāstra dṛṣṭena vidhinā jale gṛdhāya rāghavau ।snātvā tau gṛdhra rājāya udakam cakruḥ tadā ॥3-68-36॥",
+      "translations": {
+        "english": "Thereafter both the scions of the Raghu dynasty bathed in water, offered libations for the king of vultures as ordained in the scriptures.",
+        "hindi": "तलवार और मज़बूत धनुष लिये हुए, अत्यन्त तेज्जस्वी शरीर धारी और महबलवान्‌ होने पर भी, बे दोनों भाई कबन्ध द्वारा खींच लिए गए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 68,
+      "verse": 37,
+      "sloka": "स गृध्र राजः कृतवान् यशस्करम्सु दुष्करम् कर्म रणे निपातितः ।महर्षि कल्पेन च संस्कृतः तदाजगाम पुण्याम् गतिम् आत्मनः शुभाम् ॥३-६८-३७॥",
+      "transliteration": "sa gṛdhra rājaḥ kṛtavān yaśaskaramsu duṣkaram karma raṇe nipātitaḥ ।maharṣi kalpena ca saṁskṛtaḥ tadājagāma puṇyām gatim ātmanaḥ śubhām ॥3-68-37॥",
+      "translations": {
+        "english": "The king of vultures had performed a very difficult and glorious feat by laying down his life fighting. Sanctified by Rama's offering as laid down in scriptures by the seers, he attained a holy, auspicious and divine state of the self.",
+        "hindi": "श्रीरामचन्द्र तो अपनी धीरता और बोरता से दुःखी न हुए, परन्तु लक्ष्मण बालक होने के कारण, पकड़े जाने पर घबड़ा गये",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 68,
+      "verse": 38,
+      "sloka": "कृतोदकौ तौ अपि पक्षि सत्तमेस्थिराम् च बुद्धिम् प्रणिधाय जग्मुतुः ।प्रवेश्य सीता अधिगमने ततो मनोवनम् सुरेन्द्रौ इव विष्णु वासवौ ॥३-६८-३८॥",
+      "transliteration": "kṛtodakau tau api pakṣi sattamesthirām ca buddhim praṇidhāya jagmutuḥ ।praveśya sītā adhigamane tato manovanam surendrau iva viṣṇu vāsavau ॥3-68-38॥",
+      "translations": {
+        "english": "Rama and Lakshmana, like two lords of gods, Indra and Visnu, offered libations for the great bird with their settled minds and concentrated and then entered deeper into the forest turning their attention to the search for Sita. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अरण्यकाण्डे अष्टषष्टितमस्सर्गः।। Thus ends the sixtyeighth sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+        "hindi": "प्रपन्नयो:--ममीपं प्रासयो: | (गोऽ) Rese TF ओर दुःखी हो श्रीरामचन्द्र जी से बोले, हे वीर! देखो में तो इस राक्षस फे फंदे में फंस गया",
+        "telugu": ""
+      }
+    }
+  ]
+}

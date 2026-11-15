@@ -1,0 +1,14 @@
+{
+  "kanda": 1,
+  "kanda_name": "Bala Kanda",
+  "kanda_name_sanskrit": "बालकाण्डम्",
+  "sarga": 4,
+  "verse": 3,
+  "sloka": "कृत्वा तु तन् महाप्राज्ञः स भविष्यम् सह उत्तरम् ।चिन्तयामास कोन्वेतत् प्रयुंजीयाद् इति प्रभुः ॥१-४-३॥",
+  "transliteration": "kṛtvā tu tan mahāprājñaḥ sa bhaviṣyam saha uttaram ।cintayāmāsa konvetat prayuṁjīyād iti prabhuḥ ॥1-4-3॥",
+  "translations": {
+    "english": "The great intellectual and competent Valmiki having composed the Ramayanam including the events of Uttarakanda as well as future events, reflected as to who could translate into performance the epic.",
+    "hindi": "",
+    "telugu": "మిక్కిలి ప్రజ్ఞాశలియు కడుసమర్థుడు ఐన వాల్మీకి శ్రీరామ పట్టాభిషేకానంతరగాథను, అశ్వమేధయాగమునకు పిమ్మట జరుగనున్న వృత్తాంతమును గూడ (ఉత్తరకండమునుగూడ) రచించెను. ఇక \"ఈ రామాయణమును కంఠస్థముచేసి గానము చేయగలవారు ఎవరు? అని అతడు ఆలోచించసాగెను."
+  }
+}

@@ -1,0 +1,653 @@
+{
+  "kanda": 6,
+  "kanda_name": "Yuddha Kanda",
+  "kanda_name_sanskrit": "युद्धकाण्डम्",
+  "sarga": 31,
+  "verses_count": 46,
+  "verses": [
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 31,
+      "verse": 1,
+      "sloka": "ततस्तमक्षोभ्यबलंलङ्काधिपतयेचराः ।सुवेलेराघवंशैलेनिविष्टंप्रत्यवेदयन् ॥६-३१-१॥।।",
+      "transliteration": "tatastamakṣobhyabalaṁlaṅkādhipatayecarāḥ ।suvelerāghavaṁśaileniviṣṭaṁpratyavedayan ॥6-31-1॥।।",
+      "translations": {
+        "english": "There upon the spies described the unshakeable army of Raghava staying at Suvela mountain, to the king of Lanka.",
+        "hindi": "युद्धकार्ड का तेईसवाँ सगे पूरा हुआ । —— ग ° 0 एकत्रिंशः सगः ततस्तमचषोभ्यबलं लङ्काधिपतये चराः । सुवेले राघवं शेले निविष्टं प्रत्यवेदयत्‌",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 31,
+      "verse": 2,
+      "sloka": "चाराणांरावणश्श्रुत्वाप्राप्तंरामंमहाबलम् ।जातोद्वेगोऽभवत्किञ्चित्सचिवानिदमब्रवीत् ॥६-३१-२॥।।",
+      "transliteration": "cārāṇāṁrāvaṇaśśrutvāprāptaṁrāmaṁmahābalam ।jātodvego'bhavatkiñcitsacivānidamabravīt ॥6-31-2॥।।",
+      "translations": {
+        "english": "Having heard from the spies that Rama has come with mighty force, Ravana got perturbed and said to the ministers.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 31,
+      "verse": 3,
+      "sloka": "मन्त्रिणश्शीघ्रमायान्तुसर्वेवैसुसमाहिताः ।अयंनोमन्त्रकालोहिसम्प्रप्ताइतिराक्षसाः ॥६-३१-३॥।।",
+      "transliteration": "mantriṇaśśīghramāyāntusarvevaisusamāhitāḥ ।ayaṁnomantrakālohisampraptāitirākṣasāḥ ॥6-31-3॥।।",
+      "translations": {
+        "english": "\"The time has come for us to call for all the rakshasas and ministers immediately and assemble (said Ravana).\"",
+        "hindi": "हे राक्षसो ! मेरे समस्त नीतिकुशल द्वारी या सलाहकार मेरे सामने तुरन्त उपस्थित हों--क््योंकि अब मंत्रणा करने का समय आ पहुँचा है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 31,
+      "verse": 4,
+      "sloka": "तस्यतद्वचनंश्रुत्वामन्त्रिणोऽभ्यागमन् द्रुतम् ।ततस्समन्त्रयामासराक्षसैस्सचिवैस्सह ॥६-३१-४॥।।",
+      "transliteration": "tasyatadvacanaṁśrutvāmantriṇo'bhyāgaman drutam ।tatassamantrayāmāsarākṣasaissacivaissaha ॥6-31-4॥।।",
+      "translations": {
+        "english": "Having been ordered (by Ravana) that way, the ministers along with Rakshasas instantly reached and he started to think with them.",
+        "hindi": "रावण की यह आज्ञा पा, सत्र मंत्री तुरन्त आ कर उपस्थित हो गए। तब रावण उन राक्षस मंत्रियों के साथ परामशे करने लगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 31,
+      "verse": 5,
+      "sloka": "मन्त्रयित्वासदुर्धर्षःक्षमंयत्समनन्तरम् ।विसर्जयित्वासचिवान्प्रविवेशस्वमालयम् ॥६-३१-५॥।।",
+      "transliteration": "mantrayitvāsadurdharṣaḥkṣamaṁyatsamanantaram ।visarjayitvāsacivānpraviveśasvamālayam ॥6-31-5॥।।",
+      "translations": {
+        "english": "Thereafter, thinking about what is appropriate to do, unassailable Ravana dispensed his ministers and entered his own residence.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 31,
+      "verse": 6,
+      "sloka": "ततोराक्षसमाहूयविद्युज्जिह्वंमहाबलम् ।मायाविदंमहामायःप्राविशद्यत्रमैथिली ॥६-३१-६॥।।",
+      "transliteration": "tatorākṣasamāhūyavidyujjihvaṁmahābalam ।māyāvidaṁmahāmāyaḥprāviśadyatramaithilī ॥6-31-6॥।।",
+      "translations": {
+        "english": "Then Ravana of extraordinary skills sent for Vidyujihvam, a learned one in conjuring tricks and went from there to Mythili.",
+        "hindi": "श्रीरामचन्द्र जी के लङ्का के समीप आने के अनन्तर, रावण की जो करना उचित था, उसके सम्बन्ध में परामश कर चुकने के बाद, ठुधष रावण मंत्रियों को विदा कर, स्वयं भी अपने अन्तःपुर सें चला गया ॥ ₹॥ ततो राक्षसमाहूय विद्युज्जिह्व महाबलम्‌ । मायाविदं महामायः प्राविशधत्र मैथिली",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 31,
+      "verse": 7,
+      "sloka": "विद्युज्जिह्वंचमायाज्ञमब्रवीद्राक्षसाधिपः ।मोहयिष्यावहेसीतांमाययाजनकात्मजाम् ॥६-३१-७॥।।",
+      "transliteration": "vidyujjihvaṁcamāyājñamabravīdrākṣasādhipaḥ ।mohayiṣyāvahesītāṁmāyayājanakātmajām ॥6-31-7॥।।",
+      "translations": {
+        "english": "Rakshasa king Ravana said to Vidyujihvam who knew conjuring tricks, \"We will cheat Sita, daughter of Janaka by a trick.\"",
+        "hindi": "जाने के समय रावण भलोभाँति माया के जानने वाले विद्यू - ब्जिह राक्षस से कहने लगा कि, हे निशाचर! आओ हम दोनों माया की सहायता से अर्थात बाजीगर द्वारा सीता को घोखा * दें",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 31,
+      "verse": 8,
+      "sloka": "शिरोमायामयंगृह्यराघवस्यनिशाचर: ।त्वंमांसमुतिष्ठस्वमहच्चसशरंधनुः ॥६-३१-८॥।।",
+      "transliteration": "śiromāyāmayaṁgṛhyarāghavasyaniśācara: ।tvaṁmāṁsamutiṣṭhasvamahaccasaśaraṁdhanuḥ ॥6-31-8॥।।",
+      "translations": {
+        "english": "\"O Night ranger! You make an illusory head of Raghava and come and stand at me holding an arrow with great bow.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 31,
+      "verse": 9,
+      "sloka": "एवमुक्तस्तथेत्याहविद्युज्जिह्वोनिशाचरः ।दर्शयामासतांमायांसुप्रयुक्तांसरावणे ।तस्यतुष्टोऽभवद्राजाप्रददौचविभूषणम् ॥६-३१-९॥।।",
+      "transliteration": "evamuktastathetyāhavidyujjihvoniśācaraḥ ।darśayāmāsatāṁmāyāṁsuprayuktāṁsarāvaṇe ।tasyatuṣṭo'bhavadrājāpradadaucavibhūṣaṇam ॥6-31-9॥।।",
+      "translations": {
+        "english": "When the Rakshasa king had spoken that way to Vidyujihvam, he said, \"Be it so.\" Pleased with the dexterous production of Vidyujihvam, Ravana presented to him a beautiful ornament.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 31,
+      "verse": 10,
+      "sloka": "अशोकवनिकायांतुसीतादर्शनलालसः ।वैरृतानामधिपतिस्संविवेशमहाबलः ॥६-३१-१०॥।।",
+      "transliteration": "aśokavanikāyāṁtusītādarśanalālasaḥ ।vairṛtānāmadhipatissaṁviveśamahābalaḥ ॥6-31-10॥।।",
+      "translations": {
+        "english": "Eager to have a look at Sita, the mighty king of Rakshasas entered Asoka grove.",
+        "hindi": "महामाय;--ताहशमाया प्रयोग कर्तारं । ( रा० ) २६८ युद्धकाण्डे एवमुक्तस्तथेत्याह विद्य ज्जिह्ो निशाचरः । तस्य तुष्टोऽभवद्राजा प्रददो च विभूषणम््‌ ॥ & ॥ तब मायावी विद्यञ्जिह्न न रावण की आज्ञा मान कर कहा बहुत अच्छा इस पर उसने ( रावण ने ) पारितोषिक में बिद्य ज्ञजिह्न को एक आभूषण दिआ ॥ & ॥ अशोकवनिकायां तु सीतादशनलालसः । नेऋतानामधिपतिः संविवेश महाबलः",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 31,
+      "verse": 11,
+      "sloka": "ततोदीनामदैन्यार्हांददर्शधनदानुजः ॥६-३१-११॥।।",
+      "transliteration": "tatodīnāmadainyārhāṁdadarśadhanadānujaḥ ॥6-31-11॥।।",
+      "translations": {
+        "english": "Thereafter, the younger brother of Kubera (Ravana) saw sad Sita, who did not deserve that piteous condition, who had been reduced to sorrowful state, seated on the ground in Asoka grove, with her head bent down filled with sorrow contemplating on her husband alone.",
+        "hindi": "वहाँ कुबेर के छोटे भाई रावण ने उदास मन होने के अयोग्य होने पर भी, सीता को उदास मन हो, गदन झुकाए, शोक से विकल, ज्‌ पीन पर बैठा हुआ देखा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 31,
+      "verse": 12,
+      "sloka": "अधोमुखींशोकपरामुपविष्टांमहीतले ।भर्तारमेवध्यायन्तीमशोकवविकांगताम् ॥६-३१-१२॥।।",
+      "transliteration": "adhomukhīṁśokaparāmupaviṣṭāṁmahītale ।bhartāramevadhyāyantīmaśokavavikāṁgatām ॥6-31-12॥।।",
+      "translations": {
+        "english": "Thereafter, the younger brother of Kubera (Ravana) saw sad Sita, who did not deserve that piteous condition, who had been reduced to sorrowful state, seated on the ground in Asoka grove, with her head bent down filled with sorrow contemplating on her husband alone.",
+        "hindi": "सीता अशोकवाटिका में अपने पति श्रीरामचन्द्र जी के ध्यान में डूबी हुई थीं और भयङ्कर राज्षसियाँ उनके समीप इधर 'इत्रर बैठी थीं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 31,
+      "verse": 13,
+      "sloka": "उपास्यमानांघोराभीराक्षसीभिरितस्ततः ।उपसृत्यततस्सीतांप्रहर्षंनामकीर्तयन् ।इदंचवचनंधृष्टमुवाचजनकात्मजाम् ॥६-३१-१३॥।।",
+      "transliteration": "upāsyamānāṁghorābhīrākṣasībhiritastataḥ ।upasṛtyatatassītāṁpraharṣaṁnāmakīrtayan ।idaṁcavacanaṁdhṛṣṭamuvācajanakātmajām ॥6-31-13॥।।",
+      "translations": {
+        "english": "While she was guarded by dreadful Rakshasa women surrounding her closely, Ravana went near her happily and saw her. He addressed Sita praising her.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 31,
+      "verse": 14,
+      "sloka": "सान्त्व्यमानामयाभद्रेयमुपाश्रित्यवल्गसे ।खरहन्तासतेभर्ताराघवस्समरेहतः ॥६-३१-१४॥।।",
+      "transliteration": "sāntvyamānāmayābhadreyamupāśrityavalgase ।kharahantāsatebhartārāghavassamarehataḥ ॥6-31-14॥।।",
+      "translations": {
+        "english": "\"O Auspicious one! However, much I have requested you, you did not care for me seeking your husband. Raghava, who killed Khara, has been killed in war.\"",
+        "hindi": "हे भद्रे ! मैंने तुझे बहुत समभाया, पर तू ( आज तक ) जिसके भरोसे मेरे वचनां का अनादर करती रही, खर का बध करने वाला तेरा वह पति राघब युद्ध में मारा गया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 31,
+      "verse": 15,
+      "sloka": "छिन्नंतेसर्वतोमूलंदर्पस्तेनिहतोमया ।व्यसनेनात्मनस्सीते ममभार्याभविष्यसि ॥६-३१-१५॥।।",
+      "transliteration": "chinnaṁtesarvatomūlaṁdarpastenihatomayā ।vyasanenātmanassīte mamabhāryābhaviṣyasi ॥6-31-15॥।।",
+      "translations": {
+        "english": "\"O Sita! All your roots have been crushed by me. Give up your vanity. By your own accord, you become my wife.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 31,
+      "verse": 16,
+      "sloka": "विसृजेमांमतिंमूढे: किंमृतेनकरिष्यसि ।भवस्वभद्रे: भार्याणांसर्वेसामीश्वरीमम ॥६-३१-१६॥।।",
+      "transliteration": "visṛjemāṁmatiṁmūḍhe: kiṁmṛtenakariṣyasi ।bhavasvabhadre: bhāryāṇāṁsarvesāmīśvarīmama ॥6-31-16॥।।",
+      "translations": {
+        "english": "\"O Foolish one! Give up these thoughts from your mind. What will you do with your deceased husband? O auspicious one! You are the queen of all my wives.\"",
+        "hindi": "अब तू इन ब्रिचारों को त्याग दे । अरे मूर्खां ! अब तू इस मरे हुए शरीर को ले कर क्या करेगी ? हेभद्रे ! अब तू मेरे साथ चल कर मेरी समस्त स्त्रियों की स्वामिनी वन",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 31,
+      "verse": 17,
+      "sloka": "अल्पपुण्ये: निवृत्तार्थे: मूढे: पण्डितमानिनि: ।शृणुभर्तृवधंसीते: घोरंवृत्रवधंयथा ॥६-३१-१७॥।।",
+      "transliteration": "alpapuṇye: nivṛttārthe: mūḍhe: paṇḍitamānini: ।śṛṇubhartṛvadhaṁsīte: ghoraṁvṛtravadhaṁyathā ॥6-31-17॥।।",
+      "translations": {
+        "english": "\"O woman of less merit! You are one who has given up all worldly actions. Stupid one! You pretend as if you know everything. O Sita! Hear about your husband 's death like that of Vrthasura.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 31,
+      "verse": 18,
+      "sloka": "समायातस्समुद्रान्तंमांहन्तुंकिलराघवः ।वानरेन्द्रप्रणीतेनबलेनमहतावृतः ॥६-३१-१८॥।।",
+      "transliteration": "samāyātassamudrāntaṁmāṁhantuṁkilarāghavaḥ ।vānarendrapraṇītenabalenamahatāvṛtaḥ ॥6-31-18॥।।",
+      "translations": {
+        "english": "\"Raghava led by the huge army force of the Vanara king has arrived on the seashore.\"",
+        "hindi": "ग्रीव की एक वडी भारी वानरी सेना को साथ ले राम मुझे मारने के ज्ञिए समुद्र के इस पार अवश्य आया था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 31,
+      "verse": 19,
+      "sloka": "सन्निविष्टस्समुद्रस्यपीड्यतीरमथोत्तरम् ।बलेनमहतारामोव्रजत्यस्तंदिवाकरे ॥६-३१-१९॥।।",
+      "transliteration": "sanniviṣṭassamudrasyapīḍyatīramathottaram ।balenamahatārāmovrajatyastaṁdivākare ॥6-31-19॥।।",
+      "translations": {
+        "english": "And when the Sun moved towards the west, Rama encamped on the northern shore of the sea with a huge army to strike.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 31,
+      "verse": 20,
+      "sloka": "अथाध्वनिपरिश्रान्तमर्धरात्रेस्थितंबलम् ।सुखसुप्तंसमासाद्यचारित्रंप्रथमंचरैः ॥६-३१-२०॥।।",
+      "transliteration": "athādhvanipariśrāntamardharātresthitaṁbalam ।sukhasuptaṁsamāsādyacāritraṁprathamaṁcaraiḥ ॥6-31-20॥।।",
+      "translations": {
+        "english": "After having walked all the way they slept well and when they were sleeping at midnight, we found out all about them by sending prime spies.",
+        "hindi": "माग चलने की थकावट से आघीरात को सेना वेखवर पड़ी सो रही थी । प्रथम से नियुक्त किए हुए जासूसों से जव यह हाल जाना गया, तब रात को बड़ी भारी सेना लेकर प्रहस्त ने वहाँ चढ़ाई की, जहाँ राम तथा लक्ष्मण थे और उनकी सेना को मार डाला",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 31,
+      "verse": 21,
+      "sloka": "तत्प्रहस्तप्रणीतेनबलेनमहतामम ।बलमस्यहतंरात्रौयत्ररामस्सलक्ष्मणः ॥६-३१-२१॥।।",
+      "transliteration": "tatprahastapraṇītenabalenamahatāmama ।balamasyahataṁrātrauyatrarāmassalakṣmaṇaḥ ॥6-31-21॥।।",
+      "translations": {
+        "english": "\"There in that camp Lakshmana and Rama are killed by my powerful army led by Prahastha at night.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 31,
+      "verse": 22,
+      "sloka": "पट्टसान्परिघांश्चक्रान्दण्डान्महायशान् ।बाणजालानिशूलानिभास्वरान्कूटमुद्गरान् ॥६-३१-२२॥।।",
+      "transliteration": "paṭṭasānparighāṁścakrāndaṇḍānmahāyaśān ।bāṇajālāniśūlānibhāsvarānkūṭamudgarān ॥6-31-22॥।।",
+      "translations": {
+        "english": "Again, and again lifting spears, iron bars, javelins, huge staffs, sparkling maces, shining iron mallets and clubs, lances and strong Musalas, the Rakshasas hurled at Vanaras.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 31,
+      "verse": 23,
+      "sloka": "यष्टीश्चतोमरान् शक्तीश्चक्राणिमुसलानिच ।उद्यम्योद्यम्यरक्षोभिर्वानरेषुनिपातितां ॥६-३१-२३॥।।",
+      "transliteration": "yaṣṭīścatomarān śaktīścakrāṇimusalānica ।udyamyodyamyarakṣobhirvānareṣunipātitāṁ ॥6-31-23॥।।",
+      "translations": {
+        "english": "Again, and again lifting spears, iron bars, javelins, huge staffs, sparkling maces, shining iron mallets and clubs, lances and strong Musalas, the Rakshasas hurled at Vanaras.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 31,
+      "verse": 24,
+      "sloka": "अथसुप्तस्यरामस्यप्रहस्तेनप्रमाथिना ।असक्तंकृतहस्तेनशिरश्छिन्नंमहासिना ॥६-३१-२४॥।।",
+      "transliteration": "athasuptasyarāmasyaprahastenapramāthinā ।asaktaṁkṛtahastenaśiraśchinnaṁmahāsinā ॥6-31-24॥।।",
+      "translations": {
+        "english": "\"There after the head of Rama, who was sleeping, was severed by Prahastha, skilled at striking, with a big sword without any feeling of attachment.\"",
+        "hindi": "तदनन्तर शभुसेन्य को मथन करने वाले.प्रहस्त ने अपने को फुर्ती दिखला कर, एक बड़ी तलवार से झट श्रीरामचन्द्र का सिर काट डाला",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 31,
+      "verse": 25,
+      "sloka": "विभीषणस्समुत्पत्यनिगृहीतोयदृच्छया ।दिशःप्रव्राजितस्सर्वैस्सर्लक्ष्मणःप्लवगैस्सहा ॥६-३१-२५॥।।",
+      "transliteration": "vibhīṣaṇassamutpatyanigṛhītoyadṛcchayā ।diśaḥpravrājitassarvaissarlakṣmaṇaḥplavagaissahā ॥6-31-25॥।।",
+      "translations": {
+        "english": "\"When Vibheeshana rose up he was caught by chance. Lakshmana and Vanaras fled in all directions.\"",
+        "hindi": "विभीषण को जितना दण्ड देना चाहिए था, उतना दण्ड देने में कसर नहीं की गई । तब लक्ष्मण बचे हुए, सब बानरों को साथ ले भाग गया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 31,
+      "verse": 26,
+      "sloka": "सुग्रीवोग्रीनयासीतेभग्नयाप्लवगाधिपः ।निरस्तहनुकश्शेतेहनुमान्राक्षसैर्हतः ॥६-३१-२६॥।।",
+      "transliteration": "sugrīvogrīnayāsītebhagnayāplavagādhipaḥ ।nirastahanukaśśetehanumānrākṣasairhataḥ ॥6-31-26॥।।",
+      "translations": {
+        "english": "\"O Sita! Vanara Lord Sugriva with his neck broken, Hanuman with chin broken were killed by Rakshasas and are lying down fallen on the ground.\"",
+        "hindi": ", वानरराज सुग्रीव गरदन टूट जाने से रणभूमि में मरा पड़ा हे । राक्वासों ने हनुमान की ठोड़ी तोड़ डाली और तरह भी रणाक्षेत्र में मरा पड़ा है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 31,
+      "verse": 27,
+      "sloka": "जाम्बवानथजानुभ्यामुत्पतन्निहतोयुधि ।पट्टसैर्बहुभिश्छिन्नोनिकृत्तःपादपोयथा ॥६-३१-२७॥।।",
+      "transliteration": "jāmbavānathajānubhyāmutpatannihatoyudhi ।paṭṭasairbahubhiśchinnonikṛttaḥpādapoyathā ॥6-31-27॥।।",
+      "translations": {
+        "english": "And while Jambavan was rising on his knees, he was struck by many iron bars in comb at and had fallen down like a tree.",
+        "hindi": "जाम्बबान कूद भागना चाहता था, किन्तु राक्षसों ने पटों की मार से उनकी जांधें तोड़ दीं । बह भी कटे हुए पेड़ की तरह वहाँ पर मरा पड़ा हे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 31,
+      "verse": 28,
+      "sloka": "मैन्दश्चद्विविदश्चोभौनिहतौवानरर्षभौ ॥६-३१-२८॥।।",
+      "transliteration": "maindaścadvividaścobhaunihatauvānararṣabhau ॥6-31-28॥।।",
+      "translations": {
+        "english": "\"Mainda and Dwivida of huge bodies, who are slayers of enemies, the bulls among Vanaras are breathing hard, and bathed in blood roaring, having been cutin the middle of their body.\"",
+        "hindi": "वानरश्रेष्ठ मेन्द और द्विविद लंबी लंबी साँसें लेते और रोते हुए तथा रक्त से (न्हाये हुए)लथपथ हो, मारे गए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 31,
+      "verse": 29,
+      "sloka": "निश्श्वसन्तौरुदन्तौचरुधिरेणसमुक्षितौ ।असिनाव्यायतौछिन्नौमध्येह्यरिनिषूदनौ ॥६-३१-२९॥।।",
+      "transliteration": "niśśvasantaurudantaucarudhireṇasamukṣitau ।asināvyāyatauchinnaumadhyehyariniṣūdanau ॥6-31-29॥।।",
+      "translations": {
+        "english": "\"Mainda and Dwivida of huge bodies, who are slayers of enemies, the bulls among Vanaras are breathing hard, and bathed in blood roaring, having been cutin the middle of their body.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 31,
+      "verse": 30,
+      "sloka": "अनुतिष्ठतिमेदिन्यांपनसःपनसोयथा ॥६-३१-३०॥।।",
+      "transliteration": "anutiṣṭhatimedinyāṁpanasaḥpanasoyathā ॥6-31-30॥।।",
+      "translations": {
+        "english": "\"Panasa is lying down on earth like jackfruit. Darimukha is lying down shattered by many arrows. Brilliant Kumuda too is torn off and silently lying down.\"",
+        "hindi": "दरीमुख अनेक बाणों के प्रहार से मरा हुआ, कन्दरा में पडा सो रहा है। महातेजस्वी कुमुद भी वाणों को मार से सद! के लिए निःशब्द ( मूक-गू ग) बना दिआ गया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 31,
+      "verse": 31,
+      "sloka": "नाराचैर्बहुभिश्चिन्नश्शेतेदर्यांदरीमुखः ।कुमुदस्तुमहातेजानिष्कूजन्सायकै: कृतः ॥६-३१-३१॥।।",
+      "transliteration": "nārācairbahubhiścinnaśśetedaryāṁdarīmukhaḥ ।kumudastumahātejāniṣkūjansāyakai: kṛtaḥ ॥6-31-31॥।।",
+      "translations": {
+        "english": "\"Panasa is lying down on earth like jackfruit. Darimukha is lying down shattered by many arrows. Brilliant Kumuda too is torn off and silently lying down.\"",
+        "hindi": "अज्ञद भी राक्षसा द्वारा चलाए हुए अनेक वाणां से क्षत विक्षत ही, भारा गया । उसका बाजू सहित बाहु भूमि पर पड़ा है और उसके सब अड्डों से रुधिर बह रहा हे । अथवा रक्त की वमन करता हुआ वह मरा है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 31,
+      "verse": 32,
+      "sloka": "अङ्गदोबहुभिश्छिन्नश्शरैरासाद्यराक्षसैः ।पतितोरुधिरोद्गारीक्षितौनिपतिताङ्गदः ॥६-३१-३२॥।।",
+      "transliteration": "aṅgadobahubhiśchinnaśśarairāsādyarākṣasaiḥ ।patitorudhirodgārīkṣitaunipatitāṅgadaḥ ॥6-31-32॥।।",
+      "translations": {
+        "english": "\"By the many arrows of Rakshasas reaching towards Angada, he lies down chopped up and destroyed, with his armlets dropped down throwing up blood.\"",
+        "hindi": "बक) २७३ अशीर अनेक बानर ५ तो हाथियों के पैरों के नीचे कुचल कर मर गए। बहुत से रथों को चपेटों में आ कर मारे गए । बहुत से सोते हुए कुचले गए। जिस प्रकार हवा के वेग से बादल अदृश्य हो जाते हैं, उसी प्रकार राक्षसी सेना के आक्रमण से सब बानर अदृश्य हो गए हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 31,
+      "verse": 33,
+      "sloka": "हरयोमथितानागैरथजातैस्तथापरे ।शयितामृदिताश्चाश्वैर्यायुवेगैरिवाम्बुदाः ॥६-३१-३३॥।।",
+      "transliteration": "harayomathitānāgairathajātaistathāpare ।śayitāmṛditāścāśvairyāyuvegairivāmbudāḥ ॥6-31-33॥।।",
+      "translations": {
+        "english": "\"There, some of the sleeping Vanaras were crushed by elephants, so also, just as by the speed of wind the clouds are crushed the Vanaras are crushed to death.\"",
+        "hindi": "बहुत से वानर तो मारकाट के समय डर कर भागते समय पीछे से मारे गए। बहुत से राक्षसों से पिछियाये जा कर ऐसे भागे जैसे सिह के झपटने पर बड़े बड़े हाथी भागते हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 31,
+      "verse": 34,
+      "sloka": "प्रहृताश्चपरेत्रस्ताहस्यमानाजघन्यतः ।अभिद्रुतास्तुरक्षोभिस्सिंहैरिवमहाद्विपाः ॥६-३१-३४॥।।",
+      "transliteration": "prahṛtāścaparetrastāhasyamānājaghanyataḥ ।abhidrutāsturakṣobhissiṁhairivamahādvipāḥ ॥6-31-34॥।।",
+      "translations": {
+        "english": "\"Some were followed behind as they were speeding like lions and mighty elephants afflicted and frightened, struck by Rakshasas.\"",
+        "hindi": "कोई कोई तो समुद्र में कूद पडे और कोई कोई आकाश में उड़ गए । रीछ वानरों के साथ वृक्षों पर चढ़ गया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 31,
+      "verse": 35,
+      "sloka": "सागरेपतिताःकेचित्केचिग्दगनमाश्रिताः ।ऋक्षावृक्षानुपारूढावानरींवृत्तिमाश्रिताः ॥६-३१-३५॥।।",
+      "transliteration": "sāgarepatitāḥkecitkecigdaganamāśritāḥ ।ṛkṣāvṛkṣānupārūḍhāvānarīṁvṛttimāśritāḥ ॥6-31-35॥।।",
+      "translations": {
+        "english": "\"While a few Vanaras dived into the sea, some took refuge in the sky. Resorting to their natural way the Bears climbed the trees.\"",
+        "hindi": "समुद्र के तट पर, पर्वतां और वनों में जिन बानरों ने आश्रय लिया था उनमें से बहुत से राक्षसों द्वारा मार डाले गए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 31,
+      "verse": 36,
+      "sloka": "सागरस्यचतीरेषुशैलेषुचवनेषुच ।पिङ्गलास्तेविरूपाक्षैर्बहुभिर्बहवोहताः ॥६-३१-३६॥।।",
+      "transliteration": "sāgarasyacatīreṣuśaileṣucavaneṣuca ।piṅgalāstevirūpākṣairbahubhirbahavohatāḥ ॥6-31-36॥।।",
+      "translations": {
+        "english": "\"Many fierceeyed Rakshasas killed several Vanaras on the shore of the ocean, in the mountains and woods.\"",
+        "hindi": "oo १ जघन्यतः पृष्ठतः । ( गो» ) २ पिङ्गलाः-वानराः। ( गो० ) ३ विरुपाच्षेः--वानरैः । (गो०) #पाठान्तरे-““बानरौँ बृत्तिमाश्रिताः। 3 काड इस प्रकार तेरा भतो ससैन्य मेरी सेना द्वारा मारा गया । उसका यह कटा हुआ सिर तुझे दिखलाने को लाया गया हे देख, यह रक्त और घूल से सना है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 31,
+      "verse": 37,
+      "sloka": "एवंतवहतोभर्ताससैन्योममसेनया ।क्षतजार्द्रंरजोध्वस्तमिदंचस्याहृतंशिरः ॥६-३१-३७॥।।",
+      "transliteration": "evaṁtavahatobhartāsasainyomamasenayā ।kṣatajārdraṁrajodhvastamidaṁcasyāhṛtaṁśiraḥ ॥6-31-37॥।।",
+      "translations": {
+        "english": "\"In that way the army of your husband has been killed by Rakshasa army and his decayed head drenched in blood covered with dust has been brought.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 31,
+      "verse": 38,
+      "sloka": "ततःपरमदुर्धर्षोरावणोराक्षसेश्वरः ।सीतायामुपशन्त्यांराक्षसीमिदमब्रवीत् ॥६-३१-३८॥।।",
+      "transliteration": "tataḥparamadurdharṣorāvaṇorākṣaseśvaraḥ ।sītāyāmupaśantyāṁrākṣasīmidamabravīt ॥6-31-38॥।।",
+      "translations": {
+        "english": "Then Ravana, the highly unassailable king of Rakshasas spoke these words to the hearing of Sita.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 31,
+      "verse": 39,
+      "sloka": "राक्षसंक्रूरकर्माणंविद्युज्जिह्वंत्वमानय ।येनतद्राघवशिरस्सङ्ग्रामात्स्वयमाहृतम् ॥६-३१-३९॥।।",
+      "transliteration": "rākṣasaṁkrūrakarmāṇaṁvidyujjihvaṁtvamānaya ।yenatadrāghavaśirassaṅgrāmātsvayamāhṛtam ॥6-31-39॥।।",
+      "translations": {
+        "english": "\"Bring that Rakshasa, Vidyujihvam of cruel deeds who brought Rama's head from the battlefield.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 31,
+      "verse": 40,
+      "sloka": "विद्युज्जिह्वस्ततोगृह्यशिरस्तत्सशरासनम् ।प्रणामंशिरसाकृत्वारावणस्याग्रतस्थितः ॥६-३१-४०॥।।",
+      "transliteration": "vidyujjihvastatogṛhyaśirastatsaśarāsanam ।praṇāmaṁśirasākṛtvārāvaṇasyāgratasthitaḥ ॥6-31-40॥।।",
+      "translations": {
+        "english": "Then holding the head along with the bow, Vidyujihvam bowed his head down in salutation and stood in front of Ravana.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 31,
+      "verse": 41,
+      "sloka": "तमब्रवीत्ततोराजारावणोराक्षसंस्थितम् ।विद्युज्जिह्वंमहाजिह्वंसमीपपरिवर्तिनम् ॥६-३१-४१॥।।",
+      "transliteration": "tamabravīttatorājārāvaṇorākṣasaṁsthitam ।vidyujjihvaṁmahājihvaṁsamīpaparivartinam ॥6-31-41॥।।",
+      "translations": {
+        "english": "Then the king, Ravana spoke to Vidyujihvam, the Rakshasa with extended tongue, who stood close by.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 31,
+      "verse": 42,
+      "sloka": "अग्रतःकुरुसीतायाश्शीघ्रंदाशरधेशशिरः ।अवस्थांपश्चिमांभर्तुःकृपणासाधुपश्यतु ॥६-३१-४२॥।।",
+      "transliteration": "agrataḥkurusītāyāśśīghraṁdāśaradheśaśiraḥ ।avasthāṁpaścimāṁbhartuḥkṛpaṇāsādhupaśyatu ॥6-31-42॥।।",
+      "translations": {
+        "english": "At once place the head of Dasaratha's son before that piteous woman. Let her see the ultimate status attained by her husband at the end (said Ravana).",
+        "hindi": "पश्चिमामवस्थां--मरणमित्यथेः । ( गो० ) षकत्रिशः सगः २७४ रम का कटा हुआ सिर सीता के आए के सामने रख दे, जि यह बापुरी gi भर हुये राम को अच्छी तरह देख ले | न एवयुक्त तु तद्र शिरस्तत्प्रियद्शनम्र | उप निक्षिप्य सीतायाः विप्रमन्तरधीयत || 9 द| ज्योंही रावण ने वि राम का कल र (हू से यह कहा, त्योंही वह प्रियदर्शन हो डआ सिर सीता के पास रख, स्वयं तरर अन्तर्धा हा गया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 31,
+      "verse": 43,
+      "sloka": "एवमुक्तंतुतद्रक्षशशिरस्तत्प्रियदर्शनम् ।उपनिक्षिप्यसीतायाःक्षिप्रमन्तरधीयत ॥६-३१-४३॥।।",
+      "transliteration": "evamuktaṁtutadrakṣaśaśirastatpriyadarśanam ।upanikṣipyasītāyāḥkṣipramantaradhīyata ॥6-31-43॥।।",
+      "translations": {
+        "english": "Having spoken immediately placed the head of Rama that was pleasing to see, by the side of Sita and went away.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 31,
+      "verse": 44,
+      "sloka": "रावणश्चापिचिक्षेपभस्वरंकार्मुकंमहत् ।त्रिषुलोकेषुविख्यातंसीतामिदमुवाचह ॥६-३१-४४॥।।",
+      "transliteration": "rāvaṇaścāpicikṣepabhasvaraṁkārmukaṁmahat ।triṣulokeṣuvikhyātaṁsītāmidamuvācaha ॥6-31-44॥।।",
+      "translations": {
+        "english": "Thus addressed Ravana casting down the bright great bow that is famous in the three worlds.",
+        "hindi": "यह्‌ तेरे राम का रोदा-सहित धनुष को मार प्रहस्त इसे ले आया है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 31,
+      "verse": 45,
+      "sloka": "इदंतुतवरामस्यकार्मुकंज्यासमायुतम् ।इहप्रहस्तेनानीतंहत्वातंनिशिमानुषम् ॥६-३१-४५॥।।",
+      "transliteration": "idaṁtutavarāmasyakārmukaṁjyāsamāyutam ।ihaprahastenānītaṁhatvātaṁniśimānuṣam ॥6-31-45॥।।",
+      "translations": {
+        "english": "\"Prahastha has brought this bow duly tied with the string after killing human Rama in the night.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 31,
+      "verse": 46,
+      "sloka": "सविद्युज्जिह्वेनसहैवतच्छिरोधनुश्चभूमौविनिकीर्यरावणः ।विदेहराजस्यसुतांयशस्विनींततोऽब्रवीत्तांभवमेवशानुगा ॥६-३१-४६॥।।",
+      "transliteration": "savidyujjihvenasahaivatacchirodhanuścabhūmauvinikīryarāvaṇaḥ ।videharājasyasutāṁyaśasvinīṁtato'bravīttāṁbhavamevaśānugā ॥6-31-46॥।।",
+      "translations": {
+        "english": "Casting down that head and the bow upon the ground together with Vidyujjihva, he then said to the illustrious daughter of the king of Videha: \"Become submissive to me.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

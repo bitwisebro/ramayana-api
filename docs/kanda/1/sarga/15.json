@@ -1,0 +1,485 @@
+{
+  "kanda": 1,
+  "kanda_name": "Bala Kanda",
+  "kanda_name_sanskrit": "बालकाण्डम्",
+  "sarga": 15,
+  "verses_count": 34,
+  "verses": [
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 15,
+      "verse": 1,
+      "sloka": "मेधावी तु ततो ध्यात्वा स किङ्चित् इदम् उत्तरम् ।लब्ध सङ्ज्ञः ततः तम् तु वेदज्ञो नृपम् अब्रवीत् ॥१-१५-१॥",
+      "transliteration": "medhāvī tu tato dhyātvā sa kiṅcit idam uttaram ।labdha saṅjñaḥ tataḥ tam tu vedajño nṛpam abravīt ॥1-15-1॥",
+      "translations": {
+        "english": "Rsyasringa, a highly intellectual and knowledgeable one in the Vedas, pondered for a while, revived his memory and said to the king.",
+        "hindi": "॥ बालकाण्ड का तेरहवाँ सर्गे पूरा हुआ । —+°0— चतुदश; सग; “णा?० १ अथ संवत्सरे पूर्ण तस्मिन्प्राप्ते तुरङ्गमे । सरथ्वाश्चोत्तरे तीरे राज्ञो यज्ञो5भ्यवर्तत",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 15,
+      "verse": 2,
+      "sloka": "इष्टिम् तेऽहम् करिष्यामि पुत्रीयाम् पुत्र कारणात् ।अथर्व सिरसि प्रोक्तैः मन्त्रैः सिद्धाम् विधानतः ॥१-१५-२॥",
+      "transliteration": "iṣṭim te'ham kariṣyāmi putrīyām putra kāraṇāt ।atharva sirasi proktaiḥ mantraiḥ siddhām vidhānataḥ ॥1-15-2॥",
+      "translations": {
+        "english": "\"I shall perform putriyeshti to help you beget sons. This is to be done in accordance with tradition for fulfilment of desires through mantras as declared in a portion of the Vedas, 'atharva siras'\" .",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 15,
+      "verse": 3,
+      "sloka": "ततः प्राक्रमत् इदम् इष्टिम् ताम् पुत्रीयाम् पुत्र कारणात् ।जुहाव अग्नौ च तेजस्वी मन्त्र दृष्टेन कर्मणा ॥१-१५-३॥",
+      "transliteration": "tataḥ prākramat idam iṣṭim tām putrīyām putra kāraṇāt ।juhāva agnau ca tejasvī mantra dṛṣṭena karmaṇā ॥1-15-3॥",
+      "translations": {
+        "english": "To help Dasaratha beget sons, brilliant Rsyasringa commenced putriyeshti, a sacrifice for begetting children, by pouring oblations into sacrificial fire and chanting mantras in accordance with traditions.",
+        "hindi": "वेद ल वाले तथा यज्ञ कराने बाले ब्राह्मण, ( ऋत्विज )- कल्पसूत्रों में कथित यज्ञ की विधि के अनुसार सब कार्य करवाते थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 15,
+      "verse": 4,
+      "sloka": "ततो देवाः स गन्धर्वाः सिद्धाः च परम ऋषयः ।भाग प्रतिग्रहार्थम् वै समवेता यथाविधि ॥१-१५-४॥",
+      "transliteration": "tato devāḥ sa gandharvāḥ siddhāḥ ca parama ṛṣayaḥ ।bhāga pratigrahārtham vai samavetā yathāvidhi ॥1-15-4॥",
+      "translations": {
+        "english": "All the celestial deities etc., along with gandharvas according to tradition, gathered at the sacrifice to receive their share of offerings.",
+        "hindi": "श्रवग्य और उपसद्‌ ( यज्ञीयकर्म विशेष ) दोनों कर्म शास्रा- नुसार विधिवत्‌ करके, वड़ी प्रसन्नता के साथ तत्‌-तत्‌ कर्मों में पूज्य देवताओं की पूजा ब्राह्मणों नेकी और दूसरे दिन श्रेष्ठ मुनियों ने प्रातः सवन ( यज्ञीय विधि विशेष ) करके,",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 15,
+      "verse": 5,
+      "sloka": "ताः समेत्य यथा न्यायम् तस्मिन् सदसि देवताः ।अब्रुवन् लोक कर्तारम् ब्रह्माणम् वचनम् ततः ॥१-१५-५॥",
+      "transliteration": "tāḥ sametya yathā nyāyam tasmin sadasi devatāḥ ।abruvan loka kartāram brahmāṇam vacanam tataḥ ॥1-15-5॥",
+      "translations": {
+        "english": "All devatas assembled there as per tradition and thus addressed Lord Brahma the creator of the worlds:",
+        "hindi": "यथान्यायं =यथा मीमांसम्‌ | ( गो० ) २ प्रवग्ये = \"देवा वै सत्रमासत’ इत्यादि प्रवर्ग्य विशेषम्‌ ( गो० ) | ३ शास्रतः = कल्पसूत्रानुसारेण्‌ ( गो० ) थे व्राह्मणोक्तं कर्मः व िब्न्ब ॒बबकऑ्ण एचः उ अभिपूज्य ततो हृष्टाः सर्वे चक्रुयंथाविधि । प्रातःसवनपूर्वाणि कर्माणि मुनिपुङ्गवाः",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 15,
+      "verse": 6,
+      "sloka": "भगवन् त्वत् प्रसादेन रावणो नाम राक्षसः ।सर्वान् नो बाधते वीर्यात् शासितुम् तम् न शक्नुमः ॥१-१५-६॥",
+      "transliteration": "bhagavan tvat prasādena rāvaṇo nāma rākṣasaḥ ।sarvān no bādhate vīryāt śāsitum tam na śaknumaḥ ॥1-15-6॥",
+      "translations": {
+        "english": "\"O lord a rakshasa by name Ravana who had obtained prowess through your grace is oppressing us. We are unable to punish him.",
+        "hindi": "विधिपूर्वेक इन्द्र का भाग दे और पाप दूर करने वाली सोमलता का रस निकाल, मध्याहसब॒न किया गया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 15,
+      "verse": 7,
+      "sloka": "त्वया तस्मै वरो दत्तः प्रीतेन भगवन् तदा ।मानयन्तः च तम् नित्यम् सर्वम् तस्य क्षमामहे ॥१-१५-७॥",
+      "transliteration": "tvayā tasmai varo dattaḥ prītena bhagavan tadā ।mānayantaḥ ca tam nityam sarvam tasya kṣamāmahe ॥1-15-7॥",
+      "translations": {
+        "english": "Pleased with his penance, Lord, you had granted him a boon. By honour that boon and daily endure all his cruelty.",
+        "hindi": "किर महाराज और ब्राह्मणों ने शास्त्रानुसार यथाविधि तीसरा सायंसवन किया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 15,
+      "verse": 8,
+      "sloka": "उद्वेजयति लोकान् त्रीन् उच्छ्रितान् द्वेष्टि दुर्मतिः ।शक्रम् त्रिदश राजानम् प्रधर्षयितुम् इच्छति ॥१-१५-८॥",
+      "transliteration": "udvejayati lokān trīn ucchritān dveṣṭi durmatiḥ ।śakram tridaśa rājānam pradharṣayitum icchati ॥1-15-8॥",
+      "translations": {
+        "english": "The evilminded Ravana is inflicting pains on the three worlds. He hates the guardians of the earth and intends to assault Indra, lord of the celestials.",
+        "hindi": "इस यज्ञ में किसी प्रकार की त्रुटि नहीं होने पाई। पूर्ण ज्ञानी यज्ञ करवाने वालों की उपस्थिति के कारण, कोई आहुति भूल से अथवा निष्प्रयोजन नहीं दी गई, जो कमे किया गया वह कल्याणकारक ही किया गया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 15,
+      "verse": 9,
+      "sloka": "ऋषीन् यक्षान् स गन्धर्वान् असुरान् ब्राह्मणान् तथा ।अतिक्रामति दुर्धर्षो वर दानेन मोहितः ॥१-१५-९॥",
+      "transliteration": "ṛṣīn yakṣān sa gandharvān asurān brāhmaṇān tathā ।atikrāmati durdharṣo vara dānena mohitaḥ ॥1-15-9॥",
+      "translations": {
+        "english": "Because of your boon he has become unassailable and puffed with pride deties sages, yakshas, gandharvas, demons and brahmins.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 15,
+      "verse": 10,
+      "sloka": "नैनम् सूर्यः प्रतपति पार्श्वे वाति न मारुतः ।चलोर्मिमाली तम् दृष्ट्वा समुद्रोऽपि न कम्पते ॥१-१५-१०॥",
+      "transliteration": "nainam sūryaḥ pratapati pārśve vāti na mārutaḥ ।calormimālī tam dṛṣṭvā samudro'pi na kampate ॥1-15-10॥",
+      "translations": {
+        "english": "The Sun does not scorch him and the wind does not blow by him. Even the ocean with its incessantly moving waves becomes still in his presence.",
+        "hindi": "यही नहीं कि वहाँ केबल ब्राह्मणों ही को भोजन दिया जाता ` था, प्रत्युत शूट्रो, नौकरों, चाकरों को भी भोजन मिलता था | इनके : अतिरिक्त तपस्वी, संन्यासी भी भोजन पाते थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 15,
+      "verse": 11,
+      "sloka": "तन् महन्नो भयम् तस्मात् राक्षसात् घोर दर्शनात् ।वधार्थम् तस्य भगवन् उपायम् कर्तुम् अर्हसि ॥१-१५-११॥",
+      "transliteration": "tan mahanno bhayam tasmāt rākṣasāt ghora darśanāt ।vadhārtham tasya bhagavan upāyam kartum arhasi ॥1-15-11॥",
+      "translations": {
+        "english": "His dreamful appearance of that rakshasa strikes terror into us. O Lord do find some means to kill him\".",
+        "hindi": "बूढ़े, रोगी, स्त्रियाँ और बालक बारंबार भोजन करते थे, तो भी भोजन कराने वाले उकताते न थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 15,
+      "verse": 12,
+      "sloka": "एवम् उक्तः सुरैः सर्वैः चिन्तयित्वा ततोऽब्रवीत् ।हन्ता अयम् विदितः तस्य वधोपायो दुरात्मनः ॥१-१५-१२॥",
+      "transliteration": "evam uktaḥ suraiḥ sarvaiḥ cintayitvā tato'bravīt ।hantā ayam viditaḥ tasya vadhopāyo durātmanaḥ ॥1-15-12॥",
+      "translations": {
+        "english": "After listening to the words of the devatas and reflecting over the matter, Brahma said, \"Oh, the means of destruction of that wicked (rakshasa) has struck my mind\".",
+        "hindi": "महाराज को आज्ञा थी कि दो-दौ--अतः भण्डारी लोग अन्न ओर वस्त्रादि का दान बड़ी उदारता से जी खोलकर करते थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 15,
+      "verse": 13,
+      "sloka": "तेन गन्धर्व यक्षाणाम् देवतानाम् च रक्षसाम् ।अवध्योऽस्मि इति वागुक्ता तथेति उक्तम् च तन् मया ॥१-१५-१३॥",
+      "transliteration": "tena gandharva yakṣāṇām devatānām ca rakṣasām ।avadhyo'smi iti vāguktā tatheti uktam ca tan mayā ॥1-15-13॥",
+      "translations": {
+        "english": "When he asked gandharvas, yakshas, gods, demons or rakshasas should never be able to kill him, I said, \"So be it\".",
+        "hindi": "कच्चे-पक्के अन्न के ढेर पहाड़ों जैसे ऊँचे लगे रहते थे। जो जैता माँगता उसे नित्य वैसा ही भोजन दिया जाता था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 15,
+      "verse": 14,
+      "sloka": "न अकीर्तयत् अवज्ञानात् तत् रक्षो मानुषाम् तदा ।तस्मात् स मानुषात् वध्यो मृत्युः न अन्योऽस्य विद्यते ॥१-१५-१४॥",
+      "transliteration": "na akīrtayat avajñānāt tat rakṣo mānuṣām tadā ।tasmāt sa mānuṣāt vadhyo mṛtyuḥ na anyo'sya vidyate ॥1-15-14॥",
+      "translations": {
+        "english": "\"The rakshasa did not include man monkey and bear because of his disdain for men. As such he is fit to be destroyed by a man and not by any other means\".",
+        "hindi": "श्रमणाः = दिगम्बराः । “श्रमणा वातवसनाः? इतिनिघण्टु अथवा *“वतुर्थमाश्रमं पराप्ताः श्रमणा नाम ते स्मृताः ।” इति स्मृति: | ( गो०) ea अनेक देशों से आए हुए स्री-पुरुषों के झुण्ड के झुण्ड नित्य भोजन से तम होते थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 15,
+      "verse": 15,
+      "sloka": "एतत् श्रुत्वा प्रियम् वाक्यम् ब्रह्मणा समुदाहृतम् ।देवा महर्षयः सर्वे प्रहृष्टाः ते अभवन् तदा ॥१-१५-१५॥",
+      "transliteration": "etat śrutvā priyam vākyam brahmaṇā samudāhṛtam ।devā maharṣayaḥ sarve prahṛṣṭāḥ te abhavan tadā ॥1-15-15॥",
+      "translations": {
+        "english": "Having heard these pleasing words uttered by Brahma, all the devatas and maharshis were overwhelmed with joy.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 15,
+      "verse": 16,
+      "sloka": "एतस्मिन् अनन्तरे विष्णुः उपयातो महाद्युतिः ।श्ङ्ख चक्र गदा पाणिः पीत वासा जगत्पतिः ॥१-१५-१६॥",
+      "transliteration": "etasmin anantare viṣṇuḥ upayāto mahādyutiḥ ।śṅkha cakra gadā pāṇiḥ pīta vāsā jagatpatiḥ ॥1-15-16॥",
+      "translations": {
+        "english": "At this juncture Visnu the lord of the world, highly effulgent and bearing conch, discus and mace in his hands and in yellow apparel arrived.",
+        "hindi": "वस्रों और गहनों से सजे हुए अन्य राजाओं के नौकर-चाकर आह्यणों की सब प्रकार सेवा करते और उन लोगों की परिचर्या के लिए मणिजटित कुएडलधारी अन्य लोग थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 15,
+      "verse": 17,
+      "sloka": "वैनतेयम् समारूह्य भास्कर तोयदम् यथा ।तप्त हाटक केयूरो वन्द्यमानः सुरोत्तमैः ॥१-१५-१७॥",
+      "transliteration": "vainateyam samārūhya bhāskara toyadam yathā ।tapta hāṭaka keyūro vandyamānaḥ surottamaiḥ ॥1-15-17॥",
+      "translations": {
+        "english": "Lord Visnu stayed there with a composed mind after meeting Brahma Then thus spoke the devatas prostrated before Visnu and paying him homage with hymns.",
+        "hindi": "एक सवन समाप्त होने पर और दूसरा सवन आरम्भ होने के बीच जो समय वचता, उसमें एक दूसरे को पाणिडत्य में हरा देने की इच्छा से विद्वान ब्राह्मण परस्पर शास्त्राथे करते थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 15,
+      "verse": 18,
+      "sloka": "ब्रह्मणा च समागम्य तत्र तस्थौ समाहितः ।तम् अब्रुवन् सुराः सर्वे समभिष्टूय संनताः ॥१-१५-१८॥",
+      "transliteration": "brahmaṇā ca samāgamya tatra tasthau samāhitaḥ ।tam abruvan surāḥ sarve samabhiṣṭūya saṁnatāḥ ॥1-15-18॥",
+      "translations": {
+        "english": "\"O Visnu we pray for the welfare of all the worlds. The sovereign of Ayodhya, king Dasaratha is a righteous, virtuous and generous king equal with rishis in lusture. Pray form into four and incarnate in the of four sons of his three wives, resembling hri (modesty), shree (auspiciousness), kirti (fame).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 15,
+      "verse": 19,
+      "sloka": "त्वाम् नियोक्ष्यामहे विष्णो लोकानाम् हित काम्यया ।राज्ञो दशरथस्य त्वम् अयोध्य अधिपतेः विभोः ॥१-१५-१९॥",
+      "transliteration": "tvām niyokṣyāmahe viṣṇo lokānām hita kāmyayā ।rājño daśarathasya tvam ayodhya adhipateḥ vibhoḥ ॥1-15-19॥",
+      "translations": {
+        "english": "\"O Visnu we pray for the welfare of all the worlds. The sovereign of Ayodhya, king Dasaratha is a righteous, virtuous and generous king equal with rishis in lusture. Pray form into four and incarnate in the of four sons of his three wives, resembling hri (modesty), shree (auspiciousness), kirti (fame).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 15,
+      "verse": 20,
+      "sloka": "धर्मज्ञस्य वदान्यस्य महर्षि सम तेजसः ।अस्य भार्यासु तिसृषु ह्री श्री कीर्ति उपमासु च ॥१-१५-२०॥",
+      "transliteration": "dharmajñasya vadānyasya maharṣi sama tejasaḥ ।asya bhāryāsu tisṛṣu hrī śrī kīrti upamāsu ca ॥1-15-20॥",
+      "translations": {
+        "english": "\"O Visnu assuring human form, kill Ravana in the battle. He has become a source of torment to the worlds and is invincible by gods.",
+        "hindi": "उस यज्ञ में लकड़ी के अँकवार भर मोटे इक्कीस खंभे गाडे गये थे। इनमें ६ बेल के, ६ खेर के, ६ ढाक के, १ लिसोड़े का ओर २ देवदार के थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 15,
+      "verse": 21,
+      "sloka": "विष्णो पुत्रत्वम् आगच्छ कृत्वा आत्मानम् चतुर्विधम् ।तत्र त्वम् मानुषो भूत्वा प्रवृद्धम् लोक कण्टकम् ॥१-१५-२१॥",
+      "transliteration": "viṣṇo putratvam āgaccha kṛtvā ātmānam caturvidham ।tatra tvam mānuṣo bhūtvā pravṛddham loka kaṇṭakam ॥1-15-21॥",
+      "translations": {
+        "english": "\"That stupid rakshasa, Ravana, with his haughty prowess, is terrorising the gods, gandharvas, siddhas and great rishis.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 15,
+      "verse": 22,
+      "sloka": "अवध्यम् दैवतैः विष्णो समरे जहि रावणम् ।स हि देवान् स गन्धर्वान् सिद्धान् च ऋषि सत्तमान् ॥१-१५-२२॥",
+      "transliteration": "avadhyam daivataiḥ viṣṇo samare jahi rāvaṇam ।sa hi devān sa gandharvān siddhān ca ṛṣi sattamān ॥1-15-22॥",
+      "translations": {
+        "english": "It is reported that a cruel rakshasa with his haughty prowess has tortured rishis, gandharvas and apsaras sporting in Nandana groves.",
+        "hindi": "यज्ञकमें में चतुर शास्त्रियों ने यज्ञशाला की शोभा बढ़ाने के लिए इन खंभों को सोने के पत्रों से मढ़बा दिया था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 15,
+      "verse": 23,
+      "sloka": "राक्षसो रावणो मूर्खो वीर्य उद्रेकेण बाधते ।ऋषयः च ततः तेन गन्धर्वा अप्सरसः तथा ॥१-१५-२३॥",
+      "transliteration": "rākṣaso rāvaṇo mūrkho vīrya udrekeṇa bādhate ।ṛṣayaḥ ca tataḥ tena gandharvā apsarasaḥ tathā ॥1-15-23॥",
+      "translations": {
+        "english": "We siddhas, gandharvas and yakshas along with ascetics, have hence come here to devise ways of his death. We take refuge in you.",
+        "hindi": "इक्कोसों खंभे इक्कीस अरत्नि ऊँचे थे और सब कपड़ों से सजाये गये थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 15,
+      "verse": 24,
+      "sloka": "क्रीडयन्तो नन्दन वने रैउद्रेण विनिपातिताः ।वधार्थम् वयम् आयाताः तस्य वै मुनिभिः सह ॥१-१५-२४॥",
+      "transliteration": "krīḍayanto nandana vane raiudreṇa vinipātitāḥ ।vadhārtham vayam āyātāḥ tasya vai munibhiḥ saha ॥1-15-24॥",
+      "translations": {
+        "english": "O tormentor of enemies, O Visnu, you are the supreme, refuge for all of us. Resolve to be born in the world of men for the destruction of enemies of the gods (rakshasas)\".",
+        "hindi": "अरजलि--मुद्ठी ; यानी. हाथ की बँधी हुई मट्टी । चतुदशः सग: ११% शिल्पियों ने यथाविधि बना, इनको बड़ी मजबूती से प्रथिवी में गाड़ा था, जिससे हिते नहीं, और ये खंभे बड़े चिकने और अठपहलू बनाये गए थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 15,
+      "verse": 25,
+      "sloka": "सिद्ध गन्धर्व यक्षाः च ततः त्वाम् श्ररणम् गताः ।त्वम् गतिः परमा देव सर्वेषाम् नः परंतपः ॥१-१५-२५॥",
+      "transliteration": "siddha gandharva yakṣāḥ ca tataḥ tvām śraraṇam gatāḥ ।tvam gatiḥ paramā deva sarveṣām naḥ paraṁtapaḥ ॥1-15-25॥",
+      "translations": {
+        "english": "Visnu, the lord of the celestials, foremost among the gods and bowed by all in the worlds addressed the assembled devatas who were guided by the law of righteousness and were led by the grand sire, Brahma.",
+        "hindi": "इन खंभों पर वस्न लपेटे गए थे और ये पुष्प और चन्दन से सजाए गए थे। उस समय इनकी शोभा आकाश-मण्डल में सप्षर्षियों की तरह देख पड़ती थी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 15,
+      "verse": 26,
+      "sloka": "वधाय देव शतॄणाम् नृणाम् लोके मनः कुरु ।एवम् स्तुतस्तु देवेशो विष्णुः त्रिदशः पुंगवः ॥१-१५-२६॥",
+      "transliteration": "vadhāya deva śatṝṇām nṛṇām loke manaḥ kuru ।evam stutastu deveśo viṣṇuḥ tridaśaḥ puṁgavaḥ ॥1-15-26॥",
+      "translations": {
+        "english": "Visnu, the lord of the celestials, foremost among the gods and bowed by all in the worlds addressed the assembled devatas who were guided by the law of righteousness and were led by the grand sire, Brahma.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 15,
+      "verse": 27,
+      "sloka": "पितामह पुरोगान् तान् सर्व लोक नमस्कृतःअब्रवीत् त्रिदशान् सर्वान् समेतान् धर्म संहितान् ॥१-१५-२७॥",
+      "transliteration": "pitāmaha purogān tān sarva loka namaskṛtaḥabravīt tridaśān sarvān sametān dharma saṁhitān ॥1-15-27॥",
+      "translations": {
+        "english": "Abandon your fear and may you be blessed; for your welfare I shall slay in battle the cruel, wicked Ravana, dreadful to gods and sages, together with his sons, grandsons, ministers, friends, kinsmen and allies, and then dwell in the world of men, ruling this earth for eleven thousand years.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 15,
+      "verse": 28,
+      "sloka": "भयम् त्यजत भद्रम् वो हितार्थम् युधि रावणम् ।स पुत्र पौत्रम् स अमात्यम् स मित्र ज्ञाति बान्धवम् ॥१-१५-२८॥",
+      "transliteration": "bhayam tyajata bhadram vo hitārtham yudhi rāvaṇam ।sa putra pautram sa amātyam sa mitra jñāti bāndhavam ॥1-15-28॥",
+      "translations": {
+        "english": "Abandon your fear and may you be blessed; for your welfare I shall slay in battle the cruel, wicked Ravana, dreadful to gods and sages, together with his sons, grandsons, ministers, friends, kinsmen and allies, and then dwell in the world of men, ruling this earth for eleven thousand years.",
+        "hindi": "जैसी शास्त्रों में विधि बतलाई गई है, तदनुसार जिस देवता के लिए जो पशु चाहिए वह बाँधा गया। यथाविधि सर्प और पक्षी भी यज्ञशाला में लाए गए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 15,
+      "verse": 29,
+      "sloka": "हत्वा क्रूरम् दुराधर्षम् देव ऋषीणाम् भयावहम् ।दश वर्ष सहस्राणि दश वर्ष शतानि च ॥१-१५-२९॥",
+      "transliteration": "hatvā krūram durādharṣam deva ṛṣīṇām bhayāvaham ।daśa varṣa sahasrāṇi daśa varṣa śatāni ca ॥1-15-29॥",
+      "translations": {
+        "english": "Lord Visnu, supreme soul having given boon to devatas in this manner, reflected as to the place where he should take birth as a man in this world of men.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 15,
+      "verse": 30,
+      "sloka": "वत्स्यामि मानुषे लोके पालयन् पृध्वीम् इमाम् ।एवम् दत्वा वरम् देवो देवानाम् विष्णुः आत्मवान् ॥१-१५-३०॥",
+      "transliteration": "vatsyāmi mānuṣe loke pālayan pṛdhvīm imām ।evam datvā varam devo devānām viṣṇuḥ ātmavān ॥1-15-30॥",
+      "translations": {
+        "english": "Thereafter, the Lord with eyes like the lotus petal was pleased to transform himself into four forms and to choose king Dasaratha as his father.",
+        "hindi": "उन खंभों में तीन सो पशु और प्रत्येक दिशा में घूस कर . आया हुआ महाराज का अति उत्तम घोड़ा बाँधा गया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 15,
+      "verse": 31,
+      "sloka": "मानुषे चिन्तयामास जन्मभूमिम् अथ आत्मनः ।ततः पद्म पलाशाक्षः कृत्वा आत्मानम् चतुर्विधम् ॥१-१५-३१॥",
+      "transliteration": "mānuṣe cintayāmāsa janmabhūmim atha ātmanaḥ ।tataḥ padma palāśākṣaḥ kṛtvā ātmānam caturvidham ॥1-15-31॥",
+      "translations": {
+        "english": "Then along with gandharvas, groups of apsaras, rishis, rudras and devatas sang in praise of the 'Lord Slayer of Madhu', with hymns of celestial beauty.",
+        "hindi": "कोसल्या जीने उस घोड़े की अच्छी तरह पूजा की और प्रसन्न हो, तीन तलवारों से उस घोड़े के टुकड़े किये",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 15,
+      "verse": 32,
+      "sloka": "पितरम् रोचयामास तदा दशरथम् नृपम् ।तदा देव ऋषि गन्धर्वाः स रुद्राः स अप्सरो गणाः ।स्तुतिभिः दिव्य रूपाभिः तुष्टुवुः मधुसूदनम् ॥१-१५-३२॥",
+      "transliteration": "pitaram rocayāmāsa tadā daśaratham nṛpam ।tadā deva ṛṣi gandharvāḥ sa rudrāḥ sa apsaro gaṇāḥ ।stutibhiḥ divya rūpābhiḥ tuṣṭuvuḥ madhusūdanam ॥1-15-32॥",
+      "translations": {
+        "english": "\"Therefore, uproot that mighty Ravana possessing frightful prowess, inflamed pride, limitless insolence causing agony to the three worlds, a source of vexation to ascetics and a dreadful enemy of Indra.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 15,
+      "verse": 33,
+      "sloka": "तम् उद्धतम् रावणम् उग्र तेजसम्प्रवृद्ध दर्पम् त्रिदशेश्वर वर द्विषम् ।विरावणम् साधु तपस्वि कण्टकम्तपस्विनाम् उद्धर तम् भयाअवहम् ॥१-१५-३३॥",
+      "transliteration": "tam uddhatam rāvaṇam ugra tejasampravṛddha darpam tridaśeśvara vara dviṣam ।virāvaṇam sādhu tapasvi kaṇṭakamtapasvinām uddhara tam bhayāavaham ॥1-15-33॥",
+      "translations": {
+        "english": "Kill Ravana, the cause of distress in the worlds, kill his forces and relatives. Them return to heaven protected by Indra after freeing from distress, faults and sins\". इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे पञ्चदशस्सर्ग:।। Thus ends the fifteenth sarga of Balakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+        "hindi": "र हे > फिर होता, अध्वय्र और उद्गाताओं ने कौसल्या जी को परिवृति$& को तथा वावाता† को अश्व के साथ नियोजित किया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 15,
+      "verse": 34,
+      "sloka": "तमेव हत्वा स बलम् स बान्धवम्विरावणम् रावणम् उग्र पौरुषम् ।स्वर् लोकम् आगच्छ गत ज्वरः चिरम्सुरेन्द्र गुप्तम् गत दोष कल्मषम् ॥१-१५-३४॥",
+      "transliteration": "tameva hatvā sa balam sa bāndhavamvirāvaṇam rāvaṇam ugra pauruṣam ।svar lokam āgaccha gata jvaraḥ ciramsurendra guptam gata doṣa kalmaṣam ॥1-15-34॥",
+      "translations": {
+        "english": "",
+        "hindi": "एकाग्र चित्त हो ऋल्बिजों ने उस घोड़े की चर्बी ले, यथाविधि अग्नि पर चढ़ा उसे पकाया",
+        "telugu": ""
+      }
+    }
+  ]
+}

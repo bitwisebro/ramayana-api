@@ -1,0 +1,317 @@
+{
+  "kanda": 7,
+  "kanda_name": "Uttara Kanda",
+  "kanda_name_sanskrit": "उत्तरकाण्डम्",
+  "sarga": 109,
+  "verses_count": 22,
+  "verses": [
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 109,
+      "verse": 1,
+      "sloka": "प्रभातायां तु शर्वर्यां पृथुवक्षा महायशाः ।रामः कमलपत्राक्षः पुरोधसमथाब्रवीत् ।। ७.१०९.१ ॥",
+      "transliteration": "prabhātāyāṁ tu śarvaryāṁ pṛthuvakṣā mahāyaśāḥ ।rāmaḥ kamalapatrākṣaḥ purodhasamathābravīt ।। 7.109.1 ॥",
+      "translations": {
+        "english": "When the night had dawned, the broad-chested, highly renowned, lotus-eyed Rama then spoke to his chief priest.",
+        "hindi": "उत्तरकाण्ड का नमब्बेबाँ सग समाप्त हुआ । एकनवतितमः सग; एतदाख्याय काकुत्स्थो भ्रातुभ्याममित प्रभः । लक्ष्मण पुनरेवाह. धर्मे युक्तमिदं वचः",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 109,
+      "verse": 2,
+      "sloka": "अग्निहोत्रं व्रजत्वग्रे दीप्यमानं सह द्विजैः ।वाजपेयातपत्रं च शोभमानं महापथे ।। ७.१०९.२ ॥",
+      "transliteration": "agnihotraṁ vrajatvagre dīpyamānaṁ saha dvijaiḥ ।vājapeyātapatraṁ ca śobhamānaṁ mahāpathe ।। 7.109.2 ॥",
+      "translations": {
+        "english": "He instructed that the shining sacred fire should go in front with the Brahmins, and the splendid Vajapeya umbrella should also be carried on the great path.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 109,
+      "verse": 3,
+      "sloka": "ततो वसिष्ठस्तेजस्वी सर्वं निरवशेषतः ।चकार विधिवद्धर्मं महाप्रास्थानिकं विधिम् ।। ७.१०९.३ ॥",
+      "transliteration": "tato vasiṣṭhastejasvī sarvaṁ niravaśeṣataḥ ।cakāra vidhivaddharmaṁ mahāprāsthānikaṁ vidhim ।। 7.109.3 ॥",
+      "translations": {
+        "english": "Then, the lustrous Vasishtha completely performed all the rituals for the great departure according to scriptural injunctions.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 109,
+      "verse": 4,
+      "sloka": "ततः सूक्ष्माम्बरधरो ब्रह्ममावर्तयन्परम् ।कुशान्गृहीत्वा पाणिभ्यां प्रसज्य प्रययावथ ।। ७.१०९.४ ॥",
+      "transliteration": "tataḥ sūkṣmāmbaradharo brahmamāvartayanparam ।kuśāngṛhītvā pāṇibhyāṁ prasajya prayayāvatha ।। 7.109.4 ॥",
+      "translations": {
+        "english": "Then, wearing fine garments, meditating upon the supreme Brahman, and holding Kusa grass in his hands, he went forth.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 109,
+      "verse": 5,
+      "sloka": "अव्याहरन्क्वचित्किञ्चिन्निश्चेष्टो निःसुखः पथि ।निर्जगाम गृहात्तस्माद्दीप्यमान इवांशुमान् ।। ७.१०९.५ ॥",
+      "transliteration": "avyāharankvacitkiñcinniśceṣṭo niḥsukhaḥ pathi ।nirjagāma gṛhāttasmāddīpyamāna ivāṁśumān ।। 7.109.5 ॥",
+      "translations": {
+        "english": "Not speaking anything, motionless, and devoid of joy on the path, he departed from that house, shining like the sun.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 109,
+      "verse": 6,
+      "sloka": "रामस्य दक्षिणे पार्श्वे सपद्मा श्रीरपाश्रिता ।सव्ये तु ह्रीर्महादेवी व्यवसायस्तथाग्रतः ।। ७.१०९.६ ॥",
+      "transliteration": "rāmasya dakṣiṇe pārśve sapadmā śrīrapāśritā ।savye tu hrīrmahādevī vyavasāyastathāgrataḥ ।। 7.109.6 ॥",
+      "translations": {
+        "english": "On Rama's right side was Sri, the goddess of prosperity, holding a lotus; on his left was the great goddess Hri (Modesty); and in front of him was Determination.",
+        "hindi": "तदनन्तर श्रीरामचन्द्र जी ने उन श्रेष्ठ ब्राह्मणों को प्रणाम कर श्रश्वमेधयज्ञ के सम्बन्ध में धर्मयुक्त वचन कहे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 109,
+      "verse": 7,
+      "sloka": "शरा नानाविधाश्चापि धनुरायतमुत्तमम् ।तथा ऽ ऽयुधानि ते सर्वे ययुः पुरुषविग्रहाः ।। ७.१०९.७ ॥",
+      "transliteration": "śarā nānāvidhāścāpi dhanurāyatamuttamam ।tathā ' 'yudhāni te sarve yayuḥ puruṣavigrahāḥ ।। 7.109.7 ॥",
+      "translations": {
+        "english": "Various kinds of arrows, an excellent long bow, and all other weapons followed him, having assumed human forms.",
+        "hindi": "ब्राह्मणों ने भी श्रीराम जी के उन वचना को सुन, शिव जी को प्रणाम किआ ओर श्रीरामचन्द्र जी छ अश्वमेघ सम्बन्धी विचार की प्रशंसा करते हुए, उसका अनुमोदन किया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 109,
+      "verse": 8,
+      "sloka": "वेदा ब्राह्मणरूपेण गायत्री सर्वरक्षिणी ।ओङ्कारो ऽथ वषट्कारः सर्वे राममनुव्रताः ।। ७.१०९.८ ॥",
+      "transliteration": "vedā brāhmaṇarūpeṇa gāyatrī sarvarakṣiṇī ।oṅkāro 'tha vaṣaṭkāraḥ sarve rāmamanuvratāḥ ।। 7.109.8 ॥",
+      "translations": {
+        "english": "The Vedas in the form of Brahmins, the all-protecting Gayatri mantra, Omkara, and Vasatkara, all followed Rama with devotion.",
+        "hindi": "श्रीरामचन्द्र जी उन श्रेष्ठ ब्राह्मणों से अश्वमेध का अद्भुत माहात्म्य सुन, बहुत प्रसन्न हुए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 109,
+      "verse": 9,
+      "sloka": "ऋषयश्च महात्मानः सर्व एव महीसुराः ।अन्वगच्छन्महात्मानं स्वर्गद्वारमपावृतम् ।। ७.१०९.९ ॥",
+      "transliteration": "ṛṣayaśca mahātmānaḥ sarva eva mahīsurāḥ ।anvagacchanmahātmānaṁ svargadvāramapāvṛtam ।। 7.109.9 ॥",
+      "translations": {
+        "english": "All the great-souled sages and Brahmins followed the great-souled Rama to the open gate of heaven.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 109,
+      "verse": 10,
+      "sloka": "तं यान्तमनुगच्छन्ति ह्यन्तःपुरचराः स्त्रियः ।सवृद्धबालदासीकाः सवर्षवरकिङ्कराः ।। ७.१०९.१० ॥",
+      "transliteration": "taṁ yāntamanugacchanti hyantaḥpuracarāḥ striyaḥ ।savṛddhabāladāsīkāḥ savarṣavarakiṅkarāḥ ।। 7.109.10 ॥",
+      "translations": {
+        "english": "The women of the inner apartments, accompanied by their old and young maidservants, eunuchs, and chief servants, followed him as he went.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 109,
+      "verse": 11,
+      "sloka": "सान्तःपुरश्च भरतः शत्रुघ्नसहितो ययौ ।रामं गतिमुपागम्य साग्निहोत्रमनुव्रतः ।। ७.१०९.११ ॥",
+      "transliteration": "sāntaḥpuraśca bharataḥ śatrughnasahito yayau ।rāmaṁ gatimupāgamya sāgnihotramanuvrataḥ ।। 7.109.11 ॥",
+      "translations": {
+        "english": "Bharata, accompanied by Shatrughna and the women of his inner apartment, went, following Rama's path and bringing his sacred fire with him.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 109,
+      "verse": 12,
+      "sloka": "ते च सर्वे महात्मानः साग्निहोत्राः समागताः ।सपुत्रदाराः काकुत्स्थमनुजग्मुर्महामतिम् ।। ७.१०९.१२ ॥",
+      "transliteration": "te ca sarve mahātmānaḥ sāgnihotrāḥ samāgatāḥ ।saputradārāḥ kākutsthamanujagmurmahāmatim ।। 7.109.12 ॥",
+      "translations": {
+        "english": "All those great-souled individuals, having assembled with their sacred fires, sons, and wives, followed the great-minded Rama.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 109,
+      "verse": 13,
+      "sloka": "मन्त्रिणो भृत्यवर्गाश्च सपुत्रपशुबान्धवाः ।सर्वे सहानुगा राममन्वगच्छन्प्रहृष्टवत् ।। ७.१०९.१३ ॥",
+      "transliteration": "mantriṇo bhṛtyavargāśca saputrapaśubāndhavāḥ ।sarve sahānugā rāmamanvagacchanprahṛṣṭavat ।। 7.109.13 ॥",
+      "translations": {
+        "english": "All the ministers and groups of servants, along with their sons, animals, relatives, and followers, joyfully followed Rama.",
+        "hindi": "जो ब्राह्मण देश देशान्तर में रहने वाले हैं. और अपने धर्मा- नुछान में सावधान, रहते हैं, वे सब भी बुलवा लिए जॉय",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 109,
+      "verse": 14,
+      "sloka": "ततः सर्वाः प्रकृतयो हृष्टपुष्टजनावृताः ।गच्छन्तमन्वगछंस्तं राघवं गुणरञ्जिताः ।। ७.१०९.१४ ॥",
+      "transliteration": "tataḥ sarvāḥ prakṛtayo hṛṣṭapuṣṭajanāvṛtāḥ ।gacchantamanvagachaṁstaṁ rāghavaṁ guṇarañjitāḥ ।। 7.109.14 ॥",
+      "translations": {
+        "english": "Then, all the subjects, filled with joyful and well-nourished people, who were charmed by Rama's virtues, followed him as he departed.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 109,
+      "verse": 15,
+      "sloka": "ततः सस्त्रीपुमांसस्ते सपक्षिपशुवाहनाः ।राघवस्यानुगाः सर्वे हृष्टा विगतकल्मषाः ।। ७.१०९.१५ ॥",
+      "transliteration": "tataḥ sastrīpumāṁsaste sapakṣipaśuvāhanāḥ ।rāghavasyānugāḥ sarve hṛṣṭā vigatakalmaṣāḥ ।। 7.109.15 ॥",
+      "translations": {
+        "english": "Then, all of Rama's followers, including men, women, birds, animals, and those with vehicles, were joyful and purified of all sins.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 109,
+      "verse": 16,
+      "sloka": "स्नाताः प्रमुदिताः सर्वे हृष्टाः पुष्टाश्च वानराः ।दृढं किलकिलाशब्दैः सर्वं राममनुव्रतम् ।। ७.१०९.१६ ॥",
+      "transliteration": "snātāḥ pramuditāḥ sarve hṛṣṭāḥ puṣṭāśca vānarāḥ ।dṛḍhaṁ kilakilāśabdaiḥ sarvaṁ rāmamanuvratam ।। 7.109.16 ॥",
+      "translations": {
+        "english": "All the monkeys, bathed, greatly delighted, joyful, and well-nourished, loudly cheered with shouts of joy, all devoted to Rama.",
+        "hindi": "बहू बड़ा पुण्यस्थान अर्थात्‌ पबित्र स्थान हे । ब हाँ यज्ञमण्डप बनाने के लिए नौररों को आज्ञा दो तुम सब ओर सावधानी रखो, जिससे किसी प्रकार का बिन्न न होने पादे--सवत्र शान्ति बनी रहे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 109,
+      "verse": 17,
+      "sloka": "न तत्र कश्चिद्दीनो वा व्रीडितो वा ऽपि दुःखितः ।हृष्टं समुदितं सर्वं बभूव परमाद्भुतम् ।। ७.१०९.१७ ॥",
+      "transliteration": "na tatra kaściddīno vā vrīḍito vā 'pi duḥkhitaḥ ।hṛṣṭaṁ samuditaṁ sarvaṁ babhūva paramādbhutam ।। 7.109.17 ॥",
+      "translations": {
+        "english": "There was no one miserable, ashamed, or sorrowful; everything was joyful, prosperous, and extremely wonderful.",
+        "hindi": "शतशश्चापि धर्मज्ञाः क्रत॒मु ख्यमनुत्तमम्‌ । अनुभूय महायज्ञं नेमिषे रघुनन्दन ॥ १७! वे महात्मा धर्मज्ञ लोग नैमिषारण्य में सहख्रों यज्ञ करवा चुके हें। हे लच्मण ! इससे वे लोग यज्ञ कराने की विधि को भली भाँति जानते हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 109,
+      "verse": 18,
+      "sloka": "द्रष्टुकामो ऽथ निर्यान्तं रामं जानपदो जनः ।यः प्राप्तः सो ऽपि दृष्ट्वैव स्वर्गायानुगतो मुदा ।। ७.१०९.१८ ॥",
+      "transliteration": "draṣṭukāmo 'tha niryāntaṁ rāmaṁ jānapado janaḥ ।yaḥ prāptaḥ so 'pi dṛṣṭvaiva svargāyānugato mudā ।। 7.109.18 ॥",
+      "translations": {
+        "english": "Then, any rural person who arrived, desirous of seeing Rama departing, immediately followed him to heaven with joy upon seeing him.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 109,
+      "verse": 19,
+      "sloka": "ऋक्षवानररक्षांसि जनाश्च पुरवासिनः ।आगच्छन्परया भक्त्या पृष्ठतः सुसमाहिताः ।। ७.१०९.१९ ॥",
+      "transliteration": "ṛkṣavānararakṣāṁsi janāśca puravāsinaḥ ।āgacchanparayā bhaktyā pṛṣṭhataḥ susamāhitāḥ ।। 7.109.19 ॥",
+      "translations": {
+        "english": "Bears, monkeys, rakshasas, and the city-dwellers, all well-composed, followed him from behind with supreme devotion.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 109,
+      "verse": 20,
+      "sloka": "यानि भूतानि नगरे ऽप्यन्तर्धानगतानि च ।राघवं तान्यनुययुः स्वर्गाय समुपस्थितम् ।। ७.१०९.२० ॥",
+      "transliteration": "yāni bhūtāni nagare 'pyantardhānagatāni ca ।rāghavaṁ tānyanuyayuḥ svargāya samupasthitam ।। 7.109.20 ॥",
+      "translations": {
+        "english": "Even the invisible beings residing in the city followed Rama, who was ready to depart for heaven.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 109,
+      "verse": 21,
+      "sloka": "यानि पश्यन्ति काकुत्स्थं स्थावराणि चराणि च ।सर्वाणि रामगमने ह्यनुजग्मुर्हि तान्यपि ।। ७.१०९.२१ ॥",
+      "transliteration": "yāni paśyanti kākutsthaṁ sthāvarāṇi carāṇi ca ।sarvāṇi rāmagamane hyanujagmurhi tānyapi ।। 7.109.21 ॥",
+      "translations": {
+        "english": "All beings, both immobile and mobile, that beheld Rama, indeed followed him at his departure.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 109,
+      "verse": 22,
+      "sloka": "नोच्छ्वसत्तदयोध्यायां सुसूक्ष्ममपि दृश्यते ।तिर्यग्योनिगताश्चापि सर्वे राममनुव्रताः ।। ७.१०९.२२ ॥",
+      "transliteration": "nocchvasattadayodhyāyāṁ susūkṣmamapi dṛśyate ।tiryagyonigatāścāpi sarve rāmamanuvratāḥ ।। 7.109.22 ॥",
+      "translations": {
+        "english": "Not even the slightest breathing creature was seen in Ayodhya, as all beings, even those of lower species, were devoted followers of Rama. इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये श्रीमदुत्तरकाण्डे नवाधिकशततमः सर्गः ।। 109 ।। Thus ends the hundred and ninth sarga of Uttara Kanda of the holy Ramayana the first epic composed by sage Valmiki.",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,415 @@
+{
+  "kanda": 6,
+  "kanda_name": "Yuddha Kanda",
+  "kanda_name_sanskrit": "युद्धकाण्डम्",
+  "sarga": 39,
+  "verses_count": 29,
+  "verses": [
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 39,
+      "verse": 1,
+      "sloka": "ताम् रात्रिम् उषितास् तत्र सुवेले हरि पुम्गवाः ।लन्कायाम् ददृशुर् वीरा वनान्य् उपवनानि च ।। ६-३९-१।।",
+      "transliteration": "tām rātrim uṣitās tatra suvele hari pumgavāḥ ।lankāyām dadṛśur vīrā vanāny upavanāni ca ।। 6-39-1।।",
+      "translations": {
+        "english": "The heroic leader of the monkeys kept awake that night on the Suvela and saw forests and gardens there in Lanka.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 39,
+      "verse": 2,
+      "sloka": "सम सौम्यानि रम्याणि विशालान्य् आयतानि च ।दृष्टि रम्याणि ते दृष्ट्वा बभूवुर् जात विस्मयाः ।। ६-३९-२।।",
+      "transliteration": "sama saumyāni ramyāṇi viśālāny āyatāni ca ।dṛṣṭi ramyāṇi te dṛṣṭvā babhūvur jāta vismayāḥ ।। 6-39-2।।",
+      "translations": {
+        "english": "They were amazed to see the even terrain, beautiful and expansive, long, and continuous sanctuary lovely to look at being a feast to the eyes.",
+        "hindi": "छ वे बन उपवन चोरस, सुन्दर, रमणीक, विशाल, चौडे तथा नेत्रा को सुख देने वाले थे । उनको देख, वे वानरयूथपति विस्मित हुए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 39,
+      "verse": 3,
+      "sloka": "चम्पक अशोक पुम्नाग साल ताल समाकुला ।तमाल वन संचन्ना नाग माला समावृता ।। ६-३९-३।।",
+      "transliteration": "campaka aśoka pumnāga sāla tāla samākulā ।tamāla vana saṁcannā nāga mālā samāvṛtā ।। 6-39-3।।",
+      "translations": {
+        "english": "Thickly covered with trees like Champaka, Asoka, Punnaga, Sala, Tala, Samala and Tamala trees concealing the woods, surrounded with Nagamala trees all over and Hintala, Arjuna and Neepa in full bloom, Saptaparni, Tilaka, Karnakara and Patala trees with crests laden with flowers, intertwined with creepers and wonderful variety of flowers trees with tender red leaves as if clothe d in red, flowers of diverse kind and similarly colourful Neela and Sadala as king of forest, it was shining like Amaravathi, capital of Indra.",
+        "hindi": "वे वन उपवन चम्पा, अशोक, मौलसिरी, साखू और ताड़ वृक्षों से परिपूण थे और तमाल के वृक्षा के वन से ब्याप्त और नागकेसर के पेड़ों से घिरे हुए थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 39,
+      "verse": 4,
+      "sloka": "हिन्तालैर् अर्जुनैर् नीपैः सप्त पर्णैश् च पुष्पितैः ।तिलकैः कर्णिकारैश् च पटालैश् च समन्ततः ।। ६-३९-४।।",
+      "transliteration": "hintālair arjunair nīpaiḥ sapta parṇaiś ca puṣpitaiḥ ।tilakaiḥ karṇikāraiś ca paṭālaiś ca samantataḥ ।। 6-39-4।।",
+      "translations": {
+        "english": "Thickly covered with trees like Champaka, Asoka, Punnaga, Sala, Tala, Samala and Tamala trees concealing the woods, surrounded with Nagamala trees all over and Hintala, Arjuna and Neepa in full bloom, Saptaparni, Tilaka, Karnakara and Patala trees with crests laden with flowers, intertwined with creepers and wonderful variety of flowers trees with tender red leaves as if clothe d in red, flowers of diverse kind and similarly colourful Neela and Sadala as king of forest, it was shining like Amaravathi, capital of Indra.",
+        "hindi": "लताओं से लिपटे हुए ये वृक्ष कलियो से सुशोभित थे । उनसे ङ्का को ऐसी शोभा हो रही थी, जैक्ती इन्द्र की अ्रमरात्रती की हो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 39,
+      "verse": 5,
+      "sloka": "शुशुभे पुष्पित अग्रैश् च लता परिगतैर् द्रुमैः ।लन्का बहु विधैर् दिव्यैर् यथा इन्द्रस्य अमरावती ।। ६-३९-५।।",
+      "transliteration": "śuśubhe puṣpita agraiś ca latā parigatair drumaiḥ ।lankā bahu vidhair divyair yathā indrasya amarāvatī ।। 6-39-5।।",
+      "translations": {
+        "english": "Thickly covered with trees like Champaka, Asoka, Punnaga, Sala, Tala, Samala and Tamala trees concealing the woods, surrounded with Nagamala trees all over and Hintala, Arjuna and Neepa in full bloom, Saptaparni, Tilaka, Karnakara and Patala trees with crests laden with flowers, intertwined with creepers and wonderful variety of flowers trees with tender red leaves as if clothe d in red, flowers of diverse kind and similarly colourful Neela and Sadala as king of forest, it was shining like Amaravathi, capital of Indra.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 39,
+      "verse": 6,
+      "sloka": "विचित्र कुसुम उपेतै रक्त कोमल पल्लवैः ।शाद्वलैश् च तथा नीलैश् चित्राभिर् वन राजिभिः ।। ६-३९-६।।",
+      "transliteration": "vicitra kusuma upetai rakta komala pallavaiḥ ।śādvalaiś ca tathā nīlaiś citrābhir vana rājibhiḥ ।। 6-39-6।।",
+      "translations": {
+        "english": "Thickly covered with trees like Champaka, Asoka, Punnaga, Sala, Tala, Samala and Tamala trees concealing the woods, surrounded with Nagamala trees all over and Hintala, Arjuna and Neepa in full bloom, Saptaparni, Tilaka, Karnakara and Patala trees with crests laden with flowers, intertwined with creepers and wonderful variety of flowers trees with tender red leaves as if clothe d in red, flowers of diverse kind and similarly colourful Neela and Sadala as king of forest, it was shining like Amaravathi, capital of Indra.",
+        "hindi": "रंगविरंगे फूलें से, लाल लाल पत्तों से, मन हरने वाले वृक्षों से हरी हरी दूब से ओर रंगविरंगी बृच्चावली से, उस भूमि की अपूव शोभा हो रही थी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 39,
+      "verse": 7,
+      "sloka": "गन्ध आढ्यान्य् अभिरम्याणि पुष्पाणि च फलानि च ।धारयन्त्य् अगमास् तत्र भूषणानि इव मानवाः ।। ६-३९-७।।",
+      "transliteration": "gandha āḍhyāny abhiramyāṇi puṣpāṇi ca phalāni ca ।dhārayanty agamās tatra bhūṣaṇāni iva mānavāḥ ।। 6-39-7।।",
+      "translations": {
+        "english": "Having reached there where trees bore fragrance, very beautiful flowers and fruits seemed as though humans were wearing ornaments.",
+        "hindi": "जैसे मनुष्य भूषणों से भूषित या शोभायमान होते हैं, वैसे ही वहाँ के वृक्ष गन्धयुक्त सुन्दर फूलों और फलों को घारण किए हुए शोभायमान जान पड़ते थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 39,
+      "verse": 8,
+      "sloka": "तच् चैत्र रथ सम्काशम् मनोज्नम् नन्दन उपमम् ।वनम् सर्व ऋतुकम् रम्यम् शुशुभे षट्पद आयुतम् ।। ६-३९-८।।",
+      "transliteration": "tac caitra ratha samkāśam manojnam nandana upamam ।vanam sarva ṛtukam ramyam śuśubhe ṣaṭpada āyutam ।। 6-39-8।।",
+      "translations": {
+        "english": "Appearing like the chaitra chariot of Kubera, Nandana garden of Indra, green in all seasons filled with bees, the garden was a wonderful delight.",
+        "hindi": "लङ्का के वे बन चैत्ररथ वन के तुल्य अथवा मनोहर नन्दन कानन की तरह सब ऋतुओं में रमणोक थे ओर भौरों की मधुर गु जार से मन को मोहित किआ करते थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 39,
+      "verse": 9,
+      "sloka": "नत्यूह कोयष्टि भकैर् नृत्यमानैश् च बर्हिभिः ।रुतम् पर भृतानाम् च शुश्रुवे वन निर्झरे ।। ६-३९-९।।",
+      "transliteration": "natyūha koyaṣṭi bhakair nṛtyamānaiś ca barhibhiḥ ।rutam para bhṛtānām ca śuśruve vana nirjhare ।। 6-39-9।।",
+      "translations": {
+        "english": "The Vanaras heard the singing of cuckoos, dancing of peacocks, crying of gallinules, lapwings and herons from the gardens abounding in cascades.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 39,
+      "verse": 10,
+      "sloka": "नित्य मत्त विहम्गानि भ्रमर आचरितानि च ।कोकिल आकुल षण्डानि विहग अभिरुतानि च ।। ६-३९-१०।।",
+      "transliteration": "nitya matta vihamgāni bhramara ācaritāni ca ।kokila ākula ṣaṇḍāni vihaga abhirutāni ca ।। 6-39-10।।",
+      "translations": {
+        "english": "There after the rejoiced heroic Vanaras who can change their form at will happily entered the woods and gardens inhabited by birds in heat full of emotion, trees covered with cuckoos, and wandering bees, rendered noisy by birds, resounded with the singing of large black bees and bees going around clinging to trees, mingled with sounds of various birds and noise of cries of cranes.",
+        "hindi": "नत्यूहकोयष्टिभकैन त्यमानेश्च बहिभिः रुतं परभृतानां च शुश्रवुवननि रे ॥ & ॥ उनमें भरनों के तटों पर चकई चकवा, जलमुगे, मोर कोकिल आदि पक्षी नाच नाच कर चिहक रहे थे ॥ & ॥ निस्यमत्तविहङ्गानि श्रमराचरितानि च । कोकिलाबलपणडानि®१ विहङ्गाभिरुतानि च",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 39,
+      "verse": 11,
+      "sloka": "भृन्ग राज अभिगीतानि भ्रमरैः सेवितानि च ।कोणालक विघुष्टानि सारस अभिरुतानि च ।। ६-३९-११।।",
+      "transliteration": "bhṛnga rāja abhigītāni bhramaraiḥ sevitāni ca ।koṇālaka vighuṣṭāni sārasa abhirutāni ca ।। 6-39-11।।",
+      "translations": {
+        "english": "There after the rejoiced heroic Vanaras who can change their form at will happily entered the woods and gardens inhabited by birds in heat full of emotion, trees covered with cuckoos, and wandering bees, rendered noisy by birds, resounded with the singing of large black bees and bees going around clinging to trees, mingled with sounds of various birds and noise of cries of cranes.",
+        "hindi": "भृङ्गराज पक्षी उनमें मधुर गान और भरे गु जार कर रहे थे । खञ्जन पक्षियों की बोली से वे सुहावने हो रहे थें । उनमें सारस पक्षी बोल रहे थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 39,
+      "verse": 12,
+      "sloka": "विविशुस् ते ततस् तानि वनान्य् उपवनानि च ।हृष्टाह् प्रमुदिता वीरा हरयः काम रूपिणः ।। ६-३९-१२।।",
+      "transliteration": "viviśus te tatas tāni vanāny upavanāni ca ।hṛṣṭāh pramuditā vīrā harayaḥ kāma rūpiṇaḥ ।। 6-39-12।।",
+      "translations": {
+        "english": "There after the rejoiced heroic Vanaras who can change their form at will happily entered the woods and gardens inhabited by birds in heat full of emotion, trees covered with cuckoos, and wandering bees, rendered noisy by birds, resounded with the singing of large black bees and bees going around clinging to trees, mingled with sounds of various birds and noise of cries of cranes.",
+        "hindi": "इस प्रकार के सुशोभित उन वनों ओर उपवनां में, कामरूपी बीर बानर, प्रसन्न हो कर, घुस गए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 39,
+      "verse": 13,
+      "sloka": "तेषाम् प्रविशताम् तत्र वानराणाम् महा ओजसाम् ।पुष्प संसर्ग सुरभिर् ववौ घ्राण सुखो अनिलः ।। ६-३९-१३।।",
+      "transliteration": "teṣām praviśatām tatra vānarāṇām mahā ojasām ।puṣpa saṁsarga surabhir vavau ghrāṇa sukho anilaḥ ।। 6-39-13।।",
+      "translations": {
+        "english": "Then the Vanaras of extraordinary energy, were enjoying the breeze redolent with the fragrance of flowers as they were entering, and the wind blew.",
+        "hindi": "उन महातेजस्वी वानरों के घुसते समय, पुष्प की सुगन्ध से युक्त शर लाक को सुख देने वाली हुवा बहने लगी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 39,
+      "verse": 14,
+      "sloka": "अन्ये तु हरि वीराणाम् यूथान् निष्क्रम्य यूथपाः ।सुग्रीवेण अभ्यनुज्नाता लन्काम् जग्मुः पताकिनीम् ।। ६-३९-१४।।",
+      "transliteration": "anye tu hari vīrāṇām yūthān niṣkramya yūthapāḥ ।sugrīveṇa abhyanujnātā lankām jagmuḥ patākinīm ।। 6-39-14।।",
+      "translations": {
+        "english": "Some other monkey heroes permitted by Sugriva went to Lanka decorated with flags.",
+        "hindi": "वे गजने बालों में श्रेष्ठ वानय्यूथपति पक्षियों, मगो. और हाथियों को त्रस्त करते तथा लङ्का को कम्पायमान करते हुए सिहनाद करने लगे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 39,
+      "verse": 15,
+      "sloka": "वित्रासयन्तो विहगांस् त्रासयन्तो मृग द्विपान् ।कम्पयन्तश् च ताम् लन्काम् नादैः स्वैर् नदताम् वराः ।। ६-३९-१५।।",
+      "transliteration": "vitrāsayanto vihagāṁs trāsayanto mṛga dvipān ।kampayantaś ca tām lankām nādaiḥ svair nadatām varāḥ ।। 6-39-15।।",
+      "translations": {
+        "english": "Other monkeys capable of roaring went into Lanka, spreading out terrifying the birds, dispiriting the deer and elephants by noise.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 39,
+      "verse": 16,
+      "sloka": "कुर्वन्तस् ते महा वेगा महीम् चारण पीडिताम् ।अजश् च सहसा एव ऊर्ध्वम् जगाम चरण उद्धतम् ।। ६-३९-१६।।",
+      "transliteration": "kurvantas te mahā vegā mahīm cāraṇa pīḍitām ।ajaś ca sahasā eva ūrdhvam jagāma caraṇa uddhatam ।। 6-39-16।।",
+      "translations": {
+        "english": "Those Vanaras endowed with speed went trampling down on the ground with force, the dust under their feet rose to the sky in a fraction of a second.",
+        "hindi": "वे थिवी पर पैर पटकते हुए ऐसे जोर से चले कि, धूल उड कर सहसा सारे आकाश में छा गई",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 39,
+      "verse": 17,
+      "sloka": "ऋक्षाः सिम्हा वराहाश् च महिषा वारणा मृगाः ।तेन शब्देन वित्रस्ता जग्मुर् भीता दिशो दश ।। ६-३९-१७।।",
+      "transliteration": "ṛkṣāḥ simhā varāhāś ca mahiṣā vāraṇā mṛgāḥ ।tena śabdena vitrastā jagmur bhītā diśo daśa ।। 6-39-17।।",
+      "translations": {
+        "english": "Alarmed by that sound the Bears, lions, pigs, elephants, buffaloes were frightened and went in all the ten directions.",
+        "hindi": "रीछ, सिंह, बराह, भैसे, हाथी और हिरन उनके इस गजेन तजन से भयभीत हो, चारो ओर भाग गए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 39,
+      "verse": 18,
+      "sloka": "शिखरम् तु त्रिकूटस्य प्रांशु च एकम् दिवि स्पृशम् ।समन्तात् पुष्प संचन्नम् महा रजत सम्निभम् ।। ६-३९-१८।।",
+      "transliteration": "śikharam tu trikūṭasya prāṁśu ca ekam divi spṛśam ।samantāt puṣpa saṁcannam mahā rajata samnibham ।। 6-39-18।।",
+      "translations": {
+        "english": "Trikuta peak was fully covered with flowers, sparkled with gold, spread over a hundred yojanas, beautiful to look at, splendid and smooth. It is difficult even for birds to reach, for sages even in thought and difficult to access by any physical action. It is praiseworthy as if touching the sky alone.",
+        "hindi": "त्रिकूटाचल पर्वेत का एक श्वङ्ग आकाशस्पर्शी था । उसके चारों ओर फूल लगे हुए थे । बह खरी चाँदी के समान दमक रहा था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 39,
+      "verse": 19,
+      "sloka": "शत योजन विस्तीर्णम् विमलम् चारु दर्शनम् ।श्लक्ष्णम् श्रीमन् महच् चैव दुष्प्रापम् शकुनैर् अपि ।। ६-३९-१९।।",
+      "transliteration": "śata yojana vistīrṇam vimalam cāru darśanam ।ślakṣṇam śrīman mahac caiva duṣprāpam śakunair api ।। 6-39-19।।",
+      "translations": {
+        "english": "Trikuta peak was fully covered with flowers, sparkled with gold, spread over a hundred yojanas, beautiful to look at, splendid and smooth. It is difficult even for birds to reach, for sages even in thought and difficult to access by any physical action. It is praiseworthy as if touching the sky alone.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 39,
+      "verse": 20,
+      "sloka": "मनसा अपि दुरारोहम् किम् पुनः कर्मणा जनैः ।निविष्टा तत्र शिखरे लन्का रावण पालिता ।। ६-३९-२०।।",
+      "transliteration": "manasā api durāroham kim punaḥ karmaṇā janaiḥ ।niviṣṭā tatra śikhare lankā rāvaṇa pālitā ।। 6-39-20।।",
+      "translations": {
+        "english": "Lanka ruled by Ravana was a hundred yojanas in breadth and thirty yojanas in length was seen.",
+        "hindi": "उस पर जब कल्पना द्वारा भी चढूना सम्भव न था, तत्र क्रियात्मक रू प से उसके ऊपर कोन चढ़ सकता था । उसी शिखर के ऊपर रावण द्वारा पालित लङ्का बसाई गई थी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 39,
+      "verse": 21,
+      "sloka": "दशयोजनविस्तीर्णा विंशद्योजनमायता ।सा पुरी गोपुरैर् उच्चैः पाण्डुर अम्बुद सम्निभैः ।कान्चनेन च सालेन राजतेन च शोभिता ।। ६-३९-२१।।",
+      "transliteration": "daśayojanavistīrṇā viṁśadyojanamāyatā ।sā purī gopurair uccaiḥ pāṇḍura ambuda samnibhaiḥ ।kāncanena ca sālena rājatena ca śobhitā ।। 6-39-21।।",
+      "translations": {
+        "english": "The city of Lanka looked charming with tall towers resembling white cluster of clouds fortified with gold and silver.",
+        "hindi": "बह लङ्का सौ योजन लंबी और तीस योजन चौड़ी थी। उसके बड़े ऊंचे ऊचे गोपुरद्वार सफेद बादलों की तरह जान पड़ते थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 39,
+      "verse": 22,
+      "sloka": "प्रासादैश् च विमानैश् च लन्का परम भूषिता ।घनैर् इव आतप अपाये मध्यमम् वैष्णवम् पदम् ।। ६-३९-२२।।",
+      "transliteration": "prāsādaiś ca vimānaiś ca lankā parama bhūṣitā ।ghanair iva ātapa apāye madhyamam vaiṣṇavam padam ।। 6-39-22।।",
+      "translations": {
+        "english": "The tall buildings decorated beautifully resembled air planes and were shining like heavy rainy clouds exposed to the sun. The building in the centre resembled the abode of Vishnu.",
+        "hindi": "सुवण और चाँदी के परकोटे से शोभित थी । बड़े बड़े भवनों और सतखनी हवेलयो से लङ्का की बैसी ही परम शोभा हो रही थी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 39,
+      "verse": 23,
+      "sloka": "तस्याम् स्तम्भ सहस्रेण प्रासादः समलम्कृतः ।कैलास शिखर आकारो दृश्यते खम् इव उल्लिखन् ।। ६-३९-२३।।",
+      "transliteration": "tasyām stambha sahasreṇa prāsādaḥ samalamkṛtaḥ ।kailāsa śikhara ākāro dṛśyate kham iva ullikhan ।। 6-39-23।।",
+      "translations": {
+        "english": "In that city, which was always protected fully by a hundred Rakshasas, there was a palace with thousand pillars, which looked like peak of mount Kailas, and was as though it was scraping the sky and it as like an ornament of Lanka, the city of Rakshasa's Lord.",
+        "hindi": "जैसी कि, ग्रीष्मऋतु के अन्त में, मेघों की धाराओं से आ काश की परम शोभा होती हे । लङ्का में एक ऐसा भवन था, जिसकी शोभा एक सहस्र खम्भों से हो रही थी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 39,
+      "verse": 24,
+      "sloka": "चैत्यः स राक्षस इन्द्रस्य बभूव पुर भूषणम् ।शतेन रक्षसाम् नित्यम् यः समग्रेण रक्ष्यते ।। ६-३९-२४।।",
+      "transliteration": "caityaḥ sa rākṣasa indrasya babhūva pura bhūṣaṇam ।śatena rakṣasām nityam yaḥ samagreṇa rakṣyate ।। 6-39-24।।",
+      "translations": {
+        "english": "In that city, which was always protected fully by a hundred Rakshasas, there was a palace with thousand pillars, which looked like peak of mount Kailas, and was as though it was scraping the sky and it as like an ornament of Lanka, the city of Rakshasa's Lord.",
+        "hindi": "बह्‌ केलासशिखर के आकार का या उसके समान ऊँचा था ओर आकाश को छूता हुआ सा जान पड़ता था । राक्षसराज रावण का वह भत्रन लङ्कापुरी का एक भूषण सा था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 39,
+      "verse": 25,
+      "sloka": "मनोज्ञाम् काञ्चनवतीम् सर्वतैरुपशोभिताम् ।नानाधातुविचित्रैश्च उद्यानैरुपशोभिताम् ।। ६-३९-२५।।",
+      "transliteration": "manojñām kāñcanavatīm sarvatairupaśobhitām ।nānādhātuvicitraiśca udyānairupaśobhitām ।। 6-39-25।।",
+      "translations": {
+        "english": "Prosperous Rama, brother of Lakshmana along with Vanaras saw different kinds of forests, mountains filled with different kinds of minerals, delightful gardens endowed with different varieties of flowers, charming birds singing happily, frequented by a variety of deer, attended by Rakshasas. The city was blooming with prosperity.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 39,
+      "verse": 26,
+      "sloka": "नानाविहगसम्घष्टाम् नानामृगनिषेविताम् ।नानाकुसुमसंपन्नाम् नानाराक्षससेविताम् ।। ६-३९-२६।।",
+      "transliteration": "nānāvihagasamghaṣṭām nānāmṛganiṣevitām ।nānākusumasaṁpannām nānārākṣasasevitām ।। 6-39-26।।",
+      "translations": {
+        "english": "Prosperous Rama, brother of Lakshmana along with Vanaras saw different kinds of forests, mountains filled with different kinds of minerals, delightful gardens endowed with different varieties of flowers, charming birds singing happily, frequented by a variety of deer, attended by Rakshasas. The city was blooming with prosperity.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 39,
+      "verse": 27,
+      "sloka": "ताम् समृद्धाम् समृद्ध अर्थो लक्ष्मीवाम्ल् लक्ष्मण अग्रजः ।रावणस्य पुरीम् रामो ददर्श सह वानरैः ।। ६-३९-२७।।",
+      "transliteration": "tām samṛddhām samṛddha artho lakṣmīvāml lakṣmaṇa agrajaḥ ।rāvaṇasya purīm rāmo dadarśa saha vānaraiḥ ।। 6-39-27।।",
+      "translations": {
+        "english": "Prosperous Rama, brother of Lakshmana along with Vanaras saw different kinds of forests, mountains filled with different kinds of minerals, delightful gardens endowed with different varieties of flowers, charming birds singing happily, frequented by a variety of deer, attended by Rakshasas. The city was blooming with prosperity.",
+        "hindi": "उन उद्यानों में तरह तरह के फूल खिल रहे थे। अनेक राक्षसा से सेवित इस उन्नत और समस्त पदार्था से',भरी पूरी रावण की लङ्कापुरी को, लक्ष्मण के बड़े भाई एवं काम्तिमान्‌ श्री रामचन्द्र जी ने और बानरों ने देखो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 39,
+      "verse": 28,
+      "sloka": "ताम् महागृहसम्बाधां दृष्ट्वा लक्ष्मणपूर्वजः ।नगरीं त्रिदिवप्रख्यां विस्मयं प्राप वीर्यवान् ६-३९-२८।।",
+      "transliteration": "tām mahāgṛhasambādhāṁ dṛṣṭvā lakṣmaṇapūrvajaḥ ।nagarīṁ tridivaprakhyāṁ vismayaṁ prāpa vīryavān 6-39-28।।",
+      "translations": {
+        "english": "Valiant brother of Lakshmana wondered seeing the city filled with great palaces, distinct like Lord Indra's city.",
+        "hindi": "लक्ष्मण के बड़े भाई बलवान्‌ श्रीरामचन्द्र, बडे-अरड़े ऊँचे भवनों से युक्त एवं अमरावती सदरा उस लङ्कापुरी को देख, विस्मित हुए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 39,
+      "verse": 29,
+      "sloka": "ताम् रत्न पूर्णाम् बहु सम्विधानाम् ।प्रासाद मालाभिर् अलम्कृताम् च ।पुरीम् महा यन्त्र कवाट मुख्याम् ।ददर्श रामो महता बलेन ।। ६-३९-२९",
+      "transliteration": "tām ratna pūrṇām bahu samvidhānām ।prāsāda mālābhir alamkṛtām ca ।purīm mahā yantra kavāṭa mukhyām ।dadarśa rāmo mahatā balena ।। 6-39-29",
+      "translations": {
+        "english": "Accompanied by huge Vanara army, Rama saw in the city of Lanka rows of buildingspalaces, adorned with gems, gates fitted with huge machines for war and large army of Ravana. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेएकोनचत्वारिंशस्सर्गः ।। This is the end of the thirty ninth sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

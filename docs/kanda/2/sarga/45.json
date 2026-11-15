@@ -1,0 +1,471 @@
+{
+  "kanda": 2,
+  "kanda_name": "Ayodhya Kanda",
+  "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+  "sarga": 45,
+  "verses_count": 33,
+  "verses": [
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 45,
+      "verse": 1,
+      "sloka": "अनुरक्ता महात्मानम् रामम् सत्य परक्रमम् ।अनुजग्मुः प्रयान्तम् तम् वन वासाय मानवाः ॥२-४५-१॥",
+      "transliteration": "anuraktā mahātmānam rāmam satya parakramam ।anujagmuḥ prayāntam tam vana vāsāya mānavāḥ ॥2-45-1॥",
+      "translations": {
+        "english": "When the highsouled Rama whose strength was his sense of truth set out for the forest, the faithful people followed him.",
+        "hindi": "सो सब भाँति मोर हितकारी । जाते रहै . भुवाल सुखारी |। तुलसीदास जी की यह चौपाई इसी श्लोक का भाव लेकर लिखी हे ।] येथा यथा दाशरथिधमं एव स्थिताऽभवत्‌। तथा तथा. प्रकृतयो रामं पतिमकामयन्‌",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 45,
+      "verse": 2,
+      "sloka": "निवर्तिते अपि च बलात् सुहृद् वर्गे च राजिनि ।न एव ते सम्न्यवर्तन्त रामस्य अनुगता रथम् ॥२-४५-२॥",
+      "transliteration": "nivartite api ca balāt suhṛd varge ca rājini ।na eva te samnyavartanta rāmasya anugatā ratham ॥2-45-2॥",
+      "translations": {
+        "english": "The king and the hosts of friends were forcibly sent back but they did not return. They continued to follow the chariot of Rama.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 45,
+      "verse": 3,
+      "sloka": "अयोध्या निलयानाम् हि पुरुषाणाम् महा यशाः ।बभूव गुण सम्पन्नः पूर्ण चन्द्रैव प्रियः ॥२-४५-३॥",
+      "transliteration": "ayodhyā nilayānām hi puruṣāṇām mahā yaśāḥ ।babhūva guṇa sampannaḥ pūrṇa candraiva priyaḥ ॥2-45-3॥",
+      "translations": {
+        "english": "The illustrious and virtuous Rama was as dear to the inhabitants of Ayodhya as the full Moon.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 45,
+      "verse": 4,
+      "sloka": "स याच्यमानः काकुत्स्थः स्वाभिः प्रकृतिभिस् तदा ।कुर्वाणः पितरम् सत्यम् वनम् एव अन्वपद्यत ॥२-४५-४॥",
+      "transliteration": "sa yācyamānaḥ kākutsthaḥ svābhiḥ prakṛtibhis tadā ।kurvāṇaḥ pitaram satyam vanam eva anvapadyata ॥2-45-4॥",
+      "translations": {
+        "english": "Although entreated by his subjects (not to go) Rama proceeded to the forest to make his father's vow come true.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 45,
+      "verse": 5,
+      "sloka": "अवेक्षमाणः सस्नेहम् चक्षुषा प्रपिबन्न् इव ।उवाच रामः स्नेहेन ताः प्रजाः स्वाः प्रजाइव ॥२-४५-५॥",
+      "transliteration": "avekṣamāṇaḥ sasneham cakṣuṣā prapibann iva ।uvāca rāmaḥ snehena tāḥ prajāḥ svāḥ prajāiva ॥2-45-5॥",
+      "translations": {
+        "english": "Looking at the people with love as if they were his own children and as though drinking them with his glances, Rama appealed to them:",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 45,
+      "verse": 6,
+      "sloka": "या प्रीतिर् बहुमानः च मय्य् अयोध्या निवासिनाम् ।मत् प्रिय अर्थम् विशेषेण भरते सा निवेश्यताम् ॥२-४५-६॥",
+      "transliteration": "yā prītir bahumānaḥ ca mayy ayodhyā nivāsinām ।mat priya artham viśeṣeṇa bharate sā niveśyatām ॥2-45-6॥",
+      "translations": {
+        "english": "O citizens of Ayodhya may the love and respect you have shown to please me be bestowed specially on Bharata",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 45,
+      "verse": 7,
+      "sloka": "स हि कल्याण चारित्रः कैकेय्या आनन्द वर्धनः ।करिष्यति यथावद् वः प्रियाणि च हितानि च ॥२-४५-७॥",
+      "transliteration": "sa hi kalyāṇa cāritraḥ kaikeyyā ānanda vardhanaḥ ।kariṣyati yathāvad vaḥ priyāṇi ca hitāni ca ॥2-45-7॥",
+      "translations": {
+        "english": "Bharata, enhancer of the delight of Kaikeyi, possesses an auspicious character. He will do for you everything appropriate, agreeable and beneficial.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 45,
+      "verse": 8,
+      "sloka": "ज्ञान वृद्धो वयो बालो मृदुर् वीर्य गुण अन्वितः ।अनुरूपः स वो भर्ता भविष्यति भय अपहः ॥२-४५-८॥",
+      "transliteration": "jñāna vṛddho vayo bālo mṛdur vīrya guṇa anvitaḥ ।anurūpaḥ sa vo bhartā bhaviṣyati bhaya apahaḥ ॥2-45-8॥",
+      "translations": {
+        "english": "Though tender in age Bharata is mature in intellect. Gentle, valiant and virtuous, he will dispel all your fears and act as a true protector.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 45,
+      "verse": 9,
+      "sloka": "स हि राज गुणैः युक्तः युव राजः समीक्षितः ।अपि च अपि मया शिष्टैः कार्यम् वो भर्तृ शासनम् ॥२-४५-९॥",
+      "transliteration": "sa hi rāja guṇaiḥ yuktaḥ yuva rājaḥ samīkṣitaḥ ।api ca api mayā śiṣṭaiḥ kāryam vo bhartṛ śāsanam ॥2-45-9॥",
+      "translations": {
+        "english": "Endowed with kingly qualities, he is recognised as heirapparent. Therefore, as I did, all of you should obey the order of the king.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 45,
+      "verse": 10,
+      "sloka": "न च तप्येद् यथा च असौ वन वासम् गते मयि ।महा राजः तथा कार्यो मम प्रिय चिकीर्षया ॥२-४५-१०॥",
+      "transliteration": "na ca tapyed yathā ca asau vana vāsam gate mayi ।mahā rājaḥ tathā kāryo mama priya cikīrṣayā ॥2-45-10॥",
+      "translations": {
+        "english": "If you desire to please me, act in such a way that the king does not grieve after I have gone to the forest.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 45,
+      "verse": 11,
+      "sloka": "यथा यथा दाशरथिर् धर्मम् एव आस्थितः अभवत् ।तथा तथा प्रकृतयो रामम् पतिम् अकामयन् ॥२-४५-११॥",
+      "transliteration": "yathā yathā dāśarathir dharmam eva āsthitaḥ abhavat ।tathā tathā prakṛtayo rāmam patim akāmayan ॥2-45-11॥",
+      "translations": {
+        "english": "The more the son of Dasaratha (Rama) committed to righteousness, the more the subjects desired that he should be their king.",
+        "hindi": "उत्त समय श्रीरामचन्द्र ज्योंज्यों पिठु.बचन-पालन-रूपी धम मै हडता प्रदर्शित करते थे, व्यॉ-त्यां पुरवासी श्रीरामचन्द्र जी ही को अपना राजा होने की इच्छा करते थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 45,
+      "verse": 12,
+      "sloka": "बाष्पेण पिहितम् दीनम् रामः सौमित्रिणा सह ।चकर्ष इव गुणैः बद्ध्वा जनम् पुनर् इव आसनम् ॥२-४५-१२॥",
+      "transliteration": "bāṣpeṇa pihitam dīnam rāmaḥ saumitriṇā saha ।cakarṣa iva guṇaiḥ baddhvā janam punar iva āsanam ॥2-45-12॥",
+      "translations": {
+        "english": "Rama along with Lakshmana attracted the citydwellers who, choked with tears, were looking miserable. It appeared they were bound with his virtues.",
+        "hindi": "समोक्षितः--निश्वित:। (शि०) २ शिष्टः--्रवशिष्टः लेचमत्त . र ~ मि ७ ~= € . ` शत्नप्नादिमिः । ( गो० ) # पाठान्तरे--चाडप | उस समय लक्ष्मण जी सहित श्रीरामचन्द्र जी ने सूदन करते हुए दुःखी पुरबासियों को मानो डोरी में बाँध, अपनी ओर खींच लिया अथवा अपने अधीन कर लिया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 45,
+      "verse": 13,
+      "sloka": "ते द्विजाः त्रिविधम् वृद्धा ज्ञानेन वयसा ओजसा ।वयः प्रकम्प शिरसो दूरात् ऊचुर् इदम् वचः ॥२-४५-१३॥",
+      "transliteration": "te dvijāḥ trividham vṛddhā jñānena vayasā ojasā ।vayaḥ prakampa śiraso dūrāt ūcur idam vacaḥ ॥2-45-13॥",
+      "translations": {
+        "english": "Those brahmins who were senior (to him) on three counts like age, wisdom and spirtuality spoke to him from a distance with their heads shaking with age:",
+        "hindi": "उन लोगों में तीन प्रकार के वृद्ध ब्राह्मण थे, अथीत्‌ उनमें से कोई तो वयोवृद्ध, कोई ज्ञानवृद्ध और कोई तपोवृद्ध था। इनमें से जो बयोवृद्ध थे ओर वृद्धावस्था के कारण जिनका सिर काँप रहा था, वे दुर से यह बचन बोले",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 45,
+      "verse": 14,
+      "sloka": "वहन्तः जवना रामम् भो भो जात्याः तुरम् गमाः ।निवर्तध्वम् न गन्तव्यम् हिता भवत भर्तरि ॥२-४५-१४॥",
+      "transliteration": "vahantaḥ javanā rāmam bho bho jātyāḥ turam gamāḥ ।nivartadhvam na gantavyam hitā bhavata bhartari ॥2-45-14॥",
+      "translations": {
+        "english": "O horses of noble breed, turn back Do not carry your master swiftyly any farther. Do good to him.",
+        "hindi": "है वेगवान एवं अच्छी जाति के घोड़ो | लौटो-लौटो, अब आगे मत बढो ओर श्रीरामचन्द्र का हित करो ( अथोत्‌ हम बूढो की आज्ञा का उल्लंघन करने से श्रीरामचन्द्र का अहित होगा । )",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 45,
+      "verse": 15,
+      "sloka": "कर्णवन्ति हि भूतानि विशेषण तुरम्गमाः ।यूयम् तस्मान्निवर्तध्वम् याचनाम् प्रतिवेदिताः ॥२-४५-१५॥",
+      "transliteration": "karṇavanti hi bhūtāni viśeṣaṇa turamgamāḥ ।yūyam tasmānnivartadhvam yācanām prativeditāḥ ॥2-45-15॥",
+      "translations": {
+        "english": "All animals, especially horses have a keen sense of hearing. Therefore, having listened to our entreaty, turn back.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 45,
+      "verse": 16,
+      "sloka": "धर्मतः स विशुद्धात्मा वीरः शुभदृढप्रतह् ।उपवाह्यः तु वो भर्ता न अपवाह्यः पुरात् वनम् ॥२-४५-१६॥",
+      "transliteration": "dharmataḥ sa viśuddhātmā vīraḥ śubhadṛḍhapratah ।upavāhyaḥ tu vo bhartā na apavāhyaḥ purāt vanam ॥2-45-16॥",
+      "translations": {
+        "english": "Your master has a purity of heart. He is righteous, virtuous, brave and firm in resolve, carry him backward and not forward from the city into the forest.",
+        "hindi": "क्योंकि सदाचारयुक्त एवं दयालु श्रीरामचन्द्र को उन पैदल चले आते हुए ब्राह्मणों को रथ से दूर रखना इष्ट न था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 45,
+      "verse": 17,
+      "sloka": "एवम् आर्त प्रलापाम्स् तान् वृद्धान् प्रलपतः द्विजान् ।अवेक्ष्य सहसा रामः रथात् अवततार ह ॥२-४५-१७॥",
+      "transliteration": "evam ārta pralāpāms tān vṛddhān pralapataḥ dvijān ।avekṣya sahasā rāmaḥ rathāt avatatāra ha ॥2-45-17॥",
+      "translations": {
+        "english": "Having seen the aged brahmins muttering pitiful lamentations in this manner, Rama immediately alighted from the chariot.",
+        "hindi": "ओजसा--तपोबलेन ।.(गो०) २ जात्या--उत्तमजातीया: । (रा० 3 Fem A न TSS St हम लोग जानते हैं कि तुम्हारे स्वामी का मत सरल एवं कोमल है, वे वीर हैं. और शुम एवं हद्‌ ब्रतधारी हैं। इसलिए इनको अयोध्या पहुँचाना चाहिए, न कि अयोध्या से बन को ले जाना चाहिए ॥१६, एव्रमात्रलापांस्तान्‌ ठृद्धान्‌ प्रलपतो द्विजान्‌ । अवेक्ष्प सहसा रामो रथादवततार ह",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 45,
+      "verse": 18,
+      "sloka": "पद्भ्याम् एव जगाम अथ ससीतः सह लक्ष्मणः ।सम्निकृष्ट पद न्यासो रामः वन परायणः ॥२-४५-१८॥",
+      "transliteration": "padbhyām eva jagāma atha sasītaḥ saha lakṣmaṇaḥ ।samnikṛṣṭa pada nyāso rāmaḥ vana parāyaṇaḥ ॥2-45-18॥",
+      "translations": {
+        "english": "Then Rama along with Sita and Lakshmana began walking on foot with slow steps towards the forest.",
+        "hindi": "जब उन बूढ़े त्रह्मणों के, जो बड़े कातर हो रहे थे, ऐसे बचन छुने ओर उन्हे पोड़ित देखा, तब श्रीरामचन्द्र जी रथ खड़ा करवा कर, उससे भट उतर पड़े ॥?७॥ पद्भ्यामेव जगामाथ ससीतः सहलक्ष्मण! । सन्निकृष्ठपदन्यासो रामो वनपरायणः",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 45,
+      "verse": 19,
+      "sloka": "द्विजातीम्स् तु पदातीम्स् तान् रामः चारित्र वत्सलः ।न शशाक घृणा चक्षुः परिमोक्तुम् रथेन सः ॥२-४५-१९॥",
+      "transliteration": "dvijātīms tu padātīms tān rāmaḥ cāritra vatsalaḥ ।na śaśāka ghṛṇā cakṣuḥ parimoktum rathena saḥ ॥2-45-19॥",
+      "translations": {
+        "english": "Rama a man of probity and compassion could not ride off in his chariot while those brahmins were trudging far behind.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 45,
+      "verse": 20,
+      "sloka": "गच्चन्तम् एव तम् दृष्ट्वा रामम् सम्भ्रान्त मानसाः ।ऊचुः परम सम्तप्ता रामम् वाक्यम् इदम् द्विजाः ॥२-४५-२०॥",
+      "transliteration": "gaccantam eva tam dṛṣṭvā rāmam sambhrānta mānasāḥ ।ūcuḥ parama samtaptā rāmam vākyam idam dvijāḥ ॥2-45-20॥",
+      "translations": {
+        "english": "Having seen Rama thus going towards the forest, those brahmins, highly agitated and distressed, said to him:",
+        "hindi": "वुणाचचुः--दयासूचकदष्टिमाच्‌ । (रा०) दयाद्रंचछुरित्यथ: (गो०) । जब ब्रह्मणां ने देखा कि प्राथना करने पर भी श्रीराम चन्द्र नहीं लौटे ओर बन. को चन्ने ही जाते हैं, तत्र तो वे अत्यन्त विकल अर शोकसन्तप्त हो श्रीरामचन्द्र से यह बोले",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 45,
+      "verse": 21,
+      "sloka": "ब्राह्मण्यम् कृत्स्नम् एतत् त्वाम् ब्रह्मण्यम् अनुगच्चति ।द्विज स्कन्ध अधिरूढाः त्वाम् अग्नयो अपि अनुयान्ति अमी ॥२-४५-२१॥",
+      "transliteration": "brāhmaṇyam kṛtsnam etat tvām brahmaṇyam anugaccati ।dvija skandha adhirūḍhāḥ tvām agnayo api anuyānti amī ॥2-45-21॥",
+      "translations": {
+        "english": "This entire order of brahmins with the sacrificial fires on their hsoulders is following you, their wellwisher.",
+        "hindi": "हे राम ! तुम ब्रह्मणां के हितकारी हो। इसीसे तुम्हारे पीछे , यह अखल ब्रह्मण-समूह ही केवल नहीं आ रहा, प्रत्युत उनके कंधों पर चढ़े हुए अग्निरेव भी तुम्हारे पीछे आ रहे हैं । ( अथात्‌ त्रह्मण लोग तुम्हारे साथ चलने का निश्चप कर, घर से अग्निहोत्र का सामान अरणि आदि ले कर चले हें । “अञ्निदेव” से अभि- प्राय उन अरणि लकड़ियों से है जिनको आपस में घिसने से यज्ञाभि उत्पन्न होता है )",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 45,
+      "verse": 22,
+      "sloka": "वाजपेय समुत्थानि चत्राणि एतानि पश्य नः ।पृष्ठतः अनुप्रयातानि हम्सान् इव जल अत्यये ॥२-४५-२२॥",
+      "transliteration": "vājapeya samutthāni catrāṇi etāni paśya naḥ ।pṛṣṭhataḥ anuprayātāni hamsān iva jala atyaye ॥2-45-22॥",
+      "translations": {
+        "english": "See these umbrellas acquired by us while performing Vajapeya sacrifice are following you like the clouds at the end of the rainy season.",
+        "hindi": "देखिए, बाजपेय यज्ञ करने से जो छत्र प्राप्त हुए हैं, ( अथीत्‌ बाजपेय यज्ञ करने से जिन छत्रो को लगाने का हमको अधिकार : प्राप्त हुआ है। ) ओर जो शरत्कालीन मेघ के समान हैं वे सब भी आपके पीछे चले आ रहे हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 45,
+      "verse": 23,
+      "sloka": "अनवाप्त आतपत्रस्य रश्मि सम्तापितस्य ते ।एभिः चायाम् करिष्यामः स्वैः चत्रैः वाजपेयिकैः ॥२-४५-२३॥",
+      "transliteration": "anavāpta ātapatrasya raśmi samtāpitasya te ।ebhiḥ cāyām kariṣyāmaḥ svaiḥ catraiḥ vājapeyikaiḥ ॥2-45-23॥",
+      "translations": {
+        "english": "You do not have a royal umbrella and you are scorched by the rays of the Sun. We will offer you shade with the umbrellas acquired during Vajapeya sacrifice.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 45,
+      "verse": 24,
+      "sloka": "या हि नः सततम् बुद्धिर् वेद मन्त्र अनुसारिणी ।त्वत् कृते सा कृता वत्स वन वास अनुसारिणी ॥२-४५-२४॥",
+      "transliteration": "yā hi naḥ satatam buddhir veda mantra anusāriṇī ।tvat kṛte sā kṛtā vatsa vana vāsa anusāriṇī ॥2-45-24॥",
+      "translations": {
+        "english": "O dear child, our minds always pursue the study of vedic hymns. For your sake now they are made to follow the life in the forest.",
+        "hindi": "हे वत्स ! हमारा मन अभी तक केवल वेद के स्त्राध्याय ही की ओर लगा रहत! था, किन्तु अब उस ओर न लग, आपकी बनयात्रा की ओर लगा हुआ है। (श्रीरामचन्द्र जी से यह कह ब्राह्मण लोग उन पर बड़ा दबाब डालते हैं, अर्थात्‌ तुम्हारे पीछे हमने स्वाध्याय त्याग दिया है) यदि तुम कहो कि तुम लोग घर का क्या प्रवन्ध कर आए हो ओर तुम्हारी स्त्रियाँ केसे रहेंगी, तो ब्राह्मण इस शङ्का की निवृत्ति करते हुए कहते हैं )",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 45,
+      "verse": 25,
+      "sloka": "हृदयेष्व् अवतिष्ठन्ते वेदा ये नः परम् धनम् ।वत्स्यन्ति अपि गृहेष्व् एव दाराः चारित्र रक्षिताः ॥२-४५-२५॥",
+      "transliteration": "hṛdayeṣv avatiṣṭhante vedā ye naḥ param dhanam ।vatsyanti api gṛheṣv eva dārāḥ cāritra rakṣitāḥ ॥2-45-25॥",
+      "translations": {
+        "english": "The Vedas are our greatest wealth and they reside in our hearts. Our wives, protected by their fidelity, shall stay at home.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 45,
+      "verse": 26,
+      "sloka": "न पुनर् निश्चयः कार्यः त्वद् गतौ सुकृता मतिः ।त्वयि धर्म व्यपेक्षे तु किम् स्यात् धर्मम् अवेक्षितुम् ॥२-४५-२६॥",
+      "transliteration": "na punar niścayaḥ kāryaḥ tvad gatau sukṛtā matiḥ ।tvayi dharma vyapekṣe tu kim syāt dharmam avekṣitum ॥2-45-26॥",
+      "translations": {
+        "english": "We are not going to revoke our decision. We have made up our minds to follow you (into the forest). If you have no regard for this decision, then who will adhere to the path of righteousness?",
+        "hindi": "हमें अब और किसी बात का निश्चय नहीं करना; क्योंकि: हम तो तुम्हारे साथ चलना निश्चित कर चुके हैं । ( अर्थीत्‌ हम तो घर का सब प्रबन्ध कर, यह दृढ़ निश्चय करके चले हैं कि हम तुम्हारे साथ रहेंगे ) किन्तु जब तुक हमारी आज्ञा का उल्लंघन. कर धम की उपेत्ता करोगे, तत्र धर्ममार्ग पर चलना क्या कहलावेगा ? ( अथात्‌. तुम्हारी देखादेखो ओर लोग भी ब्रह्मणो का कहूना न मानगे ओर ब्राह्मणों का कथन न मानने से अधर्म होगा )",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 45,
+      "verse": 27,
+      "sloka": "याचितः नो निवर्तस्व हम्स शुक्ल शिरः रुहैः ।शिरोभिर् निभृत आचार मही पतन पाम्शुलैः ॥२-४५-२७॥",
+      "transliteration": "yācitaḥ no nivartasva hamsa śukla śiraḥ ruhaiḥ ।śirobhir nibhṛta ācāra mahī patana pāmśulaiḥ ॥2-45-27॥",
+      "translations": {
+        "english": "O Rama, you are firm in your duty.We beseech you, our heads bowed with swanwhite hair and soiled with dust, to return to Ayodhya.",
+        "hindi": "हि राम ! अब हम अधिक क्या कहे, हम हंस के समान सफेद बालों वाले (अथौत्‌ अत्यन्त बूढ़े होकर भी) तुमको साष्टाङ्ग प्रणाम करते हैं कि तुम वन को न जाओ। (ब्राह्मण हो कर क्षत्रिय राजकुमार को साष्टाङ्ग प्रणाम करना, केवल विशेष रूप , से दबाब डालना मात्र है । किन्तु भूषण टीकाकार का मत है कि ब्राह्मण दिव्यदृष्टि बाले थे, अतः श्रीरामचन्द्र को राजकुमार समझ कर नहीं, किन्तु उनको साक्षात्‌ परमेश्वराबतार समझ कर डन लोगों ने प्रणाम किया था। रामाभिरामी टीकाकार का मत है कि-''राज्ञो विष्णवूबंशत्वेन नतो न दोष इत्याहुः ।? )",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 45,
+      "verse": 28,
+      "sloka": "बहूनाम् वितता यज्ञा द्विजानाम् यैह आगताः ।तेषाम् समाप्तिर् आयत्ता तव वत्स निवर्तने ॥२-४५-२८॥",
+      "transliteration": "bahūnām vitatā yajñā dvijānām yaiha āgatāḥ ।teṣām samāptir āyattā tava vatsa nivartane ॥2-45-28॥",
+      "translations": {
+        "english": "Many of those brahmins who arrived here have commenced their sacrifices. O dear child, their consummation depends on your return.",
+        "hindi": "इन ब्राह्मणों में ऐसे भी कई एक है जो आरम्भ किए हुए यज्ञो को अधूरा छोड़ कर तुम्हारे साथ चले आए हैं, अतः हे बत्स ! उन यज्ञों की समाप्ति तुम्हारे लौटने पर निभर करती है ( अर्थात्‌. यदि न लोटे तो इन यज्ञा में विध डालने का दोष तुम्हारे माथे पड़ेगा )",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 45,
+      "verse": 29,
+      "sloka": "भक्तिमन्ति हि भूतानि जम्गम अजम्गमानि च ।याचमानेषु तेषु त्वम् भक्तिम् भक्तेषु दर्शय ॥२-४५-२९॥",
+      "transliteration": "bhaktimanti hi bhūtāni jamgama ajamgamāni ca ।yācamāneṣu teṣu tvam bhaktim bhakteṣu darśaya ॥2-45-29॥",
+      "translations": {
+        "english": "O Rama, all these living beings, movable and immovable, are devoted to you and are entreating you with devotion to return. Show consideration to those supplicants.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 45,
+      "verse": 30,
+      "sloka": "अनुगम्तुम् अशक्ताः त्वाम् मूलैः उद्धिऋत वेगिभिः ।उन्नता वायु वेगेन विक्रोशन्ति इव पादपाः ॥२-४५-३०॥",
+      "transliteration": "anugamtum aśaktāḥ tvām mūlaiḥ uddhiṛta vegibhiḥ ।unnatā vāyu vegena vikrośanti iva pādapāḥ ॥2-45-30॥",
+      "translations": {
+        "english": "Although the trees uplifted by the speed of the wind, intend to follow you, their movement is stalled by their roots. Unable, they appear to be weeping.",
+        "hindi": "ये ऊँचे-ऊँचे पेड़ भी तुम्हारे साथ जाना चाहते हैं, किन्तु इनकी जड़ें भूमि में गहरी गड़ी होने से साथ चलने में असमं होकर, वायु के वेग से हिलतो हुई अपनी शाखाओं से, तुमको ˆ खन जाने का निषेध कर ये चिल्ला रहे हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 45,
+      "verse": 31,
+      "sloka": "निश्चेष्ट आहार सम्चारा वृक्ष एक स्थान विष्ठिताः ।पक्षिणो अपि प्रयाचन्ते सर्व भूत अनुकम्पिनम् ॥२-४५-३१॥",
+      "transliteration": "niśceṣṭa āhāra samcārā vṛkṣa eka sthāna viṣṭhitāḥ ।pakṣiṇo api prayācante sarva bhūta anukampinam ॥2-45-31॥",
+      "translations": {
+        "english": "Even the birds instead of foraging for food are sitting motionless on the trees at one place. They are imploring you, you who are compassionate to all creatures, to return to Ayodhya.",
+        "hindi": "देखो, पत्तियों ने भो उड़ना ओर चुगना बंद कर दिया है। ये वृक्ष रूपी ग्रहों में बैठे हुए, तुमको प्राणिमात्र र पर दया करने बाला जान, बन न जाने के लिए प्रार्थना कर रहे हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 45,
+      "verse": 32,
+      "sloka": "एवम् विक्रोशताम् तेषाम् द्विजातीनाम् निवर्तने ।ददृशे तमसा तत्र वारयन्ति इव राघवम् ॥२-४५-३२॥",
+      "transliteration": "evam vikrośatām teṣām dvijātīnām nivartane ।dadṛśe tamasā tatra vārayanti iva rāghavam ॥2-45-32॥",
+      "translations": {
+        "english": "While those brahmins were thus crying out, river Tamasa came into view as if seeking Rama to turn back to Ayodhya.",
+        "hindi": "इस प्रकार श्रीरामचन्द्र को लौटाने के लिए चिल्लाते हुए उन ब्राह्मणों को चलते-चलते तमसा नदी देख पड़ी, जो मानो माग १ भक्ति-रनेहं । ( गो० ) रोक कर, श्रीरामचन्द्र जी से आगे जाने का निपेत' कर रही थी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 45,
+      "verse": 33,
+      "sloka": "ततः सुमन्त्रोऽपि रथाद्विमुच्य ।श्रान्तान्हयान्सम्परिवर्त्य श्रीघ्राम् ।पीतोदकाम्स्तोयपरिप्लुताङ्गा ।नचारयद्वै तमसाविदूरे ॥२-४५-३३॥",
+      "transliteration": "tataḥ sumantro'pi rathādvimucya ।śrāntānhayānsamparivartya śrīghrām ।pītodakāmstoyapariplutāṅgā ।nacārayadvai tamasāvidūre ॥2-45-33॥",
+      "translations": {
+        "english": "Then Sumantra also unyoked the fatigued horses from the chariot and quickly allowed them to roll and relax on the ground. Having made the horses drink and dip in water, he released them for grazing not far from Tamasa river. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे पञ्चचत्वारिंशस्सर्गः।। Thus ends the fortyfifth sarga of Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,471 @@
+{
+  "kanda": 3,
+  "kanda_name": "Aranya Kanda",
+  "kanda_name_sanskrit": "अरण्यकाण्डम्",
+  "sarga": 28,
+  "verses_count": 33,
+  "verses": [
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 28,
+      "verse": 1,
+      "sloka": "निहतम् दूषणम् दृष्ट्वा रणे त्रिशिरसा सह ।खरस्य अपि अभवत् त्रासो दृष्ट्वा रामस्य विक्रमम् ॥३-२८-१॥",
+      "transliteration": "nihatam dūṣaṇam dṛṣṭvā raṇe triśirasā saha ।kharasya api abhavat trāso dṛṣṭvā rāmasya vikramam ॥3-28-1॥",
+      "translations": {
+        "english": "Khara was overtaken by fear at the prowess of Rama, when he saw Dusana and Trisira killed.",
+        "hindi": "बाहिनीपतिः-सेनापतिः | ( गो० ) २ सन्निपत्य-संमीपमागत्येः स्वर्थः | ( गो० ) खर को श्रीरामचन्द्र के सामने जाते देख, त्रिशिरा नाम के सेनापति ने, खर के समीप जा कर, यह बात कही",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 28,
+      "verse": 2,
+      "sloka": "स दृष्ट्वा राक्षसम् सैन्यम् अविषह्यम् महाबलम् ।हतम् एकेन रामेण दूषणः त्रिशिरा अपि ॥३-२८-२॥",
+      "transliteration": "sa dṛṣṭvā rākṣasam sainyam aviṣahyam mahābalam ।hatam ekena rāmeṇa dūṣaṇaḥ triśirā api ॥3-28-2॥",
+      "translations": {
+        "english": "Khara, the mighty demon, saw his large, irrepressible army killed. He saw Trisira and Dusana slain singlehanded by Rama. Nervous, he advanced towards Rama wage war just as Namuchi approached Indra.",
+        "hindi": "हे स्वाभिन्‌ ! आप इस समय रामचन्द्र जी के सामने जाते का साहस न कीजिए और ( अपने बदले ) मुझ पराक्रमी को राम से लड़ने के लिए नियुक्त कीजिए । देखिए, में इस महाबाहु रामचन्द्र को युद्ध में मार कर, अभी गिराए देता हूँ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 28,
+      "verse": 3,
+      "sloka": "तद् बलम् हत भूयिष्ठम् विमनाः प्रेक्ष्य राक्षसः ।आससाद खरो रामम् नमुचिर् वासवम् यथा ॥३-२८-३॥",
+      "transliteration": "tad balam hata bhūyiṣṭham vimanāḥ prekṣya rākṣasaḥ ।āsasāda kharo rāmam namucir vāsavam yathā ॥3-28-3॥",
+      "translations": {
+        "english": "Khara, the mighty demon, saw his large, irrepressible army killed. He saw Trisira and Dusana slain singlehanded by Rama. Nervous, he advanced towards Rama wage war just as Namuchi approached Indra.",
+        "hindi": "में हथियार छू कर, आपके सामने सत्य प्रतिज्ञा करता हूँ कि, में इस राम को, जो समस्त राक्षसों के मारने योग्य हे, अवश्य मारूंगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 28,
+      "verse": 4,
+      "sloka": "विकृष्य बलवत् चापम् नाराचान् रक्त भोजनान् ।खरः चिक्षेप रामाय क्रुद्धान् आशी विषान् इव ॥३-२८-४॥",
+      "transliteration": "vikṛṣya balavat cāpam nārācān rakta bhojanān ।kharaḥ cikṣepa rāmāya kruddhān āśī viṣān iva ॥3-28-4॥",
+      "translations": {
+        "english": "Khara drew his strong bowstring in anger and released the bloodhungry arrows, which appeared like venomous snakes.",
+        "hindi": "चाहे तो में इसको मारूं अथवा यह मुझे मार डाले। आप स्वयं युद्ध में प्रवृत्त हो कर, मुहूत्ते भर मध्यस्थ बन कर, दोनों ओर का युद्ध देखिए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 28,
+      "verse": 5,
+      "sloka": "ज्याम् विधुन्वन् सुबहुशः शिक्षया अस्त्राणि दर्शयन् ।चचार समरे मार्गान् शरै रथ गतः खरः ॥३-२८-५॥",
+      "transliteration": "jyām vidhunvan subahuśaḥ śikṣayā astrāṇi darśayan ।cacāra samare mārgān śarai ratha gataḥ kharaḥ ॥3-28-5॥",
+      "translations": {
+        "english": "Khara, sat on the chariot, and with a twang of his bowstring released arrows in all directions, exhibiting his skill in the use of weapons.",
+        "hindi": "बह त्रिशिरा महामेघ की तरह, वाणां की वर्षा करने लगा ओर ऐसे गर्जा मानों जल से भींगा नगाड़ा बज रहा हो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 28,
+      "verse": 6,
+      "sloka": "स सर्वाः च दिशो बाणैः प्रदिशः च महारथः ।पूरयामास तम् दृष्ट्वा रामो अपि सुमहत् धनुः ॥३-२८-६॥",
+      "transliteration": "sa sarvāḥ ca diśo bāṇaiḥ pradiśaḥ ca mahārathaḥ ।pūrayāmāsa tam dṛṣṭvā rāmo api sumahat dhanuḥ ॥3-28-6॥",
+      "translations": {
+        "english": "When Rama, the great warrior, saw Khara approaching him, he fixed powerful arrows on his bow and covered all directions and intermediate quarters with his arrows.",
+        "hindi": "जत उस ( श्रीरामचन्द्र ) की मृत्यु का लालच दिखा, त्रिशिरा नेखर को प्रसन्न किआ, तब खर ने उससे कहा कि, अच्छा जाओ आर लड़ो। यह आज्ञा पा कर, त्रिशिरा श्रीरामचन्द्र जी के सामने गथा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 28,
+      "verse": 7,
+      "sloka": "स सायकैः दुर्विषहैः स स्फुलिन्गैः इव अग्निभिः ।नभः चकार अविवरम् पर्जन्य इव वृष्टिभिः ॥३-२८-७॥",
+      "transliteration": "sa sāyakaiḥ durviṣahaiḥ sa sphulingaiḥ iva agnibhiḥ ।nabhaḥ cakāra avivaram parjanya iva vṛṣṭibhiḥ ॥3-28-7॥",
+      "translations": {
+        "english": "He rained sparkling arrows which were irresistible. He filled the sky with arrows just as the raingod fills it with rain without leaving any space.",
+        "hindi": "व्ह तील सिरां बाला ( त्रिशिय ) घोड़ों के देदीप्यमान रथ पर सत्रार हो, युद्ध करने को श्रीरास के सामने गया --मानां तीन शिखर वाला पवेत जाता हो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 28,
+      "verse": 8,
+      "sloka": "तद् बभूव शितैः बाणैः खर राम विसर्जितैः ।परि आकाशम् अनाकाशम् सर्वतः शर संकुलम् ॥३-२८-८॥",
+      "transliteration": "tad babhūva śitaiḥ bāṇaiḥ khara rāma visarjitaiḥ ।pari ākāśam anākāśam sarvataḥ śara saṁkulam ॥3-28-8॥",
+      "translations": {
+        "english": "The arrows released by Khara and Rama on one another filled the entire sky. Everywhere only arrows and no sky could be seen.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 28,
+      "verse": 9,
+      "sloka": "शर जाल आवृतः सूर्यो न तदा स्म प्रकाशते ।अन्योन्य वध संरम्भात् उभयोः संप्रयुध्यतोः ॥३-२८-९॥",
+      "transliteration": "śara jāla āvṛtaḥ sūryo na tadā sma prakāśate ।anyonya vadha saṁrambhāt ubhayoḥ saṁprayudhyatoḥ ॥3-28-9॥",
+      "translations": {
+        "english": "While they were engaged in the battle, eager to kill each other the sky was covered with arrow and the Sun could not be seen.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 28,
+      "verse": 10,
+      "sloka": "ततो नालीक नाराचैः तीक्ष्ण अग्रैः च विकर्णिभिः ।आजघान रणे रामम् तोत्रैर् इव महा द्विपम् ॥३-२८-१०॥",
+      "transliteration": "tato nālīka nārācaiḥ tīkṣṇa agraiḥ ca vikarṇibhiḥ ।ājaghāna raṇe rāmam totrair iva mahā dvipam ॥3-28-10॥",
+      "translations": {
+        "english": "Then Khara shot Rama with Nalika darts and darts called Vikarni like goads hit a mighty elephant.",
+        "hindi": "श्रीरामचन्द्र और त्रिशिरा का बड़ा भयंकर युद्ध हुआ; मानों अति बलवान्‌ सिंह और गजेन्द्र का युद्ध हो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 28,
+      "verse": 11,
+      "sloka": "तम् रथस्थम् धनुष् पाणिम् राक्षसम् पर्यवस्थितम् ।ददृशुः सर्व भूतानि पाश हस्तम् इव अंतकम् ॥३-२८-११॥",
+      "transliteration": "tam rathastham dhanuṣ pāṇim rākṣasam paryavasthitam ।dadṛśuḥ sarva bhūtāni pāśa hastam iva aṁtakam ॥3-28-11॥",
+      "translations": {
+        "english": "Demon Khara positioned on the chariot, bow in hand, appeared to all beings like Yama, god of death holding the noose.",
+        "hindi": "त्रिशिरा ने तीन बाण श्रीरामचन्द्र जी फे ललाट में मारे। तब ऋषियों के कष्टों को न सहने वाले श्रीरास ने क्रोध में भर त्रिशिरा को भिड़क कर कहा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 28,
+      "verse": 12,
+      "sloka": "हन्तारम् सर्व सैन्यस्य पौरुषे पर्यवस्थितम् ।परिश्रन्तम् महासत्त्वम् मेने रामम् खरः तदा ॥३-२८-१२॥",
+      "transliteration": "hantāram sarva sainyasya pauruṣe paryavasthitam ।pariśrantam mahāsattvam mene rāmam kharaḥ tadā ॥3-28-12॥",
+      "translations": {
+        "english": "Khara thought valiant Rama who had destroyed his whole army might be exhausted by now.",
+        "hindi": "अरे विक्रसी शूर राक्षस ! क्या तुझसे इतना ही बल है कि, तेरे मारे हुए बाण सेरे ललाट में फूलों की तरह जान पड़े",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 28,
+      "verse": 13,
+      "sloka": "तम् सिंहम् इव विक्रान्तम् सिंह विक्रान्त गामिनम् ।दृष्ट्वा न उद्विजते रामः सिंहः क्षुद्र मृगम् यथा ॥३-२८-१३॥",
+      "transliteration": "tam siṁham iva vikrāntam siṁha vikrānta gāminam ।dṛṣṭvā na udvijate rāmaḥ siṁhaḥ kṣudra mṛgam yathā ॥3-28-13॥",
+      "translations": {
+        "english": "When Rama saw Khara aggressively advancing like a lion to attack him, he was not perturbed, for he knew he was a fawn before a lion (which Rama was).",
+        "hindi": "अच्छा अब तू मेरे धनुष के रोदे से छूटे हुए बाणों को रोक: सकता हो तो रोक यह कह कर, श्रीराम ने कुपित हो सर्पो की तरह",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 28,
+      "verse": 14,
+      "sloka": "ततः सूर्य निकाशेन रथेन महता खरः ।आससाद अथ तम् रामम् पतंग इव पावकम् ॥३-२८-१४॥",
+      "transliteration": "tataḥ sūrya nikāśena rathena mahatā kharaḥ ।āsasāda atha tam rāmam pataṁga iva pāvakam ॥3-28-14॥",
+      "translations": {
+        "english": "Then Khara mounting a great chariot which was glowing like the Sun, advanced towards Rama just as an insect hurtles towards fire.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 28,
+      "verse": 15,
+      "sloka": "ततो अस्य सशरम् चापम् मुष्टि देशे महात्मनः ।खरः चिच्छेद रामस्य दर्शयन् हस्त लाघवम् ॥३-२८-१५॥",
+      "transliteration": "tato asya saśaram cāpam muṣṭi deśe mahātmanaḥ ।kharaḥ ciccheda rāmasya darśayan hasta lāghavam ॥3-28-15॥",
+      "translations": {
+        "english": "Exhibiting his agility of the hand, Khara shattered the bow and the arrow in the grip of Rama ,the great soul.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 28,
+      "verse": 16,
+      "sloka": "स पुनः तु अपरान् सप्त शरान् आदाय वर्मणि ।निजघान रणे क्रुद्धः शक्र अशनि सम प्रभान् ॥३-२८-१६॥",
+      "transliteration": "sa punaḥ tu aparān sapta śarān ādāya varmaṇi ।nijaghāna raṇe kruddhaḥ śakra aśani sama prabhān ॥3-28-16॥",
+      "translations": {
+        "english": "The influriated Khara this time took up seven arrows blazing like Indra's thunderbolt and hit his armour.",
+        "hindi": "श्रीरामचन्द्र जी ने उसके रथ की ऊँची ध्वजा भी एक बाण से काट दी । तब घोड़ों ओर सारथी से रहित उस रथ से त्रिशिरा को कूदते देख, अप्रमे यातमा श्रीरामचन्द्र जी ने क्रोध में भर, उसकी छाती को मारे बाणों के विदीर्ण कर डाला । तब त्रिशिरा निश्चेष्ट हो गया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 28,
+      "verse": 17,
+      "sloka": "ततः शर सहस्रेण रामम् अप्रतिम ओजसम् ।अर्दयित्वा महानादम् ननाद समेरे खरः ॥३-२८-१७॥",
+      "transliteration": "tataḥ śara sahasreṇa rāmam apratima ojasam ।ardayitvā mahānādam nanāda samere kharaḥ ॥3-28-17॥",
+      "translations": {
+        "english": "The armour of Rama who looked radiant like the Sun fell on the ground, struck by the welljointed darts released by Khara.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 28,
+      "verse": 18,
+      "sloka": "ततः तत् प्रहतम् बाणैः खर मुक्तैः सुपर्वभिः ।पपात कवचम् भूमौ रामस्य आदित्य वर्चसः ॥३-२८-१८॥",
+      "transliteration": "tataḥ tat prahatam bāṇaiḥ khara muktaiḥ suparvabhiḥ ।papāta kavacam bhūmau rāmasya āditya varcasaḥ ॥3-28-18॥",
+      "translations": {
+        "english": "Khara then attacked Rama of unequal strength in fight, with a thousand darts and roared loudly.",
+        "hindi": "न्यपतत्यतितेः पूव खशिरोभिर्निशाचरः । हतशेपास्ततो भग्ना राक्षसाः खरसंश्रया;२ | द्रवन्ति स्म तिष्ठन्ति व्याघ्रत्रस्ता मृगा इव ॥१&॥ १ हृतरथातू-हतददयसारथिकरथातू | (गो०) २ जड़ः-निश्चेष्ट: | (गो०) ३ खरसंश्रयाः--खरसेनकाः | (गो०) ४पाठान्तरे--“रथोपस्येन्यपातयत्‌ |? बा० रा० अ०--१४ २१० अरण्यकाण तब श्रीरामचन्द्र जी ने तुरन्त तीन वाण मार उसके तीनों सिर काट कर गिरा दिए । बह्‌ त्रिशिरा, श्रीराम के बाशों से पीड़ित हो, भूमि पर रुधिर गिराता हुआ, अपने मस्तकं के साथ रणभूमि भें गिर पड़ा । उसको मरा देख, बचे हुए खर के सेवक राक्षस हतोत्साह हो, रणभूमि में खड़े न रह कर, वेसा ही भाग गए, जैसे व्याघ्र से भयभीत हो मृग भागते हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 28,
+      "verse": 19,
+      "sloka": "स शरैः अर्पितः क्रुद्धः सर्व गात्रेषु राघवः ।रराज समरे रामो विधूमो अग्निर् इव ज्वलन् ॥३-२८-१९॥",
+      "transliteration": "sa śaraiḥ arpitaḥ kruddhaḥ sarva gātreṣu rāghavaḥ ।rarāja samare rāmo vidhūmo agnir iva jvalan ॥3-28-19॥",
+      "translations": {
+        "english": "Rama, scion of the Raghu race, afflicted by the darts in all parts of the body, glowed in his anger like smokeless fire burning.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 28,
+      "verse": 20,
+      "sloka": "ततो गंभीर निर्ह्रादम् रामः शत्रु निबर्हणः ।चकार अंताय स रिपोः सज्यम् अन्यन् महत् धनुः ॥३-२८-२०॥",
+      "transliteration": "tato gaṁbhīra nirhrādam rāmaḥ śatru nibarhaṇaḥ ।cakāra aṁtāya sa ripoḥ sajyam anyan mahat dhanuḥ ॥3-28-20॥",
+      "translations": {
+        "english": "Then Rama, destroyer of foes, strung another great bow of fearful sound in order to put an end to the enemy.",
+        "hindi": "इति ससश: सा: | उनको भागते देख, खर ने रोप में भर डनको लोटाया और स्वयं श्रीराम की ओर वैसे ही दोडा, जेसे राहु, चन्द्रमा के ऊपर दौड़ता है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 28,
+      "verse": 21,
+      "sloka": "सुमहत् वैष्णवम् यत् तत् अतिसृष्टम् महर्षिणा ।वरम् तत् धनुः उद्यम्य खरम् समभिधावत ॥३-२८-२१॥",
+      "transliteration": "sumahat vaiṣṇavam yat tat atisṛṣṭam maharṣiṇā ।varam tat dhanuḥ udyamya kharam samabhidhāvata ॥3-28-21॥",
+      "translations": {
+        "english": "Thereafter Rama advanced, aiming at Khara the superior Vaishnava bow given by sage Agastya.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 28,
+      "verse": 22,
+      "sloka": "ततः कनक पुंखैः तु शरैः संनत पर्वभिः ।चिच्छेद रामः संक्रुद्धः खरस्य समरे ध्वजम् ॥३-२८-२२॥",
+      "transliteration": "tataḥ kanaka puṁkhaiḥ tu śaraiḥ saṁnata parvabhiḥ ।ciccheda rāmaḥ saṁkruddhaḥ kharasya samare dhvajam ॥3-28-22॥",
+      "translations": {
+        "english": "Rama took up in a rage the welljointed, smooth darts with golden feathers and broke the flag post of the chariot of Khara to pieces.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 28,
+      "verse": 23,
+      "sloka": "स दर्शनीयो बहुधा विच्छिन्नः कांचनो ध्वजः ।जगाम धरणीम् सूर्यो देवतानाम् इव आज्ञया ॥३-२८-२३॥",
+      "transliteration": "sa darśanīyo bahudhā vicchinnaḥ kāṁcano dhvajaḥ ।jagāma dharaṇīm sūryo devatānām iva ājñayā ॥3-28-23॥",
+      "translations": {
+        "english": "The beautiful, golden flag post, broken into several pieces, fell down on earth.It appeared as if the Sun had come down to earth at the behest of the gods.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 28,
+      "verse": 24,
+      "sloka": "तम् चतुर्भिः खरः क्रुद्धो रामम् गात्रेषु मार्गणैः ।विव्याध हृदि मर्मज्ञो मातंगम् इव तोमरैः ॥३-२८-२४॥",
+      "transliteration": "tam caturbhiḥ kharaḥ kruddho rāmam gātreṣu mārgaṇaiḥ ।vivyādha hṛdi marmajño mātaṁgam iva tomaraiḥ ॥3-28-24॥",
+      "translations": {
+        "english": "Quite enraged, Khara who knew how to hit the tender parts (of the body) in an encounter sent out four arrows on Rama. It was like poking an elephant's limbs with a javelin.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 28,
+      "verse": 25,
+      "sloka": "स रामो बहुभिः बाणैः खर कार्मुक निःसृतैः ।विद्धो रुधिर सिक्तांगो बभूव रुषितो भृशम् ॥३-२८-२५॥",
+      "transliteration": "sa rāmo bahubhiḥ bāṇaiḥ khara kārmuka niḥsṛtaiḥ ।viddho rudhira siktāṁgo babhūva ruṣito bhṛśam ॥3-28-25॥",
+      "translations": {
+        "english": "Rama, hit by the arrows released from the bow of Khara, all his limbs drenched in blood, became very furious.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 28,
+      "verse": 26,
+      "sloka": "स धनुर् धन्विनाम् श्रेष्ठः प्रगृह्य परम आहवे ।मुमोच परम इष्वासः षट् शरान् अभिलक्षितान् ॥३-२८-२६॥",
+      "transliteration": "sa dhanur dhanvinām śreṣṭhaḥ pragṛhya parama āhave ।mumoca parama iṣvāsaḥ ṣaṭ śarān abhilakṣitān ॥3-28-26॥",
+      "translations": {
+        "english": "The best among archers and a supreme shooter, he lifted the bow, fixed his target and released six arrows in the great fight.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 28,
+      "verse": 27,
+      "sloka": "शिरसि एकेन बाणेन द्वाभ्याम् बाह्वोर् अथ आर्पयत् ।त्रिभिः चन्द्र अर्ध वक्त्रैः च वक्षसि अभिजघान ह ॥३-२८-२७॥",
+      "transliteration": "śirasi ekena bāṇena dvābhyām bāhvor atha ārpayat ।tribhiḥ candra ardha vaktraiḥ ca vakṣasi abhijaghāna ha ॥3-28-27॥",
+      "translations": {
+        "english": "Rama hit one arrow on the head, two on the shoulders and three of the shape of the crescent moon on the chest (of the enemy).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 28,
+      "verse": 28,
+      "sloka": "ततः पश्चात् महातेजा नाराचान् भास्कर उपमान् ।जघान राक्षसम् क्रुद्धः त्रयोदश शिला अशितान् ॥३-२८-२८॥",
+      "transliteration": "tataḥ paścāt mahātejā nārācān bhāskara upamān ।jaghāna rākṣasam kruddhaḥ trayodaśa śilā aśitān ॥3-28-28॥",
+      "translations": {
+        "english": "Enraged and effulgent Rama took up thirteen darts, radiant like the Sun, with a wish to kill the demon.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 28,
+      "verse": 29,
+      "sloka": "रथस्य युगम् एकेन चतुर्भिः शबलान् हयान् ।षष्ठेन च शिरः संख्ये चिच्छेद खर सारथेः ॥३-२८-२९॥",
+      "transliteration": "rathasya yugam ekena caturbhiḥ śabalān hayān ।ṣaṣṭhena ca śiraḥ saṁkhye ciccheda khara sāratheḥ ॥3-28-29॥",
+      "translations": {
+        "english": "Rama, like Indra, strong and mighty, broke the yoke of Khara's chariot with one arrow, the four horses with four arrows, and with the sixth the charioteer's head, with three others the main pole of the chariot, with two the axle of the chariot, and with the twelfth Khara's bow and arrows were splintered. As if laughing at him, he pierced Khara's body with the thirteenth arrow.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 28,
+      "verse": 30,
+      "sloka": "त्रिभिः त्रिवेणून् बलवान् द्वाभ्याम् अक्षम् महाबलः ।द्वादशेन तु बाणेन खरस्य स शरम् धनुः ॥३-२८-३०॥",
+      "transliteration": "tribhiḥ triveṇūn balavān dvābhyām akṣam mahābalaḥ ।dvādaśena tu bāṇena kharasya sa śaram dhanuḥ ॥3-28-30॥",
+      "translations": {
+        "english": "Rama, like Indra, strong and mighty, broke the yoke of Khara's chariot with one arrow, the four horses with four arrows, and with the sixth the charioteer's head, with three others the main pole of the chariot, with two the axle of the chariot, and with the twelfth Khara's bow and arrows were splintered. As if laughing at him, he pierced Khara's body with the thirteenth arrow.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 28,
+      "verse": 31,
+      "sloka": "छित्त्वा वज्र निकाशेन राघवः प्रहसन् इव ।त्रयोदशेन इन्द्र समो बिभेद समरे खरम् ॥३-२८-३१॥",
+      "transliteration": "chittvā vajra nikāśena rāghavaḥ prahasan iva ।trayodaśena indra samo bibheda samare kharam ॥3-28-31॥",
+      "translations": {
+        "english": "Rama, like Indra, strong and mighty, broke the yoke of Khara's chariot with one arrow, the four horses with four arrows, and with the sixth the charioteer's head, with three others the main pole of the chariot, with two the axle of the chariot, and with the twelfth Khara's bow and arrows were splintered. As if laughing at him, he pierced Khara's body with the thirteenth arrow.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 28,
+      "verse": 32,
+      "sloka": "प्रभग्न धन्वा विरथो हत अश्वो हत सारथिः ।गदा पाणिः अवप्लुत्य तस्थौ भूमौ खरः तदा ॥३-२८-३२॥",
+      "transliteration": "prabhagna dhanvā viratho hata aśvo hata sārathiḥ ।gadā pāṇiḥ avaplutya tasthau bhūmau kharaḥ tadā ॥3-28-32॥",
+      "translations": {
+        "english": "Then, with bow broken, chariot destroyed, horses and charioteer dead, Khara jumped down the chariot and stood on the ground holding a mace.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 28,
+      "verse": 33,
+      "sloka": "तत् कर्म रामस्य महारथस्यसमेत्य देवाः च महर्षयः च ।अपूजयन् प्रांजलयः प्रहृष्टाःतदा विमान अग्र गताः समेताः ॥३-२८-३३॥",
+      "transliteration": "tat karma rāmasya mahārathasyasametya devāḥ ca maharṣayaḥ ca ।apūjayan prāṁjalayaḥ prahṛṣṭāḥtadā vimāna agra gatāḥ sametāḥ ॥3-28-33॥",
+      "translations": {
+        "english": "Then the gods, along with great sages came down in aerial chariots and assembled there. Delighted, they adored Rama, the great warrior, with folded hands for the work done. इत्यार्षे श्रीमद्रामायणे वाल्मीकिय आदिकाव्ये अरण्यकाण्डे अष्टाविंशस्सर्गः।। Thus ends the twentyeigth sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

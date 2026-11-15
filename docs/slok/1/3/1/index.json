@@ -1,0 +1,14 @@
+{
+  "kanda": 1,
+  "kanda_name": "Bala Kanda",
+  "kanda_name_sanskrit": "बालकाण्डम्",
+  "sarga": 3,
+  "verse": 1,
+  "sloka": "श्रुत्वा वस्तु समग्रम् तत् धर्म अर्ध सहितम् हितम् ।व्यक्तम् अन्वेषते भूयो यद्वृत्तम् तस्य धीमतः ॥१-३-१।॥",
+  "transliteration": "śrutvā vastu samagram tat dharma ardha sahitam hitam ।vyaktam anveṣate bhūyo yadvṛttam tasya dhīmataḥ ॥1-3-1।॥",
+  "translations": {
+    "english": "Hearing the entire story of Rama from the intellecual Narada, the righteous (Valmiki) sought to know clearly more about the history of Rama endowed with wisdom.",
+    "hindi": "व्यक्तमन्वेषते भूयो यदूवृचं तस्य धीमतः",
+    "telugu": "ధర్మాత్ముడైన వాల్మీకిముని ఇదివరలో నారదమహర్షివలన ధర్మసహితమైన రామకథను వినియుండెను. మహానుభావుడైన శ్రిరామచంద్రుని వృత్తాంతములో ఇంకను విశేషాంశములు ఏవైనను కలవేమోయని ఆలోచింపసాగెను."
+  }
+}

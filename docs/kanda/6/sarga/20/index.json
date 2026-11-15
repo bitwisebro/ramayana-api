@@ -1,0 +1,513 @@
+{
+  "kanda": 6,
+  "kanda_name": "Yuddha Kanda",
+  "kanda_name_sanskrit": "युद्धकाण्डम्",
+  "sarga": 20,
+  "verses_count": 36,
+  "verses": [
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 20,
+      "verse": 1,
+      "sloka": "ततो निविष्टाम् ध्वजिनीम् सुग्रीवेणाभिपालिताम् ।ददर्श राक्षसोऽभ्येत्य शार्दूलो नाम वीर्यवान् ॥६-२०-१॥।।",
+      "transliteration": "tato niviṣṭām dhvajinīm sugrīveṇābhipālitām ।dadarśa rākṣaso'bhyetya śārdūlo nāma vīryavān ॥6-20-1॥।।",
+      "translations": {
+        "english": "Then the heroic Rakshasa called Shardula entered into the area encamped by the army under Sugriva's command and saw the sign flag of the army.",
+        "hindi": "टन Oe ` नवस! सग; ततो निबिष्टां घ्यजिनीं सुग्रीवेशाभिपालिताम्‌ । ददश रा्षसोऽभ्येत्य शाद्‌ लो नाम वीर्यवान्‌",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 20,
+      "verse": 2,
+      "sloka": "चारो राक्षसराजस्य रावणस्य दुरात्मनः ।ताम् दृष्ट्वा सर्वतोऽव्यग्रम् प्रतिगम्य स राक्षसः ॥६-२०-२॥।।",
+      "transliteration": "cāro rākṣasarājasya rāvaṇasya durātmanaḥ ।tām dṛṣṭvā sarvato'vyagram pratigamya sa rākṣasaḥ ॥6-20-2॥।।",
+      "translations": {
+        "english": "The evil minded raskshasa who was a spy of Ravana went back to Lanka speedily unruffled after having observed all over the camp and spoke these words to Ravana.",
+        "hindi": "Pa यह शादूल दुष्ट राक्षसराज रावणईका जासूस था और बढी सावधानी से यहाँ का सारा वृत्तान्त अपनी आंखों से देख, लोट गया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 20,
+      "verse": 3,
+      "sloka": "आविश्य लङ्काम् वेगेन राजानमिदमब्रवीत् ।एष वै वानरर्क्षघो लङ्काम् समभिवर्तते ॥६-२०-३॥।।",
+      "transliteration": "āviśya laṅkām vegena rājānamidamabravīt ।eṣa vai vānararkṣagho laṅkām samabhivartate ॥6-20-3॥।।",
+      "translations": {
+        "english": "As if it is a second ocean deep and immeasurable, the ocean of Vanaras and Bears are heading towards Lanka (reported the spy).",
+        "hindi": "लङ्का में बड़ी शीघ्रता से पहुँच उसने*रावण से कहा- हे राजन! बानरो और भालुओं के दल लङ्का के समीप आ पहुँचे हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 20,
+      "verse": 4,
+      "sloka": "अगाधश्चाप्रमेयश्च द्वितीय इव सागरः ।पुत्रौ दशरथस्येमौ भ्रातरौ रामलक्ष्मणौ ॥६-२०-४॥।।",
+      "transliteration": "agādhaścāprameyaśca dvitīya iva sāgaraḥ ।putrau daśarathasyemau bhrātarau rāmalakṣmaṇau ॥6-20-4॥।।",
+      "translations": {
+        "english": "\"Great sons of Dasaratha, Rama and Lakshmana, endowed with beautiful form and exceptional fortitude have come and set their foot on the seashore and settled to come to Sita.\"",
+        "hindi": "यह भालुओं और वानरों का दल, ठुष्प्रवेश्य और असंख्य । और दूसरे समुद्र जैसा जान पड़ता है । दशरथ के पुत्र दोनों भाई राम और लक्ष्मण",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 20,
+      "verse": 5,
+      "sloka": "उत्तमौ रूपसम्पन्नौ सीतायाः पदमागतौ ।एतौ सागरमासाद्य सम्निविष्टौ महाद्युती ॥६-२०-५॥।।",
+      "transliteration": "uttamau rūpasampannau sītāyāḥ padamāgatau ।etau sāgaramāsādya samniviṣṭau mahādyutī ॥6-20-5॥।।",
+      "translations": {
+        "english": "\"Great sons of Dasaratha, Rama and Lakshmana, endowed with beautiful form and exceptional fortitude have come and set their foot on the seashore and settled to come to Sita.\"",
+        "hindi": ", ` उत्तम आयुधों से सुसज्जित सीता का उद्धार करने के लिए hn आये हुए हैं । ये दोनों महाद्युतिमान्‌ समुद्र के तट पर ठहरे हुए । हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 20,
+      "verse": 6,
+      "sloka": "बलम् चाकाशमावृत्य सर्वतो दशयोजनम् ।तत्त्वभूतम् महारज क्षिप्रम् वेदितुमर्हसि ॥६-२०-६॥।।",
+      "transliteration": "balam cākāśamāvṛtya sarvato daśayojanam ।tattvabhūtam mahāraja kṣipram veditumarhasi ॥6-20-6॥।।",
+      "translations": {
+        "english": "\"Mighty king Ravana the army also is spread all over ten yojanas. I have seen going round the sky. You ought to know the real situation at once.\"",
+        "hindi": "इनकी सेना दस योजन के घेरे भें ठहरी हुई है । भैंसे सरा- सरी में जो कुछ देखा सो निवेदन किआ--आप अब ठीक ठीक हाल मंगवा लें",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 20,
+      "verse": 7,
+      "sloka": "तव दूता महाराज क्षिप्रमर्हन्ति वेदितुम् ।उपप्रदानम् सान्त्वम् वा भेदो वात्र प्रयुज्यताम् ॥६-२०-७॥।।",
+      "transliteration": "tava dūtā mahārāja kṣipramarhanti veditum ।upapradānam sāntvam vā bhedo vātra prayujyatām ॥6-20-7॥।।",
+      "translations": {
+        "english": "\"O king at once your spies should be deployed there and entrusted to have claims either by conciliation or creating differences.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 20,
+      "verse": 8,
+      "sloka": "शार्दूलस्य वचः श्रुत्वा रावणो राक्षसेश्वरः ।उवाच सहसा व्यग्रः सम्प्रधार्यार्थमात्मनः ॥६-२०-८॥।।",
+      "transliteration": "śārdūlasya vacaḥ śrutvā rāvaṇo rākṣaseśvaraḥ ।uvāca sahasā vyagraḥ sampradhāryārthamātmanaḥ ॥6-20-8॥।।",
+      "translations": {
+        "english": "Ravana the tiger among Rakshasas, after having heard Shardula's words decided within himself and said to Suka who is good at work praising him very much as usual.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 20,
+      "verse": 9,
+      "sloka": "शुकम् नाम तदा रक्षो वाक्यमर्थविदाम् वरम् ।सुग्रीवम् ब्रूहि गत्वाशु राजानम् वचनान्मनु ॥६-२०-९॥।।",
+      "transliteration": "śukam nāma tadā rakṣo vākyamarthavidām varam ।sugrīvam brūhi gatvāśu rājānam vacanānmanu ॥6-20-9॥।।",
+      "translations": {
+        "english": "\"Departing quickly, speak to the king Sugriva boldly without getting disturbed but in a gentle way and communicate this message.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 20,
+      "verse": 10,
+      "sloka": "यथासम्देशमक्लीबम् शल्क्स्णया परया गिरा ।त्वम् वै महारज कुलप्रसूतो ।महाबलश्चर्क्षरजःसुतश्च ।न कश्चनार्थस्तव वास्त्यनर्थ ।स्तथापि मे भ्रातृसमो हरीश ॥६-२०-१०॥।।",
+      "transliteration": "yathāsamdeśamaklībam śalksṇayā parayā girā ।tvam vai mahāraja kulaprasūto ।mahābalaścarkṣarajaḥsutaśca ।na kaścanārthastava vāstyanartha ।stathāpi me bhrātṛsamo harīśa ॥6-20-10॥।।",
+      "translations": {
+        "english": "\"O Sugriva, king of Vanaras You are born in a race of eminent kings, a mighty son of Rksharaja. Even a little harm has not been done to you by me. I am like your brother (Ravana's words to Sugriva to be communicated by Suka).\"",
+        "hindi": "सुग्रीवं त्र हि गत्यां खे राजानं वचनात्‌ मम । यथा सन्देशमक्सीबं२ शलहशया परयार गिरा ॥&॥ हे शुक ! तू जानरराज सुग्रीव के समीप जा, मेरी ओर से कठोरतारहित, सुनने योग्यवाणी से किन्तु निर्भौक हो, बह सन्दैरा कहना ॥ &॥ ७ \"३७ ~ त्य वे महाराज इसप्रद्ता महाबलश्चच रेज सतश्च | न कश्चिदर्थस्तव नास्त्यनथे तथा हि मे श्रातृसमो हरीश",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 20,
+      "verse": 11,
+      "sloka": "अहम् यद्यहरम् भार्याम् राजपुत्रस्य धीमतः ।किम् तत्र तव सुग्रीव किश्किन्धाम् प्रति गम्यताम् ॥६-२०-११॥।।",
+      "transliteration": "aham yadyaharam bhāryām rājaputrasya dhīmataḥ ।kim tatra tava sugrīva kiśkindhām prati gamyatām ॥6-20-11॥।।",
+      "translations": {
+        "english": "\"Sugriva What harm is done to you if I have brought the consort of prince? You are a wise one, go back to Kishkinda.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 20,
+      "verse": 12,
+      "sloka": "न हीयम् हरिभिर्लङ्का प्राप्तुम् शक्या कथम् चन ।देवैरपि सगन्धर्वैः किम् पुनर्नरवानरैः ॥६-२०-१२॥।।",
+      "transliteration": "na hīyam haribhirlaṅkā prāptum śakyā katham cana ।devairapi sagandharvaiḥ kim punarnaravānaraiḥ ॥6-20-12॥।।",
+      "translations": {
+        "english": "\"It is not possible for Vanaras to get here even for Gandharvas or Devas also. What to say of humans and Vanaras? (You may tell this to Sugriva).\"",
+        "hindi": "है बुद्धिमान्‌ सुग्रोव ! यदि मैं राजकुमार राम की स्जी हर लाया तो इससे तुमको क्या? आत तुम अपनी राजधानी किष्किन्धा को लौट जाओ ॥ ११ न हीयं हरिमिलङ्का शक्ष्या प्रा कथश्वन | देवेरपि सगन्धः कि पुनर्नरवानरैः",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 20,
+      "verse": 13,
+      "sloka": "स तदा राक्षसेन्द्रेण सम्दिष्टो रजनीचरः ।शुको विहम्गमो भूत्वा तूर्णमाप्लुत्य चाम्बरम् ॥६-२०-१३॥।।",
+      "transliteration": "sa tadā rākṣasendreṇa samdiṣṭo rajanīcaraḥ ।śuko vihamgamo bhūtvā tūrṇamāplutya cāmbaram ॥6-20-13॥।।",
+      "translations": {
+        "english": "Thus, commanded by the ruler of Rakshasas, Suka immediately transformed into a bird form and rose apace into the sky.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 20,
+      "verse": 14,
+      "sloka": "स गत्वा दूरमध्वानमुपर्युपरि सागरम् ।सम्स्थितो ह्यम्बरे वाक्यम् सुग्रीव मदिमब्रवीत् ॥६-२०-१४॥।।",
+      "transliteration": "sa gatvā dūramadhvānamuparyupari sāgaram ।samsthito hyambare vākyam sugrīva madimabravīt ॥6-20-14॥।।",
+      "translations": {
+        "english": "Suka having gone a long way in the sky to a distant place, stationed there spoke these words to Sugriva.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 20,
+      "verse": 15,
+      "sloka": "सर्वमुक्तम् यथादिष्टम् रावणेन दुरात्मना ।तत्प्रपयन्तम् वचनम् तूर्णमाप्लुत्य वानराः ॥६-२०-१५॥।।",
+      "transliteration": "sarvamuktam yathādiṣṭam rāvaṇena durātmanā ।tatprapayantam vacanam tūrṇamāplutya vānarāḥ ॥6-20-15॥।।",
+      "translations": {
+        "english": "Thus, commanded by evil minded Ravana, Suka communicated everything as spoken by Ravana. At once the Vanaras rose and started to injure Suka with their fists.",
+        "hindi": "वे सब बातें कहीं, जो।दुरात्मा रावण ने कहलाई थीं । राक्षस शुक इस प्रकार रावण का सन्दैसा सुना रहा था कि, वानरों ने उछल कर उसे पकड़ लिया और वे उसे घूं सों से मारने लगे। फिर बाँधकर वे उसे नीचे ले आए। जब वानरों ने शुक को बहुत सारा, तब उसने कहा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 20,
+      "verse": 16,
+      "sloka": "प्रापद्यन्त तदा क्षिप्रम् लोप्तुम् हन्तुम् च मुष्टिभिः ।सर्वैः प्लवण्गैः प्रसभम् निगृहीतो निशाचरह् ॥६-२०-१६॥।।",
+      "transliteration": "prāpadyanta tadā kṣipram loptum hantum ca muṣṭibhiḥ ।sarvaiḥ plavaṇgaiḥ prasabham nigṛhīto niśācarah ॥6-20-16॥।।",
+      "translations": {
+        "english": "At once the Vanaras violently seized the night ranger Suka and held him and threw him down to the ground from the sky.",
+        "hindi": "अनुक्तवादी दूतः सन्‌ स दूतो वेधमहंति | शुकस्य वचनं शरुत्वा रामस्तु परिदेवितम्‌ ॥ १८] बह दूत अनुक्तवादी कहलाता है और वही मार डालने योग्य i ~ LN (0. oS है। श्रीरामचंद्र जी ने शुक केये वचन और गिड़गिड़ाना सुन",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 20,
+      "verse": 17,
+      "sloka": "गगनाद्भूतले चाशु प्रतिगृह्यावतारितः ।वानरैः पीड्यमानस्तु शुको वचनमब्रवीत् ॥६-२०-१७॥।।",
+      "transliteration": "gaganādbhūtale cāśu pratigṛhyāvatāritaḥ ।vānaraiḥ pīḍyamānastu śuko vacanamabravīt ॥6-20-17॥।।",
+      "translations": {
+        "english": "Being attacked by Vanaras, Suka told these words. \"Oh Kakuthsa Rama messengers should not be killed. It will be good to prevent the Vanaras.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 20,
+      "verse": 18,
+      "sloka": "न दूतान् घ्नन्ति काकुत्थ्स वार्यन्ताम् साधु वानराः ।यस्तु हित्वा मतम् भर्तुः स्वमतम् सम्प्रभाषते ॥६-२०-१८॥।।",
+      "transliteration": "na dūtān ghnanti kākutthsa vāryantām sādhu vānarāḥ ।yastu hitvā matam bhartuḥ svamatam samprabhāṣate ॥6-20-18॥।।",
+      "translations": {
+        "english": "\"The envoy who puts aside the king's opinion and expresses his own opinion, which has not been said by the king ought to be killed.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 20,
+      "verse": 19,
+      "sloka": "अनुक्तवादी दूतः सन्न् स दूतो वधमर्हति ।शुकस्य वचनम् रामः श्रुत्वा तु परिदेवितम् ॥६-२०-१९॥।।",
+      "transliteration": "anuktavādī dūtaḥ sann sa dūto vadhamarhati ।śukasya vacanam rāmaḥ śrutvā tu paridevitam ॥6-20-19॥।।",
+      "translations": {
+        "english": "After hearing the appeal of Suka and seeing the monkeys shouting, Rama spoke indicating not to kill him.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 20,
+      "verse": 20,
+      "sloka": "उवाच मा वधिस्टेति घ्नतः शाखामृगर्षभान् ।स च पत्रलघुद्भूत्वा हरिभिर्दर्शितेऽभये ॥६-२०-२०॥।।",
+      "transliteration": "uvāca mā vadhisṭeti ghnataḥ śākhāmṛgarṣabhān ।sa ca patralaghudbhūtvā haribhirdarśite'bhaye ॥6-20-20॥।।",
+      "translations": {
+        "english": "Suka, felt secure in the air and finding monkeys also settled, once again spoke these words.",
+        "hindi": ", उन मार डालने के लिए उद्यत वातय्यूथपतियों से.कहा; तुम लोग दूत के प्राणं मत लो । तब राक्षस शुक वानरों के भरे से भीत हो और छोटा रूप घारण कर, आकाश में खड़े खड़े पुनः कहने लगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 20,
+      "verse": 21,
+      "sloka": "अन्तरिक्षे स्थितो भूत्वा पुनर्वचन मब्रवीत् ।सुग्रीव सत्त्वसम्पन्न महाबलपराक्रम ॥६-२०-२१॥।।",
+      "transliteration": "antarikṣe sthito bhūtvā punarvacana mabravīt ।sugrīva sattvasampanna mahābalaparākrama ॥6-20-21॥।।",
+      "translations": {
+        "english": "\"Oh Sugriva Who is rich in spirit and endowed with mighty prowess What should I convey to Ravana who makes the world cry?\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 20,
+      "verse": 22,
+      "sloka": "किम् मया खलु नक्तव्यो रावणो लोकरावणः ।स एवमुक्तः प्लवगाधिपस्तदा ।प्लवङ्गमानामृषभो महाबलः ।उवाच वाक्यम् रजनीचरस्य ।चारम् शुकम् शुद्ध मदीनसत्त्वः ॥६-२०-२२॥।।",
+      "transliteration": "kim mayā khalu naktavyo rāvaṇo lokarāvaṇaḥ ।sa evamuktaḥ plavagādhipastadā ।plavaṅgamānāmṛṣabho mahābalaḥ ।uvāca vākyam rajanīcarasya ।cāram śukam śuddha madīnasattvaḥ ॥6-20-22॥।।",
+      "translations": {
+        "english": "Suka having spoken in that way, Sugriva the leader of the monkeys who was not depressed in his spirit spoke these pleasant words to the Rakshasa spy.",
+        "hindi": "जब शुक ने कपिराज से इस प्रकार कहा, तब महाबली एवं. अदीन कपिश्रेष्ठ सुग्रीव ने रावण से कहने के लिए दीनता को प्रास रादासदूत शुक्र से यह कहा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 20,
+      "verse": 23,
+      "sloka": "स मेऽसि मित्रम् व तथानुकम्प्यो ।न चोपकर्तासि न मे प्रियोऽपि ।अरिश्च रामस्य सहानुबन्ध ।स्ततोऽसि वालीव वधार्ह वध्यः ॥६-२०-२३॥।।",
+      "transliteration": "sa me'si mitram va tathānukampyo ।na copakartāsi na me priyo'pi ।ariśca rāmasya sahānubandha ।stato'si vālīva vadhārha vadhyaḥ ॥6-20-23॥।।",
+      "translations": {
+        "english": "\"O Rakshasa, you are the one who deserves death (Convey to Ravana this as my word). You are an enemy to my friend, like wise you are not worthy of sympathy, not my well wisher and also not dear to me. You are Rama's enemy, so like your relative Vali you are to be killed.\"",
+        "hindi": "बा० रा० यु०--१ ३ १६४ युद्धका कि, तुम मेरी ओर से रावण से यह कह देना कि, न तो तुम मेरे मित्र हो, न तुम दयापात्र हो, न तुम मेरे उपकारकर्ता हो ओर न तुम मेरे प्रिय ही हो । अतः तुम मुके अपने भाई के तुल्य क्यों समझते हो ? प्रत्युत तुम तो श्रीरामचन्द्र जी के शत्रु होने के कारण सेरे शत्र, हो और सपरिवार बाली की तरह मार डालने के योग्य हो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 20,
+      "verse": 24,
+      "sloka": "निहन्म्यहम् त्वाम् ससुतम् सबन्धुम् ।सज्ञातिवर्गम् रजनीचरेश ।लङ्काम् च सर्वाम् महता बलेन ।सर्वैः करिष्यामि समेत्य भस्म ॥६-२०-२४॥।।",
+      "transliteration": "nihanmyaham tvām sasutam sabandhum ।sajñātivargam rajanīcareśa ।laṅkām ca sarvām mahatā balena ।sarvaiḥ kariṣyāmi sametya bhasma ॥6-20-24॥।।",
+      "translations": {
+        "english": "\"O Night ranger Ravana I shall kill all your sons, relatives, your kinsfolk. I shall come at once and even burn Lanka into ashes with my mighty prowess.\"",
+        "hindi": "हे रजनीचरेश ! मैं तुमको पुत्र, बन्धु और छुटुम्बियों सहित मारू गा । मैं बड़ी भारी सेना साथ लेकर आ रहा हूँ और शीघ्र ही ,तुम्हारी समस्त लङ्का को भस्म कर, छार-छार कर डालुँगां",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 20,
+      "verse": 25,
+      "sloka": "न मोक्ष्यसे रावण राघवस्य ।सर्वैः सहेन्द्रैदपि मूढ गुप्तः ।अन्तर्हतः सूर्यपथम् गतोऽपि।तथैव पातालमनुप्रविष्टः ॥६-२०-२५॥।।",
+      "transliteration": "na mokṣyase rāvaṇa rāghavasya ।sarvaiḥ sahendraidapi mūḍha guptaḥ ।antarhataḥ sūryapatham gato'pi।tathaiva pātālamanupraviṣṭaḥ ॥6-20-25॥।।",
+      "translations": {
+        "english": "\"O Foolish Ravana Even if you go to a secret place, or rendered invisible by your interposition, or go into the orbit of the Sun, or go underground to Patala or go to the feet of Lord Siva for protection, you cannot escape from Rama. You along with your brother will be slain.\"",
+        "hindi": "हे मूढ़ रावण ! तू श्रीरामचन्द्र से वच न सक्रेंगा भले ही इन्द्रसहित समस्त देवता तेरी रक्षा के लिए कटिबद्ध हो जाँय, अथवा तू छिप जा अथवा तू सूर्यमाग में चला जा अथवा श्याकाश या पाताल ही में घुस जा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 20,
+      "verse": 26,
+      "sloka": "गिरीशपादम्बुजसम्गतो वा ।हतोऽसि रामेण शानुजस्त्वम् ॥६-२०-२६॥।।",
+      "transliteration": "girīśapādambujasamgato vā ।hato'si rāmeṇa śānujastvam ॥6-20-26॥।।",
+      "translations": {
+        "english": "\"O Foolish Ravana Even if you go to a secret place, or rendered invisible by your interposition, or go into the orbit of the Sun, or go underground to Patala or go to the feet of Lord Siva for protection, you cannot escape from Rama. You along with your brother will be slain.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 20,
+      "verse": 27,
+      "sloka": "तस्य ते त्रिषु लोकेषु न पिशाचम् न राक्षसम् ।त्रातारमनुपश्यामि न गन्धर्वम् न चासुरम् ॥६-२०-२७॥।।",
+      "transliteration": "tasya te triṣu lokeṣu na piśācam na rākṣasam ।trātāramanupaśyāmi na gandharvam na cāsuram ॥6-20-27॥।।",
+      "translations": {
+        "english": "\"I do not see anyone who can save you in these three worlds, not Rakshasas, not devils or even Gandharvas.\"",
+        "hindi": "a तूने उस वूढ़े जजर गृद्धराज जटायु को मार डाला सो अपने को बलवान समझ बल के घम'ड में मत भूलना। यदि तुमे बलवान्‌, होने का दावा था, तो तूने श्रीरामचन्द्र या लक्ष्मण के सामने सीता क्यों न हरीं !",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 20,
+      "verse": 28,
+      "sloka": "अवधीस्त्वम् जरावृद्धम् गृध्राराजम् जटायुषम् ।किम् मते रामसाम्निध्ये सकाशे लक्ष्मणस्य च ॥६-२०-२८॥।।",
+      "transliteration": "avadhīstvam jarāvṛddham gṛdhrārājam jaṭāyuṣam ।kim mate rāmasāmnidhye sakāśe lakṣmaṇasya ca ॥6-20-28॥।।",
+      "translations": {
+        "english": "\"When the aged and old vulture Jatayu restrained you, why did you disregard and seize broadeyed Sita? Why did you not take her away in the presence of Rama or even Lakshmana?\"",
+        "hindi": "न बुध्यसे रघुश्रेष्ठ यस्ते प्राणान्‌ हरिष्यति । ततोऽब्रवीद्वालिसुतस्त्वङ्गदो हरिसत्तमः ॥ & ॥ तू विशालाक्षी सीता को हरते समय यहून समभा कि, बड़े बली, धीरजधारी और देवताओंसे भी अजेय रघुश्रेछश्री रामच द्र तेरे प्राण हर लेंगे । तद्न तर कपिश्रेष्ठ वालिसुत अङ्गद ने कहा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 20,
+      "verse": 29,
+      "sloka": "हृता सीता विशालाक्षि याम् त्वम् गृह्य न बुध्यसे ।महाबलम् महात्मानम् दुराधर्षम् सुरैरपि ॥६-२०-२९॥।।",
+      "transliteration": "hṛtā sītā viśālākṣi yām tvam gṛhya na budhyase ।mahābalam mahātmānam durādharṣam surairapi ॥6-20-29॥।।",
+      "translations": {
+        "english": "\"You do not understand that the foremost of Raghu's, a benevolent one, is difficult to overcome even for Indra. He will take away your life with his extraordinary might.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 20,
+      "verse": 30,
+      "sloka": "न बुध्यसे रघुश्रेष्ठम् यस्ते प्राणान् हरिष्यति ।ततोऽब्रवीद्वालिसुतोऽप्यङ्गदो हरिसत्तमः ॥६-२०-३०॥।।",
+      "transliteration": "na budhyase raghuśreṣṭham yaste prāṇān hariṣyati ।tato'bravīdvālisuto'pyaṅgado harisattamaḥ ॥6-20-30॥।।",
+      "translations": {
+        "english": "\"Then Angada, the noble one among Vanaras, the son of Vali, said,\" O King, to me it appears that he is not a messenger but a spy.\"",
+        "hindi": "महाराज यह दूत नहीं, बल्कि जा&4 (भेदिया) दै । इसने र यहाँ इतनी देर ठहर कर, हमारी समस्त सेना और व्यूह का | # रहस्य ताङ लिया है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 20,
+      "verse": 31,
+      "sloka": "वायम् दूतो महाप्राज्ञ चारकः प्रतिभाति मे ।तुलितम् हि बलम् सर्वमनेन तव तिष्ठता ॥६-२०-३१॥।।",
+      "transliteration": "vāyam dūto mahāprājña cārakaḥ pratibhāti me ।tulitam hi balam sarvamanena tava tiṣṭhatā ॥6-20-31॥।।",
+      "translations": {
+        "english": "\"While standing here surely he has assessed the entire strength of the army. I hope he is taken as a captive and not returned to Lanka.\"",
+        "hindi": "Mh nh st जिगजाना8 १६ ` 'युद्धकाण्डै हग मुझको तो यह अच्छा जान चता है कि, यह पकड़ लिया मर जाय और लङ्का न जाने पावे । यह सुन, कपिराज की आज्ञा से वानरों ने उछल कर,",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 20,
+      "verse": 32,
+      "sloka": "गृह्यताम् मागमल्लङ्का मेतद्धि मम रोचते ।ततो राज्ञा समादिष्टाः समुत्पत्य वलीमुखाः ॥६-२०-३२॥।।",
+      "transliteration": "gṛhyatām māgamallaṅkā metaddhi mama rocate ।tato rājñā samādiṣṭāḥ samutpatya valīmukhāḥ ॥6-20-32॥।।",
+      "translations": {
+        "english": "Then having been commanded by the king he caught the forlorn wailing Rakshasa Suka and bound him.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 20,
+      "verse": 33,
+      "sloka": "जगृहुश्च बबन्धुश्च विलपन्तमनाथवत् ।शुकस्तु वानरैश्च ण्डैस्तत्र तैः सम्प्रपीडितः ॥६-२०-३३॥।।",
+      "transliteration": "jagṛhuśca babandhuśca vilapantamanāthavat ।śukastu vānaraiśca ṇḍaistatra taiḥ samprapīḍitaḥ ॥6-20-33॥।।",
+      "translations": {
+        "english": "\"Thereafter Suka who was severely tormented by the Vanaras went towards benevolent Rama and wailed.\"",
+        "hindi": "तब बह दाशरथी श्रीरामचन्द्र जी का नाम लेकर चिल्लाने लगा और कहने लगा, देखिए देखिए ये वानर बरजोरी मेरे पङ्घ खाड़े लेते हैं ओर आँखें फोड़े डालते हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 20,
+      "verse": 34,
+      "sloka": "व्याचुक्रोश महात्मानम् रामम् दशरथात्मजम् ।लुप्येते मे बलात्पक्षौ भिद्येते मे तथाक्षिणी ॥६-२०-३४॥।।",
+      "transliteration": "vyācukrośa mahātmānam rāmam daśarathātmajam ।lupyete me balātpakṣau bhidyete me tathākṣiṇī ॥6-20-34॥।।",
+      "translations": {
+        "english": "\"If my wings are cut off and my eyes are injured, on account of that inauspicious act you will take on all sins of my life from the night I was born till the night I am dead leaving my original form, even will happen (Suka tells Rama).\"",
+        "hindi": "जिस दिन से मैं उत्पन्न हुआ हूँ औरजिस दिन मैं मरू गा, इस रीच में मैंने जो पापकिए हैं, महाराज ! यदि मैं मर गया तो वे सब आपको लगेंगे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 20,
+      "verse": 35,
+      "sloka": "याम् च रात्रिम् मरिष्यामि जाये रात्रिम् च यामहम् ।एतस्मिन्नन्त्रे काले मन्मया चाशुभम् कृतम् ॥६-२०-३५॥।।",
+      "transliteration": "yām ca rātrim mariṣyāmi jāye rātrim ca yāmaham ।etasminnantre kāle manmayā cāśubham kṛtam ॥6-20-35॥।।",
+      "translations": {
+        "english": "\"If my wings are cut off and my eyes are injured, on account of that inauspicious act you will take on all sins of my life from the night I was born till the night I am dead leaving my original form, even will happen (Suka tells Rama).\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 20,
+      "verse": 36,
+      "sloka": "सर्वम् तदुपपद्येथा जह्यम् चेद्यदि जीवितम् ।नाघातयत्तदा रामः श्रुत्वा तत्परिदेवितम् ॥६-२०-३६॥",
+      "transliteration": "sarvam tadupapadyethā jahyam cedyadi jīvitam ।nāghātayattadā rāmaḥ śrutvā tatparidevitam ॥6-20-36॥",
+      "translations": {
+        "english": "\"Having heard the lamentation, Rama said to the Vanaras\" Do not kill him. Set him free as he had come as an envoy.\" ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेविंशस्सर्गः ।। This is the end of the twentieth sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

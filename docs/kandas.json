@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Bala Kanda",
+    "name_sanskrit": "बालकाण्डम्",
+    "slug": "bala-kanda",
+    "description": "The Book of Youth: Depicts the divine birth of Rama, his early life, slaying of demons, and marriage to Sita.",
+    "chapters_count": 77,
+    "verses_count": 2267
+  },
+  {
+    "id": 2,
+    "name": "Ayodhya Kanda",
+    "name_sanskrit": "अयोध्याकाण्डम्",
+    "slug": "ayodhya-kanda",
+    "description": "The Book of Ayodhya: Preparations for Rama's coronation, Kaikeyi's boons, and Rama's exile to the forest with Sita and Lakshmana.",
+    "chapters_count": 119,
+    "verses_count": 4307
+  },
+  {
+    "id": 3,
+    "name": "Aranya Kanda",
+    "name_sanskrit": "अरण्यकाण्डम्",
+    "slug": "aranya-kanda",
+    "description": "The Book of the Forest: Forest life of Rama, encounters with sages and demons, Surpanakha's episode, and Sita's abduction by Ravana.",
+    "chapters_count": 75,
+    "verses_count": 2447
+  },
+  {
+    "id": 4,
+    "name": "Kishkindha Kanda",
+    "name_sanskrit": "किष्किन्धाकाण्डम्",
+    "slug": "kishkindha-kanda",
+    "description": "The Book of Kishkindha: Rama's alliance with Sugriva and Hanuman, the slaying of Vali, and the search for Sita across all directions.",
+    "chapters_count": 67,
+    "verses_count": 2462
+  },
+  {
+    "id": 5,
+    "name": "Sundara Kanda",
+    "name_sanskrit": "सुन्दरकाण्डम्",
+    "slug": "sundara-kanda",
+    "description": "The Book of Beauty: Hanuman's heroic leap across the ocean to Lanka, locating Sita in the Ashoka Vatika, and burning Lanka.",
+    "chapters_count": 68,
+    "verses_count": 2810
+  },
+  {
+    "id": 6,
+    "name": "Yuddha Kanda",
+    "name_sanskrit": "युद्धकाण्डम्",
+    "slug": "yuddha-kanda",
+    "description": "The Book of War: Building the bridge to Lanka, the epic battle between Rama's army and Ravana's forces, victory, and coronation in Ayodhya.",
+    "chapters_count": 128,
+    "verses_count": 5578
+  },
+  {
+    "id": 7,
+    "name": "Uttara Kanda",
+    "name_sanskrit": "उत्तरकाण्डम्",
+    "slug": "uttara-kanda",
+    "description": "The Epilogue: Rama's righteous reign (Rama Rajya), the birth of Lava and Kusha, Sita's trial, and Rama's final departure.",
+    "chapters_count": 111,
+    "verses_count": 3463
+  }
+]

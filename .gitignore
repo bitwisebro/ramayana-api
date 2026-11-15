@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+venv/
+# Keep docs/ (which hosts the GitHub Pages static API)
+# data-source is only needed for building, but you can ignore or keep it
+data-source/
+*.log
+.DS_Store

@@ -1,0 +1,625 @@
+{
+  "kanda": 3,
+  "kanda_name": "Aranya Kanda",
+  "kanda_name_sanskrit": "अरण्यकाण्डम्",
+  "sarga": 52,
+  "verses_count": 44,
+  "verses": [
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 52,
+      "verse": 1,
+      "sloka": "सा तु तारा अधिप मुखी रावणेन निरीक्ष्य तम् ।गृध्र राजम् विनिहतम् विललाप सुदुःखिता ॥३-५२-१॥",
+      "transliteration": "sā tu tārā adhipa mukhī rāvaṇena nirīkṣya tam ।gṛdhra rājam vinihatam vilalāpa suduḥkhitā ॥3-52-1॥",
+      "translations": {
+        "english": "Sita,whose face was like the lord of the stars (Moon), saw Jatayu, king of birds, struck down by Ravana, and lamented in extreme grif :",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 52,
+      "verse": 2,
+      "sloka": "निमित्तम् लक्षणम् स्वप्नम् शकुनि स्वर दर्शनम् ।अवश्यम् सुख दुःखेषु नराणाम् परिदृश्यते ॥३-५२-२॥",
+      "transliteration": "nimittam lakṣaṇam svapnam śakuni svara darśanam ।avaśyam sukha duḥkheṣu narāṇām paridṛśyate ॥3-52-2॥",
+      "translations": {
+        "english": "People, for sure, foresee weal and woe in life from auspicious symptoms and ominous sounds.",
+        "hindi": "हरे जाने पर, क्रोध के मारे और रोते रोते सीता के नेत्र लाल हो गए। बह आतंस्त्र से रोती हुई भयङ्कर नेत्रों वाले राक्षसेश्वर राबश से यह चोली",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 52,
+      "verse": 3,
+      "sloka": "न नूनम् राम जानासि महत् व्यसनम् आत्मनः ।धावन्ति नूनम् काकुत्स्थ मत् अर्थम् मृग पक्षिणः ॥३-५२-३॥",
+      "transliteration": "na nūnam rāma jānāsi mahat vyasanam ātmanaḥ ।dhāvanti nūnam kākutstha mat artham mṛga pakṣiṇaḥ ॥3-52-3॥",
+      "translations": {
+        "english": "O Rama you are, indeed, unaware of the great disaster that has befallen you. All the animals and birds are running for my sake to tell you about me, O scion of the Kakutsthas.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 52,
+      "verse": 4,
+      "sloka": "अयम् हि कृपया राम माम् त्रातुम् इह संगतः ।शेते विनिहतो भूमौ मम अभाग्यात् विहंगमः ॥३-५२-४॥",
+      "transliteration": "ayam hi kṛpayā rāma mām trātum iha saṁgataḥ ।śete vinihato bhūmau mama abhāgyāt vihaṁgamaḥ ॥3-52-4॥",
+      "translations": {
+        "english": "'This bird that came forward to save me is hit by the sinner(Ravana) and lies down on the ground, as ill luck would have it.",
+        "hindi": "अरे नीच रावण ! क्या तुझको यह काम करते ड ।। यु (ते हुए लज्जा उहीँ मालूम पड़ती कि, जो तू मुझे अकेली पा और चर! के रे रचुरा कर भागा जा लयब नून दुष्टात्मन्‌ भीरुणा हतंमिच्छता । ममापवाहितो भता मृगरूपेण मायया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 52,
+      "verse": 5,
+      "sloka": "त्राहि माम् अद्य काकुत्स्थ लक्ष्मण इति वरांगना ।सु संत्रस्ता समाक्रंदत् शृण्वताम् तु यथा अन्तिके ॥३-५२-५॥",
+      "transliteration": "trāhi mām adya kākutstha lakṣmaṇa iti varāṁganā ।su saṁtrastā samākraṁdat śṛṇvatām tu yathā antike ॥3-52-5॥",
+      "translations": {
+        "english": "Terribly frightened, the beautiful lady (Sita) cried bitterly, 'O Rama, O Lakshmana, save me', as if they were close by and were listening to her.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 52,
+      "verse": 6,
+      "sloka": "ताम् क्लिष्ट माल्य आभरणाम् विलपन्तीम् अनाथवत् ।अभ्यधावत वैदेहीम् रावणो राक्षस अधिपः ॥३-५२-६॥",
+      "transliteration": "tām kliṣṭa mālya ābharaṇām vilapantīm anāthavat ।abhyadhāvata vaidehīm rāvaṇo rākṣasa adhipaḥ ॥3-52-6॥",
+      "translations": {
+        "english": "Ravana, king of the demons, ran towards Sita who was weeping like an orphan with her garlands and ornaments crushed.",
+        "hindi": "हे राक्षसाधम ! इससे त बड़ा पराक्रमी जान पड़ता है (यह व्यङ्ग्योक्ति है) तूने केवल अपना नाम सुना कर, मुझे हरा है --त मुभे युद्ध में जीत कर नहीं लाया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 52,
+      "verse": 7,
+      "sloka": "ताम् लताम् इव वेष्टन्तीम् आलिंगन्तीम् महाद्रुमान् ।मुंच मुंच इति बहुशः प्रवदन् राक्षस अधिपः ॥३-५२-७॥",
+      "transliteration": "tām latām iva veṣṭantīm āliṁgantīm mahādrumān ।muṁca muṁca iti bahuśaḥ pravadan rākṣasa adhipaḥ ॥3-52-7॥",
+      "translations": {
+        "english": "Separated from Rama in the forest, Sita hugged huge trees, running round and round like a creeper coiled, crying loudly, 'Rama, O Rama' . The king of the demons, like Yama, caught hold of her hair only to invite his death, all the time saying, Leave it, Leave it (Leave the tree).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 52,
+      "verse": 8,
+      "sloka": "क्रोशन्तीम् राम राम इति रामेण रहिताम् वने ।जीवित अन्ताय केशेषु जग्राह अन्तक संनिभः ॥३-५२-८॥",
+      "transliteration": "krośantīm rāma rāma iti rāmeṇa rahitām vane ।jīvita antāya keśeṣu jagrāha antaka saṁnibhaḥ ॥3-52-8॥",
+      "translations": {
+        "english": "Separated from Rama in the forest, Sita hugged huge trees, running round and round like a creeper coiled, crying loudly, 'Rama, O Rama' . The king of the demons, like Yama, caught hold of her hair only to invite his death, all the time saying, Leave it, Leave it (Leave the tree).",
+        "hindi": "त अपने को शूर बतला कर,ज़ो ऐसा क्रुर और पापकर्म कर रहा है, सो लोग तेरे इत कमे की निन्दा करेंगे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 52,
+      "verse": 9,
+      "sloka": "प्रधर्षितायाम् वैदेह्याम् बभूव स चरा अचरम् ।जगत् सर्वम् अमर्यादम् तमसा अन्धेन संवृतम् ॥३-५२-९॥",
+      "transliteration": "pradharṣitāyām vaidehyām babhūva sa carā acaram ।jagat sarvam amaryādam tamasā andhena saṁvṛtam ॥3-52-9॥",
+      "translations": {
+        "english": "While Sita was being assaulted, the earth with the animate and the inanimate crossed all limits of moral law and became enveloped in blinding darkness. The wind ceased to blow and the Sun, to shine.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 52,
+      "verse": 10,
+      "sloka": "न वाति मारुतः तत्र निष् प्रभो अभूत् दिवाकरः ।दृष्ट्वा सीताम् परा मृष्टाम् देवो दिव्येन चक्षुषा ॥३-५२-१०॥",
+      "transliteration": "na vāti mārutaḥ tatra niṣ prabho abhūt divākaraḥ ।dṛṣṭvā sītām parā mṛṣṭām devo divyena cakṣuṣā ॥3-52-10॥",
+      "translations": {
+        "english": "Brahma, the glorious Grandfather, saw with his divine eyes, Sita in a desperate state caught by the enemy and said, 'The task is accomplished.",
+        "hindi": "एसी दशा में जब त्‌ बुडे वेग से भागा जा रहा हे कोइ कया कर सकता है. । हाँ, यदि त एक मुट्रते भर ठहर जाय, तो त जीता हुआ तो न जा सकेगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 52,
+      "verse": 11,
+      "sloka": "कृतम् कार्यम् इति श्रीमान् व्याजहार पितामहः ।प्रहृष्टा व्यथिताः च आसन् सर्वे ते परम ऋषयः ॥३-५२-११॥",
+      "transliteration": "kṛtam kāryam iti śrīmān vyājahāra pitāmahaḥ ।prahṛṣṭā vyathitāḥ ca āsan sarve te parama ṛṣayaḥ ॥3-52-11॥",
+      "translations": {
+        "english": "All the great seers residing in Dandaka forest felt both happy and sad, happy because the destruction of Ravana is at hand and sad because Sita was in distress.",
+        "hindi": "उन राजपुत्रा को दृष्टि में पड़ते ही त अपनी सेना सहित भी एक मुहूत्त भर भा जीता जागता नहीं रह सकता",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 52,
+      "verse": 12,
+      "sloka": "दृष्ट्वा सीताम् परा मृष्टाम् दण्डकारण्य वासिनः ।रावणस्य विनाशम् च प्राप्तम् बुद्ध्वा यदृच्छया ॥३-५२-१२॥",
+      "transliteration": "dṛṣṭvā sītām parā mṛṣṭām daṇḍakāraṇya vāsinaḥ ।rāvaṇasya vināśam ca prāptam buddhvā yadṛcchayā ॥3-52-12॥",
+      "translations": {
+        "english": "All the great seers residing in Dandaka forest felt both happy and sad, happy because the destruction of Ravana is at hand and sad because Sita was in distress.",
+        "hindi": "पक्षी जिस प्रकार बन के दावानलं को नहीं छू सकता, उसी प्रकार तू उन राजङुमारों के वाणां का स्पर्श किसी तरह सहन नहीं कर सकता",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 52,
+      "verse": 13,
+      "sloka": "स तु ताम् राम राम इति रुदन्तीम् लक्ष्मण इति च ।जगाम आदाय च आकाशम् रावणो राक्षसेश्वर ॥३-५२-१३॥",
+      "transliteration": "sa tu tām rāma rāma iti rudantīm lakṣmaṇa iti ca ।jagāma ādāya ca ākāśam rāvaṇo rākṣaseśvara ॥3-52-13॥",
+      "translations": {
+        "english": "While Sita was crying, 'O Rama, O Lakshmana', Ravana, lord of the demons, carried her back into the sky.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 52,
+      "verse": 14,
+      "sloka": "तप्त आभरण वर्ण अन्गी पीत कौशेय वासनी ।रराज राज पुत्री तु विद्युत् सौदामनी यथा ॥३-५२-१४॥",
+      "transliteration": "tapta ābharaṇa varṇa angī pīta kauśeya vāsanī ।rarāja rāja putrī tu vidyut saudāmanī yathā ॥3-52-14॥",
+      "translations": {
+        "english": "SIta who had put on pure gold ornaments on her body and who was clad in yellow silk shone like lightning.",
+        "hindi": "अतएव हे रवण ! भली प्रकार अपना हित विचार तरह मुझको छोड दे । यदि न छोडेगा, तो मेरी घषणा ते मेरे पति अपने भाई लद्दमण सहित तेरे बिनाश के लिए उद्योग करेंगे । हे नीच! जिस उद्देश से जाता है ।;१३",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 52,
+      "verse": 15,
+      "sloka": "उद्धूतेन च वस्त्रेण तस्याः पीतेन रावणः ।अधिकम् परिबभ्राज गिरिः दीप इव अग्निना ॥३-५२-१५॥",
+      "transliteration": "uddhūtena ca vastreṇa tasyāḥ pītena rāvaṇaḥ ।adhikam paribabhrāja giriḥ dīpa iva agninā ॥3-52-15॥",
+      "translations": {
+        "english": "Ravana was shining all the more with(her) yellow clothes blowing in the air, and looked like a mountain shining with fire burning around.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 52,
+      "verse": 16,
+      "sloka": "तस्याः परम कल्याण्याः ताम्राणि सुरभीणि च ।पद्म पत्राणि वैदेह्या अभ्यकीर्यन्त रावणम् - यद्वा -- च्युतानि पद्म पत्राणि रावणम् समावाकिरन् - ॥३-५२-१६॥",
+      "transliteration": "tasyāḥ parama kalyāṇyāḥ tāmrāṇi surabhīṇi ca ।padma patrāṇi vaidehyā abhyakīryanta rāvaṇam - yadvā -- cyutāni padma patrāṇi rāvaṇam samāvākiran - ॥3-52-16॥",
+      "translations": {
+        "english": "The red lotus petals worn by the most auspicious Sita, princess of Videha, were showered on Ravana.",
+        "hindi": "और शत्रु के वश में पड़, बहुत दिनों जीती न रह सकूँगी । में सममती हूँ कि, तू अपने हित और कल्याण की ओर दृष्टि नहीं देता",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 52,
+      "verse": 17,
+      "sloka": "तस्याः कौशेयम् उद्धूतम् आकाशे कनक प्रभम् ।बभौ च आदित्य रागेण ताम्रम् अभ्रम् इव आतपे ॥३-५२-१७॥",
+      "transliteration": "tasyāḥ kauśeyam uddhūtam ākāśe kanaka prabham ।babhau ca āditya rāgeṇa tāmram abhram iva ātape ॥3-52-17॥",
+      "translations": {
+        "english": "As the goldencoloured garment worn by Sita blew in the wind, it looked like a coppercoloured cloud illumined by the evening Sun in the sky.",
+        "hindi": "जो पुरुष शीघ्र मरने वाज्ञा होता है वह अपथ्य सेवन करने लगता है । क्योंकि ऐसे पुरुष को पथ्य वस्तु भली ही नहीं लगती",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 52,
+      "verse": 18,
+      "sloka": "तस्याः तत् विमलम् - सु नसम् - वक्त्रम् आकाशे रावण अंक गम् ।न रराज विना रामम् विनालम् इव पंकजम् ॥३-५२-१८॥",
+      "transliteration": "tasyāḥ tat vimalam - su nasam - vaktram ākāśe rāvaṇa aṁka gam ।na rarāja vinā rāmam vinālam iva paṁkajam ॥3-52-18॥",
+      "translations": {
+        "english": "Sita's face with her beautiful nose on Ravana's lap and not on Rama's, shone no more like a lotus without its stalk.",
+        "hindi": "हे दशानन ! में देख रही हूँ कि, तेरे गले में काल की फाँसी पड़ चुकी है, क्योंकि इस भय के स्थान में भी तुमे भय नहीं लगता",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 52,
+      "verse": 19,
+      "sloka": "बभूव जलदम् नीलम् भित्त्वा चन्द्र इव उदितः ।सु ललाटम् सु केश अंतम् पद्म गर्भ आभम् अव्रणम् ॥३-५२-१९॥",
+      "transliteration": "babhūva jaladam nīlam bhittvā candra iva uditaḥ ।su lalāṭam su keśa aṁtam padma garbha ābham avraṇam ॥3-52-19॥",
+      "translations": {
+        "english": "Sita's face looked beautiful with her smooth forehead, shining hair and spotless complexion like the inside of a lotus, with clean, white, shining teeth, a nice nose and lovely red lips. She was continuously weeping and wiping her tears. Her face which was pleasing like the Moon on the lap of Ravana appeared as though the Moon was rising through dark clouds.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 52,
+      "verse": 20,
+      "sloka": "शुक्लैः सु विमलैर् दन्तैः प्रभावद्भिः अलंकृतम् ।तस्याः सु नयनम् वक्त्रम् आकाशे रावण अंक गम् ॥३-५२-२०॥",
+      "transliteration": "śuklaiḥ su vimalair dantaiḥ prabhāvadbhiḥ alaṁkṛtam ।tasyāḥ su nayanam vaktram ākāśe rāvaṇa aṁka gam ॥3-52-20॥",
+      "translations": {
+        "english": "Sita's face looked beautiful with her smooth forehead, shining hair and spotless complexion like the inside of a lotus, with clean, white, shining teeth, a nice nose and lovely red lips. She was continuously weeping and wiping her tears. Her face which was pleasing like the Moon on the lap of Ravana appeared as though the Moon was rising through dark clouds.",
+        "hindi": "ओर भयङ्कर असिपत्र बन नामक नरक को देखता चाहता है। तु तपाए हुए सुवण के फूलों से पूर्ण और पन्नों के पत्रों वाल और नुकीले लोहे के काँटो से युक्त शाल्मली के वर्त को देखेगा । महात्मा श्रीराम का ऐसा अप्रिय काये कर",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 52,
+      "verse": 21,
+      "sloka": "रुदितम् व्यपमृष्ट अस्रम् चन्द्रवत् प्रिय दर्शनम् ।सु नासम् चारु ताम्र ओष्ठम् आकाषे हाटक प्रभम् ॥३-५२-२१॥",
+      "transliteration": "ruditam vyapamṛṣṭa asram candravat priya darśanam ।su nāsam cāru tāmra oṣṭham ākāṣe hāṭaka prabham ॥3-52-21॥",
+      "translations": {
+        "english": "Sita's face looked beautiful with her smooth forehead, shining hair and spotless complexion like the inside of a lotus, with clean, white, shining teeth, a nice nose and lovely red lips. She was continuously weeping and wiping her tears. Her face which was pleasing like the Moon on the lap of Ravana appeared as though the Moon was rising through dark clouds.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 52,
+      "verse": 22,
+      "sloka": "राक्षसेन्द्र समाधूतम् तस्याः तत् वदनम् शुभम् ।शुशुभे न विना रामम् दिवा चन्द्र इव उदितः ॥३-५२-२२॥",
+      "transliteration": "rākṣasendra samādhūtam tasyāḥ tat vadanam śubham ।śuśubhe na vinā rāmam divā candra iva uditaḥ ॥3-52-22॥",
+      "translations": {
+        "english": "Shaken up by the demon and deprived of Rama's company, Sita's beautiful face looked like the Moon during daytime without any glow.",
+        "hindi": "॥ [ टिप्पणी जो परदाराभिगमन करते हैं उन्हें मरने फे शनन्तर यमलोक में कटीले शाल्मली वृक्ष को लिङ्गन करना पड़ता है । ] Ns > ८ विषं क ~ © #चरितुं शक्ष्यसि चिरं विषं पीत्वेन निष्टणः । बद्धस्त्वं कालपाशेन दुनिवारंण रावण",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 52,
+      "verse": 23,
+      "sloka": "सा हेम वर्णा नील अंगम् मैथिली राक्षस अधिपम् ।शुशुभे कांचनी कांची नीलम् मणिम् - गजम् - इव आश्रिता ॥३-५२-२३॥",
+      "transliteration": "sā hema varṇā nīla aṁgam maithilī rākṣasa adhipam ।śuśubhe kāṁcanī kāṁcī nīlam maṇim - gajam - iva āśritā ॥3-52-23॥",
+      "translations": {
+        "english": "Goldencomplexioned Sita, princess of Mithila, held by the darkcoloured king of the demons, shone like a girdle resting on a dark blue sapphire.",
+        "hindi": "मेरे महात्मा भत्ता के सासने से भाग कर, तू कहाँ सुख पा सकता हे ! उन्होंने पलक मारते दण्डकबन में ही अपने: भाई लक्ष्मश की सहायता के विना अकेले",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 52,
+      "verse": 24,
+      "sloka": "सा पद्म पीता हेम आभा रावणम् जनक आत्मजा ।विद्युत् घनम् इव आविश्य शुशुभे तप्त भूषणा ॥३-५२-२४॥",
+      "transliteration": "sā padma pītā hema ābhā rāvaṇam janaka ātmajā ।vidyut ghanam iva āviśya śuśubhe tapta bhūṣaṇā ॥3-52-24॥",
+      "translations": {
+        "english": "Bright like a golden lotus, adorned with gold ornaments, Sita, the daughter of Janaka, held by Ravana, looked like a streak of lightning shining bright in a dark cloud.",
+        "hindi": "रावण को गोद में पड़ी हुई सीता, भय और शोक से पीड़ित” हो, इस प्रकार के और भो आनेक कठोर बचन कह, करुण स्वर से विलाप करने लगी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 52,
+      "verse": 25,
+      "sloka": "तस्या भूषण घोषेण वैदेह्या राक्षस अधिपः ।बभूव विमलो नीलः सघोष इव तोयदः ॥३-५२-२५॥",
+      "transliteration": "tasyā bhūṣaṇa ghoṣeṇa vaidehyā rākṣasa adhipaḥ ।babhūva vimalo nīlaḥ saghoṣa iva toyadaḥ ॥3-52-25॥",
+      "translations": {
+        "english": "The lord of the demons by the side of Sita, princess of Videha with her jingling ornaments looked like the darkblue raincloud with its lightning and thunder.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 52,
+      "verse": 26,
+      "sloka": "उत्तम अंग च्युता तस्याः पुष्प वृष्टिः समन्ततः ।सीताया ह्रियमाणायाः पपात धरणी तले ॥३-५२-२६॥",
+      "transliteration": "uttama aṁga cyutā tasyāḥ puṣpa vṛṣṭiḥ samantataḥ ।sītāyā hriyamāṇāyāḥ papāta dharaṇī tale ॥3-52-26॥",
+      "translations": {
+        "english": "As Sita was being carried away, the shower of flowers dropped from her head and scattered on the earth.",
+        "hindi": "द्रति त्रिपञ्चाशः तग; ॥ जानकी ची बहुत घवड़ा कर, करूणा सहित विज्ञाप कर अनेकः कठोर वचन कहने लगीं । उस धमय वह पापी रावण, भय से काँपता हुआ, छटपटाती सीता को लिये चला जाता था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 52,
+      "verse": 27,
+      "sloka": "सा तु रावण वेगेन पुष्प वृष्टिः समन्ततः ।समाधूता दशग्रीवम् पुनः एव अभ्यवर्तत ॥३-५२-२७॥",
+      "transliteration": "sā tu rāvaṇa vegena puṣpa vṛṣṭiḥ samantataḥ ।samādhūtā daśagrīvam punaḥ eva abhyavartata ॥3-52-27॥",
+      "translations": {
+        "english": "The shower of flowers that fell flew towards the tenheaded Ravana again in the swirling motion (of the chariot).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 52,
+      "verse": 28,
+      "sloka": "अभ्यवर्तत पुष्पाणाम् धारा वैश्रवण अनुजम् ।नक्षत्र माला विमला मेरुम् नगम् इव उन्नतम् ॥३-५२-२८॥",
+      "transliteration": "abhyavartata puṣpāṇām dhārā vaiśravaṇa anujam ।nakṣatra mālā vimalā merum nagam iva unnatam ॥3-52-28॥",
+      "translations": {
+        "english": "The shower of flowers that dropped went round towards Ravana, brother of Vaisravana, like the bright garland of stars move towards mount Meru.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 52,
+      "verse": 29,
+      "sloka": "चरणात् नूपुरम् भ्रष्टम् वैदेह्या रत्न भूषितम् ।विद्युत् मण्डल संकाशम् पपात धरणी तले ॥३-५२-२९॥",
+      "transliteration": "caraṇāt nūpuram bhraṣṭam vaidehyā ratna bhūṣitam ।vidyut maṇḍala saṁkāśam papāta dharaṇī tale ॥3-52-29॥",
+      "translations": {
+        "english": "The gemstudded anklet of Sita, looking like an orb of lightning, dropped with a gentle sound.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 52,
+      "verse": 30,
+      "sloka": "तरु प्रवाल रक्ता सा नील अंगम् राक्षस ईश्वरम् ।प्राशोभयत वैदेही गजम् कक्ष्या इव कांचनी ॥३-५२-३०॥",
+      "transliteration": "taru pravāla raktā sā nīla aṁgam rākṣasa īśvaram ।prāśobhayata vaidehī gajam kakṣyā iva kāṁcanī ॥3-52-30॥",
+      "translations": {
+        "english": "With her golden girdle, Sita whose complexion resembled tender leaves looked like a golden chain to bind an elephant with. (Here Ravana is the elephant).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 52,
+      "verse": 31,
+      "sloka": "ताम् महा उल्काम् इव आकाशे दीप्यमानाम् स्व तेजसा ।जहार आकाशम् आविश्य सीताम् वैश्रवण अनुजः ॥३-५२-३१॥",
+      "transliteration": "tām mahā ulkām iva ākāśe dīpyamānām sva tejasā ।jahāra ākāśam āviśya sītām vaiśravaṇa anujaḥ ॥3-52-31॥",
+      "translations": {
+        "english": "The younger brother of Vaisravana (Ravana), like a massive comet, carried Sita, who was glowing in the radiance of her own beauty, and entered the sky.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 52,
+      "verse": 32,
+      "sloka": "तस्याः तानि अग्नि वर्णानि भूषणानि मही तले ।स घोषाणि अवकीर्यन्त क्षीणाः तारा इव अंबरात् ॥३-५२-३२॥",
+      "transliteration": "tasyāḥ tāni agni varṇāni bhūṣaṇāni mahī tale ।sa ghoṣāṇi avakīryanta kṣīṇāḥ tārā iva aṁbarāt ॥3-52-32॥",
+      "translations": {
+        "english": "Like the dim stars falling from the sky, her ornaments, bright as flame, scattered on the groundtinkling.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 52,
+      "verse": 33,
+      "sloka": "तस्याः स्तन अन्तरात् भ्रष्टो हारः तारा अधिप द्युतिः ।वैदेह्या निपतन् भाति गंगा इव गगनात् च्युता ॥३-५२-३३॥",
+      "transliteration": "tasyāḥ stana antarāt bhraṣṭo hāraḥ tārā adhipa dyutiḥ ।vaidehyā nipatan bhāti gaṁgā iva gaganāt cyutā ॥3-52-33॥",
+      "translations": {
+        "english": "Sita's necklace shining like the bright Moon slipped from between her breasts like the river Ganga falling down from the sky.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 52,
+      "verse": 34,
+      "sloka": "उत्पात वात अभिहता नाना द्विज गण आयुताः ।मा भैः इति विधूत अग्रा व्याजह्रुः इव पादपाः ॥३-५२-३४॥",
+      "transliteration": "utpāta vāta abhihatā nānā dvija gaṇa āyutāḥ ।mā bhaiḥ iti vidhūta agrā vyājahruḥ iva pādapāḥ ॥3-52-34॥",
+      "translations": {
+        "english": "The trees filled with birds of all kinds, shaken at the top by stormy winds seemed to be saying to Sita, 'Be not afraid'.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 52,
+      "verse": 35,
+      "sloka": "नलिन्यो ध्वस्त कमलाः त्रस्त मीन जले चराः ।सखीम् इव गत उत्साहाम् शोचन्ति इव स्म मैथिलीम् ॥३-५२-३५॥",
+      "transliteration": "nalinyo dhvasta kamalāḥ trasta mīna jale carāḥ ।sakhīm iva gata utsāhām śocanti iva sma maithilīm ॥3-52-35॥",
+      "translations": {
+        "english": "Lotusponds with withering lotuses and with disturbed aquatic life like fishes in fright were as if grieving for Sita as one would grieve for a companion who is unable to breathe.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 52,
+      "verse": 36,
+      "sloka": "समंतात् अभिसंपत्य सिंह व्याघ्र मृग द्विजाः ।अन्वधावन् तदा रोषात् सीताम् छाया अनुगामिनः ॥३-५२-३६॥",
+      "transliteration": "samaṁtāt abhisaṁpatya siṁha vyāghra mṛga dvijāḥ ।anvadhāvan tadā roṣāt sītām chāyā anugāminaḥ ॥3-52-36॥",
+      "translations": {
+        "english": "Then the lions, tigers, deer and birds gathered together in anger (also anguish) and ran after Sita's shadow.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 52,
+      "verse": 37,
+      "sloka": "जल प्रपात अस्र मुखाः शृन्गैः उच्छ्रित बाहवः ।सीतायाम् ह्रियमाणायाम् विक्रोशन्ति इव पर्वताः ॥३-५२-३७॥",
+      "transliteration": "jala prapāta asra mukhāḥ śṛngaiḥ ucchrita bāhavaḥ ।sītāyām hriyamāṇāyām vikrośanti iva parvatāḥ ॥3-52-37॥",
+      "translations": {
+        "english": "The mountains were shedding tears in the form of waterfalls, and crying with hands lifted up in the form of peaks, while Sita was being carried away.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 52,
+      "verse": 38,
+      "sloka": "ह्रियमाणाम् तु वैदेहीम् दृष्ट्वा दीनो दिवाकरः ।प्रविध्वस्त प्रभः श्रीमान् आसीत् पाण्डुर मण्डलः ॥३-५२-३८॥",
+      "transliteration": "hriyamāṇām tu vaidehīm dṛṣṭvā dīno divākaraḥ ।pravidhvasta prabhaḥ śrīmān āsīt pāṇḍura maṇḍalaḥ ॥3-52-38॥",
+      "translations": {
+        "english": "Seeing Sita abducted, the glorious Sun looked lustreless and distraught. He developed a pale white disk around him.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 52,
+      "verse": 39,
+      "sloka": "न अस्ति धर्मः कुतः सत्यम् न आर्जवम् न अनृशम्सता ।यत्र रामस्य वैदेहीम् भार्याम् हरति रावणः ॥३-५२-३९॥",
+      "transliteration": "na asti dharmaḥ kutaḥ satyam na ārjavam na anṛśamsatā ।yatra rāmasya vaidehīm bhāryām harati rāvaṇaḥ ॥3-52-39॥",
+      "translations": {
+        "english": "When Rama's consort, the princess of Videha, is being carried away by Ravana, how can there be rightousness or truth or uprightness or compassion for men? Thus bewailed all beings in groups.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 52,
+      "verse": 40,
+      "sloka": "इति भूतानि सर्वाणि गणशः पर्यदेवयन् ।वित्रस्तका दीन मुखा रुरुदुः मृग पोतकाः ॥३-५२-४०॥",
+      "transliteration": "iti bhūtāni sarvāṇi gaṇaśaḥ paryadevayan ।vitrastakā dīna mukhā ruruduḥ mṛga potakāḥ ॥3-52-40॥",
+      "translations": {
+        "english": "The young deer full of fear and distress looked again and again with eyes blurred with tears at the direction in which Sita went. And wept.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 52,
+      "verse": 41,
+      "sloka": "उद्वीक्ष्य उद्वीक्ष्य नयनैः अस्र पात आविल ईक्षणाः ।सुप्रवेपित गात्राः च बभूवुः वन देवताः ॥३-५२-४१॥",
+      "transliteration": "udvīkṣya udvīkṣya nayanaiḥ asra pāta āvila īkṣaṇāḥ ।supravepita gātrāḥ ca babhūvuḥ vana devatāḥ ॥3-52-41॥",
+      "translations": {
+        "english": "The sylvan deities shivered, seeing Sita's grief and cried aloud.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 52,
+      "verse": 42,
+      "sloka": "विक्रोशन्तीम् दृढम् सीताम् दृष्ट्वा दुःखम् तथा गताम् ।ताम् तु लक्ष्मण राम इति क्रोशन्तीम् मधुर स्वराम् ॥३-५२-४२॥",
+      "transliteration": "vikrośantīm dṛḍham sītām dṛṣṭvā duḥkham tathā gatām ।tām tu lakṣmaṇa rāma iti krośantīm madhura svarām ॥3-52-42॥",
+      "translations": {
+        "english": "The ten headed Ravana abducted Sita who was calling out, O Rama, O Lakshmana with her sweet voice, weeping , looking down on the earth her hair dishevelled and auspicious, (vermilion) mark on the forehead erased. Ravana abducted this highminded Sita for his own destruction.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 52,
+      "verse": 43,
+      "sloka": "अवेक्षमाणाम् बहुशो वैदेहीम् धरणी तलम् ।स ताम् आकुल केशान्ताम् विप्रमृष्ट विशेषकाम् ।जहार आत्म विनाशाय दशग्रीवो मनस्विनाम् ॥३-५२-४३॥",
+      "transliteration": "avekṣamāṇām bahuśo vaidehīm dharaṇī talam ।sa tām ākula keśāntām vipramṛṣṭa viśeṣakām ।jahāra ātma vināśāya daśagrīvo manasvinām ॥3-52-43॥",
+      "translations": {
+        "english": "The ten headed Ravana abducted Sita who was calling out, O Rama, O Lakshmana with her sweet voice, weeping , looking down on the earth her hair dishevelled and auspicious, (vermilion) mark on the forehead erased. Ravana abducted this highminded Sita for his own destruction.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 52,
+      "verse": 44,
+      "sloka": "ततः तु सा चारु दती शुचि स्मिताविना कृता बन्धु जनेन मैथिली ।अपश्यती राघव लक्ष्मणाउ उभौविवर्ण वक्त्रा भय भार पीडिता ॥३-५२-४४॥",
+      "transliteration": "tataḥ tu sā cāru datī śuci smitāvinā kṛtā bandhu janena maithilī ।apaśyatī rāghava lakṣmaṇāu ubhauvivarṇa vaktrā bhaya bhāra pīḍitā ॥3-52-44॥",
+      "translations": {
+        "english": "Then Sita whose teeth were beautiful and smile, sweet was distanced from her kins, and, unable to see both Rama and Lakshmana, grew pale in intense fear. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अरण्यकाण्डे द्विपञ्चाशस्सर्गः।। Thus ends the fiftysecond sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

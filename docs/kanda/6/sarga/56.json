@@ -1,0 +1,555 @@
+{
+  "kanda": 6,
+  "kanda_name": "Yuddha Kanda",
+  "kanda_name_sanskrit": "युद्धकाण्डम्",
+  "sarga": 56,
+  "verses_count": 39,
+  "verses": [
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 56,
+      "verse": 1,
+      "sloka": "तद्दृष्ट्वा सुमहत् कर्म कृतं वानरसत्तमैः ।क्रोधमाहारयामास युधि तीव्रमकम्पनः ।। ६.५६.१ ।।।।",
+      "transliteration": "taddṛṣṭvā sumahat karma kṛtaṁ vānarasattamaiḥ ।krodhamāhārayāmāsa yudhi tīvramakampanaḥ ।। 6.56.1 ।।।।",
+      "translations": {
+        "english": "Observing the great action and accomplishment of the foremost Vanaras in the battle, Akampana exhibited violent anger.",
+        "hindi": "युद्धकाण्ड का चौवनवाँ सगे पूरा हुआ । -“-+र | (0 पञ्चपञ्चाश; संगः वजदं्र' हतं शरुत्वा वालिपुत्रेण रावणः । बलाध्यच्षामुवाचेदं कताञ्जलिमबस्थितम्‌",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 56,
+      "verse": 2,
+      "sloka": "क्रोधमूर्च्छितरूपस्तु धून्वन् परमकार्मुकम् ।दृष्ट्वा तु कर्म शत्रूणां सारथिं वाक्यमब्रवीत् ।। ६.५६.२ ।।।।",
+      "transliteration": "krodhamūrcchitarūpastu dhūnvan paramakārmukam ।dṛṣṭvā tu karma śatrūṇāṁ sārathiṁ vākyamabravīt ।। 6.56.2 ।।।।",
+      "translations": {
+        "english": "Looking at the deeds of enemies, deluded with violent anger, Akampana spoke these words holding the bow and looking at the charioteer.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 56,
+      "verse": 3,
+      "sloka": "तत्रैव तावत्त्वरितं रथं प्रापय सारथे ।यत्रैते बहवो घ्नन्ति सुबहून् राक्षसान् रणे ।। ६.५६.३ ।।।।",
+      "transliteration": "tatraiva tāvattvaritaṁ rathaṁ prāpaya sārathe ।yatraite bahavo ghnanti subahūn rākṣasān raṇe ।। 6.56.3 ।।।।",
+      "translations": {
+        "english": "\"O Charioteer, quickly drive the chariot to that place where many Rakshasas are destroyed in the battle.\"",
+        "hindi": "क्योंकि अकम्पन शत्र सेन्य को मारने वाला, अपनी सेना को बचाने वाला और प्रसिद्ध योद्धा सेनापति हे । यह मेरा सदा हितकारी बन्धु है और युद्धकाय में इसकी बड़ी रुचि है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 56,
+      "verse": 4,
+      "sloka": "एते ऽत्र बलवन्तो हि भीमकायाश्च वानराः ।द्रुमशैलप्रहरणास्तिष्ठन्ति प्रमुखे मम ।। ६.५६.४ ।।।।",
+      "transliteration": "ete 'tra balavanto hi bhīmakāyāśca vānarāḥ ।drumaśailapraharaṇāstiṣṭhanti pramukhe mama ।। 6.56.4 ।।।।",
+      "translations": {
+        "english": "\"Those Vanaras are mighty and terribly angry. They are using trees and hillocks as weapons. Take me where chiefs are standing.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 56,
+      "verse": 5,
+      "sloka": "एतान्निहन्तुमिच्छामि समरश्लाघिनो ह्यहम् ।एतैः प्रमथितं सर्वं दृश्यते राक्षसं बलम् ।। ६.५६.५ ।।।।",
+      "transliteration": "etānnihantumicchāmi samaraślāghino hyaham ।etaiḥ pramathitaṁ sarvaṁ dṛśyate rākṣasaṁ balam ।। 6.56.5 ।।।।",
+      "translations": {
+        "english": "\"I wish to see the end of Vanaras who boast of their warfare. The entire Rakshasa army is destroyed by them.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 56,
+      "verse": 6,
+      "sloka": "ततः प्रजवनाश्वेन रथेन रथिनां वरः ।हरीनभ्यहनत् क्रोधाच्छरजालैरकम्पनः ।। ६.५६.६ ।।।।",
+      "transliteration": "tataḥ prajavanāśvena rathena rathināṁ varaḥ ।harīnabhyahanat krodhāccharajālairakampanaḥ ।। 6.56.6 ।।।।",
+      "translations": {
+        "english": "Then Akampana seated in the chariot drawn by fast moving horses, assailed the Vanaras with a network of arrows.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 56,
+      "verse": 7,
+      "sloka": "न स्थातुं वानराः शेकुः किं पुनर्योद्धुमाहवे ।अकम्पनशरैर्भग्नाः सर्व एव विदुद्रुवुः ।। ६.५६.७ ।।।।",
+      "transliteration": "na sthātuṁ vānarāḥ śekuḥ kiṁ punaryoddhumāhave ।akampanaśarairbhagnāḥ sarva eva vidudruvuḥ ।। 6.56.7 ।।।।",
+      "translations": {
+        "english": "The Vanaras could not counter or stand nor fight in battle. What to say more? Shattered by Akampana's arrows, they all took to their heels.",
+        "hindi": "मेघ के समान बड़े डीलडौल का और मेघ ही की तरह काले टं का तथा मेघ ही की तरह गर्जने वाला ओर कानों में सोने कुण्डल पहिने हर अकम्पन, एक बड़े रथ में बैठ तथा भयङ्कर रात्तसों को साथ ले, बाहिर निकला । बड़े बड़े यद्धो में देवता भी इसको युद्ध में नहीं डिगा सके थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 56,
+      "verse": 8,
+      "sloka": "तान् मृत्युवशमापन्नानकम्पनवशं गतान् ।समीक्ष्य हनुमान् ज्ञातीनुपतस्थे महाबलः ।। ६.५६.८ ।।।।",
+      "transliteration": "tān mṛtyuvaśamāpannānakampanavaśaṁ gatān ।samīkṣya hanumān jñātīnupatasthe mahābalaḥ ।। 6.56.8 ।।।।",
+      "translations": {
+        "english": "Having observed that Vanaras are fallen under the sway of Akampana and under the sway of death, mighty Hanuman approached Akampana.",
+        "hindi": "राक्षसः संघतो भीमेस्तदा निर्यात्यक्षम्पन; | न है कथयित्‌, शक्यः सुरैरपि महामृधे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 56,
+      "verse": 9,
+      "sloka": "तं महाप्लवगं दृष्ट्वा सर्वे प्लवगयूथपाः ।समेत्य समरे वीराः संहृष्टाः पर्यवारयन् ।। ६.५६.९ ।।।।",
+      "transliteration": "taṁ mahāplavagaṁ dṛṣṭvā sarve plavagayūthapāḥ ।sametya samare vīrāḥ saṁhṛṣṭāḥ paryavārayan ।। 6.56.9 ।।।।",
+      "translations": {
+        "english": "Seeing the great monkey, the Vanara troops got together and surrounded him.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 56,
+      "verse": 10,
+      "sloka": "अवस्थितं हनूमन्तं ते दृष्ट्वा हरियूथपाः ।बभूवुर्बलवन्तो हि बलवन्तं समाश्रिताः ।। ६.५६.१० ।।।।",
+      "transliteration": "avasthitaṁ hanūmantaṁ te dṛṣṭvā hariyūthapāḥ ।babhūvurbalavanto hi balavantaṁ samāśritāḥ ।। 6.56.10 ।।।।",
+      "translations": {
+        "english": "Seeing Hanuman, the monkey leaders took their shelter under him, got established firmly and became strong.",
+        "hindi": "॥ अकम्पनस्ततस्तेषामादित्य इव तेजसा । तस्य निधावमानस्य संरब्धस्य युयुत्सया ॥ & ॥ इसीसे इसका अक्रम्पन नाम पड़ है स्‌ | [था । यह तेजस्वी अकम्पन ली न के बीच सूर्य की तरह चमचमा रहा था।यद्ध करने इच्छा कुद हो, दौड़ते हुए अकम्पन के ॥ हु जि न्यमागच्छद्धयानां रथवाहिनाम्‌ | यस्फुरन्नयनं चास्य सब्य युद्धाभिनान्द्नः",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 56,
+      "verse": 11,
+      "sloka": "अकम्पनस्तु शैलाभं हनूमन्तमवस्थितम् ।महेन्द्र इव धाराभिः शरैरभिववर्ष ह ।। ६.५६.११ ।।।।",
+      "transliteration": "akampanastu śailābhaṁ hanūmantamavasthitam ।mahendra iva dhārābhiḥ śarairabhivavarṣa ha ।। 6.56.11 ।।।।",
+      "translations": {
+        "english": "On Akampana, who was well established like a mountain, mighty Hanuman showered torrents of arrows like Indra showered rain.",
+        "hindi": "उसका चेहरा फोका पड़ गया और कण्ठस्वर घरघराने लगा सुदिन होने पर भी उसके लिये वह दुर्दिन हो गया अर्थात्‌ सूर्य बादल में छिप गये ओर रूखी हवा चलने लगी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 56,
+      "verse": 12,
+      "sloka": "अचिन्तयित्वा बाणौघान् शरीरे पतितान् शितान् ।अकम्पनवधार्थाय मनो दध्रे महाबलः ।। ६.५६.१२ ।।।।",
+      "transliteration": "acintayitvā bāṇaughān śarīre patitān śitān ।akampanavadhārthāya mano dadhre mahābalaḥ ।। 6.56.12 ।।।।",
+      "translations": {
+        "english": "Mighty Hanuman unmindful of the volley of arrows pierced in his body thought in his mind only about the destruction of Akampana.",
+        "hindi": "समस्त पशुपक्षी कूर और भयावनी बोलियाँ बोलने लगे । सिंह समान ऊचे कन्धो वाला और शादूल के समान विक्रमी अकम्पन,",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 56,
+      "verse": 13,
+      "sloka": "स प्रसह्य महातेजा हनूमान् मारुतात्मजः ।अभिदुद्राव तद्रक्षः कम्पयन्निव मेदिनीम् ।। ६.५६.१३ ।।।।",
+      "transliteration": "sa prasahya mahātejā hanūmān mārutātmajaḥ ।abhidudrāva tadrakṣaḥ kampayanniva medinīm ।। 6.56.13 ।।।।",
+      "translations": {
+        "english": "Hanuman, the highly energetic son of Maruthi laughing, sprung up causing the earth to shake and rushed to that Rakshasa.",
+        "hindi": "इन उत्पार्तो की कुछ भी परवाह न कर, संग्रामभूमि में गया । सेना सहित उसके जाते ही",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 56,
+      "verse": 14,
+      "sloka": "तस्याभिनर्दमानस्य दीप्यमानस्य तेजसा ।बभूव रूपं दुर्धर्षं दीप्तस्येव विभावसोः ।। ६.५६.१४ ।।।।",
+      "transliteration": "tasyābhinardamānasya dīpyamānasya tejasā ।babhūva rūpaṁ durdharṣaṁ dīptasyeva vibhāvasoḥ ।। 6.56.14 ।।।।",
+      "translations": {
+        "english": "As he roared, his brilliance was blazing, his form was burning and became formidable for others to be at him.",
+        "hindi": "बड़ा भारी शब्द हुआ, जिसने मानों समुद्र को भी खलबला दिआ। उस शब्द से वह वानरों की बड़ी सेना भी डर गई",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 56,
+      "verse": 15,
+      "sloka": "आत्मानमप्रहरणं ज्ञात्वा क्रोधसमन्वितः ।शैलमुत्पाटयामास वेगेन हरिपुङ्गवः ।। ६.५६.१५ ।।।।",
+      "transliteration": "ātmānamapraharaṇaṁ jñātvā krodhasamanvitaḥ ।śailamutpāṭayāmāsa vegena haripuṅgavaḥ ।। 6.56.15 ।।।।",
+      "translations": {
+        "english": "Vanara leader himself knowing that he is without any weapon, full of anger took up a mountain quickly.",
+        "hindi": "दुर्दिनं--मेघच्छुन्नदिनं । ( गो० ) वा० रा० यु०--३३ डने के लिए पेड़ों और शिल्लाओं को लिए हुए खडे बानरों र में महामयङ्कर युद्ध हुआ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 56,
+      "verse": 16,
+      "sloka": "तं गृहीत्वा महाशैलं पाणिनैकेन मारुतिः ।स विनद्य महानादं भ्रामयामास वीर्यवान् ।। ६.५६.१६ ।।।।",
+      "transliteration": "taṁ gṛhītvā mahāśailaṁ pāṇinaikena mārutiḥ ।sa vinadya mahānādaṁ bhrāmayāmāsa vīryavān ।। 6.56.16 ।।।।",
+      "translations": {
+        "english": "He, the heroic Maruthi, with one hand alone taking a huge mountain whirled round making loud noises.",
+        "hindi": "थे वानर और राक्षस यथाकम श्रीरामचन्द्र और रावण च लिए अपनी अपनी जाने हथेली पर रख हुए थे ग ये सब ही बडे बी ओर बहादुर थे ओर सब के शरीर पर्वतां की तरह विशाल ञ्चे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 56,
+      "verse": 17,
+      "sloka": "ततस्तमभिदुद्राव राक्षसेन्द्रमकम्पनम् ।पुरा हि नमुचिं सङ्ख्ये वज्रेणेव पुरन्दरः ।। ६.५६.१७ ।।।।",
+      "transliteration": "tatastamabhidudrāva rākṣasendramakampanam ।purā hi namuciṁ saṅkhye vajreṇeva purandaraḥ ।। 6.56.17 ।।।।",
+      "translations": {
+        "english": "Then he went to Akampana and tormented him just as Indra did with his thunderbolt to Namuchi.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 56,
+      "verse": 18,
+      "sloka": "अकम्पनस्तु तद्दृष्ट्वा गिरिशृङ्गं समुद्यतम् ।दूरादेव महाबाणैरर्धचन्द्रैर्व्यदारयत् ।। ६.५६.१८ ।।।।",
+      "transliteration": "akampanastu taddṛṣṭvā giriśṛṅgaṁ samudyatam ।dūrādeva mahābāṇairardhacandrairvyadārayat ।। 6.56.18 ।।।।",
+      "translations": {
+        "english": "Seeing the peak of the mountain uplifted, Akampana also discharged halfmoon shaped great arrows from a distance.",
+        "hindi": "बानर और राक्ष एक दूसरे को जान ल नेको तुले ड झै । इस युद्ध में अति वेग वाले योडाओ के गजल का शब्द ॥ १ - शुश्रवे सुमहान्‌ क्रोधादन्योन्यमभिगज तास्‌ । रजश्रारुणवर्णाम' सुभीममभवद्भृशस्‌",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 56,
+      "verse": 19,
+      "sloka": "तत्पर्वताग्रमाकाशे रक्षोबाणविदारितम् ।विशीर्णं पतितं दृष्ट्वा हनुमान् क्रोधमूर्च्छितः ।। ६.५६.१९ ।।।।",
+      "transliteration": "tatparvatāgramākāśe rakṣobāṇavidāritam ।viśīrṇaṁ patitaṁ dṛṣṭvā hanumān krodhamūrcchitaḥ ।। 6.56.19 ।।।।",
+      "translations": {
+        "english": "Hanuman seeing the peak of the mountain broken into pieces by Rakshasa's arrows and fallen was deluded with anger.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 56,
+      "verse": 20,
+      "sloka": "सो ऽश्वकर्णं समासाद्य रोषदर्पान्वितो हरिः ।तूर्णमुत्पाटयामास महागिरिमिवोच्छ्रितम् ।। ६.५६.२० ।।।।",
+      "transliteration": "so 'śvakarṇaṁ samāsādya roṣadarpānvito hariḥ ।tūrṇamutpāṭayāmāsa mahāgirimivocchritam ।। 6.56.20 ।।।।",
+      "translations": {
+        "english": "He (Hanuman) filled with pride and anger quickly uprooted an Aswakarana tree as huge as a mountain and held it.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 56,
+      "verse": 21,
+      "sloka": "तं गृहीत्वा महास्कन्धं सो ऽश्वकर्णं महाद्युतिः ।प्रहस्य परया प्रीत्या भ्रामयामास संयुगे ।। ६.५६.२१ ।।।।",
+      "transliteration": "taṁ gṛhītvā mahāskandhaṁ so 'śvakarṇaṁ mahādyutiḥ ।prahasya parayā prītyā bhrāmayāmāsa saṁyuge ।। 6.56.21 ।।।।",
+      "translations": {
+        "english": "He (Hanuman) endowed with great splendour, seizing a huge trunk of Aswakarana tree with great delight, whirled it round on the ground laughing.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 56,
+      "verse": 22,
+      "sloka": "प्रधावन्नूरुवेगेन प्रभञ्जंस्तरसा द्रुमान् ।हनुमान् परमक्रुद्धश्चरणैर्दारयत् क्षितिम् ।। ६.५६.२२ ।।।।",
+      "transliteration": "pradhāvannūruvegena prabhañjaṁstarasā drumān ।hanumān paramakruddhaścaraṇairdārayat kṣitim ।। 6.56.22 ।।।।",
+      "translations": {
+        "english": "Highly enraged Hanuman was running at high speed that his feet were seen breaking the trees and cleaving the earth.",
+        "hindi": "उस तुमुल युद्ध में अवश्य सुनाई पड़ता था, किन्तु उनका रूप नहीं देख पड़ता था । उस भयङ्कर अन्कार में अत्यन्त क्रुद्ध हो वानरों के साथ वानर ही युद्ध करते हुए एक दूसरे को मार रहे थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 56,
+      "verse": 23,
+      "sloka": "गजांश्च सगजारोहान् सरथान् रथिनस्तथा ।जघान हनुमान् धीमान् राक्षसांश्च पदातिगान् ।। ६.५६.२३ ।।।।",
+      "transliteration": "gajāṁśca sagajārohān sarathān rathinastathā ।jaghāna hanumān dhīmān rākṣasāṁśca padātigān ।। 6.56.23 ।।।।",
+      "translations": {
+        "english": "Hanuman struck the mahouts, elephants, similarly the chariots and riders of chariots as well as the terrific Rakshasas who fought standing on feet.",
+        "hindi": "इसी प्रकार उस अन्धकार में राक्षस भी राक्षर्सा को मार रहे थे। अर्थात्‌ उस अन्धकार में अपने पराए की पहिचान नहीं हो सकती थी | वानर और राक्षस, दोनों अपने अपने शत्रो के साथ ही साथ अपने पक्ष बालों को भी मार रहे थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 56,
+      "verse": 24,
+      "sloka": "तमन्तकमिव क्रुद्धं समरे प्राणहारिणम् ।हनुमन्तमभिप्रेक्ष्य राक्षसा विप्रदुद्रुवुः ।। ६.५६.२४ ।।।।",
+      "transliteration": "tamantakamiva kruddhaṁ samare prāṇahāriṇam ।hanumantamabhiprekṣya rākṣasā vipradudruvuḥ ।। 6.56.24 ।।।।",
+      "translations": {
+        "english": "Hanuman, enraged like the spirit of death, took their life (Rakshasas) armed with trees and on seeing him the Rakshasas took to their heels.",
+        "hindi": "यह युद्ध ऐसा भयङ्कर हुआ कि, युद्धभूमि में रक्त की कींच हो गई । रुधिर की धार बढ्ने से वहाँ की धूल दब गई",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 56,
+      "verse": 25,
+      "sloka": "तमापतन्तं सङ्क्रुद्धं राक्षसानां भयावहम् ।ददर्शाकम्पनो वीरश्चुक्रोध च ननाद च ।। ६.५६.२५ ।।।।",
+      "transliteration": "tamāpatantaṁ saṅkruddhaṁ rākṣasānāṁ bhayāvaham ।dadarśākampano vīraścukrodha ca nanāda ca ।। 6.56.25 ।।।।",
+      "translations": {
+        "english": "The heroic Akampana saw Hanuman coming towards him very angry. Fearing Hanuman, the Rakshasas ran roaring in fear.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 56,
+      "verse": 26,
+      "sloka": "स चतुर्दशभिर्बाणैः शितैर्देहविदारणैः ।निर्बिभेद हनूमन्तं महावीर्यमकम्पनः ।। ६.५६.२६ ।।।।",
+      "transliteration": "sa caturdaśabhirbāṇaiḥ śitairdehavidāraṇaiḥ ।nirbibheda hanūmantaṁ mahāvīryamakampanaḥ ।। 6.56.26 ।।।।",
+      "translations": {
+        "english": "With fourteen pointed powerful arrows, Akampana tormented and split the body of Hanuman.",
+        "hindi": "वानर और राक्षस एक दूसरे पर बलपूर्वक प्रहार कर रहे थे । परिघाकार भुजाओं से युद्ध करते हुए पर्वत के समान",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 56,
+      "verse": 27,
+      "sloka": "स तदा प्रतिविद्धस्तु बह्वीभिः शरवृष्टिभिः ।हनुमान् ददृशे वीरः प्ररूढ इव सानुमान् ।। ६.५६.२७ ।।।।",
+      "transliteration": "sa tadā pratividdhastu bahvībhiḥ śaravṛṣṭibhiḥ ।hanumān dadṛśe vīraḥ prarūḍha iva sānumān ।। 6.56.27 ।।।।",
+      "translations": {
+        "english": "Valiant Hanuman, even though interrupted several times with rain of arrows, stood still like a mountain full of trees.",
+        "hindi": "इधर से तो भयङ्कर कमचारी वानर राक्षर्सा को मार रहे र और उधर से राक्षस भी कुद्ध हो, हाथ में प्रास आर तोमर आदि अत्यन्त दारुण शस्त्र ले, उनसे वानरों को मार रहे थे। साथ ही रादासी सेना का सेनापति अकम्पन अत्यन्त क्रुद्ध हो,",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 56,
+      "verse": 28,
+      "sloka": "विरराज महाकायो महावीर्यो महामनाः ।पुष्पिताशोकसङ्काशो विधूम इव पावकः ।। ६.५६.२८ ।।।।",
+      "transliteration": "virarāja mahākāyo mahāvīryo mahāmanāḥ ।puṣpitāśokasaṅkāśo vidhūma iva pāvakaḥ ।। 6.56.28 ।।।।",
+      "translations": {
+        "english": "The gigantic Hanuman, exceedingly valiant and courageous one shone like a fully blossomed Ashoka tree, resembled smokeless fire.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 56,
+      "verse": 29,
+      "sloka": "ततो ऽन्यं वृक्षमुत्पाट्य कत्वा वेगमनुत्तमम् ।शिरस्यभिजघानाशु राक्षसेन्द्रमकम्पनम् ।। ६.५६.२९ ।।।।",
+      "transliteration": "tato 'nyaṁ vṛkṣamutpāṭya katvā vegamanuttamam ।śirasyabhijaghānāśu rākṣasendramakampanam ।। 6.56.29 ।।।।",
+      "translations": {
+        "english": "Then Hanuman performed another supreme deed by uprooting a tree and striking on the head of Akampana, the chief of Rakshasas.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 56,
+      "verse": 30,
+      "sloka": "स वृक्षेण हतस्तेन सक्रोधेन महात्मना ।राक्षशो वानरेन्द्रेण पपात च ममार च ।। ६.५६.३० ।।।।",
+      "transliteration": "sa vṛkṣeṇa hatastena sakrodhena mahātmanā ।rākṣaśo vānarendreṇa papāta ca mamāra ca ।। 6.56.30 ।।।।",
+      "translations": {
+        "english": "Reacting in anger the great Vanara chief struck the Rakshasa with a tree, by which the Rakshasa fell down dead.",
+        "hindi": "उन भीम विक्रमी समस्त राक्षर्सा को उत्थाहित कर रहा था | वानर भी बढ़े बढ़े पेड़ों और बड़ी बड़ी शिलाओं रास) ERB) lees को गनछ rind Ib ws १ संहर्घयति--उत्साइयति । (गो) .. ` त ee »>ऋयजी भा ।े षट्पश्चाराः सग; ४८७१ विदाश्यन्त्यभिक्रम्य? शस्त्राणयाब्िद्यर वीयतः एतिस्मिन्नन्तरे बीरा हरयः कुग्रदो नसः",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 56,
+      "verse": 31,
+      "sloka": "तं दृष्ट्वा निहतं भूमौ राक्षसेन्द्रमकम्पनम् ।व्यथिता राक्षसाः सर्वे क्षितिकम्प इव द्रुमाः ।। ६.५६.३१ ।।।।",
+      "transliteration": "taṁ dṛṣṭvā nihataṁ bhūmau rākṣasendramakampanam ।vyathitā rākṣasāḥ sarve kṣitikampa iva drumāḥ ।। 6.56.31 ।।।।",
+      "translations": {
+        "english": "Seeing Akampana lying dead on the ground, the Rakshasas were shaken like the trees in the earthquake and were distressed.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 56,
+      "verse": 32,
+      "sloka": "त्यक्तप्रहरणाः सर्वे राक्षसास्ते पराजिताः ।लङ्कामभिययुस्त्रस्ता वानरैस्तैरभिद्रुताः ।। ६.५६.३२ ।।।।",
+      "transliteration": "tyaktapraharaṇāḥ sarve rākṣasāste parājitāḥ ।laṅkāmabhiyayustrastā vānaraistairabhidrutāḥ ।। 6.56.32 ।।।।",
+      "translations": {
+        "english": "Abandoning weapons, all Rakshasas having been defeated, chased by the Vanaras, frightened, ran away into Lanka.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 56,
+      "verse": 33,
+      "sloka": "ते मुक्तकेशाः सम्भ्रान्ता भग्नमानाः पराजिताः ।स्रवच्छ्रमजलैरङ्गैः श्वसन्तो विप्रदुद्रुवुः ।। ६.५६.३३ ।।।।",
+      "transliteration": "te muktakeśāḥ sambhrāntā bhagnamānāḥ parājitāḥ ।sravacchramajalairaṅgaiḥ śvasanto vipradudruvuḥ ।। 6.56.33 ।।।।",
+      "translations": {
+        "english": "Perplexed, broken hearted, defeated, hair loosened the Rakshasas sweating all over their limbs, sighing heavily ran away very fast.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 56,
+      "verse": 34,
+      "sloka": "अन्योन्यं प्रममन्थुस्ते विविशुर्नगरं भयात् ।पृष्ठतस्ते सुसम्मूढाः प्रेक्षमाणा मुहुर्मुहुः ।। ६.५६.३४ ।।।।",
+      "transliteration": "anyonyaṁ pramamanthuste viviśurnagaraṁ bhayāt ।pṛṣṭhataste susammūḍhāḥ prekṣamāṇā muhurmuhuḥ ।। 6.56.34 ।।।।",
+      "translations": {
+        "english": "Again, and again looking back in fear, covertly, bewildered, crushing one another, they went into the Lanka city.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 56,
+      "verse": 35,
+      "sloka": "तेषु लङ्कां प्रविष्टेषु राक्षसेषु महाबलाः ।समेत्य हरयः सर्वे हनुमन्तमपूजयन् ।। ६.५६.३५ ।।।।",
+      "transliteration": "teṣu laṅkāṁ praviṣṭeṣu rākṣaseṣu mahābalāḥ ।sametya harayaḥ sarve hanumantamapūjayan ।। 6.56.35 ।।।।",
+      "translations": {
+        "english": "Those Rakshasas, endowed with prowess, on entering Lanka got together and paid respects to Hanuman.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 56,
+      "verse": 36,
+      "sloka": "सो ऽपि प्रहृष्टस्तान् सर्वान् हरीन् प्रत्यभ्यपूजयत् ।हनुमान् सत्त्वसम्पन्नो यथार्हमनुकूलतः ।। ६.५६.३६ ।।।।",
+      "transliteration": "so 'pi prahṛṣṭastān sarvān harīn pratyabhyapūjayat ।hanumān sattvasampanno yathārhamanukūlataḥ ।। 6.56.36 ।।।।",
+      "translations": {
+        "english": "Hanuman also who was richly endowed with goodness greatly honoured all the Vanaras accordingly.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 56,
+      "verse": 37,
+      "sloka": "विनेदुश्च यथाप्राणं हरयो जितकाशिनः ।चकर्षुश्च पुनस्तत्र सप्राणानपि राक्षसान् ।। ६.५६.३७ ।।।।",
+      "transliteration": "vineduśca yathāprāṇaṁ harayo jitakāśinaḥ ।cakarṣuśca punastatra saprāṇānapi rākṣasān ।। 6.56.37 ।।।।",
+      "translations": {
+        "english": "In an atmosphere of triumph, the monkeys sportively shouted again saying that they are willing to give up their life also.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 56,
+      "verse": 38,
+      "sloka": "स वीरशोभामभजन्महाकपिः समेत्य रक्षांसि निहत्य मारुतिः ।महासुरं भीमममित्रनाशनं यथैव विष्णुर्बलिनं चमूमुखे ।। ६.५६.३८ ।।।।",
+      "transliteration": "sa vīraśobhāmabhajanmahākapiḥ sametya rakṣāṁsi nihatya mārutiḥ ।mahāsuraṁ bhīmamamitranāśanaṁ yathaiva viṣṇurbalinaṁ camūmukhe ।। 6.56.38 ।।।।",
+      "translations": {
+        "english": "Great Vanara, Maruti shone like a triumphant hero and saviour in front of the army, just as Lord Vishnu, the Lord of Devatas shone after killing the foes (demons).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 56,
+      "verse": 39,
+      "sloka": "अपूजयन् देवगणास्तदा कपिं स्वयं च रामो ऽतिबलश्च लक्ष्मणः ।तथैव सुग्रीवमुखाः प्लवङ्गमा विभीषणश्चैव महाबलस्तथा ।। ६.५६.३९ ।।",
+      "transliteration": "apūjayan devagaṇāstadā kapiṁ svayaṁ ca rāmo 'tibalaśca lakṣmaṇaḥ ।tathaiva sugrīvamukhāḥ plavaṅgamā vibhīṣaṇaścaiva mahābalastathā ।। 6.56.39 ।।",
+      "translations": {
+        "english": "Thereafter Rama with the army of Devatas, Atibala and Lakshmana, in the same way Sugriva, the army chief, so also, Vibheeshana of exceeding might praised Hanuman. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेषटपञ्चाशस्सर्गः ।। This is the end of the fifty sixth sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

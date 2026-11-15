@@ -1,0 +1,457 @@
+{
+  "kanda": 2,
+  "kanda_name": "Ayodhya Kanda",
+  "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+  "sarga": 82,
+  "verses_count": 32,
+  "verses": [
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 82,
+      "verse": 1,
+      "sloka": "ताम् आर्य गण सम्पूर्णाम् भरतः प्रग्रहाम् सभाम् ।ददर्श बुद्धि सम्पन्नः पूर्ण चन्द्राम् निशाम् इव ॥२-८२-१॥",
+      "transliteration": "tām ārya gaṇa sampūrṇām bharataḥ pragrahām sabhām ।dadarśa buddhi sampannaḥ pūrṇa candrām niśām iva ॥2-82-1॥",
+      "translations": {
+        "english": "Sagacious Bharata beheld that assembly hall filled with honourable members, like the fullmoon beholds the night stretching forth (with stars).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 82,
+      "verse": 2,
+      "sloka": "आसनानि यथा न्यायम् आर्याणाम् विशताम् तदा ।अदृश्यत घन अपाये पूर्ण चन्द्रा इव शर्वरी ॥२-८२-२॥",
+      "transliteration": "āsanāni yathā nyāyam āryāṇām viśatām tadā ।adṛśyata ghana apāye pūrṇa candrā iva śarvarī ॥2-82-2॥",
+      "translations": {
+        "english": "When the seats were occupied by the honourable members according to their rank, that august assembly looked splendid with the brilliance of their apparels and fragrance of unguents.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 82,
+      "verse": 3,
+      "sloka": "सा विद्वज्जनसम्पूर्णा सभा सुरुचिरा तदा ।अदृश्यत घनापाये पूर्णचन्द्रेव शर्वरी ॥२-८२-३॥",
+      "transliteration": "sā vidvajjanasampūrṇā sabhā surucirā tadā ।adṛśyata ghanāpāye pūrṇacandreva śarvarī ॥2-82-3॥",
+      "translations": {
+        "english": "The most splendid assembly filled with learned people looked brilliant like the night with the autumnal fullmoon.",
+        "hindi": "अतएव हे महायशस्वी राजकुमार ! अब तुम हमारे राजा हो । क्योंकि यह राज्य बिना राजा का है और जव पिता तुमको यह्‌ राज दे गए हैं, तब इसे ग्रहण करना न तो तुम्हारे लिए असङ्गत है और न तुमको ऐसा करने से कोई दोष ही लग सकता है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 82,
+      "verse": 4,
+      "sloka": "राज्ञः तु प्रकृतीः सर्वाः समग्राः प्रेक्ष्य धर्मवित् ।इदम् पुरोहितः वाक्यम् भरतम् मृदु च अब्रवीत् ॥२-८२-४॥",
+      "transliteration": "rājñaḥ tu prakṛtīḥ sarvāḥ samagrāḥ prekṣya dharmavit ।idam purohitaḥ vākyam bharatam mṛdu ca abravīt ॥2-82-4॥",
+      "translations": {
+        "english": "The chief priest Vasistha, knower of righteousness, looked at all the ministers present and addressed Bharata in a gentle voice.",
+        "hindi": "हे रघुब शासम्भूत राजकुमार ! यह कथन केबल हम राज- कर्मचारियों ही का नहीं है--त्ल्कि हमारे मंत्रीगण और पुरबासी . लोग अभिषेक की सामग्री लिए तुम्हारी अनुमति कां प्रतीक्षा कर रहे हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 82,
+      "verse": 5,
+      "sloka": "तात राजा दशरथः स्वर् गतः धर्मम् आचरन् ।धन धान्यवतीम् स्फीताम् प्रदाय पृथिवीम् तव ॥२-८२-५॥",
+      "transliteration": "tāta rājā daśarathaḥ svar gataḥ dharmam ācaran ।dhana dhānyavatīm sphītām pradāya pṛthivīm tava ॥2-82-5॥",
+      "translations": {
+        "english": "O dear child following the righteous path king Dasaratha conferred on you this vast kingdom abounding in wealth and grains before attaining heaven.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 82,
+      "verse": 6,
+      "sloka": "रामः तथा सत्य धृतिः सताम् धर्मम् अनुस्मरन् ।न अजहात् पितुर् आदेशम् शशी ज्योत्स्नाम् इव उदितः ॥२-८२-६॥",
+      "transliteration": "rāmaḥ tathā satya dhṛtiḥ satām dharmam anusmaran ।na ajahāt pitur ādeśam śaśī jyotsnām iva uditaḥ ॥2-82-6॥",
+      "translations": {
+        "english": "Abiding in truth, remembering the righteous ways of virtuous men just as the rising Moon does not leave its beams, Rama too did not move away from his father's command.",
+        "hindi": "इस प्रकार उन सब का यह शुभ वचन, तेजस्वी, सत्यवादी एव पवित्र भरत ने अंमिषेक की सामग्री से भरे हुए सब पात्रों की प्रदक्षिणा की",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 82,
+      "verse": 7,
+      "sloka": "पित्रा भ्रात्रा च ते दत्तम् राज्यम् निहत कण्टकम् ।तत् भुन्क्ष्व मुदित अमात्यः क्षिप्रम् एव अभिषेचय ॥२-८२-७॥",
+      "transliteration": "pitrā bhrātrā ca te dattam rājyam nihata kaṇṭakam ।tat bhunkṣva mudita amātyaḥ kṣipram eva abhiṣecaya ॥2-82-7॥",
+      "translations": {
+        "english": "The kingdom free from obstacles has been passed on to you by your father and brother. Get yourself coronated quickly and enjoy it along with your cheerful ministers.",
+        "hindi": "तदनन्तर ब्रतधारी भरत जी उन सब लोगों से बोले--देखिए हमारे कुल में सदा ज्येष्ठ राजकुमार ही राजसिंहासन पर बैठता आया है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 82,
+      "verse": 8,
+      "sloka": "उदीच्याः च प्रतीच्याः च दाक्षिणात्याः च केवलाः ।कोट्या अपर अन्ताः सामुद्रा रत्नानि अभिहरन्तु ते ॥२-८२-८॥",
+      "transliteration": "udīcyāḥ ca pratīcyāḥ ca dākṣiṇātyāḥ ca kevalāḥ ।koṭyā apara antāḥ sāmudrā ratnāni abhiharantu te ॥2-82-8॥",
+      "translations": {
+        "english": "Let kings from the north, the west, the south, the bordering kingdoms, and the seatraders offer you crores of gems as gifts.",
+        "hindi": "ग्रहं. त्वरण्ये वत्स्यामि वर्षाणि नव पश्च च। युज्यतां महती सेना चतुरङ्गमहाबला ॥ & ॥ अतः यह्‌ जान कर भो, आप लोग मुझसे ऐसी बात न कहिए | राम मेरे बड़े भाई हैं, वे ही राजा होंगे । मैं ( उनके बदले ) वन में जाकर, चौदह वर्ष वनवास करूंगा । अतः चतुरङ्गिणी सेना तैयार कीजिए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 82,
+      "verse": 9,
+      "sloka": "तत् श्रुत्वा भरतः वाक्यम् शोकेन अभिपरिप्लुतः ।जगाम मनसा रामम् धर्मज्ञो धर्म कान्क्षया ॥२-८२-९॥",
+      "transliteration": "tat śrutvā bharataḥ vākyam śokena abhipariplutaḥ ।jagāma manasā rāmam dharmajño dharma kānkṣayā ॥2-82-9॥",
+      "translations": {
+        "english": "On hearing those words, Bharata who knew his duty was overwhelmed with distress and, resolved to abide by righteousness, reached Rama through his mind (thought of Rama).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 82,
+      "verse": 10,
+      "sloka": "स बाष्प कलया वाचा कल हम्स स्वरः युवा ।विललाप सभा मध्ये जगर्हे च पुरोहितम् ॥२-८२-१०॥",
+      "transliteration": "sa bāṣpa kalayā vācā kala hamsa svaraḥ yuvā ।vilalāpa sabhā madhye jagarhe ca purohitam ॥2-82-10॥",
+      "translations": {
+        "english": "Young Bharata with the melodious voice of a swan, choked with tears, lamenting in the assembly, reproached the family priest Vasistha, saying:",
+        "hindi": "में बन में जा कर भाई राम को यहाँ लिवा लाङँगा । यह जो अभिषेक सामग्री है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 82,
+      "verse": 11,
+      "sloka": "चरित ब्रह्मचर्यस्य विद्या स्नातस्य धीमतः ।धर्मे प्रयतमानस्य को राज्यम् मद्विधो हरेत् ॥२-८२-११॥",
+      "transliteration": "carita brahmacaryasya vidyā snātasya dhīmataḥ ।dharme prayatamānasya ko rājyam madvidho haret ॥2-82-11॥",
+      "translations": {
+        "english": "Would any man seize this kingdom which rightfully belongs to sagacious Rama, who practises brahmacharya, who is wellversed in all branches of learning and who endeavours to protect righteousness?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 82,
+      "verse": 12,
+      "sloka": "कथम् दशरथाज् जातः भवेद् राज्य अपहारकः ।राज्यम् च अहम् च रामस्य धर्मम् वक्तुम् इह अर्हसि ॥२-८२-१२॥",
+      "transliteration": "katham daśarathāj jātaḥ bhaved rājya apahārakaḥ ।rājyam ca aham ca rāmasya dharmam vaktum iha arhasi ॥2-82-12॥",
+      "translations": {
+        "english": "How can any usurper of the kingdom be born of Dasaratha? Or, how would any progeny of Dasaratha become the usurper of the kingdom? I and the kingdom, both belong to Rama. You should tell the truth about this.",
+        "hindi": "मैं राम को यहाँ उसी प्रकार ले आऊेगा, जिस प्रकार यज्ञशाला में अग्नि लाया जाता है है मैं अपनी इस नाममात्र की माता की साध पूरी नहीं होने दूंगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 82,
+      "verse": 13,
+      "sloka": "ज्येष्ठः श्रेष्ठः च धर्म आत्मा दिलीप नहुष उपमः ।लब्धुम् अर्हति काकुत्स्थो राज्यम् दशरथो यथा ॥२-८२-१३॥",
+      "transliteration": "jyeṣṭhaḥ śreṣṭhaḥ ca dharma ātmā dilīpa nahuṣa upamaḥ ।labdhum arhati kākutstho rājyam daśaratho yathā ॥2-82-13॥",
+      "translations": {
+        "english": "The eldest, eminent and righteous Rama, the scion of the Kakutstha dynasty, who is comparable to Dilipa and Nahusha deserves to inherit this kingdom just as Dasaratha did.",
+        "hindi": "प्रत्युत मैं स्वयं दुर्गम वन में जा कर रहूँगा और राम राजा होंगे । इस लिए मैं आज्ञा देता हूँ कि, सड़क की मरम्मत करने वाले कारीगर लोग ( आगे जा कर ) ऊंचे नीचे रास्ते को ठीक करें",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 82,
+      "verse": 14,
+      "sloka": "अनार्य जुष्टम् अस्वर्ग्यम् कुर्याम् पापम् अहम् यदि ।इक्ष्वाकूणाम् अहम् लोके भवेयम् कुल पाम्सनः ॥२-८२-१४॥",
+      "transliteration": "anārya juṣṭam asvargyam kuryām pāpam aham yadi ।ikṣvākūṇām aham loke bhaveyam kula pāmsanaḥ ॥2-82-14॥",
+      "translations": {
+        "english": "If I commit this evil act followed by wretched people which would not lead any one to heaven, I shall only be bringing disgrace to the kings of the Ikshvaku dynasty.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 82,
+      "verse": 15,
+      "sloka": "यद्द् हि मात्रा कृतम् पापम् न अहम् तत् अभिरोचये ।इहस्थो वन दुर्गस्थम् नमस्यामि कृत अन्जलिः ॥२-८२-१५॥",
+      "transliteration": "yadd hi mātrā kṛtam pāpam na aham tat abhirocaye ।ihastho vana durgastham namasyāmi kṛta anjaliḥ ॥2-82-15॥",
+      "translations": {
+        "english": "I will never accept the evil deed committed by my mother. From here itself I shall pay obeisance with folded palms to my brother who dwells in the impenetrable forest.",
+        "hindi": "आप इस प्रथ्वी का राज्य ज्येष्ठ राजकुमार राम को देना चाहते हैं-आपका यह वचन मनोहर और बहुत ही ठीक है। अतः आपके समीप सदा पद्मासना लक्ष्मी देवी निवाप्त करें ( यह उन लोगों की भरत के प्रति शुभ कामना हे)",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 82,
+      "verse": 16,
+      "sloka": "रामम् एव अनुगच्चामि स राजा द्विपदाम् वरः ।त्रयाणाम् अपि लोकानाम् राघवो राज्यम् अर्हति ॥२-८२-१६॥",
+      "transliteration": "rāmam eva anugaccāmi sa rājā dvipadām varaḥ ।trayāṇām api lokānām rāghavo rājyam arhati ॥2-82-16॥",
+      "translations": {
+        "english": "I shall follow Rama the best among men. He alone and no one else deserves to rule over the kingdom of the three worlds.",
+        "hindi": "उस समय वहाँ जितने साधुजन उपस्थित थे, वे सव भरत जी के कहे हुए उत्तम वचनों को सुन, नेत्रों से आनम्द के आँसू टपकाने लगे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 82,
+      "verse": 17,
+      "sloka": "तत् वाक्यम् धर्म सम्युक्तम् श्रुत्वा सर्वे सभासदः ।हर्षान् मुमुचुर् अश्रूणि रामे निहित चेतसः ॥२-८२-१७॥",
+      "transliteration": "tat vākyam dharma samyuktam śrutvā sarve sabhāsadaḥ ।harṣān mumucur aśrūṇi rāme nihita cetasaḥ ॥2-82-17॥",
+      "translations": {
+        "english": "Hearing the words of Bharata full of righteousness, all the men assembled there shed tears of joy, thinking of Rama.",
+        "hindi": "इति एक्रोनाशीतितमः सगः ॥ यह्‌ बात सुन, मंत्रिगण नौकरों चाकरों सहित प्रसन्न हो “और शोक रहित हो, कहने लगे, है नरश्रेष्ठ ! तुम्हारे कथना- 'ुसार शिल्पियों को आज्ञा दे दी गई है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 82,
+      "verse": 18,
+      "sloka": "यदि तु आर्यम् न शक्ष्यामि विनिवर्तयितुम् वनात् ।वने तत्र एव वत्स्यामि यथा आर्यो लक्ष्मणः तथा ॥२-८२-१८॥",
+      "transliteration": "yadi tu āryam na śakṣyāmi vinivartayitum vanāt ।vane tatra eva vatsyāmi yathā āryo lakṣmaṇaḥ tathā ॥2-82-18॥",
+      "translations": {
+        "english": "If I am not able to bring back my noble brother (Rama) from the forest, I shall also dwell there like my noble brother Lakshmana.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 82,
+      "verse": 19,
+      "sloka": "सर्व उपायम् तु वर्तिष्ये विनिवर्तयितुम् बलात् ।समक्षम् आर्य मिश्राणाम् साधूनाम् गुण वर्तिनाम् ॥२-८२-१९॥",
+      "transliteration": "sarva upāyam tu vartiṣye vinivartayitum balāt ।samakṣam ārya miśrāṇām sādhūnām guṇa vartinām ॥2-82-19॥",
+      "translations": {
+        "english": "I shall employ all possible means to bring him back and join you who are respectable, virtuous and pious.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 82,
+      "verse": 20,
+      "sloka": "विष्टिकर्मान्तिकाः सर्वे मार्गशोधनरक्षकाः ।प्रस्थापिता मया पूर्वम् यात्रापि मम रोचते ॥२-८२-२०॥",
+      "transliteration": "viṣṭikarmāntikāḥ sarve mārgaśodhanarakṣakāḥ ।prasthāpitā mayā pūrvam yātrāpi mama rocate ॥2-82-20॥",
+      "translations": {
+        "english": "I have already despatched the explorers and protectors of roads who work for wages and without wages as well. It also pleases me to undertake this journey.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 82,
+      "verse": 21,
+      "sloka": "एवम् उक्त्वा तु धर्म आत्मा भरतः भ्रातृ वत्सलः ।समीपस्थम् उवाच इदम् सुमन्त्रम् मन्त्र कोविदम् ॥२-८२-२१॥",
+      "transliteration": "evam uktvā tu dharma ātmā bharataḥ bhrātṛ vatsalaḥ ।samīpastham uvāca idam sumantram mantra kovidam ॥2-82-21॥",
+      "translations": {
+        "english": "Righteous Bharata who was full of devotion towards his brother having uttered thus, addressed the skilful counsellor Sumantra standing nearby:",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 82,
+      "verse": 22,
+      "sloka": "तूर्णम् उत्थाय गच्च त्वम् सुमन्त्र मम शासनात् ।यात्राम् आज्ञापय क्षिप्रम् बलम् चैव समानय ॥२-८२-२२॥",
+      "transliteration": "tūrṇam utthāya gacca tvam sumantra mama śāsanāt ।yātrām ājñāpaya kṣipram balam caiva samānaya ॥2-82-22॥",
+      "translations": {
+        "english": "O Sumantra quickly rise and go. On my authority, order the expedition and let the army be marshalled at once.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 82,
+      "verse": 23,
+      "sloka": "एवम् उक्तः सुमन्त्रः तु भरतेन महात्मना ।हृष्टः सो अदिशत् सर्वम् यथा सम्दिष्टम् इष्टवत् ॥२-८२-२३॥",
+      "transliteration": "evam uktaḥ sumantraḥ tu bharatena mahātmanā ।hṛṣṭaḥ so adiśat sarvam yathā samdiṣṭam iṣṭavat ॥2-82-23॥",
+      "translations": {
+        "english": "On hearing the words of the magnanimous Bharata, Sumantra was delighted and as instructed, ordered everything as if he was anxious to do it himself.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 82,
+      "verse": 24,
+      "sloka": "ताः प्रहृष्टाः प्रकृतयो बल अध्यक्षा बलस्य च ।श्रुत्वा यात्राम् समाज्ञप्ताम् राघवस्य निवर्तने ॥२-८२-२४॥",
+      "transliteration": "tāḥ prahṛṣṭāḥ prakṛtayo bala adhyakṣā balasya ca ।śrutvā yātrām samājñaptām rāghavasya nivartane ॥2-82-24॥",
+      "translations": {
+        "english": "Having come to know that orders were issued to send the army on an expedition to bring back Rama, the subjects and the army chiefs were delighted.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 82,
+      "verse": 25,
+      "sloka": "ततः योध अन्गनाः सर्वा भर्तृऋन् सर्वान् गृहे गृहे ।यात्रा गमनम् आज्ञाय त्वरयन्ति स्म हर्षिताः ॥२-८२-२५॥",
+      "transliteration": "tataḥ yodha anganāḥ sarvā bhartṛṛn sarvān gṛhe gṛhe ।yātrā gamanam ājñāya tvarayanti sma harṣitāḥ ॥2-82-25॥",
+      "translations": {
+        "english": "Then, the wives of the soldiers having come to know of the expedition were all delighted and in every household hastened up their husbands.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 82,
+      "verse": 26,
+      "sloka": "ते हयैः गो रथैः शीघ्रैः स्यन्दनैः च मनो जवैः ।सह योधैः बल अध्यक्षा बलम् सर्वम् अचोदयन् ॥२-८२-२६॥",
+      "transliteration": "te hayaiḥ go rathaiḥ śīghraiḥ syandanaiḥ ca mano javaiḥ ।saha yodhaiḥ bala adhyakṣā balam sarvam acodayan ॥2-82-26॥",
+      "translations": {
+        "english": "Those chiefs of the army urged the soldiers, horses, fastmoving bullockcarts and swift chariots (to move on).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 82,
+      "verse": 27,
+      "sloka": "सज्जम् तु तत् बलम् दृष्ट्वा भरतः गुरु सम्निधौ ।रथम् मे त्वरयस्व इति सुमन्त्रम् पार्श्वतः अब्रवीत् ॥२-८२-२७॥",
+      "transliteration": "sajjam tu tat balam dṛṣṭvā bharataḥ guru samnidhau ।ratham me tvarayasva iti sumantram pārśvataḥ abravīt ॥2-82-27॥",
+      "translations": {
+        "english": "When Bharata saw that the army was ready, he instructed Sumantra who was standing by the side of the preceptor to quickly prepare his chariot.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 82,
+      "verse": 28,
+      "sloka": "भरतस्य तु तस्य आज्ञाम् प्रतिगृह्य प्रहर्षितः ।रथम् गृहीत्वा प्रययौ युक्तम् परम वाजिभिः ॥२-८२-२८॥",
+      "transliteration": "bharatasya tu tasya ājñām pratigṛhya praharṣitaḥ ।ratham gṛhītvā prayayau yuktam parama vājibhiḥ ॥2-82-28॥",
+      "translations": {
+        "english": "He (Sumantra) received the command of Bharata in great delight and set out with a chariot harnessed with excellent horses.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 82,
+      "verse": 29,
+      "sloka": "स राघवः सत्य धृतिः प्रतापवान् ।ब्रुवन् सुयुक्तम् दृढ सत्य विक्रमः ।गुरुम् महा अरण्य गतम् यशस्विनम् ।प्रसादयिष्यन् भरतः अब्रवीत् तदा ॥२-८२-२९॥",
+      "transliteration": "sa rāghavaḥ satya dhṛtiḥ pratāpavān ।bruvan suyuktam dṛḍha satya vikramaḥ ।gurum mahā araṇya gatam yaśasvinam ।prasādayiṣyan bharataḥ abravīt tadā ॥2-82-29॥",
+      "translations": {
+        "english": "Bharata, a descendant of the Raghu race, firm in truth, one whose valour comes out of unswerving truth, speaking judiciously said this to propitiate his esteemed brother who was in the dense forest:",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 82,
+      "verse": 30,
+      "sloka": "तूण समुत्थाय सुमन्त्र गच्च ।बलस्य योगाय बल प्रधानान् ।आनेतुम् इच्चामि हि तम् वनस्थम् ।प्रसाद्य रामम् जगतः हिताय ॥२-८२-३०॥",
+      "transliteration": "tūṇa samutthāya sumantra gacca ।balasya yogāya bala pradhānān ।ānetum iccāmi hi tam vanastham ।prasādya rāmam jagataḥ hitāya ॥2-82-30॥",
+      "translations": {
+        "english": "O Sumantra, arise, go at once to the leaders of the army and ask them to assemble the troops. I shall propifiate Rama who is in the deep forest and bring him back for the welfare of the world.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 82,
+      "verse": 31,
+      "sloka": "स सूत पुत्रः भरतेन सम्यग् ।आज्ञापितः सम्परिपूर्ण कामः ।शशास सर्वान् प्रकृति प्रधानान् ।बलस्य मुख्यामः च सुहृज् जनम् च ॥२-८२-३१॥",
+      "transliteration": "sa sūta putraḥ bharatena samyag ।ājñāpitaḥ samparipūrṇa kāmaḥ ।śaśāsa sarvān prakṛti pradhānān ।balasya mukhyāmaḥ ca suhṛj janam ca ॥2-82-31॥",
+      "translations": {
+        "english": "The charioteer categorically commanded by Bharata, his desire fulfilled, communicated the royal mandate to all important subjects, chiefs of army and friends.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 82,
+      "verse": 32,
+      "sloka": "ततः समुत्थाय कुले कुले ते ।राजन्य वैश्या वृषलाः च विप्राः ।अयूयुजन्न् उष्ट्र रथान् खरामः च।नागान् हयामः चैव कुल प्रसूतान् ॥२-८२-३२॥",
+      "transliteration": "tataḥ samutthāya kule kule te ।rājanya vaiśyā vṛṣalāḥ ca viprāḥ ।ayūyujann uṣṭra rathān kharāmaḥ ca।nāgān hayāmaḥ caiva kula prasūtān ॥2-82-32॥",
+      "translations": {
+        "english": "Thereafter, men from every household, kshatriyas, vaisyas, sudras and brahmins came out and harnessed their chariots to the camels and asses, elephants and horses of high pedigree. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे द्व्यशीतितमस्सर्गः।। Thus ends the eightysecond sarga in Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

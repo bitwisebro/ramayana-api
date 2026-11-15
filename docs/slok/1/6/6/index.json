@@ -1,0 +1,14 @@
+{
+  "kanda": 1,
+  "kanda_name": "Bala Kanda",
+  "kanda_name_sanskrit": "बालकाण्डम्",
+  "sarga": 6,
+  "verse": 6,
+  "sloka": "तस्मिन् पुरवरे हृष्टा धर्मात्मनो बहुश्रुताः ।नराः तुष्ठाः धनैः स्वैः स्वैः अलुब्धाः सत्यवादिनः ॥१-६-६॥",
+  "transliteration": "tasmin puravare hṛṣṭā dharmātmano bahuśrutāḥ ।narāḥ tuṣṭhāḥ dhanaiḥ svaiḥ svaiḥ alubdhāḥ satyavādinaḥ ॥1-6-6॥",
+  "translations": {
+    "english": "The people living in that excellent city were happy, virtuous, wellread (in the Vedas and the sastras) and content with the possessions of their own. They were free from avarice. And always spoke the truth.",
+    "hindi": "उस श्रेष्ठ अयोध्यापुरी में सुख से बसने वाले, धर्मात्मा बहुश्रुत अर्थात्‌ बहुत सा जमाना देखे-भाले हुए, अपने-अपने धन से सन्तुष्ट, निर्लोभी तथा सत्यवादी पुरुष रहते थे",
+    "telugu": "శ్రేష్ఠమైన ఆ ఆయోధ్యనగరమునందలి జనులు సుఖశాంతులతో సంతోషముగా జీవించుచుండిరి. వారు ధర్మాత్ములు. అనేకశాస్త్రములను అధ్యయనము చేసినవారు, తాము కష్టపడి సంపాదించిన ధనముతోడనే తృప్తిపడువారు, లోభగుణము లేనివారు, సత్యమును పలికెడువారు."
+  }
+}

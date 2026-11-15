@@ -1,0 +1,555 @@
+{
+  "kanda": 1,
+  "kanda_name": "Bala Kanda",
+  "kanda_name_sanskrit": "बालकाण्डम्",
+  "sarga": 3,
+  "verses_count": 39,
+  "verses": [
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 3,
+      "verse": 1,
+      "sloka": "श्रुत्वा वस्तु समग्रम् तत् धर्म अर्ध सहितम् हितम् ।व्यक्तम् अन्वेषते भूयो यद्वृत्तम् तस्य धीमतः ॥१-३-१।॥",
+      "transliteration": "śrutvā vastu samagram tat dharma ardha sahitam hitam ।vyaktam anveṣate bhūyo yadvṛttam tasya dhīmataḥ ॥1-3-1।॥",
+      "translations": {
+        "english": "Hearing the entire story of Rama from the intellecual Narada, the righteous (Valmiki) sought to know clearly more about the history of Rama endowed with wisdom.",
+        "hindi": "व्यक्तमन्वेषते भूयो यदूवृचं तस्य धीमतः",
+        "telugu": "ధర్మాత్ముడైన వాల్మీకిముని ఇదివరలో నారదమహర్షివలన ధర్మసహితమైన రామకథను వినియుండెను. మహానుభావుడైన శ్రిరామచంద్రుని వృత్తాంతములో ఇంకను విశేషాంశములు ఏవైనను కలవేమోయని ఆలోచింపసాగెను."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 3,
+      "verse": 2,
+      "sloka": "उपस्पृस्य उदकम् सम्यक् मुनिः स्थित्वा कृताञ्जलिः ।प्राचीन अग्रेषु दर्भेषु धर्मेण अन्वेषते गतिम् ॥१-३-२।॥",
+      "transliteration": "upaspṛsya udakam samyak muniḥ sthitvā kṛtāñjaliḥ ।prācīna agreṣu darbheṣu dharmeṇa anveṣate gatim ॥1-3-2।॥",
+      "translations": {
+        "english": "Having performed achamana, Valmiki seated on kusha grass with folded palms, searched for the course of past events in the history of Rama by his power of penance.",
+        "hindi": "",
+        "telugu": "ఆ మునీశ్వరుడు తూర్పువైపు కొనలుగల ధర్భలపై కూర్చొని, విధ్యుక్తముగా ఆచనముచేసి, భగవంతుని స్మరించుచు నమస్కరించెను. పిదప తనతపశ్శ్క్తిచే (దివ్యదృష్టితో) రామకథారీతినిగూర్చి ఆలోచన చేయసాగెను."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 3,
+      "verse": 3,
+      "sloka": "राम लक्ष्मण सीताभिः राज्ञा दशरथेन च ।स भार्येण स राष्ट्रेण यत् प्राप्तम् तत्र तत्त्वतः ॥१-३-३।॥",
+      "transliteration": "rāma lakṣmaṇa sītābhiḥ rājñā daśarathena ca ।sa bhāryeṇa sa rāṣṭreṇa yat prāptam tatra tattvataḥ ॥1-3-3।॥",
+      "translations": {
+        "english": "﻿ By the power of his penance, the holy sage visualised clearly Rama, Lakshmana and Sita, king Dasaratha, his wives and his kingdom and all that they had observed, experienced, endeavoured during the course of events. He also visualised clearly their laughter and conversation exactly as in real life.",
+        "hindi": "जल से हाथ-पैर धो, आचमन कर, हाथ जोड़, कुशासन पर वेंकी ओर मुख कर वेठे हुए महर्षि, योगवल से श्रीरामचन्द्रादि के चरितों को देखने लगे ॥॥ रामलच्मणसीताभी राज्ञा दशरथेन च | सभार्येण सराष्ट्रेण यत्प्राप्तं तत्र तत्वतः",
+        "telugu": "సీతారామలక్ష్మణులు, దశరథమహారాజు, అతనిభార్యలు, ఆయనరాజ్యప్రజలు (రాజ్యము) మొదలగు వారినిగూర్చియు, వారిప్రసన్నదరహాసములు, మధుర భాషణములు, గంభీర గమనములు, కార్యకలాపములు మున్నగువాటినిగూర్చియు బ్రహ్మవరప్రభావముచేత యోగదృష్టితో యథాతథముగ కన్నులగట్టినట్లు ఆ మునికి విదితమాయెను."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 3,
+      "verse": 4,
+      "sloka": "हसितम् भाषितम् च एव गतिर्यायत् च चेष्टितम् ।तत् सर्वम् धर्म वीर्येण यथावत् संप्रपश्यति ॥१-३-४।॥",
+      "transliteration": "hasitam bhāṣitam ca eva gatiryāyat ca ceṣṭitam ।tat sarvam dharma vīryeṇa yathāvat saṁprapaśyati ॥1-3-4।॥",
+      "translations": {
+        "english": "﻿ By the power of his penance, the holy sage visualised clearly Rama, Lakshmana and Sita, king Dasaratha, his wives and his kingdom and all that they had observed, experienced, endeavoured during the course of events. He also visualised clearly their laughter and conversation exactly as in real life.",
+        "hindi": "",
+        "telugu": "సీతారామలక్ష్మణులు, దశరథమహారాజు, అతనిభార్యలు, ఆయనరాజ్యప్రజలు (రాజ్యము) మొదలగు వారినిగూర్చియు, వారిప్రసన్నదరహాసములు, మధుర భాషణములు, గంభీర గమనములు, కార్యకలాపములు మున్నగువాటినిగూర్చియు బ్రహ్మవరప్రభావముచేత యోగదృష్టితో యథాతథముగ కన్నులగట్టినట్లు ఆ మునికి విదితమాయెను."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 3,
+      "verse": 5,
+      "sloka": "स्त्री तृतीयेन च तथा यत् प्राप्तम् चरता वने ।सत्यसन्धेन रामेण तत्सर्वम् च अन्ववेक्षत ॥१-३-५।॥",
+      "transliteration": "strī tṛtīyena ca tathā yat prāptam caratā vane ।satyasandhena rāmeṇa tatsarvam ca anvavekṣata ॥1-3-5।॥",
+      "translations": {
+        "english": "All that was acquired by truthful Rama, Lakshmana and wife Sita as the third person when they were moving in the Dandakaranya forest, was visualised.",
+        "hindi": "ह कामार्थगुणसंयुक्तं धर्माथंगुणविस्तरम्‌ । समुद्रमिव रत्नाढय' सर्वश्रुतिमनोहरम ।[८॥ स यथा कथितं पूर्व नारदेन महर्पिणा । रघुनाथस्य चरितं चकार भगवानपिः ॥&॥ धर्मे, अर्थ, काम और मोक्ष को देने वाला, समुद्र की तरह रत्नों से भरा प्रा और सुनने पर सन को प्रसन्न करने वाला, तृतीयः सगे ३६ ' गी रामचन्द्र जी का चरित जैसा कि नारद जी से सुन चुके थे, वैसा ही, महर्षि बाल्मीकि जी ने बनावा",
+        "telugu": "సత్యసంధుడైన శ్రీరాముడు సీతాలక్ష్మణులతోగూడి దండకారణ్యమునకు వెళ్ళుటను, జరిగినసంఘటనలను అన్నింటిని ఆతపస్వి దర్శించెను. అంతట ధర్మాత్ముడైన వాల్మీకికి యోగశక్తి ప్రభావమున రామాయణసంఘటనములన్నియును ఆమూలాగ్రముగ కరతలామలకములయ్యెను (విశదమాయెను)."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 3,
+      "verse": 6,
+      "sloka": "ततः पश्यति धर्मात्मा तत् सर्वम् योगमास्थितः ।पुरा यत् तत्र निर्वृत्तम् पाणाव आमलकम् यथा ॥१-३-६।॥",
+      "transliteration": "tataḥ paśyati dharmātmā tat sarvam yogamāsthitaḥ ।purā yat tatra nirvṛttam pāṇāva āmalakam yathā ॥1-3-6।॥",
+      "translations": {
+        "english": "﻿ With the power of yoga, the righteous (Valmiki) saw clearly, like an amalaka fruit in the palm of the hand the entire course of events that happened in the past relating to Rama.",
+        "hindi": "योगाभ्यास द्वारा महर्षि वाल्मीकि ने उन सव चरितों को जो पहले हो चुके थे, हथेली पर रखे हुए आँबले की तरह देखा",
+        "telugu": "సత్యసంధుడైన శ్రీరాముడు సీతాలక్ష్మణులతోగూడి దండకారణ్యమునకు వెళ్ళుటను, జరిగినసంఘటనలను అన్నింటిని ఆతపస్వి దర్శించెను. అంతట ధర్మాత్ముడైన వాల్మీకికి యోగశక్తి ప్రభావమున రామాయణసంఘటనములన్నియును ఆమూలాగ్రముగ కరతలామలకములయ్యెను (విశదమాయెను)."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 3,
+      "verse": 7,
+      "sloka": "तत् सर्वम् तात्त्वतो दृश्ट्वा धर्मेण स महामतिःअभिरामस्य रामस्य तत् सर्वम् कर्तुम् उद्यतः ॥१-३-७।॥",
+      "transliteration": "tat sarvam tāttvato dṛśṭvā dharmeṇa sa mahāmatiḥabhirāmasya rāmasya tat sarvam kartum udyataḥ ॥1-3-7।॥",
+      "translations": {
+        "english": "Highly resplendent Valmiki, having visualised the story (of Rama), with his power of penance and blending the merits of attainment of worldly prosperity and pleasures together with the detailed description of the merit of righteousness as an end and aim, like an ocean filled with gems, got ready to compose the story of delightful Rama which regales everybody's ears.",
+        "hindi": "ड ह को ब्रह्मा ज: के वरदान के प्रभाव से यथार्भतः (ज्यां का त्यो) जान लेने के पश्चात, सहाद्युतिमान्‌ महर्षि वाल्मीकि लोकाभिराम श्रीराम जी र्तो जी के चरितों को श्लोकबद्ध करने : तत्पर हुए",
+        "telugu": "శ్రీరామునిగుణములను యోగదృష్టితోదర్శించి, సంతోషమున వెలుగొందుచున్న వాల్మీకి మిక్కిలి మనోహరుడైన శ్రీరాముని యొక్క చరిత్రమును రచించుటకు పూనుకొనెను. శంఖములు, ముత్యపుచిప్పలు మొదలగు సాధారణవస్తువులు కలిగియున్నను సముద్రము ముఖ్యముగా రత్నాకరమేయైనట్లు రామాయణము కామార్థగుణములను అప్రధానముగా కలిగియున్నను ప్రధానముగా ధర్మమోక్షములనే ప్రతిపాదించును. ఇంకను అది వీనులకు విందొనర్చునది, మనస్సునకు ఆనందమును గూర్చునది - వేదసార సంగ్రహము."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 3,
+      "verse": 8,
+      "sloka": "कामार्थ गुण संयुक्तम् धर्मार्थ गुण विस्तरम् ।समुद्रम् इव रत्नाढ्यम् सर्व श्रुति मनोहरम् ॥१-३-८।॥",
+      "transliteration": "kāmārtha guṇa saṁyuktam dharmārtha guṇa vistaram ।samudram iva ratnāḍhyam sarva śruti manoharam ॥1-3-8।॥",
+      "translations": {
+        "english": "Highly resplendent Valmiki, having visualised the story (of Rama), with his power of penance and blending the merits of attainment of worldly prosperity and pleasures together with the detailed description of the merit of righteousness as an end and aim, like an ocean filled with gems, got ready to compose the story of delightful Rama which regales everybody's ears.",
+        "hindi": "",
+        "telugu": "శ్రీరామునిగుణములను యోగదృష్టితోదర్శించి, సంతోషమున వెలుగొందుచున్న వాల్మీకి మిక్కిలి మనోహరుడైన శ్రీరాముని యొక్క చరిత్రమును రచించుటకు పూనుకొనెను. శంఖములు, ముత్యపుచిప్పలు మొదలగు సాధారణవస్తువులు కలిగియున్నను సముద్రము ముఖ్యముగా రత్నాకరమేయైనట్లు రామాయణము కామార్థగుణములను అప్రధానముగా కలిగియున్నను ప్రధానముగా ధర్మమోక్షములనే ప్రతిపాదించును. ఇంకను అది వీనులకు విందొనర్చునది, మనస్సునకు ఆనందమును గూర్చునది - వేదసార సంగ్రహము."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 3,
+      "verse": 9,
+      "sloka": "स यथा कथितम् पूर्वम् नारदेन महात्मना ।रघु वंशस्य चरितम् चकार भगवान् मुनिः ॥१-३-९।॥",
+      "transliteration": "sa yathā kathitam pūrvam nāradena mahātmanā ।raghu vaṁśasya caritam cakāra bhagavān muniḥ ॥1-3-9।॥",
+      "translations": {
+        "english": "The divine sage, composed the history of Rama born in the race of Raghu, just as it was related by the illustrious sage Narada in the past.",
+        "hindi": "",
+        "telugu": "నారదమహర్షి ఇదివరలో చెప్పినరీతిగా పరమపూజ్యుడైన వాల్మీకిముని రఘువంశమున అవతరించిన శ్రీరామునియొక్క చరితమును రచించెను."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 3,
+      "verse": 10,
+      "sloka": "जन्म रामस्य सुमहद् वीर्यम् सर्वानुकूलताम् ।लोकस्य प्रियताम् क्षान्तिम् सौम्यताम् सत्य शीलताम् ॥१-३-१०।॥",
+      "transliteration": "janma rāmasya sumahad vīryam sarvānukūlatām ।lokasya priyatām kṣāntim saumyatām satya śīlatām ॥1-3-10।॥",
+      "translations": {
+        "english": "(He described) the birth of Rama, his great prowess, benevolence, pleasant disposition, forbearance, handsome looks and his adherence to truth.",
+        "hindi": "श्रीरामचन्द्र का जन्म, उनका पराक्रम, सब का उन पर प्रसन्न रहना, उनके किये लोक-प्रिय कार्ये, उनकी क्षमा, सोम्यता, सत्य- शीलता, गुण-सम्पन्नता, विश्वामित्र की सहायता करना, विश्वा- मित्र का श्रोयमचन्द्र जी से .नाना प्रकार की कथाएँ कहना वा उनका सुनना, धनुष का तोड़ना, जानकी जी के साथ उनका विवाह होना,",
+        "telugu": "దశరథుని తపఃఫలముగా శ్రీమహావిష్ణువు రఘువంశమున శ్రీరాముడుగా అవతరించుట, తాటకాది రాక్షసులను వధింపగల ఆయనపరాక్రమము, అందఱికిని అనుకూలముగానుండు సత్ప్రవర్తన, అందఱిప్రేమలను చూరగొనుట, ఇతరుల అపరాధములను మన్నించుట, ఎల్లరను అనుగ్రహించులక్షణము, సత్యస్వభావము మొదలగు విషయములను ఈ కావ్యమున ముని వర్ణించెను."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 3,
+      "verse": 11,
+      "sloka": "नाना चित्र कथाः च अन्याः विश्वामित्र सहायेन ।जानक्याः च विवाहम् च धनुषः च विभेदनम् ॥१-३-११।॥",
+      "transliteration": "nānā citra kathāḥ ca anyāḥ viśvāmitra sahāyena ।jānakyāḥ ca vivāham ca dhanuṣaḥ ca vibhedanam ॥1-3-11।॥",
+      "translations": {
+        "english": "(He described) Rama's association with Viswamitra, a variety of wonderful stories, the breaking of the great bow and his (Rama's) marriage with Janaki.",
+        "hindi": "",
+        "telugu": "శ్రీరామగాథకు అనుగుణమగు తదితరములైన విచిత్ర కథలను, రామలక్ష్మణులు విశ్వామిత్రునివెంటవెళ్ళి, యాగసంరక్షణ చేయుటను, రాఘవుడు శివధనుర్భంగముగావించుటను, జానకీ-ఊర్మిళా మాండవీశ్రుతకీర్తులతో జరిగిన రామలక్ష్మణ భరత శత్రుఘ్నుల వివాహములను, శ్రీరామపరశురాముల సంవాదమును, అట్లే శ్రీరాముని ఉదాత్తగుణములను కవి వర్ణించెను. రామునకు యువరాజపట్టాభిషేకప్రయత్నములను, కైకేయి పన్నాగమువలన పట్టాభిషేకమునకు విఘ్నము ఏర్పడుటను, శ్రీరాముడు సీతాలక్ష్మణులతోగూడి వనవాసమునకు బయలుదేఱుటను, దశరథుడు పుత్రశోకవిహ్వలుడై స్వర్గస్థుడగుటను మహర్షి వివరించెను."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 3,
+      "verse": 12,
+      "sloka": "राम राम विवादम् च गुणान् दाशरथेः तथा ।तथऽभिषेकम् रामस्य कैकेय्या दुष्ट भावताम् ॥१-३-१२।॥",
+      "transliteration": "rāma rāma vivādam ca guṇān dāśaratheḥ tathā ।tatha'bhiṣekam rāmasya kaikeyyā duṣṭa bhāvatām ॥1-3-12।॥",
+      "translations": {
+        "english": "(He described) Rama's altercation with Parasurama, his noble qualities, the preparations for his coronation and the wicked nature of Kaikeyi.",
+        "hindi": "",
+        "telugu": "శ్రీరామగాథకు అనుగుణమగు తదితరములైన విచిత్ర కథలను, రామలక్ష్మణులు విశ్వామిత్రునివెంటవెళ్ళి, యాగసంరక్షణ చేయుటను, రాఘవుడు శివధనుర్భంగముగావించుటను, జానకీ-ఊర్మిళా మాండవీశ్రుతకీర్తులతో జరిగిన రామలక్ష్మణ భరత శత్రుఘ్నుల వివాహములను, శ్రీరామపరశురాముల సంవాదమును, అట్లే శ్రీరాముని ఉదాత్తగుణములను కవి వర్ణించెను. రామునకు యువరాజపట్టాభిషేకప్రయత్నములను, కైకేయి పన్నాగమువలన పట్టాభిషేకమునకు విఘ్నము ఏర్పడుటను, శ్రీరాముడు సీతాలక్ష్మణులతోగూడి వనవాసమునకు బయలుదేఱుటను, దశరథుడు పుత్రశోకవిహ్వలుడై స్వర్గస్థుడగుటను మహర్షి వివరించెను."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 3,
+      "verse": 13,
+      "sloka": "विघातम् च अभिषेकस्य राघवस्य विवासनम् ।राज्ञः शोकम् विलापम् च पर लोकस्य च आश्रयम् ॥१-३-१३।॥",
+      "transliteration": "vighātam ca abhiṣekasya rāghavasya vivāsanam ।rājñaḥ śokam vilāpam ca para lokasya ca āśrayam ॥1-3-13।॥",
+      "translations": {
+        "english": "(He described) the obstacles to the coronation of Rama, his departure to the forest, the wailing and death of king Dasaratha with sorrow.",
+        "hindi": "",
+        "telugu": "శ్రీరామగాథకు అనుగుణమగు తదితరములైన విచిత్ర కథలను, రామలక్ష్మణులు విశ్వామిత్రునివెంటవెళ్ళి, యాగసంరక్షణ చేయుటను, రాఘవుడు శివధనుర్భంగముగావించుటను, జానకీ-ఊర్మిళా మాండవీశ్రుతకీర్తులతో జరిగిన రామలక్ష్మణ భరత శత్రుఘ్నుల వివాహములను, శ్రీరామపరశురాముల సంవాదమును, అట్లే శ్రీరాముని ఉదాత్తగుణములను కవి వర్ణించెను. రామునకు యువరాజపట్టాభిషేకప్రయత్నములను, కైకేయి పన్నాగమువలన పట్టాభిషేకమునకు విఘ్నము ఏర్పడుటను, శ్రీరాముడు సీతాలక్ష్మణులతోగూడి వనవాసమునకు బయలుదేఱుటను, దశరథుడు పుత్రశోకవిహ్వలుడై స్వర్గస్థుడగుటను మహర్షి వివరించెను."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 3,
+      "verse": 14,
+      "sloka": "प्रकृतीनाम् विषादम् च प्रकृतीनाम् विसर्जनम् ।निषाद अधिप संवादम् सूतोपावर्तनम् तथा ॥१-३-१४।॥",
+      "transliteration": "prakṛtīnām viṣādam ca prakṛtīnām visarjanam ।niṣāda adhipa saṁvādam sūtopāvartanam tathā ॥1-3-14।॥",
+      "translations": {
+        "english": "(He described) the grief of people of Ayodhya and his (Rama's) abandoning them and his (Rama's) conversation with Guha, the ruler of nishadas, the charioteer (Sumantra)'s return (after leaving Rama in the forest).",
+        "hindi": "",
+        "telugu": "పురజనులు దుఃఖించుట, శ్రీరాముడు వారికన్నుగప్పి వెడలిపోవుట, నిషాదరాజైన గుహునితో సంభాషించుట, రథసారథిగానున్న సుమంత్రుడు అయోధ్యకు మఱలుట, మున్నగు విషయములను ఆ ముని వివరించెను."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 3,
+      "verse": 15,
+      "sloka": "गङ्गायाः च अपि संतारम् भरद्वाजस्य दर्शनम् ।भरद्वाज अभ्यनुज्ञात् चित्रकूटस्य दर्शनम् ॥१-३-१५।॥",
+      "transliteration": "gaṅgāyāḥ ca api saṁtāram bharadvājasya darśanam ।bharadvāja abhyanujñāt citrakūṭasya darśanam ॥1-3-15।॥",
+      "translations": {
+        "english": "(He described) Rama, Lakshmana and Sita ferrying the river Ganges, the visit to holy sage Bharadwaja and the departure to Chitrakuta mountain.",
+        "hindi": "",
+        "telugu": "సీతారామలక్ష్మణులు గంగానది దాటుట, వారు భరద్వాజమహామునిని దర్శించుట, ఆయన అనుజ్ఞతో చిత్రకూటమునకు చేరుట, వాస్తుశాస్త్రప్రకారము అచట పర్ణశాలను నిర్మించుట, అందువసించుట, భరతుడు వసిష్ఠాదులతోగూడి శ్రీరాముని దర్శించుట, ప్రసన్నునిజేసికొనుట, శ్రీరాముడు స్వర్గస్థుడైన తండ్రికి తర్పణములను అర్పించుట, భరతుడు శ్రీరాముని పాదుకలను తీసికొని వచ్చి, వాటికి పట్టాభిషేకమొనర్చుట, పిమ్మట అతడు నందిగ్రామమున నివసించుట మొదలగు ఘట్టములను ముని వివరించెను."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 3,
+      "verse": 16,
+      "sloka": "वास्तु कर्म निवेशम् च भरत अगमनम् तथा ।प्रसादनम् च रामस्य पितुः च सलिल क्रियाम् ॥१-३-१६।॥",
+      "transliteration": "vāstu karma niveśam ca bharata agamanam tathā ।prasādanam ca rāmasya pituḥ ca salila kriyām ॥1-3-16।॥",
+      "translations": {
+        "english": "(He described) the making of, and dwelling in, a hut, the arrival of Bharata, Bharata's persuasion to Rama (to return to the kingdom), and Rama's performance the funeral ablution for his father.",
+        "hindi": "",
+        "telugu": "సీతారామలక్ష్మణులు గంగానది దాటుట, వారు భరద్వాజమహామునిని దర్శించుట, ఆయన అనుజ్ఞతో చిత్రకూటమునకు చేరుట, వాస్తుశాస్త్రప్రకారము అచట పర్ణశాలను నిర్మించుట, అందువసించుట, భరతుడు వసిష్ఠాదులతోగూడి శ్రీరాముని దర్శించుట, ప్రసన్నునిజేసికొనుట, శ్రీరాముడు స్వర్గస్థుడైన తండ్రికి తర్పణములను అర్పించుట, భరతుడు శ్రీరాముని పాదుకలను తీసికొని వచ్చి, వాటికి పట్టాభిషేకమొనర్చుట, పిమ్మట అతడు నందిగ్రామమున నివసించుట మొదలగు ఘట్టములను ముని వివరించెను."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 3,
+      "verse": 17,
+      "sloka": "पादुका अग्र्य अभिषेकम् च नन्दि ग्राम निवासनम् ।दण्डकारण्य गमनम् विराधस्य वधम् तथा ॥१-३-१७।॥",
+      "transliteration": "pādukā agrya abhiṣekam ca nandi grāma nivāsanam ।daṇḍakāraṇya gamanam virādhasya vadham tathā ॥1-3-17।॥",
+      "translations": {
+        "english": "(He described) the installation of sandals (of Rama as the symbol of authority), Bharata is residing at Nandigrama (and his ruling the kingdom from there), Rama's departure for Dandakaranya, and the killing of Viradha.",
+        "hindi": "",
+        "telugu": "శ్రీరాముడు సీతాలక్ష్మణులతో దండకారణ్యమున ప్రవేశించుట, విరాధుని వధించుట, శరభంగుని దర్శించుట, సుతీక్ష్ణుని గలిసికొనుట, అత్ర్మహర్షి ఆశ్రమమునకు చేరుట, అచ్చట అనసూయాదేవి సీతాదేవికి దివ్యచందనాదులను సమర్పించుట, అగస్త్య మహామునిని దర్శించుట, ఆయననుండి ధనుర్భాణములను గైకొనుట, జటాయువుతో సమాగమము, పంచవటిలో నివాసము శూర్పణకరాక మున్నగు విషయములు తెలుపబడినవి."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 3,
+      "verse": 18,
+      "sloka": "दर्शनम् शरभङ्गस्य सुतीक्ष्णेन समागमम् ।अनसूया समाख्या च अङ्गराग्स्य च अर्पणम् ॥१-३-१८।॥",
+      "transliteration": "darśanam śarabhaṅgasya sutīkṣṇena samāgamam ।anasūyā samākhyā ca aṅgarāgsya ca arpaṇam ॥1-3-18।॥",
+      "translations": {
+        "english": "(He described) Rama's meeting with (sage) Sarabhanga and his arrival at Sutikshna's, Sita's companionship with Anasuya and anointing of fragrant unguents to her body.",
+        "hindi": "",
+        "telugu": "శ్రీరాముడు సీతాలక్ష్మణులతో దండకారణ్యమున ప్రవేశించుట, విరాధుని వధించుట, శరభంగుని దర్శించుట, సుతీక్ష్ణుని గలిసికొనుట, అత్ర్మహర్షి ఆశ్రమమునకు చేరుట, అచ్చట అనసూయాదేవి సీతాదేవికి దివ్యచందనాదులను సమర్పించుట, అగస్త్య మహామునిని దర్శించుట, ఆయననుండి ధనుర్భాణములను గైకొనుట, జటాయువుతో సమాగమము, పంచవటిలో నివాసము శూర్పణకరాక మున్నగు విషయములు తెలుపబడినవి."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 3,
+      "verse": 19,
+      "sloka": "दर्शनम् च अपि अगस्त्यस्य धनुषो ग्रहणम् तथा ।शूर्पणखाः च संवादम् विरूपकरणम् तथा ॥१-३-१९।॥",
+      "transliteration": "darśanam ca api agastyasya dhanuṣo grahaṇam tathā ।śūrpaṇakhāḥ ca saṁvādam virūpakaraṇam tathā ॥1-3-19।॥",
+      "translations": {
+        "english": "(He described) the departure of Rama for Panchavati, the interview with sage Agastya, the meeting with Jatayu and the appearance of Surpanakha.",
+        "hindi": "",
+        "telugu": "శూర్పణకతో సంవాదము, ఆమెముక్కుచెవులను ఖండించుట, రాముడు ఖరదూషణత్రిశురులను సంహరించుట, రావణుడు మారీచునితోగూడి పంచవటికి చేరుట, శ్రీరామునిచే మారీచసంహారము, రావణునిచే సీతాపహరణము, శ్రీరాముడు సీతాదేవికై విలపించుట, జటాయుమరణము, మొదలగు అంశములు వివరింపబడినవి."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 3,
+      "verse": 20,
+      "sloka": "वधम् खरः त्रिशिरसः उत्थानम् रावणस्य च ।मारीचस्य वधम् च एव वैदेह्या हरणम् तथा ॥१-३-२०।॥",
+      "transliteration": "vadham kharaḥ triśirasaḥ utthānam rāvaṇasya ca ।mārīcasya vadham ca eva vaidehyā haraṇam tathā ॥1-3-20।॥",
+      "translations": {
+        "english": "(He described) Rama's dialogue with Surpanakha, her disfigurement, the slaughter of Khara and Trisira, and the beginning of efforts by Ravana (to harm Rama).",
+        "hindi": "",
+        "telugu": "శూర్పణకతో సంవాదము, ఆమెముక్కుచెవులను ఖండించుట, రాముడు ఖరదూషణత్రిశురులను సంహరించుట, రావణుడు మారీచునితోగూడి పంచవటికి చేరుట, శ్రీరామునిచే మారీచసంహారము, రావణునిచే సీతాపహరణము, శ్రీరాముడు సీతాదేవికై విలపించుట, జటాయుమరణము, మొదలగు అంశములు వివరింపబడినవి."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 3,
+      "verse": 21,
+      "sloka": "राघवस्य विलापम् च गृध्र राज निबर्हणम् ।कबन्ध दर्शनम् च एव पम्पायाः च अपि दर्शनम् ॥१-३-२१।॥",
+      "transliteration": "rāghavasya vilāpam ca gṛdhra rāja nibarhaṇam ।kabandha darśanam ca eva pampāyāḥ ca api darśanam ॥1-3-21।॥",
+      "translations": {
+        "english": "(He described) the killing of Maricha, the abduction of Sita, Rama's lamentation (over his separation from Sita), and the death of Jatayu.",
+        "hindi": "",
+        "telugu": "కబంధుని, శబరిని దర్శించిన పిమ్మట, శ్రీరాముడు దుఃఖముతో పంపాతీరమునకు చేరుట, హనుమంతుని గలిసికొనుట, ఋష్యమూకపర్వతమునకు చేరి, సుగ్రీవుని గలియుట, రామసుగ్రీవమైత్రి, పరస్పర ప్రతిజ్ఞలు, సుగ్రీవునకు రాముడు తనపై విశ్వాసము కలిగించుట, వాలిసుగ్రీవులయుద్ధము, రామునిచే వాలివధ, సుగ్రీవుని కిష్కింధకు రాజును జేయుట, తారావిలాపము, రామలక్ష్మణులు వర్షాకాలములో ప్రస్రవణ గిరిపై గడుపుట, మొదలగు ఘట్టములు వివరింపబడెను."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 3,
+      "verse": 22,
+      "sloka": "शबरी दर्शनम् च एव फल मूल अशनम् तथा ।प्रलापम् च एव पम्पायम् हनुमद् दर्शनम् ॥१-३-२२।॥",
+      "transliteration": "śabarī darśanam ca eva phala mūla aśanam tathā ।pralāpam ca eva pampāyam hanumad darśanam ॥1-3-22।॥",
+      "translations": {
+        "english": "(He described) Rama's encounter with Kabandha, the viewing of river Pampa, the meeting with Sabari and Hanuman.",
+        "hindi": "",
+        "telugu": "కబంధుని, శబరిని దర్శించిన పిమ్మట, శ్రీరాముడు దుఃఖముతో పంపాతీరమునకు చేరుట, హనుమంతుని గలిసికొనుట, ఋష్యమూకపర్వతమునకు చేరి, సుగ్రీవుని గలియుట, రామసుగ్రీవమైత్రి, పరస్పర ప్రతిజ్ఞలు, సుగ్రీవునకు రాముడు తనపై విశ్వాసము కలిగించుట, వాలిసుగ్రీవులయుద్ధము, రామునిచే వాలివధ, సుగ్రీవుని కిష్కింధకు రాజును జేయుట, తారావిలాపము, రామలక్ష్మణులు వర్షాకాలములో ప్రస్రవణ గిరిపై గడుపుట, మొదలగు ఘట్టములు వివరింపబడెను."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 3,
+      "verse": 23,
+      "sloka": "ऋष्यमूकस्य गमनम् सुग्रीवेण समागमम् ।प्रत्ययोत्पादनम् सख्यम् वालि सुग्रीव विग्रहम् ॥१-३-२३।॥",
+      "transliteration": "ṛṣyamūkasya gamanam sugrīveṇa samāgamam ।pratyayotpādanam sakhyam vāli sugrīva vigraham ॥1-3-23।॥",
+      "translations": {
+        "english": "﻿ (He described) Rama's departure for Rishyamuka mountain, his meeting with Sugriva and the pact of friendship with him, inspiring confidence in him and the combat between Sugriva and Vali.",
+        "hindi": "",
+        "telugu": "కబంధుని, శబరిని దర్శించిన పిమ్మట, శ్రీరాముడు దుఃఖముతో పంపాతీరమునకు చేరుట, హనుమంతుని గలిసికొనుట, ఋష్యమూకపర్వతమునకు చేరి, సుగ్రీవుని గలియుట, రామసుగ్రీవమైత్రి, పరస్పర ప్రతిజ్ఞలు, సుగ్రీవునకు రాముడు తనపై విశ్వాసము కలిగించుట, వాలిసుగ్రీవులయుద్ధము, రామునిచే వాలివధ, సుగ్రీవుని కిష్కింధకు రాజును జేయుట, తారావిలాపము, రామలక్ష్మణులు వర్షాకాలములో ప్రస్రవణ గిరిపై గడుపుట, మొదలగు ఘట్టములు వివరింపబడెను."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 3,
+      "verse": 24,
+      "sloka": "वालि प्रमथनम् च एव सुगीव प्रतिपादनम् ।तारा विलापम् समयम् वर्ष रात्र निवासनम् ॥१-३-२४।॥",
+      "transliteration": "vāli pramathanam ca eva sugīva pratipādanam ।tārā vilāpam samayam varṣa rātra nivāsanam ॥1-3-24।॥",
+      "translations": {
+        "english": "(He described) the killing of Vali (by Rama), the installation of Sugriva, the mourning of Tara, the waiting (for the search of Sita as per the pact of friendship with Sugriva), and the sojourn on the mountain during the rainy season.",
+        "hindi": "",
+        "telugu": "కబంధుని, శబరిని దర్శించిన పిమ్మట, శ్రీరాముడు దుఃఖముతో పంపాతీరమునకు చేరుట, హనుమంతుని గలిసికొనుట, ఋష్యమూకపర్వతమునకు చేరి, సుగ్రీవుని గలియుట, రామసుగ్రీవమైత్రి, పరస్పర ప్రతిజ్ఞలు, సుగ్రీవునకు రాముడు తనపై విశ్వాసము కలిగించుట, వాలిసుగ్రీవులయుద్ధము, రామునిచే వాలివధ, సుగ్రీవుని కిష్కింధకు రాజును జేయుట, తారావిలాపము, రామలక్ష్మణులు వర్షాకాలములో ప్రస్రవణ గిరిపై గడుపుట, మొదలగు ఘట్టములు వివరింపబడెను."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 3,
+      "verse": 25,
+      "sloka": "कोपम् राघव सिंहस्य बलानाम् उपसंग्रहम् ।दिशः प्रस्थापनम् च एव पृथिव्याः च निवेदनम् ॥१-३-२५।॥",
+      "transliteration": "kopam rāghava siṁhasya balānām upasaṁgraham ।diśaḥ prasthāpanam ca eva pṛthivyāḥ ca nivedanam ॥1-3-25।॥",
+      "translations": {
+        "english": "(He described) the anger of Rama, the lion in the race of the Raghus (over the delay by Sugriva), the consolidation of the monkey forces, the despatch of envoys to different directions, the report (about the different places) on earth.",
+        "hindi": "",
+        "telugu": "సుగ్రీవునిఉపేక్షకు శ్రీరాముడు కుపితుడగుట, సేనల సమీకరణము, సుగ్రీవుడు నలుదిక్కులకును వానరయోధులను పంపుచువారికి భౌగోళికాంశములను దెలుపుట, శ్రీరాముడు హనుమంతునకు అంగుళీయకమును ఇచ్చుట, జాంబవదాదులు స్వయంప్రభను దర్శించుట, ప్రాయోపవేశమునకు సిద్ధపడిన అంగదాదులు సంపాతిని దర్శించుట మున్నగు అంశములు వర్ణితములు."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 3,
+      "verse": 26,
+      "sloka": "अङ्गुलीयक दानम् च ऋक्ष्स्य बिल दर्शनम् ।प्रायोपवेशनम् च अपि संपातेः च अपि दर्शनम् ॥१-३-२६।॥",
+      "transliteration": "aṅgulīyaka dānam ca ṛkṣsya bila darśanam ।prāyopaveśanam ca api saṁpāteḥ ca api darśanam ॥1-3-26।॥",
+      "translations": {
+        "english": "(He described) the delivery of the ring (to Hanuman by Rama), the entry into the cave of the riksha, the preparations for their fast unto death, and the meeting with Sampati.",
+        "hindi": "रावण को देखना, पुष्पक बिमान को देखना, जहाँ रावण शराब पीता था उस घर में हनुमान जीका जाना आर अन्तःपुर अर्थात्‌ रावण की:खियों के रहने की जगह का अवलोकन,",
+        "telugu": "సుగ్రీవునిఉపేక్షకు శ్రీరాముడు కుపితుడగుట, సేనల సమీకరణము, సుగ్రీవుడు నలుదిక్కులకును వానరయోధులను పంపుచువారికి భౌగోళికాంశములను దెలుపుట, శ్రీరాముడు హనుమంతునకు అంగుళీయకమును ఇచ్చుట, జాంబవదాదులు స్వయంప్రభను దర్శించుట, ప్రాయోపవేశమునకు సిద్ధపడిన అంగదాదులు సంపాతిని దర్శించుట మున్నగు అంశములు వర్ణితములు."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 3,
+      "verse": 27,
+      "sloka": "पर्वत आरोहणम् च अपि सागर्स्य अपि लङ्घनम् ।समुद्र वचनात् च एव मैनाकस्य च दर्शनम् ॥१-३-२७।॥",
+      "transliteration": "parvata ārohaṇam ca api sāgarsya api laṅghanam ।samudra vacanāt ca eva mainākasya ca darśanam ॥1-3-27।॥",
+      "translations": {
+        "english": "(He described) the climbing of Mahendra mountain (by Hanuman), crossing the sea emergence of Mainaka hill at the command of the lord of ocean.",
+        "hindi": "",
+        "telugu": "మహేంద్రగిరినుండి హనుమంతుని సముద్రలంఘనము, సముద్రునిప్రేరణతో మైనాకునిఆతిథ్యప్రయత్నము, సురసను జయించుట, సింహికను వధించుట, లంకామలయపర్వతముల దర్శనము, రాత్రియందు మారుతి లంకలో ప్రవేశించి, ఒంటరిగా ఆలోచించుట, పానభూమిని, అంతఃపురమును గాలించుట, రావణుని దర్శించుట, పుష్పకమును పరిశీలించుట మున్నగు ఘట్టములు వక్కాణింపబడినవి."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 3,
+      "verse": 28,
+      "sloka": "राक्षसी तर्जनम् च एव छाया ग्राहस्य दर्शनम् ।सिंहिकायाः च निधनम् लङ्का मलय दर्शनम् ॥१-३-२८।॥",
+      "transliteration": "rākṣasī tarjanam ca eva chāyā grāhasya darśanam ।siṁhikāyāḥ ca nidhanam laṅkā malaya darśanam ॥1-3-28।॥",
+      "translations": {
+        "english": "﻿ (He described) the slaughter of (the female demon) Simhika, the viewing of in Lanka from a mountain, the entry into Lanka by night and thereafter, Hanuman's lonely thinking.",
+        "hindi": "छाया ग्रहण करने वाली सिंहिका राक्षसी का वध, लङ्का को देखना, रात्रि में हनुमान जी का लङ्का में प्रवेश करना, अकेले सोचना,",
+        "telugu": "మహేంద్రగిరినుండి హనుమంతుని సముద్రలంఘనము, సముద్రునిప్రేరణతో మైనాకునిఆతిథ్యప్రయత్నము, సురసను జయించుట, సింహికను వధించుట, లంకామలయపర్వతముల దర్శనము, రాత్రియందు మారుతి లంకలో ప్రవేశించి, ఒంటరిగా ఆలోచించుట, పానభూమిని, అంతఃపురమును గాలించుట, రావణుని దర్శించుట, పుష్పకమును పరిశీలించుట మున్నగు ఘట్టములు వక్కాణింపబడినవి."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 3,
+      "verse": 29,
+      "sloka": "रात्रौ लंका प्रवेशम् च एकस्य अपि विचिंतनम् ।आपान भूमि गमनम् अवरोधस्य दर्शनम् ॥१-३-२९।॥",
+      "transliteration": "rātrau laṁkā praveśam ca ekasya api viciṁtanam ।āpāna bhūmi gamanam avarodhasya darśanam ॥1-3-29।॥",
+      "translations": {
+        "english": "﻿﻿ (He described) the view of Ravana and the (aerial chariot), Pushpaka, (by Hanuman), his reaching the hall where liquor is served, sighting of womens' apartments in the royal palace.",
+        "hindi": "",
+        "telugu": "మహేంద్రగిరినుండి హనుమంతుని సముద్రలంఘనము, సముద్రునిప్రేరణతో మైనాకునిఆతిథ్యప్రయత్నము, సురసను జయించుట, సింహికను వధించుట, లంకామలయపర్వతముల దర్శనము, రాత్రియందు మారుతి లంకలో ప్రవేశించి, ఒంటరిగా ఆలోచించుట, పానభూమిని, అంతఃపురమును గాలించుట, రావణుని దర్శించుట, పుష్పకమును పరిశీలించుట మున్నగు ఘట్టములు వక్కాణింపబడినవి."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 3,
+      "verse": 30,
+      "sloka": "दर्शनम् रावणस्य अपि पुष्पकस्य च दर्शनम् ।अशोक वनिकायानम् सीतायाः च अपि दर्शनम् ॥१-३-३०।॥",
+      "transliteration": "darśanam rāvaṇasya api puṣpakasya ca darśanam ।aśoka vanikāyānam sītāyāḥ ca api darśanam ॥1-3-30।॥",
+      "translations": {
+        "english": "(He described) the entry (of Hanuman) into the Ashoka garden, the finding of Sita, the presentation of the ring (as token of recognition by Hanuman) and the sight of Ravana.",
+        "hindi": "",
+        "telugu": "మారుతి అశోకవనమునకు చేరుట, రావణుడు సీతను భయపెట్టుట, హనుమంతుడు సీతమ్మను దర్శించుట, ఆమెకు అంగుళీయకమును సమర్పించుట, ఆమెతో సంభాషించుట, రాక్షసస్త్రీలు సీతాదేవిని భయపెట్టుట, త్రిజటాస్వప్నవృత్తాంతము, సీతాదేవి చూడామణిని హనుమంతునకు ఇచ్చుట, మారుతి అశోకవనమును ధ్వంసమొనర్చుట - అను విషయములు వర్ణితములు."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 3,
+      "verse": 31,
+      "sloka": "अभिज्ञन प्रदानम् च सीतायाः च अपि भाषणम् ।राक्षसी तर्जनम् च एव त्रिजटा स्वप्न दर्शनम् ॥१-३-३१।॥",
+      "transliteration": "abhijñana pradānam ca sītāyāḥ ca api bhāṣaṇam ।rākṣasī tarjanam ca eva trijaṭā svapna darśanam ॥1-3-31।॥",
+      "translations": {
+        "english": "﻿ (He described) threatenings of the demonesses, (the narration of) dream by Trijata, Sita presenting chudamani to Hanuman and also the breaking of trees (in the grove by Hanuman).",
+        "hindi": "हनमान जी का सीता जी को चिन्हानी की अँगूठी देना, सीता जी के साथ हनुमान जी की बातचीत, सीता जी का हनुमान जी को चूडामणि देना, हनुमान जी द्वारा अशोकवाटिका के वृक्षों का नष्ट किया जाना,",
+        "telugu": "మారుతి అశోకవనమునకు చేరుట, రావణుడు సీతను భయపెట్టుట, హనుమంతుడు సీతమ్మను దర్శించుట, ఆమెకు అంగుళీయకమును సమర్పించుట, ఆమెతో సంభాషించుట, రాక్షసస్త్రీలు సీతాదేవిని భయపెట్టుట, త్రిజటాస్వప్నవృత్తాంతము, సీతాదేవి చూడామణిని హనుమంతునకు ఇచ్చుట, మారుతి అశోకవనమును ధ్వంసమొనర్చుట - అను విషయములు వర్ణితములు."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 3,
+      "verse": 32,
+      "sloka": "मणि प्रदानम् सीतायाः वृक्ष भंगम् तथ एव च ।राक्षसी विद्रवम् चैव किंकराणाम् निबर्हणम् ॥१-३-३२।॥",
+      "transliteration": "maṇi pradānam sītāyāḥ vṛkṣa bhaṁgam tatha eva ca ।rākṣasī vidravam caiva kiṁkarāṇām nibarhaṇam ॥1-3-32।॥",
+      "translations": {
+        "english": "﻿﻿﻿ (He described) the flight of the female demons, the killing of the servants (of Ravana), the seizure of Hanuman and the burning of Lanka (by Hanuman) with a ferocious roar.",
+        "hindi": "राक्षसियो का भागना और रावण के नौकरों का मारा जाना, हनुमान जी का पकड़ा जाना तथा हनुमान जी के द्वारा गरज कर, लङ्का का दरघ किया जाना,",
+        "telugu": "హనుమంతునకు భయపడి రాక్షసస్త్రీలు పాఱిపోవుట, కింకరనామకరాక్షసులను, తదితరరాక్షసయోధులను మారుతి మట్టుపెట్టుట, బ్రహ్మాస్త్రముచే బంధితుడైన వాయుసుతుడు రావణసభకు చేరుట, లంకను గాల్చుట, సముద్రముపై తిరుగుప్రయాణము, వానరులచే మధుభక్షణము, ఆంజనేయుడు రాముని ఓదార్చుట చూడామణిని సమర్పించుట మొదలగు అంశములు తెలుపబడినవి."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 3,
+      "verse": 33,
+      "sloka": "ग्रहणम् वायु सूनोश्च लंका दाह अभिगर्जनम् ।प्रति प्लवनम् एव अथ मधूनाम् हरणम् तथा ॥१-३-३३।॥",
+      "transliteration": "grahaṇam vāyu sūnośca laṁkā dāha abhigarjanam ।prati plavanam eva atha madhūnām haraṇam tathā ॥1-3-33।॥",
+      "translations": {
+        "english": "(He described) Hanuman crossing the ocean back, forcibly seizing the Madhu forest and enjoying honey, informing Rama about Sita and consoling him and delivering the gem.",
+        "hindi": "",
+        "telugu": "హనుమంతునకు భయపడి రాక్షసస్త్రీలు పాఱిపోవుట, కింకరనామకరాక్షసులను, తదితరరాక్షసయోధులను మారుతి మట్టుపెట్టుట, బ్రహ్మాస్త్రముచే బంధితుడైన వాయుసుతుడు రావణసభకు చేరుట, లంకను గాల్చుట, సముద్రముపై తిరుగుప్రయాణము, వానరులచే మధుభక్షణము, ఆంజనేయుడు రాముని ఓదార్చుట చూడామణిని సమర్పించుట మొదలగు అంశములు తెలుపబడినవి."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 3,
+      "verse": 34,
+      "sloka": "राघव आस्वासनम् चैव मणि निर्यातनम् तथा ।संगमम् च समुद्रेण नल सेतोः च बन्धनम् ॥१-३-३४।॥",
+      "transliteration": "rāghava āsvāsanam caiva maṇi niryātanam tathā ।saṁgamam ca samudreṇa nala setoḥ ca bandhanam ॥1-3-34।॥",
+      "translations": {
+        "english": "﻿ (He described) the meeting with the (lord of the) seas, the construction of bridge by Nala, the crossing of the ocean and the seige of Lanka during night.",
+        "hindi": "",
+        "telugu": "శ్రీరాముడు సైన్యములతో సముద్రతీరమునకు చేరుట, నలుడు సముద్రముపై సేతువును నిర్మించుట, సముద్రమును దాటి, రాత్రివేళ లంకను ముట్టడించుట, విభీషణశరణాగతి, రాక్షసయోధులను వధించు ఉపాయములను విభీషణుడు శ్రీరామునకు తెల్పుట, కుంభకర్ణమేఘనాదులసంహారము మున్నగు విషయములు వర్ణితములు."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 3,
+      "verse": 35,
+      "sloka": "प्रतारम् च समुद्रस्य रात्रौ लंका अवरोधनम् ।विभीषणेन संसर्गम् वधोपाय निवेदनम् ॥१-३-३५।॥",
+      "transliteration": "pratāram ca samudrasya rātrau laṁkā avarodhanam ।vibhīṣaṇena saṁsargam vadhopāya nivedanam ॥1-3-35।॥",
+      "translations": {
+        "english": "(He described) the association with Vibhisana, disclosure of the means of destruction (of Ravana), the death of Kumbhakarna, and the killing of Meghanada.",
+        "hindi": "",
+        "telugu": "శ్రీరాముడు సైన్యములతో సముద్రతీరమునకు చేరుట, నలుడు సముద్రముపై సేతువును నిర్మించుట, సముద్రమును దాటి, రాత్రివేళ లంకను ముట్టడించుట, విభీషణశరణాగతి, రాక్షసయోధులను వధించు ఉపాయములను విభీషణుడు శ్రీరామునకు తెల్పుట, కుంభకర్ణమేఘనాదులసంహారము మున్నగు విషయములు వర్ణితములు."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 3,
+      "verse": 36,
+      "sloka": "कुम्भकर्णस्य निधनम् मेघनाद निबर्हणम् ।रावणस्य विनाशम् च सीतावाप्तिम् अरेः पुरे ॥१-३-३६।॥",
+      "transliteration": "kumbhakarṇasya nidhanam meghanāda nibarhaṇam ।rāvaṇasya vināśam ca sītāvāptim areḥ pure ॥1-3-36।॥",
+      "translations": {
+        "english": "(He described) Ravana's destruction, the reunion with Sita in the enemycity, the coronation of Vibhishana and the sighting of Pushpaka.",
+        "hindi": "",
+        "telugu": "శ్రీరాముడు రావణుని పరిమార్చుట, సీతాదేవిని చేరదీయుట, విభీషణుని లంకాధిపతిని గావించి, పుష్పకమును అధిరోహించుట - విమానముపై అయోధ్యకు బయలుదేరుట, భరతునిగలియుట, శ్రీరాముడు రాజ్యాభిషిక్తుడగుట, వానరసైన్యములను వారివారి ప్రదేశములకు పంపివేయుట, ప్రజానురంజకముగా శ్రీరాముని పరిపాలనము, మున్నగు ఘట్టములు వర్ణింపబడినవి. ఇంతవరకునుగల రామాయణ కావ్యవిశేషములన్నియును ఆఱుకాండాములుగా వాల్మీకి మునిచే రచింపబడినవి. \"సీతా పరిత్యాగము\"ను, తదనంతర ఘట్టములను పూజ్యుడైన వాల్మీకి మహర్షి ఉత్తరకాండమున వివరించెను."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 3,
+      "verse": 37,
+      "sloka": "विभीषण अभिषेकम् च पुष्पकस्य च दर्शनम् ।अयोध्यायाः च गमनम् भरद्वाज समागमम् ॥१-३-३७।॥",
+      "transliteration": "vibhīṣaṇa abhiṣekam ca puṣpakasya ca darśanam ।ayodhyāyāḥ ca gamanam bharadvāja samāgamam ॥1-3-37।॥",
+      "translations": {
+        "english": "(He described) Rama's return to Ayodhya, the reunion with Bharata, the festive occasion of Rama's coronation disbanding the entire forces, keeping his subjects happy and banishing Sita (in the forest).",
+        "hindi": "",
+        "telugu": "శ్రీరాముడు రావణుని పరిమార్చుట, సీతాదేవిని చేరదీయుట, విభీషణుని లంకాధిపతిని గావించి, పుష్పకమును అధిరోహించుట - విమానముపై అయోధ్యకు బయలుదేరుట, భరతునిగలియుట, శ్రీరాముడు రాజ్యాభిషిక్తుడగుట, వానరసైన్యములను వారివారి ప్రదేశములకు పంపివేయుట, ప్రజానురంజకముగా శ్రీరాముని పరిపాలనము, మున్నగు ఘట్టములు వర్ణింపబడినవి. ఇంతవరకునుగల రామాయణ కావ్యవిశేషములన్నియును ఆఱుకాండాములుగా వాల్మీకి మునిచే రచింపబడినవి. \"సీతా పరిత్యాగము\"ను, తదనంతర ఘట్టములను పూజ్యుడైన వాల్మీకి మహర్షి ఉత్తరకాండమున వివరించెను."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 3,
+      "verse": 38,
+      "sloka": "प्रेषणम् वायु पुत्रस्य भरतेन समागमम् ।राम अभिषेक अभ्युदयम् सर्व सैन्य विसर्जनम् ।स्व राष्ट्र रंजनम् च एव वैदेह्याः च विसर्जनम् ॥१-३-३८।॥",
+      "transliteration": "preṣaṇam vāyu putrasya bharatena samāgamam ।rāma abhiṣeka abhyudayam sarva sainya visarjanam ।sva rāṣṭra raṁjanam ca eva vaidehyāḥ ca visarjanam ॥1-3-38।॥",
+      "translations": {
+        "english": "Divine sage Valmiki composed events yet to happen on this earth in the history of Rama in Uttarakanda. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे तृतीयस्सर्ग:।। Thus ends the third sarga of Balakanda of the holy Ramayana in synopsis of the first epic composed by sage Valmiki.",
+        "hindi": "इनके अतिरिक्त श्रीरामचन्द्र जी ने इस भूमण्डल पर और जो-जो चरित आगे किये, उन सत्र का वर्णन भी इस काव्य में भगवान वाल्मीकि जी ने किया",
+        "telugu": "శ్రీరాముడు రావణుని పరిమార్చుట, సీతాదేవిని చేరదీయుట, విభీషణుని లంకాధిపతిని గావించి, పుష్పకమును అధిరోహించుట - విమానముపై అయోధ్యకు బయలుదేరుట, భరతునిగలియుట, శ్రీరాముడు రాజ్యాభిషిక్తుడగుట, వానరసైన్యములను వారివారి ప్రదేశములకు పంపివేయుట, ప్రజానురంజకముగా శ్రీరాముని పరిపాలనము, మున్నగు ఘట్టములు వర్ణింపబడినవి. ఇంతవరకునుగల రామాయణ కావ్యవిశేషములన్నియును ఆఱుకాండాములుగా వాల్మీకి మునిచే రచింపబడినవి. \"సీతా పరిత్యాగము\"ను, తదనంతర ఘట్టములను పూజ్యుడైన వాల్మీకి మహర్షి ఉత్తరకాండమున వివరించెను."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 3,
+      "verse": 39,
+      "sloka": "अनागतम् च यत् किंचिद् रामस्य वसुधा तले ।तत् चकार उत्तरे काव्ये वाल्मीकिः भगवान् ऋषिः ॥१-३-३९॥",
+      "transliteration": "anāgatam ca yat kiṁcid rāmasya vasudhā tale ।tat cakāra uttare kāvye vālmīkiḥ bhagavān ṛṣiḥ ॥1-3-39॥",
+      "translations": {
+        "english": "",
+        "hindi": "",
+        "telugu": "శ్రీరాముడు రావణుని పరిమార్చుట, సీతాదేవిని చేరదీయుట, విభీషణుని లంకాధిపతిని గావించి, పుష్పకమును అధిరోహించుట - విమానముపై అయోధ్యకు బయలుదేరుట, భరతునిగలియుట, శ్రీరాముడు రాజ్యాభిషిక్తుడగుట, వానరసైన్యములను వారివారి ప్రదేశములకు పంపివేయుట, ప్రజానురంజకముగా శ్రీరాముని పరిపాలనము, మున్నగు ఘట్టములు వర్ణింపబడినవి. ఇంతవరకునుగల రామాయణ కావ్యవిశేషములన్నియును ఆఱుకాండాములుగా వాల్మీకి మునిచే రచింపబడినవి. \"సీతా పరిత్యాగము\"ను, తదనంతర ఘట్టములను పూజ్యుడైన వాల్మీకి మహర్షి ఉత్తరకాండమున వివరించెను."
+      }
+    }
+  ]
+}

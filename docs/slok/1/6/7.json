@@ -1,0 +1,14 @@
+{
+  "kanda": 1,
+  "kanda_name": "Bala Kanda",
+  "kanda_name_sanskrit": "बालकाण्डम्",
+  "sarga": 6,
+  "verse": 7,
+  "sloka": "न अल्प संनिचयः कश्चिद् आसीत् तस्मिन् पुरोत्तमे ।कुटुंबी यो हि असिद्धर्थः अगवा अश्व धन धान्यवान् ॥१-६-७॥",
+  "transliteration": "na alpa saṁnicayaḥ kaścid āsīt tasmin purottame ।kuṭuṁbī yo hi asiddharthaḥ agavā aśva dhana dhānyavān ॥1-6-7॥",
+  "translations": {
+    "english": "In that best of cities, there was not even a single householder who had not adequate wealth or who had not achieved dharma, artha and kama or who did not possess the wealth of foodgrains, cattle and horses.",
+    "hindi": "",
+    "telugu": "ఆ మహానగరమందలి గృహస్థులలొ ఏ ఒక్కడును సంపన్నుడు కానివాడుగాని, గోవులు, అశ్వములు, ధనధాన్య సమృద్ధియు లేనివాడుగాని లేడు. వారందఱును తమ సంపదలను ధర్మకార్యములకును, ధర్మబద్ధముగా అర్థ, కామపురుషార్థములను సాధించుటకును వినియోగించెడివారే."
+  }
+}

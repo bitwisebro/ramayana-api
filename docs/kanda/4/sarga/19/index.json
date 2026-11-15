@@ -1,0 +1,401 @@
+{
+  "kanda": 4,
+  "kanda_name": "Kishkindha Kanda",
+  "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+  "sarga": 19,
+  "verses_count": 28,
+  "verses": [
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 19,
+      "verse": 1,
+      "sloka": "स वानर महाराजः शयानः शर पीडितः ।प्रत्युक्तो हेतुमद् वाक्यैः न उत्तरम् प्रत्यपद्यत ॥४-१९-१॥",
+      "transliteration": "sa vānara mahārājaḥ śayānaḥ śara pīḍitaḥ ।pratyukto hetumad vākyaiḥ na uttaram pratyapadyata ॥4-19-1॥",
+      "translations": {
+        "english": "The king of monkeys lying on the ground struck by the arrow did not offer to reply after listening to Rama's appropriate answers (to his objections).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 19,
+      "verse": 2,
+      "sloka": "अश्मभिः परिभिन्न अंगः पादपैर् आहतो भृशम् ।राम बाणेन च आक्रान्तो जीवित अंते मुमोह सः ॥४-१९-२॥",
+      "transliteration": "aśmabhiḥ paribhinna aṁgaḥ pādapair āhato bhṛśam ।rāma bāṇena ca ākrānto jīvita aṁte mumoha saḥ ॥4-19-2॥",
+      "translations": {
+        "english": "Severely battered by stones, hit by trees and pierced by Rama's arrow, Vali lost consciousness as the end of his life was nearing.",
+        "hindi": "वह बाण से मारे गए और हाथी की तरह गिरे हुए वालि के निकट जा, उससे लिपट गई",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 19,
+      "verse": 3,
+      "sloka": "तम् भार्या बाण मोक्षेण राम दत्तेन संयुगे ।हतम् प्लवग शार्दूलम् तारा शुश्राव वालिनम् ॥४-१९-३॥",
+      "transliteration": "tam bhāryā bāṇa mokṣeṇa rāma dattena saṁyuge ।hatam plavaga śārdūlam tārā śuśrāva vālinam ॥4-19-3॥",
+      "translations": {
+        "english": "Tara, wife of Vali, heard that her husband, tiger among monkeys, was killed in the battle by the arrow discharged by Rama.",
+        "hindi": "फिर पर्वतेन्द्र के समान वानरेन्द्र बालि को उखडे हुए ब्रक्त की तरह खड़ा देख, वह विलाप कर कहने लगी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 19,
+      "verse": 4,
+      "sloka": "सा सपुत्र अप्रियम् श्रुत्वा वधम् भर्तुः सुदारुणम् ।निष्पपात भृशम् तस्मात् उद्विग्ना गिरि कंदरात् ॥४-१९-४॥",
+      "transliteration": "sā saputra apriyam śrutvā vadham bhartuḥ sudāruṇam ।niṣpapāta bhṛśam tasmāt udvignā giri kaṁdarāt ॥4-19-4॥",
+      "translations": {
+        "english": "Hearing the terrible, unhappy news of her husband's death, Tara anxiously rushed along with her son out of the mountain cave.",
+        "hindi": "युद्ध में दारुण विक्रम दिखाने वाले, उत्कृष्टवीर ओर वानर- श्रेष्ठ ! तुम इस समय इस दीना ओर तुममें अनुराग रखने वाली से क्‍यों नहीं बोलते ?",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 19,
+      "verse": 5,
+      "sloka": "ये ते अंगद परीवारा वानरा हि महाबलाः ।ते सकार्मुकम् आलोक्य रामम् त्रस्ताः प्रदुद्रुवुः ॥४-१९-५॥",
+      "transliteration": "ye te aṁgada parīvārā vānarā hi mahābalāḥ ।te sakārmukam ālokya rāmam trastāḥ pradudruvuḥ ॥4-19-5॥",
+      "translations": {
+        "english": "Alarmed at the sight of Rama holding the bow, the terribly courageous monkeys who followed Angada as his bodyguards ran in different directions.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 19,
+      "verse": 6,
+      "sloka": "सा ददर्श ततः त्रस्तान् हरीन् आपततो द्रुतम् ।यूथाद् इव परिभ्रष्टान् मृगान् निहत यूथपान् ॥४-१९-६॥",
+      "transliteration": "sā dadarśa tataḥ trastān harīn āpatato drutam ।yūthād iva paribhraṣṭān mṛgān nihata yūthapān ॥4-19-6॥",
+      "translations": {
+        "english": "Tara saw the terrorstricken monkeys running helterskelter, like the herd of deer whose leader who had strayed had been killed.",
+        "hindi": "हे प्रथिवीनाथ ! मैं जान गई कि, यद्द थिवी तुमको अतीव प्रिय है । क्‍योंकि तुम प्राणहीन होकर भी, मुके छोड़ अपने शारीर से प्रथिवी को चिपटाए हुए हो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 19,
+      "verse": 7,
+      "sloka": "तान् उवाच समासाद्य दुःखितान् दुःखिता सती ।राम वित्रासितान् सर्वान् अनुबद्धान् इव इषुभिः ॥४-१९-७॥",
+      "transliteration": "tān uvāca samāsādya duḥkhitān duḥkhitā satī ।rāma vitrāsitān sarvān anubaddhān iva iṣubhiḥ ॥4-19-7॥",
+      "translations": {
+        "english": "Sorrowful Tara, the wife of Vali, duly approaching the monkeys stricken with grief and running as if chased by the arrows of Rama at their back, said to them:",
+        "hindi": "हे वीर! मैं जान गई । तुमने आज अपने घर्मबल से किष्किन्था की तरह स्वर्ग के मार्ग में कोई और रपणीकपुरी बनाई हे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 19,
+      "verse": 8,
+      "sloka": "वानरा राज सिंहस्य यस्य यूयम् पुरः सराः ।तम् विहाय सुवित्रस्ताः कस्माद् द्रवत दुर्गताः ॥४-१९-८॥",
+      "transliteration": "vānarā rāja siṁhasya yasya yūyam puraḥ sarāḥ ।tam vihāya suvitrastāḥ kasmād dravata durgatāḥ ॥4-19-8॥",
+      "translations": {
+        "english": "'O monkeys deserting the lion among kings,whose servants you are ? What should you be frightened for ? Why run away in distress?",
+        "hindi": "तुम्हारे साथ बसन्त ऋतु में हम लोगों ने, जा विहार सुगन्धि- युक्त वनों में किए हैँ, वे सब आज तुम्हारे साथ ही समाप्त हो गए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 19,
+      "verse": 9,
+      "sloka": "राज्य हेतोः स चेत् भ्राता भ्रात्रा कॄरेण पातितः ।रामेण प्रसृतैः दूरात् मार्गणैः दूर पातिभिः ॥४-१९-९॥",
+      "transliteration": "rājya hetoḥ sa cet bhrātā bhrātrā kṝreṇa pātitaḥ ।rāmeṇa prasṛtaiḥ dūrāt mārgaṇaiḥ dūra pātibhiḥ ॥4-19-9॥",
+      "translations": {
+        "english": "'If the (elder) brother is struck down by his (younger) brother in anger for the sake of kingship using farreaching arrows discharged by Rama, why are you running?'",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 19,
+      "verse": 10,
+      "sloka": "कपि पत्न्या वचः श्रुत्वा कपयः काम रूपिणः ।प्राप्त कालम् अविश्लिष्टम् ऊचुर् वचनम् अंगनाम् ॥४-१९-१०॥",
+      "transliteration": "kapi patnyā vacaḥ śrutvā kapayaḥ kāma rūpiṇaḥ ।prāpta kālam aviśliṣṭam ūcur vacanam aṁganām ॥4-19-10॥",
+      "translations": {
+        "english": "On hearing Tara, the wife of Vali, the monkeys who could assume any form at their will replied with clear words appropriate to the occasion:",
+        "hindi": "हाय ! मेरा यह हृदय केसा कठोर है, जो तुमको भूमि पर गिरा देख, शोक से सन्तप्त हो, डकडे टुकड़े नहीं हो जाता",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 19,
+      "verse": 11,
+      "sloka": "जीवपुत्रे निवर्तस्व पुत्रम् रक्षस्व च अन्दगम् ।अंतको राम रूपेण हत्वा नयति वालिनम् ॥४-१९-११॥",
+      "transliteration": "jīvaputre nivartasva putram rakṣasva ca andagam ।aṁtako rāma rūpeṇa hatvā nayati vālinam ॥4-19-11॥",
+      "translations": {
+        "english": "'O mother, your son is still alive. Go back and protect your son Angada. Lord of death in the form of Rama has come and killed Vali and is carrying him away.",
+        "hindi": "न | ब्युष्टि--फल । गो० बटर ses बिंशः सगः १८६ तमने सुग्रीव की भार्या को छीन कर, सुग्रीव को बन में निकाल दिआ, सो हे वानरराज! आज यह उसी कम का फल प्राप्त हुआ है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 19,
+      "verse": 12,
+      "sloka": "क्षिप्तान् वृक्षान् समाविध्य विपुलाः च शिलाः तथा ।वाली वज्र समैर् बाणैर् वज्रेण इव निपातितः ॥४-१९-१२॥",
+      "transliteration": "kṣiptān vṛkṣān samāvidhya vipulāḥ ca śilāḥ tathā ।vālī vajra samair bāṇair vajreṇa iva nipātitaḥ ॥4-19-12॥",
+      "translations": {
+        "english": "'Rama smashed the trees and stones Vali hurled at him and then struck him down with thunderboltlike arrows.",
+        "hindi": "हे वानरेन्द्र ! में सदा से तुम्हारा कल्यार चाहने वाली ओर हितैषिणी हूँ । किन्तु तुमने तो मोहबश, हित की बातें कहने पर भी सुक्को ठुत्कार दिआ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 19,
+      "verse": 13,
+      "sloka": "अभिभूतम् इदम् सर्वम् विद्रुतम् वानरम् बलम् ।अस्मिन् प्लवग शार्दूले हते शक्र सम प्रभे ॥४-१९-१३॥",
+      "transliteration": "abhibhūtam idam sarvam vidrutam vānaram balam ।asmin plavaga śārdūle hate śakra sama prabhe ॥4-19-13॥",
+      "translations": {
+        "english": "'When Vali who was equal to Indra in strength, a tiger among monkeys, was killed, the army of monkeys got terrified and ran away here and there, scattered in different directions.",
+        "hindi": "हे मानद ! मुझे निश्चय है कि, अब तुम स्वगे में जा वहाँ पर अपने रूप यौवन से गर्दित हो, परम चतुरा अप्सराओं के मन को सुग्धकर दोगे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 19,
+      "verse": 14,
+      "sloka": "रक्ष्यताम् नगरम् शूरैर् अंगदः च अभिषिच्यताम् ।पदस्थम् वालिनः पुत्रम् भजिष्यन्ति प्लवंगमाः ॥४-१९-१४॥",
+      "transliteration": "rakṣyatām nagaram śūrair aṁgadaḥ ca abhiṣicyatām ।padastham vālinaḥ putram bhajiṣyanti plavaṁgamāḥ ॥4-19-14॥",
+      "translations": {
+        "english": "'Let the gate of the city be shut and Vali's son be consecrated as king. All the monkeys will serve him when he assumes power.",
+        "hindi": "कालो निःसंशयो नूनं जीवितान्तकरस्तव । लाद्येनावपन्तोऽसि सुग्रीवस्यावशो वशम्‌ ॥१४ मैंने निश्‍चय कर के जान लिआ है कि, जीवन का अन्त करने चाले काल ने वरजोरी तुमको यहाँ ला कर सुग्रीब के वश में कर दिआ है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 19,
+      "verse": 15,
+      "sloka": "अथवा अरुचितम् स्थानम् इह ते रुचिरानने ।आविशन्ति हि दुर्गाणि क्षिप्रम् अद्य एव वानराः ॥४-१९-१५॥",
+      "transliteration": "athavā arucitam sthānam iha te rucirānane ।āviśanti hi durgāṇi kṣipram adya eva vānarāḥ ॥4-19-15॥",
+      "translations": {
+        "english": "'O lovely Tara, this very day other monkeys will soon occupy our citadels.",
+        "hindi": "नय जो मैं अभी तक कभी दीन नहीं हुई थी, सो आज दीन हुई और सदा सुख से पली हुई मुझको, अब विघवापन का शोक आर सन्ताप भोगना पड़ेगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 19,
+      "verse": 16,
+      "sloka": "अभार्याः सह भार्याः च सन्ति अत्र वन चारिणः ।लुब्धेभ्यो विप्रलब्धेयः तेभ्यो नः सुमहद् भयम् ॥४-१९-१६॥",
+      "transliteration": "abhāryāḥ saha bhāryāḥ ca santi atra vana cāriṇaḥ ।lubdhebhyo vipralabdheyaḥ tebhyo naḥ sumahad bhayam ॥4-19-16॥",
+      "translations": {
+        "english": "'There are monkeys wandering in the forest (sent away by Vali). Some of them have made others' wives their own and some have been separated from their wives. They are a great cause of fear.'",
+        "hindi": "हाय ! अब मेरे इस दुलारे ऑर सुख भोगने योग्य बीर सकुमार अङ्गद की क्या दशा होगी । क्योंकि सुग्रीव क्रोधी स्वभाव का ठहरा । उससे अङ्गद से केसे पटेगी ?",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 19,
+      "verse": 17,
+      "sloka": "अल्पांतर गतानाम् तु श्रुत्वा वचनम् अंगना ।आत्मनः प्रतिरूपम् सा बभाषे चारु हासिनी ॥४-१९-१७॥",
+      "transliteration": "alpāṁtara gatānām tu śrutvā vacanam aṁganā ।ātmanaḥ pratirūpam sā babhāṣe cāru hāsinī ॥4-19-17॥",
+      "translations": {
+        "english": "Hearing the words of the pettyminded monkeys, Tara spoke to them in her own way with a gentle smile:",
+        "hindi": "बेटा ! अपने धसंवत्सल पिता का अन्तिम बार दशन कर लो, क्योंकि फिर इनका दशन तुमको दुर्लभ हो जायगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 19,
+      "verse": 18,
+      "sloka": "पुत्रेण मम किम् कार्यम् किम् राज्येन किम् आत्मना ।कपि सिम्हे महा भागे तस्मिन् भर्तरि नश्यति ॥४-१९-१८॥",
+      "transliteration": "putreṇa mama kim kāryam kim rājyena kim ātmanā ।kapi simhe mahā bhāge tasmin bhartari naśyati ॥4-19-18॥",
+      "translations": {
+        "english": "'Now that the glorious Vali, a lion among monkeys, my husband is dying, of what purpose is the son, or the kingdom or my own life?",
+        "hindi": "हे नाथ ! अपने इस पुत्र को ढाढस वंधाओ और मुझसे जो कुठे कहना हो सो कह्‌ दो । पुत्र का मस्तक सुध लो, क्योंकि अब तो तम सदा के लिए परदेश जा ही रहे हो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 19,
+      "verse": 19,
+      "sloka": "पाद मूलम् गमिष्यामि तस्य एव अहम् महात्मनः ।यो असौ राम प्रयुक्तेन शरेण विनिपातितः ॥४-१९-१९॥",
+      "transliteration": "pāda mūlam gamiṣyāmi tasya eva aham mahātmanaḥ ।yo asau rāma prayuktena śareṇa vinipātitaḥ ॥4-19-19॥",
+      "translations": {
+        "english": "'I will seek the soles of the feet of the great soul who has been killed by the arrow discharged by Rama.'",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 19,
+      "verse": 20,
+      "sloka": "एवम् उक्त्वा प्रदुद्राव रुदती शोक मूर्च्छिता ।शिरः च उरः च बाहुभ्याम् दुःखेन समभिघ्नती ॥४-१९-२०॥",
+      "transliteration": "evam uktvā pradudrāva rudatī śoka mūrcchitā ।śiraḥ ca uraḥ ca bāhubhyām duḥkhena samabhighnatī ॥4-19-20॥",
+      "translations": {
+        "english": "So saying, the griefstricken, weeping Tara hastened, sadly beating with both hands her head and her chest.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 19,
+      "verse": 21,
+      "sloka": "सा व्रजन्ती ददर्श अथ पतिम् निपतितम् भुवि ।हन्तारम् दानव इन्द्राणाम् समरेषु अनिवर्तिनाम् ॥४-१९-२१॥",
+      "transliteration": "sā vrajantī dadarśa atha patim nipatitam bhuvi ।hantāram dānava indrāṇām samareṣu anivartinām ॥4-19-21॥",
+      "translations": {
+        "english": "As she was nearing (the spot) she saw her husband, a great conqueror of monkeys who never retreated from the battle, mortally hit and fallen on the ground.",
+        "hindi": "हे वानरेश्वर ! में आपको प्यारी पत्नी आपके सामने खड़ी रो रही हूँ, सो तुम मुझसे बोलते क्‍या नहा । यह देखा, तुम री अन्य स्त्रियां भी तमको घेरे खड़ा हुई विल्लाप कर रही हें",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 19,
+      "verse": 22,
+      "sloka": "क्षेप्तारम् पर्वत इन्द्राणाम् वज्राणाम् इव वासवम् ।महावात समाविष्टम् महामेघ औघ निःस्वनम् ॥४-१९-२२॥",
+      "transliteration": "kṣeptāram parvata indrāṇām vajrāṇām iva vāsavam ।mahāvāta samāviṣṭam mahāmegha augha niḥsvanam ॥4-19-22॥",
+      "translations": {
+        "english": "Vali who used to hurl huge mountains like Indra discharges thunderbolts, who had the speed of wind of high velocity, who would roar like huge thundering clouds,",
+        "hindi": "इस प्रकार का तारा का विलाप सुन, व॑ सब वानरियाँ अङ्गद को पकड़ दु;ख से विकल हो चिल्ला कर कहने लगी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 19,
+      "verse": 23,
+      "sloka": "शक्रतुल्य पराक्रांतम् वृष्ट्वा इव उपरतम् घनम् ।नर्दन्तम् नर्दताम् भीमम् शूरम् शूरेण पातितम् ।शार्दूलेन आमिषस्य अर्थे मृग राजम् इव आहतम् ॥४-१९-२३॥",
+      "transliteration": "śakratulya parākrāṁtam vṛṣṭvā iva uparatam ghanam ।nardantam nardatām bhīmam śūram śūreṇa pātitam ।śārdūlena āmiṣasya arthe mṛga rājam iva āhatam ॥4-19-23॥",
+      "translations": {
+        "english": "(Vali) who was equal to Indra in prowess looked like a huge monsoon cloud that had calmed down after pouring all water, a roaring warrior who could frighten others, struck down by another warrior, appeared like a lion killed by a tiger for the sake of meat",
+        "hindi": "हे वीरवर ! तुम इस प्रियद्शन अङ्गद को छोड़ अनन्त काल के लिए क्यों यात्रा करते हो ? अपने मान गुणवान्‌ और सुन्दर एवं मनोहर रूप बाले पुत्र का त्याग कर जाना तमक्रो. उचित नहीं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 19,
+      "verse": 24,
+      "sloka": "अर्चितम् सर्व लोकस्य सपताकम् सवेदिकम् ।नाग हेतोः सुपर्णेन चैत्यम् उन्मथितम् यथा ॥४-१९-२४॥",
+      "transliteration": "arcitam sarva lokasya sapatākam savedikam ।nāga hetoḥ suparṇena caityam unmathitam yathā ॥4-19-24॥",
+      "translations": {
+        "english": "Vali looked like a chaitya (a tree of worship) having a banner and altar and reverentially worshipped by the entire world, but destroyed by Garuda on account of a serpent (hidden in it). (Here Rama is Garuda, Sugriva, serpent and Vali a sacred Chaitya)",
+        "hindi": "किष्किन्धाकाण्डे ` हे प्रिय चारु वेषधारी ! क्या मुझसे या अङ्गद से कोई अप- राध बन आया हे जो तुम अङ्गद सहित मुझको छोड़ यहाँ से इतने दूर देश की यात्रा के लिए प्रस्थान कर रहे हो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 19,
+      "verse": 25,
+      "sloka": "अवष्टभ्य अवतिष्ठंतम् ददर्श धनुर् ऊर्जितम् ।रामम् रामानुजम् चैव भर्तुः चैव तथा अनुजम् ॥४-१९-२५॥",
+      "transliteration": "avaṣṭabhya avatiṣṭhaṁtam dadarśa dhanur ūrjitam ।rāmam rāmānujam caiva bhartuḥ caiva tathā anujam ॥4-19-25॥",
+      "translations": {
+        "english": "The auspicious lady Tara beheld Rama standing there firmly with his brother and Sugriva, leaning on the best of bows.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 19,
+      "verse": 26,
+      "sloka": "तान् अतीत्य समासाद्य भर्तारम् निहतम् रणे ।समीक्ष्य व्यथिता भूमौ संभ्रांता निपपात ह ॥४-१९-२६॥",
+      "transliteration": "tān atītya samāsādya bhartāram nihatam raṇe ।samīkṣya vyathitā bhūmau saṁbhrāṁtā nipapāta ha ॥4-19-26॥",
+      "translations": {
+        "english": "Passing Rama and Lakshmana, she went near her husband killed in the combat. She was full of agony to see him. Deeply agitated in the mind, she fell down on the ground.",
+        "hindi": "तथा तु तारा करुण रुदन्ती भर्तः समीपे सह वानरीभिः । व्यवस्यत भायमुपोपवेष्टु- सनिन्यवरणा भुवि यत्र वाली",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 19,
+      "verse": 27,
+      "sloka": "सुप्ता इव पुनर् उत्थाय आर्य पुत्र इति वादिनी ।रुरोद सा पतिम् दृष्ट्वा सम्वीतम् मृत्यु दामभिः ॥४-१९-२७॥",
+      "transliteration": "suptā iva punar utthāya ārya putra iti vādinī ।ruroda sā patim dṛṣṭvā samvītam mṛtyu dāmabhiḥ ॥4-19-27॥",
+      "translations": {
+        "english": "Tara got up again, as if she woke up from sleep and addressing her husband garlanded with death, lamented.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 19,
+      "verse": 28,
+      "sloka": "ताम् अवेक्ष्य तु सुग्रीवः क्रोशन्तीम् कुररीम् इव ।विषादम् अगमत् कष्टम् दृष्ट्वा च अंगदम् आगतम् ॥४-१९-२८॥",
+      "transliteration": "tām avekṣya tu sugrīvaḥ krośantīm kurarīm iva ।viṣādam agamat kaṣṭam dṛṣṭvā ca aṁgadam āgatam ॥4-19-28॥",
+      "translations": {
+        "english": "Seeing Tara crying like a female osprey and Angada following her in despair, Sugriva felt pain (at heart). इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये किष्किन्धाकाण्डे एकोनविंशस्सर्गः।। Thus ends the nineteenth sarga of Kishkindakanda of the Holy Ramayana, the first epic composed by sage Valmiki.",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

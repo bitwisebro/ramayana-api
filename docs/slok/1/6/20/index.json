@@ -1,0 +1,14 @@
+{
+  "kanda": 1,
+  "kanda_name": "Bala Kanda",
+  "kanda_name_sanskrit": "बालकाण्डम्",
+  "sarga": 6,
+  "verse": 20,
+  "sloka": "सा तेन इक्ष्वाकु नाथेन पुरी सु परिरक्षिता ।यथा पुरस्तात् मनुना मानवेन्द्रेण धीमता ॥१-६-२०॥",
+  "transliteration": "sā tena ikṣvāku nāthena purī su parirakṣitā ।yathā purastāt manunā mānavendreṇa dhīmatā ॥1-6-20॥",
+  "translations": {
+    "english": "That city was ably governed by Dasaratha, scion of the Ikshvakus, in the same way as it was previously administered by (Manu), the foremost among men and and the most intelligent.",
+    "hindi": "महाराज दशरथ उसी प्रकार अयोध्यापुरी का पालन किया करते थे, जिस प्रकार उनके पूर्वज बुद्धिमान्‌ नरेन्द्र महाराज मनु कर चुके थे",
+    "telugu": "ఇక్ష్వాకువంశజుడైన దశరథమహారాజు ఆ అయోధ్యానగరమును పూర్వము ప్రతిభామూర్తియు, మానవేంద్రుడును ఐన మనువువలె చక్కగా రక్షించుచుండెను."
+  }
+}

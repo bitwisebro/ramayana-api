@@ -1,0 +1,667 @@
+{
+  "kanda": 2,
+  "kanda_name": "Ayodhya Kanda",
+  "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+  "sarga": 30,
+  "verses_count": 47,
+  "verses": [
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 30,
+      "verse": 1,
+      "sloka": "सान्त्व्यमाना तु रामेण मैथिली जनक आत्मजा ।वन वास निमित्ताय भर्तारम् इदम् अब्रवीत् ॥२-३०-१॥",
+      "transliteration": "sāntvyamānā tu rāmeṇa maithilī janaka ātmajā ।vana vāsa nimittāya bhartāram idam abravīt ॥2-30-1॥",
+      "translations": {
+        "english": "In response to Rama's consolation with regard to her stay in the forest, the daughter of Janaka, Maithili (Sita) said:",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 30,
+      "verse": 2,
+      "sloka": "सा तम् उत्तम सम्विग्ना सीता विपुल वक्षसम् ।प्रणयाच् च अभिमानाच् च परिचिक्षेप राघवम् ॥२-३०-२॥",
+      "transliteration": "sā tam uttama samvignā sītā vipula vakṣasam ।praṇayāc ca abhimānāc ca paricikṣepa rāghavam ॥2-30-2॥",
+      "translations": {
+        "english": "Sita agitated over a supreme cause upbraided the broadchested scion of the Raghu race out of love and injured selfrespect.",
+        "hindi": "लक्ष्मण ने भाई के चरणां में प्रणाम कर, महायशस्विनी जानकी | जी ओर सहाव्रतघारी श्रीरासचन्द्र जी से कहा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 30,
+      "verse": 3,
+      "sloka": "किम् त्वा अमन्यत वैदेहः पिता मे मिथिला अधिपः ।राम जामातरम् प्राप्य स्त्रियम् पुरुष विग्रहम् ॥२-३०-३॥",
+      "transliteration": "kim tvā amanyata vaidehaḥ pitā me mithilā adhipaḥ ।rāma jāmātaram prāpya striyam puruṣa vigraham ॥2-30-3॥",
+      "translations": {
+        "english": "O Rama while accepting you as soninlaw did my father, king of Mithila and lord of Videha ever think that you are a woman in the guise of a man?",
+        "hindi": "यदि म्रगों ओर गर्जो से भरे हुए वन में जाने का तुम निश्चय कर चुके हो, तो में तुम्हारे आगे धनुष पर वाण चढाए चलू'गा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 30,
+      "verse": 4,
+      "sloka": "अनृतम् बल लोको अयम् अज्ञानात् यद्द् हि वक्ष्यति ।तेजो न अस्ति परम् रामे तपति इव दिवा करे ॥२-३०-४॥",
+      "transliteration": "anṛtam bala loko ayam ajñānāt yadd hi vakṣyati ।tejo na asti param rāme tapati iva divā kare ॥2-30-4॥",
+      "translations": {
+        "english": "Alas that will be a falschood if people out of ignorance say that there is no supreme splendour in Rama like the shining Sun.",
+        "hindi": "हे श्रीरामचन्द्र ! तुमको छोड़, न तो मुझे; देवलोक की, न अमरत्व की ओर न अन्य लोकों के ऐश्वर्य की चाहना है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 30,
+      "verse": 5,
+      "sloka": "किम् हि कृत्वा विषण्णः त्वम् कुतः वा भयम् अस्ति ते ।यत् परित्यक्तु कामः त्वम् माम् अनन्य परायणाम् ॥२-३०-५॥",
+      "transliteration": "kim hi kṛtvā viṣaṇṇaḥ tvam kutaḥ vā bhayam asti te ।yat parityaktu kāmaḥ tvam mām ananya parāyaṇām ॥2-30-5॥",
+      "translations": {
+        "english": "What may be the cause for your fear and depression behind your desire to desert one who is so exclusively devoted to you?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 30,
+      "verse": 6,
+      "sloka": "द्युमत्सेन सुतम् वीर सत्यवन्तम् अनुव्रताम् ।सावित्रीम् इव माम् विद्धि त्वम् आत्म वश वर्तिनीम् ॥२-३०-६॥",
+      "transliteration": "dyumatsena sutam vīra satyavantam anuvratām ।sāvitrīm iva mām viddhi tvam ātma vaśa vartinīm ॥2-30-6॥",
+      "translations": {
+        "english": "Know, O valiant one, that by remaining subordinate to you, I am as faithful to you as Savitri was to her husband, Satyavanta, son of Dyumatsena.",
+        "hindi": "श्रीरामचन्द्र ने लक्ष्मण के इस प्रकार कहने पर और उनको | चन में जाने को उद्यत देख, बहुत प्रकार से समझाया और बन में `. . चलने को बजी । तव लक्ष्मण फिर बोले",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 30,
+      "verse": 7,
+      "sloka": "न तु अहम् मनसा अपि अन्यम् द्रष्टा अस्मि त्वद् ऋते अनघ ।त्वया राघव गच्चेयम् यथा अन्या कुल पाम्सनी ॥२-३०-७॥",
+      "transliteration": "na tu aham manasā api anyam draṣṭā asmi tvad ṛte anagha ।tvayā rāghava gacceyam yathā anyā kula pāmsanī ॥2-30-7॥",
+      "translations": {
+        "english": "O sinless son of the Raghus I am not like other women who bring disgreace to the family. I have not looked at any one except you, even with my mind's eye. I will go (to the forest) along with you.",
+        "hindi": "॥ भाई ! पहले आपने मुझे जो आज्ञा दी थी, उसका निषेध अब | आग क्योंकरते हैं । अथात्‌ आप पहले मुझसे कह चुके हैं कि बन ' f में चलना, अब आप अपने साथ मुझे ले चलने के लिए मना क्यों | ` करते हें?",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 30,
+      "verse": 8,
+      "sloka": "स्वयम् तु भार्याम् कौमारीम् चिरम् अध्युषिताम् सतीम् ।शैलूषैव माम् राम परेभ्यो दातुम् इच्चसि ॥२-३०-८॥",
+      "transliteration": "svayam tu bhāryām kaumārīm ciram adhyuṣitām satīm ।śailūṣaiva mām rāma parebhyo dātum iccasi ॥2-30-8॥",
+      "translations": {
+        "english": "I have been living with you for a long time, O Rama I am young and chaste. Why do you, like an actor, wish to hand me over to others.",
+        "hindi": "टिप्पणी --इस लोक में श्रीराम के प्रति भवता'--्ग्राप शब्द | . श्रायादै । अन्य पूव के श्लोको में स्वंका प्रयोग किया गया है । ] डे ४ यंदर्थे प्रतिषेधो में क्रियते गन्तुमिच्छतः एतदिच्छामि विज्ञातु, संशयो हि ममानघ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 30,
+      "verse": 9,
+      "sloka": "यस्य पथ्यम् च रामात्थ यस्य चार्थेऽवरुध्यसे ।त्वम् तस्य भव वश्यश्च विधेयश्छ सदानघ॥२-३०-९॥",
+      "transliteration": "yasya pathyam ca rāmāttha yasya cārthe'varudhyase ।tvam tasya bhava vaśyaśca vidheyaścha sadānagha॥2-30-9॥",
+      "translations": {
+        "english": "You, O sinless Rama, may become subservient and obedient to them about whose wellfare you are speaking of and on account of whom you are preventing me to go (along with you).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 30,
+      "verse": 10,
+      "sloka": "स माम् अनादाय वनम् न त्वम् प्रस्थातुम् अर्हसि ।तपो वा यदि वा अरण्यम् स्वर्गो वा स्यात् सह त्वया ॥२-३०-१०॥",
+      "transliteration": "sa mām anādāya vanam na tvam prasthātum arhasi ।tapo vā yadi vā araṇyam svargo vā syāt saha tvayā ॥2-30-10॥",
+      "translations": {
+        "english": "You should not depart for the forest without taking me. Be it for penance or for the forest or for heaven, I wish to be with you.",
+        "hindi": "हे लक्ष्मण ! तुम मेरे स्नेही, धम में रत, शूर, सदेव सन्मार्ग पर चलने बाले, प्राण के समान प्रिय, मेरे दास, छोटे भाई और मित्र भी हो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 30,
+      "verse": 11,
+      "sloka": "न च मे भविता तत्र कश्चित् पथि परिश्रमः ।पृष्ठतः तव गच्चन्त्या विहार शयनेष्व् अपि ॥२-३०-११॥",
+      "transliteration": "na ca me bhavitā tatra kaścit pathi pariśramaḥ ।pṛṣṭhataḥ tava gaccantyā vihāra śayaneṣv api ॥2-30-11॥",
+      "translations": {
+        "english": "While following you, I will feel no fatigue there on the way as if I am going on a pleasurestroll or in a comfortable couch.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 30,
+      "verse": 12,
+      "sloka": "कुश काश शर इषीका ये च कण्टकिनो द्रुमाः ।तूल अजिन सम स्पर्शा मार्गे मम सह त्वया ॥२-३०-१२॥",
+      "transliteration": "kuśa kāśa śara iṣīkā ye ca kaṇṭakino drumāḥ ।tūla ajina sama sparśā mārge mama saha tvayā ॥2-30-12॥",
+      "translations": {
+        "english": "The white reeds, the kusha, the sara and the ishika grasses and thorny trees on the way will feel as soft as cotton or as the skin of a black antelope.",
+        "hindi": "स्निरधः _ मद्विषयकस्नेहवान्‌ ।( शि० ) २ इतरेषामवश्यः समत विधेयः किङ्करः । ( स० ) क - 22252 4 23 Po जिरा ९ देखो जो महातेजस्वी महाराज, सब के मनोरथों को उसी प्रकार पूण करते थे, जिस प्रकार मेघ पृथ्वी के सब मनोरथों को पूरण करते हैं, वे तो कामवश हो रहे हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 30,
+      "verse": 13,
+      "sloka": "महा वात समुद्धूतम् यन् माम् अवकरिष्यति ।रजो रमण तन् मन्ये पर अर्ध्यम् इव चन्दनम् ॥२-३०-१३॥",
+      "transliteration": "mahā vāta samuddhūtam yan mām avakariṣyati ।rajo ramaṇa tan manye para ardhyam iva candanam ॥2-30-13॥",
+      "translations": {
+        "english": "I shall regard, O charming Rama, the harmful dust raised by the stormy wind and settled on me as the most excellent sandal powder.",
+        "hindi": "बेटी कैकेयी जब राजमाता होगी, तब वह अपनी दुःखिनी सोतों के प्रति अच्छा बतीब न करेगी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 30,
+      "verse": 14,
+      "sloka": "शाद्वलेषु यद् आसिष्ये वन अन्ते वन गोरचा ।कुथा आस्तरण तल्पेषु किम् स्यात् सुखतरम् ततः ॥२-३०-१४॥",
+      "transliteration": "śādvaleṣu yad āsiṣye vana ante vana goracā ।kuthā āstaraṇa talpeṣu kim syāt sukhataram tataḥ ॥2-30-14॥",
+      "translations": {
+        "english": "O rover of the forest I will feel happier when I sleep on the meadows (of tender green grass) on the outskirts of the forest than when I sleep on the couch spread with carpets.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 30,
+      "verse": 15,
+      "sloka": "पत्रम् मूलम् फलम् यत् त्वम् अल्पम् वा यदि वा बहु ।दास्यसि स्वयम् आहृत्य तन् मे अमृत रस उपमम् ॥२-३०-१५॥",
+      "transliteration": "patram mūlam phalam yat tvam alpam vā yadi vā bahu ।dāsyasi svayam āhṛtya tan me amṛta rasa upamam ॥2-30-15॥",
+      "translations": {
+        "english": "Whatever leaves or roots or fruits you collect with your own hands for me little or much, they will be nectar to me.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 30,
+      "verse": 16,
+      "sloka": "न मातुर् न पितुस् तत्र स्मरिष्यामि न वेश्मनः ।आर्तवानि उपभुन्जाना पुष्पाणि च फलानि च ॥२-३०-१६॥",
+      "transliteration": "na mātur na pitus tatra smariṣyāmi na veśmanaḥ ।ārtavāni upabhunjānā puṣpāṇi ca phalāni ca ॥2-30-16॥",
+      "translations": {
+        "english": "Enjoying the seasonal flowers and fruits in the forest, I will not remember my mother or father or home.",
+        "hindi": "हे धमज्ञ! इस प्रकार कार्य करने से, मेरे में तेरी परम भक्ति प्रदर्शित होगी ओर साथ ही माताओं की सेवा से तुमको बड़ा भारी पुण्य भी प्राप्त होगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 30,
+      "verse": 17,
+      "sloka": "न च तत्र गतः किम्चित् द्रष्टुम् अर्हसि विप्रियम् ।मत् कृते न च ते शोको न भविष्यामि दुर्भरा ॥२-३०-१७॥",
+      "transliteration": "na ca tatra gataḥ kimcit draṣṭum arhasi vipriyam ।mat kṛte na ca te śoko na bhaviṣyāmi durbharā ॥2-30-17॥",
+      "translations": {
+        "english": "Therefore, you should not anticipate any problem from me in the forest. Neither shall I be burdensome to you nor shall I make you experience any sorrow on my account.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 30,
+      "verse": 18,
+      "sloka": "यः त्वया सह स स्वर्गो निरयो यः त्वया विना ।इति जानन् पराम् प्रीतिम् गच्च राम मया सह ॥२-३०-१८॥",
+      "transliteration": "yaḥ tvayā saha sa svargo nirayo yaḥ tvayā vinā ।iti jānan parām prītim gacca rāma mayā saha ॥2-30-18॥",
+      "translations": {
+        "english": "Wherever I be with you is heaven and without, hell. O Rama, recognise this truth, and derive great pleasure in my company.",
+        "hindi": "इस प्रकार श्रीरामचन्द्र ने जत्र कहा, तब लक्षमण ने वाक्य- बिशारद्‌ श्रीरामचन्द्र को मधुर बचनों से ( यह ) उत्तर दिया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 30,
+      "verse": 19,
+      "sloka": "अथ माम् एवम् अव्यग्राम् वनम् न एव नयिष्यसि ।विषम् अद्य एव पास्यामि मा विशम् द्विषताम् वशम् ॥२-३०-१९॥",
+      "transliteration": "atha mām evam avyagrām vanam na eva nayiṣyasi ।viṣam adya eva pāsyāmi mā viśam dviṣatām vaśam ॥2-30-19॥",
+      "translations": {
+        "english": "If you do not take me to the forest without the least hesitation I shall consume poison right now, but not live under the control of enemies (at Ayodhya).",
+        "hindi": "अतः तुम्हारे मेरे साथ चलने से मुझे सब प्रकार का सुपास होगा; किन्तु ) यदि आज तुम मेरे साथ वन चल दिए, तो अवश्य ही यशस्त्रिनी माता कौसल्या और सुमित्रा की देख-भाल कोन करेगा ?",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 30,
+      "verse": 20,
+      "sloka": "पश्चात् अपि हि दुह्खेन मम न एव अस्ति जीवितम् ।उज्झितायाः त्वया नाथ तदा एव मरणम् वरम् ॥२-३०-२०॥",
+      "transliteration": "paścāt api hi duhkhena mama na eva asti jīvitam ।ujjhitāyāḥ tvayā nātha tadā eva maraṇam varam ॥2-30-20॥",
+      "translations": {
+        "english": "If forsaken, O Lord I shall not live a life of sorrow. Instant death is better (than abandoned existence).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 30,
+      "verse": 21,
+      "sloka": "इदम् हि सहितुम् शोकम् मुहूर्तम् अपि न उत्सहे ।किम् पुनर् दश वर्षाणि त्रीणि च एकम् च दुह्खिता ॥२-३०-२१॥",
+      "transliteration": "idam hi sahitum śokam muhūrtam api na utsahe ।kim punar daśa varṣāṇi trīṇi ca ekam ca duhkhitā ॥2-30-21॥",
+      "translations": {
+        "english": "I cannot bear this grief even for a moment, what to speak of fourteen (ten and three and one) years of grieving.",
+        "hindi": "तो मैं उस नीच ओर नृशंस को मार डालूंगा-इपमें भी सन्देह नहीं है । उसकी दिमायत में भले ही तोनों लोक ही क्‍यों POS CD क 22 0.62 2:03 स मोट टल रका: 0 त्रिशः सग: ३४४ न खड़े हों-मैं उके सब हिमायतियां अथत्रा पक्षपातियों का संहार करूँगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 30,
+      "verse": 22,
+      "sloka": "इति सा शोक सम्तप्ता विलप्य करुणम् बहु ।चुक्रोश पतिम् आयस्ता भृशम् आलिन्ग्य सस्वरम् ॥२-३०-२२॥",
+      "transliteration": "iti sā śoka samtaptā vilapya karuṇam bahu ।cukrośa patim āyastā bhṛśam ālingya sasvaram ॥2-30-22॥",
+      "translations": {
+        "english": "Tormented with grief, Sita piteously and profusely lamented, and then exhausted, embraced her husband tightly and cried bitterly.",
+        "hindi": "हे आर्य ! माता कौसल्या तो मुझ जैसे हजारों का स्त्रय॑ भरण- : चोषण कर सकती है, क्योंकि जिसके नेगी सहसों गाँवों के मालिक हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 30,
+      "verse": 23,
+      "sloka": "सा विद्धा बहुभिर् वाक्यैः दिग्धैः इव गज अन्गना ।चिर सम्नियतम् बाष्पम् मुमोच अग्निम् इव अरणिः ॥२-३०-२३॥",
+      "transliteration": "sā viddhā bahubhir vākyaiḥ digdhaiḥ iva gaja anganā ।cira samniyatam bāṣpam mumoca agnim iva araṇiḥ ॥2-30-23॥",
+      "translations": {
+        "english": "Pierced by so many words (of objection from Rama), Sita felt like a cowelephant penetrated by poisonsmeared arrrows. And shed her longsuppressed tears like arani (a firekindling stick) kindling fire.",
+        "hindi": "बह यशास्त्रिनी माता कोसल्या अवश्य ही अपना. और मेरी माता का अथवा मुझ जैसे ( हजारों ) का पालन भी भाँति कर सकती हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 30,
+      "verse": 24,
+      "sloka": "तस्याः स्फटिक सम्काशम् वारि सम्ताप सम्भवम् ।नेत्राभ्याम् परिसुस्राव पन्कजाभ्याम् इव उदकम् ॥२-३०-२४॥",
+      "transliteration": "tasyāḥ sphaṭika samkāśam vāri samtāpa sambhavam ।netrābhyām parisusrāva pankajābhyām iva udakam ॥2-30-24॥",
+      "translations": {
+        "english": "Crystallike tears arising out of distress flowed from her eyes like water trickling from two lotuses.",
+        "hindi": "अतएव तुम मुके अपना अनुचर बनाओ | मेरे वन चलने में कु भी आत्र्म न होगा । प्रत्युत मैं तो कृतार्थ हो जाऊंगा ओर तुम्हारा भी काम निकलेगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 30,
+      "verse": 25,
+      "sloka": "तच्चैवामलचन्ध्रभम् मुखमायतलोचनम् ।पर्यशुष्यत बाष्पेण जलोद्धृतमिवामुबुजम् ॥२-३०-२५॥",
+      "transliteration": "taccaivāmalacandhrabham mukhamāyatalocanam ।paryaśuṣyata bāṣpeṇa jaloddhṛtamivāmubujam ॥2-30-25॥",
+      "translations": {
+        "english": "Her face with large eyes assumed the brightness of an immaculate Moon and withered with tears like a lotus plucked out of water.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 30,
+      "verse": 26,
+      "sloka": "ताम् परिष्वज्य बाहुभ्याम् विसम्ज्ञाम् इव दुह्खिताम् ।उवाच वचनम् रामः परिविश्वासयम्स् तदा ॥२-३०-२६॥",
+      "transliteration": "tām pariṣvajya bāhubhyām visamjñām iva duhkhitām ।uvāca vacanam rāmaḥ pariviśvāsayams tadā ॥2-30-26॥",
+      "translations": {
+        "english": "With his arms Rama embraced Sita who had almost fainted in grief. And in order to create confidence in her he said these words:",
+        "hindi": "काम क्या निकलेगा ? यही ) मैं तीरों सहित धनुष, खंता ( जमीन से कंदमूल खोदने का औजार ) ओर बाँस की बनी फल- 'फूंत रखने की कंडो लिए हुए, तुम्दारे अगे-आगे माग बतलाता हुआ चलूगा ।॥२५. ५ - # पाठान्तरे--जीवनम्‌ । आहरिष्यामि ते नित्यं मूलानि च फलानि च | वन्यानि यानि चान्यानि स्वाहाराणि१तपस्विनाम्‌",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 30,
+      "verse": 27,
+      "sloka": "न देवि तव दुह्खेन स्वर्गम् अपि अभिरोचये ।न हि मे अस्ति भयम् किम्चित् स्वयम्भोर् इव सर्वतः ॥२-३०-२७॥",
+      "transliteration": "na devi tava duhkhena svargam api abhirocaye ।na hi me asti bhayam kimcit svayambhor iva sarvataḥ ॥2-30-27॥",
+      "translations": {
+        "english": "When you are in grief O Devi I do not desire even heaven. Like the selfcreated Brahma, I have no fear for any one.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 30,
+      "verse": 28,
+      "sloka": "तव सर्वम् अभिप्रायम् अविज्ञाय शुभ आनने ।वासम् न रोचये अरण्ये शक्तिमान् अपि रक्षणे ॥२-३०-२८॥",
+      "transliteration": "tava sarvam abhiprāyam avijñāya śubha ānane ।vāsam na rocaye araṇye śaktimān api rakṣaṇe ॥2-30-28॥",
+      "translations": {
+        "english": "O Sita of auspicious countenance even though I am capable of protecting you I did not like your stay in the forest as I did not know your intentions.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 30,
+      "verse": 29,
+      "sloka": "यत् सृष्टा असि मया सार्धम् वन वासाय मैथिलि ।न विहातुम् मया शक्या कीर्तिर् आत्मवता यथा ॥२-३०-२९॥",
+      "transliteration": "yat sṛṣṭā asi mayā sārdham vana vāsāya maithili ।na vihātum mayā śakyā kīrtir ātmavatā yathā ॥2-30-29॥",
+      "translations": {
+        "english": "Since you, O daughter of Mithila, were born to go along with me to the forest, I cannot abandon you just as a selfrespecting man cannot forsake his reputation.",
+        "hindi": "श्रीरामचन्द्र, लक्ष्मण के इन बचनों को सुन, अति प्रसंन्न हो उनसे बोले -है लक्ष्मण ! तुम माता सुमित्रा और अपने (आप) सब सुहृज्जनों से मेरे साथ वन चलने की आज्ञा ले आओ ॥ ये च राज्ञो ददो दिव्ये महात्मा वरुण! स्वयम्‌ । ना महायज्ञ धनुपी रौद्रदशने",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 30,
+      "verse": 30,
+      "sloka": "धर्मः तु गज नास ऊरु सद्भिर् आचरितः पुरा ।तम् च अहम् अनुवर्ते अद्य यथा सूर्यम् सुवर्चला ॥२-३०-३०॥",
+      "transliteration": "dharmaḥ tu gaja nāsa ūru sadbhir ācaritaḥ purā ।tam ca aham anuvarte adya yathā sūryam suvarcalā ॥2-30-30॥",
+      "translations": {
+        "english": "O one with (shapely) thighs like the trunk of an elephant follow only the path of righteousness practised earlier by the virtuous as Suvarchala follows the Sun.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 30,
+      "verse": 31,
+      "sloka": "न खल्वहम् न गच्छेयम् वनम् जनकनन्दिनि ।वचनम् त्न्नयति माम् पितुः सत्योपबृंहितम् ॥२-३०-३१॥",
+      "transliteration": "na khalvaham na gaccheyam vanam janakanandini ।vacanam tnnayati mām pituḥ satyopabṛṁhitam ॥2-30-31॥",
+      "translations": {
+        "english": "Not that I shall not go to the forest (go I must). My father's word nourished by truth is leading me there, O daughter of Janaka",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 30,
+      "verse": 32,
+      "sloka": "एष धर्मः तु सुश्रोणि पितुर् मातुः च वश्यता ।अतः च आज्ञाम् व्यतिक्रम्य न अहम् जीवितुम् उत्सहे ॥२-३०-३२॥",
+      "transliteration": "eṣa dharmaḥ tu suśroṇi pitur mātuḥ ca vaśyatā ।ataḥ ca ājñām vyatikramya na aham jīvitum utsahe ॥2-30-32॥",
+      "translations": {
+        "english": "Obedience to parents is a righteous act. Therefore, O one with fair hips I cannot live and disobey the word of truth.",
+        "hindi": "अमोघ कबच ओर दिव्य दो अक्षय तरकस (ऐसे तरकस जिनके बाण कभी चुकते ही न थे ) ओर सूय को तरह चमचमाती - और सुनहलले काम की दोनों तलवार दी थीं, ओर (जो हमें महाराज जनक से विवाह के दहेज में मिली हैं ) जो बसिष्ठ जी के घर में बड़ी चौकसी के साथ रखे हैं, लक्ष्मण ! इस समय तुम उन सब आयुधों को ले कर, जल्दी यहाँ चले आओ ॥३०-३१॥ स सुहज्जनमामन्ज्य वनवासाय निश्चित; । इक्ष्वाकुगुरुमागस्य जग्राहायुधमुत्तमम्‌",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 30,
+      "verse": 33,
+      "sloka": "अस्वाधीनम् कथम् दैवम् प्रकारैरभिराध्यते ।स्वाधीनम् समतिक्रम्य मातरम् पितरम् गुरुम् ॥२-३०-३३॥",
+      "transliteration": "asvādhīnam katham daivam prakārairabhirādhyate ।svādhīnam samatikramya mātaram pitaram gurum ॥2-30-33॥",
+      "translations": {
+        "english": "Mother, father and preceptor are present before us. By overstepping them, how can we, in various ways, worship God who is beyond reach (not visible)?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 30,
+      "verse": 34,
+      "sloka": "यत्त्रयम् तत्त्रयो लोकाः पवित्रम् तत्समम् भुवि ।नान्यदस्ति शुभापाङ्गे तेनेदमभिराध्यते ॥२-३०-३४॥",
+      "transliteration": "yattrayam tattrayo lokāḥ pavitram tatsamam bhuvi ।nānyadasti śubhāpāṅge tenedamabhirādhyate ॥2-30-34॥",
+      "translations": {
+        "english": "Where these three(mother,father and preceptor) equal to the three worlds are, O one with loverly sideglances, there is none in this world as holy. Therefore, they are to be worshipped.",
+        "hindi": "तब श्रीरामचन्द्र ने (आए हुए) लक्ष्मण से प्रसन्न हो. कर कहा--हे सोम्य ! तुम ठीक समय पर आ गए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 30,
+      "verse": 35,
+      "sloka": "न सत्यम् दानमानौ वा न यज्ञाश्चाप्तदक्षिणाः ।तथा बलकराः सीते यथा सेवा पितुर्मता ॥२-३०-३५॥",
+      "transliteration": "na satyam dānamānau vā na yajñāścāptadakṣiṇāḥ ।tathā balakarāḥ sīte yathā sevā piturmatā ॥2-30-35॥",
+      "translations": {
+        "english": "Truth or munificence or homage or distribution of gifts to the revered ones or sacrifices, O Sita, are not considered as efficacious as service to father.",
+        "hindi": "हे भाई ! मेरे पास जो कुछ धन है-उसे मैं ब्रः्ाणों और | तपस्त्रियों को देना चाहता हॅ । सो तुम इस काय में मुझे सहायता ` दो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 30,
+      "verse": 36,
+      "sloka": "स्वर्गो धनम् वा धान्यम् वा विद्याः पुत्राः सुखानि च ।गुरुवृत्त्यनुरोधेन न किम्चित्\\दपि दुर्लभम् ॥२-३०-३६॥",
+      "transliteration": "svargo dhanam vā dhānyam vā vidyāḥ putrāḥ sukhāni ca ।guruvṛttyanurodhena na kimcit\\dapi durlabham ॥2-30-36॥",
+      "translations": {
+        "english": "By fulfilling father's wish, nothing is difficult to achieve, whether it is heaven, or wealth, or foodgrains, or learning, or sons or other comforts.",
+        "hindi": "इस नगर में जो -बसते हैं, उन सबको उचित है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 30,
+      "verse": 37,
+      "sloka": "देवगन्धर्वगोलोकान् ब्रह्मलोकम् तथापरान् ।प्राप्नुवन्ति महात्मानो मातापितृपरायणाः ॥२-३०-३७॥",
+      "transliteration": "devagandharvagolokān brahmalokam tathāparān ।prāpnuvanti mahātmāno mātāpitṛparāyaṇāḥ ॥2-30-37॥",
+      "translations": {
+        "english": "Great men who are devoted to the service of their parents attain the world of the gods, of gandharvas, of cows, of Visnu, of Brahma and other worlds.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 30,
+      "verse": 38,
+      "sloka": "स माम् पिता यथा शास्ति सत्य धर्म पथे स्थितः ।तथा वर्तितुम् इच्चामि स हि धर्मः सनातनः ॥२-३०-३८॥",
+      "transliteration": "sa mām pitā yathā śāsti satya dharma pathe sthitaḥ ।tathā vartitum iccāmi sa hi dharmaḥ sanātanaḥ ॥2-30-38॥",
+      "translations": {
+        "english": "My father who follows the path of truth and dharma whatever be his commands, I wish to obey. He is, indeed, dharma eternal.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 30,
+      "verse": 39,
+      "sloka": "मम सन्ना मतिः सीते त्वाम् नेतुम् दण्डकावनम् ।वसिष्यामीति सात्वम् मामनुयातुम् सुनिश्चिता ॥२-३०-३९॥",
+      "transliteration": "mama sannā matiḥ sīte tvām netum daṇḍakāvanam ।vasiṣyāmīti sātvam māmanuyātum suniścitā ॥2-30-39॥",
+      "translations": {
+        "english": "O Sita, my discretion fails me in deciding whether to take you to Dandaka forest or not. You are, however, firmly determined to follow me, saying, you can live in the forest.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 30,
+      "verse": 40,
+      "sloka": "सा हि दिष्टाऽनवद्याङ्गी वनाय वदिरेक्षणे ।अनुगच्चस्व माम् भीरु सह धर्म चरी भव ॥२-३०-४०॥",
+      "transliteration": "sā hi diṣṭā'navadyāṅgī vanāya vadirekṣaṇe ।anugaccasva mām bhīru saha dharma carī bhava ॥2-30-40॥",
+      "translations": {
+        "english": "O one with fascinating eyes and exquisite beauty you were born to live in the forest. O gentle lady, assist me in carrying out my duties.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 30,
+      "verse": 41,
+      "sloka": "सर्वथा सदृशम् सीते मम स्वस्य कुलस्य च ।व्यवसायमनुक्रान्ता कान्ते त्वमतिशोभनम् ॥२-३०-४१॥",
+      "transliteration": "sarvathā sadṛśam sīte mama svasya kulasya ca ।vyavasāyamanukrāntā kānte tvamatiśobhanam ॥2-30-41॥",
+      "translations": {
+        "english": "You, O my lovely beloved Sita, have taken in the right time a highly dignified decision befitting in all ways your family, myself and yourself.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 30,
+      "verse": 42,
+      "sloka": "आरभस्व शुभश्रोणि वनवासक्षमाः क्रियाः ।नेदानीम् त्वदृते सीते स्वर्गोऽपि मम रोचते ॥२-३०-४२॥",
+      "transliteration": "ārabhasva śubhaśroṇi vanavāsakṣamāḥ kriyāḥ ।nedānīm tvadṛte sīte svargo'pi mama rocate ॥2-30-42॥",
+      "translations": {
+        "english": "O Sita, begin right now all preparations necessary for residing in the forest. O one, with beautiful buttocks, without you even the very heaven does not please me.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 30,
+      "verse": 43,
+      "sloka": "ब्राह्मणेभ्यः च रत्नानि भिक्षुकेभ्यः च भोजनम् ।देहि च आशम्समानेभ्यः सम्त्वरस्व च माचिरम् ॥२-३०-४३॥",
+      "transliteration": "brāhmaṇebhyaḥ ca ratnāni bhikṣukebhyaḥ ca bhojanam ।dehi ca āśamsamānebhyaḥ samtvarasva ca māciram ॥2-30-43॥",
+      "translations": {
+        "english": "Give away your jewels to brahmins who need them and food to religious mendicants. Hurry up Do not delay.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 30,
+      "verse": 44,
+      "sloka": "भूषणानि महार्हाणि वरवस्त्राणि यानि च ।रमणीयाश्च ये केचित्क्रीडार्थाश्चापुयुपस्कराः ॥२-३०-४४॥",
+      "transliteration": "bhūṣaṇāni mahārhāṇi varavastrāṇi yāni ca ।ramaṇīyāśca ye kecitkrīḍārthāścāpuyupaskarāḥ ॥2-30-44॥",
+      "translations": {
+        "english": "Distribute among your attendants highly valuable ornaments and excellent clothing, charming articles meant for (court) sport, my couches, chariots and all other things. Offer the rest to brahmins.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 30,
+      "verse": 45,
+      "sloka": "शयनीयानि यानानि मम चान्यानि यानि च ।देहि स्वभृत्यवर्गस्य ब्राह्मणानामनन्तरम् ॥२-३०-४५॥",
+      "transliteration": "śayanīyāni yānāni mama cānyāni yāni ca ।dehi svabhṛtyavargasya brāhmaṇānāmanantaram ॥2-30-45॥",
+      "translations": {
+        "english": "Distribute among your attendants highly valuable ornaments and excellent clothing, charming articles meant for (court) sport, my couches, chariots and all other things. Offer the rest to brahmins.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 30,
+      "verse": 46,
+      "sloka": "अनुकूलम् तु सा भर्तुर् ज्ञात्वा गमनम् आत्मनः ।क्षिप्रम् प्रमुदिता देवी दातुम् एव उपचक्रमे ॥२-३०-४६॥",
+      "transliteration": "anukūlam tu sā bhartur jñātvā gamanam ātmanaḥ ।kṣipram pramuditā devī dātum eva upacakrame ॥2-30-46॥",
+      "translations": {
+        "english": "Having come to know that her departure to the forest is acceptable to her husband, Sita, highly delighted, quickly got ready to give away (things).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 30,
+      "verse": 47,
+      "sloka": "ततः प्रहृष्टा परिपूर्ण मानसा ।यशस्विनी भर्तुर् अवेक्ष्य भाषितम् ।धनानि रत्नानि च दातुम् अन्गना ।प्रचक्रमे धर्मभृताम् मनस्विनी ॥२-३०-४७॥",
+      "transliteration": "tataḥ prahṛṣṭā paripūrṇa mānasā ।yaśasvinī bhartur avekṣya bhāṣitam ।dhanāni ratnāni ca dātum anganā ।pracakrame dharmabhṛtām manasvinī ॥2-30-47॥",
+      "translations": {
+        "english": "Then that illustrious and high-minded lady, delighted and her heart fulfilled, marked her lord's speech and set about giving wealth and jewels to the upholders of dharma.",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,359 @@
+{
+  "kanda": 7,
+  "kanda_name": "Uttara Kanda",
+  "kanda_name_sanskrit": "उत्तरकाण्डम्",
+  "sarga": 45,
+  "verses_count": 25,
+  "verses": [
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 45,
+      "verse": 1,
+      "sloka": "तेषां समुपविष्टानां सर्वेषां दीनचेतसाम् ।उवाच वाक्यं काकुत्स्थो मुखेन परिशुष्यता ।। ७.४५.१ ॥",
+      "transliteration": "teṣāṁ samupaviṣṭānāṁ sarveṣāṁ dīnacetasām ।uvāca vākyaṁ kākutstho mukhena pariśuṣyatā ।। 7.45.1 ॥",
+      "translations": {
+        "english": "Rama, with a face parched by sorrow, spoke to all those who were seated before him with distressed minds.",
+        "hindi": "उत्तरकाण्ड का सतीसवा सग पूरा हुआ [ टिप्पणी १--श्रधिकमतानुसार आगे के पाँच सगप्रक्षित हैं। क्योकि पूर्वसगं में अगस्त्य का बिदा होना लिख कर भी, पुनः उनके साथ, आगे के सर्गो में, श्रीरामचन्द्र जी का कथोपकथन होना ग्रसङ्गत है | कई एक टीकाकारों ने इन सर्गो पर व्याख्या भी नहीं की | ] [ टिप्पणी २--इस श्लोक में “पुराणः” देख, कहना पड़ताहे कि रामायण काल में भी पुराण प्रचलित थे। ] ज §— ० ॥ C प्रक्षिप्तेषु प्रथसः खगः — 9: — एतच्छ त्वा तु निखिलं राघवोऽगस्त्यमत्रवीत्‌ । य एषच्ष्‌ रजानाम वालिसुग्रीवयोः पिता",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 45,
+      "verse": 2,
+      "sloka": "सर्वे शृणुत भद्रं वो मा कुरुध्वं मनो ऽन्यथा ।पौराणां मम सीतायां यादृशी वर्तते कथा ।। ७.४५.२ ॥",
+      "transliteration": "sarve śṛṇuta bhadraṁ vo mā kurudhvaṁ mano 'nyathā ।paurāṇāṁ mama sītāyāṁ yādṛśī vartate kathā ।। 7.45.2 ॥",
+      "translations": {
+        "english": "He asked them all to listen, wishing them well, and not to misunderstand, as he was about to reveal the kind of talk that existed among the citizens concerning his Sita.",
+        "hindi": "अब तुम बतलाओ कि, इनकी भाता का नाम क्या था ? चे कहा की रहने वाली थीं ? और यह भी बतलाओ कि इनके वालि और सुग्रीव नाम पड़ने का कारण क्या है ?",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 45,
+      "verse": 3,
+      "sloka": "पौरापवादः सुमहांस्तथा जनपदस्य च ।वर्तते मयि बीभत्सा सा मे मर्माणि कृन्तति ।। ७.४५.३ ॥",
+      "transliteration": "paurāpavādaḥ sumahāṁstathā janapadasya ca ।vartate mayi bībhatsā sā me marmāṇi kṛntati ।। 7.45.3 ॥",
+      "translations": {
+        "english": "A very great and abhorrent scandal from both the citizens and the people of the country exists concerning me, and that talk cuts into my very vitals.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 45,
+      "verse": 4,
+      "sloka": "अहं किल कुले जात इक्ष्वाकूणां महात्मनाम् ।सीता ऽपि सत्कुले जाता जनकानां महात्मनाम् ।। ७.४५.४ ॥",
+      "transliteration": "ahaṁ kila kule jāta ikṣvākūṇāṁ mahātmanām ।sītā 'pi satkule jātā janakānāṁ mahātmanām ।। 7.45.4 ॥",
+      "translations": {
+        "english": "He stated that he was born in the family of the great-souled Ikshvakus, and Sita too was born in the noble family of the great-souled Janakas.",
+        "hindi": "हे राम ! पूबकाल में नारद जी ने मेरे आश्रम में पधार कर, जैसा मुझसे कहा था, वेसा ही में तुमसे संक्षेप में कहता हूँ । सुनो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 45,
+      "verse": 5,
+      "sloka": "जानासि त्वं यथा सौम्य दण्डके विजने वने ।रावणेन हृता सीता स च विध्वंसितो मया ।। ७.४५.५ ॥",
+      "transliteration": "jānāsi tvaṁ yathā saumya daṇḍake vijane vane ।rāvaṇena hṛtā sītā sa ca vidhvaṁsito mayā ।। 7.45.5 ॥",
+      "translations": {
+        "english": "He reminded them, \"O gentle one, you know how Sita was abducted by Ravana in the solitary Dandaka forest, and how I subsequently destroyed him.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 45,
+      "verse": 6,
+      "sloka": "तत्र मे बुद्धिरुत्पन्ना जनकस्य सुतां प्रति ।अत्रोषितामिमां सीतामानयेयं कथं पुरीम् ।। ७.४५.६ ॥",
+      "transliteration": "tatra me buddhirutpannā janakasya sutāṁ prati ।atroṣitāmimāṁ sītāmānayeyaṁ kathaṁ purīm ।। 7.45.6 ॥",
+      "translations": {
+        "english": "At that time, a thought arose in my mind concerning Janaka's daughter, Sita, wondering how I could bring this Sita, who had resided here, back to the city.",
+        "hindi": "। जब वे सुख से आसन पर बिराजमान हो गए; तब मेने छ कोतूहलवश उनसे यही बात पूछी थी । [ मेरे पूछने पर ) | धर्मात्मा ने कहा, हे महष ! सुनो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 45,
+      "verse": 7,
+      "sloka": "प्रत्ययार्थं ततः सीता विवेश ज्वलनं तदा ।प्रत्यक्षं तव सौमित्रे देवानां हव्यवाहनः ।अपापां मैथिलीमाह वायुश्चाकाशगोचरः ।। ७.४५.७ ॥",
+      "transliteration": "pratyayārthaṁ tataḥ sītā viveśa jvalanaṁ tadā ।pratyakṣaṁ tava saumitre devānāṁ havyavāhanaḥ ।apāpāṁ maithilīmāha vāyuścākāśagocaraḥ ।। 7.45.7 ॥",
+      "translations": {
+        "english": "Then, for the sake of proof, Sita entered the fire, and in your presence, O Lakshmana, the fire-god and the wind-god, who moves in the sky, declared Maithili to be sinless.",
+        "hindi": "सेरु नाम का एक पहाड़ है, जो पवतों में भ्रष्ठ एबं सुन्दर है। वह सवणंमय है और सुन्दरता की तो वह खानि ही | ८ इसके बीच वाले र्शक को देवता बड़े सम्मान की दष्टि से 280 ` खते हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 45,
+      "verse": 8,
+      "sloka": "चन्द्रादित्यौ च शंसेते सुराणां सन्निधौ पुरा ।ऋषीणां चैव सर्वेषामपापां जनकात्मजाम् ।। ७.४५.८ ॥",
+      "transliteration": "candrādityau ca śaṁsete surāṇāṁ sannidhau purā ।ṛṣīṇāṁ caiva sarveṣāmapāpāṁ janakātmajām ।। 7.45.8 ॥",
+      "translations": {
+        "english": "Furthermore, the moon and the sun, in the presence of all the gods and sages, formerly declared Janaka's daughter to be sinless.",
+        "hindi": "क्योंकि उसी शिखर पर ब्रह्मा जी का शतयोजन विस्तीर्ण रमणीय दिव्य सभाभवन बना हुआ है | चतुमुख ब्रह्मा जी, खसी में सदा विराजमान रहते हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 45,
+      "verse": 9,
+      "sloka": "एवं शुद्धसमाचारा देवगन्धर्वसन्निधौ ।लङ्काद्वीपे महेन्द्रेण मम हस्ते निवेशिता ।। ७.४५.९ ॥",
+      "transliteration": "evaṁ śuddhasamācārā devagandharvasannidhau ।laṅkādvīpe mahendreṇa mama haste niveśitā ।। 7.45.9 ॥",
+      "translations": {
+        "english": "Thus, she of pure conduct was entrusted into my hands by the great Indra himself on the island of Lanka, in the presence of gods and Gandharvas.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 45,
+      "verse": 10,
+      "sloka": "अन्तरात्मा च मे वेत्ति सीतां शुद्धां यशस्विनीम् ।ततो गृहीत्वा वैदेहीमयोध्यामहमागतः ।। ७.४५.१० ॥",
+      "transliteration": "antarātmā ca me vetti sītāṁ śuddhāṁ yaśasvinīm ।tato gṛhītvā vaidehīmayodhyāmahamāgataḥ ।। 7.45.10 ॥",
+      "translations": {
+        "english": "And my inner self knows Sita to be pure and glorious, so thereafter, I brought Vaidehi to Ayodhya.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 45,
+      "verse": 11,
+      "sloka": "अयं तु मे महान्वादः शोकश्च हृदि वर्तते ।पौरापवादः सुमहांस्तथा जनपदस्य च ।। ७.४५.११ ॥",
+      "transliteration": "ayaṁ tu me mahānvādaḥ śokaśca hṛdi vartate ।paurāpavādaḥ sumahāṁstathā janapadasya ca ।। 7.45.11 ॥",
+      "translations": {
+        "english": "This great accusation and sorrow, which is the very great slander of the citizens and the people of the country, exists in my heart.",
+        "hindi": "हे नरश्रेष्ठ ! उस वानर के उत्पन्न होते ही महात्मा पितामह ब्नह्मा जी ने प्रियवाक्यों से उसे समझाया और उससे कहा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 45,
+      "verse": 12,
+      "sloka": "अकीर्तिर्यस्य गीयेत लोके भूतस्य कस्यचित् ।पतत्येवाधमाँल्लोकान्यावच्छब्दः प्रकीर्त्यते ।। ७.४५.१२ ॥",
+      "transliteration": "akīrtiryasya gīyeta loke bhūtasya kasyacit ।patatyevādhamām̐llokānyāvacchabdaḥ prakīrtyate ।। 7.45.12 ॥",
+      "translations": {
+        "english": "Any being whose infamy is spoken of in the world falls to lower realms as long as that word of disgrace is proclaimed.",
+        "hindi": "हे वानरश्रेष्ठ ! देखो, इस बहुविस्तृत पर्वत पर देबतागण रहा करते हैं । तुम इस रम्य पव तश्रष्ठ पर अनेक फल मूल खा कर,",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 45,
+      "verse": 13,
+      "sloka": "अकीर्तिर्निन्द्यते देवैः कीर्तिर्लोकेषु पूज्यते ।कीर्त्यर्थं तु समारम्भः सर्वेषां सुमहात्मनाम् ।। ७.४५.१३ ॥",
+      "transliteration": "akīrtirnindyate devaiḥ kīrtirlokeṣu pūjyate ।kīrtyarthaṁ tu samārambhaḥ sarveṣāṁ sumahātmanām ।। 7.45.13 ॥",
+      "translations": {
+        "english": "Infamy is condemned by the gods, while fame is honored in all worlds, and indeed, all great-souled individuals undertake their endeavors for the sake of renown.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 45,
+      "verse": 14,
+      "sloka": "अप्यहं जीवितं जह्यां युष्मान्वा पुरुषर्षभाः ।अपवादभयाद्भीतः किं पुनर्जनकात्मजाम् ।। ७.४५.१४ ॥",
+      "transliteration": "apyahaṁ jīvitaṁ jahyāṁ yuṣmānvā puruṣarṣabhāḥ ।apavādabhayādbhītaḥ kiṁ punarjanakātmajām ।। 7.45.14 ॥",
+      "translations": {
+        "english": "O best among men, I, being afraid of the fear of slander, would even abandon my life or you all, so what then of Janaka's daughter?",
+        "hindi": "हे राम ! जब ब्रह्मा जी ने उस वानर से इस प्रकार कहा, तब उस वानरश्रेष्ठ ने सीस नवा, उन देवदेव ब्रह्मदेव के चरणों को प्रणाम किआ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 45,
+      "verse": 15,
+      "sloka": "तस्माद्भवन्तः पश्यन्तु पतितं शोकसागरे ।नहि पश्याम्यहं भूतं किञ्चिद्दुःखमतो ऽधिकम् ।। ७.४५.१५ ॥",
+      "transliteration": "tasmādbhavantaḥ paśyantu patitaṁ śokasāgare ।nahi paśyāmyahaṁ bhūtaṁ kiñcidduḥkhamato 'dhikam ।। 7.45.15 ॥",
+      "translations": {
+        "english": "Therefore, you should see me fallen into an ocean of sorrow, for I indeed do not see any existing sorrow greater than this.",
+        "hindi": "और आदिदेव जगत्पति लोककर्ता ब्रह्मा जी से _कहा- हे देव ! तुम जैसी आज्ञा देते हो; में वैसा ही करूगा । में तुम्हारे ' आज्ञाधीन रहुँगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 45,
+      "verse": 16,
+      "sloka": "श्वस्त्वं प्रभाते सौमित्रे सुमन्त्राधिष्ठितं रथम् ।आरुह्य सीतामारोप्य विषयान्ते समुत्सृज ।। ७.४५.१६ ॥",
+      "transliteration": "śvastvaṁ prabhāte saumitre sumantrādhiṣṭhitaṁ ratham ।āruhya sītāmāropya viṣayānte samutsṛja ।। 7.45.16 ॥",
+      "translations": {
+        "english": "O Lakshmana, tomorrow morning, you must ascend the chariot driven by Sumantra, place Sita in it, and abandon her at the border of the kingdom.",
+        "hindi": "इस प्रकार ब्रह्मा जी से कह कर, वह वानर प्रसन्नतापूर्वेक, फलफूलों से भरे पूरे वनों में जा आर वहाँ चुन चुन कर मीठे फलों और फूलों को खा खा कर शीघ्र ब्रह्म जी के [ अथवा देवताओं के ] समान बलवान हो गया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 45,
+      "verse": 17,
+      "sloka": "गङ्गायास्तु परे पारे वाल्मीकेस्तु महात्मनः ।आश्रमो दिव्यसङ्काशस्तमसातीरमाश्रितः ।। ७.४५.१७ ॥",
+      "transliteration": "gaṅgāyāstu pare pāre vālmīkestu mahātmanaḥ ।āśramo divyasaṅkāśastamasātīramāśritaḥ ।। 7.45.17 ॥",
+      "translations": {
+        "english": "On the other bank of the Ganga, there is the divine-looking hermitage of the great sage Valmiki, situated on the banks of the Tamasa river.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 45,
+      "verse": 18,
+      "sloka": "तत्रैनां विजने देशे विसृज्य रघुनन्दन ।शीघ्रमागच्छ भद्रं ते कुरुष्व वचनं मम ।। ७.४५.१८ ॥",
+      "transliteration": "tatraināṁ vijane deśe visṛjya raghunandana ।śīghramāgaccha bhadraṁ te kuruṣva vacanaṁ mama ।। 7.45.18 ॥",
+      "translations": {
+        "english": "O Lakshmana, having abandoned her there in that solitary place, return quickly; may good fortune be yours, and carry out my command.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 45,
+      "verse": 19,
+      "sloka": "न चास्मिन् प्रतिवक्तव्यः सीतां प्रति कथञ्चन ।तस्मात्त्वं गच्छ सौमित्रे नात्र कार्या विचारणा ।। ७.४५.१९ ॥",
+      "transliteration": "na cāsmin prativaktavyaḥ sītāṁ prati kathañcana ।tasmāttvaṁ gaccha saumitre nātra kāryā vicāraṇā ।। 7.45.19 ॥",
+      "translations": {
+        "english": "And regarding Sita, you must not argue against this command in any way; therefore, O Lakshmana, go, for no deliberation is to be done in this matter.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 45,
+      "verse": 20,
+      "sloka": "अप्रीतिर्हि परा मह्यं त्वयेतत्प्रतिवारिते ।शापिता हि मया यूयं भुजाभ्यां जीवितेन च ।। ७.४५.२० ॥",
+      "transliteration": "aprītirhi parā mahyaṁ tvayetatprativārite ।śāpitā hi mayā yūyaṁ bhujābhyāṁ jīvitena ca ।। 7.45.20 ॥",
+      "translations": {
+        "english": "Indeed, great displeasure will befall me if you oppose this, for I have made you all swear by my arms and by my very life.",
+        "hindi": "हे राम ! तदनन्तर कुछ काल बीतने पर, वानरश्रेष्ठ ऋचक्ष- राज प्यास से अत्यन्त विकल हो कर",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 45,
+      "verse": 21,
+      "sloka": "ये मां वाक्यान्तरे ब्रूयुरनुनेतुं कथञ्चन ।अहिता नाम ते नित्यं मदभीष्टविघातनात् ।। ७.४५.२१ ॥",
+      "transliteration": "ye māṁ vākyāntare brūyuranunetuṁ kathañcana ।ahitā nāma te nityaṁ madabhīṣṭavighātanāt ।। 7.45.21 ॥",
+      "translations": {
+        "english": "Those who would speak to me with other words, attempting to persuade me in any way, are indeed always my enemies because they obstruct my desire.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 45,
+      "verse": 22,
+      "sloka": "मानयन्तु भवन्तो मां यदि मच्छासने स्थिताः ।इतो ऽद्य नीयतां सीता कुरुष्व वचनं मम ।। ७.४५.२२ ॥",
+      "transliteration": "mānayantu bhavanto māṁ yadi macchāsane sthitāḥ ।ito 'dya nīyatāṁ sītā kuruṣva vacanaṁ mama ।। 7.45.22 ॥",
+      "translations": {
+        "english": "If you abide by my command, then respect me; let Sita be taken from here today, and obey my word.",
+        "hindi": "तब वह हषित हो और अपनी गर्दन के बालों को हिलाता हुआ उसके किनारे पर चला गया । उस समय देववश उसे पानी में अपने मुख की परछाइ दख पड़ी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 45,
+      "verse": 23,
+      "sloka": "पूर्वमुक्तो ऽहमनया गङ्गातीरे ऽहमाश्रमान् ।पश्येयमिति तस्याश्च कामः संवर्त्यतामयम् ।। ७.४५.२३ ॥",
+      "transliteration": "pūrvamukto 'hamanayā gaṅgātīre 'hamāśramān ।paśyeyamiti tasyāśca kāmaḥ saṁvartyatāmayam ।। 7.45.23 ॥",
+      "translations": {
+        "english": "She had previously told me that she wished to see the hermitages on the bank of the Ganga, so let this desire of hers be fulfilled.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 45,
+      "verse": 24,
+      "sloka": "एवमुक्त्वा तु काकुत्स्थो बाष्पेण पिहिताननः ।प्रविवेश स धर्मात्मा भ्रातृभिः परिवारितः ।। ७.४५.२४ ॥",
+      "transliteration": "evamuktvā tu kākutstho bāṣpeṇa pihitānanaḥ ।praviveśa sa dharmātmā bhrātṛbhiḥ parivāritaḥ ।। 7.45.24 ॥",
+      "translations": {
+        "english": "Having spoken thus, Rama, the righteous one, with his face covered in tears, entered, surrounded by his brothers.",
+        "hindi": "सन हो सन कहा कि, यह्‌ क्रुद्ध सा रह कर, सेरा सदा अपसान किआ करता है | अत: इस दुरात्मा दुष्ट का यह सुन्दर भवन में नष्ट कर डालू गा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 45,
+      "verse": 25,
+      "sloka": "शोकसंलग्नहृदयो निशश्वास यथा द्विपः ।। ७.४५.२५ ।।",
+      "transliteration": "śokasaṁlagnahṛdayo niśaśvāsa yathā dvipaḥ ।। 7.45.25 ।।",
+      "translations": {
+        "english": "With his heart engulfed by sorrow, he sighed like an elephant. इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये श्रीमदुत्तरकाण्डे पञ्चचत्वारिंशः सर्गः ।। 45 ।। Thus ends the forty-fifth sarga of Uttara Kanda of the holy Ramayana the first epic composed by sage Valmiki.",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

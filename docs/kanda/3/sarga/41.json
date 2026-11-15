@@ -1,0 +1,289 @@
+{
+  "kanda": 3,
+  "kanda_name": "Aranya Kanda",
+  "kanda_name_sanskrit": "अरण्यकाण्डम्",
+  "sarga": 41,
+  "verses_count": 20,
+  "verses": [
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 41,
+      "verse": 1,
+      "sloka": "आज्ञप्तो रावणेन इत्थम् प्रतिकूलम् च राजवत् ।अब्रवीत् परुषम् वाक्यम् निःशन्को राक्षसाधिपम् ॥३-४१-१॥",
+      "transliteration": "ājñapto rāvaṇena ittham pratikūlam ca rājavat ।abravīt paruṣam vākyam niḥśanko rākṣasādhipam ॥3-41-1॥",
+      "translations": {
+        "english": "At this royal command which was against his interest Maracha used harsh words to the demonking:",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 41,
+      "verse": 2,
+      "sloka": "केन अयम् उपदिष्टः ते विनाशः पाप कर्मणा ।स पुत्रस्य स राज्यस्य स अमात्यस्य निशाचर ॥३-४१-२॥",
+      "transliteration": "kena ayam upadiṣṭaḥ te vināśaḥ pāpa karmaṇā ।sa putrasya sa rājyasya sa amātyasya niśācara ॥3-41-2॥",
+      "translations": {
+        "english": "Who is that sinner who has given you this advice which will spell destruction on you, your sons, your kingdom and your ministers ?",
+        "hindi": "हे राक्षस ! किस पापी ने तुके यह उपदेश दिआ है, जिससे तू अपने राज्य, मंत्रियों ओर पुत्रों सहित नाश को प्राप्त हो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 41,
+      "verse": 3,
+      "sloka": "कः त्वया सुखिना राजन् न अभिनन्दति पापकृत् ।केन इदम् उपदिष्टम् ते मृत्यु द्वारम् उपायतः ॥३-४१-३॥",
+      "transliteration": "kaḥ tvayā sukhinā rājan na abhinandati pāpakṛt ।kena idam upadiṣṭam te mṛtyu dvāram upāyataḥ ॥3-41-3॥",
+      "translations": {
+        "english": "Which sinner is not able to see you happy? O king by whom is this gate of death shown to you cunningly?",
+        "hindi": "बह्‌ कोन पापी है, जो तुझे सुखी देख सुखी नहीं हे ? किसने उपाय के छल से यह सेरी सोत का उपाय तुमको सुझाया है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 41,
+      "verse": 4,
+      "sloka": "शत्रवः तव सुव्यक्तम् हीन वीर्या निशा चर ।इच्छन्ति त्वाम् विनश्यन्तम् उपरुद्धम् बलीयसा ॥३-४१-४॥",
+      "transliteration": "śatravaḥ tava suvyaktam hīna vīryā niśā cara ।icchanti tvām vinaśyantam uparuddham balīyasā ॥3-41-4॥",
+      "translations": {
+        "english": "This is clear that your enemy demons are now powerless. Hence they want you to be engaged with a stronger power and be destroyed.",
+        "hindi": "हे राक्षसनाथ ! यह्‌ तो स्पष्ट ही है कि तेरे शत्रु बलहीन हो गए हें, इसीसे वे चाहते £ |कि, कोई बलबान आ कर, तुमे घेर ले और तुझे नष्ट कर डाले",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 41,
+      "verse": 5,
+      "sloka": "केन इदम् उपदिष्टम् ते क्षुद्रेण अहित बुद्धिना ।यः त्वाम् इच्छति नश्यन्तम् स्व कृतेन निशाचर ॥३-४१-५॥",
+      "transliteration": "kena idam upadiṣṭam te kṣudreṇa ahita buddhinā ।yaḥ tvām icchati naśyantam sva kṛtena niśācara ॥3-41-5॥",
+      "translations": {
+        "english": "O Ravana by which mean fellow is this advice given against your welfare? Who wants you to be destroyed by your own action.",
+        "hindi": "हे रावण ! वह कौन नीच और तेरा अहितकारी शत्रु है, ज तुझे यह शिक्षा दे, तेरा नाश तेरे ही हाथों करवाना चाहता है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 41,
+      "verse": 6,
+      "sloka": "वध्याः खलु न वध्यन्ते सचिवाः तव रावण ।ये त्वाम् उत्पथम् आरूढम् न निगृह्णन्ति सर्वशः ॥३-४१-६॥",
+      "transliteration": "vadhyāḥ khalu na vadhyante sacivāḥ tava rāvaṇa ।ye tvām utpatham ārūḍham na nigṛhṇanti sarvaśaḥ ॥3-41-6॥",
+      "translations": {
+        "english": "O Ravana the ministers should have prevented you by all means from adopting this wrong path. Since they have not done so, they deserve to be spain.",
+        "hindi": "और स्वामी के अप्रसन्न होने पर, दे रावण ! सब ही व्यर्थ हो जाता हे स्वामी के अप्रसन्न होने से इतर जनों को दुःख होता है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 41,
+      "verse": 7,
+      "sloka": "अमात्यैः काम वृत्तो हि राजा कापथम् आश्रितः ।निग्राह्यः सर्वथा सद्भिः न निग्राह्यो निगृह्यसे ॥३-४१-७॥",
+      "transliteration": "amātyaiḥ kāma vṛtto hi rājā kāpatham āśritaḥ ।nigrāhyaḥ sarvathā sadbhiḥ na nigrāhyo nigṛhyase ॥3-41-7॥",
+      "translations": {
+        "english": "Good ministrers should always prevent a lustful king from taking resourse to an evil path. Why were you not stopped, even though you deserve to be checked.",
+        "hindi": "हे रावण ! अ अवश्य ही अवध्य हैं किन्तु वे सचिव अवश्य मार डालने योग्य हैं, जो तुझे कुमा क , जो तुझे कुमागे पर चलने से नहीं अमात्यः कामहत्तो ह कापथमाश्रितः । निग्राहः, सवथा सद्ठिन निग्राह्यो निग्रहथसे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 41,
+      "verse": 8,
+      "sloka": "धर्मम् अर्थम् च कामम् च यशः च जयताम् वर ।स्वामि प्रसादात् सचिवाः प्राप्नुवन्ति निशाचर ॥३-४१-८॥",
+      "transliteration": "dharmam artham ca kāmam ca yaśaḥ ca jayatām vara ।svāmi prasādāt sacivāḥ prāpnuvanti niśācara ॥3-41-8॥",
+      "translations": {
+        "english": "O Ravana the best among the successful ministers attain piety, prosperity, pleasures and fame by the grace of the king.",
+        "hindi": "Ce 2 SPOR ` हे निशाचर! हे विजय करने वालों में श्रेष्ठ ! मंत्रियों को अपने अपने स्वामी की प्रसन्नता ही से धर्म अर्थ काम और यश की प्राप्ति होती है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 41,
+      "verse": 9,
+      "sloka": "विपर्यये तु तत् सर्वम् व्यर्थम् भवति रावण ।व्यसनम् स्वामि वैगुण्यात् प्राप्नुवन्ति इतरे जनाः ॥३-४१-९॥",
+      "transliteration": "viparyaye tu tat sarvam vyartham bhavati rāvaṇa ।vyasanam svāmi vaiguṇyāt prāpnuvanti itare janāḥ ॥3-41-9॥",
+      "translations": {
+        "english": "Otherwise evrything will become useless, O Ravana Others will suffer calamities on account of their master's vices.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 41,
+      "verse": 10,
+      "sloka": "राज मूलो हि धर्मः च जयः च जयताम् वर ।तस्मात् सर्वासु अवस्थासु रक्षितव्यो नराधिपाः ॥३-४१-१०॥",
+      "transliteration": "rāja mūlo hi dharmaḥ ca jayaḥ ca jayatām vara ।tasmāt sarvāsu avasthāsu rakṣitavyo narādhipāḥ ॥3-41-10॥",
+      "translations": {
+        "english": "O Ravana, the best among the victorious indeed the king is at the root of righteousness and victory.Therefore, the king should be protected by all at every stage.",
+        "hindi": "हे जयतांवर ! धर्म व विजय का मूल राजा ही है, अथवा” राजा ही प्रजाओं के धर्म व विजय का मूलकारण है । इसीलिए हर दशा में राजा लोगों की रक्षा करनी चाहिये",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 41,
+      "verse": 11,
+      "sloka": "राज्यम् पालयितुम् शक्यम् न तीक्ष्णेन निशाचर ।न च अपि प्रतिकूलेन न अविनीतेन राक्षस ॥३-४१-११॥",
+      "transliteration": "rājyam pālayitum śakyam na tīkṣṇena niśācara ।na ca api pratikūlena na avinītena rākṣasa ॥3-41-11॥",
+      "translations": {
+        "english": "O nightwalking demon a kingdom cannnot be governed by a king who is rude or hostile or impolite.",
+        "hindi": "हे निशाचर ! जो राजा अत्याचारी होने के कारण प्रजा जनों : को अप्रसन्न रखता हे ओर अपनी इन्द्रियों को वश में नहीं कर“ सकता",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 41,
+      "verse": 12,
+      "sloka": "ये तीक्ष्ण मंत्राः सचिवा भज्यन्ते सह तेन वै ।विषमे तुरगाः शीघ्रा मन्द सारथयो यथा ॥३-४१-१२॥",
+      "transliteration": "ye tīkṣṇa maṁtrāḥ sacivā bhajyante saha tena vai ।viṣame turagāḥ śīghrā manda sārathayo yathā ॥3-41-12॥",
+      "translations": {
+        "english": "Ministers who adopt improper strategies go down along with the king just like swift horses driven by a slow charioteer on a rugged terrain.",
+        "hindi": "न 5 दसक नानु र की १तीच्णेन- बरदण्डेन । (गो०) रप्रतिकूलेन--प्रजाविरुद्धेन । (गो०) . इअविनीतेन--इन्द्रियजयरहितेन । (गो०) ४तीदणमंत्रा:--तीच्ण प्रयो-' _ र न - १ तीच्णोपाय प्रयो-' कार? (गो०)५विषमे--निम्नोश्नत प्रदेश | (गो०): ६मन्द्र--श्रपढु। (गो०) : उम्र उपायों से काम लेने वाले मंत्री उस राजा के साथ अपने किए का फल उसी प्रकार भोगते हैं, जिस प्रकार ऊँची नीची जमीन पर तेज़ी के साथ घोड़े हॉकने बाला नौसिखुआ सारथी । (अर्थात्‌ ऊबड़ खाबड़ सड़क पर तेज़ी के साथ रथ दौड़ने से केवल घोड़ों ही को कष्ट नहीं होता; किन्तु सारथी को भी कष्ट झेलना पडता है)",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 41,
+      "verse": 13,
+      "sloka": "बहवः साधवो लोके युक्त धर्मम् अनुष्ठिताः ।परेषाम् अपराधेन विनष्टाः स परिच्छदाः ॥३-४१-१३॥",
+      "transliteration": "bahavaḥ sādhavo loke yukta dharmam anuṣṭhitāḥ ।pareṣām aparādhena vinaṣṭāḥ sa paricchadāḥ ॥3-41-13॥",
+      "translations": {
+        "english": "Persons who walk the righteous path go down in this world along with their kith and kin due to the mistakes committed by others .",
+        "hindi": "हे रावण ! अनेक धर्मज्ञ जो धर्मानुष्ठान में तत्पर और नीति- मागे का अनुसरण करते थे, दूसरों के अपराध से अपने परिवार सहित नष्ट हो चुके हें",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 41,
+      "verse": 14,
+      "sloka": "स्वामिना प्रतिकूलेन प्रजाः तीक्ष्णेन रावण ।रक्ष्यमाणा न वर्धन्ते मेषा गोमायुना यथा ॥३-४१-१४॥",
+      "transliteration": "svāminā pratikūlena prajāḥ tīkṣṇena rāvaṇa ।rakṣyamāṇā na vardhante meṣā gomāyunā yathā ॥3-41-14॥",
+      "translations": {
+        "english": "O Ravana, people who are ruled by a cruel and hostile king will not grow like the sheep protected by a jackal.",
+        "hindi": "हे रावण ! उम्रस्वभाव और प्रतिकूलाचरणसम्पन्न राजा से शासित प्रज्ञा की उन्नति बैसे ही नहीं होती, जैसे रि भेड़ों की उन्नति नहीं होती",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 41,
+      "verse": 15,
+      "sloka": "अवश्यम् विनशिष्यन्ति सर्वे रावण राक्षसाः ।येषाम् त्वम् कर्कशो राजा दुर्बुद्धिः अजित इन्द्रियः ॥३-४१-१५॥",
+      "transliteration": "avaśyam vinaśiṣyanti sarve rāvaṇa rākṣasāḥ ।yeṣām tvam karkaśo rājā durbuddhiḥ ajita indriyaḥ ॥3-41-15॥",
+      "translations": {
+        "english": "Under a rude, crooked king whose senses are not under his control the demons will surely perish.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 41,
+      "verse": 16,
+      "sloka": "तद् इदम् काक तालीयम् घोरम् आसादितम् मया ।अत्र त्वम् शोचनीयो असि स सैन्यो विनशिष्यसि ॥३-४१-१६॥",
+      "transliteration": "tad idam kāka tālīyam ghoram āsāditam mayā ।atra tvam śocanīyo asi sa sainyo vinaśiṣyasi ॥3-41-16॥",
+      "translations": {
+        "english": "I am faced with this dreadful disaster accidentally. You will not only be in a miserable state because of your misdeeds, you will perish along with your army.",
+        "hindi": "अस्तु, में तो इस घोर काम में हाथ डालने से मारा जाउँगा ही, (इसका सुके सोच नहीं) किन्तु सोच तो मुझे इसका है कि, तू ससेन्य नष्ट होगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 41,
+      "verse": 17,
+      "sloka": "माम् निहत्य तु रामो असौ अचिरात् त्वाम् वधिष्यति ।अनेन कृत कृत्यो अस्मि म्रिये च अपि अरिणा हतः ॥३-४१-१७॥",
+      "transliteration": "mām nihatya tu rāmo asau acirāt tvām vadhiṣyati ।anena kṛta kṛtyo asmi mriye ca api ariṇā hataḥ ॥3-41-17॥",
+      "translations": {
+        "english": "Rama will kill you not long after killing me.Hence even if I die in the hands of the enemy, my desire will be fulfilled.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 41,
+      "verse": 18,
+      "sloka": "दर्शनात् एव रामस्य हतम् माम् अवधारय ।आत्मानम् च हतम् विद्धि हृत्वा सीताम् स बान्धवम् ॥३-४१-१८॥",
+      "transliteration": "darśanāt eva rāmasya hatam mām avadhāraya ।ātmānam ca hatam viddhi hṛtvā sītām sa bāndhavam ॥3-41-18॥",
+      "translations": {
+        "english": "Yu most understand that if I die at the very sight of Rama, you along with your relatives will perish with the abduction of Sita.",
+        "hindi": "तू निश्चय जान कि, जहाँ राम के सामने मैं राया कि, में मारा-गया ( अथवा रामदशेन ही . से तू मुके मरा समझ ले )। साथ ही सीता को हरने से तू भा अपते को परिवार सहित मरा हुआ समम ले",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 41,
+      "verse": 19,
+      "sloka": "आनयिष्यसि चेत् सीताम् आश्रमात् सहितो मया ।न एव त्वम् असि न एव अहम् न एव लंका न राक्षसाः ॥३-४१-१९॥",
+      "transliteration": "ānayiṣyasi cet sītām āśramāt sahito mayā ।na eva tvam asi na eva aham na eva laṁkā na rākṣasāḥ ॥3-41-19॥",
+      "translations": {
+        "english": "If you bring Sita from the hermitage with my assistance, know that none of us will surviveyou nor I, nor Lanka , nor the demons.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 41,
+      "verse": 20,
+      "sloka": "निवार्यमाणः तु मया हित एषिणान मृष्यसे वाक्यम् इदम् निशाचर ।परेत कल्पा हि गत आयुषो नराहितम् न गृह्णन्ति सुहृद्भिः ईरितम् ॥३-४१-२०॥",
+      "transliteration": "nivāryamāṇaḥ tu mayā hita eṣiṇāna mṛṣyase vākyam idam niśācara ।pareta kalpā hi gata āyuṣo narāhitam na gṛhṇanti suhṛdbhiḥ īritam ॥3-41-20॥",
+      "translations": {
+        "english": "O Ravana, you do not understand this word of warning coming from your wellwisher. Men who are going to die do not heed the advice given by their friends. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अरण्यकाण्डे एकचत्वारिंशस्सर्गः।। Thus ends the fortyfirst sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+        "hindi": "मेरे मना करने पर भी तू भेरी इन बातों पर कान नहीं देता । सो ठीक ही है, क्योकि जिन लोगों की आयु समाप्त होने वाली होती हे, वे मरणोमुख जीव अपने मित्रों के हितकारी बचनों को नहीं माना करते",
+        "telugu": ""
+      }
+    }
+  ]
+}

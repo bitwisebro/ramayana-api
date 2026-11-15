@@ -1,0 +1,653 @@
+{
+  "kanda": 3,
+  "kanda_name": "Aranya Kanda",
+  "kanda_name_sanskrit": "अरण्यकाण्डम्",
+  "sarga": 73,
+  "verses_count": 46,
+  "verses": [
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 73,
+      "verse": 1,
+      "sloka": "दर्शयित्वा रामाय सीतायाः प्रैमार्गने ।वाक्यम् अन्वर्थम् अर्थज्ञः कबंधः पुनः अब्रवीत् ॥३-७३-१॥",
+      "transliteration": "darśayitvā rāmāya sītāyāḥ praimārgane ।vākyam anvartham arthajñaḥ kabaṁdhaḥ punaḥ abravīt ॥3-73-1॥",
+      "translations": {
+        "english": "Having shown Rama the means to find Sita, Kabandha spoke again these significant words:",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 73,
+      "verse": 2,
+      "sloka": "एष राम शिवः पंथा यत्र एते पुष्पिता द्रुमाः ।प्रतीचीम् दिशम् आश्रित्य प्रकाशन्ते मनो रमाः ॥३-७३-२॥",
+      "transliteration": "eṣa rāma śivaḥ paṁthā yatra ete puṣpitā drumāḥ ।pratīcīm diśam āśritya prakāśante mano ramāḥ ॥3-73-2॥",
+      "translations": {
+        "english": "O Rama the delightful path going westward is auspicious for you. It is shining with trees in bloom. There are jambu (rose apple) trees, priyala trees, jackfruit trees, banyan trees, plaksha trees (a tree from which milky latex oozes out), tinduka trees, holy fig trees, karnikaras (of red and white flowers), mango trees and other trees like dryland, thorny trees, tilaka trees, trees that bloom at night, agnimukhya and asoka trees of blue flowers, kadamba trees, karavira trees, red ashoka trees, and paribhadraka trees.",
+        "hindi": "श्रीराम और लक्ष्मण पहाड़ों पर तरह तरह के शहद की तरह मीठे फलों से लरे हुए वृक्षों को देखते हुए, सुग्रीव से मिलने के लिए चले जाते थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 73,
+      "verse": 3,
+      "sloka": "जंबू प्रियाल पनसाः प्लक्ष न्यग्रोध तिंदुकाः ।अश्वत्थाः कर्णिकाराः च चूताः च अन्ये च पादपाः ॥३-७३-३॥",
+      "transliteration": "jaṁbū priyāla panasāḥ plakṣa nyagrodha tiṁdukāḥ ।aśvatthāḥ karṇikārāḥ ca cūtāḥ ca anye ca pādapāḥ ॥3-73-3॥",
+      "translations": {
+        "english": "O Rama the delightful path going westward is auspicious for you. It is shining with trees in bloom. There are jambu (rose apple) trees, priyala trees, jackfruit trees, banyan trees, plaksha trees (a tree from which milky latex oozes out), tinduka trees, holy fig trees, karnikaras (of red and white flowers), mango trees and other trees like dryland, thorny trees, tilaka trees, trees that bloom at night, agnimukhya and asoka trees of blue flowers, kadamba trees, karavira trees, red ashoka trees, and paribhadraka trees.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 73,
+      "verse": 4,
+      "sloka": "धन्वना नाग वृक्षा तिलका नक्तमालकाः ।नील अशोक कदंबाः च करवीराः च पुष्पिताः ॥३-७३-४॥",
+      "transliteration": "dhanvanā nāga vṛkṣā tilakā naktamālakāḥ ।nīla aśoka kadaṁbāḥ ca karavīrāḥ ca puṣpitāḥ ॥3-73-4॥",
+      "translations": {
+        "english": "O Rama the delightful path going westward is auspicious for you. It is shining with trees in bloom. There are jambu (rose apple) trees, priyala trees, jackfruit trees, banyan trees, plaksha trees (a tree from which milky latex oozes out), tinduka trees, holy fig trees, karnikaras (of red and white flowers), mango trees and other trees like dryland, thorny trees, tilaka trees, trees that bloom at night, agnimukhya and asoka trees of blue flowers, kadamba trees, karavira trees, red ashoka trees, and paribhadraka trees.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 73,
+      "verse": 5,
+      "sloka": "अग्निमुखा अशोकाः च सुरक्ताः परिभद्रकाः ।तान् आरुह्य अथवा भूमौ पातयित्वा च तान् बलात् ॥३-७३-५॥",
+      "transliteration": "agnimukhā aśokāḥ ca suraktāḥ paribhadrakāḥ ।tān āruhya athavā bhūmau pātayitvā ca tān balāt ॥3-73-5॥",
+      "translations": {
+        "english": "Climbing those trees or else pulling them down with your strength, both of you eat the nectarlike sweet fruits and proceed ahead.",
+        "hindi": "बहुत से वृक्षों से घिरे हुए शत्ररी के आश्रम में जा और वहाँ की रमणीयता देखते हुए, वे शबरी के निकट जा पहुँचे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 73,
+      "verse": 6,
+      "sloka": "फलानि अमृत कल्पानि भक्षयित्वा गमिष्यथः ।तत् अतिक्रम्य काकुत्स्थ वनम् पुषित पादपम् ॥३-७३-६॥",
+      "transliteration": "phalāni amṛta kalpāni bhakṣayitvā gamiṣyathaḥ ।tat atikramya kākutstha vanam puṣita pādapam ॥3-73-6॥",
+      "translations": {
+        "english": "O scion of the Kakutstha race proceeding further you will find another forest of the North Kuru state with trees in bloom resembling the pleasuregardens of Nandana.",
+        "hindi": "चह सिद्धा शबरी इन. दोनों भाइयाँ को देखते ही हाथ जोड़ कर खड़ी हो गई । फिर उसने दोनों बुद्धिमान भाइयों के चरणों को स्पशे किआ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 73,
+      "verse": 7,
+      "sloka": "नंदन प्रतिमम् तु अन्यत् कुरवः उत्तरा इव ।सर्व काल फला यत्र पादपा मधुर स्रवाः ॥३-७३-७॥",
+      "transliteration": "naṁdana pratimam tu anyat kuravaḥ uttarā iva ।sarva kāla phalā yatra pādapā madhura sravāḥ ॥3-73-7॥",
+      "translations": {
+        "english": "The trees in that garden with fruits of all seasons drip honey. Like the Chaitraratha garden (of Kubera), it bears fruits of all seasons.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 73,
+      "verse": 8,
+      "sloka": "सर्वे च ऋतवः तत्र वने चैत्ररथे यथा ।फल भार नताः तत्र महा विटप धारिणः ॥३-७३-८॥",
+      "transliteration": "sarve ca ṛtavaḥ tatra vane caitrarathe yathā ।phala bhāra natāḥ tatra mahā viṭapa dhāriṇaḥ ॥3-73-8॥",
+      "translations": {
+        "english": "The trees with huge branches bent down with fruits look like mountains or clouds.",
+        "hindi": "कामादि छः रिपुओं को जो तपस्या सें विन्न डाला करते हैं, तूने जीत तो लिञ्जा हे ? तेरी तपस्या उत्तरोत्तर बढ़ती तो जाती ~ घ्‌ ~ ~ ~» है रो ~ ~ हे ? तूने क्रोध को तो अपने वश में कर रहा है? हे तपोधने ! तू आहार मे ता संभल कर रहती हो न ?",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 73,
+      "verse": 9,
+      "sloka": "शोबन्ते सर्वतः तत्र मेघ पर्वत संनिभाः ।तान् आरुह्य अथवा भूमौ पातैत्वा यथा सुखम् ॥३-७३-९॥",
+      "transliteration": "śobante sarvataḥ tatra megha parvata saṁnibhāḥ ।tān āruhya athavā bhūmau pātaitvā yathā sukham ॥3-73-9॥",
+      "translations": {
+        "english": "Lakshmana will get you the nectarlike fruits either by climbing the trees or by pulling them down.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 73,
+      "verse": 10,
+      "sloka": "फलानि अमृत कल्पानि लक्षमणः ते प्रदास्यति ।चङ्क्रमंतौ वरान् शैलान् शैलात् शैलम् वनात् वनम् ॥३-७३-१०॥",
+      "transliteration": "phalāni amṛta kalpāni lakṣamaṇaḥ te pradāsyati ।caṅkramaṁtau varān śailān śailāt śailam vanāt vanam ॥3-73-10॥",
+      "translations": {
+        "english": "O brave men, pass from hill to hill, forest to forest in great countries until you reach a lake named Pampa.",
+        "hindi": "हे चारुभाषिणी ! तरे सब व्रत तो ठीक ठीक चले जाते हैं ? जा सन्तुष्ट तो रहता है? क्या तेरी गुरुशुभ्रपा सफल हुई! ` २४9 र,मेण तापसी एष्टा सा सिद्धा सिद्धसम्मता । ___ शशस शबरी इद्धा रामाय प्रत्युपस्थिता",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 73,
+      "verse": 11,
+      "sloka": "ततः पुष्करिणीम् वीरौ पंपाम् नाम गमिष्यथः ।अशर्कराम् अविभ्रंशाम् सम तीर्थम् अशैवलाम् ॥३-७३-११॥",
+      "transliteration": "tataḥ puṣkariṇīm vīrau paṁpām nāma gamiṣyathaḥ ।aśarkarām avibhraṁśām sama tīrtham aśaivalām ॥3-73-11॥",
+      "translations": {
+        "english": "The slopes of Pampa are without stones or pebbles, O Rama They are not slippery slopes. They are without moss. The water is neither deep nor shallow. It has smooth beds of sand on the banks and it is full of lotuses and lilies.",
+        "hindi": "आपके दशन करके सुमे आज तप करने का फल. मिल गया । आज, मेरा तप करना और गुरु की सेवा करना सफल. हुआ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 73,
+      "verse": 12,
+      "sloka": "राम संजात वालूकाम् कमल उत्पल शोभिताम् ।तत्र हंसाः प्लवाः क्रौङ्चाः कुरराः चैव राघव ॥३-७३-१२॥",
+      "transliteration": "rāma saṁjāta vālūkām kamala utpala śobhitām ।tatra haṁsāḥ plavāḥ krauṅcāḥ kurarāḥ caiva rāghava ॥3-73-12॥",
+      "translations": {
+        "english": "Moving in the waters of Pampa you will see swans, ducks, krauncha birds and curlews cackling and cooing, O Son of the Raghus.",
+        "hindi": "हू Bl क्या, आज मेरा जन्म भी सफल हो गया । हे देव श्रेष्ठ तेत्तिस श्रीरामचन्द्र ! आज आपका पूजन कर, सुके स्वर्ग भी मिल जायगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 73,
+      "verse": 13,
+      "sloka": "वल्गु स्वरा निकूजन्ति पंपा सलिल गोचराः ।न उद्विजन्ते नरान् दृष्ट्वा वधस्य अकोविदाः शुभाः ॥३-७३-१३॥",
+      "transliteration": "valgu svarā nikūjanti paṁpā salila gocarāḥ ।na udvijante narān dṛṣṭvā vadhasya akovidāḥ śubhāḥ ॥3-73-13॥",
+      "translations": {
+        "english": "Not knowing that they may be killed, the innocent creatures will not be scared of human beings. Both of you can kill and eat the fat birds comparable to balls of ghee.",
+        "hindi": "हि ! कनिका र चशुषा तव सोम्येन पूता$न्मि रघुनन्दन । ˆ ` | है गमिष्याम्यक्षयान्‌ लोकांस्खत्मसादादरिन्दम",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 73,
+      "verse": 14,
+      "sloka": "घृत पिण्ड उपमान् स्थूलान् तान् द्विजान् भक्षयिष्यथः ।रोहितान् वक्र तुण्डान् च नल मीनान् च राघव ॥३-७३-१४॥",
+      "transliteration": "ghṛta piṇḍa upamān sthūlān tān dvijān bhakṣayiṣyathaḥ ।rohitān vakra tuṇḍān ca nala mīnān ca rāghava ॥3-73-14॥",
+      "translations": {
+        "english": "O Rama, scion of the Raghu dynasty there at Pampa, by shooting an arrow at the choicest fishes with a single bone, prawns and big fishes, crookedfaced fishes, fishes without scales and fins, baked on iron skewers and cooked will be offered to you by faithful Lakshmana.",
+        "hindi": "उ ह श्रीराम ! जब आप चित्रकूट में पधारे थे, तब बे ऋषि लोग जनको म सेवा किआ करती थी, दिव्य विमानों में वेठ, स्वर को चले गए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 73,
+      "verse": 15,
+      "sloka": "पंपायाम् इषुभिः मत्स्यान् तत्र राम वरान् हतान् ।निस्त्वक्पक्षानयसतप्तानकृशान्नैककण्टकान् - यद्वा -निः त्वक् पक्षान् अयस तप्तान् अकृशान् न अनेक कण्टकान् ॥३-७३-१५॥",
+      "transliteration": "paṁpāyām iṣubhiḥ matsyān tatra rāma varān hatān ।nistvakpakṣānayasataptānakṛśānnaikakaṇṭakān - yadvā -niḥ tvak pakṣān ayasa taptān akṛśān na aneka kaṇṭakān ॥3-73-15॥",
+      "translations": {
+        "english": "O Rama, scion of the Raghu dynasty there at Pampa, by shooting an arrow at the choicest fishes with a single bone, prawns and big fishes, crookedfaced fishes, fishes without scales and fins, baked on iron skewers and cooked will be offered to you by faithful Lakshmana.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 73,
+      "verse": 16,
+      "sloka": "तव भक्त्या समायुक्तो लक्ष्मणः संप्रदास्यति ।भृशम् तान् खादतो मत्स्यान् पंपायाः पुष्प संचये ॥३-७३-१६॥",
+      "transliteration": "tava bhaktyā samāyukto lakṣmaṇaḥ saṁpradāsyati ।bhṛśam tān khādato matsyān paṁpāyāḥ puṣpa saṁcaye ॥3-73-16॥",
+      "translations": {
+        "english": "While you delightedly eat the fishes, Lakshmana will fetch you water in a lotus leaf from the Pampa to drink. The waters of Pampa full of lotuses carry their scent, It is enjoyable, cool, healthy and clear, resembling silver and crystal.",
+        "hindi": "डस समय तू उनका और उनके साथी लक्ष्मण का स्वागत कर ह्यातिथ्य करना । उनके दशैन करने से तुमे श्रेष्ठ अक्षय्य लोकां की प्राप्रि होगी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 73,
+      "verse": 17,
+      "sloka": "पद्म गन्धि शिवम् वारि सुख शीतम् अनामयम् ।उद्धृत्य स तदा अक्लिष्टम् रूप्य स्फटिक सन्निभम् ॥३-७३-१७॥",
+      "transliteration": "padma gandhi śivam vāri sukha śītam anāmayam ।uddhṛtya sa tadā akliṣṭam rūpya sphaṭika sannibham ॥3-73-17॥",
+      "translations": {
+        "english": "While you delightedly eat the fishes, Lakshmana will fetch you water in a lotus leaf from the Pampa to drink. The waters of Pampa full of lotuses carry their scent, It is enjoyable, cool, healthy and clear, resembling silver and crystal.",
+        "hindi": "हे पुरुषोत्तम ! मैंने आपके लिए पम्पा सरोवर के निकटवर्त्ती बमः से अनेक बन मै उत्पन्न होने वाले कन्दमूल फलों को इकट्ठा कर रखा है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 73,
+      "verse": 18,
+      "sloka": "अथ पुष्कर पर्णेन लक्ष्मणः पाययिष्यति ।स्थूलान् गिरि गुहा शय्यान् वानरान् वन चारिणः ॥३-७३-१८॥",
+      "transliteration": "atha puṣkara parṇena lakṣmaṇaḥ pāyayiṣyati ।sthūlān giri guhā śayyān vānarān vana cāriṇaḥ ॥3-73-18॥",
+      "translations": {
+        "english": "O best of men you will see huge boars of delightful appearance that roar like bulls resting in mountain caves, roaming in the forest and coming to Pampa for its water.",
+        "hindi": "ठिप्पणी--इ६ प्रसंग में एक त्रात ध्यान देने की हैं। वह यह कि कतरो ने श्री राम का यथा विहिततस्कार किया था । “जेठे वेरों का कही उल्लेख नहीं । लोगों ने निराधार राम द्वारा शवरी के जूठ़ें बैर खाए जाने की कटानी गढ़ ली है ।] उउमुक्तः स धर्मात्मा शवर्या शवरीमिदस्‌ । राघवः पाह बिज्ञानेर तां नित्यमवहिष्कृतास",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 73,
+      "verse": 19,
+      "sloka": "साय आह्ने विचरन् राम दर्शयिष्यति लक्ष्मणः ।अपाम् लोभात उपावृत्तान् वृषभान् इव नर्दतः ॥३-७३-१९॥",
+      "transliteration": "sāya āhne vicaran rāma darśayiṣyati lakṣmaṇaḥ ।apām lobhāta upāvṛttān vṛṣabhān iva nardataḥ ॥3-73-19॥",
+      "translations": {
+        "english": "O best of men you will see huge boars of delightful appearance that roar like bulls resting in mountain caves, roaming in the forest and coming to Pampa for its water.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 73,
+      "verse": 20,
+      "sloka": "रूप अन्वितान् च पंपायाम् द्रक्ष्यसि त्वम् नरोत्तम ।साय अह्ने विचरन् राम विटपीन् माल्य धारिणः ॥३-७३-२०॥",
+      "transliteration": "rūpa anvitān ca paṁpāyām drakṣyasi tvam narottama ।sāya ahne vicaran rāma viṭapīn mālya dhāriṇaḥ ॥3-73-20॥",
+      "translations": {
+        "english": "When you stroll in the evening, you will see the trees laden with blossoms and lake Pampa full of cool water. You will forget your grief.",
+        "hindi": "हे तपस्विनी ! मैंने दतु के सुख से तुम्हारे महात्मा सुनियों के २ C2 बक रारा पट सु १ विज्ञाने नित्यवहिष्कृताम--अतिदुलंभपरमात्मज्ञानेविज्ञानवती । ( शि० ) चतुःसप्षतितमः सगः ४७६ के भली भाँति से सुन रखा हे । किन्तु यदि तुम्हें मेरी बात पसंद हो तो, सुमे प्रत्यक्ष उनका प्रभाव दिखला दो.) १६।। एतत्तु वचनं श्रुत्वा राम्रवकत्रा द्विनिःसरतम्‌ । शब 0. शा 0 ॥ र ~ ७ (बरा दशयामास ताबु भा त्न महत्‌",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 73,
+      "verse": 21,
+      "sloka": "शिव उदकम् च पंपायाम् दृष्ट्वा शोकम् विहास्यसि ।सु मनोभिः चितान् तत्र तिलकान् नक्त मालकान् ॥३-७३-२१॥",
+      "transliteration": "śiva udakam ca paṁpāyām dṛṣṭvā śokam vihāsyasi ।su manobhiḥ citān tatra tilakān nakta mālakān ॥3-73-21॥",
+      "translations": {
+        "english": "O son of the Raghus there you will see tilaka trees, night jasmines full of flowers. You will also see blossoming water lilies and lotuses in Pampa.",
+        "hindi": "वह बोली- है रघुनन्दन ! स्गों और पक्षियों से भरा पूरा आर काले बादल कोतरहू श्याम रङ्ग का यह वन देखिए । यह मतङ्ग वेन के नाम से प्रसिद्ध है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 73,
+      "verse": 22,
+      "sloka": "उत्पलानि च फुल्लानि पंकजानि च राघव ।न तानि कश्चित् माल्यानि तत्र आरोपयिता नरः ॥३-७३-२२॥",
+      "transliteration": "utpalāni ca phullāni paṁkajāni ca rāghava ।na tāni kaścit mālyāni tatra āropayitā naraḥ ॥3-73-22॥",
+      "translations": {
+        "english": "There is no one to wear those flowers. Those garlands do not wilt or wither O Rama",
+        "hindi": "ईसा महान सें विशुद्धात्मा और मंत्रों को जानने वाले गुरु लोग बैदिक मंत्रों से यज्ञ किआ करते थे और उन्होंने गङ्गादि ` पबित्र तीर्थो को मंत्रशक्ति से यहाँ बुलाया था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 73,
+      "verse": 23,
+      "sloka": "न च वै म्लानताम् यान्ति न च शीर्यन्ति राघव ।मतंग शिष्याः तत्र आसन् ऋषयः सुसमाहितः ॥३-७३-२३॥",
+      "transliteration": "na ca vai mlānatām yānti na ca śīryanti rāghava ।mataṁga śiṣyāḥ tatra āsan ṛṣayaḥ susamāhitaḥ ॥3-73-23॥",
+      "translations": {
+        "english": "While drops of sweat from the bodies of sage Matanga's disciples fell on earth under the heavy load of forest products they carried for their preceptor, they remained in a calm state. Those drops of sweat turned into flowers and those flowers do not wither due to the power of penance of the sages.",
+        "hindi": "यही वह प्रत्यक्स्थल नाम की वेदी है, जहाँ बैठ कर मेरे पूज्य णुरुलोग पुष्पाञ्जलि ( वृद्धावस्था के कारण ) थरथराते हुए हाथों 8 अपण किआ करते थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 73,
+      "verse": 24,
+      "sloka": "तेषाम् भार अभितप्तानाम् वन्यम् आहरताम् गुरोः ।ये प्रपेतुः महीम् तूर्णम् शरीरात् स्वेद बिन्दवः ॥३-७३-२४॥",
+      "transliteration": "teṣām bhāra abhitaptānām vanyam āharatām guroḥ ।ye prapetuḥ mahīm tūrṇam śarīrāt sveda bindavaḥ ॥3-73-24॥",
+      "translations": {
+        "english": "While drops of sweat from the bodies of sage Matanga's disciples fell on earth under the heavy load of forest products they carried for their preceptor, they remained in a calm state. Those drops of sweat turned into flowers and those flowers do not wither due to the power of penance of the sages.",
+        "hindi": "हे रघुनन्दन ! देखिए उनके तपोबल से आज भी यह वेदी अपनी अतुलित प्रभा से सब दिशाओं को प्रकाशित कर रही हे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 73,
+      "verse": 25,
+      "sloka": "तानि माल्यानि जातानि मुनीनाम् तपसा तदा ।स्वेद बिन्दु समुत्थानि न विनश्यन्ति राघव ॥३-७३-२५॥",
+      "transliteration": "tāni mālyāni jātāni munīnām tapasā tadā ।sveda bindu samutthāni na vinaśyanti rāghava ॥3-73-25॥",
+      "translations": {
+        "english": "O Kakutstha even now their attendant, named Sabari, an old ascetic is there even though they have left long ago.",
+        "hindi": "जब उपवास करते करते वे निवेल हो गए, तव उसके चिम्तवन करते ही सावों समुद्र उनके रनानार्थं यहा प्रकट हुए | सो इभ सातो ससुद्रो को देखिए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 73,
+      "verse": 26,
+      "sloka": "तेषाम् गतानाम् अद्य अपि दृश्यते परिचारिणी ।श्रमणी शबरी नाम काकुत्स्थ चिर जीविनी ॥३-७३-२६॥",
+      "transliteration": "teṣām gatānām adya api dṛśyate paricāriṇī ।śramaṇī śabarī nāma kākutstha cira jīvinī ॥3-73-26॥",
+      "translations": {
+        "english": "O Rama, she is established in righteousness, and you are godlike, and revered by all beings. When she sees you, she will attain heaven.",
+        "hindi": ", जिससे मैं उन धर्मात्मा महर्षियो के पास जा सकेँ, जिनकी में दासी हूँ और जिनका यह आश्रम हे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 73,
+      "verse": 27,
+      "sloka": "त्वाम् तु धर्मे स्थिता नित्यम् सर्व भूत नमस्कृतम् ।दृष्ट्वा देव उपमम् राम स्वर्ग लोकम् गमिष्यति ॥३-७३-२७॥",
+      "transliteration": "tvām tu dharme sthitā nityam sarva bhūta namaskṛtam ।dṛṣṭvā deva upamam rāma svarga lokam gamiṣyati ॥3-73-27॥",
+      "translations": {
+        "english": "O Rama of the Kakutstha family, you will see on reaching the western bank of Pampa an incomparable site of hermitage concealed in a remote place.",
+        "hindi": "देवताओं के पूजन भें उन लोगों ने जो कोमल हाल कौ खिला ऊल्किबोँ चढाई थीं, वे अब तक नहीं मुरमायी हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 73,
+      "verse": 28,
+      "sloka": "ततः तत् राम पंपायाः तीरम् आश्रित्य पश्चिमम् ।आश्रम स्थानम् अतुलम् गुह्यम् काकुत्स्थ पश्यसि ॥३-७३-२८॥",
+      "transliteration": "tataḥ tat rāma paṁpāyāḥ tīram āśritya paścimam ।āśrama sthānam atulam guhyam kākutstha paśyasi ॥3-73-28॥",
+      "translations": {
+        "english": "The elephants of the forest and on the mountains do not attack the hermitage forbidden by sage Matanga.",
+        "hindi": "उनके चन में जो सब बस्तुएँ देखने थोग्प थीं, वे सव आषने देखीं और उनके सबन्ध में जो बातें सुनने योग्य थीं, वे सब आपने सुन लीं । अब में आपकी आज्ञा से चाहती हूँ कि, इस शरीर को त्याग ६",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 73,
+      "verse": 29,
+      "sloka": "न तत्र आक्रमितुम् नागाः शक्नुवन्ति तद् आश्रमे ।ऋषेः तस्य मतंगस्य विधानात् तत् च काननम् ॥३-७३-२९॥",
+      "transliteration": "na tatra ākramitum nāgāḥ śaknuvanti tad āśrame ।ṛṣeḥ tasya mataṁgasya vidhānāt tat ca kānanam ॥3-73-29॥",
+      "translations": {
+        "english": "The elephants of the forest and on the mountains do not attack the hermitage forbidden by sage Matanga.",
+        "hindi": "तदनन्तर श्रीरामचन्द्र जी ढढत्रत धारिणी शाबरी से बोले कि, हे भद्रे! तूने हमारा भली भाँति पूजन किआ है अब तू सुख पूर्वक जहाँ जाना चाहती हो, वहाँ चली जा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 73,
+      "verse": 30,
+      "sloka": "मातंग वनम् इति एव विश्रुतम् रघुनंदन ।तस्मिन् नंदन संकाशे देव अरण्य उपमे वने ॥३-७३-३०॥",
+      "transliteration": "mātaṁga vanam iti eva viśrutam raghunaṁdana ।tasmin naṁdana saṁkāśe deva araṇya upame vane ॥3-73-30॥",
+      "translations": {
+        "english": "O Rama, you will enjoy your stay in that forest which is like Nandana garden, the garden of the gods, full of various birds.",
+        "hindi": "उस धर्मिष्ठा शबरी के बचन सुन, श्रीरामचन्द्र ओर लच्मण बहुत प्रसन्न हुए और कहने लगे, सचमुच यह बड़े आश्चय का बात हे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 73,
+      "verse": 31,
+      "sloka": "नाना विहग संकीर्णे रंस्यसे राम निर्वृतः ।ऋष्यमूकः तु पंपायाः पुरस्तात् पुष्पित द्रुमः ॥३-७३-३१॥",
+      "transliteration": "nānā vihaga saṁkīrṇe raṁsyase rāma nirvṛtaḥ ।ṛṣyamūkaḥ tu paṁpāyāḥ purastāt puṣpita drumaḥ ॥3-73-31॥",
+      "translations": {
+        "english": "Mount Rishyamuka situated on the bank of Pampa has trees filled with blossoms. It is difficult to climb and is protected by young elephants.This lofty mountain was created by Brahma in olden days.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 73,
+      "verse": 32,
+      "sloka": "सु दुःख आरोहणः च एव शिशु नाग अभिरक्षितः ।उदारो ब्रह्मणा चैव पूर्व काले विनिर्मितः ॥३-७३-३२॥",
+      "transliteration": "su duḥkha ārohaṇaḥ ca eva śiśu nāga abhirakṣitaḥ ।udāro brahmaṇā caiva pūrva kāle vinirmitaḥ ॥3-73-32॥",
+      "translations": {
+        "english": "Whatever wealth one dreams of in sleep on top of that mountain he will get on waking up, O Rama",
+        "hindi": "इत्युक्ता जटिला टृद्धा चीरकृष्णाजिनाम्बरा | तस्मिन मुहूर्ते शबरी देहं जीण जिहासती ॥ 2 श्रीरामचन्द्र का वह बचन सुन, उसी घडी वह जटाधारिणी तथा चीर एवं कषण मंगचम को पहिरने वाली शवरी, अपनी 'पुरानी देह को त्यागने की इच्छा से",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 73,
+      "verse": 33,
+      "sloka": "शयानः पुरुषो राम तस्य शैलस्य मूर्धनि ।यत् स्वप्ने लभते वित्तम् तत् प्रबुद्धो अधिगच्छति ॥३-७३-३३॥",
+      "transliteration": "śayānaḥ puruṣo rāma tasya śailasya mūrdhani ।yat svapne labhate vittam tat prabuddho adhigacchati ॥3-73-33॥",
+      "translations": {
+        "english": "If an evildoer or a sinner ascends the (Rishyamuka) mountain, he, in his sleep, will be thrown down with asleep by the demons from there itself. A sinner does not climb this mountain of uneven terrain.",
+        "hindi": "श्रीरामचन्द्रजी की अनुमति ले, जलती हुई आग में कूद पड़ी । फिर उस अग्नि में से प्रज्वलित अग्नि की तरह चमचमाता रूप धारण कर, वह निकली और स्वर्ग को चली गई",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 73,
+      "verse": 34,
+      "sloka": "यः तु एनम् विषम आचारः पाप कर्मा अधिरोहति ।तत्र एव प्रहरन्ति एनम् सुप्तम् आदाय राक्षसाः ॥३-७३-३४॥",
+      "transliteration": "yaḥ tu enam viṣama ācāraḥ pāpa karmā adhirohati ।tatra eva praharanti enam suptam ādāya rākṣasāḥ ॥3-73-34॥",
+      "translations": {
+        "english": "If an evildoer or a sinner ascends the (Rishyamuka) mountain, he, in his sleep, will be thrown down with asleep by the demons from there itself. A sinner does not climb this mountain of uneven terrain.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 73,
+      "verse": 35,
+      "sloka": "तत्र अपि शिशु नागानाम् आक्रंदः श्रूयते महान् ।क्रीडताम् राम पंपायाम् मतंग आश्रम वासिनाम् ॥३-७३-३५॥",
+      "transliteration": "tatra api śiśu nāgānām ākraṁdaḥ śrūyate mahān ।krīḍatām rāma paṁpāyām mataṁga āśrama vāsinām ॥3-73-35॥",
+      "translations": {
+        "english": "O Rama, the trumpeting of the young playful elephants inhabiting sage Matanga's forest can be heard at Pampa.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 73,
+      "verse": 36,
+      "sloka": "सिक्ता रुधिर धाराभिः संहत्य परम द्विपाः ।प्रचरन्ति पृथक् कीर्णा मेघ वर्णाः तरस्विनः ॥३-७३-३६॥",
+      "transliteration": "siktā rudhira dhārābhiḥ saṁhatya parama dvipāḥ ।pracaranti pṛthak kīrṇā megha varṇāḥ tarasvinaḥ ॥3-73-36॥",
+      "translations": {
+        "english": "The great, nimble elphants, dark like clouds, drenched with the flow of ichor come together and then separate and scatter.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 73,
+      "verse": 37,
+      "sloka": "ते तत्र पीत्वा पानीयम् विमलम् चारु शोभनम् ।अत्यन्त सुख संस्पर्शम् सर्व गन्ध समन्वितम् ॥३-७३-३७॥",
+      "transliteration": "te tatra pītvā pānīyam vimalam cāru śobhanam ।atyanta sukha saṁsparśam sarva gandha samanvitam ॥3-73-37॥",
+      "translations": {
+        "english": "The wandering elephants of the forest drink plentiful water, pure and cool, from Pampa and contented, plunge into the forest.",
+        "hindi": "उस समय वह बढ़िया आभूषण पहिने हुए थी । उसके शरीर में दिव्य चन्दन लगा हुआ था। वह सुन्दर वस्त्र पहिने हुए थी। आभूषणों और बखों से सुसञ्जित हो बह देखने में बड़ी सुन्दर जान पड़ती थी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 73,
+      "verse": 38,
+      "sloka": "निवृत्ताः सम्विगाहन्ते वनानि वन गोचराः ।ऋक्षाम् च द्विपिनः चैव नील कोमलक प्रभान् ॥३-७३-३८॥",
+      "transliteration": "nivṛttāḥ samvigāhante vanāni vana gocarāḥ ।ṛkṣām ca dvipinaḥ caiva nīla komalaka prabhān ॥3-73-38॥",
+      "translations": {
+        "english": "When you see, shining like sapphires, the bears, tigers, antelopes who know no defeat, you will get over your grief.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 73,
+      "verse": 39,
+      "sloka": "रुरून् अपेता अपजयान् दृष्ट्वा शोकम् प्रहास्यसि ।राम तस्य तु शैलस्य महती शोभते गुहा ॥३-७३-३९॥",
+      "transliteration": "rurūn apetā apajayān dṛṣṭvā śokam prahāsyasi ।rāma tasya tu śailasya mahatī śobhate guhā ॥3-73-39॥",
+      "translations": {
+        "english": "O son of the Kakutstha family, there is a beautiful cave in that mountain covered with a slab of stone. It is difficult to enter.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 73,
+      "verse": 40,
+      "sloka": "शिला पिधाना काकुत्स्थ दुःखम् च अस्याः प्रवेशनम् ।तस्या गुहायाः प्राक् द्वारे महान् शीत उदको ह्रदः ॥३-७३-४०॥",
+      "transliteration": "śilā pidhānā kākutstha duḥkham ca asyāḥ praveśanam ।tasyā guhāyāḥ prāk dvāre mahān śīta udako hradaḥ ॥3-73-40॥",
+      "translations": {
+        "english": "At the eastern entrance of the cave there is a cool watertank. On its bank teeming with various animals are delightful fruits and roots.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 73,
+      "verse": 41,
+      "sloka": "बहु मूल फलो रम्यो नाना नग समाकुलः ।तस्याम् वसति सुग्रीवः चतुर्भिः सह वानरैः ॥३-७३-४१॥",
+      "transliteration": "bahu mūla phalo ramyo nānā naga samākulaḥ ।tasyām vasati sugrīvaḥ caturbhiḥ saha vānaraiḥ ॥3-73-41॥",
+      "translations": {
+        "english": "Sugriva dwells in that cave with four other monkeys. At times he sits on the top of the mountain.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 73,
+      "verse": 42,
+      "sloka": "कदाचित् शिखरे तस्य पर्वतस्य अपि तिष्ठते ।कबंधः तु अनुशास्य एवम् तौ उभौ राम लक्ष्मणौ ॥३-७३-४२॥",
+      "transliteration": "kadācit śikhare tasya parvatasya api tiṣṭhate ।kabaṁdhaḥ tu anuśāsya evam tau ubhau rāma lakṣmaṇau ॥3-73-42॥",
+      "translations": {
+        "english": "Having instructed both Rama and Lakshmana, courageous Kabandha, wearing a flowergarland, shone brightly like the Sun in the sky.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 73,
+      "verse": 43,
+      "sloka": "स्रग्वी भास्कर वर्ण आभः खे व्यरोचत वीर्यवान् ।तम् तु ख स्थम् महाभागम् कबंधम् राम लक्ष्मणौ ॥३-७३-४३॥",
+      "transliteration": "sragvī bhāskara varṇa ābhaḥ khe vyarocata vīryavān ।tam tu kha stham mahābhāgam kabaṁdham rāma lakṣmaṇau ॥3-73-43॥",
+      "translations": {
+        "english": "Both Rama and Lakshmana, ready to depart, went near the glorious Kabandha waiting in the sky and said, You may go now.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 73,
+      "verse": 44,
+      "sloka": "प्रस्थितौ त्वम् व्रजस्व इति वाक्यम् ऊचतुः अन्तिके ।गम्यताम् कार्य सिद्धि अर्थम् इति तौ अब्रवीत् च सः ॥३-७३-४४॥",
+      "transliteration": "prasthitau tvam vrajasva iti vākyam ūcatuḥ antike ।gamyatām kārya siddhi artham iti tau abravīt ca saḥ ॥3-73-44॥",
+      "translations": {
+        "english": "Then Kabandha said to the brothers satisfied, You may go now to accomplish your task. Then he took leave.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 73,
+      "verse": 45,
+      "sloka": "सुप्रीतौ तौ अनुज्ञाप्य कबंधः प्रस्थितः तदा ॥३-७३-४५॥",
+      "transliteration": "suprītau tau anujñāpya kabaṁdhaḥ prasthitaḥ tadā ॥3-73-45॥",
+      "translations": {
+        "english": "Kabandha assumed his true form, his body shining like the radiance of the Sun. He stood in the sky showing his form and looking at Rama, said, Make friendship with Sugriva. इत्यार्ष श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अरण्यकाण्डे त्रिसप्ततितमस्सर्गः।। Thus ends the seventythird sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 73,
+      "verse": 46,
+      "sloka": "स तत् कबंधः प्रतिपद्य रूपम्वृतः श्रिया भास्कर सर्व देहः ।निदर्शयन् रामम् अवेक्ष्य ख स्थःसख्यम् कुरुष्व इति तदा अभ्युवाच ॥३-७३-४६॥",
+      "transliteration": "sa tat kabaṁdhaḥ pratipadya rūpamvṛtaḥ śriyā bhāskara sarva dehaḥ ।nidarśayan rāmam avekṣya kha sthaḥsakhyam kuruṣva iti tadā abhyuvāca ॥3-73-46॥",
+      "translations": {
+        "english": "",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

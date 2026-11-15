@@ -1,0 +1,14 @@
+{
+  "kanda": 1,
+  "kanda_name": "Bala Kanda",
+  "kanda_name_sanskrit": "बालकाण्डम्",
+  "sarga": 2,
+  "verse": 32,
+  "sloka": "रामस्य चरितम् कृत्स्नम् कुरु त्वम् ऋषिसत्तम ।धर्मात्मनो भगवतो लोके रामस्य धीमतः ॥१-२-३२॥",
+  "transliteration": "rāmasya caritam kṛtsnam kuru tvam ṛṣisattama ।dharmātmano bhagavato loke rāmasya dhīmataḥ ॥1-2-32॥",
+  "translations": {
+    "english": "Narrate the history of Rama who is renowned for righteousness, virtues, wisdom and steadfastness in the manner you have heard it from sage Narada.",
+    "hindi": "लोकों में धर्मात्मा, गुणवान और बुद्धिमान्‌ श्रीरामचन्द्र जी के छिपे हुए अथवा प्रकट सम्पूर्ण चरितां का वणेन, तुम वैसा ही करो जैसा कि, तुम नारद जी के मुख से सुन चुके हो",
+    "telugu": "శ్రీరాముడు \"ధర్మాత్ముడు, (ధర్మమును స్వయముగా ఆచరించుచు, ఇతరులచే ఆచరింపజేయును.) కరుణాళువు, సకలసద్గుణసంపన్నుడు, గొప్ప ప్రజ్ఞాశాలి, మేరునగధీరుడు\". అని లోకమున ఖ్యాతికెక్కినవాడు. అట్టి శ్రీరామునిచరిత్రమును నారదుడు నీకు తెల్పిన ప్రకారము వర్ణింపుము."
+  }
+}

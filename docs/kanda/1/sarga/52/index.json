@@ -1,0 +1,331 @@
+{
+  "kanda": 1,
+  "kanda_name": "Bala Kanda",
+  "kanda_name_sanskrit": "बालकाण्डम्",
+  "sarga": 52,
+  "verses_count": 23,
+  "verses": [
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 52,
+      "verse": 1,
+      "sloka": "तम् दृष्ट्वा परम प्रीतो विश्वामित्रो महाबलः ।प्रणतो विनयात् वीरो वसिष्ठम् जपताम् वरम् ॥१-५२-१॥",
+      "transliteration": "tam dṛṣṭvā parama prīto viśvāmitro mahābalaḥ ।praṇato vinayāt vīro vasiṣṭham japatām varam ॥1-52-1॥",
+      "translations": {
+        "english": "Overwhelmed with joy the mighty, heroic Viswamitra upon seeing Vasishta, the greatest among ascetics, was and offered respectful salutations.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 52,
+      "verse": 2,
+      "sloka": "स्वागतम् तव च इति उक्तो वसिष्ठेन महात्मना ।आसनम् च अस्य भगवान् वसिष्ठो व्यादिदेश ह ॥१-५२-२॥",
+      "transliteration": "svāgatam tava ca iti ukto vasiṣṭhena mahātmanā ।āsanam ca asya bhagavān vasiṣṭho vyādideśa ha ॥1-52-2॥",
+      "translations": {
+        "english": "Adorable Vasishta received Viswamitra with words of welcome and ordered a seat for him.",
+        "hindi": "दोनों राजकुमारों ने पुरी और यज्ञशाला की सजावट देख कर विश्वामित्र जी से कहा-महाराज जनक के यज्ञ की तैयारी तो बडी अच्छी है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 52,
+      "verse": 3,
+      "sloka": "उपविष्टाय च तदा विश्वामित्राय धीमते ।यथा न्यायम् मुनि वरः फल मूलम् उपाहरत् ॥१-५२-३॥",
+      "transliteration": "upaviṣṭāya ca tadā viśvāmitrāya dhīmate ।yathā nyāyam muni varaḥ phala mūlam upāharat ॥1-52-3॥",
+      "translations": {
+        "english": "With the sagacious Viswamitra seated the great ascetic, duly offered him fruits and roots.",
+        "hindi": "हे महाभाग ! देखिए, नाना देशों के रहने वाले हजारों वेदाध्य-- यनशाली ब्राह्मण यहाँ देख पड़ते हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 52,
+      "verse": 4,
+      "sloka": "प्रतिगृह्य तु ताम् पूजाम् वसिष्ठात् राज सत्तमः ।तपो अग्नि होत्र शिष्येषु कुशलम् पर्यपृच्छत ॥१-५२-४॥",
+      "transliteration": "pratigṛhya tu tām pūjām vasiṣṭhāt rāja sattamaḥ ।tapo agni hotra śiṣyeṣu kuśalam paryapṛcchata ॥1-52-4॥",
+      "translations": {
+        "english": "Foremost among kings, the brilliant Viswamitra, having received hospitality from Vasishta, enquired about his welbeing his austerities, his firesacrifices, his disciples and trees (in his hermitage). Vasishta, too, informed him of the welfare of all.",
+        "hindi": "ऋषियों के आवासस्थानो में सैकड़ों ( उनका समान ढोने वाले )- छकड़े देख पड़ते हैं । हे ब्रह्मन्‌ ! कोई स्थान ठीक कीजिए, जहाँ हम\" सव लोग ( आराम के साथ ) रहें",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 52,
+      "verse": 5,
+      "sloka": "विश्वामित्रो महातेजा वनस्पति गणे तथा ।सर्वत्र कुशलम् च आह वसिष्ठो राज सत्तमम् ॥१-५२-५॥",
+      "transliteration": "viśvāmitro mahātejā vanaspati gaṇe tathā ।sarvatra kuśalam ca āha vasiṣṭho rāja sattamam ॥1-52-5॥",
+      "translations": {
+        "english": "Foremost among kings, the brilliant Viswamitra, having received hospitality from Vasishta, enquired about his welbeing his austerities, his firesacrifices, his disciples and trees (in his hermitage). Vasishta, too, informed him of the welfare of all.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 52,
+      "verse": 6,
+      "sloka": "सुख उपविष्टम् राजानम् विश्वामित्रम् महातपाः ।पप्रच्छ जपताम् श्रेष्ठो वसिष्ठो ब्रह्मणः सुतः ॥१-५२-६॥",
+      "transliteration": "sukha upaviṣṭam rājānam viśvāmitram mahātapāḥ ।papraccha japatām śreṣṭho vasiṣṭho brahmaṇaḥ sutaḥ ॥1-52-6॥",
+      "translations": {
+        "english": "Vasishta, son of Brahma, the greatest among those who recite prayers and possess rich asceticism enquired of king Viswamitra comfortably seated (before him):",
+        "hindi": "वश्वामित्र जी के आने दा संवाद पा कर अपने प्रसिद्ध पुरोहित शतानन्द को आगे कर, सहाराज अनक अपने ऋत्विजं सहित, विश्वामित्र जी के लिए अर्ध्यादि का सामान साथ लिए हुए, बड़ी नम्रता फे साथ तुरन्त वहाँ पहुँचे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 52,
+      "verse": 7,
+      "sloka": "कच्चित् ते कुशलम् राजन् कच्चित् धर्मेण रंजयन् ।प्रजाः पालयसे राजन् राज वृत्तेन धार्मिक ॥१-५२-७॥",
+      "transliteration": "kaccit te kuśalam rājan kaccit dharmeṇa raṁjayan ।prajāḥ pālayase rājan rāja vṛttena dhārmika ॥1-52-7॥",
+      "translations": {
+        "english": "\"O King, is it all well with you? O righteous one O heroic one are you ruling (your subjects) in accordance with the duties enjoined upon the king? Do you rule them in conformity with the code of moralit in order to make them happy.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 52,
+      "verse": 8,
+      "sloka": "कच्चित् ते सुभृता भृत्याः कच्चित् तिष्ठन्ति शासने ।कच्चित् ते विजिताः सर्वे रिपवो रिपु सूदन ॥१-५२-८॥",
+      "transliteration": "kaccit te subhṛtā bhṛtyāḥ kaccit tiṣṭhanti śāsane ।kaccit te vijitāḥ sarve ripavo ripu sūdana ॥1-52-8॥",
+      "translations": {
+        "english": "Are your servants provided well with their requirements? Do they abide by your command? O Destroyer of foes have all your enemies been conquered ?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 52,
+      "verse": 9,
+      "sloka": "कच्चित् बले च कोशे च मित्रेषु च परंतप ।कुशलम् ते नर व्याघ्र पुत्र पौत्रे तथा अनघ ॥१-५२-९॥",
+      "transliteration": "kaccit bale ca kośe ca mitreṣu ca paraṁtapa ।kuśalam te nara vyāghra putra pautre tathā anagha ॥1-52-9॥",
+      "translations": {
+        "english": "O Tormentor of enemies O Sinless one O Tiger among men is it all well with your army, treasury, friends, sons and grandsons?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 52,
+      "verse": 10,
+      "sloka": "सर्वत्र कुशलम् राजा वसिष्ठम् प्रत्युदाहरत् ।विश्वामित्रो महातेजा वसिष्ठम् विनय अन्वितम् ॥१-५२-१०॥",
+      "transliteration": "sarvatra kuśalam rājā vasiṣṭham pratyudāharat ।viśvāmitro mahātejā vasiṣṭham vinaya anvitam ॥1-52-10॥",
+      "translations": {
+        "english": "Highly brilliant king Viswamitra, humbly informed Vasishta that all was well.",
+        "hindi": "ओर प्रसन्न हो सब से मिले भेटे । तब राजा जनक हाथ जोड़ कर विश्वामित्र जी से बोजे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 52,
+      "verse": 11,
+      "sloka": "कृत्वा तौ सुचिरम् कालम् धर्मिष्ठौ ताः कथाः तदा ।मुदा परमया युक्तौ प्रीयेताम् तौ परस्परम् ॥१-५२-११॥",
+      "transliteration": "kṛtvā tau suciram kālam dharmiṣṭhau tāḥ kathāḥ tadā ।mudā paramayā yuktau prīyetām tau parasparam ॥1-52-11॥",
+      "translations": {
+        "english": "Both the righteous personalities dwelt at length on various matters and interesting anecdotes with great delight and derived mutual pleasure.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 52,
+      "verse": 12,
+      "sloka": "ततो वसिष्ठो भगवान् कथा अन्ते रघुनंदन ।विश्वामित्रम् इदम् वाक्यम् उवाच प्रहसन् इव ॥१-५२-१२॥",
+      "transliteration": "tato vasiṣṭho bhagavān kathā ante raghunaṁdana ।viśvāmitram idam vākyam uvāca prahasan iva ॥1-52-12॥",
+      "translations": {
+        "english": "O Descendent of Raghu at the end of the conversation, venerable Vasishta, smiling as it were said to Viswamitra",
+        "hindi": "वदनन्तर राजा जनक भी अपने पुरोहित, ऋतिजों और मंत्रियों के साथ उचित स्थानों पर आसनों के ऊपर बैठे । राजा जनक बीच में थे ओर अन्य सब उनके चारों ओर बैठे हुए थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 52,
+      "verse": 13,
+      "sloka": "आतिथ्यम् कर्तुम् इच्छामि बलस्य अस्य महाबल ।तव च एव अप्रमेयस्य यथा अर्हम् संप्रतीच्छ मे ॥१-५२-१३॥",
+      "transliteration": "ātithyam kartum icchāmi balasya asya mahābala ।tava ca eva aprameyasya yathā arham saṁpratīccha me ॥1-52-13॥",
+      "translations": {
+        "english": "O Highy powerful Viswamitra I wish to offer appropriate hospitality to you and to your incomparable army. Be pleased to accept it.",
+        "hindi": "सब लोगों को यथास्थान वैठा देख, महाराज जनक, विश्वा मित्र जी से बोले--आज देवताओं के अग्रह से मेरे यज्ञ में जो कमी थी “बह्‌ पूरी हुई",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 52,
+      "verse": 14,
+      "sloka": "सत्क्रियाम् तु भवान् एताम् प्रतीच्छतु मया कृताम् ।राजन् त्वम् अतिथि श्रेष्ठः पूजनीयः प्रयत्नतः ॥१-५२-१४॥",
+      "transliteration": "satkriyām tu bhavān etām pratīcchatu mayā kṛtām ।rājan tvam atithi śreṣṭhaḥ pūjanīyaḥ prayatnataḥ ॥1-52-14॥",
+      "translations": {
+        "english": "Please accept the honour I extend. Being a king, you are a distinguished guest. you deserve to be treated respectfully in all possible ways\".",
+        "hindi": "हे भगवन्‌ ! आज आपके दरशन प्राप्रकर मुझे यज्ञ का फल मिल गया । आपके मुनियों सहित यज्ञशाला में पधारने से मैं आज धन्य और अनुगृहीत हुआ । है ब्रह्मे ! ऋत्विज लोग कहते कि, अव केवल बारह रिन और यज्ञ पूर्ण होने को रह गए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 52,
+      "verse": 15,
+      "sloka": "एवम् उक्तो वसिष्ठेन विश्वामित्रो महामतिः ।कृतम् इति अब्रवीत् राजा पूजा वाक्येन मे त्वया ॥१-५२-१५॥",
+      "transliteration": "evam ukto vasiṣṭhena viśvāmitro mahāmatiḥ ।kṛtam iti abravīt rājā pūjā vākyena me tvayā ॥1-52-15॥",
+      "translations": {
+        "english": "To these words of Vasishta, the great intellectual Viswamitra said, \"you have spoken pleasing words. This in itself is hospitality for me\".",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 52,
+      "verse": 16,
+      "sloka": "फल मूलेन भगवन् विद्यते यत् तव आश्रमे ।पाद्येन आचमनीयेन भगवद् दर्शनेन च ॥१-५२-१६॥",
+      "transliteration": "phala mūlena bhagavan vidyate yat tava āśrame ।pādyena ācamanīyena bhagavad darśanena ca ॥1-52-16॥",
+      "translations": {
+        "english": "\"O Worshipful one O Profoundly wise one you are worthy of homage. You have excellently honoured me in all possible ways with whatever fruits and roots available in your hermitage, with water for washing feet and for sipping. You have permitted me darshan with your revered self. I shall leave (now). My regards Look upon me with eyes of friendship\".",
+        "hindi": "तदन-तर यज्ञभाग लेन के लिए देवता आवेंगो। हे कौशिक ! आप उनको देखेंगे । विश्वामित्र जी से यह कह कर, राजा जनक: प्रसन्न हुए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 52,
+      "verse": 17,
+      "sloka": "सर्वथा च महाप्राज्ञ पूजा अर्हेण सुपूजितः ।नमस्ते अस्तु गमिष्यामि मैत्रेण ईक्षस्व चक्षुषा ॥१-५२-१७॥",
+      "transliteration": "sarvathā ca mahāprājña pūjā arheṇa supūjitaḥ ।namaste astu gamiṣyāmi maitreṇa īkṣasva cakṣuṣā ॥1-52-17॥",
+      "translations": {
+        "english": "\"O Worshipful one O Profoundly wise one you are worthy of homage. You have excellently honoured me in all possible ways with whatever fruits and roots available in your hermitage, with water for washing feet and for sipping. You have permitted me darshan with your revered self. I shall leave (now). My regards Look upon me with eyes of friendship\".",
+        "hindi": "नोट--रामायण काल में होने वाले यज्ञो में देवगण अपना यज्ञीय भाग लेने प्रत्यक्ष होकर आते थे । उनको तत्रस्थित सब लोग देख पाते थे ।] पुनस्तं परिपप्रच्छ प्राञ्जलिः प्रयतो नपः इमो कुमारो भ्रं ते देवतुल्यपराक्रमौ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 52,
+      "verse": 18,
+      "sloka": "एवम् ब्रुवन्तम् राजानम् वसिष्ठः पुनः एव हि ।न्यमंत्रयत धर्मात्मा पुनः पुनः उदार धीः ॥१-५२-१८॥",
+      "transliteration": "evam bruvantam rājānam vasiṣṭhaḥ punaḥ eva hi ।nyamaṁtrayata dharmātmā punaḥ punaḥ udāra dhīḥ ॥1-52-18॥",
+      "translations": {
+        "english": "As the king was addressing thus the righteous and generous Vasishta, repeatedly requested him to accept his hospitality.",
+        "hindi": "गजसिंहगती वीरौ शाद लबृषभोपमौ । पद्मपत्रविशालाचतौ खङ्गतूणीधनुधरौ । १८] गज, सिंह, शादूल तथा वृषभ के समान चाल चलने वाले, बीर कमल जैसे नेत्रों वाले, खड्ग, तरकस और धनुष- घारी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 52,
+      "verse": 19,
+      "sloka": "बाढम् इति एव गाधेयो वसिष्ठम् प्रत्युवाच ह ।यथा प्रियम् भगवतः तथा अस्तु मुनि सत्तम ॥१-५२-१९॥",
+      "transliteration": "bāḍham iti eva gādheyo vasiṣṭham pratyuvāca ha ।yathā priyam bhagavataḥ tathā astu muni sattama ॥1-52-19॥",
+      "translations": {
+        "english": "The son of Gadhi said to Vasishta, \"O Preeminent among sages, be it so, O venerable one they will be done\".",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 52,
+      "verse": 20,
+      "sloka": "एवम् उक्तः तथा तेन वसिष्ठो जपताम् वरः ।आजुहाव ततः प्रीतः कल्माषीम् धूत कल्मषः ॥१-५२-२०॥",
+      "transliteration": "evam uktaḥ tathā tena vasiṣṭho japatām varaḥ ।ājuhāva tataḥ prītaḥ kalmāṣīm dhūta kalmaṣaḥ ॥1-52-20॥",
+      "translations": {
+        "english": "Vasishta who was highly brilliant the greatest among those who meditate (on Brahman) and free from sins was pleased. Thereafter he called the speckled cow (Kamadhenu):",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 52,
+      "verse": 21,
+      "sloka": "एहि एहि शबले क्षिप्रम् शृणु च अपि वचो मम ।सबलस्य अस्य राजर्षेः कर्तुम् व्यवसितो अस्मि अहम् ।भोजनेन महा अर्हेण सत्कारम् संविधत्स्व मे ॥१-५२-२१॥",
+      "transliteration": "ehi ehi śabale kṣipram śṛṇu ca api vaco mama ।sabalasya asya rājarṣeḥ kartum vyavasito asmi aham ।bhojanena mahā arheṇa satkāram saṁvidhatsva me ॥1-52-21॥",
+      "translations": {
+        "english": "\"O Sabala, come on quick Listen to my words. I have decided to honour this royal saint and his army with excellent food. Make necessary arrangemets.",
+        "hindi": "गोह्‌ के दस्ताने हाथों में पहने हुए हैं, तलवारें भी लिए हुए हैं, बड़ी युति वाले हैं, काकपत्त क्षरखे हुए हे, कात्तिकेय के समान बीर हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 52,
+      "verse": 22,
+      "sloka": "यस्य यस्य यथा कामम् षड् रसेषु अभिपूजितम् ।तत् सर्वम् काम धुक् दिव्ये अभिवर्ष कृते मम ॥१-५२-२२॥",
+      "transliteration": "yasya yasya yathā kāmam ṣaḍ raseṣu abhipūjitam ।tat sarvam kāma dhuk divye abhivarṣa kṛte mama ॥1-52-22॥",
+      "translations": {
+        "english": "O Kamadhenu quickly entertain them for my sake with the food of six kinds of tastes (varieties of rich dishes) as desired by each.",
+        "hindi": "खूप और उदारता आदि गुणों से मनुष्य के मन को हरने बाले हैं । हमारे कुल को उजागर कर के, हमारा उद्धार करने यहाँ आए हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 52,
+      "verse": 23,
+      "sloka": "रसेन अन्नेन पानेन लेह्य चोष्येण संयुतम् ।अन्नानाम् निचयम् सर्वम् सृजस्व शबले त्वर ॥१-५२-२३॥",
+      "transliteration": "rasena annena pānena lehya coṣyeṇa saṁyutam ।annānām nicayam sarvam sṛjasva śabale tvara ॥1-52-23॥",
+      "translations": {
+        "english": "O Sabala create at once all food items consisting of liquids and solids for drinking, tasting and siping.\" इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे द्विपञ्चाशस्सर्ग:। Thus ends the fiftysecond sarga of Balakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

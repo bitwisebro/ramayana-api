@@ -1,0 +1,345 @@
+{
+  "kanda": 3,
+  "kanda_name": "Aranya Kanda",
+  "kanda_name_sanskrit": "अरण्यकाण्डम्",
+  "sarga": 22,
+  "verses_count": 24,
+  "verses": [
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 22,
+      "verse": 1,
+      "sloka": "एवम् आधर्षितः शूरः शूर्पणख्या खरः ततः ।उवाच रक्षसाम् मध्ये खरः खरतरम् वचः ॥३-२२-१॥",
+      "transliteration": "evam ādharṣitaḥ śūraḥ śūrpaṇakhyā kharaḥ tataḥ ।uvāca rakṣasām madhye kharaḥ kharataram vacaḥ ॥3-22-1॥",
+      "translations": {
+        "english": "Ashamed and accused thus in the presence of the demons, the valiant Khara spoke to Surpanakha in harsh words:",
+        "hindi": "है अरण्यफाएड का ब्रीसवाँ सग पूरा हुआ । (oS ° एकावशः सगः लि स पुनः पतितां षरा क्रोधाच्छूपणखां खरः । उवाच व्यक्तया वाचा तामनथांथ १मागताम्‌",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 22,
+      "verse": 2,
+      "sloka": "तव अपमान प्रभवः क्रोधो अयम् अतुलो मम ।न शक्यते धारयितुम् लवण अंभ इव उल्बणम् ॥३-२२-२॥",
+      "transliteration": "tava apamāna prabhavaḥ krodho ayam atulo mama ।na śakyate dhārayitum lavaṇa aṁbha iva ulbaṇam ॥3-22-2॥",
+      "translations": {
+        "english": "Like the overslowing salt sea water, I am unable to contain this my excessive anger arising out of your insult.",
+        "hindi": "मेने तुझे प्रसन्न करने के लिए रुधिर पीने वाले और शूरवीर चोदह राक्षस भेज दिए~-अत्र तू फिर क्यों रो रही है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 22,
+      "verse": 3,
+      "sloka": "न रामम् गणये वीर्यान् मानुषम् क्षीण जीवितम् ।आत्म दुश्चरितैः प्राणान् हतो यो अद्य विमोक्ष्यति ॥३-२२-३॥",
+      "transliteration": "na rāmam gaṇaye vīryān mānuṣam kṣīṇa jīvitam ।ātma duścaritaiḥ prāṇān hato yo adya vimokṣyati ॥3-22-3॥",
+      "translations": {
+        "english": "Rama is a shortlived human. I do not care for his valour. His life span will be shortened (he will be killed) now for his own misdeeds.",
+        "hindi": "जिन क्षसां का मने (छाट कर) भेजा , जे मेरे विश्वासपात्र हैं ओर उनका मुममे पूर्ण अनुराग होने के कारण, वे मेरे सदा हित चाहने वाले हितैषी हैं । व करिसी के मारने पर भी, मारे नहीं जा सकते और न मेरी आज्ञा टाल सकते हैं ( अर्थात न न तो उनके मारे जाने = मुझे शङ्का है और न मुझे उनके वहाँ न जाने का सन्देह ही हे )",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 22,
+      "verse": 4,
+      "sloka": "बाष्पः सम्धार्यताम् एष संभ्रमः च विमुच्यताम् ।अहम् रामम् सह भ्रात्रा नयामि यम सादनम् ॥३-२२-४॥",
+      "transliteration": "bāṣpaḥ samdhāryatām eṣa saṁbhramaḥ ca vimucyatām ।aham rāmam saha bhrātrā nayāmi yama sādanam ॥3-22-4॥",
+      "translations": {
+        "english": "Restrain your tears and your anxieties I will send Rama along with his brother to the abode of Yama.",
+        "hindi": "अतः यह क्या बात है ओर इसका क्या कारण है, जोतू फिर “हा नाथ” कह कर चिल्लाती हड साप की तरह जमीन पर लोट रही हे । में इसका कारण सुनना चाहता हू",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 22,
+      "verse": 5,
+      "sloka": "परश्वध हतस्य अद्य मन्द प्राणस्य भू तले ।रामस्य रुधिरम् रक्तम् उष्णम् पास्यसि राक्षसि ॥३-२२-५॥",
+      "transliteration": "paraśvadha hatasya adya manda prāṇasya bhū tale ।rāmasya rudhiram raktam uṣṇam pāsyasi rākṣasi ॥3-22-5॥",
+      "translations": {
+        "english": "With his life ebbing out, killed by my axe in the fight, you will drink today, O demoness, Rama's red, hot blood.",
+        "hindi": "अरे जब में तेरा रक्षक मोजूद हूँ, तव तू अनाथिनी की नाइ विलाप क्यों करती हे ? उठ ! उठ ! डर मत ओर कातरता त्याग दे अथात्‌ अधीर सत हो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 22,
+      "verse": 6,
+      "sloka": "सा प्रहृष्ट्वा वचः श्रुत्वा खरस्य वदनात् च्युतम् ।प्रशशंस पुनर् मौर्ख्यात् भ्रातरम् रक्षसाम् वरम् ॥३-२२-६॥",
+      "transliteration": "sā prahṛṣṭvā vacaḥ śrutvā kharasya vadanāt cyutam ।praśaśaṁsa punar maurkhyāt bhrātaram rakṣasām varam ॥3-22-6॥",
+      "translations": {
+        "english": "On hearing the words that came out of Khara's mouth, she was pleased. And in stupidity began praising her brother once again as the best of demons.",
+        "hindi": "श्रीरासचन्द्र ने मर्मभेदी पेने बाणों से शूल पटा आदि हाथों में लिये हुए ओर क्रोध में भरे हुए, उन चौदडों राक्षसों को युद्ध में मार डाला",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 22,
+      "verse": 7,
+      "sloka": "तया परुषितः पूर्वम् पुनर् एव प्रशंसितः ।अब्रवीत् दूषणम् नाम खरः सेना पतिम् तदा ॥३-२२-७॥",
+      "transliteration": "tayā paruṣitaḥ pūrvam punar eva praśaṁsitaḥ ।abravīt dūṣaṇam nāma kharaḥ senā patim tadā ॥3-22-7॥",
+      "translations": {
+        "english": "Khara, accused by her earlier and admired again, said to Dusana, chief of army:",
+        "hindi": "दे खर ! नाक और कानों से हीन और लोहू से तरबतर, में जब्र ( पडले ) तेरे पास आइ थी, तब तूने धीरज बॅघा कर",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 22,
+      "verse": 8,
+      "sloka": "चतुर्दश सहस्राणि मम चित्त अनुवर्तिनाम् ।रक्षसाम् भीम वेगानाम् समरेषु अनिवर्तिनाम् ॥३-२२-८॥",
+      "transliteration": "caturdaśa sahasrāṇi mama citta anuvartinām ।rakṣasām bhīma vegānām samareṣu anivartinām ॥3-22-8॥",
+      "translations": {
+        "english": "There are fourteen thousand demons at my command ready to act according to my will. They are warriors of terrific speed and will not retreat from the fight.",
+        "hindi": "ओर क्रुद्ध हो कर, चोदह राक्षस मेरे सन्तोपार्थ, लक्ष्मण -सहित श्रीरासचन्द्र का वध करने को भेजे थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 22,
+      "verse": 9,
+      "sloka": "नील जीमूत वर्णानाम्  लोक हिंसा विहाराणाम् ।सर्व उद्योगम् उदीर्णानाम् रक्षसाम् सौम्य कारय  ॥३-२२-९॥",
+      "transliteration": "nīla jīmūta varṇānām  loka hiṁsā vihārāṇām ।sarva udyogam udīrṇānām rakṣasām saumya kāraya  ॥3-22-9॥",
+      "translations": {
+        "english": "They are of the colour of the dark blue cloud, dreadful and merciless, strong and powerful fighters who roam about forturing people.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 22,
+      "verse": 10,
+      "sloka": "उपस्थापय मे क्षिप्रम् रथम् सौम्य धनूंषि च ।शरान् च चित्रान् खड्गां च शक्ती च विविधाः शिताः ॥३-२२-१०॥",
+      "transliteration": "upasthāpaya me kṣipram ratham saumya dhanūṁṣi ca ।śarān ca citrān khaḍgāṁ ca śaktī ca vividhāḥ śitāḥ ॥3-22-10॥",
+      "translations": {
+        "english": "O handsome one, get them all, powerful like tigers, demons with large countenances, mighty and arragant, ready (for the fight).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 22,
+      "verse": 11,
+      "sloka": "अग्रे निर्यातुम् इच्छामि पौलस्त्यानाम् महात्मनाम् ।वधार्थम् दुर्विनीतस्य रामस्य रण कोविद ॥३-२२-११॥",
+      "transliteration": "agre niryātum icchāmi paulastyānām mahātmanām ।vadhārtham durvinītasya rāmasya raṇa kovida ॥3-22-11॥",
+      "translations": {
+        "english": "O goodnatured one, get my chariot, bows and arrows, wonderful swords of different kinds and sharp missiles ready quickly.",
+        "hindi": "॥ » ४ १६ हे निशाचर ! तभीत और दुखी हूँ और हर ओर अफे भ ए दुखी हूँ [र ओर मुझे भय ही भय देख पड़ । इसी i सीसे पुनः तेरी शरण में आई हे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 22,
+      "verse": 12,
+      "sloka": "इति तस्य ब्रुवाणस्य सूर्य वर्णम् महारथम् ।सत् अश्वैः शबलैः युक्तम् आचचक्षे अथ दूषणः ॥३-२२-१२॥",
+      "transliteration": "iti tasya bruvāṇasya sūrya varṇam mahāratham ।sat aśvaiḥ śabalaiḥ yuktam ācacakṣe atha dūṣaṇaḥ ॥3-22-12॥",
+      "translations": {
+        "english": "O expert in warfare, I wish to lead those great warriors of Paulasthya family, to kill that immodest Rama.",
+        "hindi": "ौ 'वेषाद रूपी मगरों से पूर्ण और त्रास रूपी लहरों से लहराते ए महासागर में, में डूब रही हूँ। सो मुझे त क्‍यों नहीं बचाता ?",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 22,
+      "verse": 13,
+      "sloka": "तम् मेरु शिखर आकारम् तप्त कांचन भूषणम् ।हेम चक्रम् असंबाधम् वैदूर्यमय कूबरम् ॥३-२२-१३॥",
+      "transliteration": "tam meru śikhara ākāram tapta kāṁcana bhūṣaṇam ।hema cakram asaṁbādham vaidūryamaya kūbaram ॥3-22-13॥",
+      "translations": {
+        "english": "While Khara was speaking thus, Dusana reported that a huge chariot of the colour of the Sun yoked with good horses of variegated hues stood ready.",
+        "hindi": "के क कोड एते च निहता भूमो रामेण निशितः गरे; । येऽपि मे पदवीं प्राप्ता राक्षसाः पिशिताशनाः १३॥ जो मांसभक्षी हिमायती राक्षस तूने मेरे साथ भेजे थे वे «७५ श्रोराम के पेने बाणों से मारे जा कर जमीन में पड़े हें",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 22,
+      "verse": 14,
+      "sloka": "मत्स्यैः पुष्पैः द्रुमैः शैलैः चन्द्र सूर्यैः च कांचनैः ।मांगल्यैः पक्षि सम्घैः च ताराभिः च समावृतम् ॥३-२२-१४॥",
+      "transliteration": "matsyaiḥ puṣpaiḥ drumaiḥ śailaiḥ candra sūryaiḥ ca kāṁcanaiḥ ।māṁgalyaiḥ pakṣi samghaiḥ ca tārābhiḥ ca samāvṛtam ॥3-22-14॥",
+      "translations": {
+        "english": "Then the impatient Khara mounted the chariot that looked like the peak of mount Meru. It was decorated with pure gold, had golden wheels, poles studded with vaidurya. The carriage of the chariot was engraved with golden figures of fishes, flowers, trees, the Sun, stars, flocks of auspicious birds, flags and swords. Shining with small bells, it was yoked to fine horses.",
+        "hindi": "यदि मेरे ऊपर ओर उन राक्षसो के ऊपर तुमे दया हो और श्रीराम के साथ युद्ध करने की तुममें शक्ति और तेज अर्थात्‌ पराक्रम हो;",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 22,
+      "verse": 15,
+      "sloka": "ध्वज निस्त्रिंश संपन्नम् किंकिणी वर भूषितम् ।सत् अश्व युक्तम् सः अमर्षात् आरुरोह खरः तदा ॥३-२२-१५॥",
+      "transliteration": "dhvaja nistriṁśa saṁpannam kiṁkiṇī vara bhūṣitam ।sat aśva yuktam saḥ amarṣāt āruroha kharaḥ tadā ॥3-22-15॥",
+      "translations": {
+        "english": "Then the impatient Khara mounted the chariot that looked like the peak of mount Meru. It was decorated with pure gold, had golden wheels, poles studded with vaidurya. The carriage of the chariot was engraved with golden figures of fishes, flowers, trees, the Sun, stars, flocks of auspicious birds, flags and swords. Shining with small bells, it was yoked to fine horses.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 22,
+      "verse": 16,
+      "sloka": "खरः तु तान्  महत् सैन्याम् रथ चर्म आयुध ध्वजान् ।निर्यात इति अब्रवीत् प्रेक्ष्य दूषणः सर्व राक्षसान् ॥३-२२-१६॥",
+      "transliteration": "kharaḥ tu tān  mahat sainyām ratha carma āyudha dhvajān ।niryāta iti abravīt prekṣya dūṣaṇaḥ sarva rākṣasān ॥3-22-16॥",
+      "translations": {
+        "english": "Then the impatient Khara mounted the chariot that looked like the peak of mount Meru. It was decorated with pure gold, had golden wheels, poles studded with vaidurya. The carriage of the chariot was engraved with golden figures of fishes, flowers, trees, the Sun, stars, flocks of auspicious birds, flags and swords. Shining with small bells, it was yoked to fine horses.",
+        "hindi": "तो मे तेरे सामने ही लाज छोड़ अपने प्राण दे देंगी । क्योंकि मं यह जानता हू कि तू श्रोरामचन्द्र के साथ युद्ध से बड़ा भारा सेना के साथ ले कर भी नहीं ठहर सकता। तू अपने को समझे हए बैठा है, पर वास्तव में त॒ शुर हे नहीं आर तू अपने पराक्रम की जो डींगे मारता है, वे सत्र झूठी हैं.",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 22,
+      "verse": 17,
+      "sloka": "ततः तद् राक्षसम् सैन्यम् घोर चर्म आयुध ध्वजम् ।निर्जगाम जन स्थानात् महानादम् महाजवम् ॥३-२२-१७॥",
+      "transliteration": "tataḥ tad rākṣasam sainyam ghora carma āyudha dhvajam ।nirjagāma jana sthānāt mahānādam mahājavam ॥3-22-17॥",
+      "translations": {
+        "english": "The demons of terrific prowess surounded Khara and Dusana and stood by, when they saw both of them mounting the chariot.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 22,
+      "verse": 18,
+      "sloka": "मुद्गरैः पट्टिशैः शूलैः सुतीक्ष्णैः च परश्वधैः ।खड्गैः चक्रैः च हस्तस्थैः भ्राजमानैः स तोमरैः ॥३-२२-१८॥",
+      "transliteration": "mudgaraiḥ paṭṭiśaiḥ śūlaiḥ sutīkṣṇaiḥ ca paraśvadhaiḥ ।khaḍgaiḥ cakraiḥ ca hastasthaiḥ bhrājamānaiḥ sa tomaraiḥ ॥3-22-18॥",
+      "translations": {
+        "english": "Khara mounted the chariot, saw the demons holding great weapons, wearing dreadful shields and holding flags, and ordered them to march.",
+        "hindi": "क्‍योंकि त उन दो मनुष्यों अर्थात्‌ श्रीराम और लक्ष्मण को सी नहीं सार सकता । अगर तुममें श्रीराम के साथ युद्ध करन की शक्ति और तेज नहीं हे;",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 22,
+      "verse": 19,
+      "sloka": "शक्तिभिः परिघैः घोरैः अतिमात्रैः च कार्मुकैः ।गदा असि मुसलैः वज्रैः गृहीतैः भीम दर्शनैः ॥३-२२-१९॥",
+      "transliteration": "śaktibhiḥ parighaiḥ ghoraiḥ atimātraiḥ ca kārmukaiḥ ।gadā asi musalaiḥ vajraiḥ gṛhītaiḥ bhīma darśanaiḥ ॥3-22-19॥",
+      "translations": {
+        "english": "Then the army of the demons wearing dreadful shields, holding weapons and flags, and making a loud noise started in great speed from Janasthanam.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 22,
+      "verse": 20,
+      "sloka": "राक्षसानाम् सुघोराणाम् सहस्राणि चतुर्दश ।निर्यातानि जन स्थानात् खर चित्त अनुवर्तिनाम् ॥३-२२-२०॥",
+      "transliteration": "rākṣasānām sughorāṇām sahasrāṇi caturdaśa ।niryātāni jana sthānāt khara citta anuvartinām ॥3-22-20॥",
+      "translations": {
+        "english": "The fourteen thousand demons loyal to the wishes of Khara, took in their hands, maces, piercing weapons, spears, sharp axes used in battle, swords, wheels, splinters, iron clubs, powerful missiles, dreadful iron bars of giant size, bows made of bamboo, clubs and frightening weapons like thunderbolt (of Indra) and departed from Janasthana.",
+        "hindi": "रामतेजोभिभूतो हि त्वं क्षिप्रं विनशिष्यसि २० | त शीघ्र अपने कुटुम्ब को साथ ले, जनस्थान से चला जा। नहीं तो त श्रीरामचन्द्र के पराक्रम से पराजित हो, शीघ्र ह सारा जायगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 22,
+      "verse": 21,
+      "sloka": "तान् तु निर्धावतो दृष्ट्वा राक्षसान् भीम दर्शनम् ।खरस्य अथ रथः किंचित् जगाम तत् अनन्तरम् ॥३-२२-२१॥",
+      "transliteration": "tān tu nirdhāvato dṛṣṭvā rākṣasān bhīma darśanam ।kharasya atha rathaḥ kiṁcit jagāma tat anantaram ॥3-22-21॥",
+      "translations": {
+        "english": "The fourteen thousand demons loyal to the wishes of Khara, took in their hands, maces, piercing weapons, spears, sharp axes used in battle, swords, wheels, splinters, iron clubs, powerful missiles, dreadful iron bars of giant size, bows made of bamboo, clubs and frightening weapons like thunderbolt (of Indra) and departed from Janasthana.",
+        "hindi": "द्र[वरा: सरः १ ६३: भ्राता चास्य महावीर्यो ये याँकि पार: तन्द्रत॑ s+ > के क्याक द्रारथनन्द्च श्रीरामचन्द्र एक तेजस्वी पुरुष हैं और ) बड़ा पराक्रमी उनका भाउ मी £ सने मेरी नाक झो है उनका भाइ भा, जिसने सेरी नाक ओर कान काठे है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 22,
+      "verse": 22,
+      "sloka": "ततः तान् शबलान् अश्वान् तप्त कांचन भूषितान् ।खरस्य मतम् आज्ञाय सारथिः पर्यचोदयत् ॥३-२२-२२॥",
+      "transliteration": "tataḥ tān śabalān aśvān tapta kāṁcana bhūṣitān ।kharasya matam ājñāya sārathiḥ paryacodayat ॥3-22-22॥",
+      "translations": {
+        "english": "The fourteen thousand demons loyal to the wishes of Khara, took in their hands, maces, piercing weapons, spears, sharp axes used in battle, swords, wheels, splinters, iron clubs, powerful missiles, dreadful iron bars of giant size, bows made of bamboo, clubs and frightening weapons like thunderbolt (of Indra) and departed from Janasthana.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 22,
+      "verse": 23,
+      "sloka": "संचोदितो रथः शीघ्रम् खरस्य रिपु घातिनः ।शब्देन आपूरयामास दिशः स प्रदिशः तथा ॥३-२२-२३॥",
+      "transliteration": "saṁcodito rathaḥ śīghram kharasya ripu ghātinaḥ ।śabdena āpūrayāmāsa diśaḥ sa pradiśaḥ tathā ॥3-22-23॥",
+      "translations": {
+        "english": "Khara's chariot moved a bit behind the army of demons of frightening prowess who rushed forward to attack (Rama).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 22,
+      "verse": 24,
+      "sloka": "प्रवृद्ध मन्युः तु खरः खर स्वरेरिपोः वध अर्थम् त्वरितो यथा अंतकः ।अचूचुदत् सारथिम् उन्नदन् पुनर्महाबलो मेघ इव अश्म वर्षवान् ॥३-२२-२४॥",
+      "transliteration": "pravṛddha manyuḥ tu kharaḥ khara svareripoḥ vadha artham tvarito yathā aṁtakaḥ ।acūcudat sārathim unnadan punarmahābalo megha iva aśma varṣavān ॥3-22-24॥",
+      "translations": {
+        "english": "Knowing the mind of Khara, the charioteer hastened the horses of the colourful chariot decorated with pure gold.",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

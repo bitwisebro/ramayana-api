@@ -1,0 +1,387 @@
+{
+  "kanda": 7,
+  "kanda_name": "Uttara Kanda",
+  "kanda_name_sanskrit": "उत्तरकाण्डम्",
+  "sarga": 98,
+  "verses_count": 27,
+  "verses": [
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 98,
+      "verse": 1,
+      "sloka": "रसातलं प्रविष्टायां वैदेह्यां सर्ववानराः ।चुक्रुशुः साधु साध्वीति मुनयो रामसन्निधौ ।। ७.९८.१ ॥",
+      "transliteration": "rasātalaṁ praviṣṭāyāṁ vaidehyāṁ sarvavānarāḥ ।cukruśuḥ sādhu sādhvīti munayo rāmasannidhau ।। 7.98.1 ॥",
+      "translations": {
+        "english": "When Vaidehi entered the netherworld, all the monkeys and sages present before Rama cried out \"Excellent! Excellent!\"",
+        "hindi": "मद्दाप्रतापी देवर्षि शुक्राचार्यं जी ने इस घटना के एक मूहूत्ते बाद ही यह वृत्तान्त सुना | सुनते ही वे अपने शिष्यों सहित अपने आश्रम में लौट आए | उस समय वे भूख के मारे विकल थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 98,
+      "verse": 2,
+      "sloka": "दण्डकाष्ठमवष्टभ्य बाष्पव्याकुलितेक्षणः ।अवाक्छिरा दीनमना रामो ह्यासीत्सुदुःखितः ।। ७.९८.२ ॥",
+      "transliteration": "daṇḍakāṣṭhamavaṣṭabhya bāṣpavyākulitekṣaṇaḥ ।avākchirā dīnamanā rāmo hyāsītsuduḥkhitaḥ ।। 7.98.2 ॥",
+      "translations": {
+        "english": "Leaning upon a staff, with his eyes agitated by tears, his head bowed down, and his mind filled with sorrow, Rama was indeed extremely distressed.",
+        "hindi": "उन्होने आश्रम में लौट कर देखा कि, अरजा दीन और धूल से भरी प्रातःकालीन फीकी जुन्हाई की तरह, देख पड़ती है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 98,
+      "verse": 3,
+      "sloka": "स रुदित्वा चिरं कालं बहुशो बाष्पमुत्सृजन् ।क्रोधशोकसमाविष्टो रामो वचनमब्रवीत् ।। ७.९८.३ ॥",
+      "transliteration": "sa ruditvā ciraṁ kālaṁ bahuśo bāṣpamutsṛjan ।krodhaśokasamāviṣṭo rāmo vacanamabravīt ।। 7.98.3 ॥",
+      "translations": {
+        "english": "Having wept for a long time and shedding many tears, Rama, overcome by both anger and sorrow, then spoke these words.",
+        "hindi": "एक तो वह मद्दाभयङ्कर दुस्संगाइ, दूसरे क्षधा की पोड़ा ( ' इन कारणों से ऋषि को बड़ा क्रोध उपज्ञा । ऐसा जान पढ़ा मानों बे तीनों लोकों को भस्म कर डालेंगे। उन्हाने ( क्रोध में भर ) अपने शिष्य से कहा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 98,
+      "verse": 4,
+      "sloka": "अभूतपूर्वं शोकं मे मनः स्प्रष्टुमिवेच्छति ।पश्यतो मे यथा नष्टा सीता श्रीरिव रूपिणी ।। ७.९८.४ ॥",
+      "transliteration": "abhūtapūrvaṁ śokaṁ me manaḥ spraṣṭumivecchati ।paśyato me yathā naṣṭā sītā śrīriva rūpiṇī ।। 7.98.4 ॥",
+      "translations": {
+        "english": "My mind seems to desire an unprecedented sorrow, as Sita, who was like the embodied goddess of fortune, disappeared right before my eyes.",
+        "hindi": "देखना, अनात्मज्ञ और विपरीत काम करने वाले दुएड पर आज अप्रिशिखा की तरह और मेरे क्रोध से उत्पन्न कैसी विपत्ति पड़ती है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 98,
+      "verse": 5,
+      "sloka": "सा ऽदर्शनं पुरा सीता लङ्कापारे महोदधेः ।ततश्चापि मयानीता किं पुनर्वसुधातलात् ।। ७.९८.५ ॥",
+      "transliteration": "sā 'darśanaṁ purā sītā laṅkāpāre mahodadheḥ ।tataścāpi mayānītā kiṁ punarvasudhātalāt ।। 7.98.5 ॥",
+      "translations": {
+        "english": "Formerly, Sita disappeared on the other side of Lanka, beyond the great ocean, and even from there I brought her back; how much more difficult will it be to retrieve her from the surface of the earth now?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 98,
+      "verse": 6,
+      "sloka": "वसुधे देवि भवति सीता निर्यात्यतां मम ।दर्शयिष्यामि वा रोषं यथा मामवगच्छसि ।। ७.९८.६ ॥",
+      "transliteration": "vasudhe devi bhavati sītā niryātyatāṁ mama ।darśayiṣyāmi vā roṣaṁ yathā māmavagacchasi ।। 7.98.6 ॥",
+      "translations": {
+        "english": "O Goddess Earth, bring forth Sita to me, or else I will show you my wrath so that you understand who I am.",
+        "hindi": "यहाँ जितने चर और अचर जीव हैं, वे सब घूल की वृष्टि से नष्ट हो जाँयगे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 98,
+      "verse": 7,
+      "sloka": "कामं श्वश्रूर्ममैव त्वं त्वत्सकाशाद्धि मैथिली ।कर्षता हलहस्तेन जनकेनोद्धृता पुरा ।। ७.९८.७ ॥",
+      "transliteration": "kāmaṁ śvaśrūrmamaiva tvaṁ tvatsakāśāddhi maithilī ।karṣatā halahastena janakenoddhṛtā purā ।। 7.98.7 ॥",
+      "translations": {
+        "english": "Indeed, you are my mother-in-law, for Maithili was certainly taken out from you by Janaka, who was ploughing with a plough in hand, long ago.",
+        "hindi": "यह दुमति राजा सात रात में पुत्र, सेना और बाहनों सहित नष्ट हो जायगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 98,
+      "verse": 8,
+      "sloka": "तस्मान्निर्यात्यतां सीता विवरं वा प्रयच्छ मे ।पाताले नाकपृष्ठे वा वसेयं सहितस्तया ।। ७.९८.८ ॥",
+      "transliteration": "tasmānniryātyatāṁ sītā vivaraṁ vā prayaccha me ।pātāle nākapṛṣṭhe vā vaseyaṁ sahitastayā ।। 7.98.8 ॥",
+      "translations": {
+        "english": "Therefore, bring forth Sita, or grant me an opening, so that I may dwell with her either in the netherworld or on the surface of heaven.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 98,
+      "verse": 9,
+      "sloka": "आनय त्वं हि तां सीतां मत्तो ऽहं मैथिलीकृते ।न मे दास्यसि चेत्सीतां यथारूपां महीतले ।। ७.९८.९ ॥",
+      "transliteration": "ānaya tvaṁ hi tāṁ sītāṁ matto 'haṁ maithilīkṛte ।na me dāsyasi cetsītāṁ yathārūpāṁ mahītale ।। 7.98.9 ॥",
+      "translations": {
+        "english": "You must indeed bring that Sita, as I am maddened for Maithili's sake; if you do not give Sita to me in her true form on the surface of the earth, then...",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 98,
+      "verse": 10,
+      "sloka": "सपर्वतवनां कृत्स्नां विधमिष्यामि ते स्थितम् ।नाशयिष्याम्यहं भूमिं सर्वमापो भवत्विह ।। ७.९८.१० ॥",
+      "transliteration": "saparvatavanāṁ kṛtsnāṁ vidhamiṣyāmi te sthitam ।nāśayiṣyāmyahaṁ bhūmiṁ sarvamāpo bhavatviha ।। 7.98.10 ॥",
+      "translations": {
+        "english": "I will destroy your entire existence, including all mountains and forests, I will annihilate the earth, and let everything here become water.",
+        "hindi": "दंड का जितना राज्य है, वह समूचा सात दिनों की निरन्तर धूलबृष्टि से चौपट हो जायगा। इसका नाम निशान भी न देख पड़ेगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 98,
+      "verse": 11,
+      "sloka": "एवं ब्रुवाणे काकुत्स्थे क्रोधशोकसमन्विते ।ब्रह्मा सुरगणैः सार्धमुवाच रघुनन्दनम् ।। ७.९८.११ ॥",
+      "transliteration": "evaṁ bruvāṇe kākutsthe krodhaśokasamanvite ।brahmā suragaṇaiḥ sārdhamuvāca raghunandanam ।। 7.98.11 ॥",
+      "translations": {
+        "english": "While Rama, filled with anger and sorrow, was speaking thus, Brahma, accompanied by the hosts of gods, addressed him.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 98,
+      "verse": 12,
+      "sloka": "राम राम न सन्तापं कर्तुमर्हसि सुव्रत ।स्मर त्वं पूर्वकं भावं मन्त्रं चामित्रकर्शन ।। ७.९८.१२ ॥",
+      "transliteration": "rāma rāma na santāpaṁ kartumarhasi suvrata ।smara tvaṁ pūrvakaṁ bhāvaṁ mantraṁ cāmitrakarśana ।। 7.98.12 ॥",
+      "translations": {
+        "english": "O virtuous Rama, you should not grieve; O destroyer of enemies, remember your ancient divine nature and the sacred incantation.",
+        "hindi": "शुक्राचार्यं के ये वचन सुन, उस आश्रम के रहने वाले लोग, उस राज्य को त्याग, तुरन्त दूसरी जगह चले गए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 98,
+      "verse": 13,
+      "sloka": "न खलु त्वां महाबाहो स्मारयेयमनुत्तमम् ।इमं मुहूर्तं दुर्धर्ष स्मर त्वं जन्म वैष्णवम् ।। ७.९८.१३ ॥",
+      "transliteration": "na khalu tvāṁ mahābāho smārayeyamanuttamam ।imaṁ muhūrtaṁ durdharṣa smara tvaṁ janma vaiṣṇavam ।। 7.98.13 ॥",
+      "translations": {
+        "english": "O mighty-armed and unconquerable one, I would indeed remind you of your unsurpassed divine nature; at this very moment, remember your divine birth as Vishnu.",
+        "hindi": "शुक्राचाये ने इस प्रकार आश्रमवासियों से कह कर, अरजा से कहा--हे दुबु द्विन्‌ ! तू इसी आश्रम में रह",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 98,
+      "verse": 14,
+      "sloka": "सीता हि विमला साध्वी तव पूर्वपरायणा ।नागलोकं सुखं प्रायात्त्वदाश्रयतपोबलात् ।। ७.९८.१४ ॥",
+      "transliteration": "sītā hi vimalā sādhvī tava pūrvaparāyaṇā ।nāgalokaṁ sukhaṁ prāyāttvadāśrayatapobalāt ।। 7.98.14 ॥",
+      "translations": {
+        "english": "Indeed, Sita, pure, virtuous, and solely devoted to you from the beginning, happily went to the Naga world by the power of her penance and devotion to you.",
+        "hindi": "हे अरजे ! यह जो एक योजन का सुन्दर सरोवर है, इस पर तू निश्चिन्त हो कर रह और अपने कर्मा का फल भोगती हुई काल की प्रतीक्षा कर अर्थात्‌ यहीँ रह कर अपने उद्धार के समय की बाट जोहती रह",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 98,
+      "verse": 15,
+      "sloka": "स्वर्गे ते सङ्गमो भूयो भविष्यति न संशयः ।अस्यास्तु परिषन्मध्ये यद्ब्रवीमि निबोध तत् ।। ७.९८.१५ ॥",
+      "transliteration": "svarge te saṅgamo bhūyo bhaviṣyati na saṁśayaḥ ।asyāstu pariṣanmadhye yadbravīmi nibodha tat ।। 7.98.15 ॥",
+      "translations": {
+        "english": "There is no doubt that your union with her will happen again in heaven; but understand what I am about to tell you in the midst of this assembly.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 98,
+      "verse": 16,
+      "sloka": "एतदेव हि काव्यं ते काव्यानामुत्तमं श्रुतम् ।सर्वं विस्तरतो राम व्याख्यास्यति न संशयः ।। ७.९८.१६ ॥",
+      "transliteration": "etadeva hi kāvyaṁ te kāvyānāmuttamaṁ śrutam ।sarvaṁ vistarato rāma vyākhyāsyati na saṁśayaḥ ।। 7.98.16 ॥",
+      "translations": {
+        "english": "This poem, which you have heard, is indeed the best among all poems, and Rama will explain everything in detail without a doubt.",
+        "hindi": "सो ब्रह्मा के शा० के कारण उसे यह पाप का फल मिला ओर हे श्रीरामचन्द्र ! तभी से इस देश का नाम दण्डकारण्य प्रसिद्ध हुआ है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 98,
+      "verse": 17,
+      "sloka": "जन्मप्रभृति ते वीर सुखदुःखोपसेवनम् ।भविष्यदुत्तरं चेह सर्वं वाल्मीकिना कृतम् ।। ७.९८.१७ ॥",
+      "transliteration": "janmaprabhṛti te vīra sukhaduḥkhopasevanam ।bhaviṣyaduttaraṁ ceha sarvaṁ vālmīkinā kṛtam ।। 7.98.17 ॥",
+      "translations": {
+        "english": "O hero, Valmiki has composed everything, from your birth and the experiences of joy and sorrow, to the future events that will unfold.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 98,
+      "verse": 18,
+      "sloka": "आदिकाव्यमिदं राम त्वयि सर्वं प्रतिष्ठितम् ।नह्यन्यो ऽर्हति काव्यानां यशोभाग्राघवादृते ।। ७.९८.१८ ॥",
+      "transliteration": "ādikāvyamidaṁ rāma tvayi sarvaṁ pratiṣṭhitam ।nahyanyo 'rhati kāvyānāṁ yaśobhāgrāghavādṛte ।। 7.98.18 ॥",
+      "translations": {
+        "english": "O Rama, this primeval poem is entirely founded upon you, and indeed, no one else but you, O Raghava, deserves the glory among poems.",
+        "hindi": "भागव सुनि के कथनाचुसार सात दिन में धूलव॒ष्टि से ध्वस्त हो गया । हे राम विन्ध्याचल आर शेबलपर्वेत के बीच यह दणड का राज्य था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 98,
+      "verse": 19,
+      "sloka": "श्रुतं ते पूर्वमेतद्धि मया सर्वं सुरैः सह ।दिव्यमद्भुतरूपं च सत्यवाक्यमनावृतम् ।। ७.९८.१९ ॥",
+      "transliteration": "śrutaṁ te pūrvametaddhi mayā sarvaṁ suraiḥ saha ।divyamadbhutarūpaṁ ca satyavākyamanāvṛtam ।। 7.98.19 ॥",
+      "translations": {
+        "english": "Indeed, I have previously heard all of this, which is divine, of wondrous form, and contains unconcealed truthful words, along with the gods.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 98,
+      "verse": 20,
+      "sloka": "स त्वं पुरुषशार्दूल धर्मेण सुसमाहितः ।शेषं भविष्यं काकुत्स्थ काव्यं रामायणं शृणु ।। ७.९८.२० ॥",
+      "transliteration": "sa tvaṁ puruṣaśārdūla dharmeṇa susamāhitaḥ ।śeṣaṁ bhaviṣyaṁ kākutstha kāvyaṁ rāmāyaṇaṁ śṛṇu ।। 7.98.20 ॥",
+      "translations": {
+        "english": "Therefore, O best among men, O Kakutstha, being well-composed and attentive to righteousness, listen to the remaining future events of the Ramayana poem.",
+        "hindi": "हे राम ! तपस्वियों के वास करने के कारण यह जनस्थान भी कहलाता है। दे राम! तुमने जो पूछा, वह सब मेने कहा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 98,
+      "verse": 21,
+      "sloka": "उत्तरं नाम काव्यस्य शेषमत्र महायशः ।तच्छृणुष्व महातेज ऋषिभिः सार्धमुत्तमम् ।। ७.९८.२१ ॥",
+      "transliteration": "uttaraṁ nāma kāvyasya śeṣamatra mahāyaśaḥ ।tacchṛṇuṣva mahāteja ṛṣibhiḥ sārdhamuttamam ।। 7.98.21 ॥",
+      "translations": {
+        "english": "O greatly renowned and effulgent Rama, listen here to this excellent concluding part of the epic poem, named Uttara, along with the sages.",
+        "hindi": "वा? रा० ३०-१४ हे वीर ! अब सन्ध्योपासन का समय निकला जाता हे। देखो, ये महर्षिगण अपने अपने घड़ों में जल भरे हुए चारों ओर से",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 98,
+      "verse": 22,
+      "sloka": "न खल्वन्येन काकुत्स्थ श्रोतव्यमिदमुत्तमम् ।परमम् ऋषिणा वीर त्वयैव रघुनन्दन ।। ७.९८.२२ ॥",
+      "transliteration": "na khalvanyena kākutstha śrotavyamidamuttamam ।paramam ṛṣiṇā vīra tvayaiva raghunandana ।। 7.98.22 ॥",
+      "translations": {
+        "english": "Indeed, O Kakutstha, O hero, O delight of the Raghus, this excellent and supreme work, composed by the sage, is not to be heard by anyone else, but only by you.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 98,
+      "verse": 23,
+      "sloka": "एतावदुक्त्वा वचनं ब्रह्मा त्रिभुवनेश्वरः ।जगाम त्रिदिवं देवो देवैः सह सबान्धवैः ।। ७.९८.२३ ॥",
+      "transliteration": "etāvaduktvā vacanaṁ brahmā tribhuvaneśvaraḥ ।jagāma tridivaṁ devo devaiḥ saha sabāndhavaiḥ ।। 7.98.23 ॥",
+      "translations": {
+        "english": "Having spoken thus, Brahma, the lord of the three worlds, the god, went to heaven along with the other gods and his associates.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 98,
+      "verse": 24,
+      "sloka": "ये च तत्र महात्मान ऋषयो ब्राह्मलौकिकाः ।ब्रह्मणा समनुज्ञाता न्यवर्तन्त महौजसः ।उत्तरं श्रोतुमनसो भविष्यं यच्च राघवे ।। ७.९८.२४ ॥",
+      "transliteration": "ye ca tatra mahātmāna ṛṣayo brāhmalaukikāḥ ।brahmaṇā samanujñātā nyavartanta mahaujasaḥ ।uttaraṁ śrotumanaso bhaviṣyaṁ yacca rāghave ।। 7.98.24 ॥",
+      "translations": {
+        "english": "And those great-souled, greatly powerful sages from Brahma's world, who were desirous to hear the Uttara Kanda and the future events concerning Rama, returned after being permitted by Brahma.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 98,
+      "verse": 25,
+      "sloka": "ततो रामः शुभां वाणीं देवदेवस्य भाषिताम् ।श्रुत्वा परमतेजस्वी वाल्मीकिमिदमब्रवीत् ।। ७.९८.२५ ॥",
+      "transliteration": "tato rāmaḥ śubhāṁ vāṇīṁ devadevasya bhāṣitām ।śrutvā paramatejasvī vālmīkimidamabravīt ।। 7.98.25 ॥",
+      "translations": {
+        "english": "Then, the most effulgent Rama, having heard the auspicious words spoken by Brahma, the god of gods, said this to Valmiki.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 98,
+      "verse": 26,
+      "sloka": "भगवन् श्रोतुमनस ऋषयो ब्राह्मलौकिकाः ।भविष्यदुत्तरं यन्मे श्वोभूते सम्प्रवर्तताम् ।। ७.९८.२६ ॥",
+      "transliteration": "bhagavan śrotumanasa ṛṣayo brāhmalaukikāḥ ।bhaviṣyaduttaraṁ yanme śvobhūte sampravartatām ।। 7.98.26 ॥",
+      "translations": {
+        "english": "Valmiki addresses the venerable sages from Brahma's realm, expressing his desire for the future, latter part of his Ramayana to be commenced on the following day for them to hear.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 98,
+      "verse": 27,
+      "sloka": "एवं विनिश्चयं कृत्वा सम्प्रगृह्य कुशीलवौ ।तं जनौघं विसृज्याथ पर्णशालामुपागमत् ।तामेव शोचतः सीतां सा व्यतीयाय शर्वरी ।। ७.९८.२७ ।।",
+      "transliteration": "evaṁ viniścayaṁ kṛtvā sampragṛhya kuśīlavau ।taṁ janaughaṁ visṛjyātha parṇaśālāmupāgamat ।tāmeva śocataḥ sītāṁ sā vyatīyāya śarvarī ।। 7.98.27 ।।",
+      "translations": {
+        "english": "Having made this decision and accepted Kusha and Lava, Rama dismissed the crowd and returned to his hermitage, where that night passed as he grieved for Sita. इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये श्रीमदुत्तरकाण्डे ऽष्टनवतितमः सर्गः ।। 98 ।। Thus ends the ninety-eighth sarga of Uttara Kanda of the holy Ramayana the first epic composed by sage Valmiki.",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

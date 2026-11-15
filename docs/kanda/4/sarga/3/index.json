@@ -1,0 +1,555 @@
+{
+  "kanda": 4,
+  "kanda_name": "Kishkindha Kanda",
+  "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+  "sarga": 3,
+  "verses_count": 39,
+  "verses": [
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 3,
+      "verse": 1,
+      "sloka": "वचो विज्ञाय हनुमान् सुग्रीवस्य महात्मनः ।पर्वतात् ऋष्यमूकात् तु पुप्लुवे यत्र राघवौ ॥४-३-१॥",
+      "transliteration": "vaco vijñāya hanumān sugrīvasya mahātmanaḥ ।parvatāt ṛṣyamūkāt tu pupluve yatra rāghavau ॥4-3-1॥",
+      "translations": {
+        "english": "Listening to great Sugriva, Hanuman leaped from mount Rishyamuka on to the location of the Raghavas.",
+        "hindi": "किष्किन्धाकाण्ड का चौथा सरे पूर्ण हुआ । ~ क्ष यस, पञ्चम; सगः | जान पड़ता है श्री राम और लक्ष्मण को देख कर भयभीत हो सुग्रीब मलय पवत के किसी सघन स्थान में जा छिपे थे। श्रत: हनुमानजी अष्यमुक पर श्रीराम और लक्ष्मण को छोड़ असली बात कहने को श्रकेले ही सुग्रीव के पास गए । ] एष्यमूकात्तु हनुमान्‌ गत्वातु मलयं गिरिम्‌ । आचचक्षे तदा वीरो कपिराजाय राघवो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 3,
+      "verse": 2,
+      "sloka": "कपि रूपम् परित्यज्य हनुमान् मारुतात्मजः ।भिक्षु रूपम् ततो भेजे शठबुद्धितया कपिः ॥४-३-२॥",
+      "transliteration": "kapi rūpam parityajya hanumān mārutātmajaḥ ।bhikṣu rūpam tato bheje śaṭhabuddhitayā kapiḥ ॥4-3-2॥",
+      "translations": {
+        "english": "Hanuman, son of the Windgod, with an ingenious mind assumed the guise of a mendicant.",
+        "hindi": "जु) हे महाप्राज्ञ ! यह दृढ और सत्यपराक्रमी श्रीरामचन्द्र जी अपने छोटे भाई लक्ष्मण के साथ आए हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 3,
+      "verse": 3,
+      "sloka": "ततः च हनुमान् वाचा श्लक्ष्णया सुमनोज्ञया ।विनीतवत् उपागम्य राघवौ प्रणिपत्य च ॥४-३-३॥",
+      "transliteration": "tataḥ ca hanumān vācā ślakṣṇayā sumanojñayā ।vinītavat upāgamya rāghavau praṇipatya ca ॥4-3-3॥",
+      "translations": {
+        "english": "Approaching the Raghavas in all humility, valiant Hanuman offered them reverential salutations and addressed them in gentle and pleasing words.",
+        "hindi": "श्रीरामचन्द्र इच्चा कुकुलोद्भब महाराज दशरथ के पुत्र ह और पितृआज्ञा पालनरूपी धर्मानुष्ठान में प्रसिद्ध हैं तथा पिता की आज्ञा के पालन करने वाले हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 3,
+      "verse": 4,
+      "sloka": "अबभाषे च तौ वीरौ यथावत् प्रशशंस च ।संपूज्य विधिवद् वीरौ हनुमान् वानरोत्तमः ॥४-३-४॥",
+      "transliteration": "ababhāṣe ca tau vīrau yathāvat praśaśaṁsa ca ।saṁpūjya vidhivad vīrau hanumān vānarottamaḥ ॥4-3-4॥",
+      "translations": {
+        "english": "The valiant son of the Windgod, Hanuman offered those heroes whose power came from their sense of truth due respect and spoke to them in all gentleness:",
+        "hindi": "बन में वास करते हुए इत धर्मात्मा की भार्यां को रावण हर ले गया है । अब ये आपके शरण में आये हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 3,
+      "verse": 5,
+      "sloka": "उवाच कामतो वाक्यम् मृदु सत्य पराक्रमौ ।राजर्षि देव प्रतिमौ तापसौ संशित व्रतौ ॥४-३-५॥",
+      "transliteration": "uvāca kāmato vākyam mṛdu satya parākramau ।rājarṣi deva pratimau tāpasau saṁśita vratau ॥4-3-5॥",
+      "translations": {
+        "english": "'You both fair in complexion, resemble royal sages or gods. You appear like ascetics and pursue vows in austerity. How come, you are present here, as if to frighten the animals and other creatures roaming this forest?",
+        "hindi": "न्होने राजसूय और अखमेत अश्ञोको कर, अग्निदेव को तृप्त जि प बहुत सी दक्षिणा ओर सैकड़ों हजारों गायें ब्राह्मणों को दे डाली हैं तथा जिन्होंने बढ़े परिश्रम से सत्यतापूबेक प्रथिवी का शासन किआ है, उनके पुत्र ये श्रीराम- चन्द्र राक्षस द्वारा हरी हुई स्त्री के पुनः प्राप्त करने के लिए आपके शरण में आए हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 3,
+      "verse": 6,
+      "sloka": "देशम् कथम् इमम् प्राप्तौ भवन्तौ वर वर्णिनौ ।त्रासयन्तौ मृग गणान् अन्याम् च वन चारिणः ॥४-३-६॥",
+      "transliteration": "deśam katham imam prāptau bhavantau vara varṇinau ।trāsayantau mṛga gaṇān anyām ca vana cāriṇaḥ ॥4-3-6॥",
+      "translations": {
+        "english": "'You both fair in complexion, resemble royal sages or gods. You appear like ascetics and pursue vows in austerity. How come, you are present here, as if to frighten the animals and other creatures roaming this forest?",
+        "hindi": "बानरश्रेष्ठ सुमीव ने मनुष्य का रूप धारण कर और अत्यन्त दर्शनीय बन कर प्रीतिपूर्वेक श्रीरामचन्द्र जी से कहा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 3,
+      "verse": 7,
+      "sloka": "पम्पा तीर रुहान् वृक्षान् वीक्षमाणौ समंततः ।इमाम् नदीम् शुभ जलाम् शोभयन्तौ तरस्विनौ ॥४-३-७॥",
+      "transliteration": "pampā tīra ruhān vṛkṣān vīkṣamāṇau samaṁtataḥ ।imām nadīm śubha jalām śobhayantau tarasvinau ॥4-3-7॥",
+      "translations": {
+        "english": "'Gazing at the trees on the bank of Pampa, you both appear in brilliant complexion as if to enhance the beauty of the auspicious river water. Though young, courageous and with handsome shoulders, you seem to sigh in exhaustion. And though you look like ascetics robed in bark, you seem to terrify these creatures.",
+        "hindi": "श्रीराम और लक्ष्मण दोनों भाई पूज्य जनों में अग्रणी हैँ आर आपसे मित्रता करना चाहते हैं। अतः इनको ग्रहण कर इनका सस्कार कीजिए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 3,
+      "verse": 8,
+      "sloka": "धैर्यवन्तौ सुवर्णाभौ कौ युवाम् चीर वाससौ ।निःश्वसन्तौ वर भुजौ पीडयन्तौ इमाः प्रजाः ॥४-३-८॥",
+      "transliteration": "dhairyavantau suvarṇābhau kau yuvām cīra vāsasau ।niḥśvasantau vara bhujau pīḍayantau imāḥ prajāḥ ॥4-3-8॥",
+      "translations": {
+        "english": "'Gazing at the trees on the bank of Pampa, you both appear in brilliant complexion as if to enhance the beauty of the auspicious river water. Though young, courageous and with handsome shoulders, you seem to sigh in exhaustion. And though you look like ascetics robed in bark, you seem to terrify these creatures.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 3,
+      "verse": 9,
+      "sloka": "सिंह विप्रेक्षितौ वीरौ महाबल पराक्रमौ ।शक्र चाप निभे चापे गृहीत्वा शत्रु नाशनौ ॥४-३-९॥",
+      "transliteration": "siṁha viprekṣitau vīrau mahābala parākramau ।śakra cāpa nibhe cāpe gṛhītvā śatru nāśanau ॥4-3-9॥",
+      "translations": {
+        "english": "'Having the gaze of a lion, both of you are heroic in your stance. As each of you hold a bow resembling the rainbow, you seem to be mighty warriors eager to annihilate the enemies. With the valour of superior bulls and your shoulders resembling elephant's trunks, you look magnificent, handsome and brilliant. (No doubt,) you are the best among the humans.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 3,
+      "verse": 10,
+      "sloka": "श्रीमन्तौ रूप संपन्नौ वृषभ श्रेष्ठ विक्रमौ ।हस्ति हस्त उपम भुजौ द्युतिमन्तौ नरर्षभौ ॥४-३-१०॥",
+      "transliteration": "śrīmantau rūpa saṁpannau vṛṣabha śreṣṭha vikramau ।hasti hasta upama bhujau dyutimantau nararṣabhau ॥4-3-10॥",
+      "translations": {
+        "english": "'Having the gaze of a lion, both of you are heroic in your stance. As each of you hold a bow resembling the rainbow, you seem to be mighty warriors eager to annihilate the enemies. With the valour of superior bulls and your shoulders resembling elephant's trunks, you look magnificent, handsome and brilliant. (No doubt,) you are the best among the humans.",
+        "hindi": "आप घमेज्ञ हैँ, पराक्रमी हैं ओर सब पर कृ, करने वाले हैं । क्योंकि हनुमान जी ने आपके गुण यथार्थ रूप से कह सुनाए हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 3,
+      "verse": 11,
+      "sloka": "प्रभया पर्वत इन्द्रः असौ युवयोः अवभासितः ।राज्य अर्हौ अमर प्रख्यौ कथम् देशम् इह आगतौ ॥४-३-११॥",
+      "transliteration": "prabhayā parvata indraḥ asau yuvayoḥ avabhāsitaḥ ।rājya arhau amara prakhyau katham deśam iha āgatau ॥4-3-11॥",
+      "translations": {
+        "english": "'You are young and radiant like the gods. This king of mountains (Rishyamuka) dazzles with your brilliance. Although you deserve to be sovereigns, how is it that you are here (into the forest)?",
+        "hindi": "धर्मविदीतः--धमे शिक्षितः | ( रा० ) हे प्रभो ! मैं जाति का बन्दर हूँ । मेरे साथ आपने क करनी चाही हे सो सह आपने मुझको बड़ा सम्मान प्रदान किआ है और इससे मुझे बड़ा लाभ है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 3,
+      "verse": 12,
+      "sloka": "पद्म पत्र ईक्षणौ वीरौ जटा मण्डल धारिणौ ।अन्योन्य सदृशौ वीरौ देव लोकात् इह आगतौ ॥४-३-१२॥",
+      "transliteration": "padma patra īkṣaṇau vīrau jaṭā maṇḍala dhāriṇau ।anyonya sadṛśau vīrau deva lokāt iha āgatau ॥4-3-12॥",
+      "translations": {
+        "english": "'Both of you appear alike, with eyes like lotus petals and locks of matted hair. You look like heroes descending from the world of the gods. You look like the Sun and the Moon dropped incidentally on this earth. With shoulders like those of a lion and the majesty of energetic bulls, you broadchested warriors appear like divine beings, though in fact humans.",
+        "hindi": "यदि मेरे साथ मैत्रा करना आपको पसन्द हो तो में अपना यह हाथ पसारता हूँ । आप इसे अपने हाथ से पकड़ कर मिन्रता की मर्यादा स्थापित कीजिए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 3,
+      "verse": 13,
+      "sloka": "यदृच्छयेव संप्राप्तौ चन्द्र सूर्यौ वसुंधराम् ।विशाल वक्षसौ वीरौ मानुषौ देव रूपिणौ ॥४-३-१३॥",
+      "transliteration": "yadṛcchayeva saṁprāptau candra sūryau vasuṁdharām ।viśāla vakṣasau vīrau mānuṣau deva rūpiṇau ॥4-3-13॥",
+      "translations": {
+        "english": "'Both of you appear alike, with eyes like lotus petals and locks of matted hair. You look like heroes descending from the world of the gods. You look like the Sun and the Moon dropped incidentally on this earth. With shoulders like those of a lion and the majesty of energetic bulls, you broadchested warriors appear like divine beings, though in fact humans.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 3,
+      "verse": 14,
+      "sloka": "सिंह स्कन्धौ महा उत्साहौ समदौ इव गोवृषौ ।आयताः च सुवृत्ताः च बाहवः परिघोपमाः ॥४-३-१४॥",
+      "transliteration": "siṁha skandhau mahā utsāhau samadau iva govṛṣau ।āyatāḥ ca suvṛttāḥ ca bāhavaḥ parighopamāḥ ॥4-3-14॥",
+      "translations": {
+        "english": "'Your long arms and spherelike shoulders appear as strong as iron clubs. Although they deserve to be decked with ornaments, how is it they are unadorned?",
+        "hindi": "और फिर प्रसन्न हो, श्रीरामचन्द्र ने सुग्रीव को भलीभाँति अपनी छाती से लगाया | इतने में हनुमान जी ने संन्थासि रूप त्याग कर",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 3,
+      "verse": 15,
+      "sloka": "सर्व भूषण भूषार्हाः किम् अर्थम् न विभूषिताः ।उभौ योग्यौ अहम् मन्ये रक्षितुम् पृथिवीम् इमाम् ॥४-३-१५॥",
+      "transliteration": "sarva bhūṣaṇa bhūṣārhāḥ kim artham na vibhūṣitāḥ ।ubhau yogyau aham manye rakṣitum pṛthivīm imām ॥4-3-15॥",
+      "translations": {
+        "english": "'To me, you both deserve to rule the entire earth encompassed by seas and forests and adorned with mountains like Vindhya and Meru.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 3,
+      "verse": 16,
+      "sloka": "स सागर वनाम् कृत्स्नाम् विन्ध्य मेरु विभूषिताम् ।इमे च धनुषी चित्रे श्लक्ष्णे चित्र अनुलेपने ॥४-३-१६॥",
+      "transliteration": "sa sāgara vanām kṛtsnām vindhya meru vibhūṣitām ।ime ca dhanuṣī citre ślakṣṇe citra anulepane ॥4-3-16॥",
+      "translations": {
+        "english": "'Smeared with wonderful unguents, (your) bows look very attractive. And they glow very much like Indra's golden thunderbolt.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 3,
+      "verse": 17,
+      "sloka": "प्रकाशेते यथा इन्द्रस्य वज्रे हेम विभूषिते ।संपूर्णाः च शितैः बाणैः तूणाः च शुभ दर्शनाः ॥४-३-१७॥",
+      "transliteration": "prakāśete yathā indrasya vajre hema vibhūṣite ।saṁpūrṇāḥ ca śitaiḥ bāṇaiḥ tūṇāḥ ca śubha darśanāḥ ॥4-3-17॥",
+      "translations": {
+        "english": "'(Your) quivers also appear beautiful, for they are fully filled with sharp and deadly arrows which look like the hissing of dreadful snakes",
+        "hindi": "इस प्रकार सुग्रीव और श्रीराम की मैत्री हो गई | तदनन्तर अत्यन्त प्रसन्न मन से वे दोनों श्रीराम और सुग्रीव आपस में एक दूसरे को देखने लगे ओर बहुत देर तक देखते रहने पर भी दोनों में से एक को भी तृप्ति न हुई | तदनन्तर श्रीरामचन्द्र ने प्रसन्न हो, सुम्रीद से कहा-लुम मेरे हृदय के प्यारे सखा हो। आज से तुम्हारा दुःख सुख मेरा दुःख सुख ओर मेरा दुःख सुख तुम्हारा दुःख सुख हुआ । सुग्रीव साखू के पेड़ के पत्तों और फूलों से लदी हुईं एक डाली तोड़ लाए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 3,
+      "verse": 18,
+      "sloka": "जीवित अन्तकरैः घोरैः ज्वलद्भिः इव पन्नगैः ।महा प्रमाणौ विपुलौ तप्त हाटक भूषणौ ॥४-३-१८॥",
+      "transliteration": "jīvita antakaraiḥ ghoraiḥ jvaladbhiḥ iva pannagaiḥ ।mahā pramāṇau vipulau tapta hāṭaka bhūṣaṇau ॥4-3-18॥",
+      "translations": {
+        "english": "'(Your) long and broad swords appear very huge in size. Being encrusted with pure gold, they glitter brilliant like snakes in hyberation.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 3,
+      "verse": 19,
+      "sloka": "खड्गौ एतौ विराजेते निर्मुक्त भुजगौ इव ।एवम् माम् परिभाषन्तम् कस्माद् वै न अभि भाषतः ॥४-३-१९॥",
+      "transliteration": "khaḍgau etau virājete nirmukta bhujagau iva ।evam mām paribhāṣantam kasmād vai na abhi bhāṣataḥ ॥4-3-19॥",
+      "translations": {
+        "english": "'Why are you silent while I am talking? (I am here to apprise ) about a great and righteous warrior Sugriva, the chief of the troop of monkeys, sadly wandering all over the land here, banished by his brother",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 3,
+      "verse": 20,
+      "sloka": "सुग्रीवो नाम धर्मात्मा कश्चित् वानर पुंगवः ।वीरो विनिकृतो भ्रात्रा जगत् भ्रमति दुःखितः ॥४-३-२०॥",
+      "transliteration": "sugrīvo nāma dharmātmā kaścit vānara puṁgavaḥ ।vīro vinikṛto bhrātrā jagat bhramati duḥkhitaḥ ॥4-3-20॥",
+      "translations": {
+        "english": "'Why are you silent while I am talking? (I am here to apprise ) about a great and righteous warrior Sugriva, the chief of the troop of monkeys, sadly wandering all over the land here, banished by his brother",
+        "hindi": "सुप्रीव उस साखू के पेड की डाली को जमीन पर पिछा कर श्रीरामचन्द्र सहित उस पर बैठ गए । तदनन्तर वानरोत्तम हनुमान जी ने प्रसन्न हो कर,",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 3,
+      "verse": 21,
+      "sloka": "प्राप्तः अहम् प्रेषितः तेन सुग्रीवेण महात्मना ।राज्ञा वानर मुख्यानाम् हनुमान् नाम वानरः ॥४-३-२१॥",
+      "transliteration": "prāptaḥ aham preṣitaḥ tena sugrīveṇa mahātmanā ।rājñā vānara mukhyānām hanumān nāma vānaraḥ ॥4-3-21॥",
+      "translations": {
+        "english": "'I am a monkey called Hanuman. I am here sent by great king Sugriva, the best of monkeys.",
+        "hindi": "अत्यन्त फूली हुई चन्दन वृक्ष की एक डाली तोड़ कर, लक्ष्मण जी को बैठने के लिए दी । तदनन्तर सुग्रीव प्रसन्न हो मधुर बाणी से, हर्ष के मारे आँखों में आँसू भरे हुए श्रीरामचन्द्रजी से बोले । हे राम ! मैं वालि द्वारा छला गया हूँ और उसके डर से मारा मारा फिरता हूँ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 3,
+      "verse": 22,
+      "sloka": "युवाभ्याम् स हि धर्मात्मा सुग्रीवः सख्यम् इच्छति ।तस्य माम् सचिवम् वित्तम् वानरम् पवनात्मजम् ॥४-३-२२॥",
+      "transliteration": "yuvābhyām sa hi dharmātmā sugrīvaḥ sakhyam icchati ।tasya mām sacivam vittam vānaram pavanātmajam ॥4-3-22॥",
+      "translations": {
+        "english": "'The righteous Sugriva wishes to make friendship with both of you. For his wellbeing I came here disguised as a mendicant from Rishyamuka mountain. I am a monkey, son of the Windgod and minister to Sugriva. I can assume any form at my free will and go anywhere I like'.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 3,
+      "verse": 23,
+      "sloka": "भिक्षु रूप प्रति च्छन्नम् सुग्रीव प्रिय कारणात् ।ऋश्यमूकात् इह प्राप्तम् कामगम् कामचारिणम् ॥४-३-२३॥",
+      "transliteration": "bhikṣu rūpa prati cchannam sugrīva priya kāraṇāt ।ṛśyamūkāt iha prāptam kāmagam kāmacāriṇam ॥4-3-23॥",
+      "translations": {
+        "english": "'The righteous Sugriva wishes to make friendship with both of you. For his wellbeing I came here disguised as a mendicant from Rishyamuka mountain. I am a monkey, son of the Windgod and minister to Sugriva. I can assume any form at my free will and go anywhere I like'.",
+        "hindi": "मैं आर्या के हर जाने से दुःखी हूँ और भयभीत हो इस ठुगम बन में वास करता हूँ । मेरा चित्त सदा विकल रहता है और रात दिन मारे डर के सुमे इस वन में भीरु की तरह रहना पड़ता है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 3,
+      "verse": 24,
+      "sloka": "एवम् उक्त्वा तु हनुमाम् तौ वीरौ राम लक्ष्मणौ ।वाक्यज्ञो वाक्य कुशलः पुनः न उवाच किंचन ॥४-३-२४॥",
+      "transliteration": "evam uktvā tu hanumām tau vīrau rāma lakṣmaṇau ।vākyajño vākya kuśalaḥ punaḥ na uvāca kiṁcana ॥4-3-24॥",
+      "translations": {
+        "english": "The eloquent Hanuman, having spoken thus to both Rama and Lakshmana, good at speaking, said no more.",
+        "hindi": "हे राबघ ! मेरे बालि नामक भाई के कारण मेरा यह दशा हुई हे! क्‍योंकि वह मुमसे शत्रुता रखता है। हे महाभाग ! में भय- भीत हो रहा हूँ । आप सुमे वालि के भग्र से अभय कीजिए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 3,
+      "verse": 25,
+      "sloka": "एतत् श्रुत्वा वचः तस्य रामो लक्ष्मणम् अब्रवीत् ।प्रहृष्ट वदनः श्रीमान् भ्रातरम् पार्श्वतः स्थितम् ॥४-३-२५॥",
+      "transliteration": "etat śrutvā vacaḥ tasya rāmo lakṣmaṇam abravīt ।prahṛṣṭa vadanaḥ śrīmān bhrātaram pārśvataḥ sthitam ॥4-3-25॥",
+      "translations": {
+        "english": "Having heard him, the Illustrious Rama cheerfully said to brother Lakshmana standing nearby:",
+        "hindi": "हे काकुत्स्थ ! और ऐसा कुछ कीजिए कि, जिससे मेरा यह भय सदा के लिए दूर हो जाय। जब सुग्रीव ने इस प्रकार कहा तब तेजस्वी धमज्ञ और घमवत्सल",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 3,
+      "verse": 26,
+      "sloka": "सचिवो अयम् कपीन्द्रस्य सुग्रीवस्य महात्मनः ।तम् एव काङ्क्षमाणस्य मम अन्तिकम् इह आगतः ॥४-३-२६॥",
+      "transliteration": "sacivo ayam kapīndrasya sugrīvasya mahātmanaḥ ।tam eva kāṅkṣamāṇasya mama antikam iha āgataḥ ॥4-3-26॥",
+      "translations": {
+        "english": "'Here is minister to Sugriva, the great chief of monkeys whom I wish to see.",
+        "hindi": "श्रीरामचन्द्रजी सुसक्याते हुए सुम्रीब से कहने लगे । हे महाकपे में यह जानता हूँ कि, मित्रता करने से उपकार ही होता हे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 3,
+      "verse": 27,
+      "sloka": "तम् अभ्यभाष सौमित्रे सुग्रीव सचिवम् कपिम् ।वाक्यज्ञम् मधुरैः वाक्यैः स्नेह युक्तम् अरिन्दम ॥४-३-२७॥",
+      "transliteration": "tam abhyabhāṣa saumitre sugrīva sacivam kapim ।vākyajñam madhuraiḥ vākyaiḥ sneha yuktam arindama ॥4-3-27॥",
+      "translations": {
+        "english": "'O Saumitri, conqueror of enemies this monkey, Sugriva's minister, is skilled in friendly communication. Reply to him in words gentle and sweet.",
+        "hindi": "में तुम्हारी भार्या को छीनने वाले बासि का बध करूं. मेरे ये अमोघ ( कभी खाल्ली न जाने वाले अर्थात्‌ अचूक ) सूर्य की तरह चमचमाते ओर पेने बाण",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 3,
+      "verse": 28,
+      "sloka": "न अन् ऋग्वेद विनीतस्य न अ\\-\\-यजुर्वेद धारिणः ।न अ\\-\\-साम वेद विदुषः शक्यम् एवम् विभाषितुम् ॥४-३-२८॥",
+      "transliteration": "na an ṛgveda vinītasya na a\\-\\-yajurveda dhāriṇaḥ ।na a\\-\\-sāma veda viduṣaḥ śakyam evam vibhāṣitum ॥4-3-28॥",
+      "translations": {
+        "english": "'Unless wellversed in Rigveda, Yajurveda and Samaveda, for sure, it is not possible for anyone to articulate so well.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 3,
+      "verse": 29,
+      "sloka": "नूनम् व्यकरणम् कृत्स्नम् अनेन बहुधा श्रुतम् ।बहु व्याहरता अनेन न किंचित् अप शब्दितम् ॥४-३-२९॥",
+      "transliteration": "nūnam vyakaraṇam kṛtsnam anena bahudhā śrutam ।bahu vyāharatā anena na kiṁcit apa śabditam ॥4-3-29॥",
+      "translations": {
+        "english": "'Surely, he seems to have studied well the whole of grammar, for there is not a single mispronunciation in his entire speech.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 3,
+      "verse": 30,
+      "sloka": "न मुखे नेत्रयोः च अपि ललाटे च भ्रुवोः तथा ।अन्येषु अपि च सर्वेषु दोषः संविदितः क्वचित् ॥४-३-३०॥",
+      "transliteration": "na mukhe netrayoḥ ca api lalāṭe ca bhruvoḥ tathā ।anyeṣu api ca sarveṣu doṣaḥ saṁviditaḥ kvacit ॥4-3-30॥",
+      "translations": {
+        "english": "No fault can be found in his face, eyes, forehead, between the eyebrows or any other part of his body (during his expression).",
+        "hindi": "अपने लिए हितकर श्रीरामचन्द्रजी के इन वचना को सुन सुग्रीब अत्यन्त ग्रसन्त हो कर कहने लगे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 3,
+      "verse": 31,
+      "sloka": "अविस्तरम् असंदिग्धम् अविलम्बितम् अव्यथम् ।उरःस्थम् कण्ठगम् वाक्यम् वर्तते मध्यमे स्वरम् ॥४-३-३१॥",
+      "transliteration": "avistaram asaṁdigdham avilambitam avyatham ।uraḥstham kaṇṭhagam vākyam vartate madhyame svaram ॥4-3-31॥",
+      "translations": {
+        "english": "His sentences are not too elaborate, not ambiguous, not dragging, not fast, raised in the chest or throat, in a medium tone.",
+        "hindi": "हे नरों में श्रेष्ठ श्रीरामचन्द्र ! आपकी कृपा से मुझे मेरी पत्नी ओर राज्य तो मिल हो जायँगे ; किन्तु साथ ही साथ कुळ ऐसा भी कीजिए जिससे वह मेरा बैरी जेठा भाइ फिर मुझे न मारे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 3,
+      "verse": 32,
+      "sloka": "संस्कार क्रम संपन्नाम् अद्भुताम् अविलम्बिताम् ।उच्चारयति कल्याणीम् वाचम् हृदय हर्षिणीम् ॥४-३-३२॥",
+      "transliteration": "saṁskāra krama saṁpannām adbhutām avilambitām ।uccārayati kalyāṇīm vācam hṛdaya harṣiṇīm ॥4-3-32॥",
+      "translations": {
+        "english": "'His words are auspicious. They are refined. Neither fast nor slow, his utterances captivate the heart.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 3,
+      "verse": 33,
+      "sloka": "अनया चित्रया वाचा त्रिस्थान व्यंजनस्थयाः ।कस्य न आराध्यते चित्तम् उद्यत् असे अरेः अपि ॥४-३-३३॥",
+      "transliteration": "anayā citrayā vācā tristhāna vyaṁjanasthayāḥ ।kasya na ārādhyate cittam udyat ase areḥ api ॥4-3-33॥",
+      "translations": {
+        "english": "'His colourful words flow from all the three sources: the bottom of his bosom, his throat and his head. Whose mind will not adore them even if one happens to be an enemy holding a sword?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 3,
+      "verse": 34,
+      "sloka": "एवम् विधो यस्य दूतो न भवेत् पार्थिवस्य तु ।सिद्ध्यन्ति हि कथम् तस्य कार्याणाम् गतयोऽनघ ॥४-३-३४॥",
+      "transliteration": "evam vidho yasya dūto na bhavet pārthivasya tu ।siddhyanti hi katham tasya kāryāṇām gatayo'nagha ॥4-3-34॥",
+      "translations": {
+        "english": "'O sinless one, how can a king, whoever he be, not accomplish his goal in the past with such an ambassador?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 3,
+      "verse": 35,
+      "sloka": "एवम् गुण गणैर् युक्ता यस्य स्युः कार्य साधकाः ।तस्य सिद्ध्यन्ति सर्वेऽर्था दूत वाक्य प्रचोदिताः ॥४-३-३५॥",
+      "transliteration": "evam guṇa gaṇair yuktā yasya syuḥ kārya sādhakāḥ ।tasya siddhyanti sarve'rthā dūta vākya pracoditāḥ ॥4-3-35॥",
+      "translations": {
+        "english": "Whoever has such great taskmasters of great qualities as their envoys, can have all their goals accomplished, driven by their diplomatic skills.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 3,
+      "verse": 36,
+      "sloka": "एवम् उक्तः तु सोउमित्रिः सुग्रीव सचिवम् कपिम् ।अभ्यभाषत वाक्यज्ञो वाक्यज्ञम् पवनात्मजम् ॥४-३-३६॥",
+      "transliteration": "evam uktaḥ tu soumitriḥ sugrīva sacivam kapim ।abhyabhāṣata vākyajño vākyajñam pavanātmajam ॥4-3-36॥",
+      "translations": {
+        "english": "Thus instructed, Saumitri who was equally skilled in speach replied to Sugriva's minister, son of the Windgod",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 3,
+      "verse": 37,
+      "sloka": "विदिता नौ गुणा विद्वन् सुग्रीवस्य महात्मनः ।तम् एव च अवाम् मार्गावः सुग्रीवम् प्लवगेश्वरम् ॥४-३-३७॥",
+      "transliteration": "viditā nau guṇā vidvan sugrīvasya mahātmanaḥ ।tam eva ca avām mārgāvaḥ sugrīvam plavageśvaram ॥4-3-37॥",
+      "translations": {
+        "english": "'O learned Hanuman having heard about the virtues of great Sugriva, lord of the monkeys, we eagerly look forward to meeting him",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 3,
+      "verse": 38,
+      "sloka": "यथा ब्रवीषि हनुमान् सुग्रीव वचनाद् इह ।तत् तथा हि करिष्यावो वचनात् तव सत्तम ॥४-३-३८॥",
+      "transliteration": "yathā bravīṣi hanumān sugrīva vacanād iha ।tat tathā hi kariṣyāvo vacanāt tava sattama ॥4-3-38॥",
+      "translations": {
+        "english": "'O virtuous Hanuman we will do whatever you are saying, for it is the message of Sugriva.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 3,
+      "verse": 39,
+      "sloka": "तत् तस्य वाक्यम् निपुणम् निशम्यप्रहृष्ट रूपः पवनात्मजः कपिः ।मनः समाधाय जय उपपत्तौसख्यम् तदा कर्तुम् इयेष ताभ्याम् ॥४-३-३९॥",
+      "transliteration": "tat tasya vākyam nipuṇam niśamyaprahṛṣṭa rūpaḥ pavanātmajaḥ kapiḥ ।manaḥ samādhāya jaya upapattausakhyam tadā kartum iyeṣa tābhyām ॥4-3-39॥",
+      "translations": {
+        "english": "Pleased with Lakshmana's words spoken in a skilful manner, Hanuman, the monkey son of the Windgod, resolved to make friendship with them. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये किष्किन्धाकाण्डे तृतीयस्सर्गः।। Thus ends the third sarga of Kishkindakanda of the Holy Ramayana, the first epic composed by sage Valmiki.",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

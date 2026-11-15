@@ -1,0 +1,14 @@
+{
+  "kanda": 1,
+  "kanda_name": "Bala Kanda",
+  "kanda_name_sanskrit": "बालकाण्डम्",
+  "sarga": 2,
+  "verse": 30,
+  "sloka": "पुनर् अन्तर्गत मना भूत्वा शोक परायणः।तम् उवाच ततो ब्रह्मा प्रहसन् मुनिपुंगवम् ॥१-२-३०॥",
+  "transliteration": "punar antargata manā bhūtvā śoka parāyaṇaḥ।tam uvāca tato brahmā prahasan munipuṁgavam ॥1-2-30॥",
+  "translations": {
+    "english": "Thereafter lord Brahma smilingly addressed Valmiki, the preeminent among sages, saying, \"You have indeed composed a sloka.There is no doubt about it\".",
+    "hindi": "इस प्रकार वाल्मीकि को चिन्तातुर और शोकान्त्रित देख ब्रह्मः जीने हँस कर, उनसे कहा",
+    "telugu": "అంతట బ్రహ్మ (తన అభిమతానుసారమే అతని ముఖమున ఆ పలుకులు వెలువడినవని భావించి) చిఱునవ్వు నవ్వుచు ఆ మహర్షితో పలికెను. \"నీవు కనికరముతో పలికిన మాటలు ఛందోబద్ధమైన శ్లోకమే. ఈ విషయమున విచారింపవలసిన పనిలేదు. ఓ బ్రాహ్మణోత్తమా! ఈ నీ వాక్కు (సరస్వతి) నా సంకల్ప ప్రకారమే ప్రవర్తిల్లినది. ఓ ఋషీశ్వరా! నీవు శ్రీరామచరితమును సంపూర్ణముగా ఇట్టి ఛందస్సులోనే రచింపుము."
+  }
+}

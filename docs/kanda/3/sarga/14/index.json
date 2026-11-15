@@ -1,0 +1,513 @@
+{
+  "kanda": 3,
+  "kanda_name": "Aranya Kanda",
+  "kanda_name_sanskrit": "अरण्यकाण्डम्",
+  "sarga": 14,
+  "verses_count": 36,
+  "verses": [
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 14,
+      "verse": 1,
+      "sloka": "अथ पंचवटीम् गच्चन्न् अन्तरा रघुनन्दनः ।आससाद महाकायम् गृध्रम् भीम पराक्रमम् ॥३-१४-१॥",
+      "transliteration": "atha paṁcavaṭīm gaccann antarā raghunandanaḥ ।āsasāda mahākāyam gṛdhram bhīma parākramam ॥3-14-1॥",
+      "translations": {
+        "english": "On the way to Panchavati, Rama, the delight of the Raghu race, met a vulture with a huge body and fearful strength.",
+        "hindi": "श्ररणयकाणड का तेरहवाँ सग पूरा हुआ । a ३ चतु्द ९ ९ तुद्श; सग; —B— अथ पश्चवटीं गच्छन्नन्तरा रघुनन्दनः । आससाद महाकायं ग्रध्रं भीमपराक्रमम्‌",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 14,
+      "verse": 2,
+      "sloka": "तम् दृष्ट्वा तौ महाभागौ वनस्थम् राम लक्ष्मणौ ।मेनाते राक्षसम् पक्षिम् ब्रुवाणौ को भवान् इति ॥३-१४-२॥",
+      "transliteration": "tam dṛṣṭvā tau mahābhāgau vanastham rāma lakṣmaṇau ।menāte rākṣasam pakṣim bruvāṇau ko bhavān iti ॥3-14-2॥",
+      "translations": {
+        "english": "Seeing the bird on the banyan tree, venerable Rama and Lakshmana mistook him for a demon and enquired who he was.",
+        "hindi": "महाभाग श्रीराम लक्ष्मण ने, अगस्त्य जी के बतलाए हुए बट बृत्त पर उसे बैठा देख और उसे राक्षस समभ, उससे पूछा कि, तू कोन हे ?",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 14,
+      "verse": 3,
+      "sloka": "स तौ मधुरया वाचा सौम्यया प्रीणयन्न् इव ।उवाच वत्स माम् विद्धि वयस्यम् पितुर् आत्मनः ॥३-१४-३॥",
+      "transliteration": "sa tau madhurayā vācā saumyayā prīṇayann iva ।uvāca vatsa mām viddhi vayasyam pitur ātmanaḥ ॥3-14-3॥",
+      "translations": {
+        "english": "With a sweet, pleasing, and gentle voice he said to both of them, O dear know me to be a friend of your father.",
+        "hindi": "गीध ने बड़े सौजन्य के साथ और मधुर शब्दों में, श्रीरामचन्द्र जी को प्रसन्न करते हुए, उत्तर दिआा-हे वत्स! मुके तुम अपने पिता का मित्र जानो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 14,
+      "verse": 4,
+      "sloka": "स तम् पितृ सखम् मत्वा पूजयामास राघवः ।स तस्य कुलम् अव्यग्रम् अथ पप्रच्छ नाम च ॥३-१४-४॥",
+      "transliteration": "sa tam pitṛ sakham matvā pūjayāmāsa rāghavaḥ ।sa tasya kulam avyagram atha papraccha nāma ca ॥3-14-4॥",
+      "translations": {
+        "english": "Rama knew he was a friend of his father. So he enquired in a cool, composed voice his name and his lineage.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 14,
+      "verse": 5,
+      "sloka": "रामस्य वचनम् श्रुत्वा कुलम् आत्मानम् एव च ।आचचक्षे द्विजः तस्मै सर्वभूत समुद्भवम् ॥३-१४-५॥",
+      "transliteration": "rāmasya vacanam śrutvā kulam ātmānam eva ca ।ācacakṣe dvijaḥ tasmai sarvabhūta samudbhavam ॥3-14-5॥",
+      "translations": {
+        "english": "On hearing Rama's words, the bird started narrating the origin of all beings including his own family:",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 14,
+      "verse": 6,
+      "sloka": "पूर्वकाले महाबाहो ये प्रजापतयो अभवन् ।तान् मे निगदतः सर्वान् आदितः शृणु राघव ॥३-१४-६॥",
+      "transliteration": "pūrvakāle mahābāho ye prajāpatayo abhavan ।tān me nigadataḥ sarvān āditaḥ śṛṇu rāghava ॥3-14-6॥",
+      "translations": {
+        "english": "O mightyarmed Rama hear from me while I am telling you about the lords of creation from the very beginning.",
+        "hindi": "हे महावाह्दो ! पूर्वकाल में जो प्रजापत हो चुके हैँ, उन सब का में आदि से बणन करता हूँ । आप सुनिए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 14,
+      "verse": 7,
+      "sloka": "कर्दमः प्रथमः तेषाम् विकृतः तद् अनन्तरम् ।शेषः च संश्रयः चैव बहु पुत्रः च वीर्यवान्  ॥३-१४-७॥",
+      "transliteration": "kardamaḥ prathamaḥ teṣām vikṛtaḥ tad anantaram ।śeṣaḥ ca saṁśrayaḥ caiva bahu putraḥ ca vīryavān  ॥3-14-7॥",
+      "translations": {
+        "english": "O Rama among the lords of all beings the first was Kardama, the next was Vikritha, followed by Sesha, Samsrya Bahuputra, Sthanu, Mareechi, Atri and mighty Kratu, Pulastya, Angirasa, Pracheta, similarly Pulaha and Daksha.Following them were Vivasvan, Arishtanemi and the very glorious Kasyapa who was the last ruler.",
+        "hindi": "दक्षो विबस्वानपरोरिष्टनेमिश्च राघव । कयपश्चं महातेजास्तेषामासीच पश्चिमः ॥&॥ १ श्रव्यग्रं-यथास्य|त्तया । ( शि० ) ' ७८ 3... छल omer Eas १ कदेस प्रजापति उन सब में बड़े थे । उनके बाद २ बिक्रत, ३ शेष, ४ संश्रय, ५ बहुपुत्र, ६ स्थाणु, ७ मरीचि ८ अत्रि, & ऋतु १० पुलस्त्य ११ अंगिरा १२ प्रचेता १३ पुलह १४ दक्ष १५ विवस्वान १६ अरिष्टनेभि १७ और सब से पीछे कश्नेप हुए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 14,
+      "verse": 8,
+      "sloka": "स्थाणुर् मरीचिर् अत्रिः च क्रतुः चैव महाबलः ।पुलस्त्यः च अंगिराः चैव प्रचेताः पुलहः तथा ॥३-१४-८॥",
+      "transliteration": "sthāṇur marīcir atriḥ ca kratuḥ caiva mahābalaḥ ।pulastyaḥ ca aṁgirāḥ caiva pracetāḥ pulahaḥ tathā ॥3-14-8॥",
+      "translations": {
+        "english": "O Rama among the lords of all beings the first was Kardama, the next was Vikritha, followed by Sesha, Samsrya Bahuputra, Sthanu, Mareechi, Atri and mighty Kratu, Pulastya, Angirasa, Pracheta, similarly Pulaha and Daksha.Following them were Vivasvan, Arishtanemi and the very glorious Kasyapa who was the last ruler.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 14,
+      "verse": 9,
+      "sloka": "दक्षो विवस्वान् अपरो अरिष्टनेमिः च राघव ।कश्यपः च महातेजाः तेषाम् आसीत् च पश्चिमः ॥३-१४-९॥",
+      "transliteration": "dakṣo vivasvān aparo ariṣṭanemiḥ ca rāghava ।kaśyapaḥ ca mahātejāḥ teṣām āsīt ca paścimaḥ ॥3-14-9॥",
+      "translations": {
+        "english": "O Rama among the lords of all beings the first was Kardama, the next was Vikritha, followed by Sesha, Samsrya Bahuputra, Sthanu, Mareechi, Atri and mighty Kratu, Pulastya, Angirasa, Pracheta, similarly Pulaha and Daksha.Following them were Vivasvan, Arishtanemi and the very glorious Kasyapa who was the last ruler.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 14,
+      "verse": 10,
+      "sloka": "प्रजापतेः तु दक्षस्य बभूवुर् इति  विश्रुतम् ।षष्टिर् दुहितरो राम यशस्विन्यो महायशः ॥३-१४-१०॥",
+      "transliteration": "prajāpateḥ tu dakṣasya babhūvur iti  viśrutam ।ṣaṣṭir duhitaro rāma yaśasvinyo mahāyaśaḥ ॥3-14-10॥",
+      "translations": {
+        "english": "O glorious Rama it is wellknown that Daksha, the creator had sixty daughters of great fame.",
+        "hindi": "हे मदायशस्वी राम ! इनमें से दक्ष प्रजापति के यशस्विनी और लोक में विख्यात साठ कन्याएँ उत्पन्न हुई",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 14,
+      "verse": 11,
+      "sloka": "कश्यपः प्रतिजग्राह तासाम् अष्टौ सुमध्यमाः ।अदितिम् च दितिम् चैव दनूम् अपि च कालकाम् ॥३-१४-११॥",
+      "transliteration": "kaśyapaḥ pratijagrāha tāsām aṣṭau sumadhyamāḥ ।aditim ca ditim caiva danūm api ca kālakām ॥3-14-11॥",
+      "translations": {
+        "english": "Out of them(daughters of Daksha) Kasyapa married eight women of beautiful waist called Aditi, Diti, Danu also Kalika,Tamra, Krodhavasa, Anala and Manu.",
+        "hindi": "इनमें से आठ अति सुन्दरी कन्याओं का विवाह कश्यप जी ने अपने साथ किआ । उन आठ कन्याओं के नाम ये हैं-१ अदिति २ दिति, ३ दनु, ४ कालिका,",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 14,
+      "verse": 12,
+      "sloka": "ताम्राम् क्रोध वशाम् चैव मनुम् च अप्य् अनलाम् अपि ।ताः तु कन्याः ततः प्रीतः कश्यपः पुनर् अब्रवीत् ॥३-१४-१२॥",
+      "transliteration": "tāmrām krodha vaśām caiva manum ca apy analām api ।tāḥ tu kanyāḥ tataḥ prītaḥ kaśyapaḥ punar abravīt ॥3-14-12॥",
+      "translations": {
+        "english": "Kasyapa, pleased with them said to his young wives, Beget sons of my stature who can rule over the three worlds.",
+        "hindi": "ताम्रा ६ क्रोधबशा, ७ सनु और ८ अनला हें । इन आठौं से कश्यप ने पुनः कहा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 14,
+      "verse": 13,
+      "sloka": "पुत्रामः त्रैलोक्य भर्तॄन् वै जनयिष्यथ मत् समान् ।अदितिः तन् मना राम दितिः च दनुर् एव च ॥३-१४-१३॥",
+      "transliteration": "putrāmaḥ trailokya bhartṝn vai janayiṣyatha mat samān ।aditiḥ tan manā rāma ditiḥ ca danur eva ca ॥3-14-13॥",
+      "translations": {
+        "english": "O best of men, O longarmed Rama while Aditi, Diti and Kalika seriously considered his advice, the rest of the wives did not.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 14,
+      "verse": 14,
+      "sloka": "कालका च महाबाहो शेषाः तु अमनसो अभवन् ।अदित्याम् जज्ञिरे देवाः त्रयः त्रिंशत् अरिंदम ॥३-१४-१४॥",
+      "transliteration": "kālakā ca mahābāho śeṣāḥ tu amanaso abhavan ।adityām jajñire devāḥ trayaḥ triṁśat ariṁdama ॥3-14-14॥",
+      "translations": {
+        "english": "O Rama, subduer and scorcher of enemies to Aditi were born twelve Adityas, eight Vasus, eleven Rudras, and two Asvins, thirtythree deities in all.",
+        "hindi": "आर कालिका ने तो अंगीकार -किआ ओर शेष ने पति की खात पर ध्यान ही न दिआ । अदिति से ३३ देवता उत्पन्न हुए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 14,
+      "verse": 15,
+      "sloka": "आदित्या वसवो रुद्रा अश्विनौ च परंतप ।दितिः तु अजनयत् पुत्रान् दैत्याम् तात यशस्विनः ॥३-१४-१५॥",
+      "transliteration": "ādityā vasavo rudrā aśvinau ca paraṁtapa ।ditiḥ tu ajanayat putrān daityām tāta yaśasvinaḥ ॥3-14-15॥",
+      "translations": {
+        "english": "O dear Rama, Diti bore glorious sons called Daityas and this earth with all the forests and seas belonged to them.",
+        "hindi": "टिप्पणी--श्रादि में देवता नेता ही थे। किन्तु मर्त्यलोक के जीव शुभ कर्मों द्वारा स्वर्ग में जब पहुँचने लगे तब उक्त संख्या बढ़ते बढ़ते श्रब ३३ करोड़ तक पहुँची हुई कहीं जाती हे । इस कालिकाल में स्वर्ग की जनसंख्या तो नहीं किन्तु नरको की जनसंख्या बढी तेज़ी से बढ़ रहो है । ] आदित्या वसवो रुद्रा हयश्विनों च परन्तप । दितिस्त्वजनयत्पुत्रान देत्यांस्तात यशस्विनः",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 14,
+      "verse": 16,
+      "sloka": "तेषाम् इयम् वसुमती पुरा आसीत् स वन अर्णवा ।दनुः तु अजनयत् पुत्रम् अश्वग्रीवम् अरिंदम ॥३-१४-१६॥",
+      "transliteration": "teṣām iyam vasumatī purā āsīt sa vana arṇavā ।danuḥ tu ajanayat putram aśvagrīvam ariṁdama ॥3-14-16॥",
+      "translations": {
+        "english": "O subduer of enemies, to Danu was born Hayagriva and to Kalika, Naraka and Kalaka.",
+        "hindi": "पहले वन और समुद्र सहित यह प्रथिवी उन्हीं की थी । हे अरिन्दम ! दु ने अश्वग्रीव नामक एक पुत्र उत्पन्न किआ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 14,
+      "verse": 17,
+      "sloka": "नरकम् कालकम् चैव कालका अपि व्यजायत ।क्रौन्चीम् भासीम् तथा श्येनीम् धृतराष्ट्रीम् तथा शुकीम् ॥३-१४-१७॥",
+      "transliteration": "narakam kālakam caiva kālakā api vyajāyata ।krauncīm bhāsīm tathā śyenīm dhṛtarāṣṭrīm tathā śukīm ॥3-14-17॥",
+      "translations": {
+        "english": "To Tamra were born, Krounchi, Bhasi, Syeni, Dhrutharashtri and Suki. Altogether they were five beautiful young maids famous in the world.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 14,
+      "verse": 18,
+      "sloka": "ताम्रा तु सुषुवे कन्याः पंच एता लोकविश्रुताः ।उलूकान् जनयत् क्रौन्ची भासी भासान् व्यजायत ॥३-१४-१८॥",
+      "transliteration": "tāmrā tu suṣuve kanyāḥ paṁca etā lokaviśrutāḥ ।ulūkān janayat krauncī bhāsī bhāsān vyajāyata ॥3-14-18॥",
+      "translations": {
+        "english": "Krounchi gave birth to owls, Bhasi to Bhasa birds, Synei to bright hawks and vultures, Dhrutharashtri to swans and chakravakas with sweet notes.",
+        "hindi": "थे लोकविख्यात पाँच कन्याएँ, ताम्रा फे गर्भ से उत्पन्न हुई । इनमें से क्रोग्ची के गर्भ से उलूक ओर भासी के गर्भ से भासक नाम के पक्षी उत्पन्न हुए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 14,
+      "verse": 19,
+      "sloka": "श्येनी श्येनाम् च गृध्राम च व्यजायत सुतेजसः ।धृतराष्ट्री तु हंसाम् च कलहंसाम् च सर्वशः ॥३-१४-१९॥",
+      "transliteration": "śyenī śyenām ca gṛdhrāma ca vyajāyata sutejasaḥ ।dhṛtarāṣṭrī tu haṁsām ca kalahaṁsām ca sarvaśaḥ ॥3-14-19॥",
+      "translations": {
+        "english": "Krounchi gave birth to owls, Bhasi to Bhasa birds, Synei to bright hawks and vultures, Dhrutharashtri to swans and chakravakas with sweet notes.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 14,
+      "verse": 20,
+      "sloka": "चक्रवाकाम् च भद्रम् ते विजज्ञे सा अपि भामिनी ।शुकी नताम् विजज्ञे तु नताया विनता सुता ॥३-१४-२०॥",
+      "transliteration": "cakravākām ca bhadram te vijajñe sā api bhāminī ।śukī natām vijajñe tu natāyā vinatā sutā ॥3-14-20॥",
+      "translations": {
+        "english": "Dhrutharashtri, a female bird of great lustre gave birth to chakravakas too. Suki gave birth to Nata and from Nata, Vinata was born. Be blessed, O Rama",
+        "hindi": "चक्रवाक भी उसीफे गभ से उत्पन्न डुए। शुकी से नता नान्नी लड़की उत्पन्न हुई ओर नता से विनता की उत्पत्ति हुई",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 14,
+      "verse": 21,
+      "sloka": "दश क्रोधवशा राम विजज्ञे अपि आत्मसंभवाः ।मृगीम् च मृगमंदाम् च हरीम् भद्रमदाम् अपि ॥३-१४-२१॥",
+      "transliteration": "daśa krodhavaśā rāma vijajñe api ātmasaṁbhavāḥ ।mṛgīm ca mṛgamaṁdām ca harīm bhadramadām api ॥3-14-21॥",
+      "translations": {
+        "english": "O Ramato Krodhavasa were born Mrugi, Mrugamanda, Hari, Bhadramada, Mathangi, Sardooli, Sweta, Surabhi and Surasa, Kadruva and endowed with all virtues.",
+        "hindi": "हे राम ! क्रोधवशा के दस लड़कियाँ उत्पन्न हुई, जिनके नाम ये हैं १ मृगी, २ मगनन्दा ३ ह्री, ४ भद्रमदा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 14,
+      "verse": 22,
+      "sloka": "मातंगीम् अथ शार्दूलीम् श्वेताम् च सुरभीम् तथा ।सर्व लक्षण संपन्नाम् सुरसाम् कद्रुकाम् अपि ॥३-१४-२२॥",
+      "transliteration": "mātaṁgīm atha śārdūlīm śvetām ca surabhīm tathā ।sarva lakṣaṇa saṁpannām surasām kadrukām api ॥3-14-22॥",
+      "translations": {
+        "english": "O Ramato Krodhavasa were born Mrugi, Mrugamanda, Hari, Bhadramada, Mathangi, Sardooli, Sweta, Surabhi and Surasa, Kadruva and endowed with all virtues.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 14,
+      "verse": 23,
+      "sloka": "अपत्यम् तु मृगाः सर्वे मृग्या नरवरोत्तम ।ऋक्षाः च मृगमंदायाः सृमराः चमराः तथा ॥३-१४-२३॥",
+      "transliteration": "apatyam tu mṛgāḥ sarve mṛgyā naravarottama ।ṛkṣāḥ ca mṛgamaṁdāyāḥ sṛmarāḥ camarāḥ tathā ॥3-14-23॥",
+      "translations": {
+        "english": "O best of men, all kinds of animals were born of Mrugi.To Mrugamanda were born bears and chamara (a different kind of deer).",
+        "hindi": "हे नरश्रेष्ठ ! स॒गी से समस्त मृग उत्पन्न हुए और मृगमन्दा से रीळ, समर ओर चमर ( सुरागाय ) उत्पन्न हुए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 14,
+      "verse": 24,
+      "sloka": "ततः तु इरावतीम् नाम जज्ञे भद्रमदा सुताम् ।तस्याः तु ऐरावतः पुत्रो लोकनाथो महागजः ॥३-१४-२४॥",
+      "transliteration": "tataḥ tu irāvatīm nāma jajñe bhadramadā sutām ।tasyāḥ tu airāvataḥ putro lokanātho mahāgajaḥ ॥3-14-24॥",
+      "translations": {
+        "english": "To Hari were born lions, and swiftmoving monkeys and to Bhadramada, a daughter by name Iravati.",
+        "hindi": "हरी नाम स्त्री से बलत्रान सिह और वानर उत्पन्न हुए । तदनन्तर इरावती नाम की कन्या भद्रमदा से उत्पन्न हुई",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 14,
+      "verse": 25,
+      "sloka": "हर्याः च हरयो अपत्यम् वानराः च तपस्विनः ।गोलांगूलाः च शार्दूली व्याघ्राम् च अजनयत् सुतान् ॥३-१४-२५॥",
+      "transliteration": "haryāḥ ca harayo apatyam vānarāḥ ca tapasvinaḥ ।golāṁgūlāḥ ca śārdūlī vyāghrām ca ajanayat sutān ॥3-14-25॥",
+      "translations": {
+        "english": "O bull among men Matangi gave birth to elephants.The mighty elephant Airavata who became the lord of the world was born to Iravati.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 14,
+      "verse": 26,
+      "sloka": "मातंग्याः तु अथ मातन्गाअपत्यम् मनुज ऋषभ ।दिशागजम् तु श्वेत काकुत्स्थ श्वेता व्यजनयत् सुतम् ॥३-१४-२६॥",
+      "transliteration": "mātaṁgyāḥ tu atha mātangāapatyam manuja ṛṣabha ।diśāgajam tu śveta kākutstha śvetā vyajanayat sutam ॥3-14-26॥",
+      "translations": {
+        "english": "O Rama, Sarduli gave birth to tigers and playful, roundbodied monkeys called Golangula and Sweta delivered elephants as sons for guarding the eight quarters.",
+        "hindi": "शार्दूली से गोलाङ्गूल (काले सुख के वानर यानी लंगूर ) और व्याघ्र उत्पन्न हुए । हे काकुत्स्थ ! श्वेता ने दिग्गजों को उत्पन्न किआ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 14,
+      "verse": 27,
+      "sloka": "ततो दुहितरौ राम सुरभिर् द्वे वि अजायत ।रोहिणीम् नाम भद्रम् ते गन्धर्वीम् च यशस्विनीम् ॥३-१४-२७॥",
+      "transliteration": "tato duhitarau rāma surabhir dve vi ajāyata ।rohiṇīm nāma bhadram te gandharvīm ca yaśasvinīm ॥3-14-27॥",
+      "translations": {
+        "english": "Surabhi gave birth to Rohini and Gandharvi,the two famous daughters. May you be happy, Rama",
+        "hindi": "हे राम! सुरभी की दो यशस्विनी लड़कियाँ हुई । एक का _ नाम था रोहिणी और दूसरी का गन्धर्वी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 14,
+      "verse": 28,
+      "sloka": "रोहिणि अजनयद् गावो गन्धर्वी वाजिनः सुतान् ।सुरसा अजनयन् नागान् राम कद्रूः च पन्नगान् ॥३-१४-२८॥",
+      "transliteration": "rohiṇi ajanayad gāvo gandharvī vājinaḥ sutān ।surasā ajanayan nāgān rāma kadrūḥ ca pannagān ॥3-14-28॥",
+      "translations": {
+        "english": "O Rama Rohini procreated cows, and Gandharvi, horses as offsprings. Surasa delivered cobras and Kadru, ordinary serpents.",
+        "hindi": "रोहिणी के गर्भ से गौ, वैल और गन्धर्वी से घोड़े उत्पन्न हुए । हे राम ! सुरसा ने नागों को उत्पन्न किआ आरः कद्र ने सर्पो को",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 14,
+      "verse": 29,
+      "sloka": "मनुर् मनुष्यान् जनयत् कश्यपस्य महात्मनः ।ब्राह्मणान् क्षत्रियान् वैश्यान् शूद्राम् च मनुजर्षभ ॥३-१४-२९॥",
+      "transliteration": "manur manuṣyān janayat kaśyapasya mahātmanaḥ ।brāhmaṇān kṣatriyān vaiśyān śūdrām ca manujarṣabha ॥3-14-29॥",
+      "translations": {
+        "english": "O Rama, bull among men Manu procreated brahmins, kshatriyas, vaisyas and sudras all famed human beings.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 14,
+      "verse": 30,
+      "sloka": "मुखतो ब्राह्मणा जाता उरसः क्षत्रियाः तथा ।ऊरुभ्याम् जज्ञिरे वैश्याः पद्भ्याम् शूद्रा इति श्रुतिः ॥३-१४-३०॥",
+      "transliteration": "mukhato brāhmaṇā jātā urasaḥ kṣatriyāḥ tathā ।ūrubhyām jajñire vaiśyāḥ padbhyām śūdrā iti śrutiḥ ॥3-14-30॥",
+      "translations": {
+        "english": "Anala (wife of Kasyapa) procreated trees with sacred fruits. Vinata was the granddaughter of Suki, and Kahdruva and Surasa were her sisters.",
+        "hindi": "अनला ने अच्छे अच्छे फल वाले वृक्ष उत्पन्न किए । विनता शुकी की नतिनी थी और कद्रू तथा सुरमा ये दोनों बहिने थीं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 14,
+      "verse": 31,
+      "sloka": "सर्वान् पुण्य फलान् वृक्षान् अनला अपि व्यजायत ।विनता च शुकी पौत्री कद्रूः च सुरसा स्वसा ॥३-१४-३१॥",
+      "transliteration": "sarvān puṇya phalān vṛkṣān analā api vyajāyata ।vinatā ca śukī pautrī kadrūḥ ca surasā svasā ॥3-14-31॥",
+      "translations": {
+        "english": "Kadhru produced a thousandhooded serpent(Adisesha) who held the whole earth on his head and Vinata, two sons, Garuda and Aruna.",
+        "hindi": "कदर ने सहस्त्रो नागों को उत्पन्न किआ। ये ही प्रथिवी को धारण किए हुए हैं । विनता के दो पुत्र हुए, गरुड़ ओर अरुण",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 14,
+      "verse": 32,
+      "sloka": "कद्रूर् नाग सहस्रम् तु विजज्ञे धरणीधरन् ।द्वौ पुत्रौ विनतायाः तु गरुडो अरुण एव च ॥३-१४-३२॥",
+      "transliteration": "kadrūr nāga sahasram tu vijajñe dharaṇīdharan ।dvau putrau vinatāyāḥ tu garuḍo aruṇa eva ca ॥3-14-32॥",
+      "translations": {
+        "english": "I am born to Aruna and my elder brother is Sampati. O subduer of enemies, know me as Jatayu, son of Syeni.",
+        "hindi": "में अरुण का पुत्रहूँ और सम्पाति सेरा बड़ा भाई है। हे अरिन्दभ मेरा नाम जटायु है और मुझे तुम शयेनी का पुत्र जानो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 14,
+      "verse": 33,
+      "sloka": "तस्मात् जातो अहम् अरुणात् संपातिः च मम अग्रजः ।जटायुर् इति माम् विद्धि श्येनी पुत्रम् अरिंदम ॥३-१४-३३॥",
+      "transliteration": "tasmāt jāto aham aruṇāt saṁpātiḥ ca mama agrajaḥ ।jaṭāyur iti mām viddhi śyenī putram ariṁdama ॥3-14-33॥",
+      "translations": {
+        "english": "If you so desire I will be helpful to you in guarding your hut. O dear, it is a difficult forest full of wild animals and demons. When you and Lakshmana are away I will protect Sita.",
+        "hindi": "र हे तात ! अगर तुम चाहोगे तो में बनवास में तुम्हारी सहायता करूँगा । क्योंकि यह वन बड़ा दुर्गम हे और इसमें अनेक वन्यपशु १ पुण्यफलान्‌--चारुफलान्‌ । (गो०) २ तस्मात्‌-भश्र रुणात्‌ | (शि त्‌ | (शि० ) चतुदशाः सगः ११३ ओर राक्षस कहते हैं । हे तात ! तब तुम और लक्ष्मण आश्रम छोड़, कहीँ चले जाओगे, तब में सीता की रखवाली किआ करूगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 14,
+      "verse": 34,
+      "sloka": "सो अहम् वास सहायः ते भविष्यामि यदि इच्छसि ।इदम् दुर्गम् हि कान्तारम् मृग राक्षस सेवितम् सीताम् च तात रक्षिष्ये त्वयि याते सलक्ष्मणे ॥३-१४-३४॥",
+      "transliteration": "so aham vāsa sahāyaḥ te bhaviṣyāmi yadi icchasi ।idam durgam hi kāntāram mṛga rākṣasa sevitam sītām ca tāta rakṣiṣye tvayi yāte salakṣmaṇe ॥3-14-34॥",
+      "translations": {
+        "english": "Rama worshipped Jatayu and bending down, embraced him. He heard from him again and again several events relating to Jatayu's friendship with his father.",
+        "hindi": ", « श्रीरामचन्द्र जी ने जटायु का यह वृत्तान्त सुन, आदर और हषे सहित उसे अपने हृदय से लगाया और उसे प्रणाम किआ ! क्योंकि उसने कई बार अपने को श्रीरामचन्द्र जी के पिता का मित्र कह कर परिचय दिआ था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 14,
+      "verse": 35,
+      "sloka": "जटायुषम् तु प्रतिपूज्य राघवो मुदा परिष्वज्य च सन्नतो अभवत् ।पितुर् हि शुश्राव सखित्वम् आत्मवान् जटायुषा संकथितम् पुनः पुनः ॥३-१४-३५॥",
+      "transliteration": "jaṭāyuṣam tu pratipūjya rāghavo mudā pariṣvajya ca sannato abhavat ।pitur hi śuśrāva sakhitvam ātmavān jaṭāyuṣā saṁkathitam punaḥ punaḥ ॥3-14-35॥",
+      "translations": {
+        "english": "Entresting the protection of Sita, the princess of Mithila, to that strong vulture, Jatayu, and accompanied by Lakshmana Rama went to Panchavati wishing to destroy the enemies like fire burning the moths. इत्यार्षे श्रीमद्रामयणे वाल्मीकीय आदिकाव्ये अरण्यकाण्डे चतुर्दशस्सर्गः।। Thus ends the fourteenth sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 14,
+      "verse": 36,
+      "sloka": "स तत्र सीताम् परिदाय मैथिलीम् सह एव तेन अतिबलेन पक्षिणा ।जगाम ताम् पंचवटीम् सलक्ष्मणो रिपून् दिधक्षन् शलभान् इव अनलः  ॥३-१४-३६॥",
+      "transliteration": "sa tatra sītām paridāya maithilīm saha eva tena atibalena pakṣiṇā ।jagāma tām paṁcavaṭīm salakṣmaṇo ripūn didhakṣan śalabhān iva analaḥ  ॥3-14-36॥",
+      "translations": {
+        "english": "",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

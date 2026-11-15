@@ -1,0 +1,541 @@
+{
+  "kanda": 6,
+  "kanda_name": "Yuddha Kanda",
+  "kanda_name_sanskrit": "युद्धकाण्डम्",
+  "sarga": 35,
+  "verses_count": 38,
+  "verses": [
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 35,
+      "verse": 1,
+      "sloka": "तेन शन्ख विमिश्रेण भेरी शब्देन राघवः ।उपयतो महा बाहू रामह् पर पुरम् जयः ॥६-३५-१॥।।",
+      "transliteration": "tena śankha vimiśreṇa bherī śabdena rāghavaḥ ।upayato mahā bāhū rāmah para puram jayaḥ ॥6-35-1॥।।",
+      "translations": {
+        "english": "The mighty armed Rama, the conqueror of enemy cities, Raghava marched forth with the noise of the blowing of conches and the sounds of drums.",
+        "hindi": "शत्र के पुर को जीतने वाले महाबाहु श्रीरामचन्द्र जी शङ्क और तुरही बजवाते हुए लङ्का पर चढाई करने तैयार हए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 35,
+      "verse": 2,
+      "sloka": "तम् निनादम् निशम्य अथ रावणो राक्षस ईश्वरः ।मुहूर्तम् ध्यानम् आस्थाय सचिवान् अभ्युदैक्षत ॥६-३५-२॥।।",
+      "transliteration": "tam ninādam niśamya atha rāvaṇo rākṣasa īśvaraḥ ।muhūrtam dhyānam āsthāya sacivān abhyudaikṣata ॥6-35-2॥।।",
+      "translations": {
+        "english": "Ravana, the Lord of Rakshasas, looked at his ministers on hearing the sounds and reflecting for a moment.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 35,
+      "verse": 3,
+      "sloka": "अथ तान् सचिवाम्स् तत्र सर्वान् आभाष्य रावणः ।सभाम् सम्नादयन् सर्वाम् इत्य् उवाच महा बलः ॥६-३५-३॥।।",
+      "transliteration": "atha tān sacivāms tatra sarvān ābhāṣya rāvaṇaḥ ।sabhām samnādayan sarvām ity uvāca mahā balaḥ ॥6-35-3॥।।",
+      "translations": {
+        "english": "Thereafter the mighty Lord of Rakshasas, a cruel one, a scourge of the world addressed the assembly of his ministers and spoke abusing them.",
+        "hindi": "हालि महावलवान रावण समस्त मंत्रियों को सम्बोधन कर और सभाभवन को गु जाता हुआ कहने लग!",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 35,
+      "verse": 4,
+      "sloka": "जगत्पम्तापनः क्रूरोगर्हयन् राक्षसेश्वरः ।तरणम् सागरस्य अपि विक्रमम् बल सम्चयम् ॥६-३५-४॥।।",
+      "transliteration": "jagatpamtāpanaḥ krūrogarhayan rākṣaseśvaraḥ ।taraṇam sāgarasya api vikramam bala samcayam ॥6-35-4॥।।",
+      "translations": {
+        "english": "\"You have told me about the valour of Hanuman the messenger of Rama and his prowess in crossing the ocean which I heard just now.\"",
+        "hindi": "संसार भर को सन्तापित करने वाला नृशंस राक्षसराज रावण श्रीरामचन्द्र जी की निन्द्रा करता हुआ बोला--आप लोगों ने रास क पार उतरने उनके पराक्रम तथा उत्तक संन्यसम्रह क सम्बन्ध में जो कुछ कहा, वह सब मैंने सुना । मैं यह भी जानता हूँ कि, आप लोग युद्ध में सत्यपराक्रमी हैं; पर आश्च्य है कि, इस समय आप लोग रामचन्द्र को महापराक्रमी सरक, चुपचाप आपस में एक दूसरे का सुख निहार रहे हँ | वहाँ पर उस समय एक बड़ा भारी पंडित माल्यवान नामक राक्षस था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 35,
+      "verse": 5,
+      "sloka": "यद् उक्तवन्तो रामस्य भवन्तस् तन् मया श्रुतम् ।भवतश्चाप्यहम् वेद्मि युद्धे सत्यपराक्रमान् ॥६-३५-५॥।।",
+      "transliteration": "yad uktavanto rāmasya bhavantas tan mayā śrutam ।bhavataścāpyaham vedmi yuddhe satyaparākramān ॥6-35-5॥।।",
+      "translations": {
+        "english": "\"Even though you are truly valorous in war, on knowing Rama's prowess, you are standing mute looking at each other. I know that.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 35,
+      "verse": 6,
+      "sloka": "तूष्णीकानीक्षतोन्योन्यम् विदित्वाम् रामविक्रमम् ।ततस् तु सुमहा प्राज्नो माल्यवान् नाम राक्षसः ॥६-३५-६॥।।",
+      "transliteration": "tūṣṇīkānīkṣatonyonyam viditvām rāmavikramam ।tatas tu sumahā prājno mālyavān nāma rākṣasaḥ ॥6-35-6॥।।",
+      "translations": {
+        "english": "Then, Malyavan the maternal grandfather of Ravana, a very wise Rakshasa indeed said this on hearing Ravana's statement.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 35,
+      "verse": 7,
+      "sloka": "रावणस्य वचः श्रुत्वा मातुः पैतामहो अब्रवीत् ।विद्यास्वभिविनीतो यो राजा राजन् नय अनुगः ॥६-३५-७॥।।",
+      "transliteration": "rāvaṇasya vacaḥ śrutvā mātuḥ paitāmaho abravīt ।vidyāsvabhivinīto yo rājā rājan naya anugaḥ ॥6-35-7॥।।",
+      "translations": {
+        "english": "\"O king! Whoever is well versed in all the fourteen sciences and is a follower of justice, he alone wins over enemies and rules the kingdom for long.\"",
+        "hindi": "भिर BC UA 0. प त्य य १ अभिविनीत:--अमभितः शिद्षितः | ( मो० ) २ नयानुगः-- नीतिशाख्रानुसारी । (गो० ) स्वपक्षवर्धनं कुवन्महदैश्वयमश्नुते । © [a हीयमानेन कतव्यो राज्ञा सन्धिः समेन च ॥ & ॥ वह रावण का नाना था--सो वह रावण के इन धचनों को सुन बोला--हे राजन्‌ ! जो राजा शिक्षित हो, नीति शास्त्रानुसार काय करता है वह बहुत दिनों तक प्रजा पर शासन करता हुआ ऐश्वय भोगता है, तथा अपने शत्रुओं को अपने बश में करता है । ऐसा राजा सब बातों का अनुसन्धान करता है और अवसर पाकर शत्र से लड़ता है । जो राजञा समय के अनुसार शत्र के साथ सन्धि और विग्रह करके अपने पक्ष को दृढ़ करता हे, वही ` बड़े भारी ऐश्वय को प्राप्त करता है। राजा को उचित है कि, जब चह अपने को शात्र से हीनबल या समानबल जाने तब शत्र से मेल कर ले",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 35,
+      "verse": 8,
+      "sloka": "स शास्ति चिरम् ऐश्वर्यम् अरीम्श्च कुरुते वशे ।सम्दधानो हि कालेन विगृह्णम्सः चारिभिः सह ॥६-३५-८॥।।",
+      "transliteration": "sa śāsti ciram aiśvaryam arīmśca kurute vaśe ।samdadhāno hi kālena vigṛhṇamsaḥ cāribhiḥ saha ॥6-35-8॥।।",
+      "translations": {
+        "english": "\"Continuing to act in that way in course of time a king who encounters his enemies and expands his own side, enjoys great sovereignty.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 35,
+      "verse": 9,
+      "sloka": "स्व पक्ष वर्धनम् कुर्वन् महद् ऐश्वर्यम् अश्नुते ॥हीयमानेन कर्तव्यो राज्ना सम्धिः समेन च ॥६-३५-९॥।।",
+      "transliteration": "sva pakṣa vardhanam kurvan mahad aiśvaryam aśnute ॥hīyamānena kartavyo rājnā samdhiḥ samena ca ॥6-35-9॥।।",
+      "translations": {
+        "english": "\"When a king is losing strength, he should join hand s with the enemy who is equal to him. He should not disrespect the enemy but quit his hostility and join him (if the enemy is more powerful).\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 35,
+      "verse": 10,
+      "sloka": "न शत्रुम् अवमन्येत ज्यायान् कुर्वीत विग्रहम् ।तन्मह्यम् रोचते सम्धिः सह रामेण रावण ॥६-३५-१०॥।।",
+      "transliteration": "na śatrum avamanyeta jyāyān kurvīta vigraham ।tanmahyam rocate samdhiḥ saha rāmeṇa rāvaṇa ॥6-35-10॥।।",
+      "translations": {
+        "english": "\"O Ravana! Joining with that Rama is agreeable to me. Let that Sita for whose sake you have been attacked be restored to him.\"",
+        "hindi": "हे रावण ! शत्र केसा भी हो, उसे तुच्छ कभी न मानना चाहिए । यदि स्वयं शत्र से बलवान हो तो शत्र से यद्ध करे । इस समय (इस सिद्धांतानुसार) मुझे तो यही अच्छा जान पड़ता है कि, राम के साथ तुम सन्धि (मेल) कर लो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 35,
+      "verse": 11,
+      "sloka": "यद् अर्थम् अभियुक्ताः स्म सीता तस्मै प्रदीयताम् ।तस्य देव ऋषयः सर्वे गन्धर्वासः च जय एषिणः ॥६-३५-११॥।।",
+      "transliteration": "yad artham abhiyuktāḥ sma sītā tasmai pradīyatām ।tasya deva ṛṣayaḥ sarve gandharvāsaḥ ca jaya eṣiṇaḥ ॥6-35-11॥।।",
+      "translations": {
+        "english": "All the celestial sages and Gandharvas are wishing him victory. Therefore, do not have enmity. Making an alliance with him is desirable for you.",
+        "hindi": "जिस सीता के लिए राम ने लङ्का पर चढ़ाई की है, उससीता - को तुम उन्हें लौटा दो । देखो, क्या देवता, क्या ऋषि और क्या गन्धं सब ही उनकी जीत चाहते हें",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 35,
+      "verse": 12,
+      "sloka": "विरोधम् मा गमस् तेन सम्धिस् ते तेन रोचताम् ।असृजद् भगवान् पक्षौ द्वाव् एव हि पितामहः ॥६-३५-१२॥।।",
+      "transliteration": "virodham mā gamas tena samdhis te tena rocatām ।asṛjad bhagavān pakṣau dvāv eva hi pitāmahaḥ ॥6-35-12॥।।",
+      "translations": {
+        "english": "\"The divine Brahma, the grandfather of the universe created two orders, deities and devils. They took the refuge of virtues and vices respectively.\"",
+        "hindi": "अतः मुझे ते। यही अच्छा लगता है कि, तुम उनले युद्ध न कर के उनके साथ मेल कर लो । हे राक्षपराज ! ब्रह्म ने दो पक्ष बनाए हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 35,
+      "verse": 13,
+      "sloka": "सुराणाम् असुराणाम् च धर्म अधर्मौ तद् आश्रयौ ।धर्मो हि श्रूयते पक्षः सुराणाम् च महात्मनाम् ॥६-३५-१३॥।।",
+      "transliteration": "surāṇām asurāṇām ca dharma adharmau tad āśrayau ।dharmo hi śrūyate pakṣaḥ surāṇām ca mahātmanām ॥6-35-13॥।।",
+      "translations": {
+        "english": "\"The great souls were towards righteousness and Rakshasas took the side of unrighteousness.\"",
+        "hindi": "अर्थात देवता और असुर । क्रमानुसार धर्मे और अधम इन दोनों के आश्रय-भूत-पक्ष हैं। सुना जाता है, महात्मा देवताओं का धर्मे का पक्ष है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 35,
+      "verse": 14,
+      "sloka": "अधर्मो रक्षसाम् पक्षोह्य असुराणाम् च रावण ।धर्मो वै ग्रसते अधर्मम् ततः कृतम् अभूद् युगम् ॥६-३५-१४॥।।",
+      "transliteration": "adharmo rakṣasām pakṣohya asurāṇām ca rāvaṇa ।dharmo vai grasate adharmam tataḥ kṛtam abhūd yugam ॥6-35-14॥।।",
+      "translations": {
+        "english": "\"When moral merit destroys unrighteousness, it is called Krtayuga. So also, when virtue gets eclipsed by unrighteousness, it is called Kaliyuga.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 35,
+      "verse": 15,
+      "sloka": "अधर्मो ग्रसते धर्मम् ततस् तिष्यः प्रवर्तते ।तत् त्वया चरता लोकान् धर्मो विनिहतो महान् ॥६-३५-१५॥।।",
+      "transliteration": "adharmo grasate dharmam tatas tiṣyaḥ pravartate ।tat tvayā caratā lokān dharmo vinihato mahān ॥6-35-15॥।।",
+      "translations": {
+        "english": "\"While you were ranging in all the worlds, you gave up righteousness and embraced unrighteousness. Therefore, the enemy who is righteous is stronger than you.\"",
+        "hindi": "हे रावण ! इसी प्रकार असुरो ओर राक्षसों का अधर्म का पक्ष है। जब धर्म, अधर्स को ग्रसता है, तब सत्ययुग होता हे. अथवा सत्ययुग में अधर्म को धर्मे ग्रस लेता हे ॥ १४ ४ न 6 धर्मों ग्रसदे थम ततस्तिष्यः प्रवतते । तस्या चरता लोकान्‌ धर्मो विनिहतो महान्‌",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 35,
+      "verse": 16,
+      "sloka": "अधर्मः प्रगृहीतसः च तेन अस्मद् बलिनः परे ।स प्रमादाद् विवृद्धस् ते अधर्मो अहिर् ग्रसते हि नः ॥६-३५-१६॥।।",
+      "transliteration": "adharmaḥ pragṛhītasaḥ ca tena asmad balinaḥ pare ।sa pramādād vivṛddhas te adharmo ahir grasate hi naḥ ॥6-35-16॥।।",
+      "translations": {
+        "english": "\"You are nourishing unrighteousness mistakenly. Therefore, it is going to swallow us. It has become the cause for the divine celestial side to become powerful.\"",
+        "hindi": "अधम बटोरा है, इसीसे शत्र हम लोगों से बलवान्‌ हो गए हैं। तुम्हारे प्रमाद से अधमे बढ़ कर, हम लोगों को ग्रास कर रहा है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 35,
+      "verse": 17,
+      "sloka": "विवर्धयति पक्षम् च सुराणाम् सुर भावनः ।विषयेषु प्रसक्तेन यत् किम्चित् कारिणा त्वया ॥६-३५-१७॥।।",
+      "transliteration": "vivardhayati pakṣam ca surāṇām sura bhāvanaḥ ।viṣayeṣu prasaktena yat kimcit kāriṇā tvayā ॥6-35-17॥।।",
+      "translations": {
+        "english": "\"Being engaged in matters of sense pleasures you have created great agitation(disturbance) in the minds of the seers (engaged in penance) who resemble gods of burning fire.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 35,
+      "verse": 18,
+      "sloka": "Rषीणाम् अग्नि कल्पानाम् उद्वेगो जनितो महान् ।तेषाम् प्रभावो दुर्धर्षः प्रदीप्त;इव पावकः ॥६-३५-१८॥।।",
+      "transliteration": "Rṣīṇām agni kalpānām udvego janito mahān ।teṣām prabhāvo durdharṣaḥ pradīpta;iva pāvakaḥ ॥6-35-18॥।।",
+      "translations": {
+        "english": "\"Their power is difficult to overcome as they are pure souls and blazing like fire by their austerity. They follow virtues faithfully intending to acquire merit like brahmanas. They are standing firmly curbing their senses doing sacrifices offering oblations into sacrificial fires following tradition. Having subdued the Rakshasas, they are continuing to recite Vedas and on hearing Vedas the Rakshasas are running away in different directions like the rain cloud is scattered in the hot season.\"",
+        "hindi": "धम, देवताओं के अनुकूल होने के कारण उनके पक्ष को बलवान्‌ कर रहा है | विषयासक्त हो तुमने जो कुछ किआ ॥ १७ ऋषीणामग्निकल्पानामरुद्टेगो जनितो महान्‌ | ~ CQ तेषां प्रभावो दुध षः प्रदीप्त इव पावकः",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 35,
+      "verse": 19,
+      "sloka": "तपसा भावित आत्मानो धर्मस्य अनुग्रहे रताः ।मुख्यैर् यज्नैर् यजन्त्य् एते नित्यम् तैस् तैर् द्विजातयः ॥६-३५-१९॥।।",
+      "transliteration": "tapasā bhāvita ātmāno dharmasya anugrahe ratāḥ ।mukhyair yajnair yajanty ete nityam tais tair dvijātayaḥ ॥6-35-19॥।।",
+      "translations": {
+        "english": "\"Their power is difficult to overcome as they are pure souls and blazing like fire by their austerity. They follow virtues faithfully intending to acquire merit like brahmanas. They are standing firmly curbing their senses doing sacrifices offering oblations into sacrificial fires following tradition. Having subdued the Rakshasas, they are continuing to recite Vedas and on hearing Vedas the Rakshasas are running away in different directions like the rain cloud is scattered in the hot season.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 35,
+      "verse": 20,
+      "sloka": "जुह्वत्य् अग्नीम्सः च विधिवद् वेदाम्सः च उच्चैर् अधीयते ।अभिभूय च रक्षाम्सि ब्रह्म घोषान् उदैरयन् ॥६-३५-२०॥।।",
+      "transliteration": "juhvaty agnīmsaḥ ca vidhivad vedāmsaḥ ca uccair adhīyate ।abhibhūya ca rakṣāmsi brahma ghoṣān udairayan ॥6-35-20॥।।",
+      "translations": {
+        "english": "\"Their power is difficult to overcome as they are pure souls and blazing like fire by their austerity. They follow virtues faithfully intending to acquire merit like brahmanas. They are standing firmly curbing their senses doing sacrifices offering oblations into sacrificial fires following tradition. Having subdued the Rakshasas, they are continuing to recite Vedas and on hearing Vedas the Rakshasas are running away in different directions like the rain cloud is scattered in the hot season.\"",
+        "hindi": "विधिवत्‌ हवन करते और वेद का पाठ किआ करते हैं । उस वेदपाठ से राद्वासों का पराजय होता है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 35,
+      "verse": 21,
+      "sloka": "दिशो विप्रद्रुताः सर्वे स्तनयित्नुर् इव उष्णगे ।ऋषीणाम् अग्नि कल्पानाम् अग्नि होत्र समुत्थितः ॥६-३५-२१॥।।",
+      "transliteration": "diśo vipradrutāḥ sarve stanayitnur iva uṣṇage ।ṛṣīṇām agni kalpānām agni hotra samutthitaḥ ॥6-35-21॥।।",
+      "translations": {
+        "english": "\"By the spread of smoke in different directions from the sacrificial fires from the oblations offered by the seers the brilliance of the Rakshasas is taken away.\"",
+        "hindi": "जैसे ग्रीष्मकाल में सूर्य के आतप से वादल इधर उधर भाग जाते हैं, वैसे दी वेदध्वनि को खुन राक्षप्त चारों ओर भाग जाते हैं। अग्निसमान तेजस्वी ऋषियों के अग्निहोत्र से निकला हुआ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 35,
+      "verse": 22,
+      "sloka": "आदत्ते रक्षसाम् तेजो धूमो व्याप्य दिशो दश ।तेषु तेषु च देशेषु पुण्येषु च दृढ व्रतैः ॥६-३५-२२॥।।",
+      "transliteration": "ādatte rakṣasām tejo dhūmo vyāpya diśo daśa ।teṣu teṣu ca deśeṣu puṇyeṣu ca dṛḍha vrataiḥ ॥6-35-22॥।।",
+      "translations": {
+        "english": "\"The intense austerities performed by the sages in different regions determined firmly are tormenting the Rakshasas.\"",
+        "hindi": "धूम, दशों दिशाओं में व्याप्त हो कर राक्षसों के तेज को दबा देता है। वे दृइव्रवधारी ऋषिगण जिन जिन पुण्यप्रद देशों में, उग्र तप करते हैं, वह वहाँ के राक्षसों दो दुःख देता है । व रावण ! तुमने ब्रह्मा से यही वर पाया ह्वै कि, देवता, दानव और यक्ष तुम्हें न मार पावें",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 35,
+      "verse": 23,
+      "sloka": "चर्यमाणम् तपस् तीव्रम् सम्तापयति राक्षसान् ।देवदानवयक्षेभो गृहीतश्च वरस्त्वया ॥६-३५-२३॥।।",
+      "transliteration": "caryamāṇam tapas tīvram samtāpayati rākṣasān ।devadānavayakṣebho gṛhītaśca varastvayā ॥6-35-23॥।।",
+      "translations": {
+        "english": "\"You have secured boons of immunity against death at the hand s of strong and mighty and powerful valour, like gods, Danavas, Yakshas and human beings. The Vanaras, Bears and monkeys with dark faces are coming here now thundering.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 35,
+      "verse": 24,
+      "sloka": "मनुष्या वानरा  ऋक्षा गोलाङ्गूला महाबलाः ।बलवन्त इहागम्य गर्जन्ति दृढविक्रमाः ॥६-३५-२४॥।।",
+      "transliteration": "manuṣyā vānarā  ṛkṣā golāṅgūlā mahābalāḥ ।balavanta ihāgamya garjanti dṛḍhavikramāḥ ॥6-35-24॥।।",
+      "translations": {
+        "english": "\"You have secured boons of immunity against death at the hand s of strong and mighty and powerful valour, like gods, Danavas, Yakshas and human beings. The Vanaras, Bears and monkeys with dark faces are coming here now thundering.\"",
+        "hindi": "पर यहाँ दो महाबली मनुष्य, वानर, रीछ, गोनाङ्शूल आये हुए हैं और वे बलवान्‌ और हृढपराक्रमी सिंहनाद कर रहे हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 35,
+      "verse": 25,
+      "sloka": "उत्पातान् विविधान् दृष्ट्वा घोरान् बहु विधाम्स् तथा ।विनाशम् अनुपश्यामि सर्वेषाम् रक्षसाम् अहम् ॥६-३५-२५॥।।",
+      "transliteration": "utpātān vividhān dṛṣṭvā ghorān bahu vidhāms tathā ।vināśam anupaśyāmi sarveṣām rakṣasām aham ॥6-35-25॥।।",
+      "translations": {
+        "english": "\"Beholding different dreadful ones rising up in various directions, I foresee destruction of all Rakshasas.\"",
+        "hindi": "बा० रा० यु०--२२ ऽ. A युद्धकाणडे विविध प्रकार के और बहुत से भयङ्कर उत्पातों को देख, मुझे तो समस्त रात्तसों का नाश देख पड़ता है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 35,
+      "verse": 26,
+      "sloka": "खराभिस् तनिता घोरा मेघाह् प्रतिभयम् करः ।शोणितेन अभिवर्षन्ति लन्काम् उष्णेन सर्वतः ॥६-३५-२६॥।।",
+      "transliteration": "kharābhis tanitā ghorā meghāh pratibhayam karaḥ ।śoṇitena abhivarṣanti lankām uṣṇena sarvataḥ ॥6-35-26॥।।",
+      "translations": {
+        "english": "\"Formidable clouds are emitting hot and most frightening thunder drenched by rain of blood all over Lanka.\"",
+        "hindi": "हे रावण ! गधे भयङ्कर आवाज से रेंकते हैं और बादल भयङ्कर गजना कर लक्का में सर्वत्र गार्मागम लोटू बरसाते हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 35,
+      "verse": 27,
+      "sloka": "रुदताम् वाहनानाम् च प्रपतन्त्य् अस्र बिन्दवः ।ध्वजा ध्वस्ता विवर्णासः च न प्रभान्ति यथा पुरम् ॥६-३५-२७॥।।",
+      "transliteration": "rudatām vāhanānām ca prapatanty asra bindavaḥ ।dhvajā dhvastā vivarṇāsaḥ ca na prabhānti yathā puram ॥6-35-27॥।।",
+      "translations": {
+        "english": "\"With tear drops falling from the eyes of weeping horses and elephants (carrying army) they are discoloured by dust and are not shining like before.\"",
+        "hindi": "सब री के घोडा ओर हाथियों के रोने से उनकी आँखों से आँसु टपका करते हैं। ध्वजाएँ धूलधूसरित बदरंग हो रही हैं और उनमें अब पहिले जैसी चमक दमक नहीं देख पड़ती",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 35,
+      "verse": 28,
+      "sloka": "व्याला गोमायवो ग्R^ इध्रा वाशन्ति च सुभैरवम् ।प्रविश्य लन्काम् अनिशम् समवायाम्सः च कुर्वते ॥६-३५-२८॥।।",
+      "transliteration": "vyālā gomāyavo gR^ idhrā vāśanti ca subhairavam ।praviśya lankām aniśam samavāyāmsaḥ ca kurvate ॥6-35-28॥।।",
+      "translations": {
+        "english": "\"Wicked jackals and vultures are entering deep into Lanka and gathering. They are crying most frightfully.\"",
+        "hindi": "रात को लङ्कापुरी में घुस कर गीदड़, गीध, सप आदि दल बाध कर, भयङ्कर चीत्कार करते हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 35,
+      "verse": 29,
+      "sloka": "कालिकाः पाण्डुरैर् दन्तैः प्रहसन्त्य् अग्रतः स्थिताः ।स्त्रियः स्वप्नेषु मुष्णन्त्यो गृहाणि प्रतिभाष्य च ॥६-३५-२९॥।।",
+      "transliteration": "kālikāḥ pāṇḍurair dantaiḥ prahasanty agrataḥ sthitāḥ ।striyaḥ svapneṣu muṣṇantyo gṛhāṇi pratibhāṣya ca ॥6-35-29॥।।",
+      "translations": {
+        "english": "\"Women of dark colour like coal with yellow teeth are speaking unpleasant things standing before us in dreams laughing heartily.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 35,
+      "verse": 30,
+      "sloka": "गृहाणाम् बलि कर्माणि श्वानः पर्युपभुन्जते ।खरा गोषु प्रजायन्ते मूषिका नकुलैः सह ॥६-३५-३०॥।।",
+      "transliteration": "gṛhāṇām bali karmāṇi śvānaḥ paryupabhunjate ।kharā goṣu prajāyante mūṣikā nakulaiḥ saha ॥6-35-30॥।।",
+      "translations": {
+        "english": "\"In the houses, food offerings made for gods are eaten by dogs, donkeys are procreating cows and rats of mongoose.\"",
+        "hindi": "घरों में जो बलिकम होता है, उसको कुत्ते खा जाते हैं । गोओं के साथ गधे और नेवलो के साथ मूषिका ( चुहियाँ ) देख पड़ती हें",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 35,
+      "verse": 31,
+      "sloka": "मार्जारा द्वीपिभिः सार्धम् सूकराः शुनकैः सह ।किम्नरा राक्षसैसः च अपि समेयुर् मानुषैः सह ॥६-३५-३१॥।।",
+      "transliteration": "mārjārā dvīpibhiḥ sārdham sūkarāḥ śunakaiḥ saha ।kimnarā rākṣasaisaḥ ca api sameyur mānuṣaiḥ saha ॥6-35-31॥।।",
+      "translations": {
+        "english": "\"Cats are having the company of (mating) Leopards, pigs are mating with dogs, Kinneras with Rakshasas as well as human beings also.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 35,
+      "verse": 32,
+      "sloka": "पाण्डुरा रक्त पादासः च विहगाः काल चोदिताः ।राक्षसानाम् विनाशाय कपोता विचरन्ति च ॥६-३५-३२॥।।",
+      "transliteration": "pāṇḍurā rakta pādāsaḥ ca vihagāḥ kāla coditāḥ ।rākṣasānām vināśāya kapotā vicaranti ca ॥6-35-32॥।।",
+      "translations": {
+        "english": "\"The white and redfooted doves are moving about impelled by time spirit boding destruction of Rakshasas.\"",
+        "hindi": "टिप्पणी-अर्थात्‌ इन स्वाभाविक परस्पर विरोधी जीवों का एकत्र रहना श्मङ्गलकारक है | ] पांड्रा रक्तपादाश्च विहङ्गाः कालचोदिताः । राक्षसानां विनाशाय कपोता घिचरन्ति च",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 35,
+      "verse": 33,
+      "sloka": "वीचीकूचीति वाशन्त्यः शारिका वेश्मसु स्थिताः ।पतन्ति ग्रथितासः च अपि निर्जिताः कलह एषिणः ॥६-३५-३३॥।।",
+      "transliteration": "vīcīkūcīti vāśantyaḥ śārikā veśmasu sthitāḥ ।patanti grathitāsaḥ ca api nirjitāḥ kalaha eṣiṇaḥ ॥6-35-33॥।।",
+      "translations": {
+        "english": "\"Minas living in households grappling with bellicose birds in delight are falling down dead.\"",
+        "hindi": "घरों में पालतू भेनाएँ आपस में लड़ती और मीठे बोल न बोल कर चींचीं चींचीं करती हैं और अन्य पत्तियों से गुथ कर एवं उनसे हार कर नीचे गिर पड़ती हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 35,
+      "verse": 34,
+      "sloka": "पक्षिणश्च मृगाः सर्वे प्रत्यादित्यम् रुदन्ति ते ।करालो विकटो मुण्डः पुरुषः कृष्ण पिन्गलः ॥६-३५-३४॥।।",
+      "transliteration": "pakṣiṇaśca mṛgāḥ sarve pratyādityam rudanti te ।karālo vikaṭo muṇḍaḥ puruṣaḥ kṛṣṇa pingalaḥ ॥6-35-34॥।।",
+      "translations": {
+        "english": "All birds and animals are making hostile noise. Time is always coming in a dreadful and monstrous blackish form with a shaved head, morning, and evening. Considering all these sinister portents are making an appearance at all households.",
+        "hindi": "ना? १ समीयुः--मिथुनीभावं प्रापुः । ( शि० ) शु पक्षी सूये की ओर मुँह करके रोते हैं। भयङ्कर'बिकराल रूपधारी, सिर मु ड्ाये, काले।पीले रंग का कालपुरुष, हम सब लोगों के घरों की ओर सुत्रह शाम, ताकता हुआ सा देख पड़ता है । हे राजन्‌ तथा इसी प्रकार के ओर भी अनेक बुरे शकुन दिखलाई पड़ते हँ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 35,
+      "verse": 35,
+      "sloka": "कालो गृहाणि सर्वेषाम् काले काले अन्ववेक्षते ।एतान्य् अन्यानि दुष्टानि निमित्तान्य् उत्पतन्ति च ॥६-३५-३५॥।।",
+      "transliteration": "kālo gṛhāṇi sarveṣām kāle kāle anvavekṣate ।etāny anyāni duṣṭāni nimittāny utpatanti ca ॥6-35-35॥।।",
+      "translations": {
+        "english": "All birds and animals are making hostile noise. Time is always coming in a dreadful and monstrous blackish form with a shaved head, morning, and evening. Considering all these sinister portents are making an appearance at all households.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 35,
+      "verse": 36,
+      "sloka": "विष्णुम् मन्यामहे रामम् मानुषम् देहम् आस्थितम् ।न हि मानुष मात्रो असौ राघवो दृढ विक्रमः ॥६-३५-३६॥।।",
+      "transliteration": "viṣṇum manyāmahe rāmam mānuṣam deham āsthitam ।na hi mānuṣa mātro asau rāghavo dṛḍha vikramaḥ ॥6-35-36॥।।",
+      "translations": {
+        "english": "Rama is Lord Vishnu in human form endowed with fortitude and prowess. One who has constructed an amazing bridge on the ocean is not just a human being. O Ravana! Align with the ruler of men, Sri Rama. After careful thinking and determining correctly, do what is good.",
+        "hindi": "मझे तो जान पड़ता है कि, ये श्रीरामचन्द्र मनुष्य का रूप धारण किए हुए साक्षात्‌ विप्णु भगवान हैं ; जिन्होंने समद्र के ऊपर केसा अद्भुत पुल बाँधा है । ऐसे दृढ़पराक्रमी श्रीरामचन्द्र को केबल मनुष्य ही न समझना चाहिए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 35,
+      "verse": 37,
+      "sloka": "येन बद्धः समुद्रस्य स सेतुः परम अद्भुतः ।कुरुष्व नर राजेन सम्धिम् रामेण रावण ॥६-३५-३७॥।।",
+      "transliteration": "yena baddhaḥ samudrasya sa setuḥ parama adbhutaḥ ।kuruṣva nara rājena samdhim rāmeṇa rāvaṇa ॥6-35-37॥।।",
+      "translations": {
+        "english": "Rama is Lord Vishnu in human form endowed with fortitude and prowess. One who has constructed an amazing bridge on the ocean is not just a human being. O Ravana! Align with the ruler of men, Sri Rama. After careful thinking and determining correctly, do what is good.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 35,
+      "verse": 38,
+      "sloka": "ज्ञात्वावधार्य कर्माणि क्रियतामायतिक्षमम् ।इदम् वचस् तत्र निगद्य माल्यवन् ।परीक्ष्य रक्षो अधिपतेर् मनः पुनः ।अनुत्तमेषु उत्तम पौरुषो बली ।बभूव तूष्णीम् समवेक्ष्य रावणम् ॥६-३५-३८॥",
+      "transliteration": "jñātvāvadhārya karmāṇi kriyatāmāyatikṣamam ।idam vacas tatra nigadya mālyavan ।parīkṣya rakṣo adhipater manaḥ punaḥ ।anuttameṣu uttama pauruṣo balī ।babhūva tūṣṇīm samavekṣya rāvaṇam ॥6-35-38॥",
+      "translations": {
+        "english": "Having spoken this word to him and examined once more the mind of the lord of rakshasas, the mighty Malyavan, of highest manhood among the unsurpassed, looked upon Ravana and fell silent.",
+        "hindi": "इति पं चत्रिंशः सग; ॥ १ श्रायतिक्षमं--उत्तरकालाई । ( गो० ) उत्तम पुरुषार्थे वाला बलवान्‌ माल्यवान्‌ इस प्रकार राक्षस- पति को वचन सुना कर ओर रावण के मनोगत भावों को ताड कर चुप हो गया",
+        "telugu": ""
+      }
+    }
+  ]
+}

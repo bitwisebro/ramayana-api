@@ -1,0 +1,611 @@
+{
+  "kanda": 5,
+  "kanda_name": "Sundara Kanda",
+  "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+  "sarga": 42,
+  "verses_count": 43,
+  "verses": [
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 42,
+      "verse": 1,
+      "sloka": "ततः पक्षिनिनादेन वृक्षभङ्गस्वनेन च ।बभूवुस्त्राससंभ्रान्ताः सर्वे लङ्कानिवासिनः ।। ५.४२.१।।।।",
+      "transliteration": "tataḥ pakṣininādena vṛkṣabhaṅgasvanena ca ।babhūvustrāsasaṁbhrāntāḥ sarve laṅkānivāsinaḥ ।। 5.42.1।।।।",
+      "translations": {
+        "english": "The residents of Lanka panicked at the shrieking sounds of birds and cracking sounds of trees.",
+        "hindi": "इधर तो उन चेत्य प्रासाद के रक्षकों का नाश हुध्रा, उघर रावण की आज्ञा से प्रहस्त का पुत्र बलवान्‌ जम्बुभाली, जिसकी बड़ी-बड़ी दाढ़ें थी, धनुष ले नगर से बाहर निकला",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 42,
+      "verse": 2,
+      "sloka": "विद्रुताश्च भयत्रस्ता विनेदुर्मृगपक्षिणः ।रक्षसां च निमित्तानि क्रूराणि प्रतिपेदिरे ।। ५.४२.२।।।।",
+      "transliteration": "vidrutāśca bhayatrastā vinedurmṛgapakṣiṇaḥ ।rakṣasāṁ ca nimittāni krūrāṇi pratipedire ।। 5.42.2।।।।",
+      "translations": {
+        "english": "The frightened beasts and birds ran and flew, screeching in all directions. Fierce portents appeared to the demons.",
+        "hindi": "बह उस समय लाल मासा धौर लाल वस्त्र पहिने हुए था। उके गले में हार था और कानों में सुन्दर कुण्डल थे । उसके नेत्र गोल थे घोर बहू प्रचण्ड पराक्रमी आर युद्ध में दुर्जय था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 42,
+      "verse": 3,
+      "sloka": "ततो गतायां निद्रायां राक्षस्यो विकृताननाः ।तद्वनं ददृशुर्भग्नं तं च वीरं महाकपिम् ।। ५.४२.३।।।।",
+      "transliteration": "tato gatāyāṁ nidrāyāṁ rākṣasyo vikṛtānanāḥ ।tadvanaṁ dadṛśurbhagnaṁ taṁ ca vīraṁ mahākapim ।। 5.42.3।।।।",
+      "translations": {
+        "english": "Hideouslooking ogresses, awakened from sleep, saw the garden devastated by the heroic Vanara.",
+        "hindi": "वह भस्म हुए पहाड़ की तरह भ्रथवा महामेघ की तरह कृष्ण वर्ण भौरः विश्यालकाय था । उसकी बड़ी-बड़ी भुजाएँ, बड़ा सिर श्रौर बड़े-बड़े कन्घे थे । उसकी ढाढ़ें घ्रौर उसका मुख मी बड़ा था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 42,
+      "verse": 4,
+      "sloka": "स ता दृष्ट्वा महाबाहूर्महासत्त्वो महाबलः ।चकार सुमहद्रूपं राक्षसीनां भयावहम् ।। ५.४२.४।।।।",
+      "transliteration": "sa tā dṛṣṭvā mahābāhūrmahāsattvo mahābalaḥ ।cakāra sumahadrūpaṁ rākṣasīnāṁ bhayāvaham ।। 5.42.4।।।।",
+      "translations": {
+        "english": "When the powerful, mighty and strongarmed Hanuman saw the ogresses he assumed a very huge form in order to strike terror in them.",
+        "hindi": "वहू बड़ा वेगवान्‌, बड़ा उत्साही, बड़ा बलवान्‌ ्रौर बड़ा पराक्रमी था । वह एक बड़े रथ में बैठ तथा श्रायुधों को ले, बड़े झपाटे से श्राया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 42,
+      "verse": 5,
+      "sloka": "ततस्तं गिरिसङ्काशमतिकायं महाबलम् ।राक्षस्यो वानरं दृष्ट्वा पप्रच्छुर्जनकात्मजाम् ।। ५.४२.५।।।।",
+      "transliteration": "tatastaṁ girisaṅkāśamatikāyaṁ mahābalam ।rākṣasyo vānaraṁ dṛṣṭvā papracchurjanakātmajām ।। 5.42.5।।।।",
+      "translations": {
+        "english": "Then, seeing the huge body of the mighty vanara resembling a mountain the ogresses questioned Janaki about him.",
+        "hindi": "उसका धनुष इन्द्रघन्‌ष के समान था ग्रोर वह ग्रति सुन्दर बाणों को लिए हुए धा । उसने जो श्रपने धनुष को टंकोरा तो उसमे से वज्र गिरने के समान बड़ा भारी शब्द हुआ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 42,
+      "verse": 6,
+      "sloka": "को ऽयं कस्य कुतो वा ऽयं किंनिमित्तमिहागतः ।कथं त्वया सहानेन संवादः कृत इत्युत ।। ५.४२.६।।।।",
+      "transliteration": "ko 'yaṁ kasya kuto vā 'yaṁ kiṁnimittamihāgataḥ ।kathaṁ tvayā sahānena saṁvādaḥ kṛta ityuta ।। 5.42.6।।।।",
+      "translations": {
+        "english": "\"Who is he? By whom has he been sent? From where and why did he come here? What dialogue did you have with him?",
+        "hindi": "उसके महाघनुष की टंकार के शब्द से श्राकाश सहित समस्त दिशाएँ श्रोरः विदिशाएं सहसा पूर्ण हो गईं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 42,
+      "verse": 7,
+      "sloka": "आचक्ष्व नो विशालाक्षि मा भूत्ते सुभगे भयम् ।संवादमसितापाङ्गे त्वया किं कृतवानयम् ।। ५.४२.७।।।।",
+      "transliteration": "ācakṣva no viśālākṣi mā bhūtte subhage bhayam ।saṁvādamasitāpāṅge tvayā kiṁ kṛtavānayam ।। 5.42.7।।।।",
+      "translations": {
+        "english": "\"O lovely, largeeyed lady O auspicious one have no fear. What conversation did he have with you? Tell us\".",
+        "hindi": "COCR ve MRE न: SRT odngoti Initiative वेगवान हनमानजी, जम्बुमाली को गधों के रथ पर सवार देख, प्रत्यन्त असन्न हुए प्रौर उन्होंने सिंहनाद किया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 42,
+      "verse": 8,
+      "sloka": "अथाब्रवीत्तदा साध्वी सीता सर्वाङ्गसुन्दरी ।रक्षसां भीमरूपाणां विज्ञाने मम का गतिः ।। ५.४२.८।।।।",
+      "transliteration": "athābravīttadā sādhvī sītā sarvāṅgasundarī ।rakṣasāṁ bhīmarūpāṇāṁ vijñāne mama kā gatiḥ ।। 5.42.8।।।।",
+      "translations": {
+        "english": "Chaste and beautiful Sita said, \"How do I know about the ogresses who assume many fierce forms?\"",
+        "hindi": "उस बाणवृष्टि से हनुमानजी बाणों के भीतर वैसे ही छिप गए जेखे पर्वतराज जल की वृष्टि से छिप जाता है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 42,
+      "verse": 9,
+      "sloka": "यूयमेवाभिजानीत यो ऽयं यद्वा करिष्यति ।अहिरेव ह्यहेः पादान् विजानाति न संशयः ।। ५.४२.९।।।।",
+      "transliteration": "yūyamevābhijānīta yo 'yaṁ yadvā kariṣyati ।ahireva hyaheḥ pādān vijānāti na saṁśayaḥ ।। 5.42.9।।।।",
+      "translations": {
+        "english": "\"You alone can know about who he is and what he is about. A serpent alone knows the movement (footprints) of another serpent. There is no doubt about it.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 42,
+      "verse": 10,
+      "sloka": "अहमप्यस्य भीता ऽस्मि नैनं जानामि कोन्वयम् ।वेद्मि राक्षसमेवैनं कामरूपिणमागतम् ।। ५.४२.१०।।।।",
+      "transliteration": "ahamapyasya bhītā 'smi nainaṁ jānāmi konvayam ।vedmi rākṣasamevainaṁ kāmarūpiṇamāgatam ।। 5.42.10।।।।",
+      "translations": {
+        "english": "\"I am also scared of him. I do not know who he is. I think he is a demon, who came here assuming a form of his choice.",
+        "hindi": "उस बाण के लगने से हनुमानजी का. लाल मुख ऐसा शोभायमान हुश्रा जैसे कि, शरदऋतु में सूयं की किरणों के पड़ने से कमल शोभायमान होता है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 42,
+      "verse": 11,
+      "sloka": "वैदेह्या वचनं श्रुत्वा राक्षस्यो विद्रुता दिशः ।स्थिताः काश्चिद्गताः काश्चिद्रावणाय निवेदितुम् ।। ५.४२.११।।।।",
+      "transliteration": "vaidehyā vacanaṁ śrutvā rākṣasyo vidrutā diśaḥ ।sthitāḥ kāścidgatāḥ kāścidrāvaṇāya niveditum ।। 5.42.11।।।।",
+      "translations": {
+        "english": "LIstening to Vaidehi's words the ogresses divided themselves and fled in all directions. While some stood there, others went to report to Ravana.",
+        "hindi": "हनुमानजी का लाल लोहू से रंगा हुग्रा मुख, ऐसा सुशोभित हुभ्रा, मानो आाकाश में एक बड़ा कमल का फूल, जिस पर सोने की बू दे छिटकी हों, शोभायमान हो रहा हो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 42,
+      "verse": 12,
+      "sloka": "रावणस्य समीपे तु राक्षस्यो विकृताननाः ।विरूपं वानरं भीममाख्यातुमुपचक्रमुः ।। ५.४२.१२।।।।",
+      "transliteration": "rāvaṇasya samīpe tu rākṣasyo vikṛtānanāḥ ।virūpaṁ vānaraṁ bhīmamākhyātumupacakramuḥ ।। 5.42.12।।।।",
+      "translations": {
+        "english": "The uglyfaced ogresses went to the presence of Ravana and reported about the frightening form of the vanara.",
+        "hindi": "बाणों के लगने से हनमानजी उस राक्षस पर कुपित हुए) उस समय उन्हें पास ही एक बड़ी शिला देख पड़ी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 42,
+      "verse": 13,
+      "sloka": "अशोकवनिकामध्ये राजन् भीमवपुः कपिः ।सीतया कृतसंवादस्तदिष्ठत्यमितविक्रमः ।। ५.४२.१३।।।।",
+      "transliteration": "aśokavanikāmadhye rājan bhīmavapuḥ kapiḥ ।sītayā kṛtasaṁvādastadiṣṭhatyamitavikramaḥ ।। 5.42.13।।।।",
+      "translations": {
+        "english": "\"Your majesty an extremely powerful and frightening Vanara had a dialogue with Sita. He is stationed in the midst of Ashoka garden.",
+        "hindi": "पाठान्तरे--'मावमान्यो मर्वाद्धिशच ।” तुम लोग बड़े प्रयत्न से उप्तको पकड़ना । मुझे मालूम है कि, इन्द्रप्रमुम्र देवता, दैत्य ग्रौर मनुष्यों के सहित तीनों लोक",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 42,
+      "verse": 14,
+      "sloka": "न च तं जानकी सीता हरिं हरिणलोचना ।अस्माभिर्बहुधा पृष्टा निवेदयितुमिच्छिति ।। ५.४२.१४।।।।",
+      "transliteration": "na ca taṁ jānakī sītā hariṁ hariṇalocanā ।asmābhirbahudhā pṛṣṭā nivedayitumicchiti ।। 5.42.14।।।।",
+      "translations": {
+        "english": "\"The deereyed Sita is not willing to disclose to us his identity even when we questioned her.",
+        "hindi": "जब वे सातों मन्त्रिपुत्र इस प्रकार मारे जाकर पृथिवी पर गिर गए, तब उनकी सेना भयभीत हो, चारों प्रोर भाग गई",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 42,
+      "verse": 15,
+      "sloka": "वासवस्य भवेद्दूतो दूतो वैश्रवणस्य वा ।प्रेषितो वा ऽपि रामेण सीतान्वेषणकाङ्क्षया ।। ५.४२.१५।।।।",
+      "transliteration": "vāsavasya bhaveddūto dūto vaiśravaṇasya vā ।preṣito vā 'pi rāmeṇa sītānveṣaṇakāṅkṣayā ।। 5.42.15।।।।",
+      "translations": {
+        "english": "\"He may be an envoy of Indra or Kubera or of Rama sent with an intent to trace Sita.",
+        "hindi": "सेना के हाथी चिंघारने लगे, घोड़े भूमि पर लोट-पोट हो गए । रथों की टूटी हुई घ्वजाप्रों, ध्वजाग्रों के डंडों श्रौर छत्रो से रणक्षेत्र पर गया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 42,
+      "verse": 16,
+      "sloka": "तेन त्वद्भुतरूपेण यत्तत्तव मनोहरम् ।नानामृगगणाकीर्णं प्रमृष्टं प्रमदावनम् ।। ५.४२.१६।।।।",
+      "transliteration": "tena tvadbhutarūpeṇa yattattava manoharam ।nānāmṛgagaṇākīrṇaṁ pramṛṣṭaṁ pramadāvanam ।। 5.42.16।।।।",
+      "translations": {
+        "english": "\"Your beautiful pleasure garden filled with a variety of beasts has been ruined by this wonderful figure.",
+        "hindi": "तथा भ्रग्नि के समान तेजस्वी राक्षस सेनापति रथ, मतवाले द्वाषी, शीघ्रगामी घोड़े श्रोर विविघ प्रकार के पेने शस्त्रों से युक्त अ्रपनी-प्रपनी सेना सजा प्रस्थानित हुए श्रौर यृद्धक्षेत्र मै जा, उन लोगों ने दीप्तियुक्त बीर हनुमानजी को देखा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 42,
+      "verse": 17,
+      "sloka": "न तत्र कश्चिदुद्देशो यस्तेन न विनाशितः ।यत्र सा जानकी सीता स तेन न विनाशितः ।। ५.४२.१७।।।।",
+      "transliteration": "na tatra kaściduddeśo yastena na vināśitaḥ ।yatra sā jānakī sītā sa tena na vināśitaḥ ।। 5.42.17।।।।",
+      "translations": {
+        "english": "There is not a single place that has not been ruined by him there. Only the place where Janaka's daughter, Sita is resting has not been touched.",
+        "hindi": "उसने अत्यन्त क्रुद्ध हो बाणो से हनुमानजी का शरीर भर दिया । तब हनुमानजी ने उस बेडे को उठा कर घुमाया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 42,
+      "verse": 18,
+      "sloka": "जानकीरक्षणार्थं वा श्रमाद्वा नोपलभ्यते ।अथवा कः श्रमस्तस्य सैव तेनाभिरक्षिता ।। ५.४२.१८।।।।",
+      "transliteration": "jānakīrakṣaṇārthaṁ vā śramādvā nopalabhyate ।athavā kaḥ śramastasya saiva tenābhirakṣitā ।। 5.42.18।।।।",
+      "translations": {
+        "english": "\"It is not clear whether he spared that place for protecting Janakai or he stopped due to exhaustion. What is fatigue for him? It must be to save her that she is spared by him.",
+        "hindi": "उस समय उस फाटक के ऊपर बैठे हुए, उदित सूर्यकी तरह चमकीले महाइल न्‌ कः निवात L RR महाबद्धिमान, महोत्सादी [ड कपि पौर भहाभूज हनुमानजी को देख प्रौर उनसे डर कर वे सब राझश् दुर ही दूर खड़े हुए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 42,
+      "verse": 19,
+      "sloka": "चारुपल्लवपुष्पाढ्यं यं सीता स्वयमास्थिता ।प्रवृद्धः शिंशुपावृक्षः स च तेनाभिरक्षितः ।। ५.४२.१९।।।।",
+      "transliteration": "cārupallavapuṣpāḍhyaṁ yaṁ sītā svayamāsthitā ।pravṛddhaḥ śiṁśupāvṛkṣaḥ sa ca tenābhirakṣitaḥ ।। 5.42.19।।।।",
+      "translations": {
+        "english": "\"He has spared the simsupa tree with lovely, tender leaves and flowers which is a chosen resort by Sita.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 42,
+      "verse": 20,
+      "sloka": "तस्योग्ररूपस्योग्र त्वं दण्डमाज्ञातुमर्हसि ।सीता संभाषिता येन तद्वनं च विनाशितम् ।। ५.४२.२०।।।।",
+      "transliteration": "tasyograrūpasyogra tvaṁ daṇḍamājñātumarhasi ।sītā saṁbhāṣitā yena tadvanaṁ ca vināśitam ।। 5.42.20।।।।",
+      "translations": {
+        "english": "\"Your highness should take severe action on that person of fierce appearance with whom Sita dared to speak, and by whom the garden is ruined.",
+        "hindi": "झौर चारों घोर से भयंकंर भ्रस्त्र-शस्त्र चलाने लगे । लोहे के बने हुए वेने, पीले रंग के पाँच बाण",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 42,
+      "verse": 21,
+      "sloka": "मनःपरिगृहीतां तां तव रक्षोगणेश्वर ।कः सीतामभिभाषेत यो न स्यात्त्यक्तजीवितः ।। ५.४२.२१।।।।",
+      "transliteration": "manaḥparigṛhītāṁ tāṁ tava rakṣogaṇeśvara ।kaḥ sītāmabhibhāṣeta yo na syāttyaktajīvitaḥ ।। 5.42.21।।।।",
+      "translations": {
+        "english": "\"O lord of the demon clan Who dares to talk to Sita if he has not given up all hope of life, since she is desired by you\".",
+        "hindi": "स हतस्तरसा तेन जम्बुमाली महाबल: । पपात निहतो भूमौ चणताङ्कदिभूषणः ।।२० महाबलदान जम्बुमाली हनुमानजी के बेडे के भाषात से मर कर जमीन पर गिर गया ग्रौर उसका शरीर तथा श्राभूषण चूर-चूर हो गया ।!२०। जस्बुमालि च निहतं किङ्कराश्च भहाबलान । चुक्तोध रावणः शुत्वा कोपसंरक्तलोचनः",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 42,
+      "verse": 22,
+      "sloka": "राक्षसीनां वचः श्रुत्वा रावणो राक्षसेश्वरः ।हुताग्निरिव जज्वाल कोपसंवर्तितेक्षणः ।। ५.४२.२२।।।।",
+      "transliteration": "rākṣasīnāṁ vacaḥ śrutvā rāvaṇo rākṣaseśvaraḥ ।hutāgniriva jajvāla kopasaṁvartitekṣaṇaḥ ।। 5.42.22।।।।",
+      "translations": {
+        "english": "On listening to the report of the ogresses, Ravana, the lord of demons flared up like blazing flame of a sacrificial fire, his eyeballs rolling in rage.",
+        "hindi": "तब तो हनुमानजी सिंहनाद करते और उस सिंहनाद से दसों दिशाग्रों को प्रतिध्वनित करते, आकाश में छलांग मार कर पहुँच गए । यह देख रथ में बैठे हुए दुर्धर ने ग्रपने घनुष पर रोदः चढ़ाया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 42,
+      "verse": 23,
+      "sloka": "तस्य क्रुद्धस्य नेत्राभ्यां प्रापतन्नास्रबिन्दवः ।दीप्ताभ्यामिव दीपाभ्यां सार्चिषः स्नेहबिन्दवः ।। ५.४२.२३।।।।",
+      "transliteration": "tasya kruddhasya netrābhyāṁ prāpatannāsrabindavaḥ ।dīptābhyāmiva dīpābhyāṁ sārciṣaḥ snehabindavaḥ ।। 5.42.23।।।।",
+      "translations": {
+        "english": "From his angry eyes fell down drops of tears just as burning drops of oil drip from two burning lamps.",
+        "hindi": "झौर सँकड़ों बाण छोड़ता वह हनुमानजी का पीछा करने लगा। उसे बाणवृष्टि करने वाले राक्षस के छोड़े बाणों को प्राकाश में रह कर हनुमानजी ने वैसे ही रोका",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 42,
+      "verse": 24,
+      "sloka": "आत्मनः सदृशाञ्छूरान् किङ्करान्नाम राक्षसान् ।व्यादिदेश महातेजा निग्रहार्थं हनूमतः ।। ५.४२.२४।।।।",
+      "transliteration": "ātmanaḥ sadṛśāñchūrān kiṅkarānnāma rākṣasān ।vyādideśa mahātejā nigrahārthaṁ hanūmataḥ ।। 5.42.24।।।।",
+      "translations": {
+        "english": "Then powerful Ravana commanded heroic demons called kinkaras who vied in strength to catch Hanuman.",
+        "hindi": "जैसे शरदक्रतु में पवन, बादलों को जल वर्षाने से रोकता है । किन्तु जब दुधंर राक्षस बाणवृष्टि से हनुमानजी को सताने लगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 42,
+      "verse": 25,
+      "sloka": "तेषामशीतिसाहस्रं किङ्कराणां तरस्विनाम् ।। ५.४२.२५।।।।",
+      "transliteration": "teṣāmaśītisāhasraṁ kiṅkarāṇāṁ tarasvinām ।। 5.42.25।।।।",
+      "translations": {
+        "english": "Eighty thousand powerful kinkaras (a clan of demons), largebellied, with large teeth and of dreadful appearance, swift in action, armed with hammers and clubs marched from there, resolved to capture Hanuman.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 42,
+      "verse": 26,
+      "sloka": "निर्ययुर्भवनात् तस्मात्कूटमुद्गरपाणयः ।महोदरा महादंष्ट्रा घोररूपा महाबलाः ।युद्धाभिमनसः सर्वे हनुमद्ग्रहणोन्मुखाः ।। ५.४२.२६।।।।",
+      "transliteration": "niryayurbhavanāt tasmātkūṭamudgarapāṇayaḥ ।mahodarā mahādaṁṣṭrā ghorarūpā mahābalāḥ ।yuddhābhimanasaḥ sarve hanumadgrahaṇonmukhāḥ ।। 5.42.26।।।।",
+      "translations": {
+        "english": "Eighty thousand powerful kinkaras (a clan of demons), largebellied, with large teeth and of dreadful appearance, swift in action, armed with hammers and clubs marched from there, resolved to capture Hanuman.",
+        "hindi": "निपपात भहावेगो विद्युद्राशिर्गिराविव । ततः सं मथिताष्टाश्वं रथं भग्नाक्ष कूबरन ॥॥२६्‌॥ बे जोर से वैसे ही रथ पर गिरे, जैसे बिजली पहाड़ पर गिरती है। उनके गिरते ही घोड़े सहित वह रथ, भय धुरे प्रौर कूबर के चकनाचूर हो बया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 42,
+      "verse": 27,
+      "sloka": "ते कपीन्द्रं समासाद्य तोरणस्थमवस्थितम् ।अभिपेतुर्महावेगाः पतङ्गा इव पावकम् ।। ५.४२.२७।।।।",
+      "transliteration": "te kapīndraṁ samāsādya toraṇasthamavasthitam ।abhipeturmahāvegāḥ pataṅgā iva pāvakam ।। 5.42.27।।।।",
+      "translations": {
+        "english": "The kinkaras rushed towards the leader of vanaras who stood near the archway like the moths rushing towards the flame.",
+        "hindi": "और दुर्धर राक्षस रथ से पृथिवी पर गिर कर मर गया । तब दुर्घर को पृथिवी पर मरा हुश्रा पड़ा देख, विरूपाक्ष ग्रोर यूपाक्ष",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 42,
+      "verse": 28,
+      "sloka": "ते गदाभिर्विचित्राभिः परिघैः काञ्चनाङ्गदैः ।आजघ्नुर्वानरश्रेष्ठं शरैश्चादित्यसन्निभैः ।। ५.४२.२८।।।।",
+      "transliteration": "te gadābhirvicitrābhiḥ parighaiḥ kāñcanāṅgadaiḥ ।ājaghnurvānaraśreṣṭhaṁ śaraiścādityasannibhaiḥ ।। 5.42.28।।।।",
+      "translations": {
+        "english": "They assailed Hanuman with iron maces, crowbars edged with gold and shining arrows resembling the Sun.",
+        "hindi": "नोट--“विमलेऽम्बरे” का भावार्थ यह है कि उस समय भ्राकाश साफ था । बादल नहीं थे । जिनमें कोई अपने को छिपा सकता । दोनों राक्षस महाक्रुद्ध हो उछले श्रौर हनुमानजी को विमल श्राकाश में जा घेर लिया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 42,
+      "verse": 29,
+      "sloka": "मुद्गरैः पट्टिशैः शूलैः प्रासतोमरशक्तिभिः ।परिवार्य हनूमन्तं सहसा तस्थुरग्रतः ।। ५.४२.२९।।।।",
+      "transliteration": "mudgaraiḥ paṭṭiśaiḥ śūlaiḥ prāsatomaraśaktibhiḥ ।parivārya hanūmantaṁ sahasā tasthuragrataḥ ।। 5.42.29।।।।",
+      "translations": {
+        "english": "They quickly surrounded Hanuman and stood with hammers, sharpedged spears, tridents, barbed missiles and powerful javelins.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 42,
+      "verse": 30,
+      "sloka": "हनुमानपि तेजस्वी श्रीमान् पर्वतसन्निभिः ।क्षितावाविध्य लांगूलं ननाद च महास्वनम् ।। ५.४२.३०।।।।",
+      "transliteration": "hanumānapi tejasvī śrīmān parvatasannibhiḥ ।kṣitāvāvidhya lāṁgūlaṁ nanāda ca mahāsvanam ।। 5.42.30।।।।",
+      "translations": {
+        "english": "Gigantic Hanuman, illustrious and brilliant, roared and waved his tail striking it with force on the ground causing loud sound.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 42,
+      "verse": 31,
+      "sloka": "स भूत्वा सुमहाकायो हनुमान् मारुतात्मजः ।धृष्टमास्फोटयामास लङ्कां शब्देन पूरयन् ।। ५.४२.३१।।।।",
+      "transliteration": "sa bhūtvā sumahākāyo hanumān mārutātmajaḥ ।dhṛṣṭamāsphoṭayāmāsa laṅkāṁ śabdena pūrayan ।। 5.42.31।।।।",
+      "translations": {
+        "english": "Hanuman, son of Maruti, enlarged his body to a huge size and patted himself wildly making loud noise that echoed the entire Lanka.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 42,
+      "verse": 32,
+      "sloka": "तस्यास्फोटितशब्देन महता सानुनादिना ।पेतुर्विहङ्गा गगनादुच्चैश्चेदमघोषयत् ।। ५.४२.३२।।।।",
+      "transliteration": "tasyāsphoṭitaśabdena mahatā sānunādinā ।peturvihaṅgā gaganāduccaiścedamaghoṣayat ।। 5.42.32।।।।",
+      "translations": {
+        "english": "By the highly frightening sound caused by Hanuman patting, the birds from the sky fell down making a loud noise and Hanuman proclaimed in a loud voice as follows:",
+        "hindi": "महावेगवान प्रघस नामक राक्षस सेनापति श्रट्टहास करता हुश्रा, हनुमानजी के निकट गया घौर बलशाली भासकं भी शूल हाथ में ले और अत्यन्त क्रुद्ध हो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 42,
+      "verse": 33,
+      "sloka": "जयत्यतिबलो रामो लक्ष्मणश्च महाबलः ।राजा जयति सुग्रीवो राघवेणाभिपालितः ।। ५.४२.३३।।।।",
+      "transliteration": "jayatyatibalo rāmo lakṣmaṇaśca mahābalaḥ ।rājā jayati sugrīvo rāghaveṇābhipālitaḥ ।। 5.42.33।।।।",
+      "translations": {
+        "english": "\"Victory to Rama, the mighty and powerful, Victory to Lakshmana. Victory to king Sugriva who is ruled by Rama.\"",
+        "hindi": "यशस्वी हनुमानजी के एक श्रोर जाकर उपस्थित हुआ । तब प्रघस, पेनी नोंक के पटे से हनुमानजी से लड़ने लगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 42,
+      "verse": 34,
+      "sloka": "दासो ऽहं कोसलेन्द्रस्य रामस्याक्लिष्टकर्मणः ।हनुमान् शत्रुसैन्यानां निहन्ता मारुतात्मजः ।। ५.४२.३४।।।।",
+      "transliteration": "dāso 'haṁ kosalendrasya rāmasyākliṣṭakarmaṇaḥ ।hanumān śatrusainyānāṁ nihantā mārutātmajaḥ ।। 5.42.34।।।।",
+      "translations": {
+        "english": "\"I, son of the Windgod, destroyer of hostile armies, am a servant of Rama, the lord of Kosala kingdom, a man of unwearied action.",
+        "hindi": "राक्षस भासकणं ने हाथ में त्रिशूल ले हनुमानजी पर श्राक्रमण किया । उन दोनों के संयुक्त प्रहार से हनुमानजी के सब शरीर में घाव हो गए ग्रौर उनके रुधिर बहने लगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 42,
+      "verse": 35,
+      "sloka": "न रावणसहस्रं मे युद्धे प्रतिबलं भवेत् ।शिलाभिस्तु प्रहरतः पादपैश्च सहस्रशः ।। ५.४२.३५।।।।",
+      "transliteration": "na rāvaṇasahasraṁ me yuddhe pratibalaṁ bhavet ।śilābhistu praharataḥ pādapaiśca sahasraśaḥ ।। 5.42.35।।।।",
+      "translations": {
+        "english": "Even a thousand Ravanas will not match me in strength when I pound stones and trees in a thousand ways.",
+        "hindi": "तब प्रातःकालीन सूर्य के समान कान्ति वाले हनुमानजी प्रत्यन्त क्रुद्ध इए । मृग, साँप प्रौर पेड़ों सहित एक पहाड़ के शिखर को उखाड़ कर",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 42,
+      "verse": 36,
+      "sloka": "अर्दयित्वा पुरीं लङ्कामभिवाद्य च मैथिलीम् ।समृद्धार्थो गमिष्यामि मिषतां सर्वरक्षसाम् ।। ५.४२.३६।।।।",
+      "transliteration": "ardayitvā purīṁ laṅkāmabhivādya ca maithilīm ।samṛddhārtho gamiṣyāmi miṣatāṁ sarvarakṣasām ।। 5.42.36।।।।",
+      "translations": {
+        "english": "\"I shall destroy the city of Lanka and pay my respects to Mythili right under the nose of all demons. I will return with my purpose accomplished.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 42,
+      "verse": 37,
+      "sloka": "तस्य सन्नादशब्देन ते ऽभवन् भयशङ्किताः ।ददृशुश्च हनूमन्तं सन्ध्यामेघमिवोन्नतम् ।। ५.४२.३७।।।।",
+      "transliteration": "tasya sannādaśabdena te 'bhavan bhayaśaṅkitāḥ ।dadṛśuśca hanūmantaṁ sandhyāmeghamivonnatam ।। 5.42.37।।।।",
+      "translations": {
+        "english": "Terrified on hearing the roar, the kinkaras looked at the towering Hanuman who seemed like a cloud in twilight (red in colour).",
+        "hindi": "हनुमानजी ने बची हुई राक्षस-सेना का संहार किया । (उनके, मारने के लिए उन्हें किसी वस्तु की भ्रावव्यकता न पड़ी । ) उन्होंने घोड़े से घोड़े को, हाथी से हाथी को, सैनिक से सैनिक को श्रोर रथ से रथ को (मार- सार कर) नष्ट कर डाला",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 42,
+      "verse": 38,
+      "sloka": "स्वामिसन्देशनिश्शङ्कास्ततस्ते राक्षसाः कपिम् ।चित्रैः प्रहरणैर्भीमैरभिपेतुस्ततस्ततः ।। ५.४२.३८।।।।",
+      "transliteration": "svāmisandeśaniśśaṅkāstataste rākṣasāḥ kapim ।citraiḥ praharaṇairbhīmairabhipetustatastataḥ ।। 5.42.38।।।।",
+      "translations": {
+        "english": "Obeying their king's commnad, putting aside their fear, the kinkaras freely attacked the vanara from all directions with dreadful weapons.",
+        "hindi": "उन्होंने उन राक्षसों का वैसे ही संहार किया; जेसे इन्त्र ग्रसुरो का करते हैं। उन मरे हुए हाथियों, घोड़ों, टूटे हुए बड़े-बड़े रथों से तथा मरे हुए राक्षसों से यह रणक्षत्र पट गया भौर हर श्रोर के मागे बंद हो अए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 42,
+      "verse": 39,
+      "sloka": "स तैः परिवृतः शूरैः सर्वतः स महाबलः ।आससादायसं भीमं परिघं तोरणाश्रितम्।स तं परिघमादय जघान रजनीचरान् ।। ५.४२.३९।।।।",
+      "transliteration": "sa taiḥ parivṛtaḥ śūraiḥ sarvataḥ sa mahābalaḥ ।āsasādāyasaṁ bhīmaṁ parighaṁ toraṇāśritam।sa taṁ parighamādaya jaghāna rajanīcarān ।। 5.42.39।।।।",
+      "translations": {
+        "english": "Extremely powerful Hanuman surrounded by heroes all over, on his part went to the archway and picked up a terrific iron beam.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 42,
+      "verse": 40,
+      "sloka": "स पन्नगमिवादाय स्फुरन्तं विनतासुतः ।विचचाराम्बरे वीरः परिगृह्य च मारुतिः ।। ५.४२.४०।।।।",
+      "transliteration": "sa pannagamivādāya sphurantaṁ vinatāsutaḥ ।vicacārāmbare vīraḥ parigṛhya ca mārutiḥ ।। 5.42.40।।।।",
+      "translations": {
+        "english": "Hanuman, the mighty hero, seized the iron beam and struck the kinkaras, just as Garuda, the son of Vinata shoots up a struggling serpent and starts taking strides in the sky with the weapon in his hand (like Indra with his thunderbolt did with demons).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 42,
+      "verse": 41,
+      "sloka": "स हत्वा राक्षसान् वीरान् किङ्करान् मारुतात्मजः ।युद्धाकाङ्क्षी पुनर्वीरस्तोरणं समुपाश्रितः ।। ५.४२.४१।।।।",
+      "transliteration": "sa hatvā rākṣasān vīrān kiṅkarān mārutātmajaḥ ।yuddhākāṅkṣī punarvīrastoraṇaṁ samupāśritaḥ ।। 5.42.41।।।।",
+      "translations": {
+        "english": "The great Windgod's son killed the kinkaras, and returned to the archway desiring further combat.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 42,
+      "verse": 42,
+      "sloka": "ततस्तस्माद्भयान्मुक्ताः कतिचित्तत्र राक्षसाः ।निहतान् किङ्करान् सर्वान् रावणाय न्यवेदयन् ।। ५.४२.४२।।।।",
+      "transliteration": "tatastasmādbhayānmuktāḥ katicittatra rākṣasāḥ ।nihatān kiṅkarān sarvān rāvaṇāya nyavedayan ।। 5.42.42।।।।",
+      "translations": {
+        "english": "Then a few surviving ogres took to their heels after getting over that shock and reported to Ravana of the destruction of the kinkaras in the combat",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 42,
+      "verse": 43,
+      "sloka": "स राक्षसानां निहतं महद्बलं निशम्य राजा परिवृत्तलोचनः ।समादिदेशाप्रतिमं पराक्रमे प्रहस्त पुत्रं समरे सुदुर्जयम् ।। ५.४२.४३।।",
+      "transliteration": "sa rākṣasānāṁ nihataṁ mahadbalaṁ niśamya rājā parivṛttalocanaḥ ।samādideśāpratimaṁ parākrame prahasta putraṁ samare sudurjayam ।। 5.42.43।।",
+      "translations": {
+        "english": "The mighty demon king having heard about the killing of the formidable army of ogres, his eyes rolling in rage, commanded the son of Prahasta, who is difficult to conquer and matchless in war. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये सुन्दरकाण्डे द्विचत्वारिंशस्सर्गः।। Thus ends the fortysecond sarga of Sundarakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

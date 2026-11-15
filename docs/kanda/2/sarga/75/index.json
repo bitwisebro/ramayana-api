@@ -1,0 +1,919 @@
+{
+  "kanda": 2,
+  "kanda_name": "Ayodhya Kanda",
+  "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+  "sarga": 75,
+  "verses_count": 65,
+  "verses": [
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 1,
+      "sloka": "दीर्घकालात्समुत्थाय सम्ज्ञाम् लब्ध्वा च वीर्यवान् ।नेत्राभ्यामश्रुपूर्णाभ्याम् दीनामुद्वीक्ष्य मातरम् ॥२-७५-१॥",
+      "transliteration": "dīrghakālātsamutthāya samjñām labdhvā ca vīryavān ।netrābhyāmaśrupūrṇābhyām dīnāmudvīkṣya mātaram ॥2-75-1॥",
+      "translations": {
+        "english": "On regaining his senses after a long time, the valiant Bharata looked at his unfortunate mother whose eyes were filled with tears, and condemned her amidst the counsellors.",
+        "hindi": "अयोध्याका ड का अहत्तरतराँ सग पूरा हुआ । —:x:— र त्रिसप्ततिमः सगः श्रत्वा तु पितंरं बृत्त तरौ च विवासितौ । भरतो दुःखसन्तप्त इदं वचनमब्रवीत्‌",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 2,
+      "sloka": "सोऽमात्यमध्येभरतो जननीमभ्यकुत्सयत् ।राज्यम् न कामये जातु मन्त्रये नापि मातरम् ॥२-७५-२॥",
+      "transliteration": "so'mātyamadhyebharato jananīmabhyakutsayat ।rājyam na kāmaye jātu mantraye nāpi mātaram ॥2-75-2॥",
+      "translations": {
+        "english": "Neither did I ever desire the kingdom nor did I ever consult my mother in this regard and I am not even aware of the consecration that was planned by the king for I was away in a distant country with Satrughna.",
+        "hindi": "पिता और पिता के समान भाई से रहित होने के कारण, मेरा तो सब नाश हो गया । ऐसी शोच्य दशा में, मैं राज्य. ले कर करू गा ही क्या १",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 3,
+      "sloka": "अभिषेकम् न जानामि यो.भूद्रज्Jना समीक्षितः ।विप्रकृष्टे ह्यहम् देशे शत्रुघ्न सहितोऽवसम् ॥२-७५-३॥",
+      "transliteration": "abhiṣekam na jānāmi yo.bhūdrajJnā samīkṣitaḥ ।viprakṛṣṭe hyaham deśe śatrughna sahito'vasam ॥2-75-3॥",
+      "translations": {
+        "english": "Neither did I ever desire the kingdom nor did I ever consult my mother in this regard and I am not even aware of the consecration that was planned by the king for I was away in a distant country with Satrughna.",
+        "hindi": "तूने महाराज दशरथ को मार और राम को तपस्वी बना, मुझे दुःख के उपर दुःख दिआ, मानों घाव पर निसक छिड़का है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 4,
+      "sloka": "वनवासम् न जानामि रामस्यहम् महात्मनः ।विवासनम् वा सौमित्रेः सीतायाश्च यथाभवत् ॥२-७५-४॥",
+      "transliteration": "vanavāsam na jānāmi rāmasyaham mahātmanaḥ ।vivāsanam vā saumitreḥ sītāyāśca yathābhavat ॥2-75-4॥",
+      "translations": {
+        "english": "I knew nothing of the banishment of great Rama nor did I know how Lakshmana or Sita had gone on exile.",
+        "hindi": "कु कुलस्य तमभावाय कालरात्राखागता । अङ्गारमुपगृद्यक्रत्याँ पिता मे नावबुद्धवान्‌ ॥ ४. ॥ तू काजरात्रि से समान इस कुल का सत्यानाश करने को यहाँ आई है । मेरे पिता ने जलते हुए अगारे की समान अन- जाने तुमे घर में रखा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 5,
+      "sloka": "तथैव क्रोशतः तस्य भरतस्य महात्मनः ।कौसल्या शब्दम् आज्ञाय सुमित्राम् इदम् अब्रवीत् ॥२-७५-५॥",
+      "transliteration": "tathaiva krośataḥ tasya bharatasya mahātmanaḥ ।kausalyā śabdam ājñāya sumitrām idam abravīt ॥2-75-5॥",
+      "translations": {
+        "english": "As magnanimous Bharata was wailing, Kausalya recognised his voice and said to Sumitra:",
+        "hindi": "अरी पापिष्टे ! तूने महाराज को मार डाला । अरी कुल- नाशिनी ! तूने मोहवश हो, सहसा इस घराने का सारा सुख नष्ट कर डाला",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 6,
+      "sloka": "आगतः क्रूर कार्यायाः कैकेय्या भरतः सुतः ।तम् अहम् द्रष्टुम् इच्चामि भरतम् दीर्घ दर्शिनम् ॥२-७५-६॥",
+      "transliteration": "āgataḥ krūra kāryāyāḥ kaikeyyā bharataḥ sutaḥ ।tam aham draṣṭum iccāmi bharatam dīrgha darśinam ॥2-75-6॥",
+      "translations": {
+        "english": "Bharata, the farsighted son of Kaikeyi of cruel deeds has come and I wish to see him.",
+        "hindi": "तुक जता मेरी जननी के साथ रह कर, कोतल्या ऑर सुमित्रा का पुत्रशोक से पोड़ित हो कर, जीवित रहना अब बहुत कठिन हे ॥ = ॥। ननु लार्यो5पि धर्मात्मा खपि वृत्तिःमनुत्तमाम्‌ । वतेते शुरुवत्तिज्ञो यथा मातरि वतते ॥&॥ मेरे ज्येष्ठ ओर धर्मात्मा भाई राम जो गुरुजनों की सवा करना जानते हैं, तेरी भी तो बेसी ही सेवा करते थे, जैसी कि वे आपनी जनता कोसल्या की किआ करते थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 7,
+      "sloka": "एवम् उक्त्वा सुमित्राम् सा विवर्णा मलिन अम्बरा ।प्रतस्थे भरतः यत्र वेपमाना विचेतना ॥२-७५-७॥",
+      "transliteration": "evam uktvā sumitrām sā vivarṇā malina ambarā ।pratasthe bharataḥ yatra vepamānā vicetanā ॥2-75-7॥",
+      "translations": {
+        "english": "Having said so to Sumitra, Kausalya trembling and almost lifeless, emaciated, sullied and turned pallid set out for the place where Bharat was.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 8,
+      "sloka": "स तु राम अनुजः च अपि शत्रुघ्न सहितः तदा ।प्रतस्थे भरतः यत्र कौसल्याया निवेशनम् ॥२-७५-८॥",
+      "transliteration": "sa tu rāma anujaḥ ca api śatrughna sahitaḥ tadā ।pratasthe bharataḥ yatra kausalyāyā niveśanam ॥2-75-8॥",
+      "translations": {
+        "english": "But at the same time Bharata, the younger brother of Rama accompanied by Satrughna proceeded to the place where Kausalya resided.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 9,
+      "sloka": "ततः शत्रुघ्न भरतौ कौसल्याम् प्रेक्ष्य दुह्खितौ ।पर्यष्वजेताम् दुह्ख आर्ताम् पतिताम् नष्ट चेतनाम् ॥२-७५-९॥",
+      "transliteration": "tataḥ śatrughna bharatau kausalyām prekṣya duhkhitau ।paryaṣvajetām duhkha ārtām patitām naṣṭa cetanām ॥2-75-9॥",
+      "translations": {
+        "english": "Then agonised Bharata and Satrughna, beholding that venerable, noblehearted, griefstricken, weeping Kausalya who was almost semiconscious overcome with grief, approached her with great sorrow and hugged her.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 10,
+      "sloka": "रुदन्तौ रुदतीम् दुःखात्समेत्यार्याम् मनस्स्विनीम् ।भरतम् प्रत्युवाच इदम् कौसल्या भृश दुह्खिता ॥२-७५-१०॥",
+      "transliteration": "rudantau rudatīm duḥkhātsametyāryām manassvinīm ।bharatam pratyuvāca idam kausalyā bhṛśa duhkhitā ॥2-75-10॥",
+      "translations": {
+        "english": "Looking at Bharata, the deeply afflicted Kausalya said, The kingdom which you had desired has been acquired without any obstacle. Alas Kaikeyi had quickly secured it for you through her crooked act.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 11,
+      "sloka": "इदम् ते राज्य कामस्य राज्यम् प्राप्तम् अकण्टकम् ।सम्प्राप्तम् बत कैकेय्या शीघ्रम् क्रूरेण कर्मणा ॥२-७५-११॥",
+      "transliteration": "idam te rājya kāmasya rājyam prāptam akaṇṭakam ।samprāptam bata kaikeyyā śīghram krūreṇa karmaṇā ॥2-75-11॥",
+      "translations": {
+        "english": "Looking at Bharata, the deeply afflicted Kausalya said, The kingdom which you had desired has been acquired without any obstacle. Alas Kaikeyi had quickly secured it for you through her crooked act.",
+        "hindi": "उसीके महात्मा पुत्र को चीर आर वल्कल ह तूने बन में भिजवा दिशा । अरी पापिन ! तिस पर भौ तुमे दुःख क्यों नहीं होता !",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 12,
+      "sloka": "प्रस्थाप्य चीर वसनम् पुत्रम् मे वन वासिनम् ।कैकेयी कम् गुणम् तत्र पश्यति क्रूर दर्शिनी ॥२-७५-१२॥",
+      "transliteration": "prasthāpya cīra vasanam putram me vana vāsinam ।kaikeyī kam guṇam tatra paśyati krūra darśinī ॥2-75-12॥",
+      "translations": {
+        "english": "What advantage did cruel Kaikeyi visualize in sending away my son to dwell in the forest wearing robes of bark?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 13,
+      "sloka": "क्षिप्रम् माम् अपि कैकेयी प्रस्थापयितुम् अर्हति ।हिरण्य नाभो यत्र आस्ते सुतः मे सुमहा यशाः ॥२-७५-१३॥",
+      "transliteration": "kṣipram mām api kaikeyī prasthāpayitum arhati ।hiraṇya nābho yatra āste sutaḥ me sumahā yaśāḥ ॥2-75-13॥",
+      "translations": {
+        "english": "Kaikeyi should send me also without any delay to that place where my illustrious Rama with golden navel dwells.",
+        "hindi": "नर में क्ति है. तूने न जानी) मेरी श्रीरामचन्द्र में कैसी भक्ति ह-यह बात तूस न + इसीसे तुने लालच में फूस, राज्य के लिए यह महाअनथे कर डाला",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 14,
+      "sloka": "अथवा स्वयम् एव अहम् सुमित्र अनुचरा सुखम् ।अग्नि होत्रम् पुरः कृत्य प्रस्थास्ये यत्र राघवः ॥२-७५-१४॥",
+      "transliteration": "athavā svayam eva aham sumitra anucarā sukham ।agni hotram puraḥ kṛtya prasthāsye yatra rāghavaḥ ॥2-75-14॥",
+      "translations": {
+        "english": "Or else I, accompanied by Sumitra, shall go happily on my own holding the sacred fire in front to that place where Rama dwells.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 15,
+      "sloka": "कामम् वा स्वयम् एव अद्य तत्र माम् नेतुम् अर्हसि ।यत्र असौ पुरुष व्याघ्रः तप्यते मे तपः सुतः ॥२-७५-१५॥",
+      "transliteration": "kāmam vā svayam eva adya tatra mām netum arhasi ।yatra asau puruṣa vyāghraḥ tapyate me tapaḥ sutaḥ ॥2-75-15॥",
+      "translations": {
+        "english": "Or, you should now take me personally to that place where, my son Rama, the best among men, is performing austerities.",
+        "hindi": "भेरी तो गिनती ही किसमें है, महाराज दशरथ जी उन्हीं जलथान और महापराक्रमी राम का उसी प्रकार सदा भरोसा रखते थे जिस प्रकार मेळ पवेत निकटस्थ वन पर-भरोसा रखता है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 16,
+      "sloka": "इदम् हि तव विस्तीर्णम् धन धान्य समाचितम् ।हस्ति अश्व रथ सम्पूर्णम् राज्यम् निर्यातितम् तया ॥२-७५-१६॥",
+      "transliteration": "idam hi tava vistīrṇam dhana dhānya samācitam ।hasti aśva ratha sampūrṇam rājyam niryātitam tayā ॥2-75-16॥",
+      "translations": {
+        "english": "This vast kingdom, with all its abundance of wealth and grain, elephants, horses and chariots has been delivered to you by her.",
+        "hindi": "अतए्व मैं क्‍यों कर और किसके भरोसे से इस बड़े भारी राज्यभार को उठा सकूँगा ! जिम भार की बड़ा बलवान बैज खींच सकता है, उसे छोटी उम्र का बछड़ा क्यों कुर खींच सकता है ?",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 17,
+      "sloka": "इत्यादिबहुभिर्वाक्यैः क्रूरैः सम्भर्स्तितोऽनघः ।विव्यथे भरतस्तीव्रम् व्रणे तुद्येव सूचिना ॥२-७५-१७॥",
+      "transliteration": "ityādibahubhirvākyaiḥ krūraiḥ sambharstito'naghaḥ ।vivyathe bharatastīvram vraṇe tudyeva sūcinā ॥2-75-17॥",
+      "translations": {
+        "english": "Thus reproached by many a harsh word, like needle pricking a wound, the sinless Bharata was intensely pained.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 18,
+      "sloka": "पपात चरणौ तस्यास्तदा सम्भ्रान्तचेतनः ।विलप्य बहुधाऽसम्ज्ञो लब्धसम्ज्ञ्स्ततः स्थितः ॥२-७५-१८॥",
+      "transliteration": "papāta caraṇau tasyāstadā sambhrāntacetanaḥ ।vilapya bahudhā'samjño labdhasamjñstataḥ sthitaḥ ॥2-75-18॥",
+      "translations": {
+        "english": "(Having heard these words), his senses reeling, he became unconscious, lamented profusaly and fell at her feet. And on regaining his senses, he stood motionless.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 19,
+      "sloka": "एवम् विलपमानाम् ताम् भरतः प्रान्जलिस् तदा ।कौसल्याम् प्रत्युवाच इदम् शोकैः बहुभिर् आवृताम् ॥२-७५-१९॥",
+      "transliteration": "evam vilapamānām tām bharataḥ prānjalis tadā ।kausalyām pratyuvāca idam śokaiḥ bahubhir āvṛtām ॥2-75-19॥",
+      "translations": {
+        "english": "As Kausalya was lamenting in this manner, overwhelmed with deep grief, Bharata, his palms joined in reverence, replied her in these words:",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 20,
+      "sloka": "आर्ये कस्मात् अजानन्तम् गर्हसे माम् अकिल्बिषम् ।विपुलाम् च मम प्रीतिम् स्थिराम् जानासि राघवे ॥२-७५-२०॥",
+      "transliteration": "ārye kasmāt ajānantam garhase mām akilbiṣam ।vipulām ca mama prītim sthirām jānāsi rāghave ॥2-75-20॥",
+      "translations": {
+        "english": "O noble lady unaware (of what had happened), I am guiltless. Why do you upbraid me? You know well my profound, steadfast affection for Raghava (Rama).",
+        "hindi": "क्योंकि इस राजवंश में पीढ़ियीं से यह चाल चली आती है कि, सब भाइयों में नो बड़ा होता है, वही राजगद्दी पर बैठता है और ( छोटे ) सब भाई उसके अधीन रहते हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 21,
+      "sloka": "कृता शास्त्र अनुगा बुद्धिर् मा भूत् तस्य कदाचन ।सत्य सम्धः सताम् श्रेष्ठो यस्य आर्यो अनुमते गतः ॥२-७५-२१॥",
+      "transliteration": "kṛtā śāstra anugā buddhir mā bhūt tasya kadācana ।satya samdhaḥ satām śreṣṭho yasya āryo anumate gataḥ ॥2-75-21॥",
+      "translations": {
+        "english": "Did not the one who counselled the banishment of my noble brother who is steadfast and bound by truth and virtue, ever adhered to scriptures? (or) My noble brother (Rama), the best among the virtuous, bound to truth, is banished. Let not such thought occur at any time to one who steadfastly adheres to scriptures",
+        "hindi": "अरे नृशंसे ! तेरी दृष्टि राजवम की ओर नहीं है और न तू राजधम के विविध सनातन प्रकारों ही को जानती है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 22,
+      "sloka": "प्रैष्यम् पापीयसाम् यातु सूर्यम् च प्रति मेहतु ।हन्तु पादेन गाम् सुप्ताम् यस्य आर्यो अनुमते गतः ॥२-७५-२२॥",
+      "transliteration": "praiṣyam pāpīyasām yātu sūryam ca prati mehatu ।hantu pādena gām suptām yasya āryo anumate gataḥ ॥2-75-22॥",
+      "translations": {
+        "english": "May the one who counselled the exile of my esteemed brother, Rama be cursed with the sin of undergoing servitude in the hands of most sinful of men, the sin of passing urine facing the Sun and of kicking a sleeping cow.",
+        "hindi": "राजधर्मानुसार जो ज्येष्ठ होता है, उसी का राज्याभिषेक होता है । यही प्रथा सब राजाओं में है । तिसमें भी इक्ष्वाकुकुल. में तो इसका विशेष आग्रह है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 23,
+      "sloka": "कारयित्वा महत् कर्म भर्ता भृत्यम् अनर्थकम् ।अधर्मः यो अस्य सो अस्याः तु यस्य आर्यो अनुमते गतः ॥२-७५-२३॥",
+      "transliteration": "kārayitvā mahat karma bhartā bhṛtyam anarthakam ।adharmaḥ yo asya so asyāḥ tu yasya āryo anumate gataḥ ॥2-75-23॥",
+      "translations": {
+        "english": "May the one who counselled the exile of my esteemed brother acquire the demerit of unrighteousness in the same way as a master who gets a difficult work done by a servant without remuneration.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 24,
+      "sloka": "परिपालयमानस्य राज्ञो भूतानि पुत्रवत् ।ततः तु द्रुह्यताम् पापम् यस्य आर्यो अनुमते गतः ॥२-७५-२४॥",
+      "transliteration": "paripālayamānasya rājño bhūtāni putravat ।tataḥ tu druhyatām pāpam yasya āryo anumate gataḥ ॥2-75-24॥",
+      "translations": {
+        "english": "May the one who counselled the exile of my esteemed brother acquire the sin in the same way as a man acting treacherously against a king who rules like a father and protects his subjects like his own children, acquires.",
+        "hindi": "तेरा भी तो एक सुचरित्र कुलीन राजबंरा में जन्म हुआ है । फिर क्योंकर तेरी बुद्धि में ऐसा गहि त मोह उत्पन्न हुआ? अर्थात केसे तेरी ऐसी दुष्टबुद्धि हो गई",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 25,
+      "sloka": "बलि षड् भागम् उद्धृत्य नृपस्य अरक्षतः प्रजाः ।अधर्मः यो अस्य सो अस्य अस्तु यस्य आर्यो अनुमते गतः ॥२-७५-२५॥",
+      "transliteration": "bali ṣaḍ bhāgam uddhṛtya nṛpasya arakṣataḥ prajāḥ ।adharmaḥ yo asya so asya astu yasya āryo anumate gataḥ ॥2-75-25॥",
+      "translations": {
+        "english": "May the one who counselled the exile of my esteemed brother acquire unrighteousness in the same way as a king who, having received one sixth of the income as tax from people does not protect them",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 26,
+      "sloka": "सम्श्रुत्य च तपस्विभ्यः सत्रे वै यज्ञ दक्षिणाम् ।ताम् विप्रलपताम् पापम् यस्य आर्यो अनुमते गतः ॥२-७५-२६॥",
+      "transliteration": "samśrutya ca tapasvibhyaḥ satre vai yajña dakṣiṇām ।tām vipralapatām pāpam yasya āryo anumate gataḥ ॥2-75-26॥",
+      "translations": {
+        "english": "May the one who counselled the exile of my esteemed brother acquire the sin in the same way as a person acquires for having promised the ascetics the required offering at a sacrifice and later denies them",
+        "hindi": "झैं तुझे खिझाने के लिए स्वजनों के प्यारे एवं निर्दोष बड़े भाई राम को अभी बन से लौटा लाता हूँ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 27,
+      "sloka": "हस्ति अश्व रथ सम्बाधे युद्धे शस्त्र समाकुले ।मा स्म कार्षीत् सताम् धर्मम् यस्य आर्यो अनुमते गतः ॥२-७५-२७॥",
+      "transliteration": "hasti aśva ratha sambādhe yuddhe śastra samākule ।mā sma kārṣīt satām dharmam yasya āryo anumate gataḥ ॥2-75-27॥",
+      "translations": {
+        "english": "May the one who counselled the exile of my esteemed brother acquire the demerit in the same way as a person, who having gone to the battleground abundantly provided with elephants, horses, chariots and weapons fails to discharge the duty (of a fighter)",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 28,
+      "sloka": "उपदिष्टम् सुसूक्ष्म अर्थम् शास्त्रम् यत्नेन धीमता ।स नाशयतु दुष्ट आत्मा यस्य आर्यो अनुमते गतः ॥२-७५-२८॥",
+      "transliteration": "upadiṣṭam susūkṣma artham śāstram yatnena dhīmatā ।sa nāśayatu duṣṭa ātmā yasya āryo anumate gataḥ ॥2-75-28॥",
+      "translations": {
+        "english": "May the one who counselled the exile of my esteemed brother acquire demerit in the same way as an evilhearted person who forever destroys the subtle meaning of the scriptures imparted carefully by a sagacious preceptor",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 29,
+      "sloka": "मा च तम् प्यूढबाह्वम्सम् चन्द्रार्कसम्तेजनम् ।द्राक्षीद्राज्यस्थमासीनम् यस्यार्योऽनुमते गतः ॥२-७५-२९॥",
+      "transliteration": "mā ca tam pyūḍhabāhvamsam candrārkasamtejanam ।drākṣīdrājyasthamāsīnam yasyāryo'numate gataḥ ॥2-75-29॥",
+      "translations": {
+        "english": "May the one who counselled the exile of my esteemed brother be highly unfortunate like me in not being able to behold that longarmed and broadshoulderd one seated on the throne and resembling both the Sun and the Moon in radiance",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 30,
+      "sloka": "पायसम् कृसरम् चागम् वृथा सो अश्नातु निर्घृणः ।गुरूमः च अपि अवजानातु यस्य आर्यो अनुमते गतः ॥२-७५-३०॥",
+      "transliteration": "pāyasam kṛsaram cāgam vṛthā so aśnātu nirghṛṇaḥ ।gurūmaḥ ca api avajānātu yasya āryo anumate gataḥ ॥2-75-30॥",
+      "translations": {
+        "english": "May the one who counselled the exile of my esteemed brother acquire the demerit in the same way as a person, who partakes the sweet milkrice, sesamerice and goat's flesh without purpose (without invoking and offering it to the gods) and disrespects the teachers",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 31,
+      "sloka": "गाश्च स्पृशतु पादेन गुरून् परिवदेत्स्वयम् ।मित्रे द्रुह्येत सोऽत्यन्तम् यस्यार्योऽनुमते गतः ॥२-७५-३१॥",
+      "transliteration": "gāśca spṛśatu pādena gurūn parivadetsvayam ।mitre druhyeta so'tyantam yasyāryo'numate gataḥ ॥2-75-31॥",
+      "translations": {
+        "english": "May the one who counselled the exile of my esteemed brother acquire the sin in the same way a person who kicks the cows abuses elders and causes great offence to his friends",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 32,
+      "sloka": "विश्वासात्कथितम् किम्चित्परिवादम् मिथः क्वचित् ।विवृणोतु स दुष्टात्मा यस्यार्योओऽनुमते गतः ॥२-७५-३२॥",
+      "transliteration": "viśvāsātkathitam kimcitparivādam mithaḥ kvacit ।vivṛṇotu sa duṣṭātmā yasyāryoo'numate gataḥ ॥2-75-32॥",
+      "translations": {
+        "english": "May the one who counselled the exile of my esteemed brother, acquire the sin in the same way as a wickedminded person, who divulges the words of abuse secretly confided in him by his friends.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 33,
+      "sloka": "अकर्ता ह्यकृतज्ञश्च त्यक्तात्मा निरपत्रपः ।लोके भवतु विद्वेष्यो यस्यार्योऽनुमते गतः ॥२-७५-३३॥",
+      "transliteration": "akartā hyakṛtajñaśca tyaktātmā nirapatrapaḥ ।loke bhavatu vidveṣyo yasyāryo'numate gataḥ ॥2-75-33॥",
+      "translations": {
+        "english": "May the one who counselled the exile of my esteemed brother be hated universally as one who never helps any one, who is ungrateful, shameless and as one who has committed the sin of suicide",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 34,
+      "sloka": "पुत्रैः दारैः च भृत्यैः च स्व गृहे परिवारितः ।स एको मृष्टम् अश्नातु यस्य आर्यो अनुमते गतः ॥२-७५-३४॥",
+      "transliteration": "putraiḥ dāraiḥ ca bhṛtyaiḥ ca sva gṛhe parivāritaḥ ।sa eko mṛṣṭam aśnātu yasya āryo anumate gataḥ ॥2-75-34॥",
+      "translations": {
+        "english": "May the one who counselled the exile of my esteemed brother acquire the sin in the same way as one who, although surrounded by wife, children and servants, eats the delicacies all alone without sharing acquires.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 35,
+      "sloka": "अप्राप्य सदृशान् दाराननपत्यः प्रमीयताम् ।अनवाप्य क्रियाम् धर्म्याम् यश्यार्योऽनुमते गतः ॥२-७५-३५॥",
+      "transliteration": "aprāpya sadṛśān dārānanapatyaḥ pramīyatām ।anavāpya kriyām dharmyām yaśyāryo'numate gataḥ ॥2-75-35॥",
+      "translations": {
+        "english": "May the one who counselled the exile of my esteemed brother die without winning a worthy wife and without begetting offspring and without performing religious deeds",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 36,
+      "sloka": "मात्मनः सम्ततिम् द्राक्षीत्स्वेषु दारेषु दुःखितः ।आयुः समग्रमप्राप्य यस्यार्योऽनुमते गतः ॥२-७५-३६॥",
+      "transliteration": "mātmanaḥ samtatim drākṣītsveṣu dāreṣu duḥkhitaḥ ।āyuḥ samagramaprāpya yasyāryo'numate gataḥ ॥2-75-36॥",
+      "translations": {
+        "english": "May the one who counselled the exile of my esteemed brother live an entire life of anguish without begetting children through his wife or without seeing his own children",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 37,
+      "sloka": "राज स्त्री बाल वृद्धानाम् वधे यत् पापम् उच्यते ।भृत्य त्यागे च यत् पापम् तत् पापम् प्रतिपद्यताम् ॥२-७५-३७॥",
+      "transliteration": "rāja strī bāla vṛddhānām vadhe yat pāpam ucyate ।bhṛtya tyāge ca yat pāpam tat pāpam pratipadyatām ॥2-75-37॥",
+      "translations": {
+        "english": "May the one who counselled the exile of my esteemed brother acquire the same sin as one acquires for murdering a king, a woman, children and the aged and deserting dependents",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 38,
+      "sloka": "लाक्षया मधुमाम्सेन लोहेन च विषेण च ।सदैव बिभृयाद्भृत्यान् यस्यार्योऽसुमते गतः ॥२-७५-३८॥",
+      "transliteration": "lākṣayā madhumāmsena lohena ca viṣeṇa ca ।sadaiva bibhṛyādbhṛtyān yasyāryo'sumate gataḥ ॥2-75-38॥",
+      "translations": {
+        "english": "May the one who counselled the exile of my esteemed brother acquire the same sin as one who supports his wife and children by trafficking in lac, wine, meat and metal and poison acquires",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 39,
+      "sloka": "सम्ग्रामे समुपोढे स शत्रुपक्ष्भयम्करे ।पलायामानो वध्येत यस्यार्योऽनुमे गतः ॥२-७५-३९॥",
+      "transliteration": "samgrāme samupoḍhe sa śatrupakṣbhayamkare ।palāyāmāno vadhyeta yasyāryo'nume gataḥ ॥2-75-39॥",
+      "translations": {
+        "english": "May the one who counselled the exile of my esteemed brother acquire the same sin like a warrior, dreadful to the enemy side who will be slain while fleeing from the war at its peak",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 40,
+      "sloka": "कपालपाणिः पृथिवीमटताम् चीरसम्वृतः ।भिक्समाणो यथोन्मत्तो यस्यार्योऽनुमते गतह् ॥२-७५-४०॥",
+      "transliteration": "kapālapāṇiḥ pṛthivīmaṭatām cīrasamvṛtaḥ ।bhiksamāṇo yathonmatto yasyāryo'numate gatah ॥2-75-40॥",
+      "translations": {
+        "english": "May the one who counselled the exile of my esteemed brother, wander this earth, begging alms, holding a human skull like an insane man dressed in rags",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 41,
+      "sloka": "पाने प्रसक्तो भवतु स्त्रीष्वक्षेषु च नित्यशः ।काम्क्रोधाभिभूतस्तु यस्यार्योऽनुमते गतः ॥२-७५-४१॥",
+      "transliteration": "pāne prasakto bhavatu strīṣvakṣeṣu ca nityaśaḥ ।kāmkrodhābhibhūtastu yasyāryo'numate gataḥ ॥2-75-41॥",
+      "translations": {
+        "english": "May the one who counselled the exile of my esteemed brother be always addicted to wine, women and gambling and be swayed by desire and anger",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 42,
+      "sloka": "यस्य धर्मे मनो भूयादधर्मम् स निषेवताम् ।अपात्रवर्षी भवतु यस्यार्योऽनुमते गतः ॥२-७५-४२॥",
+      "transliteration": "yasya dharme mano bhūyādadharmam sa niṣevatām ।apātravarṣī bhavatu yasyāryo'numate gataḥ ॥2-75-42॥",
+      "translations": {
+        "english": "May the mind of that man who counselled the exile of my esteemed brother not be established in virtue May he practise unrighteousness and confer charity on the unworthy",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 43,
+      "sloka": "सम्चितान्यस्य वित्तानि विविधानि सहस्रशः ।दस्युभिर्विप्रलुप्यन्ताम् यश्यार्योऽनुमते गतः ॥२-७५-४३॥",
+      "transliteration": "samcitānyasya vittāni vividhāni sahasraśaḥ ।dasyubhirvipralupyantām yaśyāryo'numate gataḥ ॥2-75-43॥",
+      "translations": {
+        "english": "May that man's accumulated extensive posssessions of various kinds of wealth be snatched away by thieves in thousands of ways if he had counselled the exile of my esteemed brother",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 44,
+      "sloka": "उभे सम्ध्ये शयानस्य यत् पापम् परिकल्प्यते ।तच् च पापम् भवेत् तस्य यस्य आर्यो अनुमते गतः ॥२-७५-४४॥",
+      "transliteration": "ubhe samdhye śayānasya yat pāpam parikalpyate ।tac ca pāpam bhavet tasya yasya āryo anumate gataḥ ॥2-75-44॥",
+      "translations": {
+        "english": "May the one who counselled the exile of my esteemed brother acquire the extent of demerit fixed for a person, who sleeps at the hour of twilight of dawn and dusk",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 45,
+      "sloka": "यद् अग्नि दायके पापम् यत् पापम् गुरु तल्पगे ।मित्र द्रोहे च यत् पापम् तत् पापम् प्रतिपद्यताम् ॥२-७५-४५॥",
+      "transliteration": "yad agni dāyake pāpam yat pāpam guru talpage ।mitra drohe ca yat pāpam tat pāpam pratipadyatām ॥2-75-45॥",
+      "translations": {
+        "english": "May that one who counselled the exile of my esteemed brother acquire the sin in the same way as a person who sets fire to human settlements, violates the preceptors's bed and betrays his friend",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 46,
+      "sloka": "देवतानाम् पितृऋणाम् च माता पित्रोस् तथैव च ।मा स्म कार्षीत् स शुश्रूषाम् यस्य आर्यो अनुमते गतः ॥२-७५-४६॥",
+      "transliteration": "devatānām pitṛṛṇām ca mātā pitros tathaiva ca ।mā sma kārṣīt sa śuśrūṣām yasya āryo anumate gataḥ ॥2-75-46॥",
+      "translations": {
+        "english": "May the one who counselled the exile of my esteemed brother, acquire the sin in the same way as a person who fails to show obedience to the gods and the ancestors and to serve his parents",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 47,
+      "sloka": "सताम् लोकात् सताम् कीर्त्याः सज् जुष्टात् कर्मणः तथा ।भ्रश्यतु क्षिप्रम् अद्य एव यस्य आर्यो अनुमते गतः ॥२-७५-४७॥",
+      "transliteration": "satām lokāt satām kīrtyāḥ saj juṣṭāt karmaṇaḥ tathā ।bhraśyatu kṣipram adya eva yasya āryo anumate gataḥ ॥2-75-47॥",
+      "translations": {
+        "english": "May the one who counselled the exile of my esteemed brother be expelled this very moment from the world approved by virtuous men, from their renown and from their (noble) actions",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 48,
+      "sloka": "अपास्य मातृशुश्रूषामनर्थे सोऽवतिष्ठताम् ।दीर्घबाहुर्महावक्षा यस्यार्योऽसुमते गतः ॥२-७५-४८॥",
+      "transliteration": "apāsya mātṛśuśrūṣāmanarthe so'vatiṣṭhatām ।dīrghabāhurmahāvakṣā yasyāryo'sumate gataḥ ॥2-75-48॥",
+      "translations": {
+        "english": "The one who counselled the exile of my noble, longarmed and broadchested brother be banished like the one who commited the sin of leaving the ministration to his mother and engaging himself in purposeless acts",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 49,
+      "sloka": "बहुपुत्रो दरिद्रश्च ज्वररोगसमन्वितः ।स भूयात्सततक्लेशी यस्यार्योऽनुमते गतः ॥२-७५-४९॥",
+      "transliteration": "bahuputro daridraśca jvararogasamanvitaḥ ।sa bhūyātsatatakleśī yasyāryo'numate gataḥ ॥2-75-49॥",
+      "translations": {
+        "english": "May the one who counselled the exile of my esteemed brother be always miserable with many sons, poverty and fever and disease",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 50,
+      "sloka": "आशामाशम् समानानाम् दीनानामूर्ध्वचक्षुषाम् ।आर्थिनाम् वितथाम् कुर्याद्यस्यार्योऽनुमते गतः ॥२-७५-५०॥",
+      "transliteration": "āśāmāśam samānānām dīnānāmūrdhvacakṣuṣām ।ārthinām vitathām kuryādyasyāryo'numate gataḥ ॥2-75-50॥",
+      "translations": {
+        "english": "May the one who counselled the exile of my esteemed brother acquire the sin in the same way a person disappoints who miserable mendicants seeking alms and looking up to him for help",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 51,
+      "sloka": "मायया रमताम् नित्यम् परुषः पिशुनोऽशुचिः ।राज्Jनो भीत स्त्वधर्मात्मा यस्यार्योऽनुमते गतः ॥२-७५-५१॥",
+      "transliteration": "māyayā ramatām nityam paruṣaḥ piśuno'śuciḥ ।rājJno bhīta stvadharmātmā yasyāryo'numate gataḥ ॥2-75-51॥",
+      "translations": {
+        "english": "May the one who counselled the exile of my esteemed brother acquire the sin in the same way as a person, who is abusive, niggardly, impure, unrighteous and always afraid of being caught by the king, and lives by cheating others, acquires",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 52,
+      "sloka": "ऋतुस्नाताम् सतीम् भार्यामृतुकालानुरोधिनीम् ।अतिवर्तेत दुष्टात्मा यस्यार्योऽनुमते गतः ॥२-७५-५२॥",
+      "transliteration": "ṛtusnātām satīm bhāryāmṛtukālānurodhinīm ।ativarteta duṣṭātmā yasyāryo'numate gataḥ ॥2-75-52॥",
+      "translations": {
+        "english": "May the one who counselled the exile of my esteemed brother acquire the sin in the same way as a wickedminded person who neglects his chaste wife observing the menstrual period unfavourable for conception and had bathed after menstruation acquires",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 53,
+      "sloka": "धर्मदारान् परित्यज्य परदारान्नि षेवताम् ।त्यक्तधर्मरतिर्मूढो यस्यार्योऽनुमते गतः ॥२-७५-५३॥",
+      "transliteration": "dharmadārān parityajya paradārānni ṣevatām ।tyaktadharmaratirmūḍho yasyāryo'numate gataḥ ॥2-75-53॥",
+      "translations": {
+        "english": "May the one who counselled the exile of my esteemed brother acquire the sin in the same way a foolish person who abandons righteous conduct and forsakes his rightfully married wife and resorts to other man's wife acquires",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 54,
+      "sloka": "विप्रलु प्तप्रजातस्य दुष्कृतम् ब्राह्मणस्य यत् ।तदेव प्रतिपद्येत यस्यार्योऽनुमते गतः ॥२-७५-५४॥",
+      "transliteration": "vipralu ptaprajātasya duṣkṛtam brāhmaṇasya yat ।tadeva pratipadyeta yasyāryo'numate gataḥ ॥2-75-54॥",
+      "translations": {
+        "english": "May the one who counselled the exile of my esteemed brother acquire the same sin like that of a lowbred brahmin who commits an irreversible sin acquires",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 55,
+      "sloka": "पानीयदूषके पापम् तथैव विषदायके ।यत्तदेकः स लभताम् यस्यार्योऽनुमते गतः ॥२-७५-५५॥",
+      "transliteration": "pānīyadūṣake pāpam tathaiva viṣadāyake ।yattadekaḥ sa labhatām yasyāryo'numate gataḥ ॥2-75-55॥",
+      "translations": {
+        "english": "May the sin of polluting drinking water and administering poison to others be put together and be incurred by the man who counselled the exile of my esteemed brother",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 56,
+      "sloka": "ब्राह्मणायोद्यताम् पूजाम् विहन्तु कलुषेन्द्रियः ।बालवत्साम् च गाम् दोग्दु यस्यर्योऽनुमते गतः ॥२-७५-५६॥",
+      "transliteration": "brāhmaṇāyodyatām pūjām vihantu kaluṣendriyaḥ ।bālavatsām ca gām dogdu yasyaryo'numate gataḥ ॥2-75-56॥",
+      "translations": {
+        "english": "May the one who counselled the exile of my esteemed brother acquire the sin in the same way a person with befouled senses disturbs the offerings of worship kept ready for a brahmin and milks the cow having a young calf acquires.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 57,
+      "sloka": "तृष्णार्तम् सति पानीये विप्रलम्भेन योजयेत् ।लभेत तस्य यत्पापम् यस्यार्योऽनुमते गतः ॥२-७५-५७॥",
+      "transliteration": "tṛṣṇārtam sati pānīye vipralambhena yojayet ।labheta tasya yatpāpam yasyāryo'numate gataḥ ॥2-75-57॥",
+      "translations": {
+        "english": "May the one who counselled the exile of my esteemed brother acquire the sin in the same way a person who in possession of water does not give it to one suffering from thirst acquires it",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 58,
+      "sloka": "भक्त्या विवदमानेषु मार्गमाश्रित्य पश्यतः ।तस्य पापेन युज्येत यस्यार्योऽनुमते गतः ॥२-७५-५८॥",
+      "transliteration": "bhaktyā vivadamāneṣu mārgamāśritya paśyataḥ ।tasya pāpena yujyeta yasyāryo'numate gataḥ ॥2-75-58॥",
+      "translations": {
+        "english": "May that one who counselled the exile of my esteemed brother acquire the sin in the same way a person acquires while giving onesided judgement between divided religious disputants",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 59,
+      "sloka": "विहीनाम् पति पुत्राभ्याम् कौसल्याम् पार्थिव आत्मजः ।एवम् आश्वसयन्न् एव दुह्ख आर्तः निपपात ह ॥२-७५-५९॥",
+      "transliteration": "vihīnām pati putrābhyām kausalyām pārthiva ātmajaḥ ।evam āśvasayann eva duhkha ārtaḥ nipapāta ha ॥2-75-59॥",
+      "translations": {
+        "english": "While thus appeasing Kausalya deprived of her husband and son, Bharata, filled with grief, fell down at her feet.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 60,
+      "sloka": "तथा तु शपथैः कष्टैः शपमानम् अचेतनम् ।भरतम् शोक सम्तप्तम् कौसल्या वाक्यम् अब्रवीत् ॥२-७५-६०॥",
+      "transliteration": "tathā tu śapathaiḥ kaṣṭaiḥ śapamānam acetanam ।bharatam śoka samtaptam kausalyā vākyam abravīt ॥2-75-60॥",
+      "translations": {
+        "english": "Kausalya said these words to Bharata who fell unconscious, consumed with grief, while swearing on painful oaths.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 61,
+      "sloka": "मम दुह्खम् इदम् पुत्र भूयः समुपजायते ।शपथैः शपमानो हि प्राणान् उपरुणत्सि मे ॥२-७५-६१॥",
+      "transliteration": "mama duhkham idam putra bhūyaḥ samupajāyate ।śapathaiḥ śapamāno hi prāṇān uparuṇatsi me ॥2-75-61॥",
+      "translations": {
+        "english": "O son by swearing on oaths, you are choking the very breath of my life and my suffering has grown still more.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 62,
+      "sloka": "दिष्ट्या न चलितः धर्मात् आत्मा ते सह लक्ष्मणः ।वत्स सत्य प्रतिज्ञो मे सताम् लोकान् अवाप्स्यसि ॥२-७५-६२॥",
+      "transliteration": "diṣṭyā na calitaḥ dharmāt ātmā te saha lakṣmaṇaḥ ।vatsa satya pratijño me satām lokān avāpsyasi ॥2-75-62॥",
+      "translations": {
+        "english": "O dear child, fortunately your mind is unswerved from righteousness. You being truthful to your promise shall attain the world of virtuous men along with Lakshmana.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 63,
+      "sloka": "इत्युक्त्वा चाङ्कमानीय भरतम् भ्रातृवत्सलम् ।परिष्वज्य महाबाहुम् रुरोद भृशदुःखिता ॥२-७५-६३॥",
+      "transliteration": "ityuktvā cāṅkamānīya bharatam bhrātṛvatsalam ।pariṣvajya mahābāhum ruroda bhṛśaduḥkhitā ॥2-75-63॥",
+      "translations": {
+        "english": "After having addressed Bharata, who was affectionate towards his brother that way, Kausalya drew the mightyarmed one onto her lap and hugged him and cried out with extreme grief.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 64,
+      "sloka": "एवम् विलपमानस्य दुह्ख आर्तस्य महात्मनः ।मोहाच् च शोक सम्रोधात् बभूव लुलितम् मनः ॥२-७५-६४॥",
+      "transliteration": "evam vilapamānasya duhkha ārtasya mahātmanaḥ ।mohāc ca śoka samrodhāt babhūva lulitam manaḥ ॥2-75-64॥",
+      "translations": {
+        "english": "Afflicted by sorrow and lamenting thus, great Bharata's mind became unsteady owing to swooning and besieged by grief.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 75,
+      "verse": 65,
+      "sloka": "लालप्यमानस्य विचेतनस्य ।प्रनष्ट बुद्धेः पतितस्य भूमौ ।मुहुर् मुहुर् निह्श्वसतः च दीर्घम् ।सा तस्य शोकेन जगाम रात्रिः ॥२-७५-६५॥",
+      "transliteration": "lālapyamānasya vicetanasya ।pranaṣṭa buddheḥ patitasya bhūmau ।muhur muhur nihśvasataḥ ca dīrgham ।sā tasya śokena jagāma rātriḥ ॥2-75-65॥",
+      "translations": {
+        "english": "As he lamented, bereft of sense, his understanding lost, fallen upon the ground and sighing long again and again, that night of his passed in grief.",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

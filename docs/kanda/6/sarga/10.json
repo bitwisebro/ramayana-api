@@ -1,0 +1,471 @@
+{
+  "kanda": 6,
+  "kanda_name": "Yuddha Kanda",
+  "kanda_name_sanskrit": "युद्धकाण्डम्",
+  "sarga": 10,
+  "verses_count": 33,
+  "verses": [
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 10,
+      "verse": 1,
+      "sloka": "ततः प्रत्युषसि प्राप्ते प्राप्तधर्मार्थनिश्चयः ।राक्षसाधिपतेर्वेश्म भीमकर्मा विभीषणः ॥६-१०-१॥।।",
+      "transliteration": "tataḥ pratyuṣasi prāpte prāptadharmārthaniścayaḥ ।rākṣasādhipaterveśma bhīmakarmā vibhīṣaṇaḥ ॥6-10-1॥।।",
+      "translations": {
+        "english": "Thereafter, determined to relate about righteous and material gains, Vibheeshana of fierce tasks got up early in the morning when the Sun rose and set himself to go to the residence of Lord of Rakshasas.",
+        "hindi": "युद्धकाण्ड का नवाँ सग पूरा' हुआ । Fo, Yo C दुशसः संग; ; oe 22 ~ Ce द ततः प्रत्युषसि प्रासे प्रासधमोथनिश्वय; । राक्षसाधिपतेव श्म भीमकमा विभीषणः",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 10,
+      "verse": 2,
+      "sloka": "शैलाग्रचयसम्काशम् शैलशृज्~गमिवोन्नतम् ।सुविभक्तमहाकक्षम् महाजनपरिग्रहम् ॥६-१०-२॥।।",
+      "transliteration": "śailāgracayasamkāśam śailaśṛj~gamivonnatam ।suvibhaktamahākakṣam mahājanaparigraham ॥6-10-2॥।।",
+      "translations": {
+        "english": "Like a lofty mountain top, and like a summit of a mountain, Ravana's palace was a supreme one, divided into many spacious sections and surrounded by many people.",
+        "hindi": "ब १ महाजनै;--विद कि । ( गे[० ) ४ मे छ वह रावण का भवन, पवतशिखर के समूह के समान ओर पवर्ताशखर की तरह ऊँचा था | उसकी ड्योडियाँ बडी अच्छी तरह बनायी गयी थीं । उक्त भवन में बड़े विद्वान्‌ रहते थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 10,
+      "verse": 3,
+      "sloka": "मतिमद्भिर्महामात्रैरनुरकैरधिष्ठितम् ।राक्षसैराप्तपर्याप्तैह् सर्वतः परिरक्षितम् ॥६-१०-३॥।।",
+      "transliteration": "matimadbhirmahāmātrairanurakairadhiṣṭhitam ।rākṣasairāptaparyāptaih sarvataḥ parirakṣitam ॥6-10-3॥।।",
+      "translations": {
+        "english": "The palace was inhabited by wise ones, and devoted to their Lord and ministers,commanded by trustworthy and competent Rakshasas spread everywhere and well protected.",
+        "hindi": "वह बुद्धिमान, अतुरागी, दितैयी ओर कार्यताधन में समर्थ, मंत्रियों से सेवित और सव ओर से राक्षसा द्वारा रक्षित था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 10,
+      "verse": 4,
+      "sloka": "मत्तमातज्~गनिःश्वासैर्व्याकुलीकृतमारुतम् ।शज्~खघोषमहाघोषम् तूर्यसम्बाधनादितम् ॥६-१०-४॥।।",
+      "transliteration": "mattamātaj~ganiḥśvāsairvyākulīkṛtamārutam ।śaj~khaghoṣamahāghoṣam tūryasambādhanāditam ॥6-10-4॥।।",
+      "translations": {
+        "english": "It was filled with elephants in rut breathing heavily, which was like a tempestuous wind around, that echoed by the blowing of conchs of the early morning and filled with the sounds of drums and trumpets.",
+        "hindi": "वह्‌ मतवाले गजेन्द्रं के श्वास के वायु से पूर्ण रहता था तथा शङ्क और नगाड़ों के शब्दों से प्रतिध्वनित हुआ करता था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 10,
+      "verse": 5,
+      "sloka": "प्रमदाजनसम्बाधम् प्रजल्पितमहापथम् ।तप्तकाञ्चननिर्यूहम् भूषणोत्तमभूषितम् ॥६-१०-५॥।।",
+      "transliteration": "pramadājanasambādham prajalpitamahāpatham ।taptakāñcananiryūham bhūṣaṇottamabhūṣitam ॥6-10-5॥।।",
+      "translations": {
+        "english": "(It was) The royal path was filled with women, with prattling sounds of gossiping. It had shining golden passages and decorated with the best of ornaments.",
+        "hindi": "उसमें स्त्रियों के दल के दल रहा करते थे, राजमार्ग में लोगों की बातचीत से सदा चहल पहल रहा करती थी । उसमें सुवर्ण के द्वार बने हुए थे और वह उत्तम उत्तम सजावटी सामान से सजा हुआ था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 10,
+      "verse": 6,
+      "sloka": "गन्धर्वाणामिवावासमालयम् मरुतामिव ।रत्नसम्चयसम्बाधम् भवनम् भोगिनामिव ॥६-१०-६॥।।",
+      "transliteration": "gandharvāṇāmivāvāsamālayam marutāmiva ।ratnasamcayasambādham bhavanam bhogināmiva ॥6-10-6॥।।",
+      "translations": {
+        "english": "(It was) like the abode of Gandharvas (the celestial musicians), like an abode of wind god, abounding in collection of precious gems, like the mansion of Nagas indulging in enjoyment.",
+        "hindi": "oS १ नियू हः शिखर द्वारे इति विश्वः । [रा०] २ भोगिनां-- सर्पाणां ।. ( गे।० ) बह गन्धर्वो' तथा देवताओं की तरह उत्तम रत्नों से पूणं था । ऐसा जान पड़ता था मानों धह सपो का भवन हो (अर्थात सपो! के भवन में जैसे रत्नों का ढेर लगा रहता है वसे ही रावण के भवन में झी था )",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 10,
+      "verse": 7,
+      "sloka": "तम् महाभ्रमिवादित्य स्तेजोविस्तृतरश्मिमान् ।अग्रजस्यालयम् वीरः प्रविवेश महाद्युतिः ॥६-१०-७॥।।",
+      "transliteration": "tam mahābhramivāditya stejovistṛtaraśmimān ।agrajasyālayam vīraḥ praviveśa mahādyutiḥ ॥6-10-7॥।।",
+      "translations": {
+        "english": "Heroic (Vibheeshana) of exceptional splendour, whose brilliance spread widely like the radiance of the highly lustrous Sun entered his brother's abode.",
+        "hindi": "बड़े भाई के इस प्रकार के अवन सें महाद्युतिमान वीर विभीषण वैसे ही घुसे जैसे वाइलों में सूय घुसते हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 10,
+      "verse": 8,
+      "sloka": "पुण्यान् पुण्याहघोषाम्श्च वेदिविद्भिरुदाहृतान् ।शुश्राव सुमहातेजा भ्रातुर्विजयसम्श्रितान् ॥६-१०-८॥।।",
+      "transliteration": "puṇyān puṇyāhaghoṣāmśca vedividbhirudāhṛtān ।śuśrāva sumahātejā bhrāturvijayasamśritān ॥6-10-8॥।।",
+      "translations": {
+        "english": "Highly effulgent (Vibheeshana) heard sounds of recitation of sacred mantras from Vedas uttered by learned ones desiring a propitious day for his brother.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 10,
+      "verse": 9,
+      "sloka": "पूजितान् दधिपात्रैश्च सर्पिर्भिः सुमनोक्षतैः ।मन्त्रवेदविदो विप्रान् ददर्श स महाबलः ॥६-१०-९॥।।",
+      "transliteration": "pūjitān dadhipātraiśca sarpirbhiḥ sumanokṣataiḥ ।mantravedavido viprān dadarśa sa mahābalaḥ ॥6-10-9॥।।",
+      "translations": {
+        "english": "Mighty Vibheeshana saw there, brahmins learned in vedas and mantras, who worshipped with yellow rice, curd, clarified butter and flowers.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 10,
+      "verse": 10,
+      "sloka": "स पूज्यमानो रक्षोभिद्दीप्यमानम् स्वतेजसा ।असवस्थम् महाबाहुर्ववन्दे धनदानुजम् ॥६-१०-१०॥।।",
+      "transliteration": "sa pūjyamāno rakṣobhiddīpyamānam svatejasā ।asavastham mahābāhurvavande dhanadānujam ॥6-10-10॥।।",
+      "translations": {
+        "english": "Vibheeshana, of broad shoulders, who is revered by Rakshasas was shining in his own splendour. He greeted with folded palms, the brother of Kubera (Ravana) seated on his chair.",
+        "hindi": "राज्षसों से आदर पा, विभीषण ने रावण को, जो सिंहासन पर बैठा हुआ था और मारे तेज के चमचमा रहा था, जाते ही प्रणाम किआ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 10,
+      "verse": 11,
+      "sloka": "स राजदृष्टिसम्पन्नमासनम् हेमभूषितम् ।जगाम समुदाचारम् प्रयुज्याचारकोविदः ॥६-१०-११॥।।",
+      "transliteration": "sa rājadṛṣṭisampannamāsanam hemabhūṣitam ।jagāma samudācāram prayujyācārakovidaḥ ॥6-10-11॥।।",
+      "translations": {
+        "english": "Vibheeshana who was learned in traditions and wellversed with code of conduct reached a seat decorated with gold blessed by the glance of the king Ravana.",
+        "hindi": ", शिष्टाचारपट रावण ने मी शिष्टाचार के अनुसार विभीषण को आशीर्वाद दिआ और आँख के सङ्कोत से बैठने को कहा | तब विभीषण “ जय हो ” कह, सुवर्णभूषित ।आ्रासन पर बैठ गए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 10,
+      "verse": 12,
+      "sloka": "स रावणम् महात्मानम् विजने मन्त्रिसम्निधौ ।उवाच हितमत्यर्थम् वचनम् हेतुनिश्चितम् ॥६-१०-१२॥।।",
+      "transliteration": "sa rāvaṇam mahātmānam vijane mantrisamnidhau ।uvāca hitamatyartham vacanam hetuniścitam ॥6-10-12॥।।",
+      "translations": {
+        "english": "When none other than ministers were present, Vibheeshana spoke these meaningful words to the distinguished Ravana, decidedly wishing for welfare.",
+        "hindi": "उस समय मन्त्रयां को छोड़ वहाँ ओर कोई न था । अतः विभीषण ने रावण से ये हितकर ओर युक्तियुक्त वचन कहे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 10,
+      "verse": 13,
+      "sloka": "प्रसाद्य भ्रातरम् ज्येष्ठम् सान्त्वेनोपस्थितक्रमः ।देशकालार्थसम्वादि दृष्टलोकपरावः ॥६-१०-१३॥।।",
+      "transliteration": "prasādya bhrātaram jyeṣṭham sāntvenopasthitakramaḥ ।deśakālārthasamvādi dṛṣṭalokaparāvaḥ ॥6-10-13॥।।",
+      "translations": {
+        "english": "Vibheeshana who knew the good and bad of the world and knew to advice in consonance with place and time said to his elder brother in an appeasing manner, propitiating him observing the customary tradition.",
+        "hindi": "बातचीत के ढङ्ग को जानने वाले और ऊंच नीच समभने बाळे विभीषण ते स्तुतिवचन कह, प्रथम तो रावण को प्रसन्न किआ, तदनन्तर सान्त्वनापूव क समयानुसार और देशकाल के छ अनुरूपे वचन कहे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 10,
+      "verse": 14,
+      "sloka": "यदा प्रभृति वैदेही सम्प्राप्तेह परतप ।तदा प्रभृति दृश्यन्ते निमित्तान्यशुभानि नः ॥६-१०-१४॥।।",
+      "transliteration": "yadā prabhṛti vaidehī samprāpteha paratapa ।tadā prabhṛti dṛśyante nimittānyaśubhāni naḥ ॥6-10-14॥।।",
+      "translations": {
+        "english": "\"Since Vaidehi has come to this city, inauspicious happenings are seen by us.\"",
+        "hindi": "हे भैया ! जब से सीता तुम्हारी इत पुरी में आई है, तब से | हम सब को नित्य ही अपशकुन दिखलाई पड़ रहे हें",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 10,
+      "verse": 15,
+      "sloka": "सस्फुलिज्~गः सधूमार्चिह् सधूमकलुषोदयः ।मन्त्रसम्घहुतोऽप्यग्निर्न सम्यगभिवर्धते ॥६-१०-१५॥।।",
+      "transliteration": "sasphulij~gaḥ sadhūmārcih sadhūmakaluṣodayaḥ ।mantrasamghahuto'pyagnirna samyagabhivardhate ॥6-10-15॥।।",
+      "translations": {
+        "english": "\"Even from the fire of fire sacrifices, fire particles polluted with smoke are rising and the fire is not burning with brilliance.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 10,
+      "verse": 16,
+      "sloka": "अग्निष्ठेष्वग्निशालासु तथा ब्रह्मस्थलीषु च ।परीपृपाणि दृश्यन्ते हव्येषु च पिपीलिकाः ॥६-१०-१६॥।।",
+      "transliteration": "agniṣṭheṣvagniśālāsu tathā brahmasthalīṣu ca ।parīpṛpāṇi dṛśyante havyeṣu ca pipīlikāḥ ॥6-10-16॥।।",
+      "translations": {
+        "english": "\"In the cooking fire, in places of fire sacrifice, so also at places where offerings are made into fire, serpents are seen. Ants are seen in the Havis.\"",
+        "hindi": "रोई घर, अग्निशालाओं और वेदाध्ययन शालाओं में नित्य साँप दिखाई पड़ेते हैं। होम केद्रव्य में चीटियाँ रेगती हुई देख पड़ती हें",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 10,
+      "verse": 17,
+      "sloka": "गवाम् पयाम्सि स्कन्नानि विमदा वरकुञ्जराः ।दीनमश्वाः प्रहेषन्ते न च ग्रासाभिनन्दिनः ॥६-१०-१७॥।।",
+      "transliteration": "gavām payāmsi skannāni vimadā varakuñjarāḥ ।dīnamaśvāḥ praheṣante na ca grāsābhinandinaḥ ॥6-10-17॥।।",
+      "translations": {
+        "english": "\"The udder of cows is dried up, the proud elephants have lost their ichor, the horses are pathetic and neighing. They are not even interested in fodder.\"",
+        "hindi": "गौओं का दुध कम हो गया है, हाथियों का मद बहना बंद हो गया है । घोड़े दीनतासूचक हिनहिनाहट किआ करते हें और चारे. सेतुप्त नहीं होते",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 10,
+      "verse": 18,
+      "sloka": "खरोष्ट्राश्वतरा राजन्भिन्न्रोमाः स्रवन्ति च ।न स्वभावेऽवतिष्ठन्ते विधानैरपि चिन्तताः ॥६-१०-१८॥।।",
+      "transliteration": "kharoṣṭrāśvatarā rājanbhinnromāḥ sravanti ca ।na svabhāve'vatiṣṭhante vidhānairapi cintatāḥ ॥6-10-18॥।।",
+      "translations": {
+        "english": "\"O King the donkeys and camels have shed their body hair and are crying. Even though they are treated for it in different ways they are not getting to be in normal natural form.\"",
+        "hindi": "हे राजन्‌ ! गधों, उटों खचरों के रोंगटे गिर गए हैं और वे आँसू बहाया करते हैं । चिकित्सा करने पर भी वे प्रकृतिस्थ नहों होते",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 10,
+      "verse": 19,
+      "sloka": "वायसाः सघशः क्रूरा व्याहरन्ति समन्ततः ।समवेताश्च दृश्यन्ते विमानाग्रेषु सम्घशः ॥६-१०-१९॥।।",
+      "transliteration": "vāyasāḥ saghaśaḥ krūrā vyāharanti samantataḥ ।samavetāśca dṛśyante vimānāgreṣu samghaśaḥ ॥6-10-19॥।।",
+      "translations": {
+        "english": "Wild crows are seen in flocks all over the top of aerial chariot sounding harsh gathered in groups.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 10,
+      "verse": 20,
+      "sloka": "गृध्राश्च परिलीयन्ते पुरीमुपरि पिण्डिताः ।उपपन्नाश्च सम्ध्ये द्वे व्याहरन्त्यशिवम् शिवाः ॥६-१०-२०॥।।",
+      "transliteration": "gṛdhrāśca parilīyante purīmupari piṇḍitāḥ ।upapannāśca samdhye dve vyāharantyaśivam śivāḥ ॥6-10-20॥।।",
+      "translations": {
+        "english": "\"Even the eagles are collecting together and standing over the houses of the capital repeatedly in both the auspicious times of morning and evening and making inauspicious sounds.\"",
+        "hindi": "गोध इकट्ट हो नगरो के ऊपर मँडराया करते हें । सन्ध्या समय होते पर लुर्ख(याँ असङ्गजसचक चीत्कार #िआ करती हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 10,
+      "verse": 21,
+      "sloka": "क्रव्यादानाम् मृगाणाम् च पुरीद्वारेषु सज्~घशः ।श्रूयन्ते विपुला घोषाः सविस्फूर्जितनिःस्वनाः ॥६-१०-२१॥।।",
+      "transliteration": "kravyādānām mṛgāṇām ca purīdvāreṣu saj~ghaśaḥ ।śrūyante vipulā ghoṣāḥ savisphūrjitaniḥsvanāḥ ॥6-10-21॥।।",
+      "translations": {
+        "english": "At the entrance of the capital are heard thunderous sounds of carnivorous animals collected together sounding like thunder.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 10,
+      "verse": 22,
+      "sloka": "तदेवम् प्रस्तुते कार्ते प्रायश्चित्तमिदम् क्षमम् ।रोचये वीर वैदेही राघवाय प्रदीयताम् ॥६-१०-२२॥।।",
+      "transliteration": "tadevam prastute kārte prāyaścittamidam kṣamam ।rocaye vīra vaidehī rāghavāya pradīyatām ॥6-10-22॥।।",
+      "translations": {
+        "english": "\"Therefore, the task (of burning Lanka) has commenced. I have thought of this appropriate atonement. Restore Vaidehi to Rama.\"",
+        "hindi": "पुरी के द्वार पर व्याप्रादि सॉस खाने वाले जीवों के दहाड़ने का शब्द वैसा ही सन पड़ता हे, जेसा कि, विजलो गिरने का शब्द तदेव॑ प्रस्तुते कार्य प्रायश्वित्तम्िदं मम्‌ । रोचते यदि वेंदेही राषबाय प्रदीयताम्‌",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 10,
+      "verse": 23,
+      "sloka": "इदम् च यदि वामोहाल्लोभाद्वा व्याहृतम् मया ।तत्राप् च महाराज न दोषम् कर्तुमर्हसि ॥६-१०-२३॥।।",
+      "transliteration": "idam ca yadi vāmohāllobhādvā vyāhṛtam mayā ।tatrāp ca mahārāja na doṣam kartumarhasi ॥6-10-23॥।।",
+      "translations": {
+        "english": "\"O great king You may know that I am not telling like this out of my delusion or greed. You ought not to find fault with me.\"",
+        "hindi": "हे महाराज ! यदिमैँने कोई बात लोभवश, या मोहबश कही हो, तो भी तुम मेरा अपराध क्षमा कर दो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 10,
+      "verse": 24,
+      "sloka": "अयम् हि दोषः सर्वस्य जनस्याप्योपलक्ष्यते ।रक्षसाम् राक्षसीनाम् च पुरस्यान्तः पुरस्य च ॥६-१०-२४॥।।",
+      "transliteration": "ayam hi doṣaḥ sarvasya janasyāpyopalakṣyate ।rakṣasām rākṣasīnām ca purasyāntaḥ purasya ca ॥6-10-24॥।।",
+      "translations": {
+        "english": "All of us, the Rakshasas and Rakshasa women of the capital, even those in the harem, and all the common people are aware of this offence.",
+        "hindi": "आपके) मंत्रियों ने जानते हुए भी ये समाचार नहीं पहुँचाए किन्तु मैंने जो कुछ सुना और देखा है-सो मुझे सब तुमसे अवश्य निवेदन करना ही चाहिए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 10,
+      "verse": 25,
+      "sloka": "प्रापणे चास्य मन्त्रस्य निवृत्ताः सर्वमन्त्रिणः ।अवश्यम् च मया वाच्यम् यद्दृष्टमथवा श्रुतम् ॥६-१०-२५॥।।",
+      "transliteration": "prāpaṇe cāsya mantrasya nivṛttāḥ sarvamantriṇaḥ ।avaśyam ca mayā vācyam yaddṛṣṭamathavā śrutam ॥6-10-25॥।।",
+      "translations": {
+        "english": "All your ministers have abstained from telling you out of fear of you. I must necessarily tell you (as brother) this which is seen and heard. You may determine that which is justifiable by determining the propriety. It is proper for me to submit to you.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 10,
+      "verse": 26,
+      "sloka": "सम्विधाय यथान्यायम् तद्भवान् कर्तुमर्हति ।इति स्वमन्त्रिणाम् मध्ये भ्राता भ्रातरमूचिवान् ॥६-१०-२६॥।।",
+      "transliteration": "samvidhāya yathānyāyam tadbhavān kartumarhati ।iti svamantriṇām madhye bhrātā bhrātaramūcivān ॥6-10-26॥।।",
+      "translations": {
+        "english": "Brother Vibheeshana thus tendered advice to Ravana, the eminent king of Rakshasas in the presence of his ministers.",
+        "hindi": "आप न्यायानुसार समझ बूझ कर जैसा उचित समझें वैसा करें । इस प्रकार मंत्रियों के बीच बैठे हुए राक्षसश्रेष्ठ रावण से बिभीषण ने थे हितकर वचन कहे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 10,
+      "verse": 27,
+      "sloka": "रावणम् रक्षसाम् श्रेष्ठम् पथ्यमेतद्विभीषणः ।।।",
+      "transliteration": "rāvaṇam rakṣasām śreṣṭham pathyametadvibhīṣaṇaḥ ।।।",
+      "translations": {
+        "english": "Foregoing the beneficial, meaningful, and gentle words of counsel of significance in the past, present and future also (given by Vibheeshana), Ravana seized with anger replied in this manner.",
+        "hindi": "बिभीषण के ।हतकर, अर्थयुक्त, सदु; युक्तियुक्तं और तीनों कालो में लाभप्रद वचन सुनकर,रावण बहुत क्रु हा, बोला",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 10,
+      "verse": 27,
+      "sloka": "निशम्य तद्वाक्यमुपस्थितज्वरः ।प्रसज्~गवानुत्तरमेत दब्रवीत् ॥६-१०-२७॥।।",
+      "transliteration": "niśamya tadvākyamupasthitajvaraḥ ।prasaj~gavānuttarameta dabravīt ॥6-10-27॥।।",
+      "translations": {
+        "english": "Foregoing the beneficial, meaningful, and gentle words of counsel of significance in the past, present and future also (given by Vibheeshana), Ravana seized with anger replied in this manner.",
+        "hindi": "बिभीषण के ।हतकर, अर्थयुक्त, सदु; युक्तियुक्तं और तीनों कालो में लाभप्रद वचन सुनकर,रावण बहुत क्रु हा, बोला",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 10,
+      "verse": 28,
+      "sloka": "हितम् महार्थम् मऋदु हेतुसम्हितम् ।व्यतीतकालायतिसम्प्रतिक्षमम् ।।।",
+      "transliteration": "hitam mahārtham maṛdu hetusamhitam ।vyatītakālāyatisampratikṣamam ।।।",
+      "translations": {
+        "english": "\"I do not perceive fear from anyone. Rama will not be able to get Mythili at any time. How can the elder brother of Lakshmana withstand me even if Indra and Devatas come (to his help) in battle\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 10,
+      "verse": 28,
+      "sloka": "सुरैः सहेन्द्रैरपि सम्गरे कथम् ।ममाग्रतः स्थास्यति लक्ष्मणाग्रजः ॥६-१०-२८॥।।",
+      "transliteration": "suraiḥ sahendrairapi samgare katham ।mamāgrataḥ sthāsyati lakṣmaṇāgrajaḥ ॥6-10-28॥।।",
+      "translations": {
+        "english": "\"I do not perceive fear from anyone. Rama will not be able to get Mythili at any time. How can the elder brother of Lakshmana withstand me even if Indra and Devatas come (to his help) in battle\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 10,
+      "verse": 29,
+      "sloka": "दशाननो भ्रातरमाप्तवादिनम् ।विसर्जयामास तदा विभीषणम् ॥६-१०-२९॥",
+      "transliteration": "daśānano bhrātaramāptavādinam ।visarjayāmāsa tadā vibhīṣaṇam ॥6-10-29॥",
+      "translations": {
+        "english": "Then mighty tenheaded Ravana of formidable valour, a destroyer of Devatas' army in war, sent away Vibheeshana who had spoken words of good advice in that manner. ।।इत्यार्षेवाल्मीकीयेवामलीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेदशमस्सर्गः।। This is the end of the tenth sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 10,
+      "verse": 30,
+      "sloka": "भयम् न पश्यामि कुतश्चिदप्यहम् ।न राघवः प्राप्स्यति जातु मैथिलीम् ।।।",
+      "transliteration": "bhayam na paśyāmi kutaścidapyaham ।na rāghavaḥ prāpsyati jātu maithilīm ।।।",
+      "translations": {
+        "english": "",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 10,
+      "verse": 32,
+      "sloka": "इत्येवमुक्र्वा सुरसैन्यनाशनो ।महाबलः सम्यति चण्डविक्रमः ।।।",
+      "transliteration": "ityevamukrvā surasainyanāśano ।mahābalaḥ samyati caṇḍavikramaḥ ।।।",
+      "translations": {
+        "english": "",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

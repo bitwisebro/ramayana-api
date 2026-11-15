@@ -1,0 +1,611 @@
+{
+  "kanda": 2,
+  "kanda_name": "Ayodhya Kanda",
+  "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+  "sarga": 54,
+  "verses_count": 43,
+  "verses": [
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 54,
+      "verse": 1,
+      "sloka": "ते तु तस्मिन् महा वृक्षौषित्वा रजनीम् शिवाम् ।विमले अभ्युदिते सूर्ये तस्मात् देशात् प्रतस्थिरे ॥२-५४-१॥",
+      "transliteration": "te tu tasmin mahā vṛkṣauṣitvā rajanīm śivām ।vimale abhyudite sūrye tasmāt deśāt pratasthire ॥2-54-1॥",
+      "translations": {
+        "english": "They (Rama, Sita and Lakshmana) spent that auspicious night under that great tree and set out from there after the bright sun rose.",
+        "hindi": "लोकाभिराम श्रीरामचन्द्र उस वृत्त के नीचे जा और सायं | सन्ध्योपासन कर, लक्ष्मण से बोले",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 54,
+      "verse": 2,
+      "sloka": "यत्र भागीरथी गन्गा यमुनाम् अभिवर्तते ।जग्मुस् तम् देशम् उद्दिश्य विगाह्य सुमहद् वनम् ॥२-५४-२॥",
+      "transliteration": "yatra bhāgīrathī gangā yamunām abhivartate ।jagmus tam deśam uddiśya vigāhya sumahad vanam ॥2-54-2॥",
+      "translations": {
+        "english": "Illustrious Rama, Sita and Lakshmana entered the deep forest and saw the different regions of the land and other enchanting places which they had never seen before and proceeded towards the region where the river Yamuna merged with Bhagirathi Ganga.",
+        "hindi": "बस्ती के बाहर आकर ओर सुमंत्र का साथ छोड़ कर, आज यहू प्रथम रात है, जो हमें बितानी है; इसके लिए तुम घबड़ाना मत अथवा इसके लिए तुम चिन्तित मत होना",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 54,
+      "verse": 3,
+      "sloka": "ते भूमिम् आगान् विविधान् देशामः च अपि मनो रमान् ।अदृष्ट पूर्वान् पश्यन्तः तत्र तत्र यशस्विनः ॥२-५४-३॥",
+      "transliteration": "te bhūmim āgān vividhān deśāmaḥ ca api mano ramān ।adṛṣṭa pūrvān paśyantaḥ tatra tatra yaśasvinaḥ ॥2-54-3॥",
+      "translations": {
+        "english": "Illustrious Rama, Sita and Lakshmana entered the deep forest and saw the different regions of the land and other enchanting places which they had never seen before and proceeded towards the region where the river Yamuna merged with Bhagirathi Ganga.",
+        "hindi": "आज से लेकर प्रत्येक रात्रि में हमें नींद त्याग कर, रात भर जागना पड़ेगा; क्योंकि _ सीता का योगक्तेम हम दोनों ही के ऊपर ॥ निभेर है अथवा हम दोनों ही के अधीन है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 54,
+      "verse": 4,
+      "sloka": "यथा क्षेमेण गच्चन् स पश्यमः च विविधान् द्रुमान् ।निवृत्त मात्रे दिवसे रामः सौमित्रिम् अब्रवीत् ॥२-५४-४॥",
+      "transliteration": "yathā kṣemeṇa gaccan sa paśyamaḥ ca vividhān drumān ।nivṛtta mātre divase rāmaḥ saumitrim abravīt ॥2-54-4॥",
+      "translations": {
+        "english": "Walking on the safe path and observing various kinds of trees Rama said to Lakshmana at the end of the day:",
+        "hindi": "ce 2. स अवि Some 2. sea हर 5 2: त्रिपञ्चाशः सगः ५५५ हे लक्ष्मण ! यह प्रथम रात है, सो आओ किसी तरह इसे तो व्यतीत करें और खर-पत्तों को स्वयं बटोर कर और उनका बिलौना बना, उस पर लेट रहेँ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 54,
+      "verse": 5,
+      "sloka": "प्रयागम् अभितः पश्य सौमित्रे धूमम् उन्नतम् ।अग्नेर् भगवतः केतुम् मन्ये सम्निहितः मुनिः ॥२-५४-५॥",
+      "transliteration": "prayāgam abhitaḥ paśya saumitre dhūmam unnatam ।agner bhagavataḥ ketum manye samnihitaḥ muniḥ ॥2-54-5॥",
+      "translations": {
+        "english": "O son of Sumitra, look at the column of smoke rising like the banner of the venerable firegod near Prayaga. I think an ascetic dwells nearby.",
+        "hindi": "जो श्रीरामचन्द्र जी बड़े मूल्यवान बिस्तरों पर लेटा करते थे, बे ही श्रीरामचन्द्र जी पृथ्वी पर पड़े हुए लक्ष्मण से वातीलाप करने लगे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 54,
+      "verse": 6,
+      "sloka": "नूनम् प्राप्ताः स्म सम्भेदम् गन्गा यमुनयोः वयम् ।तथा हि श्रूयते शम्ब्दो वारिणा वारि घट्टितः ॥२-५४-६॥",
+      "transliteration": "nūnam prāptāḥ sma sambhedam gangā yamunayoḥ vayam ।tathā hi śrūyate śambdo vāriṇā vāri ghaṭṭitaḥ ॥2-54-6॥",
+      "translations": {
+        "english": "We have surely reached the confluence of Ganga and Yamuna which can be ascertained from the sounds of clashing water.",
+        "hindi": "हे लक्ष्मण ! निश्चय ही आज महाराज दशरथ जी, बड़े दुःख से सोए होंगे; किन्तु-कैकेयी अपना अभीष्ट पाकर और कृताथ हो सन्तुष्ट हुई होगी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 54,
+      "verse": 7,
+      "sloka": "दारूणि परिभिन्नानि वनजैः उपजीविभिः ।भरद्वाज आश्रमे च एते दृश्यन्ते विविधा द्रुमाः ॥२-५४-७॥",
+      "transliteration": "dārūṇi paribhinnāni vanajaiḥ upajīvibhiḥ ।bharadvāja āśrame ca ete dṛśyante vividhā drumāḥ ॥2-54-7॥",
+      "translations": {
+        "english": "Here are logs of wood cut into pieces by forestdwellers, living on forest products. You can see various trees near the hermitage of sage Bharadwaja.",
+        "hindi": "है स हि देवी महाराजं केकेयी राज्यकारणात्‌\" । अपि न च्यावयेत्पाणान्‌ दृष्टा भरतमागतम्‌",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 54,
+      "verse": 8,
+      "sloka": "धन्विनौ तौ सुखम् गत्वा लम्बमाने दिवा करे ।गन्गा यमुनयोह् सम्धौ प्रापतुर् निलयम् मुनेः ॥२-५४-८॥",
+      "transliteration": "dhanvinau tau sukham gatvā lambamāne divā kare ।gangā yamunayoh samdhau prāpatur nilayam muneḥ ॥2-54-8॥",
+      "translations": {
+        "english": "The two archers (Rama and Lakshmana) reached comfortably (walking at an easy pace) by evening the hermitage of sage Bharadwaja near the confluence of Ganga and Yamuna.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 54,
+      "verse": 9,
+      "sloka": "रामः तु आश्रमम् आसाद्य त्रासयन् मृग पक्षिणः ।गत्वा मुहूर्तम् अध्वानम् भरद्वाजम् उपागमत् ॥२-५४-९॥",
+      "transliteration": "rāmaḥ tu āśramam āsādya trāsayan mṛga pakṣiṇaḥ ।gatvā muhūrtam adhvānam bharadvājam upāgamat ॥2-54-9॥",
+      "translations": {
+        "english": "Seeing Rama approaching the hermitage the deer and the birds were frightened. Proceeding on the path, for a while Rama reached (the place of) Bharadwaja.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 54,
+      "verse": 10,
+      "sloka": "ततः तु आश्रमम् आसाद्य मुनेर् दर्शन कान्क्षिणौ ।सीतया अनुगतौ वीरौ दूरात् एव अवतस्थतुः ॥२-५४-१०॥",
+      "transliteration": "tataḥ tu āśramam āsādya muner darśana kānkṣiṇau ।sītayā anugatau vīrau dūrāt eva avatasthatuḥ ॥2-54-10॥",
+      "translations": {
+        "english": "Thereafter the two heroes followed by Sita arrived at the hermitage and, wishing to see the sage, waited at a distance.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 54,
+      "verse": 11,
+      "sloka": "स प्रविश्य महात्मानमृषिम् शिष्यगणैर्वऋतम् ।सम्शितव्रतमेकाग्रम् तपसा लब्धचक्षुषम् ॥२-५४-११॥",
+      "transliteration": "sa praviśya mahātmānamṛṣim śiṣyagaṇairvaṛtam ।samśitavratamekāgram tapasā labdhacakṣuṣam ॥2-54-11॥",
+      "translations": {
+        "english": "Rama entered the hermitage and saw that highsouled Bharadwaja surrounded by his disciples. He was a distinguished sage who (himself) kindled sacrficial fires and acquired spiritual insight by practising rigid austerities with concentration of mind and ascetic powers. Rama, Lakshmana and Sita paid their obeisance to that great sage.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 54,
+      "verse": 12,
+      "sloka": "हुत अग्नि होत्रम् दृष्ट्वा एव महा भागम् कृत अन्जलिः ।रामः सौमित्रिणा सार्धम् सीतया च अभ्यवादयत् ॥२-५४-१२॥",
+      "transliteration": "huta agni hotram dṛṣṭvā eva mahā bhāgam kṛta anjaliḥ ।rāmaḥ saumitriṇā sārdham sītayā ca abhyavādayat ॥2-54-12॥",
+      "translations": {
+        "english": "Rama entered the hermitage and saw that highsouled Bharadwaja surrounded by his disciples. He was a distinguished sage who (himself) kindled sacrficial fires and acquired spiritual insight by practising rigid austerities with concentration of mind and ascetic powers. Rama, Lakshmana and Sita paid their obeisance to that great sage.",
+        "hindi": "एकमात्र कैकेयी के पुत्र भरत अपनी पत्नी के सहित सुखी होंगे । क्योंकि ये अति भ्रमुदित हो, अयोध्यामणडल के राज्य का महाराजाओं को भाँति अकेले उपभोग करेंगे । ११) [ | ~ ° ॥ र सा हे सवस्य राज्यस्य मुखमेक २ भविष्यति | ताते च वयसा5तीते .मयि चारण्यमास्थिते",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 54,
+      "verse": 13,
+      "sloka": "न्यवेदयत च आत्मानम् तस्मै लक्ष्मण पूर्वजः ।पुत्रौ दशरथस्य आवाम् भगवन् राम लक्ष्मणौ ॥२-५४-१३॥",
+      "transliteration": "nyavedayata ca ātmānam tasmai lakṣmaṇa pūrvajaḥ ।putrau daśarathasya āvām bhagavan rāma lakṣmaṇau ॥2-54-13॥",
+      "translations": {
+        "english": "Lakshmana's elder brother (Rama) introduced himself (to Bharadwaja), O venerable one, we are both sons of Dasaratha, Rama and Lakshmana.",
+        "hindi": "अब भरत अखिल राज्य के मुख्य शासक हो जायेंगे । क्योंकि | ww t > महाराज को आयु तो समाप्ति पर है हो और मैं यहाँ बन में चला | हू श्र छ, “द्‌ पे जे पं कै न > हि न f i ७: के ७ जक र ० ८ कक meso TERY क EE P७३ Ne, ७६: hs’ S.A > र 007. FS Ef + DDE | + ५, / SRE Se म न 00 भिन म YM SNE १२ ~ Porites hn ५ ५०] : - है © मो ९ र अथधमो परित्यज्य य: काममनुवतते । एवमापद्यते क्षिप्न राजा दशरथो यथा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 54,
+      "verse": 14,
+      "sloka": "भार्या मम इयम् वैदेही कल्याणी जनक आत्मजा ।माम् च अनुयाता विजनम् तपो वनम् अनिन्दिता ॥२-५४-१४॥",
+      "transliteration": "bhāryā mama iyam vaidehī kalyāṇī janaka ātmajā ।mām ca anuyātā vijanam tapo vanam aninditā ॥2-54-14॥",
+      "translations": {
+        "english": "This blessed one is my consort, Sita, daughter of Janaka. Irreproachable she has followed me to the desolate grove of penance (hermitage).",
+        "hindi": "हे सौम्य ! मैं तो समझता हुँ कि महाराज को मारने, मुझे बन पठाने और भरत को राज्य दिलाने के लिए ही कैकेयी का ' हमारे घर में आगमन हुआ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 54,
+      "verse": 15,
+      "sloka": "पित्रा प्रव्राज्यमानम् माम् सौमित्रिर् अनुजः प्रियः ।अयम् अन्वगमद् भ्राता वनम् एव दृढ व्रतः ॥२-५४-१५॥",
+      "transliteration": "pitrā pravrājyamānam mām saumitrir anujaḥ priyaḥ ।ayam anvagamad bhrātā vanam eva dṛḍha vrataḥ ॥2-54-15॥",
+      "translations": {
+        "english": "This is the son of Sumitra, my beloved younger brother, a man of firm resolve. He has accompanied me when I was sent on exile to the forest by my father.",
+        "hindi": "मुझे डर है. कि केकेयी सौभाग्यमद से मोहित हो, मेरा सम्बन्ध होने के कारण कहदी कौसल्या ओर सुमित्रा को न सताती 'हो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 54,
+      "verse": 16,
+      "sloka": "पित्रा नियुक्ता भगवन् प्रवेष्यामः तपो वनम् ।धर्मम् एव आचरिष्यामः तत्र मूल फल अशनाः ॥२-५४-१६॥",
+      "transliteration": "pitrā niyuktā bhagavan praveṣyāmaḥ tapo vanam ।dharmam eva ācariṣyāmaḥ tatra mūla phala aśanāḥ ॥2-54-16॥",
+      "translations": {
+        "english": "O venerable one on my father's command we entered the desolate forest of penance. Subsisting on roots and fruits, I shall practise the righteous way of life.",
+        "hindi": "हे लकमण ! पूर्वे जन्म में मेरी माता ने अवश्य स्त्रियों को 'पुत्रहीन किया था, इस जन्म में उसी का यह फल उसके सामने आया है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 54,
+      "verse": 17,
+      "sloka": "तस्य तत् वचनम् श्रुत्वा राज पुत्रस्य धीमतः ।उपानयत धर्म आत्मा गाम् अर्घ्यम् उदकम् ततः ॥२-५४-१७॥",
+      "transliteration": "tasya tat vacanam śrutvā rāja putrasya dhīmataḥ ।upānayata dharma ātmā gām arghyam udakam tataḥ ॥2-54-17॥",
+      "translations": {
+        "english": "Sage Bharadwaja heard the words of sagacious Rama and offered a bull, water (for washing feet) and arghya (offering to a guest).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 54,
+      "verse": 18,
+      "sloka": "नानाविधानन्नरसान् वन्यमूलफलाश्रयान् ।तेभ्यो ददौ तप्ततपा वासम् चैवाभ्यकल्पयत् ॥२-५४-१८॥",
+      "transliteration": "nānāvidhānannarasān vanyamūlaphalāśrayān ।tebhyo dadau taptatapā vāsam caivābhyakalpayat ॥2-54-18॥",
+      "translations": {
+        "english": "The ascetic who practised severe penance offered them different kinds of food and drink made from roots and fruits available in the forest. He also provided them a place to rest in.",
+        "hindi": "क्षुद्रकर्मा हि केकेयी द्वेष्यपन्याय्यमाचरेत | ~ / ध 0 Cos पारद्दाहू% धमज्ञ गरं ते मम मातरम्‌ | १८ क्योंकि उस केफेयो का बड़ा ही ओढा स्त्रभाब है । वह हम लोगों के वैरभाव से अन्याय कर, तुम्हारी और मेरी माताओं को बिष दे देगी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 54,
+      "verse": 19,
+      "sloka": "मृग पक्षिभिर् आसीनो मुनिभिः च समन्ततः ।रामम् आगतम् अभ्यर्च्य स्वागतेन आह तम् मुनिः ॥२-५४-१९॥",
+      "transliteration": "mṛga pakṣibhir āsīno munibhiḥ ca samantataḥ ।rāmam āgatam abhyarcya svāgatena āha tam muniḥ ॥2-54-19॥",
+      "translations": {
+        "english": "There the sage sat, surrounded by hermits, animals and birds after having welcomed Rama with due honour.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 54,
+      "verse": 20,
+      "sloka": "प्रतिगृह्य च ताम् अर्चाम् उपविष्टम् स राघवम् ।भरद्वाजो अब्रवीद् वाक्यम् धर्म युक्तम् इदम् तदा ॥२-५४-२०॥",
+      "transliteration": "pratigṛhya ca tām arcām upaviṣṭam sa rāghavam ।bharadvājo abravīd vākyam dharma yuktam idam tadā ॥2-54-20॥",
+      "translations": {
+        "english": "Rama accepted the hospitality of Bharadwaja and took a seat in front of the sage, who spoke to him these words in conformity with righteousness:",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 54,
+      "verse": 21,
+      "sloka": "चिरस्य खलु काकुत्स्थ पश्यामि त्वाम् इह आगतम् ।श्रुतम् तव मया च इदम् विवासनम् अकारणम् ॥२-५४-२१॥",
+      "transliteration": "cirasya khalu kākutstha paśyāmi tvām iha āgatam ।śrutam tava mayā ca idam vivāsanam akāraṇam ॥2-54-21॥",
+      "translations": {
+        "english": "O descendant of the Kakutstha dynasty, I am able to see you on your arrival here after a long time. I have also heard about your unwarranted banishment.",
+        "hindi": "हे लक्ष्मण ! कोई भी सौभाग्यवती स्त्री युक जैसे पुत्र को, जो माता को अनन्त कष्ट दे रहा हूँ, कभी उत्पन्न न करे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 54,
+      "verse": 22,
+      "sloka": "अवकाशो विविक्तः अयम् महा नद्योह् समागमे ।पुण्यः च रमणीयः च वसतु इह भगान् सुखम् ॥२-५४-२२॥",
+      "transliteration": "avakāśo viviktaḥ ayam mahā nadyoh samāgame ।puṇyaḥ ca ramaṇīyaḥ ca vasatu iha bhagān sukham ॥2-54-22॥",
+      "translations": {
+        "english": "This sacred and solitary region near the confluence of two great rivers (Ganga and Yamuna) is a pleasant place. You may stay here comfortably.",
+        "hindi": "हे लक्ष्मण ! में समझता हुँ कि मुझसे अधिक मेरी माता की प्रीतिपात्रा बह मैना है जिसकी यह बात कि हे सुग्गे ! शत्र के पेर [ट खाओ, मेरी माता सुनती है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 54,
+      "verse": 23,
+      "sloka": "एवम् उक्तः तु वचनम् भरद्वाजेन राघवः ।प्रत्युवाच शुभम् वाक्यम् रामः सर्व हिते रतः ॥२-५४-२३॥",
+      "transliteration": "evam uktaḥ tu vacanam bharadvājena rāghavaḥ ।pratyuvāca śubham vākyam rāmaḥ sarva hite rataḥ ॥2-54-23॥",
+      "translations": {
+        "english": "Rama, ever devoted to the wellbeing of every one, heard Bharadwaja and replied to him with these auspicious words:",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 54,
+      "verse": 24,
+      "sloka": "भगवन्न् इताअसन्नः पौर जानपदो जनः ।सुदर्शमिह माम् प्रेक्ष्य मन्येऽह मिममाश्रमम् ॥२-५४-२४॥",
+      "transliteration": "bhagavann itāasannaḥ paura jānapado janaḥ ।sudarśamiha mām prekṣya manye'ha mimamāśramam ॥2-54-24॥",
+      "translations": {
+        "english": "O venerable sage, I feel the people living in nearby villages and towns, perceiving that we can be easily seen here, will frequent this ashram. This is the reason I don't wish to stay here.",
+        "hindi": "निश्चित ही मेरी माता कौसल्या अल्पभाग्या है। इस समय वह मेरे विछोह के कारण, अत्यन्त दुःखी होने के कारण, शोक- सागर में निमम्न लेटी होगी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 54,
+      "verse": 25,
+      "sloka": "आगमिष्यति वैदेहीम् माम् च अपि प्रेक्षको जनः ।अनेन कारणेन अहम् इह वासम् न रोचये ॥२-५४-२५॥",
+      "transliteration": "āgamiṣyati vaidehīm mām ca api prekṣako janaḥ ।anena kāraṇena aham iha vāsam na rocaye ॥2-54-25॥",
+      "translations": {
+        "english": "O venerable sage, I feel the people living in nearby villages and towns, perceiving that we can be easily seen here, will frequent this ashram. This is the reason I don't wish to stay here.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 54,
+      "verse": 26,
+      "sloka": "एक अन्ते पश्य भगवन्न् आश्रम स्थानम् उत्तमम् ।रमते यत्र वैदेही सुख अर्हा जनक आत्मजा ॥२-५४-२६॥",
+      "transliteration": "eka ante paśya bhagavann āśrama sthānam uttamam ।ramate yatra vaidehī sukha arhā janaka ātmajā ॥2-54-26॥",
+      "translations": {
+        "english": "O revered one, Janaka's daughter (Sita) deserves comfort. Suggest a solitary and agreeable place for our hermitage where she can enjoy herself.",
+        "hindi": "हे योद्धाओं में श्रेष्ठ राजन्‌! यह बात तो निश्चित है कि आपके चले आने पर अयोध्यापुरी तो उसी प्रकार निष्प्रभ हो गई 'होगी, जिस प्रकार चन्द्रमा के अस्त होने पर रात्रि हो जाती है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 54,
+      "verse": 27,
+      "sloka": "एतत् श्रुत्वा शुभम् वाक्यम् भरद्वाजो महा मुनिः ।राघवस्य ततः वाक्यम् अर्थ ग्राहकम् अब्रवीत् ॥२-५४-२७॥",
+      "transliteration": "etat śrutvā śubham vākyam bharadvājo mahā muniḥ ।rāghavasya tataḥ vākyam artha grāhakam abravīt ॥2-54-27॥",
+      "translations": {
+        "english": "On hearing the auspicious words of Rama conveying his intention, the great sage Bharadwaja replied to him thus:",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 54,
+      "verse": 28,
+      "sloka": "दश क्रोशैतः तात गिरिर् यस्मिन् निवत्स्यसि ।महर्षि सेवितः पुण्यः सर्वतः सुख दर्शनः ॥२-५४-२८॥",
+      "transliteration": "daśa krośaitaḥ tāta girir yasmin nivatsyasi ।maharṣi sevitaḥ puṇyaḥ sarvataḥ sukha darśanaḥ ॥2-54-28॥",
+      "translations": {
+        "english": "O my son ten krosas (about twenty miles) from here is a mountain wellknown as Chitrakuta, resembling 'Gandhamadana'. That mountain frequented by maharshis is sacred. It looks pleasant from all sides. Monkeys, apes and bears wander there and it is an appropriate place for you to live in.",
+        "hindi": "उस सिम बन में उस रात्रि को इस प्रकार के अनेक विललाप | ला आसू भर ( गद्गद कण्ठ होने के कारण ) चुप हो _ ` बिलप्योपरतं रामं गताचिषमिवानलम्‌ । समुद्रमिव निर्वेगमाश्वासतय लक्ष्मणः",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 54,
+      "verse": 29,
+      "sloka": "गो लान्गूल अनुचरितः वानर ऋष्क निषेवितः ।चित्र कूटैति ख्यातः गन्ध मादन सम्निभः ॥२-५४-२९॥",
+      "transliteration": "go lāngūla anucaritaḥ vānara ṛṣka niṣevitaḥ ।citra kūṭaiti khyātaḥ gandha mādana samnibhaḥ ॥2-54-29॥",
+      "translations": {
+        "english": "O my son ten krosas (about twenty miles) from here is a mountain wellknown as Chitrakuta, resembling 'Gandhamadana'. That mountain frequented by maharshis is sacred. It looks pleasant from all sides. Monkeys, apes and bears wander there and it is an appropriate place for you to live in.",
+        "hindi": "जब बिलाप कर श्रीरामचन्द्र जी चुप हो गए, तब. - न्हे ज्याला र रहिते अयिः ॐ ए त उन्ह अना रय ममाने लगे यो 0020 न Ps + यित, ~< Fo < ५ त्पग्ाशः सगः ५६१ भू वमद्य पुरी राजन्नयोध्याऽऽयुधिनांवर । निष्प्रभा त्वयि निष्क्रान्ते गतचन्द्रेव शवरी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 54,
+      "verse": 30,
+      "sloka": "यावता चित्र कूटस्य नरः शृन्गाणि अवेक्षते ।कल्याणानि समाधत्ते न पापे कुरुते मनः ॥२-५४-३०॥",
+      "transliteration": "yāvatā citra kūṭasya naraḥ śṛngāṇi avekṣate ।kalyāṇāni samādhatte na pāpe kurute manaḥ ॥2-54-30॥",
+      "translations": {
+        "english": "As long as one beholds the peaks of mount Chitrakuta, he will be inspired to do good deeds and will not employ his mind in sinful thoughts.",
+        "hindi": "परन्तु हे राम! आपका इस प्रकार सन्तप्त होना तो उचित नहीं । क्योंकि आपके सन्तप्त. होने से मुकको और सीता को भी विषाद होता है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 54,
+      "verse": 31,
+      "sloka": "ऋषयः तत्र बहवो विहृत्य शरदाम् शतम् ।तपसा दिवम् आरूधाः कपाल शिरसा सह ॥२-५४-३१॥",
+      "transliteration": "ṛṣayaḥ tatra bahavo vihṛtya śaradām śatam ।tapasā divam ārūdhāḥ kapāla śirasā saha ॥2-54-31॥",
+      "translations": {
+        "english": "On the Chitrakuta mountain many ascetics wandered about (lived) for hundreds of years carrying on penance. In the process they became so much emaciated that they looked as if they were left (only) with the skulls on their heads. (In the end) they ascended heaven.",
+        "hindi": "हे राघव ! में और सीता आपके बिना एक मुहूत्ते भी जीवित . नहीं रह सकते, जैसे जल के बिना मछली नहीं जी सकती",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 54,
+      "verse": 32,
+      "sloka": "प्रविविक्तम् अहम् मन्ये तम् वासम् भवतः सुखम् ।इह वा वन वासाय वस राम मया सह ॥२-५४-३२॥",
+      "transliteration": "praviviktam aham manye tam vāsam bhavataḥ sukham ।iha vā vana vāsāya vasa rāma mayā saha ॥2-54-32॥",
+      "translations": {
+        "english": "O Rama, I think you will enjoy your stay there in a solitary place. Or else, you may live with me here during the period of banishment.",
+        "hindi": "हे शत्रु को ताप देने वाले ! मैं आपके बिना न तो अपने पिता ' को, न अपने सहोदर शत्रश्न को और न अपनी जननी माता ' ` सुमित्रा ही को देखना चाहता हुँ । यही नहीं, किन्तु मुझे तो आपके ` ` बिनास्वगं को भी देखने की इच्छा नहीं है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 54,
+      "verse": 33,
+      "sloka": "स रामम् सर्व कामैअः तम् भरद्वाजः प्रिय अतिथिम् ।सभार्यम् सह च भ्रात्रा प्रतिजग्राह धर्मवित् ॥२-५४-३३॥",
+      "transliteration": "sa rāmam sarva kāmaiaḥ tam bharadvājaḥ priya atithim ।sabhāryam saha ca bhrātrā pratijagrāha dharmavit ॥2-54-33॥",
+      "translations": {
+        "english": "Bharadwaja, who knows his duty honoured Rama, his beloved guest with his consort and brother by extending all kinds of hospitality.",
+        "hindi": "च्छ LoS द, ८ ] ततस्तत्र सुखासीनो नातिदूरे निरीक्ष्य ताम | 5 < ; -नवुगरोधे RS ५ घम त कु र र ८ र COAST, भेजाते, प्रस ॥ Rll IC RSS SEES । ५६२ अयोध्याकाण्डे लक्ष्मण जी के इन बचनों को सुन, आराम से बैठे हुए घमोत्मा श्रीरामचन्द्र जी, सीता सहित पास ही बट वृक्ष के नीचे लक्ष्मण क्री रची प्णेशय्या को देख, उस पर जा लेटे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 54,
+      "verse": 34,
+      "sloka": "तस्य प्रयागे रामस्य तम् महर्षिम् उपेयुषः ।प्रपन्ना रजनी पुण्या चित्राः कथयतः कथाः ॥२-५४-३४॥",
+      "transliteration": "tasya prayāge rāmasya tam maharṣim upeyuṣaḥ ।prapannā rajanī puṇyā citrāḥ kathayataḥ kathāḥ ॥2-54-34॥",
+      "translations": {
+        "english": "At Prayaga, while the great sage Bharadwaja was narrating to Rama sitting near him several interesting anecdotes, the holy night set in.",
+        "hindi": "इस प्रकार लक्ष्मण के उत्तम अर्थ से भरे बचनों को बहुत | देर तक आदरपूर्वक सुन और वानप्रस्थ आश्रमोचित समस्त नियमों का लद्मण सहित यथासमय पालन करना निश्चित कर, श्रीरामचन्द्र जी चौदह वर्ष बिताने की इच्छा करते हुए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 54,
+      "verse": 35,
+      "sloka": "सीतातृतीय काकुत्स्थह् परिश्रान्तः सुखोचितः ।भरद्वाजाश्रमे रम्ये ताम् रात्रि मवस्त्सुखम् ॥२-५४-३५॥",
+      "transliteration": "sītātṛtīya kākutsthah pariśrāntaḥ sukhocitaḥ ।bharadvājāśrame ramye tām rātri mavastsukham ॥2-54-35॥",
+      "translations": {
+        "english": "The exhausted scion of the Kakutsthas, used to comforts, stayed in the lovely hermitage of Bharadwaja for the night with Sita, as the third member (of the group).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 54,
+      "verse": 36,
+      "sloka": "प्रभातायाम् रजन्याम् तु भरद्वाजम् उपागमत् ।उवाच नर शार्दूलो मुनिम् ज्वलित तेजसम् ॥२-५४-३६॥",
+      "transliteration": "prabhātāyām rajanyām tu bharadvājam upāgamat ।uvāca nara śārdūlo munim jvalita tejasam ॥2-54-36॥",
+      "translations": {
+        "english": "When the night passed into dawn, Rama the best of men approached the resplendent Bharadwaja and said.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 54,
+      "verse": 37,
+      "sloka": "शर्वरीम् भवनन्न् अद्य सत्य शील तव आश्रमे ।उषिताः स्म इह वसतिम् अनुजानातु नो भवान् ॥२-५४-३७॥",
+      "transliteration": "śarvarīm bhavanann adya satya śīla tava āśrame ।uṣitāḥ sma iha vasatim anujānātu no bhavān ॥2-54-37॥",
+      "translations": {
+        "english": "O venerable sage devoted to truth, we have spent the night in your hermitage. Please permit us to depart for the dwellingplace (suggested by you).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 54,
+      "verse": 38,
+      "sloka": "रात्र्याम् तु तस्याम् व्युष्टायाम् भरद्वाजो अब्रवीद् इदम् ।मधु मूल फल उपेतम् चित्र कूटम् व्रज इति ह ॥२-५४-३८॥",
+      "transliteration": "rātryām tu tasyām vyuṣṭāyām bharadvājo abravīd idam ।madhu mūla phala upetam citra kūṭam vraja iti ha ॥2-54-38॥",
+      "translations": {
+        "english": "When the night came to a close, Bharadwaja said (to Rama): You may proceed to Chitrakuta which abounds in roots, fruits and honey.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 54,
+      "verse": 39,
+      "sloka": "वासमौपयिकम् मन्ये तव राम महाबल ।नानानगगणोपेतः किन्नरोरगसेवितह् ॥२-५४-३९॥",
+      "transliteration": "vāsamaupayikam manye tava rāma mahābala ।nānānagagaṇopetaḥ kinnaroragasevitah ॥2-54-39॥",
+      "translations": {
+        "english": "O mighty Rama, I think mount Chitrakuta is the right place for you to stay. Go there. That mountain is full of trees of every kind, is inhabited by kinneras and uragas (serpents). It echoes with the cries of peacocks, is frequented by mighty tuskers. Filled with fruits and roots, it is sacred and pleasant.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 54,
+      "verse": 40,
+      "sloka": "मयूरनादाभिरुतो गजराजनिषेवितः ।गम्यताम् भवता शैलश्चित्रकूटः स विश्रुतः ॥२-५४-४०॥",
+      "transliteration": "mayūranādābhiruto gajarājaniṣevitaḥ ।gamyatām bhavatā śailaścitrakūṭaḥ sa viśrutaḥ ॥2-54-40॥",
+      "translations": {
+        "english": "O mighty Rama, I think mount Chitrakuta is the right place for you to stay. Go there. That mountain is full of trees of every kind, is inhabited by kinneras and uragas (serpents). It echoes with the cries of peacocks, is frequented by mighty tuskers. Filled with fruits and roots, it is sacred and pleasant.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 54,
+      "verse": 41,
+      "sloka": "पुण्यश्च रमणीयश्च बहुमूलफलायुतः ।तत्र कुन्जर यूथानि मृग यूथानि च अभितः ॥२-५४-४१॥",
+      "transliteration": "puṇyaśca ramaṇīyaśca bahumūlaphalāyutaḥ ।tatra kunjara yūthāni mṛga yūthāni ca abhitaḥ ॥2-54-41॥",
+      "translations": {
+        "english": "You will see, O Rama, herds of elephants and deer ranging in the forest.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 54,
+      "verse": 42,
+      "sloka": "विचरन्ति वन अन्तेषु तानि द्रक्ष्यसि राघव ।सरित्प्रस्रवणप्रस्थान् दरीकन्धरनिर्घरान् ॥२-५४-४२॥",
+      "transliteration": "vicaranti vana anteṣu tāni drakṣyasi rāghava ।saritprasravaṇaprasthān darīkandharanirgharān ॥2-54-42॥",
+      "translations": {
+        "english": "Your heart will be filled with joy while you wander with Sita beholding rivers, waterfalls, plateaus, caverns and mountaintorrents.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 54,
+      "verse": 43,
+      "sloka": "चरतः सीतया सार्धम् नन्दिष्यति मनस्तव ।प्रहृष्ट कोयष्टिक कोकिल स्वनैः ।र्विनादितम् तम् वसुधा धरम् शिवम् ।मृगैः च मत्तैः बहुभिः च कुन्जरैः ।सुरम्यम् आसाद्य समावस आश्रमम् ॥२-५४-४३॥",
+      "transliteration": "carataḥ sītayā sārdham nandiṣyati manastava ।prahṛṣṭa koyaṣṭika kokila svanaiḥ ।rvināditam tam vasudhā dharam śivam ।mṛgaiḥ ca mattaiḥ bahubhiḥ ca kunjaraiḥ ।suramyam āsādya samāvasa āśramam ॥2-54-43॥",
+      "translations": {
+        "english": "The auspicious mountain (Chaitrakuta) resounds with the note of cheerful lapwings and cuckoos. Intoxicated elephants and deer move about in the enchanting mountain. There you may settle down in a hermitage. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे चतुःपञ्चाश स्सर्गः।। Thus ends the fiftyfourth sarga in Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

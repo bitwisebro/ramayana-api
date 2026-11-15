@@ -1,0 +1,303 @@
+{
+  "kanda": 2,
+  "kanda_name": "Ayodhya Kanda",
+  "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+  "sarga": 41,
+  "verses_count": 21,
+  "verses": [
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 41,
+      "verse": 1,
+      "sloka": "तस्मिम्स्तु पुरुषव्याघ्रे विनिर्याति कृताञ्जलौ ।आर्तशब्दोऽथ सम्जज्ञे स्त्रीणामन्तह्पुते तदा ॥२-४१-१॥",
+      "transliteration": "tasmimstu puruṣavyāghre viniryāti kṛtāñjalau ।ārtaśabdo'tha samjajñe strīṇāmantahpute tadā ॥2-41-1॥",
+      "translations": {
+        "english": "When Rama, the foremost men, was departing with folded palms there arose a huge cry of distress from the inner apartment of ladies.",
+        "hindi": "जब तक श्रीरामचन्द्र के रथ के पहियों से उड़ती हुई धूल दिखलाई देती रही, तब तक महाराज ने उस ओर से अपनी निगाह न फेरी अथीत्‌ उधर ही देखते रहे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 41,
+      "verse": 2,
+      "sloka": "अनाथस्य जनस्य अस्य दुर्बलस्य तपस्विनः ।यो गतिम् शरणम् च आसीत् स नाथः क्व नु गच्चति ॥२-४१-२॥",
+      "transliteration": "anāthasya janasya asya durbalasya tapasvinaḥ ।yo gatim śaraṇam ca āsīt sa nāthaḥ kva nu gaccati ॥2-41-2॥",
+      "translations": {
+        "english": "Rama was a refuge and a protector to all the people who were defenceless, weak and miserable. Where is such a protector going now? (said the people).",
+        "hindi": "जब तक महाराज दशरथ को अपने अत्यन्त प्रिय और धार्मिक पुत्र श्रीरामचन्द्र दिखलाई पडे, तब तक वे जमीन से बार-बार उठ- उठ कर उनको देखते रहे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 41,
+      "verse": 3,
+      "sloka": "न क्रुध्यति अभिशस्तः अपि क्रोधनीयानि वर्जयन् ।क्रुद्धान् प्रसादयन् सर्वान् सम दुह्खः क्व गच्चति ॥२-४१-३॥",
+      "transliteration": "na krudhyati abhiśastaḥ api krodhanīyāni varjayan ।kruddhān prasādayan sarvān sama duhkhaḥ kva gaccati ॥2-41-3॥",
+      "translations": {
+        "english": "Where is he who, even if reviled, never gets angry, never does acts that provoke anger, pacifies those who are enraged and shares the sorrows of others going now?",
+        "hindi": "किन्तु जब रथ के पहियों से उड़ी हुई धूल भी अदृश्य, हो गई तब महाराज दशरथ आत्तं और विषादपूण हो, भूमि पर गिर ' पड्रे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 41,
+      "verse": 4,
+      "sloka": "कौसल्यायाम् महा तेजा यथा मातरि वर्तते ।तथा यो वर्तते अस्मासु महात्मा क्व नु गच्चति ॥२-४१-४॥",
+      "transliteration": "kausalyāyām mahā tejā yathā mātari vartate ।tathā yo vartate asmāsu mahātmā kva nu gaccati ॥2-41-4॥",
+      "translations": {
+        "english": "Where is he, that effulgent, magnanimous one who treated us (with the same respect) as he treated his mother Kausalya, going now?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 41,
+      "verse": 5,
+      "sloka": "कैकेय्या क्लिश्यमानेन राज्ञा सम्चोदितः वनम् ।परित्राता जनस्य अस्य जगतः क्व नु गच्चति ॥२-४१-५॥",
+      "transliteration": "kaikeyyā kliśyamānena rājñā samcoditaḥ vanam ।paritrātā janasya asya jagataḥ kva nu gaccati ॥2-41-5॥",
+      "translations": {
+        "english": "Tormented by Kaikeyi, the king ordered him to go to the forest. Where is he, who happened to be the protector of the people of this world, going now?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 41,
+      "verse": 6,
+      "sloka": "अहो निश्चेतनो राजा जीव लोकस्य सम्प्रियम् ।धर्म्यम् सत्य व्रतम् रामम् वन वासो प्रवत्स्यति ॥२-४१-६॥",
+      "transliteration": "aho niścetano rājā jīva lokasya sampriyam ।dharmyam satya vratam rāmam vana vāso pravatsyati ॥2-41-6॥",
+      "translations": {
+        "english": "Alas, the king must be devoid of any sense as he is sending away Rama, who is dear to the world, is righteous and truthful, to dwell in the forest.",
+        "hindi": "नीतिवान्‌, धसोत्मा और सदाचारी महाराज दशरथ कैकेयी | को अपने पास देख करे विकल हो, बोले ॥। - का 7 डु केकेयि मा ममाङ्गान. स्पाक्षीस्त्वं दुष्टचारिणो | हन गे ___नहित्वांद्रटुमिच्छामिन भार्या.न च बान छा नक्षाशिंश, | म्य लै ॥ 4 रे ढुष्टा केकेयी ! हमारे शरीर को मत छू। हम तेरा मुँह देखना नहीं चाहते । तू न तो अब हमारी भायौ है और न हमारे साथ तेरा अब पत्नी का कोई नाता ही रहा है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 41,
+      "verse": 7,
+      "sloka": "इति सर्वा महिष्यः ता विवत्साइव धेनवः ।रुरुदुः चैव दुह्ख आर्ताः सस्वरम् च विचुक्रुशुः ॥२-४१-७॥",
+      "transliteration": "iti sarvā mahiṣyaḥ tā vivatsāiva dhenavaḥ ।ruruduḥ caiva duhkha ārtāḥ sasvaram ca vicukruśuḥ ॥2-41-7॥",
+      "translations": {
+        "english": "So wept aloud the anguished wives of the king like cows separated from their calves.",
+        "hindi": "अकेली तू नहीं, बल्कि तेरे नौकर-चाकर भी हमारे नहीं हैं और ह्म भी उनके नहीं हैं । हम तो, स्वार्थतत्पर हो, पातिव्रतधम का त्याग करने बाली तुझको त्यागते हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 41,
+      "verse": 8,
+      "sloka": "स तम् अन्तः पुरे घोरम् आर्त शब्दम् मही पतिः ।पुत्र शोक अभिसम्तप्तः श्रुत्वा च आसीत् सुदुह्खितः ॥२-४१-८॥",
+      "transliteration": "sa tam antaḥ pure ghoram ārta śabdam mahī patiḥ ।putra śoka abhisamtaptaḥ śrutvā ca āsīt suduhkhitaḥ ॥2-41-8॥",
+      "translations": {
+        "english": "Upon hearing the dreadful wailing from the inner apartments of the palace, the king already devasted at the separation from his son, grew even more distressed.",
+        "hindi": "हमने अभि की परिक्रमा कर, जो तेरा हाथ पकड़ा था, उसका इहलोकिक और पारलौकिक कमफल भी हम त्यागते हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 41,
+      "verse": 9,
+      "sloka": "न अग्नि होत्राणि अहूयन्त सूर्यः च अन्तर् अधीयत ।व्यसृजन् कवलान् नागा गावो वत्सान् न पाययन् ॥२-४१-९॥",
+      "transliteration": "na agni hotrāṇi ahūyanta sūryaḥ ca antar adhīyata ।vyasṛjan kavalān nāgā gāvo vatsān na pāyayan ॥2-41-9॥",
+      "translations": {
+        "english": "The sacred fire in agnihotra sacrifices was not invoked householders did not cook their food the people did not attend to their daily chores. And the Sun set.",
+        "hindi": "इसलोक का फल-क्रोड़ादि व्यवहार ग्रब से तेरे साथ न करेंगे । २ पारलौकिक कर्मफल--परलोकसिद्धि के लिए जो यज्ञानुष्ठानादि कमं किये जाते हैं। ] भरतश्चेत्मतीतः: स्याद्राज्यं प्राप्येदमव्ययम्‌. । यन्मे स दद्यात्मीत्यथं मां मा तइत्तमागमत्‌",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 41,
+      "verse": 10,
+      "sloka": "व्यसृजन् कबलान्नागा गावो वत्सान्न पाययन् ।पुत्रम् प्रथमजम् लब्ध्वा जननी नाभ्यनन्दत ॥२-४१-१०॥",
+      "transliteration": "vyasṛjan kabalānnāgā gāvo vatsānna pāyayan ।putram prathamajam labdhvā jananī nābhyanandata ॥2-41-10॥",
+      "translations": {
+        "english": "Elephants dropped their morsel of food. Cows did not suckle their calves. Even the mothers were not pleased with their firstborn sons.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 41,
+      "verse": 11,
+      "sloka": "त्रिशन्कुर् लोहित अन्गः च बृहस्पति बुधाव् अपि ।दारुणाः सोमम् अभ्येत्य ग्रहाः सर्वे व्यवस्थिताः ॥२-४१-११॥",
+      "transliteration": "triśankur lohita angaḥ ca bṛhaspati budhāv api ।dāruṇāḥ somam abhyetya grahāḥ sarve vyavasthitāḥ ॥2-41-11॥",
+      "translations": {
+        "english": "The constellation Trishanku, the planets Mars, Jupiter, Mercury and other fierce planets took their position near the Moon.",
+        "hindi": "जानबूझ कर ब्रह्महत्या करने से ब जलते हुए अंगारे को हाथ से छूने से, जैसा सन्ताप होता है, वैसा ही सन्ताप, महाराज को सुनिभेषधारी पुत्र का स्मरण करके हो रहा था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 41,
+      "verse": 12,
+      "sloka": "नक्षत्राणि गत अर्चीम्षि ग्रहाः च गत तेजसः ।विशाखाः च सधूमाः च नभसि प्रचकाशिरे ॥२-४१-१२॥",
+      "transliteration": "nakṣatrāṇi gata arcīmṣi grahāḥ ca gata tejasaḥ ।viśākhāḥ ca sadhūmāḥ ca nabhasi pracakāśire ॥2-41-12॥",
+      "translations": {
+        "english": "The stars were shorn of their radiance. The brilliance of the planets diminished. Shrouded in smoke the Visakha constellation appeared in the sky.",
+        "hindi": "महाराज दशरथ का; जो बार-बार मुड्-मुइ कर, रथ के माग को देखते जाते थे, रूप राहुग्रस्त सूयं की तरह अच्छा नहीं लगता था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 41,
+      "verse": 13,
+      "sloka": "कालिकानिलवेगेन महोदधिरिवोत्थितः ।रामे वनम् प्रव्रजिते नगरम् प्रचचाल तत् ॥२-४१-१३॥",
+      "transliteration": "kālikānilavegena mahodadhirivotthitaḥ ।rāme vanam pravrajite nagaram pracacāla tat ॥2-41-13॥",
+      "translations": {
+        "english": "After Rama left for the forest, dark clouds appeared (in the sky) like the (waves of) the great ocean uplifted by the speed of the wind which shook the city.",
+        "hindi": "i Neer HE र जिविस म न म त ot पक महाराज ने अनुमान कर जब जाना कि हमारे प्यारे राम अव नगर की सीमा के बाहर निकल गए होंगे, तब वे अत्यन्त . दुःखी हो ओर पुत्र का स्मरण कर बिलाप करने लगे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 41,
+      "verse": 14,
+      "sloka": "दिशः पर्याकुलाः सर्वा स्तिमिरेणेव सम्वृताः ।न ग्रहो नापि नक्षत्रं प्रचकाशे न किंचन ॥२-४१-१४॥",
+      "transliteration": "diśaḥ paryākulāḥ sarvā stimireṇeva samvṛtāḥ ।na graho nāpi nakṣatraṁ pracakāśe na kiṁcana ॥2-41-14॥",
+      "translations": {
+        "english": "As if covered with darkness, all the cardinal points became agitated. No planet, no star nor was anything (any heavenly body) shining (in the sky).",
+        "hindi": "वाहनानो--अश्वान वानांमध्येमुख्यानो । ( शि.) . (OT IT i हर नः न : Ss 5 EI; ० ) र हमारे घोड़ों में से जो घोड़े, हमारे पुत्र श्रीरामचन्द्र के रथ में जुत गए हैं, उनके खुरों के निशान तो रास्ते में देख पड़ते हैं, किन्तु वह महात्मा नहीं दिखलाई पड़ता",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 41,
+      "verse": 15,
+      "sloka": "अकस्मान् नागरः सर्वो जनो दैन्यम् उपागमत् ।आहारे वा विहारे वा न कश्चित् अकरोन् मनः ॥२-४१-१५॥",
+      "transliteration": "akasmān nāgaraḥ sarvo jano dainyam upāgamat ।āhāre vā vihāre vā na kaścit akaron manaḥ ॥2-41-15॥",
+      "translations": {
+        "english": "All of a sudden the people of the city became miserable. No one was interested in eating and enjoying (life).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 41,
+      "verse": 16,
+      "sloka": "शोकपर्यायसन्तप्तः सततं दीर्घमुच्छ्वसन् ।अयोध्यायाम् जनः सर्वः शुशोच जगतीपतिम् ॥२-४१-१६॥",
+      "transliteration": "śokaparyāyasantaptaḥ satataṁ dīrghamucchvasan ।ayodhyāyām janaḥ sarvaḥ śuśoca jagatīpatim ॥2-41-16॥",
+      "translations": {
+        "english": "All the citizens of Ayodhya, afflicted with a series of grief and heaving deep sighs ceaselessly bewailed at the sight of the lord of the world (Dasaratha).",
+        "hindi": "बह जनकदुलारी जो सदा निश्चय ही सुख भोगने योग्य है, बन में चलते समय अब उसके पैरों में काँटे चुभे गे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 41,
+      "verse": 17,
+      "sloka": "बाष्प पर्याकुल मुखो राज मार्ग गतः जनः ।न हृष्टः लक्ष्यते कश्चित् सर्वः शोक परायणः ॥२-४१-१७॥",
+      "transliteration": "bāṣpa paryākula mukho rāja mārga gataḥ janaḥ ।na hṛṣṭaḥ lakṣyate kaścit sarvaḥ śoka parāyaṇaḥ ॥2-41-17॥",
+      "translations": {
+        "english": "The faces of the people on the highway were turbid with tears. None looked happy. All were plunged in sorrow.",
+        "hindi": "ओर प्रातःकाल वे भूमि से उदास मन और धूलधूस रित, उसासे लेते हुए, उसी प्रकार उठेंगे, जिस प्रकार झरने के पास से >, ` बैल उठता है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 41,
+      "verse": 18,
+      "sloka": "न वाति पवनः शीतः न शशी सौम्य दर्शनः ।न सूर्यः तपते लोकम् सर्वम् पर्याकुलम् जगत् ॥२-४१-१८॥",
+      "transliteration": "na vāti pavanaḥ śītaḥ na śaśī saumya darśanaḥ ।na sūryaḥ tapate lokam sarvam paryākulam jagat ॥2-41-18॥",
+      "translations": {
+        "english": "The breeze did not blow cool. No more did the Moon look pleasant. The Sun did not give warmth to the world. All the world was agitated.",
+        "hindi": "प्रसबणात्‌-निमरात्‌ | तत्समीपहत्यथ: ।( गो० ) २ का. | मृषम। ( शि०) % पाठान्तरे--कुण्ठितः । E ५०६8५ हू “५-९७ 75 न्य ८00. Nanaji Deshmu पाता Lib Lib 245 ENNIS I Str SEN ४ ८ बन में रहने वाले लोग महाबाहु एवं लोकनाथ श्रीरामचन्द्र को अनाथ की तरह उठ कर जाते हुए देखेंगे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 41,
+      "verse": 19,
+      "sloka": "अनर्थिनः सुताः स्त्रीणाम् भर्तारः भ्रातरः तथा ।सर्वे सर्वम् परित्यज्य रामम् एव अन्वचिन्तयन् ॥२-४१-१९॥",
+      "transliteration": "anarthinaḥ sutāḥ strīṇām bhartāraḥ bhrātaraḥ tathā ।sarve sarvam parityajya rāmam eva anvacintayan ॥2-41-19॥",
+      "translations": {
+        "english": "Mothers stopped thinking of their sons and husbands of their wives. Brothers were no longer interested in each other. Every one deserted every one and thought only of Rama.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 41,
+      "verse": 20,
+      "sloka": "ये तु रामस्य सुहृदः सर्वे ते मूढ चेतसः ।शोक भारेण च आक्रान्ताः शयनम् न जुहुस् तदा ॥२-४१-२०॥",
+      "transliteration": "ye tu rāmasya suhṛdaḥ sarve te mūḍha cetasaḥ ।śoka bhāreṇa ca ākrāntāḥ śayanam na juhus tadā ॥2-41-20॥",
+      "translations": {
+        "english": "All the friends of Rama were stupefied. Afflicted with the burden of sorrow they did not leave their bed.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 41,
+      "verse": 21,
+      "sloka": "ततः तु अयोध्या रहिता महात्मना ।पुरम्दरेण इव मही सपर्वता ।चचाल घोरम् भय भार पीडिता ।सनाग योध अश्व गणा ननाद च ॥२-४१-२१॥",
+      "transliteration": "tataḥ tu ayodhyā rahitā mahātmanā ।puramdareṇa iva mahī saparvatā ।cacāla ghoram bhaya bhāra pīḍitā ।sanāga yodha aśva gaṇā nanāda ca ॥2-41-21॥",
+      "translations": {
+        "english": "Without magnanimous Rama, Ayodhya thereafter looked like the earth along with its mountains bereft of Indra. Afflicted with fear and sorrow it started shaking dreadfully with the sounds of horses, elephants and warriors. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे एकचत्वारिंशस्सर्गः।। Thus ends the fortyfirst sarga of Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+        "hindi": "हे कैकेयी ! तेरी मनसा पूरी हुई । तू अब विधवा होकर राज्य कर, क्योंकि हम तो उस पुरुषसिंह के बिना जीवित नहीं . रह सकते",
+        "telugu": ""
+      }
+    }
+  ]
+}

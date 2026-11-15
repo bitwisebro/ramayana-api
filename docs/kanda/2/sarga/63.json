@@ -1,0 +1,793 @@
+{
+  "kanda": 2,
+  "kanda_name": "Ayodhya Kanda",
+  "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+  "sarga": 63,
+  "verses_count": 56,
+  "verses": [
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 63,
+      "verse": 1,
+      "sloka": "प्रतिबुद्धो मुहुर् तेन शोक उपहत चेतनः ।अथ राजा दशरथः स चिन्ताम् अभ्यपद्यत ॥२-६३-१॥",
+      "transliteration": "pratibuddho muhur tena śoka upahata cetanaḥ ।atha rājā daśarathaḥ sa cintām abhyapadyata ॥2-63-1॥",
+      "translations": {
+        "english": "Waking up in a moment tormented with grief, the king began to ponder once again.",
+        "hindi": "गुणाभिराम, धर्मात्मा श्रीरामचन्द्र जो के वन चले जाने एर, कौसल्या विकल हो, रुदन करती हुई, अपने पति से यह ग्रोलीं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 63,
+      "verse": 2,
+      "sloka": "राम लक्ष्मणयोः चैव विवासात् वासव उपमम् ।आविवेश उपसर्गः तम् तमः सूर्यम् इव आसुरम् ॥२-६३-२॥",
+      "transliteration": "rāma lakṣmaṇayoḥ caiva vivāsāt vāsava upamam ।āviveśa upasargaḥ tam tamaḥ sūryam iva āsuram ॥2-63-2॥",
+      "translations": {
+        "english": "Indralike Dasaratha due to banishment of Rama and Lakshmana, was besieged by a great calamity like the Sun enveloped by demonic dark at the time of eclipse.",
+        "hindi": "अपाठान्तरे---“स्बाती ।” RE हे महाराज ! यद्यपि तीनों लोकों में तुम्हारी यह कीति फेर्॑ हुई है कि, महाराज बड़े दयालु, उदार और प्रियवादी हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 63,
+      "verse": 3,
+      "sloka": "सभार्ये निर्गते रामे कौसल्याम् कोसलेश्वरः ।विवक्षुरसितापाङ्गाम् स्मृवा दुष्कृतमात्मनः ॥२-६३-३॥",
+      "transliteration": "sabhārye nirgate rāme kausalyām kosaleśvaraḥ ।vivakṣurasitāpāṅgām smṛvā duṣkṛtamātmanaḥ ॥2-63-3॥",
+      "translations": {
+        "english": "After Rama had left along with his wife the king of Kosala (Dasaratha) recollected his former evil deed and wanted to narrate it to the darkeyed Kausalya.",
+        "hindi": "तथापि हे पुरुषोत्तम ! (यह तो वतलाओ कि) सीता सहित तुम्हारे वे दोनों पुत्र, जो सुख में पाले पोले गए हें, दुखी हो, किस तरह बन में दुःख सह सकेंगे ?",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 63,
+      "verse": 4,
+      "sloka": "स राजा रजनीम् षष्ठीम् रामे प्रव्रजिते वनम् ।अर्ध रात्रे दशरथः सम्स्मरन् दुष्कृतम् कृतम् ॥२-६३-४॥",
+      "transliteration": "sa rājā rajanīm ṣaṣṭhīm rāme pravrajite vanam ।ardha rātre daśarathaḥ samsmaran duṣkṛtam kṛtam ॥2-63-4॥",
+      "translations": {
+        "english": "After the banishment of Rama the king spent the sixth night, recalling the evil deed done by him in the past.",
+        "hindi": "तरुणी -रब्धयौबना । ( गो० ) २ श्यामा--यौवनमध्यस्था ( गो० ) श्यामातरुण--यौवनमध्यस्था | (गो० ) २ सूपदंश [न्बितं-- शोभनव्यञ्जन सहितं | ( गोऽ ) जो अनिन्दिता सीतां गाने और बजाने की ( र ) ध्वनि ( सदा ) सुना करती थी, इस समय वह क्यों कर, धाद्दारी सिंहों का भयङ्कर शब्द सुन सकेगी ?",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 63,
+      "verse": 5,
+      "sloka": "स राजा पुत्रशोकार्तः स्मरन् दुष्कृतमात्मनः ।कौसल्याम् पुत्र शोक आर्ताम् इदम् वचनम् अब्रवीत् ॥२-६३-५॥",
+      "transliteration": "sa rājā putraśokārtaḥ smaran duṣkṛtamātmanaḥ ।kausalyām putra śoka ārtām idam vacanam abravīt ॥2-63-5॥",
+      "translations": {
+        "english": "King Dasaratha distressed by the separation from his son, pondered over his past misdeed, and said to helpless Kausalya, who was equally grieving over the separation from Rama:",
+        "hindi": "निश्चय ही युवावस्था को प्राप्त वह युबती एवं सुकुमारी सीता जो सुख से रहने योग्य है, किस प्रकार गर्मी सर्दी सह्‌ सकेगी १]४॥ शुक्त्वाऽशनं विशालाक्षी स्रपदंशान्वितंर शुभम्‌ । वन्यं नैवारमाहारं कथं सीतोपभोद्यते",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 63,
+      "verse": 6,
+      "sloka": "यद् आचरति कल्याणि शुभम् वा यदि वा अशुभम् ।तत् एव लभते भद्रे कर्ता कर्मजम् आत्मनः ॥२-६३-६॥",
+      "transliteration": "yad ācarati kalyāṇi śubham vā yadi vā aśubham ।tat eva labhate bhadre kartā karmajam ātmanaḥ ॥2-63-6॥",
+      "translations": {
+        "english": "O gentle auspicious lady a man has to reap the fruit of his action, good or evil.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 63,
+      "verse": 7,
+      "sloka": "गुरु लाघवम् अर्थानाम् आरम्भे कर्मणाम् फलम् ।दोषम् वा यो न जानाति स बालैति ह उच्यते ॥२-६३-७॥",
+      "transliteration": "guru lāghavam arthānām ārambhe karmaṇām phalam ।doṣam vā yo na jānāti sa bālaiti ha ucyate ॥2-63-7॥",
+      "translations": {
+        "english": "He who, at the commencement of any action, does not foresee the good or evil consequences of his action in considered a child.",
+        "hindi": "जो इन्द्रधनुष के समान बड़ी झुजाओं वाले और महावली है, वे अपनी विशाल भुजा तकिए की जगह सिर के नीचे रख कहाँ शयन करते होंगे ?",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 63,
+      "verse": 8,
+      "sloka": "कश्चित् आम्र वणम् चित्त्वा पलाशामः च निषिन्चति ।पुष्पम् दृष्ट्वा फले गृध्नुः स शोचति फल आगमे ॥२-६३-८॥",
+      "transliteration": "kaścit āmra vaṇam cittvā palāśāmaḥ ca niṣincati ।puṣpam dṛṣṭvā phale gṛdhnuḥ sa śocati phala āgame ॥2-63-8॥",
+      "translations": {
+        "english": "If some one cuts down mango trees and plants palasa trees and waters them will repent when he sees only flowers while he expects fruit.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 63,
+      "verse": 9,
+      "sloka": "अविज्ञाय फलम् यो हि कर्म त्वेवानुधावति ।स शोचेत्फलवेLआयाम् यथा किम्शुकसेचकः ॥२-६३-९॥",
+      "transliteration": "avijñāya phalam yo hi karma tvevānudhāvati ।sa śocetphalaveLāyām yathā kimśukasecakaḥ ॥2-63-9॥",
+      "translations": {
+        "english": "Without foreseeing the fruits of his action, he who runs after action only will regret at the time of fruition like the one who waters the palasa tree.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 63,
+      "verse": 10,
+      "sloka": "सो अहम् आम्र वणम् चित्त्वा पलाशामः च न्यषेचयम् ।रामम् फल आगमे त्यक्त्वा पश्चात् शोचामि दुर्मतिः ॥२-६३-१०॥",
+      "transliteration": "so aham āmra vaṇam cittvā palāśāmaḥ ca nyaṣecayam ।rāmam phala āgame tyaktvā paścāt śocāmi durmatiḥ ॥2-63-10॥",
+      "translations": {
+        "english": "So I have cut the mango trees and watered palasa trees. In utter foolishness, I have banished Rama at the time of fruition and regretting later.",
+        "hindi": "वज्रसारमयं नूनं हृदये मे न संशयः । अपश्यन्त्या न तं यह फलतीदं सहस्रथा ॥ &॥ निश्चय ही मेरा दय वज्र का बना हुआ है--इसमें कुछ भी सन्देह नहीं है। क्योंकि यदि ऐसा न होता तो राम को न देखने से इसके सहस्रां टुकड़े हो गए होते ६ ॥ यक्षययाउकरुणं कर्म व्यपोह्य मम बान्धवाः । निरस्ताः परिधावन्ति सुखाहाः कृपणा वने",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 63,
+      "verse": 11,
+      "sloka": "लब्ध शब्देन कौसल्ये कुमारेण धनुष्मता ।कुमारः शब्द वेधी इति मया पापम् इदम् कृतम् ॥२-६३-११॥",
+      "transliteration": "labdha śabdena kausalye kumāreṇa dhanuṣmatā ।kumāraḥ śabda vedhī iti mayā pāpam idam kṛtam ॥2-63-11॥",
+      "translations": {
+        "english": "O Kausalya in my youth I was a great archer who could hit the target by its sound. As such I committed this sin.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 63,
+      "verse": 12,
+      "sloka": "तत् इदम् मे अनुसम्प्राप्तम् देवि दुह्खम् स्वयम् कृतम् ।सम्मोहात् इह बालेन यथा स्यात् भक्षितम् विषम् ॥२-६३-१२॥",
+      "transliteration": "tat idam me anusamprāptam devi duhkham svayam kṛtam ।sammohāt iha bālena yathā syāt bhakṣitam viṣam ॥2-63-12॥",
+      "translations": {
+        "english": "Just as a boy consumes poison out of delusion, O Devi, this sorrow has befallen me as a result of my own action.",
+        "hindi": "कोई कोई श्राद्ध करने वाले विद्वान होकर भा ब्रह्मण को निमंत्रण देते हें किन्तु पहले गुणहीन अपात्र भाईबन्दों को श्राद्ध में भोजन करवाते हैं और पीछे से उन निमंत्रित ब्राह्मणों को बुलाते हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 63,
+      "verse": 13,
+      "sloka": "यथान्यः पुरुषः कश्चित्पलाशैर्मोओहितो भवेत् ।एवम् मम अपि अविज्ञातम् शब्द वेध्यमयम् फलम् ॥२-६३-१३॥",
+      "transliteration": "yathānyaḥ puruṣaḥ kaścitpalāśairmoohito bhavet ।evam mama api avijñātam śabda vedhyamayam phalam ॥2-63-13॥",
+      "translations": {
+        "english": "Like some one who is deluded by palasa trees I too did not realise the consequences of shooting the target following the direction of the sound.",
+        "hindi": "तब उन ब्राह्मशीं में जो गुणवान्‌ एव विद्वान्‌ होते हैं, वे श्राद्ध के अमृत तुल्य भोज्य पदार्थो को मदिरा के समान ( त्याज्य ) क्या नहीं समभते ?",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 63,
+      "verse": 14,
+      "sloka": "देव्य् अनूढा त्वम् अभवो युव राजो भवाम्य् अहम् ।ततः प्रावृड् अनुप्राप्ता मद काम विवर्धिनी ॥२-६३-१४॥",
+      "transliteration": "devy anūḍhā tvam abhavo yuva rājo bhavāmy aham ।tataḥ prāvṛḍ anuprāptā mada kāma vivardhinī ॥2-63-14॥",
+      "translations": {
+        "english": "O Kausalya, you were not married then. I was prince regent. The rainy season that inflames passion and pride had just set in.",
+        "hindi": "यही नहीं बल्कि ) अन्य ब्रह्मणो के भोजन से बचे हुए अन्न को, विद्वान्‌ ब्राह्मण अङ्गोक्रार करने में वैसा ही अपना अनादर समभते हैं, जैसा बैल का अनादर उसके सींगों के काटने से दोता है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 63,
+      "verse": 15,
+      "sloka": "उपास्यहि रसान् भौमाम्स् तप्त्वा च जगद् अम्शुभिः ।परेत आचरिताम् भीमाम् रविर् आविशते दिशम् ॥२-६३-१५॥",
+      "transliteration": "upāsyahi rasān bhaumāms taptvā ca jagad amśubhiḥ ।pareta ācaritām bhīmām ravir āviśate diśam ॥2-63-15॥",
+      "translations": {
+        "english": "Having sucked the waters of the earth and scorching the world with its rays, the Sun had entered the frightful southern quarter ranged by departed souls.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 63,
+      "verse": 16,
+      "sloka": "उष्णम् अन्तर् दधे सद्यः स्निग्धा ददृशिरे घनाः ।ततः जहृषिरे सर्वे भेक सारन्ग बर्हिणः ॥२-६३-१६॥",
+      "transliteration": "uṣṇam antar dadhe sadyaḥ snigdhā dadṛśire ghanāḥ ।tataḥ jahṛṣire sarve bheka sāranga barhiṇaḥ ॥2-63-16॥",
+      "translations": {
+        "english": "At that time the heat subsided, glistening clouds appeared. The frogs, geese and peacocks began to rejoice.",
+        "hindi": "जिस प्रकार व्याघ्र दूसरे के मारे हुए शिकार को खाना पसंद नहीं करता, वैसे ही पुरुष.सेह श्रीराम भी दूसरे की चक्खी हुई वस्तु कदापि अङ्गीकार न करेंगे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 63,
+      "verse": 17,
+      "sloka": "क्लिन्नपक्षोत्तराः स्नाताः कृच्च्रादिव वतत्रिणः ।वृष्टिवातावधूताग्रान् पादपानभिपेदिरे ॥२-६३-१७॥",
+      "transliteration": "klinnapakṣottarāḥ snātāḥ kṛccrādiva vatatriṇaḥ ।vṛṣṭivātāvadhūtāgrān pādapānabhipedire ॥2-63-17॥",
+      "translations": {
+        "english": "The birds with their plummage moistened as if they had dipped in water reached with great difficulty the tops of the trees which were shaken by the wind and rain.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 63,
+      "verse": 18,
+      "sloka": "पतितेन अम्भसा चन्नः पतमानेन च असकृत् ।आबभौ मत्त सारन्गः तोय राशिर् इव अचलः ॥२-६३-१८॥",
+      "transliteration": "patitena ambhasā cannaḥ patamānena ca asakṛt ।ābabhau matta sārangaḥ toya rāśir iva acalaḥ ॥2-63-18॥",
+      "translations": {
+        "english": "Engulfed by torrents of rain that continued to fall ceaselessly, the mountain visited by intoxicated antelopes looked like a mass of water.",
+        "hindi": "टिप्पणी-प्रायः देखने में आता है एक मंड्चा ( यज्ञः स्तम्भ) अनेक वार काम में लाया जाता है,, पर इस वचन से ऐसा होना ठीक नहीं । प्रत्येक विवाह कोय में नया मँडवा बनवाना उचित है । ) तथा ह्यात्तरमिदं राज्यं हृतसारां सुरामिव । नाभिमन्तु“मलं रामो नष्टसोममिवाध्वरम्‌",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 63,
+      "verse": 19,
+      "sloka": "पाण्डुरारुणवर्णानि स्रोओताम्सि विमलान्यपि ।सुस्रुवुर्गिरिधातुभ्यः सभस्मानि भुजङ्गवत् ॥२-६३-१९॥",
+      "transliteration": "pāṇḍurāruṇavarṇāni srootāmsi vimalānyapi ।susruvurgiridhātubhyaḥ sabhasmāni bhujaṅgavat ॥2-63-19॥",
+      "translations": {
+        "english": "Although pure, the rapidly flowing water from the mountains mixed with the minerals in the soil turned white and red in colour and flowed like a serpent.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 63,
+      "verse": 20,
+      "sloka": "आकुलारुणतोयानि स्रोओताम्सि विमलान्यपि ।उन्मार्गजलवाहीनि बभूवुर्जलदागमे ॥२-६३-२०॥",
+      "transliteration": "ākulāruṇatoyāni srootāmsi vimalānyapi ।unmārgajalavāhīni babhūvurjaladāgame ॥2-63-20॥",
+      "translations": {
+        "english": "The streams that were pure, mixed with red soil flowed red, deviating from their natural course.",
+        "hindi": "क्या सत्र लोग यहाँ संग्राम में राम से नहीं डरते ? (अर्थात्‌ रते हें । अतः वह बड़ा बलवान्‌ हे, वह चाहता तो यह राज्य अपने बाहुवल से ले सकता था, किन्तु) वह ( केबल स्वयं ही) धर्मात्मा (नहीं ) है प्रत्युत अधमियों को भी धम पथ पर चलने की शिक्षा देनेवाला है । अतः वह क्योकर, अधम . करे अर्थात्‌ बलपूवक राज्य ले )",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 63,
+      "verse": 21,
+      "sloka": "तस्मिन्न् अतिसुखे काले धनुष्मान् इषुमान् रथी ।व्यायाम कृत सम्कल्पः सरयूम् अन्वगाम् नदीम् ॥२-६३-२१॥",
+      "transliteration": "tasminn atisukhe kāle dhanuṣmān iṣumān rathī ।vyāyāma kṛta samkalpaḥ sarayūm anvagām nadīm ॥2-63-21॥",
+      "translations": {
+        "english": "In that highly delightful season, wishing to go hunting I, armed with bow and arrows, rode my chariot towards river Sarayu.",
+        "hindi": "बड़ी भुजा र वाला और महापराक्रमी राम जो अपने सुन- हले रंग के बाणों से प्रलयकाल के समथ जैसा, ( केवल ) सब प्राणियों ही को (नहीं), समुद्र (तक) को भस्म कर सकता है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 63,
+      "verse": 22,
+      "sloka": "निपाने महिषम् रात्रौ गजम् वा अभ्यागतम् नदीम् ।अन्यम् वा श्वा पदम् कम्चिज् जिघाम्सुर् अजित इन्द्रियः ॥२-६३-२२॥",
+      "transliteration": "nipāne mahiṣam rātrau gajam vā abhyāgatam nadīm ।anyam vā śvā padam kamcij jighāmsur ajita indriyaḥ ॥2-63-22॥",
+      "translations": {
+        "english": "And there, with no control over my senses, I hid in a lonely place with my bow in readiness intending to shoot a buffalo or an elephant or any other wild animal that might come to the spot for drinking water in the night.",
+        "hindi": "हि महामृघधे--नहायुद्ध । (गा०) ६३२ के वह सिंह के समान बलशाली पुरुषश्रेष्ठ राम उसी प्रकार अपने पिता द्वारा मारा पड़ा, जिस प्रकार मछली के बच्चे (अपने पिता ) मत्स्य हारा नप्ट कर दिए जाते हैं. ( मत्स्य अपने संतान को खा डा. ते हैं )",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 63,
+      "verse": 23,
+      "sloka": "तस्मिम्स्तत्राहमेकान्ते रात्रौ विवृतकार्मुकः ।तत्राहम् सम्वृतम् वन्यम् हतवाम्स्तीरमागतम् ॥२-६३-२३॥",
+      "transliteration": "tasmimstatrāhamekānte rātrau vivṛtakārmukaḥ ।tatrāham samvṛtam vanyam hatavāmstīramāgatam ॥2-63-23॥",
+      "translations": {
+        "english": "Hiding and waiting there, following the sounds of animals I killed two animals that had reached the bank of the river.",
+        "hindi": "यदि तुम द्विजो द्वारा आचरित, शास्त्रोक्त सनातन धम मानते होते, तो ऐसे धर्मनिरत पुत्र को देश निकाला कभी न देते",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 63,
+      "verse": 24,
+      "sloka": "अन्यम् चापि मृगम् हिम्स्रम् शब्दम् श्रुत्वाभु पागतम् ।अथ अन्ध कारे तु अश्रौषम् जले कुम्भस्य पर्यतः ॥२-६३-२४॥",
+      "transliteration": "anyam cāpi mṛgam himsram śabdam śrutvābhu pāgatam ।atha andha kāre tu aśrauṣam jale kumbhasya paryataḥ ॥2-63-24॥",
+      "translations": {
+        "english": "Then at a place that was out of the range of my sight in darkness I heard the sound of a pitcher being filled with water which resembled the sound of an elephant.",
+        "hindi": "हे महार।ज ! खी क लिए पहला सहारा पति का, दूसरा पुत्र क्रा और दीसरा भाईबंरों का है | खी के लिए चौथा सहारा तो कोई है ही नहीं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 63,
+      "verse": 25,
+      "sloka": "अचक्षुर् विषये घोषम् वारणस्य इव नर्दतः ।ततः अहम् शरम् उद्धृत्य दीप्तम् आशी विष उपमम् ॥२-६३-२५॥",
+      "transliteration": "acakṣur viṣaye ghoṣam vāraṇasya iva nardataḥ ।tataḥ aham śaram uddhṛtya dīptam āśī viṣa upamam ॥2-63-25॥",
+      "translations": {
+        "english": "Wishing to kill the elephant, I seized my arrow glowing like a venomous snake and aimed it towards the sound.",
+        "hindi": "इनमें से तुम तो मेर हो ही नहीं ( और मेरे दूसरे सहारे राम को, तुमने बन भेज ही दिया है । तुमको छोड़ मैं वन भी नहीं जा सकती । तुमने तो मुझे वारहवाट कर दिया ( अर्थात्‌ मुझे कहीं का नहीं रखा, सव तरह से वरबाद कर दिया )",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 63,
+      "verse": 26,
+      "sloka": "शब्दम् प्रति गजप्रेप्सुरभिलक्ष्य त्वपातयम् ।अमुन्चम् निशितम् बाणम् अहम् आशी विष उपमम् ॥२-६३-२६॥",
+      "transliteration": "śabdam prati gajaprepsurabhilakṣya tvapātayam ।amuncam niśitam bāṇam aham āśī viṣa upamam ॥2-63-26॥",
+      "translations": {
+        "english": "Then I discharged a sharp shaft like a venomous serpent. In the morning twilight I saw that the shaft had hit the vital part of the body of a forest dweller and his cry of 'Alas', was clearly heard as he fell in the water.",
+        "hindi": "र ६३३ हे महाराज ! ( तुमने श्रीराम को वन में भेज कर ) अनेक छोटे राज्यां सहित इप विशाल राज्य को, रंत्रियों i अपने आपको, पुत्र सहित मुकको और समम्त अयोध्यावासियों को बरबाद कर डाला। ( तुम्हारे इस काय से प्रसन्न केवल दो ही हैं ) तुम्हारो भार्या कै फेयो आर उसका पुत्र भरत",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 63,
+      "verse": 27,
+      "sloka": "तत्र वाग् उषसि व्यक्ता प्रादुर् आसीद् वन ओकसः ।हा हा इति पततः तोये बाणाभिहतमर्मणः ॥२-६३-२७॥",
+      "transliteration": "tatra vāg uṣasi vyaktā prādur āsīd vana okasaḥ ।hā hā iti patataḥ toye bāṇābhihatamarmaṇaḥ ॥2-63-27॥",
+      "translations": {
+        "english": "Then I discharged a sharp shaft like a venomous serpent. In the morning twilight I saw that the shaft had hit the vital part of the body of a forest dweller and his cry of 'Alas', was clearly heard as he fell in the water.",
+        "hindi": "॥ इति इकपष्टितमः सग; ॥ द्विपष्टितमः सग कौसल्या के इस प्रकार के कठोर वचन सुन, महाराज म Da में अत्यन्त दुःखी हो मूर्छित हो गए आर शोकसागर में निमन्न हो» वे इस दुःख का आदिकारण विचारने लगे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 63,
+      "verse": 28,
+      "sloka": "तस्मिन्निपतिते बाणे वागभूत्तत्र मानुषी ।कथम् अस्मद् विधे शस्त्रम् निपतेत् तु तपस्विनि ॥२-६३-२८॥",
+      "transliteration": "tasminnipatite bāṇe vāgabhūttatra mānuṣī ।katham asmad vidhe śastram nipatet tu tapasvini ॥2-63-28॥",
+      "translations": {
+        "english": "When the arrow hit him, a man's voice was heard saying, 'How can an arrow be discharged at a person like me who is an ascetic?'",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 63,
+      "verse": 29,
+      "sloka": "प्रविविक्ताम् नदीम् रात्राव् उदाहारः अहम् आगतः ।इषुणा अभिहतः केन कस्य वा किम् कृतम् मया ॥२-६३-२९॥",
+      "transliteration": "praviviktām nadīm rātrāv udāhāraḥ aham āgataḥ ।iṣuṇā abhihataḥ kena kasya vā kim kṛtam mayā ॥2-63-29॥",
+      "translations": {
+        "english": "'I have come to this lonely spot of the river to take water. Who has hit me with this arrow? What (harm) have I done to any one?'",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 63,
+      "verse": 30,
+      "sloka": "ऋषेर् हि न्यस्त दण्डस्य वने वन्येन जीवतः ।कथम् नु शस्त्रेण वधो मद् विधस्य विधीयते ॥२-६३-३०॥",
+      "transliteration": "ṛṣer hi nyasta daṇḍasya vane vanyena jīvataḥ ।katham nu śastreṇa vadho mad vidhasya vidhīyate ॥2-63-30॥",
+      "translations": {
+        "english": "'Renouncing violence I live the life of an ascetic on forest produce. Why should any one kill me with a weapon?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 63,
+      "verse": 31,
+      "sloka": "जटा भार धरस्य एव वल्कल अजिन वाससः ।को वधेन मम अर्थी स्यात् किम् वा अस्य अपकृतम् मया ॥२-६३-३१॥",
+      "transliteration": "jaṭā bhāra dharasya eva valkala ajina vāsasaḥ ।ko vadhena mama arthī syāt kim vā asya apakṛtam mayā ॥2-63-31॥",
+      "translations": {
+        "english": "'Who wants to kill me who lives like an ascetic with matted hair and wearing bark or the skin of an antelope? What harm have I done to him?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 63,
+      "verse": 32,
+      "sloka": "एवम् निष्फलम् आरब्धम् केवल अनर्थ सम्हितम् ।न कश्चित् साधु मन्येत यथैव गुरु तल्पगम् ॥२-६३-३२॥",
+      "transliteration": "evam niṣphalam ārabdham kevala anartha samhitam ।na kaścit sādhu manyeta yathaiva guru talpagam ॥2-63-32॥",
+      "translations": {
+        "english": "'Whoever it is, he has committed only a mischievous and senseless act. This sin like a disciple sleeping on the bed of his preceptor none will approve of.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 63,
+      "verse": 33,
+      "sloka": "नहम् तथा अनुशोचामि जीवित क्षयम् आत्मनः ।मातरम् पितरम् च उभाव् अनुशोचामि मद् विधे ॥२-६३-३३॥",
+      "transliteration": "naham tathā anuśocāmi jīvita kṣayam ātmanaḥ ।mātaram pitaram ca ubhāv anuśocāmi mad vidhe ॥2-63-33॥",
+      "translations": {
+        "english": "'I do not regret so much about the loss of my own life as about my mother and father after I am dead.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 63,
+      "verse": 34,
+      "sloka": "तत् एतान् मिथुनम् वृद्धम् चिर कालभृतम् मया ।मयि पन्चत्वम् आपन्ने काम् वृत्तिम् वर्तयिष्यति ॥२-६३-३४॥",
+      "transliteration": "tat etān mithunam vṛddham cira kālabhṛtam mayā ।mayi pancatvam āpanne kām vṛttim vartayiṣyati ॥2-63-34॥",
+      "translations": {
+        "english": "'So long I have been supporting this aged couple. After I am dead, how will they live?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 63,
+      "verse": 35,
+      "sloka": "वृद्धौ च माता पितराव् अहम् च एक इषुणा हतः ।केन स्म निहताः सर्वे सुबालेन अकृत आत्मना ॥२-६३-३५॥",
+      "transliteration": "vṛddhau ca mātā pitarāv aham ca eka iṣuṇā hataḥ ।kena sma nihatāḥ sarve subālena akṛta ātmanā ॥2-63-35॥",
+      "translations": {
+        "english": "'My aged parents along with me are killed by a single arrow. Who is that malicious knave who has slain us?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 63,
+      "verse": 36,
+      "sloka": "तम् गिरम् करुणाम् श्रुत्वा मम धर्म अनुकान्क्षिणः ।कराभ्याम् सशरम् चापम् व्यथितस्य अपतत् भुवि ॥२-६३-३६॥",
+      "transliteration": "tam giram karuṇām śrutvā mama dharma anukānkṣiṇaḥ ।karābhyām saśaram cāpam vyathitasya apatat bhuvi ॥2-63-36॥",
+      "translations": {
+        "english": "On hearing the piteous voice the bow and arrow dropped from my (trembling) hands since I was keen on following the righteous path.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 63,
+      "verse": 37,
+      "sloka": "तस्याहम् करुणम् श्रुत्वा निशि लालपतो बहु ।सम्भ्रानतः शोकवेगेन भृशमास विचेतनः ॥२-६३-३७॥",
+      "transliteration": "tasyāham karuṇam śrutvā niśi lālapato bahu ।sambhrānataḥ śokavegena bhṛśamāsa vicetanaḥ ॥2-63-37॥",
+      "translations": {
+        "english": "Having heard his pathetic lamentations at night, I was extremely frightened by the force of grief and stood bewildered.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 63,
+      "verse": 38,
+      "sloka": "तम् देशम् अहम् आगम्य दीन सत्त्वः सुदुर्मनाः ।अपश्यम् इषुणा तीरे सरय्वाः तापसम् हतम् ॥२-६३-३८॥",
+      "transliteration": "tam deśam aham āgamya dīna sattvaḥ sudurmanāḥ ।apaśyam iṣuṇā tīre sarayvāḥ tāpasam hatam ॥2-63-38॥",
+      "translations": {
+        "english": "With dissipated energy and intensely troubled mind, I reached the bank of river Sarayu and there I saw the ascetic lying struck by the arrow and with scattered locks of hair. The water pitcher was thrown away and his body smeared with blood and dust as he lay on the ground.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 63,
+      "verse": 39,
+      "sloka": "अवकीर्णजटाभारम् प्रविद्धकलशोदकम् ।पासुशोणितदिग्धाङ्गम् शयानम् शल्यपीडितम् ॥२-६३-३९॥",
+      "transliteration": "avakīrṇajaṭābhāram praviddhakalaśodakam ।pāsuśoṇitadigdhāṅgam śayānam śalyapīḍitam ॥2-63-39॥",
+      "translations": {
+        "english": "With dissipated energy and intensely troubled mind, I reached the bank of river Sarayu and there I saw the ascetic lying struck by the arrow and with scattered locks of hair. The water pitcher was thrown away and his body smeared with blood and dust as he lay on the ground.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 63,
+      "verse": 40,
+      "sloka": "स माम् उद्वीक्ष्य नेत्राभ्याम् त्रस्तम् अस्वस्थ चेतसम् ।इति उवाच वचः क्रूरम् दिधक्षन्न् इव तेजसा ॥२-६३-४०॥",
+      "transliteration": "sa mām udvīkṣya netrābhyām trastam asvastha cetasam ।iti uvāca vacaḥ krūram didhakṣann iva tejasā ॥2-63-40॥",
+      "translations": {
+        "english": "I was mentally stricken and frightened. He looked up as if buring me with the energy of his eyes. Then he uttered the words 'A cruel act'",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 63,
+      "verse": 41,
+      "sloka": "किम् तव अपकृतम् राजन् वने निवसता मया ।जिहीर्षिउर् अम्भो गुर्व् अर्थम् यद् अहम् ताडितः त्वया ॥२-६३-४१॥",
+      "transliteration": "kim tava apakṛtam rājan vane nivasatā mayā ।jihīrṣiur ambho gurv artham yad aham tāḍitaḥ tvayā ॥2-63-41॥",
+      "translations": {
+        "english": "'O king you have struck me when I was trying to carry water to my parents. I am a forestdweller. What harm have I done to you?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 63,
+      "verse": 42,
+      "sloka": "एकेन खलु बाणेन मर्मणि अभिहते मयि ।द्वाव् अन्धौ निहतौ वृद्धौ माता जनयिता च मे ॥२-६३-४२॥",
+      "transliteration": "ekena khalu bāṇena marmaṇi abhihate mayi ।dvāv andhau nihatau vṛddhau mātā janayitā ca me ॥2-63-42॥",
+      "translations": {
+        "english": "'By striking at the vital part of my body with one arrow, you have killed both my aged and blind mother and father too.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 63,
+      "verse": 43,
+      "sloka": "तौ नूनम् दुर्बलाव् अन्धौ मत् प्रतीक्षौ पिपासितौ ।चिरम् आशा कृताम् तृष्णाम् कष्टाम् सम्धारयिष्यतः ॥२-६३-४३॥",
+      "transliteration": "tau nūnam durbalāv andhau mat pratīkṣau pipāsitau ।ciram āśā kṛtām tṛṣṇām kaṣṭām samdhārayiṣyataḥ ॥2-63-43॥",
+      "translations": {
+        "english": "'How will the two who are frail, thirsty and blind wait for me for long controlling their thirst with great difficulty with the expectation (that I would fetch them water)?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 63,
+      "verse": 44,
+      "sloka": "न नूनम् तपसो वा अस्ति फल योगः श्रुतस्य वा ।पिता यन् माम् न जानाति शयानम् पतितम् भुवि ॥२-६३-४४॥",
+      "transliteration": "na nūnam tapaso vā asti phala yogaḥ śrutasya vā ।pitā yan mām na jānāti śayānam patitam bhuvi ॥2-63-44॥",
+      "translations": {
+        "english": "'My father does not know that I am lying on the ground. It is true that there is no reward either for asceticism or for scriptural knowledge.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 63,
+      "verse": 45,
+      "sloka": "जानन्न् अपि च किम् कुर्यात् अशक्तिर् अपरिक्रमः ।चिद्यमानम् इव अशक्तः त्रातुम् अन्यो नगो नगम् ॥२-६३-४५॥",
+      "transliteration": "jānann api ca kim kuryāt aśaktir aparikramaḥ ।cidyamānam iva aśaktaḥ trātum anyo nago nagam ॥2-63-45॥",
+      "translations": {
+        "english": "'What can my weak father who has no strength to walk do, even if he knows about it? Like a tree which cannot protect another which is being severed, he is helpless.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 63,
+      "verse": 46,
+      "sloka": "पितुस् त्वम् एव मे गत्वा शीघ्रम् आचक्ष्व राघव ।न त्वाम् अनुदहेत् क्रुद्धो वनम् वह्निर् इव एधितः ॥२-६३-४६॥",
+      "transliteration": "pitus tvam eva me gatvā śīghram ācakṣva rāghava ।na tvām anudahet kruddho vanam vahnir iva edhitaḥ ॥2-63-46॥",
+      "translations": {
+        "english": "O scion of the Raghus (Dasaratha) Go at once and inform my father, lest in anger he should burn you like ignited fire consuming the forest.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 63,
+      "verse": 47,
+      "sloka": "इयम् एक पदी राजन् यतः मे पितुर् आश्रमः ।तम् प्रसादय गत्वा त्वम् न त्वाम् स कुपितः शपेत् ॥२-६३-४७॥",
+      "transliteration": "iyam eka padī rājan yataḥ me pitur āśramaḥ ।tam prasādaya gatvā tvam na tvām sa kupitaḥ śapet ॥2-63-47॥",
+      "translations": {
+        "english": "'O king, this footpath leads to my father's hermitage. Go and beg his forgiveness so that he may not curse you out of anger.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 63,
+      "verse": 48,
+      "sloka": "विशल्यम् कुरु माम् राजन् मर्म मे निशितः शरः ।रुणद्धि मृदु स उत्सेधम् तीरम् अम्बु रयो यथा ॥२-६३-४८॥",
+      "transliteration": "viśalyam kuru mām rājan marma me niśitaḥ śaraḥ ।ruṇaddhi mṛdu sa utsedham tīram ambu rayo yathā ॥2-63-48॥",
+      "translations": {
+        "english": "'Gently remove the arrow from my body, O king the sharp arrow is piercing deep into my vital just like the current of the river hits its elevated bank'.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 63,
+      "verse": 49,
+      "sloka": "सशल्यः क्लिश्यते प्राणैर्विशल्यो विनशिष्यति ।इति मामविशच्चिन्ता तस्य शल्यापकर्षणे ॥२-६३-४९॥",
+      "transliteration": "saśalyaḥ kliśyate prāṇairviśalyo vinaśiṣyati ।iti māmaviśaccintā tasya śalyāpakarṣaṇe ॥2-63-49॥",
+      "translations": {
+        "english": "The thought of removing the arrow kept me pondering. If not removed, it will be painful, and if removed, he will die.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 63,
+      "verse": 50,
+      "sloka": "दुःखितस्य च दीनस्य मम शोकातुरस्य च ।लक्ष्यामास हृदये चिन्ताम् मुनिसुत स्तदा ॥२-६३-५०॥",
+      "transliteration": "duḥkhitasya ca dīnasya mama śokāturasya ca ।lakṣyāmāsa hṛdaye cintām munisuta stadā ॥2-63-50॥",
+      "translations": {
+        "english": "The son of the ascetic noticed my anguish and seeing me thus distressed, wretched and afflicted with sorrow, said:",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 63,
+      "verse": 51,
+      "sloka": "ताम्यमानः स माम् दुःखादुवाच परमार्तवत् ।सीदमानो विवृत्ताङ्गो वेष्टमानो गतः क्षयम् ॥२-६३-५१॥",
+      "transliteration": "tāmyamānaḥ sa mām duḥkhāduvāca paramārtavat ।sīdamāno vivṛttāṅgo veṣṭamāno gataḥ kṣayam ॥2-63-51॥",
+      "translations": {
+        "english": "Suffering from excruciating pain, sinking with his limbs twisting and writhing and plunging into death and destruction, with intense agony he uttered the following words with great difficulty:",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 63,
+      "verse": 52,
+      "sloka": "सम्स्तभ्य धैर्येण स्थिरचित्तो भवाम्यहम् ।ब्रह्महत्याकृतम् पापम् हृदयादपनीयताम् ॥२-६३-५२॥",
+      "transliteration": "samstabhya dhairyeṇa sthiracitto bhavāmyaham ।brahmahatyākṛtam pāpam hṛdayādapanīyatām ॥2-63-52॥",
+      "translations": {
+        "english": "'I am now calm. I bear my pain with patience. Remove the fear from your mind that you have committed a sin by slaying a brahmin.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 63,
+      "verse": 53,
+      "sloka": "न द्विजातिर् अहम् राजन् मा भूत् ते मनसो व्यथा ।शूद्रायाम् अस्मि वैश्येन जातः जन पद अधिप ॥२-६३-५३॥",
+      "transliteration": "na dvijātir aham rājan mā bhūt te manaso vyathā ।śūdrāyām asmi vaiśyena jātaḥ jana pada adhipa ॥2-63-53॥",
+      "translations": {
+        "english": "'O king Dasaratha, lord of the land, I am not a brahmin. Feel no sense of guilt in your mind. I was born of a sudra mother and a vaisya father.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 63,
+      "verse": 54,
+      "sloka": "इति इव वदतः कृच्च्रात् बाण अभिहत मर्मणः ।विघूर्णतो विचेष्टस्य वेपमाचस्य भूतले ॥२-६३-५४॥",
+      "transliteration": "iti iva vadataḥ kṛccrāt bāṇa abhihata marmaṇaḥ ।vighūrṇato viceṣṭasya vepamācasya bhūtale ॥2-63-54॥",
+      "translations": {
+        "english": "\"Then, gentle lady, seeing him lying on the Sarayu, lamenting in his distress, his limbs wet with water, gasping unceasingly and wounded to the quick, I was most deeply stricken.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 63,
+      "verse": 55,
+      "sloka": "तस्य तु आनम्यमानस्य तम् बाणम् अहम् उद्धरम् ।तस्य त्वानम्यमानस्य तम् बाणामहमुद्धरम् ॥२-६३-५५॥",
+      "transliteration": "tasya tu ānamyamānasya tam bāṇam aham uddharam ।tasya tvānamyamānasya tam bāṇāmahamuddharam ॥2-63-55॥",
+      "translations": {
+        "english": "",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 63,
+      "verse": 56,
+      "sloka": "जल आर्द्र गात्रम् तु विलप्य कृच्चान् ।मर्म व्रणम् सम्ततम् उच्चसन्तम् ।ततः सरय्वाम् तम् अहम् शयानम् ।समीक्ष्य भद्रे सुभृशम् विषण्णः ॥२-६३-५६॥",
+      "transliteration": "jala ārdra gātram tu vilapya kṛccān ।marma vraṇam samtatam uccasantam ।tataḥ sarayvām tam aham śayānam ।samīkṣya bhadre subhṛśam viṣaṇṇaḥ ॥2-63-56॥",
+      "translations": {
+        "english": "",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,457 @@
+{
+  "kanda": 7,
+  "kanda_name": "Uttara Kanda",
+  "kanda_name_sanskrit": "उत्तरकाण्डम्",
+  "sarga": 20,
+  "verses_count": 32,
+  "verses": [
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 20,
+      "verse": 1,
+      "sloka": "ततो वित्रासयन्मर्त्यान्पृथिव्यां राक्षसाधिपः ।आससाद घने तस्मिन्नारदं मुनिपुङ्गवम् ।। ७.२०.१ ॥",
+      "transliteration": "tato vitrāsayanmartyānpṛthivyāṁ rākṣasādhipaḥ ।āsasāda ghane tasminnāradaṁ munipuṅgavam ।। 7.20.1 ॥",
+      "translations": {
+        "english": "Then, the lord of demons, terrifying mortals on earth, met Narada, the foremost among sages, in that dense region.",
+        "hindi": "—— नोना ८ € एकोनशबिः सग : अथ जिला मरुत्त स प्रययौ राक्षसाधिपः । नगराणि नरेन्द्राणां युद्ठाकांती दशाननः",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 20,
+      "verse": 2,
+      "sloka": "तस्याभिवादनं कृत्वा दशग्रीवो निशाचरः ।अब्रवीत्कुशलं पृष्ट्वा हेतुमागमनस्य च ।। ७.२०.२ ॥",
+      "transliteration": "tasyābhivādanaṁ kṛtvā daśagrīvo niśācaraḥ ।abravītkuśalaṁ pṛṣṭvā hetumāgamanasya ca ।। 7.20.2 ॥",
+      "translations": {
+        "english": "Having offered his salutations, Dashagriva, the night-wanderer, spoke after inquiring about his well-being and the reason for his arrival.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 20,
+      "verse": 3,
+      "sloka": "नारदस्तु महातेजा देवर्षिरमितप्रभः ।अब्रवीन्मेघपृष्ठस्थो रावणं पुष्पके स्थितम् ।। ७.२०.३ ॥",
+      "transliteration": "nāradastu mahātejā devarṣiramitaprabhaḥ ।abravīnmeghapṛṣṭhastho rāvaṇaṁ puṣpake sthitam ।। 7.20.3 ॥",
+      "translations": {
+        "english": "The divine sage Narada, of immense splendor and effulgence, spoke to Ravana, who was seated in the Pushpaka chariot, while Narada himself was positioned on a cloud-top.",
+        "hindi": "अथवा मुझसे आपना हार साना! क्याक सन यहा ।नम्चय कर रखा है कि, जो राजा इन दो बातों में से एक भी स्वीकार न करेगा उसका किसी प्रकार से छुटकारा न हो सकगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 20,
+      "verse": 4,
+      "sloka": "राक्षसाधिपते सौम्य तिष्ठ विश्रवसः सुत ।प्रीतो ऽस्म्यभिजनोपेतविक्रमैरूर्जितैस्तव ।। ७.२०.४ ॥",
+      "transliteration": "rākṣasādhipate saumya tiṣṭha viśravasaḥ suta ।prīto 'smyabhijanopetavikramairūrjitaistava ।। 7.20.4 ॥",
+      "translations": {
+        "english": "\"O gentle lord of Rakshasas, son of Vishravas, stop,\" Narada said, \"I am pleased by your mighty valor, which is befitting your noble lineage.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 20,
+      "verse": 5,
+      "sloka": "विष्णुना दैत्यघातैश्च गन्धर्वोरगधर्षणैः ।त्वया समं विमर्दैश्च भृशं हि परितोषितः ।। ७.२०.५ ॥",
+      "transliteration": "viṣṇunā daityaghātaiśca gandharvoragadharṣaṇaiḥ ।tvayā samaṁ vimardaiśca bhṛśaṁ hi paritoṣitaḥ ।। 7.20.5 ॥",
+      "translations": {
+        "english": "I am indeed greatly pleased by your battles, which are comparable to Vishnu's slaying of demons and your subjugation of Gandharvas and Uragas.",
+        "hindi": "हम सब तुमसे अपनी हार सादते हैं । ( थह उन्होंने इस लिए कहा था कि ) वे जानते थे कि, रावण को बरदान का बल है | अतः राज्ञा दुष्यन्त, सुरथ, गाधि, गय और पुरूरवा आदि सब राजाओं ने कह दिआ कि, हम तुमसे पराजित हुए । तदनन्तर रावण अयोध्यापुरी सें पहुँचा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 20,
+      "verse": 6,
+      "sloka": "किंचिद्वक्ष्यामि तावत्ते श्रोतव्यं श्रोष्यसे यदि ।श्रुत्वा चानन्तरं कार्यं त्वया राक्षससत्तम ।तन्मे निगदतस्तात समाधिं श्रवणे कुरु ।। ७.२०.६ ॥",
+      "transliteration": "kiṁcidvakṣyāmi tāvatte śrotavyaṁ śroṣyase yadi ।śrutvā cānantaraṁ kāryaṁ tvayā rākṣasasattama ।tanme nigadatastāta samādhiṁ śravaṇe kuru ।। 7.20.6 ॥",
+      "translations": {
+        "english": "I will first tell you something that should be heard, if you are willing to listen, and after hearing it, you, O best of Rakshasas, must act upon it; therefore, O dear one, pay close attention to my words.",
+        "hindi": "॥ अयाऽणाधिपतिस्तस्य श्रत्वा पापात्मनो वचः छः है IN! श्‌ को 09५ आवरण्यस्तु संक्रद्ों राक्सेन्द्रमशात्रवीत्‌ ॥ & किन्त अयोध्याधिपति महाराज अनरण्य ने उस पापी के यह वचन सुन और कध हो राक्षसराज रावण से कहा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 20,
+      "verse": 7,
+      "sloka": "किमयं वध्यते तात त्वया ऽवध्येन दैवतैः ।हत एव ह्ययं लोको यदा मृत्युवशं गतः ।। ७.२०.७ ।।्तम ।देवदानवदैत्यानां यक्षगन्धर्वरक्षसाम् ।अवध्येन त्वया लोकः क्लेष्टुं युक्तो न मानुषः ।। ७.२०.८ ॥",
+      "transliteration": "kimayaṁ vadhyate tāta tvayā 'vadhyena daivataiḥ ।hata eva hyayaṁ loko yadā mṛtyuvaśaṁ gataḥ ।। 7.20.7 ।।्tama ।devadānavadaityānāṁ yakṣagandharvarakṣasām ।avadhyena tvayā lokaḥ kleṣṭuṁ yukto na mānuṣaḥ ।। 7.20.8 ॥",
+      "translations": {
+        "english": "O dear one, why do you kill this world, which is already destined to die and cannot be killed by the gods, when it is already under the sway of death?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 20,
+      "verse": 8,
+      "sloka": "नित्यं श्रेयसि सम्मूढं महद्भिर्व्यसनैर्वृतम् ।हन्यात्कस्तादृशं लोकं जराव्याधिशतैर्युतम् ।। ७.२०.९ ॥",
+      "transliteration": "nityaṁ śreyasi sammūḍhaṁ mahadbhirvyasanairvṛtam ।hanyātkastādṛśaṁ lokaṁ jarāvyādhiśatairyutam ।। 7.20.9 ॥",
+      "translations": {
+        "english": "It is not proper for you, who are invincible to gods, danavas, daityas, yakshas, gandharvas, and rakshasas, to torment the human world.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 20,
+      "verse": 9,
+      "sloka": "तैस्तैरनिष्टोपगमैरजस्रं यत्र कुत्र कः ।मतिमान्मानुषे लोके युद्धेन प्रणयी भवेत् ।। ७.२०.१० ॥",
+      "transliteration": "taistairaniṣṭopagamairajasraṁ yatra kutra kaḥ ।matimānmānuṣe loke yuddhena praṇayī bhavet ।। 7.20.10 ॥",
+      "translations": {
+        "english": "Who would kill such people who are constantly bewildered about their welfare, surrounded by great misfortunes, and afflicted by hundreds of old age and diseases?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 20,
+      "verse": 10,
+      "sloka": "क्षीयमाणं दैवहतं श्रुत्पिपासाजरादिभिः ।विषादशोकसम्मूढं लोकं त्वं क्षपयस्व मा ।। ७.२०.११ ॥",
+      "transliteration": "kṣīyamāṇaṁ daivahataṁ śrutpipāsājarādibhiḥ ।viṣādaśokasammūḍhaṁ lokaṁ tvaṁ kṣapayasva mā ।। 7.20.11 ॥",
+      "translations": {
+        "english": "Who among the intelligent would be fond of war in the human world, which is constantly afflicted by various undesirable occurrences everywhere?",
+        "hindi": "हे राक्षसराज ! ठहर जा । मैं तुमसे हन्द्रयुद्ध करता हुँ । तू भी सावधान हो चा और में भी लड़ने के लिए तयार होता हूँ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 20,
+      "verse": 11,
+      "sloka": "पश्य तावन्महाबाहो राक्षसेश्वर मानुषम् ।मूढमेवं विचित्रार्थं यस्य न ज्ञायते गतिः ।। ७.२०.१२ ॥",
+      "transliteration": "paśya tāvanmahābāho rākṣaseśvara mānuṣam ।mūḍhamevaṁ vicitrārthaṁ yasya na jñāyate gatiḥ ।। 7.20.12 ॥",
+      "translations": {
+        "english": "Do not you destroy the human world, which is already wasting away, struck by fate, afflicted by hunger, thirst, old age, and other miseries, and bewildered by dejection and sorrow.",
+        "hindi": "महाराज अनरण्य ने पहिले ही रावण का वृत्तान्त सुन कर, अपनी सेना सजा रक्खी थी, सो उनकी वह सेना राक्षस को वध करने को निकली",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 20,
+      "verse": 12,
+      "sloka": "क्वचिद्वादित्रनृत्यादि सेव्यते मुदितैर्जनैः ।रुद्यते चापरैरार्तैर्धाराश्रुनयनाननैः ।। ७.२०.१३ ॥",
+      "transliteration": "kvacidvāditranṛtyādi sevyate muditairjanaiḥ ।rudyate cāparairārtairdhārāśrunayanānanaiḥ ।। 7.20.13 ॥",
+      "translations": {
+        "english": "O mighty-armed lord of Rakshasas, just behold the human being, who is so foolish and whose strange nature or destiny is not truly known.",
+        "hindi": "हे पुरुषश्रेष्ठ ! उस सेना में दस हजार हाथी, एक लाख घोड़े तथा सहस्रो घुड़सवार तथा पैदल सेनिक थे;",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 20,
+      "verse": 13,
+      "sloka": "मातापितृसुतस्नेहैर्भार्याबन्धुमनोरमैः ।मोहितो ऽयं जनो ध्वस्तः क्लेशं स्वं नावबुध्यते ।। ७.२०.१४ ॥",
+      "transliteration": "mātāpitṛsutasnehairbhāryābandhumanoramaiḥ ।mohito 'yaṁ jano dhvastaḥ kleśaṁ svaṁ nāvabudhyate ।। 7.20.14 ॥",
+      "translations": {
+        "english": "At times, joyful people engage in music and dance, while at other times, distressed individuals weep with faces and eyes streaming with tears.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 20,
+      "verse": 14,
+      "sloka": "अलमेनं परिक्लिश्य लोकं मोहनिराकृतम् ।जित एव त्वया सौम्य मर्त्यलोको न संशयः ।। ७.२०.१५ ॥",
+      "transliteration": "alamenaṁ parikliśya lokaṁ mohanirākṛtam ।jita eva tvayā saumya martyaloko na saṁśayaḥ ।। 7.20.15 ॥",
+      "translations": {
+        "english": "Deluded by affection for parents, children, charming wives, and relatives, this afflicted person does not comprehend his own suffering.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 20,
+      "verse": 15,
+      "sloka": "अवश्यमेभिः सर्वैश्च गन्तव्यं यमसादनम् ।तन्निगृह्णीष्व पौलस्त्य यमं परपुरञ्जय ।। ७.२०.१६ ॥",
+      "transliteration": "avaśyamebhiḥ sarvaiśca gantavyaṁ yamasādanam ।tannigṛhṇīṣva paulastya yamaṁ parapurañjaya ।। 7.20.16 ॥",
+      "translations": {
+        "english": "Enough of tormenting this world, which is already overcome by delusion; O gentle one, the mortal world has indeed been conquered by you, there is no doubt about it.",
+        "hindi": "कुछ देर तक उत्तम विक्रम प्रकाश कर वैसे ही नष्ट हो गई जैसे अग्नि में डाली हुई होम की सामग्री भस्म हो जाती है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 20,
+      "verse": 16,
+      "sloka": "तस्मिञ्जिते जितं सर्वं भवत्येव न संशयः ।एवमुक्तस्तु लङ्केशो दीप्यमानं स्वतेजसा ।अब्रवीन्नारदं तत्र सम्प्रहस्याभिवाद्य च ।। ७.२०.१७ ॥",
+      "transliteration": "tasmiñjite jitaṁ sarvaṁ bhavatyeva na saṁśayaḥ ।evamuktastu laṅkeśo dīpyamānaṁ svatejasā ।abravīnnāradaṁ tatra samprahasyābhivādya ca ।। 7.20.17 ॥",
+      "translations": {
+        "english": "All these beings must inevitably go to the abode of Yama, therefore, O son of Pulastya, O conqueror of enemy cities, subdue Yama himself.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 20,
+      "verse": 17,
+      "sloka": "महर्षे देवगन्धर्वविहार समरप्रिय ।अहं समुद्यतो गन्तुं विजयार्थं रसातलम् ।। ७.२०.१८ ॥",
+      "transliteration": "maharṣe devagandharvavihāra samarapriya ।ahaṁ samudyato gantuṁ vijayārthaṁ rasātalam ।। 7.20.18 ॥",
+      "translations": {
+        "english": "When Yama is conquered, everything is indeed conquered, there is no doubt; thus addressed, the lord of Lanka, shining with his own splendor, then spoke to Narada, having laughed heartily and saluted him.",
+        "hindi": "महाराज अनरण्य ने देखा कि, जैसे सैकड़ों नदियाँ समुद्र गिर कर बिला जाती हैं; बेसे ही उनकी सेना रावण द्वारा ला दी गई अर्थात्‌ नष्ट कर दी गई",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 20,
+      "verse": 18,
+      "sloka": "ततो लोकत्रयं जित्वा स्थाप्य नागान्सुरान्वशे ।समुद्रममृतार्थं च मथिष्यामि रसालयम् ।। ७.२०.१९ ॥",
+      "transliteration": "tato lokatrayaṁ jitvā sthāpya nāgānsurānvaśe ।samudramamṛtārthaṁ ca mathiṣyāmi rasālayam ।। 7.20.19 ॥",
+      "translations": {
+        "english": "Ravana addresses the sage, declaring his readiness to descend to Rasatala for conquest.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 20,
+      "verse": 19,
+      "sloka": "अथाब्रवीदृशग्रीवं नारदो भगवानृषिः ।क्व खल्विदानीं मार्गेण त्वया ह्यन्येन गम्यते ।। ७.२०.२० ॥",
+      "transliteration": "athābravīdṛśagrīvaṁ nārado bhagavānṛṣiḥ ।kva khalvidānīṁ mārgeṇa tvayā hyanyena gamyate ।। 7.20.20 ॥",
+      "translations": {
+        "english": "Ravana further states that after conquering the three worlds and subjugating the Nagas and gods, he will churn the ocean for nectar.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 20,
+      "verse": 20,
+      "sloka": "अयं खलु सुदुर्गम्यः प्रेतराजपुरं प्रति ।मार्गो गच्छति दुर्धर्षो यमस्यामित्रकर्शन ।। ७.२०.२१ ॥",
+      "transliteration": "ayaṁ khalu sudurgamyaḥ pretarājapuraṁ prati ।mārgo gacchati durdharṣo yamasyāmitrakarśana ।। 7.20.21 ॥",
+      "translations": {
+        "english": "Then, the divine sage Narada asked Ravana, \"By which path are you indeed going now?\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 20,
+      "verse": 21,
+      "sloka": "स तु शारदमेघाभं हासं मुक्त्वा दशाननः ।उवाच कृतमित्येव वचनं चेदमब्रवीत् ।। ७.२०.२२ ॥",
+      "transliteration": "sa tu śāradameghābhaṁ hāsaṁ muktvā daśānanaḥ ।uvāca kṛtamityeva vacanaṁ cedamabravīt ।। 7.20.22 ॥",
+      "translations": {
+        "english": "Narada warns Ravana that this path, O tormentor of enemies, is indeed very difficult to traverse and leads to the formidable city of Yama, the king of the dead.",
+        "hindi": "तस्य याणाः पतन्तस्ते चक्रिरे न क्षति कचित्‌ । वारिधारा इदाभ्रे भ्यः पतन्त्यो गिरिमू्धनि ॥ २१,॥ जल की धारा जैसे बादल से निकल कर पवत के शिखर पर गिरती है और पहाड़ की कुछ सी हानि नहीं कर सकती; बैसे ही वे वाण रावण के मस्तक पर गिरे । किन्तु उनसे रावण के शरीर में कहां खरोच भी न हुईं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 20,
+      "verse": 22,
+      "sloka": "तस्मादेवमहं ब्रह्मन् वैवस्वतवधोद्यतः ।गच्छामि दक्षिणामाशां यत्र सूर्यात्मजो नृपः ।। ७.२०.२३ ॥",
+      "transliteration": "tasmādevamahaṁ brahman vaivasvatavadhodyataḥ ।gacchāmi dakṣiṇāmāśāṁ yatra sūryātmajo nṛpaḥ ।। 7.20.23 ॥",
+      "translations": {
+        "english": "Dashanana, however, let out a laugh resembling an autumn cloud and then spoke these words, saying, \"It is done.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 20,
+      "verse": 23,
+      "sloka": "मया हि भगवन्क्रोधात्प्रतिज्ञातं रणार्थिना ।अवजेष्यामि चतुरो लोकपालानिति प्रभो ।। ७.२०.२४ ॥",
+      "transliteration": "mayā hi bhagavankrodhātpratijñātaṁ raṇārthinā ।avajeṣyāmi caturo lokapālāniti prabho ।। 7.20.24 ॥",
+      "translations": {
+        "english": "Therefore, O Brahmana, being thus intent on slaying Vaivasvata (Yama), I proceed to the southern direction where the son of Surya, the king (Yama), resides.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 20,
+      "verse": 24,
+      "sloka": "तदिह प्रस्थितो ऽहं वै प्रेतराजपुरं प्रति ।प्राणिसङ्क्लेशकर्तारं योजयिष्यामि मृत्युना ।। ७.२०.२५ ॥",
+      "transliteration": "tadiha prasthito 'haṁ vai pretarājapuraṁ prati ।prāṇisaṅkleśakartāraṁ yojayiṣyāmi mṛtyunā ।। 7.20.25 ॥",
+      "translations": {
+        "english": "Indeed, O revered one, I, desirous of battle, have vowed in my anger, \"I shall conquer the four guardians of the world, O lord.\"",
+        "hindi": "तब रावण ने इद्वाङुकुलनन्दन अनरण्य से हँस कर कहा-तूने मुझसे लड़ कर क्या फल पाया १",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 20,
+      "verse": 25,
+      "sloka": "एवमुक्त्वा दशग्रीवो मुनिं तमभिवाद्य च ।प्रययौ दक्षिणामाशां प्रविष्टः सह मन्त्रिभिः ।। ७.२०.२६ ॥",
+      "transliteration": "evamuktvā daśagrīvo muniṁ tamabhivādya ca ।prayayau dakṣiṇāmāśāṁ praviṣṭaḥ saha mantribhiḥ ।। 7.20.26 ॥",
+      "translations": {
+        "english": "Therefore, I have now indeed set out towards the city of the king of the dead, and I shall unite with death the one who causes distress to living beings.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 20,
+      "verse": 26,
+      "sloka": "नारदस्तु महातेजा मुहूर्तं ध्यानमास्थितः ।चिन्तयामास विप्रेन्द्रो विधूम इव पावकः ।। ७.२०.२७ ॥",
+      "transliteration": "nāradastu mahātejā muhūrtaṁ dhyānamāsthitaḥ ।cintayāmāsa viprendro vidhūma iva pāvakaḥ ।। 7.20.27 ॥",
+      "translations": {
+        "english": "Having thus spoken and saluted that sage, Dashagriva (Ravana) departed towards the southern direction, accompanied by his ministers.",
+        "hindi": "रावण द्वारा इस प्रकार कहे जाने पर हीनवल महाराज अनरण्य ते रावण से कहा कि, ( सुझे जीतने की ) तुम्हारी तो क्या सामर्थ्य है ! हाँ काल ळी बलिहारी हे जिसके प्रभाब से कोई बच नहीं सकता",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 20,
+      "verse": 27,
+      "sloka": "येन लोकास्त्रयः सेन्द्राः क्लिश्यन्ते सचराचराः ।क्षीणे चायुषि धर्मेण स कालो जेष्यते कथम् ।। ७.२०.२८ ॥",
+      "transliteration": "yena lokāstrayaḥ sendrāḥ kliśyante sacarācarāḥ ।kṣīṇe cāyuṣi dharmeṇa sa kālo jeṣyate katham ।। 7.20.28 ॥",
+      "translations": {
+        "english": "But the greatly effulgent Narada, the chief among Brahmanas, having assumed meditation for a moment, pondered like a smokeless fire.",
+        "hindi": "हे राक्षस ! अपने मुख से अपनी प्रशंसा करने बाले तूने मुझे नहीं जीता; किन्तु काल मे ही सुझे इस प्रकार विपदूग्रस्त किआ है । हाँ आप इसमें निमित्त मात्र अवश्य हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 20,
+      "verse": 28,
+      "sloka": "स्वदत्तकृतसाक्षी यो द्वितीय इव पावकः ।लब्धसञ्ज्ञा विजेष्यन्ते लोका यस्य महात्मनः ।। ७.२०.२९ ॥",
+      "transliteration": "svadattakṛtasākṣī yo dvitīya iva pāvakaḥ ।labdhasañjñā vijeṣyante lokā yasya mahātmanaḥ ।। 7.20.29 ॥",
+      "translations": {
+        "english": "How can that Time, by whom the three worlds including Indra and all animate and inanimate beings are tormented, and by whose law life itself is exhausted, ever be conquered?",
+        "hindi": "इस समय तो सं मर ही रहा हू, सो अब भ॑ कर ही क्या सकता हूँ । ( किन्तु स्मरण रख ) में युद्ध से विमुख नहीं हुआ, प्रत्युत युद्ध करता हुआ में तेरे हाथ से सारा गया हू",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 20,
+      "verse": 29,
+      "sloka": "यस्य नित्यं त्रयो लोका विद्रवन्ति भयार्दिताः ।तं कथं राक्षसेन्द्रो ऽसौ स्वयमेव गमिष्यति ।। ७.२०.३० ॥",
+      "transliteration": "yasya nityaṁ trayo lokā vidravanti bhayārditāḥ ।taṁ kathaṁ rākṣasendro 'sau svayameva gamiṣyati ।। 7.20.30 ॥",
+      "translations": {
+        "english": "How can one conquer that great being (Yama), who is a witness to all deeds, like a second fire, and by whom all conscious beings in the worlds are eventually overcome?",
+        "hindi": "इतने में क्रोध में भर रावण ने महाराज के सिर पर एक थप्पड़ जमाया । उसकी चोट से महाराज अनरण्य विद्वत्त हो थरथराते हुए रथ से धरती पर ऐसे गिरे; जैसे बन में विजली का मारा साखू का पेड़ गिरता हे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 20,
+      "verse": 30,
+      "sloka": "यो विधाता च धाता च सुकृतं दुष्कृतं तथा ।त्रैलोक्यं विजितं येन तं कथं विजयिष्यते ।। ७.२०.३१ ॥",
+      "transliteration": "yo vidhātā ca dhātā ca sukṛtaṁ duṣkṛtaṁ tathā ।trailokyaṁ vijitaṁ yena taṁ kathaṁ vijayiṣyate ।। 7.20.31 ॥",
+      "translations": {
+        "english": "How can this king of Rakshasas (Ravana) personally go to conquer him, from whom the three worlds always flee, tormented by fear?",
+        "hindi": "महाराज इच्वाक के कुल में दाशरथी राम उत्पन्न होंगे जो तेरा वध करेंगे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 20,
+      "verse": 31,
+      "sloka": "अपरं किन्तु कृत्वायं विधानं संविधास्यति ।कौतूहलसमुत्पन्नो यास्यामि यमसादनम् ।। ७.२०.३२ ॥",
+      "transliteration": "aparaṁ kintu kṛtvāyaṁ vidhānaṁ saṁvidhāsyati ।kautūhalasamutpanno yāsyāmi yamasādanam ।। 7.20.32 ॥",
+      "translations": {
+        "english": "How will he conquer him who is the ordainer and sustainer of both good and bad deeds, and by whom the three worlds are already subdued?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 20,
+      "verse": 32,
+      "sloka": "विमर्दं द्रष्टुमनयोर्यमराक्षसयोः स्वयम् ।। ७.२०.३३ ।।",
+      "transliteration": "vimardaṁ draṣṭumanayoryamarākṣasayoḥ svayam ।। 7.20.33 ।।",
+      "translations": {
+        "english": "What other plan will this Ravana make after this, but filled with curiosity, I myself will go to the abode of Yama.",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

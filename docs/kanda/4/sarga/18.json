@@ -1,0 +1,933 @@
+{
+  "kanda": 4,
+  "kanda_name": "Kishkindha Kanda",
+  "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+  "sarga": 18,
+  "verses_count": 66,
+  "verses": [
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 1,
+      "sloka": "इत्युक्तः प्रश्रितं वाक्यं धर्मार्थसहितं हितम् ।परुषं वालिना रामो निहतेन विचेतसा ॥४-१८-१॥",
+      "transliteration": "ityuktaḥ praśritaṁ vākyaṁ dharmārthasahitaṁ hitam ।paruṣaṁ vālinā rāmo nihatena vicetasā ॥4-18-1॥",
+      "translations": {
+        "english": "To these harsh words though seemingly wellmeaning, courteous and righteous, Vali who had been mortally wounded and confused in mind, Rama replied:",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 2,
+      "sloka": "तं निष्प्रभम् इव आदित्यं मुक्त तोयम् इवाम्बुदम् ।उक्त वाक्यं हरि श्रेष्ठम् उपशांतम् इवानलम् ॥४-१८-२॥",
+      "transliteration": "taṁ niṣprabham iva ādityaṁ mukta toyam ivāmbudam ।ukta vākyaṁ hari śreṣṭham upaśāṁtam ivānalam ॥4-18-2॥",
+      "translations": {
+        "english": "To righteous Vali,the best of the monkeys, the lord of the monkeys, who looked like the Sun shorn of his brilliance or a raindrained cloud or a fire that had been extinguished. Rama, under the scanner, said in reply:",
+        "hindi": "er र ऐकोनिविशी १८९ क्योंकि एक तो उसक्ने अङ्ग पत्थरों से चुटीले हो ही रहे थे, दूसरे पेड़ों का आघात भी उसने सहा था, तिस पर श्रीरामचन्द्र के तीर के घाव से तो वह अब तब हो रहा था, अर्थात्‌ मरने ही वाला था । मरने के पूर्व वालि मूछित हो गया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 3,
+      "sloka": "धर्मार्थगुण सम्पन्नम् हरीश्वरमनुत्तमम् ।अधिक्षिप्तस्तदा रामः पश्चात् वालिनम् अब्रवीत् ॥४-१८-३॥",
+      "transliteration": "dharmārthaguṇa sampannam harīśvaramanuttamam ।adhikṣiptastadā rāmaḥ paścāt vālinam abravīt ॥4-18-3॥",
+      "translations": {
+        "english": "To righteous Vali,the best of the monkeys, the lord of the monkeys, who looked like the Sun shorn of his brilliance or a raindrained cloud or a fire that had been extinguished. Rama, under the scanner, said in reply:",
+        "hindi": "इतने में तारा ने सुना कि, वानरश्रेष्ठ बालि युद्ध भें श्रीरामचन्द्र जी के शराघात से मारा गया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 4,
+      "sloka": "धर्मम् अर्थञ्च कामञ्च समयञ्च अपि लौकिकम् ।अविज्ञाय कथम् बाल्यात् माम् इह अद्य विगर्हसे ॥४-१८-४॥",
+      "transliteration": "dharmam arthañca kāmañca samayañca api laukikam ।avijñāya katham bālyāt mām iha adya vigarhase ॥4-18-4॥",
+      "translations": {
+        "english": "'Without correct knowledge of dharma, artha, kama and worldly ways, how do you reproach me bitterly now in total ignorance?",
+        "hindi": "पति के मारे जाने की अत्यन्त दारुण खबर पा कर, पुत्रको लिए हुए तारा, त्रस्त हो, गिरिकन्दरा से उसी प्रकार दौड़ कर बाहिर निकली, जिस प्रकार डरी हुईं .हिरनी दौड़ कर भागती है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 5,
+      "sloka": "अपृष्ट्वा बुद्धि संपन्नान् वृद्धान् आचार्य संमतान् ।सौम्य वानर चापल्यात् त्वम् माम् वक्तुम् इह इच्छसि ॥४-१८-५॥",
+      "transliteration": "apṛṣṭvā buddhi saṁpannān vṛddhān ācārya saṁmatān ।saumya vānara cāpalyāt tvam mām vaktum iha icchasi ॥4-18-5॥",
+      "translations": {
+        "english": "'O gentle Vali why do you speak with monkeyish frivolousness, without consulting the elders and teachers endowed with intelligence?",
+        "hindi": "जो वानर अङ्गद के साथ सदा रहते थे और बड़े बलवान कहलाते थे, वे श्रीरामचन्द्र को धचुष लिए हुए देख, मारे डर केः भाग खडे हुए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 6,
+      "sloka": "इक्ष्वाकूणाम् इयम् भूमिः स शैल वन कानना ।मृग पक्षि मनुष्याणाम् निग्रह अनुग्रहेषु अपि ॥४-१८-६॥",
+      "transliteration": "ikṣvākūṇām iyam bhūmiḥ sa śaila vana kānanā ।mṛga pakṣi manuṣyāṇām nigraha anugraheṣu api ॥4-18-6॥",
+      "translations": {
+        "english": "'This earth including mountains, groves and forests, animals, birds and humans belongs to the Ikshvaku kings.The right of purnishment and reward also vests with them.",
+        "hindi": "«० तारा ने देखा कि, मुखिया के मारे जाने पर ओर मुंड से बिछुड़े हुए द्विरनों की तरह, बन्दर डर कर, भाग रहे हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 7,
+      "sloka": "ताम् पालयति धर्मात्मा भरतः सत्यवान् ऋजुः ।धर्म काम अर्थ तत्त्वज्ञो निग्रह अनुग्रहे रतः ॥४-१८-७॥",
+      "transliteration": "tām pālayati dharmātmā bharataḥ satyavān ṛjuḥ ।dharma kāma artha tattvajño nigraha anugrahe rataḥ ॥4-18-7॥",
+      "translations": {
+        "english": "'Bharata, righteous, truthful, upright, knower of dharma, artha and kama and dispenser of punishment and rewards, rules this earth.",
+        "hindi": "तब तो दुखिनी तारा ने, उन वानरों के समीप जा, जी ओऔराम चन्द्र जी को देख, ऐसे भाग गए थे, मानां वे स्वयं बाणों से घायल हो गए हों, दुःखित हो, कहा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 8,
+      "sloka": "नयः च विनयः च उभौ यस्मिन् सत्यम् च सुस्थितम् ।विक्रमः च यथा दृष्टः स राजा देश कालवित् ॥४-१८-८॥",
+      "transliteration": "nayaḥ ca vinayaḥ ca ubhau yasmin satyam ca susthitam ।vikramaḥ ca yathā dṛṣṭaḥ sa rājā deśa kālavit ॥4-18-8॥",
+      "translations": {
+        "english": "'Bharata in whom justice and discipline, truth and courage along with the knowledge of time and place for action are firmly rooted is king (of this earth).",
+        "hindi": "हे वानरों ! जिस राजसिंह के तुम लोग आगे आगे चला करते थे, उसे छोड़, तुस लोग क्यों इस प्रकार त्रस्त हो कर भागते हो ?",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 9,
+      "sloka": "तस्य धर्म कृत आदेशा वयम् अन्ये च पार्थिवः ।चरामो वसुधाम् कृत्स्नाम् धर्म संतानम् इच्छवः ॥४-१८-९॥",
+      "transliteration": "tasya dharma kṛta ādeśā vayam anye ca pārthivaḥ ।carāmo vasudhām kṛtsnām dharma saṁtānam icchavaḥ ॥4-18-9॥",
+      "translations": {
+        "english": "'Following his command, in confirmity with dharma we and the other kings also move all over the entire world desirous of promoting dharma.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 10,
+      "sloka": "तस्मिन् नृपति शार्दूल भरते धर्म वत्सले ।पालयति अखिलाम् पृथ्वीम् कः चरेत् धर्म विप्रियम् ॥४-१८-१०॥",
+      "transliteration": "tasmin nṛpati śārdūla bharate dharma vatsale ।pālayati akhilām pṛthvīm kaḥ caret dharma vipriyam ॥4-18-10॥",
+      "translations": {
+        "english": "'Who can stray from the path of dharma when the whole world is ruled by Bharata, a tiger among kings, and a lover of dharma?",
+        "hindi": "तारा के वचन सुन कर, कामरूपी वानर समयानुकूल और युक्तियुक्त उससे यह वचन बोले",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 11,
+      "sloka": "ते वयम् मार्ग विभ्रष्टम् स्वधर्मे परमे स्थिताः ।भरत आज्ञाम् पुरस्कृत्य निगृह्णीमो यथा विधि ॥४-१८-११॥",
+      "transliteration": "te vayam mārga vibhraṣṭam svadharme parame sthitāḥ ।bharata ājñām puraskṛtya nigṛhṇīmo yathā vidhi ॥4-18-11॥",
+      "translations": {
+        "english": "'By the command of Bharata ,all of us are devoted to our duty of upholding dharma and virtue and duly punish those who deviate from the path of dharma.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 12,
+      "sloka": "त्वम् तु संक्लिष्ट धर्मः च कर्मणा च विगर्हितः ।काम तंत्र प्रधानः च न स्थितो राज वर्त्मनि ॥४-१८-१२॥",
+      "transliteration": "tvam tu saṁkliṣṭa dharmaḥ ca karmaṇā ca vigarhitaḥ ।kāma taṁtra pradhānaḥ ca na sthito rāja vartmani ॥4-18-12॥",
+      "translations": {
+        "english": "'You have violated dharma. You stand condemned for your actions. Passion is your priority. You have strayed from the right path of kings.",
+        "hindi": "देखो न, बालि के फेंके हुए अनेक वृक्षों और शिलाओ को व्यर्थ कर श्रीरामचन्द्र ने अपने बज तुल्य बाण से बालि को अन्त में मार दी डाला",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 13,
+      "sloka": "ज्येष्ठो भ्राता पिता चैव यः च विद्याम् प्रयच्छति ।त्रयः ते पितरो ज्ञेया धर्मे च पथि वर्तिनः ॥४-१८-१३॥",
+      "transliteration": "jyeṣṭho bhrātā pitā caiva yaḥ ca vidyām prayacchati ।trayaḥ te pitaro jñeyā dharme ca pathi vartinaḥ ॥4-18-13॥",
+      "translations": {
+        "english": "The elder brother, the father, and he who imparts knowledge—these three, who conduct themselves on the path of righteousness, are to be known as fathers.",
+        "hindi": "इन्द्रतुल्य पराक्रमसस्पन्न कपिराज को मरा हुआ देख, यहद समरत कपिसेना भयभीत हो भागी जाती है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 14,
+      "sloka": "यवीयान् आत्मनः पुत्रः शिष्यः च अपि गुणोदितः ।पुत्रवत् ते त्रयः चिंत्या धर्मः चैव अत्र कारणम् ॥४-१८-१४॥",
+      "transliteration": "yavīyān ātmanaḥ putraḥ śiṣyaḥ ca api guṇoditaḥ ।putravat te trayaḥ ciṁtyā dharmaḥ caiva atra kāraṇam ॥4-18-14॥",
+      "translations": {
+        "english": "A younger brother, a son, and a virtuous pupil—these three are to be regarded like one's own son; here righteousness is the deciding consideration.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 15,
+      "sloka": "सूक्ष्मः परम दुर्ज्ञेयः सताम् धर्मः प्लवंगम ।हृदिस्थः सर्व भूतानाम् आत्मा वेद शुभाशुभम् ॥४-१८-१५॥",
+      "transliteration": "sūkṣmaḥ parama durjñeyaḥ satām dharmaḥ plavaṁgama ।hṛdisthaḥ sarva bhūtānām ātmā veda śubhāśubham ॥4-18-15॥",
+      "translations": {
+        "english": "'O monkey dharma is very subtle. It is extremely difficult to understand. Installed in the hearts of all living beings the self knows good and evil (soul is the witness of good and evil).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 16,
+      "sloka": "चपलः चपलैः सार्धम् वानरैः अकृत आत्मभिः ।जात्यंध इव जात्यन्धैः मंत्रयन् द्रक्ष्यसे नु किम् ॥४-१८-१६॥",
+      "transliteration": "capalaḥ capalaiḥ sārdham vānaraiḥ akṛta ātmabhiḥ ।jātyaṁdha iva jātyandhaiḥ maṁtrayan drakṣyase nu kim ॥4-18-16॥",
+      "translations": {
+        "english": "'You are fickle by nature. Your consultants are frivolous, pettyminded monkeys. It is like one born blind suppporting another blind by birth. What do you know (about dharma)?",
+        "hindi": "अथवा हे रुचिरानने ! सुन्दरसुख बाली यदि तुम्हें यहाँ ठहरना अच्छा लगता हो तो, ये सब बन्दर इस पर्वेत के दुर्गम स्थानों में तुरन्त चले जाँयगे ॥१ शो पक पाठान्तरे--तस्मिन्‌ ii © ८ f अभायाश्च सभार्याशच सन्त्यत्र वनचारिण! | लुब्येभ्यो विगरयुक्तेभ्यस्तेभ्यो नस्तुमुलं भयम्‌",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 17,
+      "sloka": "अहम् तु व्यक्तताम् अस्य वचनस्य ब्रवीमि ते ।न हि माम् केवलम् रोषात् त्वम् विगर्हितुम् अर्हसि ॥४-१८-१७॥",
+      "transliteration": "aham tu vyaktatām asya vacanasya bravīmi te ।na hi mām kevalam roṣāt tvam vigarhitum arhasi ॥4-18-17॥",
+      "translations": {
+        "english": "'I shall explain to you clearly (the reason for striking you down). It is not proper for you to despise me with mere anger and malice.",
+        "hindi": "चारुहासिनी तारा थोड़ी दूर खड़ हुए वानरों के ऐसे वचन सुन, उनसे अपनी पदमर्यादा के अनुकूल वचन बोली",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 18,
+      "sloka": "तत् एतत् कारणम् पश्य यत् अर्थम् त्वम् मया हतः ।भ्रातुर् वर्तसि भार्यायाम् त्यक्त्वा धर्मम् सनातनम् ॥४-१८-१८॥",
+      "transliteration": "tat etat kāraṇam paśya yat artham tvam mayā hataḥ ।bhrātur vartasi bhāryāyām tyaktvā dharmam sanātanam ॥4-18-18॥",
+      "translations": {
+        "english": "'Now know the reason why I struck you down. Having abandoned the eternal law, you are living with your younger brother's wife.",
+        "hindi": "जब मेरे वे (ये) महाभाग कपिश्रेष्ठ पति ही न रहे--मारे गए, तब मुझे पुत्र, राज्य अथवा अपने जीवन हो का क्या करना है.",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 19,
+      "sloka": "अस्य त्वम् धरमाणस्य सुग्रीवस्य महात्मनः ।रुमायाम् वर्तसे कामात् स्नुषायाम् पाप कर्मकृत् ॥४-१८-१९॥",
+      "transliteration": "asya tvam dharamāṇasya sugrīvasya mahātmanaḥ ।rumāyām vartase kāmāt snuṣāyām pāpa karmakṛt ॥4-18-19॥",
+      "translations": {
+        "english": "'You are a sinner, since you live with Ruma, who is your virtual daughterinlaw, when the great self Sugriva is alive. (A younger brother is like a son and his wife, a daughterinlaw).",
+        "hindi": "हे जीचपुत्रे (बह खी जिसका पुत्र जीवित है ) तुम घर को लौट जाओ और अपने पुत्र अंगद की रक्ता करो । क्योंकि श्रीराम रूपी काल, बालि को मार कर लिये जाता है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 20,
+      "sloka": "तद् व्यतीतस्य ते धर्मात् काम वृत्तस्य वानर ।भ्रातृ भार्या अभिमर्शे अस्मिन् दण्डो अयम् प्रतिपादितः ॥४-१८-२०॥",
+      "transliteration": "tad vyatītasya te dharmāt kāma vṛttasya vānara ।bhrātṛ bhāryā abhimarśe asmin daṇḍo ayam pratipāditaḥ ॥4-18-20॥",
+      "translations": {
+        "english": "'O monkey since you have violated morality by sinning against your brother's wife this punishment is justified.",
+        "hindi": "यह कह कर, शोक से विकल हुई तारा रोती हुई उस ओर दौड़ी और मारे दु:ख के अपने हाथों से अपना सिर और छाती पीटने लगी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 21,
+      "sloka": "न हि लोक विरुद्धस्य लोक वृत्तात् अपेयुषः ।दण्डात् अन्यत्र पश्यामि निग्रहम् हरि यूथप ॥४-१८-२१॥",
+      "transliteration": "na hi loka viruddhasya loka vṛttāt apeyuṣaḥ ।daṇḍāt anyatra paśyāmi nigraham hari yūthapa ॥4-18-21॥",
+      "translations": {
+        "english": "'O lord of monkeys I do not see any other way of controlling a person excepting punishing the one who has acted against dharma and swerved from the accepted code of conduct.",
+        "hindi": "वहाँ जाकर उसने अपने पति को जमीन पर खड़ा हुआ देखा । जो वालि समर में पीठ न दिखाने वाला, दानवेन्द्रो का मारने बाला था, जो बज्न चलाने वाले इन्द्र की तरह बड़े बड़े पर्वतों का फेंकने बाला था, जो प्रचण्ड पवन से युक्त मेथो की तरह गर्जने वाला था, इन्द्र जैसा पराक्रमी ओर बरसे हुए मेघ की तरह था और वानरों में श्रेष्ठ था उस वीर को, शूर श्रीरामचन्द्र जानो मार कर वैसे ही गिरा दिआ है, जैसे शार्दूल माँस के लिए सिंह को मार डालता है । अथवा जिस प्रकार सर्वपूञ्य पताका और वेदी सहित वृक्ष को, साँप पकड़ने के लिए, गरुड़ गिर देता है । उस समय तारा ने धनुषधारी श्रीरामचन्द्र को तथा उनके छोटे भाई लक्ष्मण को तथा सुग्रीव को खड़े देखा; तथा आगे बढ़ युद्ध में सारे गए अपने पति को",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 22,
+      "sloka": "न च ते मर्षये पापम् क्ष्त्रियो अहम् कुलोद्गतः ।औरसीम् भगिनीम् वा अपि भार्याम् वा अपि अनुजस्य यः ॥४-१८-२२॥",
+      "transliteration": "na ca te marṣaye pāpam kṣtriyo aham kulodgataḥ ।aurasīm bhaginīm vā api bhāryām vā api anujasya yaḥ ॥4-18-22॥",
+      "translations": {
+        "english": "'I am a kshatriya born of a good family. I will not pardon you for your sin. Whosoever transgresses dharma against his own daughter, sister or brother's wife out of lust should be killed according to smriti.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 23,
+      "sloka": "प्रचरेत नरः कामात् तस्य दण्डो वधः स्मृतः ।भरतः तु महीपालो वयम् तु आदेश वर्तिनः ॥४-१८-२३॥",
+      "transliteration": "pracareta naraḥ kāmāt tasya daṇḍo vadhaḥ smṛtaḥ ।bharataḥ tu mahīpālo vayam tu ādeśa vartinaḥ ॥4-18-23॥",
+      "translations": {
+        "english": "'Bharata is a king and we follow his command. How can you, who have strayed from dharma, go unpunished?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 24,
+      "sloka": "त्वम् च धर्मात् अतिक्रान्तः कथम् शक्यम् उपेक्षितुम् ।गुरु धर्म व्यतिक्रान्तम् प्राज्ञो धर्मेण पालयन् ॥४-१८-२४॥",
+      "transliteration": "tvam ca dharmāt atikrāntaḥ katham śakyam upekṣitum ।guru dharma vyatikrāntam prājño dharmeṇa pālayan ॥4-18-24॥",
+      "translations": {
+        "english": "'Wise Bharata being a respectable king rules by dharma. By the command of Bharata, we are bent upon punishing those who have strayed from dharma by being addicted to sensual pleasures.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 25,
+      "sloka": "भरतः काम युक्तानाम् निग्रहे पर्यवस्थितः ।वयम् तु भरत आदेशम् विधिम् कृत्वा हरीश्वर ।त्वत् विधान् भिन्न मर्यादान् निग्रहीतुम् व्यवस्थिताः ॥४-१८-२५॥",
+      "transliteration": "bharataḥ kāma yuktānām nigrahe paryavasthitaḥ ।vayam tu bharata ādeśam vidhim kṛtvā harīśvara ।tvat vidhān bhinna maryādān nigrahītum vyavasthitāḥ ॥4-18-25॥",
+      "translations": {
+        "english": "'O Vali we have to follow Bharata's command and are bent upon punishing those wicked people who deviate from the bounds of dharma.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 26,
+      "sloka": "सुग्रीवेण च मे सख्यम् लक्ष्मणेन यथा तथा ।दार राज्य निमित्तम् च निःश्रेयसकरः स मे ॥४-१८-२६॥",
+      "transliteration": "sugrīveṇa ca me sakhyam lakṣmaṇena yathā tathā ।dāra rājya nimittam ca niḥśreyasakaraḥ sa me ॥4-18-26॥",
+      "translations": {
+        "english": "'My friendship with Sugriva is as strong as that with Lakshmana. Its motive is the recovery of his wife and sovereignty. I have promised this to him in the presence of monkeys. How can a pledge remain unhonoured by a person like me? How is it possible?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 27,
+      "sloka": "प्रतिज्ञा च मया दत्ता तदा वानर संनिधौ ।प्रतिज्ञा च कथम् शक्या मत् विधेन अनवेक्षितुम् ॥४-१८-२७॥",
+      "transliteration": "pratijñā ca mayā dattā tadā vānara saṁnidhau ।pratijñā ca katham śakyā mat vidhena anavekṣitum ॥4-18-27॥",
+      "translations": {
+        "english": "'My friendship with Sugriva is as strong as that with Lakshmana. Its motive is the recovery of his wife and sovereignty. I have promised this to him in the presence of monkeys. How can a pledge remain unhonoured by a person like me? How is it possible?",
+        "hindi": "देख, विकल ओर उठिम्न हो तारा भूमि पर गिर पड़ी । थोड़ी देर बाद तारा सोती हुई के समान उठ कर, हा आर्यपुत्र ! कह आर कालकत्रलित पति को देख, रोने लगी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 28,
+      "sloka": "तत् एभिः कारणैः सर्वैर् महद्भिः धर्म संहितैः ।शासनम् तव यत् युक्तम् तत् भवान् अनुमन्यताम् ॥४-१८-२८॥",
+      "transliteration": "tat ebhiḥ kāraṇaiḥ sarvair mahadbhiḥ dharma saṁhitaiḥ ।śāsanam tava yat yuktam tat bhavān anumanyatām ॥4-18-28॥",
+      "translations": {
+        "english": "'Knowing all these reasons(many violations of dharma), it is proper for you as a king to approve of the punishment accorded to you in consonance with dharma.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 29,
+      "sloka": "सर्वथा धर्म इति एव द्रष्टव्यः तव निग्रहः ।वयस्यस्य उपकर्तव्यम् धर्मम् एव अनुपश्यता ॥४-१८-२९॥",
+      "transliteration": "sarvathā dharma iti eva draṣṭavyaḥ tava nigrahaḥ ।vayasyasya upakartavyam dharmam eva anupaśyatā ॥4-18-29॥",
+      "translations": {
+        "english": "'Punishment given to you should be viewed as a right course of action in all respects. This is the duty of a trustworthy friend who follows dharma.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 30,
+      "sloka": "शक्यम् त्वया अपि तत् कार्यम् धर्मम् एव अनुवर्तता ।श्रूयते मनुना गीतौ श्लोकौ चारित्र वत्सलौ।गृहीतौ धर्म कुशलैः तथा तत् चरितम् मयाअ ॥४-१८-३०॥",
+      "transliteration": "śakyam tvayā api tat kāryam dharmam eva anuvartatā ।śrūyate manunā gītau ślokau cāritra vatsalau।gṛhītau dharma kuśalaiḥ tathā tat caritam mayāa ॥4-18-30॥",
+      "translations": {
+        "english": "'You should also have acted in that manner considering dharma. Now listen to what Manu said, in two verses that hold good traditions dear which are accepted by men wellversed in dharma. O monkey the action taken by me is in conformity with this.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 31,
+      "sloka": "राजभिः धृत दण्डाः च कृत्वा पापानि मानवाः ।निर्मलाः स्वर्गम् आयान्ति सन्तः सुकृतिनो यथा ॥४-१८-३१॥",
+      "transliteration": "rājabhiḥ dhṛta daṇḍāḥ ca kṛtvā pāpāni mānavāḥ ।nirmalāḥ svargam āyānti santaḥ sukṛtino yathā ॥4-18-31॥",
+      "translations": {
+        "english": "'You should also have acted in that manner considering dharma. Now listen to what Manu said, in two verses that hold good traditions dear which are accepted by men wellversed in dharma. O monkey the action taken by me is in conformity with this.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 32,
+      "sloka": "शसनात् वा अपि मोक्षात् वा स्तेनः पापात् प्रमुच्यते ।राजा तु अशासन् पापस्य तद् आप्नोति किल्बिषम् ॥४-१८-३२॥",
+      "transliteration": "śasanāt vā api mokṣāt vā stenaḥ pāpāt pramucyate ।rājā tu aśāsan pāpasya tad āpnoti kilbiṣam ॥4-18-32॥",
+      "translations": {
+        "english": "'Men who have perpetrated sins should be subjected to punishment by kings so that they become stainless and attain heaven like pious men who have performed good deeds.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 33,
+      "sloka": "आर्येण मम मान्धात्रा व्यसनम् घोरम् ईप्सितम् ।श्रमणेन कृते पापे यथा पापम् कृतम् त्वया ॥४-१८-३३॥",
+      "transliteration": "āryeṇa mama māndhātrā vyasanam ghoram īpsitam ।śramaṇena kṛte pāpe yathā pāpam kṛtam tvayā ॥4-18-33॥",
+      "translations": {
+        "english": "A thief is freed from his theft either by punishment or by being let off; but a king who fails to punish a sinner himself incurs that sin.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 34,
+      "sloka": "अन्यैः अपि कृतम् पापम् प्रमत्तैः वसुधा अधिपैः ।प्रायश्चित्तम् च कुर्वन्ति तेन तत् शाम्यते रजः ॥४-१८-३४॥",
+      "transliteration": "anyaiḥ api kṛtam pāpam pramattaiḥ vasudhā adhipaiḥ ।prāyaścittam ca kurvanti tena tat śāmyate rajaḥ ॥4-18-34॥",
+      "translations": {
+        "english": "'In the past a similar sin was perpetrated by Sramana, a revered soul (mendicant) and Mandhata, a noble king of my race inflicted terrible punishment on him.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 35,
+      "sloka": "तत् अलम् परितापेन धर्मतः परिकल्पितः ।वधो वानरशार्दूल न वयम् स्व वशे स्थिताः ॥४-१८-३५॥",
+      "transliteration": "tat alam paritāpena dharmataḥ parikalpitaḥ ।vadho vānaraśārdūla na vayam sva vaśe sthitāḥ ॥4-18-35॥",
+      "translations": {
+        "english": "'Vicious deeds have been committed by others when the kings were not watchful. Kings punish such sinners when they are vigilant. Otherwise they have to atone for their negligence.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 36,
+      "sloka": "श्रुणु च अपि अपरम् भूयः कारणम् हरिपुंगव ।तत् श्रुत्वा हि महत् वीर न मन्युम् कर्तुम् अर्हसि ॥४-१८-३६॥",
+      "transliteration": "śruṇu ca api aparam bhūyaḥ kāraṇam haripuṁgava ।tat śrutvā hi mahat vīra na manyum kartum arhasi ॥4-18-36॥",
+      "translations": {
+        "english": "'O tiger among monkeys do not regret. Your death has the sanction of dharma. We are under the control of sastras. We are committed to them. We do not have the freedom to act independently.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 37,
+      "sloka": "न मे तत्र मनस्तापो न मन्युः हरिपुंगव ।वागुराभिः च पाशैः च कूटैः च विविधैः नराः ॥४-१८-३७॥",
+      "transliteration": "na me tatra manastāpo na manyuḥ haripuṁgava ।vāgurābhiḥ ca pāśaiḥ ca kūṭaiḥ ca vividhaiḥ narāḥ ॥4-18-37॥",
+      "translations": {
+        "english": "'O hero O best of monkeys listen to me. I will give you one more reason. On hearing it, I hope you would not be angry with me.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 38,
+      "sloka": "प्रतिच्छन्नाः च दृश्याः च गृह्णन्ति सुबहून् मृगान् ।प्रधावितान् वा वित्रस्तान् विस्रब्धान् अतिविष्ठितान् ॥४-१८-३८॥",
+      "transliteration": "praticchannāḥ ca dṛśyāḥ ca gṛhṇanti subahūn mṛgān ।pradhāvitān vā vitrastān visrabdhān ativiṣṭhitān ॥4-18-38॥",
+      "translations": {
+        "english": "'O best of monkeys I have no mental agony nor do I regret in this case. Hidden from view or out in the open, people catch animals by means of snares or ropes or through other tricks.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 39,
+      "sloka": "प्रमत्तान् अप्रमत्तान् वा नरा माम्स अशिनो भृशम् ।विध्यन्ति विमुखाम् च अपि न च दोषो अत्र विद्यते ॥४-१८-३९॥",
+      "transliteration": "pramattān apramattān vā narā māmsa aśino bhṛśam ।vidhyanti vimukhām ca api na ca doṣo atra vidyate ॥4-18-39॥",
+      "translations": {
+        "english": "'People seeking animal flesh for food kill animals alarmed or unalarmed, animals that run away or animals that stand still. They kill animals whether they are alert or not and no blemish is attached.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 40,
+      "sloka": "यान्ति राजर्षयः च अत्र मृगयाम् धर्म कोविदाः ।तस्मात् त्वम् निहतो युद्धे मया बाणेन वानर ।अयुध्यन् प्रतियुध्यन् वा यस्मात् शाखा मृगो हि असि ॥४-१८-४०॥",
+      "transliteration": "yānti rājarṣayaḥ ca atra mṛgayām dharma kovidāḥ ।tasmāt tvam nihato yuddhe mayā bāṇena vānara ।ayudhyan pratiyudhyan vā yasmāt śākhā mṛgo hi asi ॥4-18-40॥",
+      "translations": {
+        "english": "'People seeking animal flesh for food kill animals alarmed or unalarmed, animals that run away or animals that stand still. They kill animals whether they are alert or not and no blemish is attached.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 41,
+      "sloka": "दुर्लभस्य च धर्मस्य जीवितस्य शुभस्य च ।राजानो वानरश्रेष्ठ प्रदातारो न सम्शयः ॥४-१८-४१॥",
+      "transliteration": "durlabhasya ca dharmasya jīvitasya śubhasya ca ।rājāno vānaraśreṣṭha pradātāro na samśayaḥ ॥4-18-41॥",
+      "translations": {
+        "english": "'O monkey even royal saints wellversed in dharma go for hunting. I struck you down with an arrow whether you were fighting with Sugriva or not, since you are a monkey. (You can be hit whether you are fighting face to face or not).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 42,
+      "sloka": "तान् न हिंस्यात् न च आक्रोशेन् न आक्षिपेन् न अप्रियम् वदेत् ।देवा मानुष रूपेण चरन्ति एते मही तले ॥४-१८-४२॥",
+      "transliteration": "tān na hiṁsyāt na ca ākrośen na ākṣipen na apriyam vadet ।devā mānuṣa rūpeṇa caranti ete mahī tale ॥4-18-42॥",
+      "translations": {
+        "english": "'O best of monkeys kings are donors of dharma, life and auspiciousness to people which is difficult to acquire. There is no doubt about it.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 43,
+      "sloka": "त्वम् तु धर्मम् अविज्ञाय केवलम् रोषम् आस्थितः ।विदूषयसि माम् धर्मे पितृ पैतामहे स्थितम् ॥४-१८-४३॥",
+      "transliteration": "tvam tu dharmam avijñāya kevalam roṣam āsthitaḥ ।vidūṣayasi mām dharme pitṛ paitāmahe sthitam ॥4-18-43॥",
+      "translations": {
+        "english": "'One should not insult kings, nor shout at them, nor disregard them nor speak unpleasant words to them. They are gods in human form moving on this earth.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 44,
+      "sloka": "एवम् उक्तः तु रामेण वाली प्रव्यथितो भृशम् ।न दोषम् राघवे दध्यौ धर्मे अधिगत निश्चयः ॥४-१८-४४॥",
+      "transliteration": "evam uktaḥ tu rāmeṇa vālī pravyathito bhṛśam ।na doṣam rāghave dadhyau dharme adhigata niścayaḥ ॥4-18-44॥",
+      "translations": {
+        "english": "'Seized with improper anger, you are reproaching one who is devoted to dharma, without knowing that I follow the code of conduct that has been passed on by my fathers and forefathers.'",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 45,
+      "sloka": "प्रत्युवाच ततो रामम् प्रांजलिर् वानरेश्वरः ।यत् त्वम् आत्थ नरश्रेष्ठ तत् थथा एव न अत्र संशयः ॥४-१८-४५॥",
+      "transliteration": "pratyuvāca tato rāmam prāṁjalir vānareśvaraḥ ।yat tvam āttha naraśreṣṭha tat thathā eva na atra saṁśayaḥ ॥4-18-45॥",
+      "translations": {
+        "english": "Vali was very much pained to hear Rama. He became free from confusion regarding dharma and no longer found fault with Rama.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 46,
+      "sloka": "प्रतिवक्तुम् प्रकृष्टे हि न अपकृष्टः तु शक्नुयात् ।यत् अयुक्तम् मया पूर्वम् प्रमादात् वाक्यम् अप्रियम् ॥४-१८-४६॥",
+      "transliteration": "prativaktum prakṛṣṭe hi na apakṛṣṭaḥ tu śaknuyāt ।yat ayuktam mayā pūrvam pramādāt vākyam apriyam ॥4-18-46॥",
+      "translations": {
+        "english": "Thereafter Vali offered obeisance with folded palms to Rama, saying, 'O best among men whatever you have spoken is undoubtedly true.'",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 47,
+      "sloka": "तत्र अपि खलु माम् दोषम् कर्तुम् न अर्हसि राघव ।त्वम् हि दृष्टार्थ तत्त्वज्ञः प्रजानाम् च हिते रतः ।कार्य कारण सिद्धौ च प्रसन्ना बुद्धिः अव्यया ॥४-१८-४७॥",
+      "transliteration": "tatra api khalu mām doṣam kartum na arhasi rāghava ।tvam hi dṛṣṭārtha tattvajñaḥ prajānām ca hite rataḥ ।kārya kāraṇa siddhau ca prasannā buddhiḥ avyayā ॥4-18-47॥",
+      "translations": {
+        "english": "O Rama, an inferior cannot argue against a distinguished person; therefore, if I earlier spoke improper and unpleasant words out of folly, you ought not to hold me at fault for that.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 48,
+      "sloka": "माम् अपि अवगतम् धर्मात् व्यतिक्रान्त पुरस्कृतम् ।धर्म संहितया वाचा धर्मज्ञ परिपालय ॥४-१८-४८॥",
+      "transliteration": "mām api avagatam dharmāt vyatikrānta puraskṛtam ।dharma saṁhitayā vācā dharmajña paripālaya ॥4-18-48॥",
+      "translations": {
+        "english": "In Progress",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 49,
+      "sloka": "बाष्प संरुद्ध कण्ठः तु वाली स आर्त रवः शनैः ।उवाच रामम् संप्रेक्ष्य पंकलग्न इव द्विपः ॥४-१८-४९॥",
+      "transliteration": "bāṣpa saṁruddha kaṇṭhaḥ tu vālī sa ārta ravaḥ śanaiḥ ।uvāca rāmam saṁprekṣya paṁkalagna iva dvipaḥ ॥4-18-49॥",
+      "translations": {
+        "english": "'You are a wise man given to truth and righteousness.You remain devoted to people's wellbeing. As you know for certain about cause and effect your intellect is sound and words pleasant.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 50,
+      "sloka": "न च आत्मानम् अहम् शोचे न ताराम् न अपि बान्धवान् ।यथा पुत्रम् गुणश्रेष्ठम् अंगदम् कनकांगदम् ॥४-१८-५०॥",
+      "transliteration": "na ca ātmānam aham śoce na tārām na api bāndhavān ।yathā putram guṇaśreṣṭham aṁgadam kanakāṁgadam ॥4-18-50॥",
+      "translations": {
+        "english": "'O knower of dharma, I did not follow dharma in the past. I have trangressed the bounds of dharma. Say, you have pardoned me, protect me in a righteous manner.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 51,
+      "sloka": "स मम अदर्शनात् दीनो बाल्यात् प्रभृति लालितः ।तटाक इव पीतांबुः उपशोषम् गमिष्यति ॥४-१८-५१॥",
+      "transliteration": "sa mama adarśanāt dīno bālyāt prabhṛti lālitaḥ ।taṭāka iva pītāṁbuḥ upaśoṣam gamiṣyati ॥4-18-51॥",
+      "translations": {
+        "english": "'I neither grieve for myself nor for Tara nor for my kinsmen. But I do for my son Angada adorned with golden armlets. He is embellished with all virtues.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 52,
+      "sloka": "बालः च अकृतबुद्धिः च एक पुत्रः च मे प्रियः ।तारेयो राम भवता रक्षणीयो महाबलः ॥४-१८-५२॥",
+      "transliteration": "bālaḥ ca akṛtabuddhiḥ ca eka putraḥ ca me priyaḥ ।tāreyo rāma bhavatā rakṣaṇīyo mahābalaḥ ॥4-18-52॥",
+      "translations": {
+        "english": "'I loved him very much from his childhood. He will grow depressed in my absence. He will become like a pond whose waters have been dried up.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 53,
+      "sloka": "सुग्रीवे च अंगदे चैव विधत्स्व मतिम् उत्तमाम् ।त्वम् हि गोप्ता च शास्ता च कार्याकार्य विधौ स्थितः ॥४-१८-५३॥",
+      "transliteration": "sugrīve ca aṁgade caiva vidhatsva matim uttamām ।tvam hi goptā ca śāstā ca kāryākārya vidhau sthitaḥ ॥4-18-53॥",
+      "translations": {
+        "english": "'O Rama he is my only son through Tara and dear to me. He is young,innocent but strong.He deserves to be protected by you.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 54,
+      "sloka": "या ते नरपते वृत्तिः भरते लक्ष्मणे च या ।सुग्रीवे च अंगदे राजन् ताम् चिंतयितुम् अर्हसि ॥४-१८-५४॥",
+      "transliteration": "yā te narapate vṛttiḥ bharate lakṣmaṇe ca yā ।sugrīve ca aṁgade rājan tām ciṁtayitum arhasi ॥4-18-54॥",
+      "translations": {
+        "english": "'Shower equal affection from your heart on Sugriva and Angada. You are their protector and punisher also. You know what should and should not be done.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 55,
+      "sloka": "मत् दोष कृत दोषाम् ताम् यथा ताराम् तपस्विनीम् ।सुग्रीवो न अवमन्येत तथा अवस्थातुम् अर्हसि ॥४-१८-५५॥",
+      "transliteration": "mat doṣa kṛta doṣām tām yathā tārām tapasvinīm ।sugrīvo na avamanyeta tathā avasthātum arhasi ॥4-18-55॥",
+      "translations": {
+        "english": "'O lord of men may you have the same kind of affection for Sugriva and Angada as you have for Bharata and Lakshmana.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 56,
+      "sloka": "त्वया हि अनुगृहीतेन शक्यम् राज्यम् उपासितुम् ।त्वत् वशे वर्तमानेन तव चित्त अनुवर्तिना ॥४-१८-५६॥",
+      "transliteration": "tvayā hi anugṛhītena śakyam rājyam upāsitum ।tvat vaśe vartamānena tava citta anuvartinā ॥4-18-56॥",
+      "translations": {
+        "english": "'I hope Tara will not be made to suffer because of my offence. Make Sugriva not to run wretched Tara down.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 57,
+      "sloka": "शक्यम् दिवम् च आर्जयितुम् वसुधाम् च अपि शासितुम् ।त्वतः अहम् वधम् आकांक्षयन् वार्यमाणो अपि तारया ॥४-१८-५७॥",
+      "transliteration": "śakyam divam ca ārjayitum vasudhām ca api śāsitum ।tvataḥ aham vadham ākāṁkṣayan vāryamāṇo api tārayā ॥4-18-57॥",
+      "translations": {
+        "english": "'It is possible for a person favoured by you to rule the kingdom.It is possible for one who is under your control and acts according to your will to rule the entire world and earn heaven.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 58,
+      "sloka": "सुग्रीवेण सह भ्राता द्वन्द्व युद्धम् उपागतम् ।इति उक्त्वा वानरो रामम् विरराम हरीश्वरः ॥४-१८-५८॥",
+      "transliteration": "sugrīveṇa saha bhrātā dvandva yuddham upāgatam ।iti uktvā vānaro rāmam virarāma harīśvaraḥ ॥4-18-58॥",
+      "translations": {
+        "english": "'It is possible for a person favoured by you to rule the kingdom.It is possible for one who is under your control and acts according to your will to rule the entire world and earn heaven.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 59,
+      "sloka": "स तम् आश्वासयत् रामो वालिनम् व्यक्त दर्शनम् ।साधु सम्मतया वाचा धर्म तत्त्वार्त्ध युक्तया ॥४-१८-५९॥",
+      "transliteration": "sa tam āśvāsayat rāmo vālinam vyakta darśanam ।sādhu sammatayā vācā dharma tattvārtdha yuktayā ॥4-18-59॥",
+      "translations": {
+        "english": "'Even though I was prevented by Tara, I came for a duel with Sugriva since I wished to die in your hands.' Having spoken thus to Rama, Vali fell silent.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 60,
+      "sloka": "न संतापः त्वया कार्यम् एतत् अर्थम् प्लवंगम ।न वयम् भवता चिंत्या न अपि आत्मा हरिसत्तम ।वयम् भवत् विशेषेण धर्मतः कृत निश्चयाः ॥४-१८-६०॥",
+      "transliteration": "na saṁtāpaḥ tvayā kāryam etat artham plavaṁgama ।na vayam bhavatā ciṁtyā na api ātmā harisattama ।vayam bhavat viśeṣeṇa dharmataḥ kṛta niścayāḥ ॥4-18-60॥",
+      "translations": {
+        "english": "Now Vali was able to see clearly. Rama consoled him with words of peace and tranquillity, truth and righteousness.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 61,
+      "sloka": "दण्ड्ये यः पातयेत् दण्डम् दण्ड्यो यः च अपि दण्ड्यते ।कार्य कारण सिद्धार्थौ उभौ तौ न अवसीदतः ॥४-१८-६१॥",
+      "transliteration": "daṇḍye yaḥ pātayet daṇḍam daṇḍyo yaḥ ca api daṇḍyate ।kārya kāraṇa siddhārthau ubhau tau na avasīdataḥ ॥4-18-61॥",
+      "translations": {
+        "english": "'O best of monkeys, abandon all your anxiety on this score. Bother not about us or about yourself. Whatever has happened, has happened in consonance with dharma.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 62,
+      "sloka": "तत् भवान् दण्ड सम्योगात् अस्मात् विगत कल्मषः ।गतः स्वाम् प्रकृतिम् धर्म्याम् धर्म दिष्टेन वर्त्मना ॥४-१८-६२॥",
+      "transliteration": "tat bhavān daṇḍa samyogāt asmāt vigata kalmaṣaḥ ।gataḥ svām prakṛtim dharmyām dharma diṣṭena vartmanā ॥4-18-62॥",
+      "translations": {
+        "english": "'O best of monkeys, abandon all your anxiety on this score. Bother not about us or about yourself. Whatever has happened, has happened in consonance with dharma.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 63,
+      "sloka": "त्यज शोकम् च मोहम् च भयम् च हृदये स्थितम् ।त्वया विधानम् हर्यग्र्य न शक्यम् अतिवर्तितुम् ॥४-१८-६३॥",
+      "transliteration": "tyaja śokam ca moham ca bhayam ca hṛdaye sthitam ।tvayā vidhānam haryagrya na śakyam ativartitum ॥4-18-63॥",
+      "translations": {
+        "english": "'The sinner and the punisher, whoever gives punishment and whoever receives it, are both regulated by the law of cause and effect. So do not despair.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 64,
+      "sloka": "यथा त्वयि अंगदो नित्यम् वर्तते वानरेश्वरः ।तथा वर्तते सुग्रीवो मयि च अपि न संशयः ॥४-१८-६४॥",
+      "transliteration": "yathā tvayi aṁgado nityam vartate vānareśvaraḥ ।tathā vartate sugrīvo mayi ca api na saṁśayaḥ ॥4-18-64॥",
+      "translations": {
+        "english": "'You have been purged of your sin through punishment from the point of view of righteousness. You have regained your spiritual nature on the path of dharma.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 65,
+      "sloka": "स तस्य वाक्यम् मधुरम् महात्मनःसमाहितम् धर्म पथानुवर्तिनः ।निशम्य रामस्य रणावमर्दिनोवचः सुयुक्तम् निजगाद वानरः ॥४-१८-६५॥",
+      "transliteration": "sa tasya vākyam madhuram mahātmanaḥsamāhitam dharma pathānuvartinaḥ ।niśamya rāmasya raṇāvamardinovacaḥ suyuktam nijagāda vānaraḥ ॥4-18-65॥",
+      "translations": {
+        "english": "'O best of monkeys remove sorrow from your heart, delusion and fear. It is not possible for you to transgress fate.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 18,
+      "verse": 66,
+      "sloka": "शराभितप्तेन विचेतसा मयाप्रदूषितः त्वम् यद् अजानता विभो ।इदम् महेन्द्रोपम भीम विक्रमप्रसादितः त्वम् क्षम मे नरेश्वर ॥४-१८-६६॥",
+      "transliteration": "śarābhitaptena vicetasā mayāpradūṣitaḥ tvam yad ajānatā vibho ।idam mahendropama bhīma vikramaprasāditaḥ tvam kṣama me nareśvara ॥4-18-66॥",
+      "translations": {
+        "english": "'O lord of monkeys Angada will remain with Sugriva and with me as he used to live with you. Rest assured.'",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

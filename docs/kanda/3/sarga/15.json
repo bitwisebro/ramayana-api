@@ -1,0 +1,429 @@
+{
+  "kanda": 3,
+  "kanda_name": "Aranya Kanda",
+  "kanda_name_sanskrit": "अरण्यकाण्डम्",
+  "sarga": 15,
+  "verses_count": 30,
+  "verses": [
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 15,
+      "verse": 1,
+      "sloka": "ततः पंचवटीम् गत्वा नाना व्याल मृगायुताम् ।उवाच भ्रातरम् रामो लक्ष्मणम् दीप्त तेजसम् ॥३-१५-१॥",
+      "transliteration": "tataḥ paṁcavaṭīm gatvā nānā vyāla mṛgāyutām ।uvāca bhrātaram rāmo lakṣmaṇam dīpta tejasam ॥3-15-1॥",
+      "translations": {
+        "english": "On reaching Panchavati, which was full of various vicious animals, Rama said to Lakshmana, his brother who was glowing like fire:",
+        "hindi": "श्ररण्यकाण्ड का चौदहवाँ सगं पूरा हुआ | स जु कमन १ परिदाय--रक्षणार्थाय । ( गो० ) बा० रा० 'अ०--८ RR लन ०७१” पर ७ पञ्चुदशः सगेः — ज —— ततः पञ्चवटीं गत्वा नानाव्याल“मृगायुतास्‌ | उवाच भ्रातरं राम; सोमित्रिं दीप्ततेजसम्‌",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 15,
+      "verse": 2,
+      "sloka": "आगताः स्म यथा उद्दिष्टम् यम् देशम् मुनिः अब्रवीत् ।अयम् पंचवटी देशः सौम्य पुष्पित काननः ॥३-१५-२॥",
+      "transliteration": "āgatāḥ sma yathā uddiṣṭam yam deśam muniḥ abravīt ।ayam paṁcavaṭī deśaḥ saumya puṣpita kānanaḥ ॥3-15-2॥",
+      "translations": {
+        "english": "O handsome one, following the directions of the great sage, we have arrived at Panchavati, a place full of blossoming trees.",
+        "hindi": "सौम्य ! हम लोग महर्षि अगस्त्य जी के बतलाए हुए ७ w ~ < > SE er स्थान पर आ पहुँचे । यह्‌ पञ्चबटी है, जहा पुष्पित वृक्षा र॑ भरा - हुआ वन केस पड़ता है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 15,
+      "verse": 3,
+      "sloka": "सर्वतः चार्यताम् दृष्टिः कानने निपुणो हि असि ।आश्रमः कतर अस्मिन् नः देशे भवति सम्मतः ॥३-१५-३॥",
+      "transliteration": "sarvataḥ cāryatām dṛṣṭiḥ kānane nipuṇo hi asi ।āśramaḥ katara asmin naḥ deśe bhavati sammataḥ ॥3-15-3॥",
+      "translations": {
+        "english": "O Lakshmana cast your eyes all around the forest for a suitable place (for building a hermitage). Indeed, you are good at judging things.",
+        "hindi": "आश्रम बनाने के लिए उपयुक्त स्थान चुनने में तुम निपुण हो, अतः इस वन में दृष्टि फैला कर देखो कि, हम लोगों के आश्रम के लिए कौन सी जगह ठीक होगी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 15,
+      "verse": 4,
+      "sloka": "रमते यत्र वैदेही त्वम् अहम् चैव लक्ष्मण ।तादृशो दृश्यताम् देशः संनिकृष्ट जलाशयः ॥३-१५-४॥",
+      "transliteration": "ramate yatra vaidehī tvam aham caiva lakṣmaṇa ।tādṛśo dṛśyatām deśaḥ saṁnikṛṣṭa jalāśayaḥ ॥3-15-4॥",
+      "translations": {
+        "english": "Look, O Lakshmana for a place to the liking of Sita, a place where there is water source nearby where both of us can enjoy. Find a beautiful location where the surrounding forest is beautiful and where faggots, flowers, water and kusa grass are available at hand.",
+        "hindi": "हे लक्ष्मण ! स्थान ऐसा होना चाहिए, जहा सीता जी, तुम ओर हम सुखपूवेक रहेँ और जल भी जहाँ से समीप हो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 15,
+      "verse": 5,
+      "sloka": "वन रामण्यकम् यत्र जल रामण्यकम् तथा ।संनिकृष्टम् च यस्मिन् तु समित् पुष्प कुश उदकम् ॥३-१५-५॥",
+      "transliteration": "vana rāmaṇyakam yatra jala rāmaṇyakam tathā ।saṁnikṛṣṭam ca yasmin tu samit puṣpa kuśa udakam ॥3-15-5॥",
+      "translations": {
+        "english": "Look, O Lakshmana for a place to the liking of Sita, a place where there is water source nearby where both of us can enjoy. Find a beautiful location where the surrounding forest is beautiful and where faggots, flowers, water and kusa grass are available at hand.",
+        "hindi": "जहाँ रमशीक वन हो, जहाँ जल भी अच्छा और बहत हो जहाँ समिधा, पुष्प और कुश समीप मिल सके, ऐसा कोई स्थान तुम खोजा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 15,
+      "verse": 6,
+      "sloka": "एवम् उक्तः तु रामेण लक्मणः संयत अंजलिः ।सीता समक्षम् काकुत्स्थम् इदम् वचनम् अब्रवीत् ॥३-१५-६॥",
+      "transliteration": "evam uktaḥ tu rāmeṇa lakmaṇaḥ saṁyata aṁjaliḥ ।sītā samakṣam kākutstham idam vacanam abravīt ॥3-15-6॥",
+      "translations": {
+        "english": "Having been thus instructed by Rama, Lakshmana said with folded palms in the presence of Sita:",
+        "hindi": "श्रीरासचन्द्र जी का ऐसा वचन सुन, लक्ष्मण जी ने हाथ जोड़ कर, साता जा क सामने श्रारामचन्द्र जा सं यह कहा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 15,
+      "verse": 7,
+      "sloka": "परवान् अस्मि काकुत्स्थ त्वयि वर्ष शतम् स्थिते ।स्वयम् तु रुचिरे देशे क्रियताम् इति माम् वद ॥३-१५-७॥",
+      "transliteration": "paravān asmi kākutstha tvayi varṣa śatam sthite ।svayam tu rucire deśe kriyatām iti mām vada ॥3-15-7॥",
+      "translations": {
+        "english": "O Rama, I shall be dependent on you, even if I live for a hundred years. You only need to indicate a beautiful place of your choice.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 15,
+      "verse": 8,
+      "sloka": "सुप्रीतः तेन वाक्येन लक्ष्मणस्य महाद्युतिः ।विमृशन् रोचयामास देशम् सर्व गुण अन्वितम् ॥३-१५-८॥",
+      "transliteration": "suprītaḥ tena vākyena lakṣmaṇasya mahādyutiḥ ।vimṛśan rocayāmāsa deśam sarva guṇa anvitam ॥3-15-8॥",
+      "translations": {
+        "english": "Rama was pleased with the words of great Lakshmana. Deliberating over it, he agreed upon a site suitable in all respects.",
+        "hindi": "लक्ष्मण जी के ये वचन सुन, श्रीरामचन्द्र जी प्रसन्न हुए और उन्होने विचार कर, एक ऐसा स्थान चुना, जद्दाँ सब प्रकार की सुविधाएं था ॥=॥ स तं रुचिरमाक्रम्यरे देशमाश्रमकर्मणि\" । हस्तो ग्रहीत्वा हस्तेन रामः सोमित्रिमत्रवीत्‌",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 15,
+      "verse": 9,
+      "sloka": "स तम् रुचिरम् आक्रम्य देशम् आश्रम कर्मणि ।हस्ते गृहीत्वा हस्तेन रामः सौमित्रिम् अब्रवीत् ॥३-१५-९॥",
+      "transliteration": "sa tam ruciram ākramya deśam āśrama karmaṇi ।haste gṛhītvā hastena rāmaḥ saumitrim abravīt ॥3-15-9॥",
+      "translations": {
+        "english": "Having come to a beautiful spot suitable for the asram, Rama took both the hands of Lakshmana in his own and said:",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 15,
+      "verse": 10,
+      "sloka": "अयम् देशः समः श्रीमान् पुष्पितैर् तरुभिर् वृतः ।इह आश्रम पदम् सौम्य यथावत् कर्तुम् अर्हसि ॥३-१५-१०॥",
+      "transliteration": "ayam deśaḥ samaḥ śrīmān puṣpitair tarubhir vṛtaḥ ।iha āśrama padam saumya yathāvat kartum arhasi ॥3-15-10॥",
+      "translations": {
+        "english": "This place is level, surrounded by beautiful trees in full bloom. O handsome one, you may build the hermitage here.",
+        "hindi": "हे सौम्य ! यह्‌ स्थान समतल हे ओर परम शोभायुक्त भी भी। क्योंकि देखो, यह पुष्पित वृक्षों से घिरा हुआ हे; अतः इसी स्थान पर तुम यथायोग्य आश्रम की रचना करो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 15,
+      "verse": 11,
+      "sloka": "इयम् आदित्य संकाशैः पद्मैः सुरभि गंधिभिः ।अदूरे दृश्यते रम्या पद्मिनी पद्म शोभिता ॥३-१५-११॥",
+      "transliteration": "iyam āditya saṁkāśaiḥ padmaiḥ surabhi gaṁdhibhiḥ ।adūre dṛśyate ramyā padminī padma śobhitā ॥3-15-11॥",
+      "translations": {
+        "english": "There, not very far, is a beautiful lotustank shining like the Sun, fragrant with lotuses.",
+        "hindi": "देखो, सूयं के समान उज्ब्वल्ल, मन को प्रसन्न करने वाली, कमल के फूलों की सुगन्धि से युक्त यह पुष्करिणी भी यहाँ से समीप ही है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 15,
+      "verse": 12,
+      "sloka": "यथा आख्यातम् अगस्त्येन मुनिना भावितात्मना ।इयम् गोदावरी रम्या पुष्पितैः तरुभिर् वृता ॥३-१५-१२॥",
+      "transliteration": "yathā ākhyātam agastyena muninā bhāvitātmanā ।iyam godāvarī ramyā puṣpitaiḥ tarubhir vṛtā ॥3-15-12॥",
+      "translations": {
+        "english": "As said by the selfrealised soul, sage Agastya, this Godavari is beautiful, surrounded by trees with flowers in bloom, filled with flocks of swans, ducks and ruddy geese.",
+        "hindi": "बिशुद्धात्मा अगस्त्य मुनि ने जैशा बतलाया था, वैसा ही यहाँ गोदावरी का दृश्य हे । देखो, रमणीय गोदावरी नदी, फूले हुए यूक्षा से घिरी हुई हे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 15,
+      "verse": 13,
+      "sloka": "हंस कारण्डव आकीर्णा चक्रवाक उपशोभिता ।न अतिदूरे न च आसन्ने मृग यूथ निपीडिता ॥३-१५-१३॥",
+      "transliteration": "haṁsa kāraṇḍava ākīrṇā cakravāka upaśobhitā ।na atidūre na ca āsanne mṛga yūtha nipīḍitā ॥3-15-13॥",
+      "translations": {
+        "english": "O handsome one, neither far nor near are seen tall mountains and flowering trees and herds of deer. Their numerous caves echo with sounds of peacocks.",
+        "hindi": "हंस, जलकुक्कुट और चक्रवाकों से शोभित है ओर वह वहाँ के न तो अति निकट और न बहुत दूर ही है । इसके तट पर बन्यपशु जल पीने के लिए आया करते हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 15,
+      "verse": 14,
+      "sloka": "मयूर नादिता रम्याः प्रांशवो बहु कंदराः ।दृश्यन्ते गिरयः सौम्य फुल्लैः तरुभिर् आवृताः ॥३-१५-१४॥",
+      "transliteration": "mayūra nāditā ramyāḥ prāṁśavo bahu kaṁdarāḥ ।dṛśyante girayaḥ saumya phullaiḥ tarubhir āvṛtāḥ ॥3-15-14॥",
+      "translations": {
+        "english": "O handsome one, neither far nor near are seen tall mountains and flowering trees and herds of deer. Their numerous caves echo with sounds of peacocks.",
+        "hindi": "यहाँ से ऐसे अनेक पर्वत देख पड़ते हूं, जिन पर मोर बोल रहे हैं, जो बड़े रमणीक, ऊंचे, अनेक शुफाओं से सुशोभित और फूले वृत्तां से युक्त हें",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 15,
+      "verse": 15,
+      "sloka": "सौवर्णै राजतैः ताम्रैः देशे देशे च धातुभिः ।गवाक्षिता इव आभान्ति गजाः परम भक्तिभिः ॥३-१५-१५॥",
+      "transliteration": "sauvarṇai rājataiḥ tāmraiḥ deśe deśe ca dhātubhiḥ ।gavākṣitā iva ābhānti gajāḥ parama bhaktibhiḥ ॥3-15-15॥",
+      "translations": {
+        "english": "These mountains, with streaks of minerals like gold, silver and copper forming decorative designs, look beautiful like colourful windows, and appear like huge elephants.",
+        "hindi": "ये पहाड़ जगह जगह सोने, चाँदी, तांबा आदि धातुओं से सुशोभित हैं । धातुओं के रंग की रेखाओं से युक्त हाथी ऐसे जान पड़ते हैं, मानों मकानों में खिड़कियाँ लगी हाँ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 15,
+      "verse": 16,
+      "sloka": "सालैः तालैः तमालैः च खर्जूरैः पनसैः द्रुमैः ।नीवारैः तिनिशैः चैव पुन्नागैः च उपशोभिताः ॥३-१५-१६॥",
+      "transliteration": "sālaiḥ tālaiḥ tamālaiḥ ca kharjūraiḥ panasaiḥ drumaiḥ ।nīvāraiḥ tiniśaiḥ caiva punnāgaiḥ ca upaśobhitāḥ ॥3-15-16॥",
+      "translations": {
+        "english": "The place is covered with sal and palmyrah trees including mango, jackfruit, dates, kadamba, punnaga, ashoka, champak, tilaka, ketaka, sandalwood, spandan, dhava, asvakarna parnasha, khadira, sami, kimsuka and patala trees. It is full of wild paddy, flowering bushes and creepers that run on the ground.",
+        "hindi": "ये पहाड़ साल, ताल, तमाल, खजूर, कटहर, तिन्नी, निवार, तिमिश और नागवृर्षो से सुशोभित हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 15,
+      "verse": 17,
+      "sloka": "चूतैर् अशोकैः तिलकैः केतकैर् अपि चंपकैः  ।पुष्प गुल्म लता उपेतैः तैः तैः तरुभिर् आवृताः ॥३-१५-१७॥",
+      "transliteration": "cūtair aśokaiḥ tilakaiḥ ketakair api caṁpakaiḥ  ।puṣpa gulma latā upetaiḥ taiḥ taiḥ tarubhir āvṛtāḥ ॥3-15-17॥",
+      "translations": {
+        "english": "The place is covered with sal and palmyrah trees including mango, jackfruit, dates, kadamba, punnaga, ashoka, champak, tilaka, ketaka, sandalwood, spandan, dhava, asvakarna parnasha, khadira, sami, kimsuka and patala trees. It is full of wild paddy, flowering bushes and creepers that run on the ground.",
+        "hindi": "तिमिश और नागढ़चों से सुशोभित हैं ॥९७ ___ १ प्रांशव:--उन्नता: । ( गो० ) २ फुल्लैः विकसितपुष्पै: । ( गो० ) ३ परमभक्तिभिः--उत्कृष्टरेखालङ्कारैः । (गो०) ४ श्रा्रकेः—रसाल भेदैः | (योश) * पाठान्तरे-“नातिदूरेण ” ११८ Y कश्य ० क स्तिल के Fe हक चूतैरशोकैस्तिलकैश्चम्पकैः केतकैरपि | पष्पगुस्मलतापतस्तेस्तेस्तरुभिराहताः",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 15,
+      "verse": 18,
+      "sloka": "स्यन्दनैः चंदनैः  नीपैः पर्णासैः लकुचैः अपि ।धव अश्वकर्ण खदिरैः शमी किंशुक पाटलैः ॥३-१५-१८॥",
+      "transliteration": "syandanaiḥ caṁdanaiḥ  nīpaiḥ parṇāsaiḥ lakucaiḥ api ।dhava aśvakarṇa khadiraiḥ śamī kiṁśuka pāṭalaiḥ ॥3-15-18॥",
+      "translations": {
+        "english": "The place is covered with sal and palmyrah trees including mango, jackfruit, dates, kadamba, punnaga, ashoka, champak, tilaka, ketaka, sandalwood, spandan, dhava, asvakarna parnasha, khadira, sami, kimsuka and patala trees. It is full of wild paddy, flowering bushes and creepers that run on the ground.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 15,
+      "verse": 19,
+      "sloka": "इदम् पुण्यम् इदम् रम्यम् इदम् बहु मृग द्विजम् ।इह वत्स्याम सौमित्रे सार्धम् एतेन पक्षिणा ॥३-१५-१९॥",
+      "transliteration": "idam puṇyam idam ramyam idam bahu mṛga dvijam ।iha vatsyāma saumitre sārdham etena pakṣiṇā ॥3-15-19॥",
+      "translations": {
+        "english": "This is a holy place fit for sacrifice. There are many animals and birds here.Hence we will reside here with Jatayu.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 15,
+      "verse": 20,
+      "sloka": "एवम् उक्तः तु रामेण लक्ष्मणः परवीरहा ।अचिरेण आश्रमम् भ्रातुः चकार सुमहाबलः ॥३-१५-२०॥",
+      "transliteration": "evam uktaḥ tu rāmeṇa lakṣmaṇaḥ paravīrahā ।acireṇa āśramam bhrātuḥ cakāra sumahābalaḥ ॥3-15-20॥",
+      "translations": {
+        "english": "Thus directed by Rama, the mighty Lakshmana, destroyer of enemy warriors, soon built a hermitage for his brother.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 15,
+      "verse": 21,
+      "sloka": "पर्णशालाम् सुविपुलाम् तत्र संघात मृत्तिकाम् ।सुस्तंभाम् मस्करैर् दीर्घैः कृत वंशाम् सुशोभनाम् ॥३-१५-२१॥",
+      "transliteration": "parṇaśālām suvipulām tatra saṁghāta mṛttikām ।sustaṁbhām maskarair dīrghaiḥ kṛta vaṁśām suśobhanām ॥3-15-21॥",
+      "translations": {
+        "english": "Lakshmana who was quick to act dug the clay with nippers, planted long bamboo poles, put branches of sami trees across and tied them with strong ropes. He spread kusa and kasa grass and leaves on the levelled ground. He built a beautiful, spacious and nice residence for Rama.",
+        "hindi": "इदपुण्य दश नमाजेणपुण्यसम्पादकम्‌ । (शि०) २ भेध्यं-- पवित्रं | ( यो० ) ३ मस्करे:--वेणु भिः | ( गो है दु प्‌ ७ ‘+ ० ब्र सखात [तका rE भित्तीङृतमृत्तिकां | ( गोऽ ) ) CAS >- ७८.७ उस प्रशस्त पर्णशाला में सट्टी की दीवालें खड़ी कीं ओर लंबे बासों की थूनियो पर, बाँसों का ठाठ बांधा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 15,
+      "verse": 22,
+      "sloka": "शमी शाखाभिः आस्तीर्य धृढ पाशावपाशितम् ।कुश काश शरैः पर्णैः सुपरिच्छादिताम् तथा ॥३-१५-२२॥",
+      "transliteration": "śamī śākhābhiḥ āstīrya dhṛḍha pāśāvapāśitam ।kuśa kāśa śaraiḥ parṇaiḥ suparicchāditām tathā ॥3-15-22॥",
+      "translations": {
+        "english": "Lakshmana who was quick to act dug the clay with nippers, planted long bamboo poles, put branches of sami trees across and tied them with strong ropes. He spread kusa and kasa grass and leaves on the levelled ground. He built a beautiful, spacious and nice residence for Rama.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 15,
+      "verse": 23,
+      "sloka": "समीकृत तलाम् रम्याम् चकार सुमहाबलः ।निवासम् राघवस्य अर्थे प्रेक्ष्णीयम् अनुत्तमम् ॥३-१५-२३॥",
+      "transliteration": "samīkṛta talām ramyām cakāra sumahābalaḥ ।nivāsam rāghavasya arthe prekṣṇīyam anuttamam ॥3-15-23॥",
+      "translations": {
+        "english": "Lakshmana who was quick to act dug the clay with nippers, planted long bamboo poles, put branches of sami trees across and tied them with strong ropes. He spread kusa and kasa grass and leaves on the levelled ground. He built a beautiful, spacious and nice residence for Rama.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 15,
+      "verse": 24,
+      "sloka": "स गत्वा लक्ष्मणः श्रीमान् नदीम् गोदावरीम् तदा ।स्नात्वा पद्मानि च आदाय सफलः पुनर् आगतः ॥३-१५-२४॥",
+      "transliteration": "sa gatvā lakṣmaṇaḥ śrīmān nadīm godāvarīm tadā ।snātvā padmāni ca ādāya saphalaḥ punar āgataḥ ॥3-15-24॥",
+      "translations": {
+        "english": "Lakshmana then went to river Godavari, had his bath, and returned with some lotuses.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 15,
+      "verse": 25,
+      "sloka": "ततः पुष्प बलिम् कृत्वा शान्तिम् च स यथाविधि ।दर्शयामास रामाय तद् आश्रम पदम् कृतम् ॥३-१५-२५॥",
+      "transliteration": "tataḥ puṣpa balim kṛtvā śāntim ca sa yathāvidhi ।darśayāmāsa rāmāya tad āśrama padam kṛtam ॥3-15-25॥",
+      "translations": {
+        "english": "Lakshmana offered oblation of flowers, invoked peace as per tradition (before occupying a newly made home) and showed Rama the cottage he had built.",
+        "hindi": "लौट कर लक्ष्मण जीं ने पुष्पवलि दे तथा यथाविधान वास्तु | शान्ति कर, उस ( नवीन ) बनाए हुए आश्रम को, श्रीरामचन्द्र को र ० दिखलाया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 15,
+      "verse": 26,
+      "sloka": "स तम् दृष्ट्वा कृतम् सौम्यम् आश्रमम् सह सीतया ।राघवः पर्णशालायाम् हर्षम् आहारयत् परम् ॥३-१५-२६॥",
+      "transliteration": "sa tam dṛṣṭvā kṛtam saumyam āśramam saha sītayā ।rāghavaḥ parṇaśālāyām harṣam āhārayat param ॥3-15-26॥",
+      "translations": {
+        "english": "Rama and Sita saw the beautiful hermitage built by Lakshmana, and expressed much happiness over the leafthatched cottage.",
+        "hindi": "श्रीरामचन्द्र जी सीता जी के साथ, लक्ष्मण जी-की बनाई हुई ओर देखने में सुन्दर उस कुटी को देख, परम सन्तुष्ट हुए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 15,
+      "verse": 27,
+      "sloka": "सुसंहृष्टः परिष्वज्य बाहुभ्याम् लक्ष्मणम् तदा ।अति स्निग्धम् च गाढम् च वचनम् च इदम् अब्रवीत् ॥३-१५-२७॥",
+      "transliteration": "susaṁhṛṣṭaḥ pariṣvajya bāhubhyām lakṣmaṇam tadā ।ati snigdham ca gāḍham ca vacanam ca idam abravīt ॥3-15-27॥",
+      "translations": {
+        "english": "Deeply pleased with Lakshmana, he hugged him tightly and said those loving words :",
+        "hindi": "तब प्रसन्न हो, श्रीरामचन्द्र जी ने लक्ष्म च (ता रकम ण॒ को अच्छी तरह छाती से लगा लिआ और यह बोले",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 15,
+      "verse": 28,
+      "sloka": "प्रीतो अस्मि ते महत् कर्म त्वया कृतम् इदम् प्रभो ।प्रदेयो यन् निमित्तम् ते परिष्वंगो मया कृतः ॥३-१५-२८॥",
+      "transliteration": "prīto asmi te mahat karma tvayā kṛtam idam prabho ।pradeyo yan nimittam te pariṣvaṁgo mayā kṛtaḥ ॥3-15-28॥",
+      "translations": {
+        "english": "O my master, you have done a great task for which I have given you what I could give at the moment a hug.",
+        "hindi": "हे बच्मण ! में तुम पर बहुत प्रसन्न हूँ । तुमने यह बड़ा भारी काम कर डाला । इसका तुस्हें पुरस्कार भी मिलना चाहिए--सो उस पुरस्कार के बदले, मेंने तुम्हें अपने हृदय से लगा लिआ '",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 15,
+      "verse": 29,
+      "sloka": "भावज्ञेन कृतज्ञेन धर्मज्ञेन च लक्ष्मण ।त्वया पुत्रेण धर्मात्मा न संवृत्तः पिता मम ॥३-१५-२९॥",
+      "transliteration": "bhāvajñena kṛtajñena dharmajñena ca lakṣmaṇa ।tvayā putreṇa dharmātmā na saṁvṛttaḥ pitā mama ॥3-15-29॥",
+      "translations": {
+        "english": "O Lakshmana with a son like you who can understand others' feelings, who has a sense of gratitude and a sense of duty my father is not dead yet.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 15,
+      "verse": 30,
+      "sloka": "एवम् लक्ष्मणम् उक्त्वा तु राघवो लक्ष्मिवर्धनः ।तस्मिन् देशे बहु फले न्यवसत् स सुखम् सुखी ॥३-१५-३०॥",
+      "transliteration": "evam lakṣmaṇam uktvā tu rāghavo lakṣmivardhanaḥ ।tasmin deśe bahu phale nyavasat sa sukham sukhī ॥3-15-30॥",
+      "translations": {
+        "english": "Rama who was an enhancer of fortunes and who had his senses under control said thus to Lakshmana and lived happily there in that place filled with fruits.",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

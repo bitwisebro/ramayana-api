@@ -1,0 +1,345 @@
+{
+  "kanda": 1,
+  "kanda_name": "Bala Kanda",
+  "kanda_name_sanskrit": "बालकाण्डम्",
+  "sarga": 7,
+  "verses_count": 24,
+  "verses": [
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 7,
+      "verse": 1,
+      "sloka": "तस्य अमात्या गुणैर् आसन् इक्ष्ह्वकोस्तु महात्मनः ।मंत्रज्ञाः च इङ्गितज्ञाः च नित्यम् प्रिय हिते रताः ॥१-७-१॥",
+      "transliteration": "tasya amātyā guṇair āsan ikṣhvakostu mahātmanaḥ ।maṁtrajñāḥ ca iṅgitajñāḥ ca nityam priya hite ratāḥ ॥1-7-1॥",
+      "translations": {
+        "english": "The ministers of the great descendent of the Ikshvakus were endowed with all virtues. They were competent counsellors, skilled in judging motives from facial features and were always intent on doing good and all that was dear and helpful to the king.",
+        "hindi": "",
+        "telugu": "ఇక్ష్వాకువంశజుడును, మిక్కిలి ప్రజ్ఞాశాలియు ఐన దశరథ మహారాజుయొక్క అమాత్యులు కార్యవిచారణలో దక్షులు, ఇతరుల అభిప్రాయములను గుర్తించుటలో సమర్థులు. ఎల్లప్పుడును రాజునకు ప్రియమును గూర్చుట (మేలు చేయుట) యందే నిరతులు, సద్గుణసంపన్నులు."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 7,
+      "verse": 2,
+      "sloka": "अष्टौ बभूवुः वीरस्य तस्य अमात्या यशस्विनः ।शुचयः च अनुरक्ताः च राजकृत्येषु नित्यशः ॥१-७-२॥",
+      "transliteration": "aṣṭau babhūvuḥ vīrasya tasya amātyā yaśasvinaḥ ।śucayaḥ ca anuraktāḥ ca rājakṛtyeṣu nityaśaḥ ॥1-7-2॥",
+      "translations": {
+        "english": "The mighty and glorious (king Dasaratha) had eight ministers who were free from blemish in their dealings and ever devoted to royal duties.",
+        "hindi": "",
+        "telugu": "వీరుడును, గొప్ప కీర్తిప్రతిష్ఠలు గలవాడును ఐన దశరథునియొక్క ఆస్థానమున ఎనిమిదిమంది మంత్రులు గలరు. వారు సర్వవ్యవహారములయందు ఎట్టి దోషములకును తావీయనివారు, సర్వదా రాజకార్యములను నిర్వహించుటయందు తత్పరులు. ధృష్టి, జయంతుడు, విజయుడు, సిద్ధార్థుడు, అర్థసాధకుడు, అశోకుడు, మంత్రపాలుడు, సుమంత్రుడు అనువారు ఆ ఎనిమిదిమంది మంత్రులు."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 7,
+      "verse": 3,
+      "sloka": "धृष्टिर् जयन्तो विजयो सुराष्ट्रो राष्ट्र वर्धनः ।अकोपो धर्मपालः च सुमंत्रः च अष्टमो अर्थवित् ॥१-७-३॥",
+      "transliteration": "dhṛṣṭir jayanto vijayo surāṣṭro rāṣṭra vardhanaḥ ।akopo dharmapālaḥ ca sumaṁtraḥ ca aṣṭamo arthavit ॥1-7-3॥",
+      "translations": {
+        "english": "The eight ministers were Dhrishti, Jayanta,Vijaya, Siddhartha, Arthasadhaka, Ashoka, Mantrapala and Sumantra.",
+        "hindi": "",
+        "telugu": "వీరుడును, గొప్ప కీర్తిప్రతిష్ఠలు గలవాడును ఐన దశరథునియొక్క ఆస్థానమున ఎనిమిదిమంది మంత్రులు గలరు. వారు సర్వవ్యవహారములయందు ఎట్టి దోషములకును తావీయనివారు, సర్వదా రాజకార్యములను నిర్వహించుటయందు తత్పరులు. ధృష్టి, జయంతుడు, విజయుడు, సిద్ధార్థుడు, అర్థసాధకుడు, అశోకుడు, మంత్రపాలుడు, సుమంత్రుడు అనువారు ఆ ఎనిమిదిమంది మంత్రులు."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 7,
+      "verse": 4,
+      "sloka": "ऋत्विजौ द्वौ अभिमतौ तस्याः ताम् ऋषि सत्तमौ ।वशिष्ठो वामदेवः च मंत्रिणः च तथा अपरे ॥१-७-४॥",
+      "transliteration": "ṛtvijau dvau abhimatau tasyāḥ tām ṛṣi sattamau ।vaśiṣṭho vāmadevaḥ ca maṁtriṇaḥ ca tathā apare ॥1-7-4॥",
+      "translations": {
+        "english": "He had two wellchosen excellent rishis, Vasishta and Vamadeva, as family priests besides some other counsellors.",
+        "hindi": "",
+        "telugu": "వశిష్ఠుడు, వామదేవుడు అను మహర్షులు ఇద్దఱును ఆ ఆస్థానమున ప్రధాన పురోహితులుగా ఉండిరి. ఇంకను జాబాలి మొదలగు పురోహితులును, మంత్రులును ఉండిరి. వారు న్యాయశాస్త్రము దండనీతి మొదలగు రాజవిద్యలలో నిపుణులు, అకృత్యములకు పాల్పడనివారు, నీతికుశలురు, విధ్యుక్తముగాని కార్యములయెడ విముఖులు, సంపన్నులు, మిక్కిలి ప్రజ్ఞావంతులు, రాజనీతిని ఎఱిగినవారు, తిరుగులేని పరాక్రమముగలవారు, మంత్రాంగమునందు ఖ్యాతికెక్కినవారు, రాజకార్యములయందు ఏమఱుపాటు లేనివారు, త్రికరణశుద్ధి గలవారు, తేజోమూర్తులు, క్షమాగుణముగలవారు, కీర్తిప్రతిష్ఠలుగలవారు, చిఱునవ్వుతో ముందుగా మాట్లాడువారు, కోపమువలన గాని, కోరికలవలనగాని, స్వార్థచింతన వలనగాని అసత్యమునకు ఒడిగట్టనివారు. స్వరాష్ట్రములయందుగాని, పరరాష్ట్రములయందుగాని జరిగిన, జరుగుచున్న, జరగబోవు విషయములన్నియును ఆ మంత్రులకు చారుల ద్వారా తెలియుచునే యుండును."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 7,
+      "verse": 5,
+      "sloka": "सुयज्ञो अपि अथ जाबालिः काशय्पो अपि अथ गौतमः ।मार्कण्डेयः तु दीर्घायुः तथा कात्यायनो द्विजः ॥१-७-५॥",
+      "transliteration": "suyajño api atha jābāliḥ kāśaypo api atha gautamaḥ ।mārkaṇḍeyaḥ tu dīrghāyuḥ tathā kātyāyano dvijaḥ ॥1-7-5॥",
+      "translations": {
+        "english": "They were welleducated in all branches of knowledge and deemed unjust acts shameful. They were renowned, proficient, versed in sastras, wealthy and magnanimous. They had their senses restrained and their deeds were in accordance with their words. They acted with determination. They were brilliant, forgiving and reputed. And always spoke with a smile.",
+        "hindi": "",
+        "telugu": "వశిష్ఠుడు, వామదేవుడు అను మహర్షులు ఇద్దఱును ఆ ఆస్థానమున ప్రధాన పురోహితులుగా ఉండిరి. ఇంకను జాబాలి మొదలగు పురోహితులును, మంత్రులును ఉండిరి. వారు న్యాయశాస్త్రము దండనీతి మొదలగు రాజవిద్యలలో నిపుణులు, అకృత్యములకు పాల్పడనివారు, నీతికుశలురు, విధ్యుక్తముగాని కార్యములయెడ విముఖులు, సంపన్నులు, మిక్కిలి ప్రజ్ఞావంతులు, రాజనీతిని ఎఱిగినవారు, తిరుగులేని పరాక్రమముగలవారు, మంత్రాంగమునందు ఖ్యాతికెక్కినవారు, రాజకార్యములయందు ఏమఱుపాటు లేనివారు, త్రికరణశుద్ధి గలవారు, తేజోమూర్తులు, క్షమాగుణముగలవారు, కీర్తిప్రతిష్ఠలుగలవారు, చిఱునవ్వుతో ముందుగా మాట్లాడువారు, కోపమువలన గాని, కోరికలవలనగాని, స్వార్థచింతన వలనగాని అసత్యమునకు ఒడిగట్టనివారు. స్వరాష్ట్రములయందుగాని, పరరాష్ట్రములయందుగాని జరిగిన, జరుగుచున్న, జరగబోవు విషయములన్నియును ఆ మంత్రులకు చారుల ద్వారా తెలియుచునే యుండును."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 7,
+      "verse": 6,
+      "sloka": "एतैः ब्रह्मर्षिभिर् नित्यम् ऋत्विजः तस्य पौर्वकाः ।विद्या विनीता ह्रीमंतः कुशला नियतेन्द्रियाः ॥१-७-६॥",
+      "transliteration": "etaiḥ brahmarṣibhir nityam ṛtvijaḥ tasya paurvakāḥ ।vidyā vinītā hrīmaṁtaḥ kuśalā niyatendriyāḥ ॥1-7-6॥",
+      "translations": {
+        "english": "They were welleducated in all branches of knowledge and deemed unjust acts shameful. They were renowned, proficient, versed in sastras, wealthy and magnanimous. They had their senses restrained and their deeds were in accordance with their words. They acted with determination. They were brilliant, forgiving and reputed. And always spoke with a smile.",
+        "hindi": "",
+        "telugu": "వశిష్ఠుడు, వామదేవుడు అను మహర్షులు ఇద్దఱును ఆ ఆస్థానమున ప్రధాన పురోహితులుగా ఉండిరి. ఇంకను జాబాలి మొదలగు పురోహితులును, మంత్రులును ఉండిరి. వారు న్యాయశాస్త్రము దండనీతి మొదలగు రాజవిద్యలలో నిపుణులు, అకృత్యములకు పాల్పడనివారు, నీతికుశలురు, విధ్యుక్తముగాని కార్యములయెడ విముఖులు, సంపన్నులు, మిక్కిలి ప్రజ్ఞావంతులు, రాజనీతిని ఎఱిగినవారు, తిరుగులేని పరాక్రమముగలవారు, మంత్రాంగమునందు ఖ్యాతికెక్కినవారు, రాజకార్యములయందు ఏమఱుపాటు లేనివారు, త్రికరణశుద్ధి గలవారు, తేజోమూర్తులు, క్షమాగుణముగలవారు, కీర్తిప్రతిష్ఠలుగలవారు, చిఱునవ్వుతో ముందుగా మాట్లాడువారు, కోపమువలన గాని, కోరికలవలనగాని, స్వార్థచింతన వలనగాని అసత్యమునకు ఒడిగట్టనివారు. స్వరాష్ట్రములయందుగాని, పరరాష్ట్రములయందుగాని జరిగిన, జరుగుచున్న, జరగబోవు విషయములన్నియును ఆ మంత్రులకు చారుల ద్వారా తెలియుచునే యుండును."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 7,
+      "verse": 7,
+      "sloka": "श्रीमन्तः च महात्मनः शास्त्रज्ञा धृढ विक्रमाः ।कीर्तिमन्तः प्रणिहिता यथा वचन कारिणः ॥१-७-७॥",
+      "transliteration": "śrīmantaḥ ca mahātmanaḥ śāstrajñā dhṛḍha vikramāḥ ।kīrtimantaḥ praṇihitā yathā vacana kāriṇaḥ ॥1-7-7॥",
+      "translations": {
+        "english": "Either in anger or for pecuniary gains or for fulfilment of desire, they never uttered an untrue or unjust word. In the midst of their own people or among their enemies, they knew, through spies everything being done or had been done or intended to be done in future.",
+        "hindi": "",
+        "telugu": "వశిష్ఠుడు, వామదేవుడు అను మహర్షులు ఇద్దఱును ఆ ఆస్థానమున ప్రధాన పురోహితులుగా ఉండిరి. ఇంకను జాబాలి మొదలగు పురోహితులును, మంత్రులును ఉండిరి. వారు న్యాయశాస్త్రము దండనీతి మొదలగు రాజవిద్యలలో నిపుణులు, అకృత్యములకు పాల్పడనివారు, నీతికుశలురు, విధ్యుక్తముగాని కార్యములయెడ విముఖులు, సంపన్నులు, మిక్కిలి ప్రజ్ఞావంతులు, రాజనీతిని ఎఱిగినవారు, తిరుగులేని పరాక్రమముగలవారు, మంత్రాంగమునందు ఖ్యాతికెక్కినవారు, రాజకార్యములయందు ఏమఱుపాటు లేనివారు, త్రికరణశుద్ధి గలవారు, తేజోమూర్తులు, క్షమాగుణముగలవారు, కీర్తిప్రతిష్ఠలుగలవారు, చిఱునవ్వుతో ముందుగా మాట్లాడువారు, కోపమువలన గాని, కోరికలవలనగాని, స్వార్థచింతన వలనగాని అసత్యమునకు ఒడిగట్టనివారు. స్వరాష్ట్రములయందుగాని, పరరాష్ట్రములయందుగాని జరిగిన, జరుగుచున్న, జరగబోవు విషయములన్నియును ఆ మంత్రులకు చారుల ద్వారా తెలియుచునే యుండును."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 7,
+      "verse": 8,
+      "sloka": "तेजः क्षमा यशः प्राप्ताः स्मित पूर्व अभिभाषिणः ।क्रोधात् काम अर्थ हेतोर् वा न ब्रूयुर् अनृतम् वचः ॥१-७-८॥",
+      "transliteration": "tejaḥ kṣamā yaśaḥ prāptāḥ smita pūrva abhibhāṣiṇaḥ ।krodhāt kāma artha hetor vā na brūyur anṛtam vacaḥ ॥1-7-8॥",
+      "translations": {
+        "english": "They knew how to deal (with people). They were true to their friends. They used to impose appropriate punishment even on their own sons.",
+        "hindi": "",
+        "telugu": "ఆ మంత్రులు, సమస్త వ్యవహారములయందును సమర్థులు. మిత్రులయెడ తమప్రవర్తనకు సంబంధించి రాజపరీక్షలలో నెగ్గినవారు. అపరాధము చేసినవారు తమసుతులైనప్పటికిని నిష్పక్షపాతముగా దండించెడివారు. వారు కోశాగారమును నింపుటకై ధనమును సమకూర్చుటయందును, యోగ్యతలను బట్టి వేతనములను ఒసంగుచు చతురంగబలములను సంరక్షించుటయందును జాగరూకులై యుందురు. ఇంకను, వారు శత్రువులను ఎదుర్కొనగల వీరులు, సర్వదా శత్రువులను జయించుటకు ఉత్సాహపడుచుండువారు. ఐనను శత్రువు నిరపరాధియైనచొ అతనిని దండించెడివారు కారు. రాజనీతిని అనుసరించి శాసనములను ఆచరణలోనుంచెడివారు. అందువలన స్వదేశవాసులైన సాధువులను రక్షించువారు, అసాధువులను శిక్షించువారు. మఱియు వారు బ్రాహ్మణులకును, క్షత్రియులకును బాధ కలుగకుండ ధనాగారమును నింపెడివారు. అపరాథుల యొక్క దోషముల తారతమ్యములను బట్టియు, (అపరాధ రుసుము చెల్లించు విషయమున) వారి శక్తిసామర్థ్యములను బట్టియు దండనలను విధించెడివారు."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 7,
+      "verse": 9,
+      "sloka": "तेषाम् अविदितम् किंचत् श्वेषु नास्ति परेषु वा ।क्रियमाणम् कृतम् वा अपि चारेण अपि चिकीर्षितम् ॥१-७-९॥",
+      "transliteration": "teṣām aviditam kiṁcat śveṣu nāsti pareṣu vā ।kriyamāṇam kṛtam vā api cāreṇa api cikīrṣitam ॥1-7-9॥",
+      "translations": {
+        "english": "They were experts in replenishing the exchequer and in collecting the army. They never inflicted any punishment even on those who were not their wellwishers, if they did not commit any offence.",
+        "hindi": "उन इच्ाकुबंशोद्भम महाराज दशरथ के! मंत्रिगण, सर्वगुण सम्पन्न, सत्परासरां देने में निपण, अपने स्वामी ( अथात्‌ महाराज दशरथ ) के मन की गति को समझने वाले, अर्थात्‌ इशारों पर काम करने वाले और महाराज की सदा भलाई चाहने वाले थे",
+        "telugu": "ఆ మంత్రులు, సమస్త వ్యవహారములయందును సమర్థులు. మిత్రులయెడ తమప్రవర్తనకు సంబంధించి రాజపరీక్షలలో నెగ్గినవారు. అపరాధము చేసినవారు తమసుతులైనప్పటికిని నిష్పక్షపాతముగా దండించెడివారు. వారు కోశాగారమును నింపుటకై ధనమును సమకూర్చుటయందును, యోగ్యతలను బట్టి వేతనములను ఒసంగుచు చతురంగబలములను సంరక్షించుటయందును జాగరూకులై యుందురు. ఇంకను, వారు శత్రువులను ఎదుర్కొనగల వీరులు, సర్వదా శత్రువులను జయించుటకు ఉత్సాహపడుచుండువారు. ఐనను శత్రువు నిరపరాధియైనచొ అతనిని దండించెడివారు కారు. రాజనీతిని అనుసరించి శాసనములను ఆచరణలోనుంచెడివారు. అందువలన స్వదేశవాసులైన సాధువులను రక్షించువారు, అసాధువులను శిక్షించువారు. మఱియు వారు బ్రాహ్మణులకును, క్షత్రియులకును బాధ కలుగకుండ ధనాగారమును నింపెడివారు. అపరాథుల యొక్క దోషముల తారతమ్యములను బట్టియు, (అపరాధ రుసుము చెల్లించు విషయమున) వారి శక్తిసామర్థ్యములను బట్టియు దండనలను విధించెడివారు."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 7,
+      "verse": 10,
+      "sloka": "कुशला व्य्वहारेषु सौहृदेषु परीक्षिताः ।प्राप्त कालम् यथा दण्डम् धारयेयुः सुतेषु अपि ॥१-७-१०॥",
+      "transliteration": "kuśalā vyvahāreṣu sauhṛdeṣu parīkṣitāḥ ।prāpta kālam yathā daṇḍam dhārayeyuḥ suteṣu api ॥1-7-10॥",
+      "translations": {
+        "english": "They were heroic. They possessed steady perseverance. They followed the state policy and always protected the virtuous people living in the state.",
+        "hindi": "",
+        "telugu": "ఆ మంత్రులు, సమస్త వ్యవహారములయందును సమర్థులు. మిత్రులయెడ తమప్రవర్తనకు సంబంధించి రాజపరీక్షలలో నెగ్గినవారు. అపరాధము చేసినవారు తమసుతులైనప్పటికిని నిష్పక్షపాతముగా దండించెడివారు. వారు కోశాగారమును నింపుటకై ధనమును సమకూర్చుటయందును, యోగ్యతలను బట్టి వేతనములను ఒసంగుచు చతురంగబలములను సంరక్షించుటయందును జాగరూకులై యుందురు. ఇంకను, వారు శత్రువులను ఎదుర్కొనగల వీరులు, సర్వదా శత్రువులను జయించుటకు ఉత్సాహపడుచుండువారు. ఐనను శత్రువు నిరపరాధియైనచొ అతనిని దండించెడివారు కారు. రాజనీతిని అనుసరించి శాసనములను ఆచరణలోనుంచెడివారు. అందువలన స్వదేశవాసులైన సాధువులను రక్షించువారు, అసాధువులను శిక్షించువారు. మఱియు వారు బ్రాహ్మణులకును, క్షత్రియులకును బాధ కలుగకుండ ధనాగారమును నింపెడివారు. అపరాథుల యొక్క దోషముల తారతమ్యములను బట్టియు, (అపరాధ రుసుము చెల్లించు విషయమున) వారి శక్తిసామర్థ్యములను బట్టియు దండనలను విధించెడివారు."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 7,
+      "verse": 11,
+      "sloka": "कोश संग्रहणे युक्ता बलस्य च परिग्रहे ।अहितम् च अपि पुरुषम् न हिंस्युर् अविदूषकम् ॥१-७-११॥",
+      "transliteration": "kośa saṁgrahaṇe yuktā balasya ca parigrahe ।ahitam ca api puruṣam na hiṁsyur avidūṣakam ॥1-7-11॥",
+      "translations": {
+        "english": "While ensuring that they did not cause pain to brahmanas and kshatriyas (in thought, word and deed), they filled the treasury. They inflicted stringent punishments on a man after examining his strength and weakness.",
+        "hindi": "",
+        "telugu": "ఆ మంత్రులు, సమస్త వ్యవహారములయందును సమర్థులు. మిత్రులయెడ తమప్రవర్తనకు సంబంధించి రాజపరీక్షలలో నెగ్గినవారు. అపరాధము చేసినవారు తమసుతులైనప్పటికిని నిష్పక్షపాతముగా దండించెడివారు. వారు కోశాగారమును నింపుటకై ధనమును సమకూర్చుటయందును, యోగ్యతలను బట్టి వేతనములను ఒసంగుచు చతురంగబలములను సంరక్షించుటయందును జాగరూకులై యుందురు. ఇంకను, వారు శత్రువులను ఎదుర్కొనగల వీరులు, సర్వదా శత్రువులను జయించుటకు ఉత్సాహపడుచుండువారు. ఐనను శత్రువు నిరపరాధియైనచొ అతనిని దండించెడివారు కారు. రాజనీతిని అనుసరించి శాసనములను ఆచరణలోనుంచెడివారు. అందువలన స్వదేశవాసులైన సాధువులను రక్షించువారు, అసాధువులను శిక్షించువారు. మఱియు వారు బ్రాహ్మణులకును, క్షత్రియులకును బాధ కలుగకుండ ధనాగారమును నింపెడివారు. అపరాథుల యొక్క దోషముల తారతమ్యములను బట్టియు, (అపరాధ రుసుము చెల్లించు విషయమున) వారి శక్తిసామర్థ్యములను బట్టియు దండనలను విధించెడివారు."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 7,
+      "verse": 12,
+      "sloka": "वीराः च नियतोत्साहा राज शास्त्रम् अनुष्ठिताः ।शुचीनाम् रक्षितारः च नित्यम् विषय वासिनाम् ॥१-७-१२॥",
+      "transliteration": "vīrāḥ ca niyatotsāhā rāja śāstram anuṣṭhitāḥ ।śucīnām rakṣitāraḥ ca nityam viṣaya vāsinām ॥1-7-12॥",
+      "translations": {
+        "english": "While the ministers of chaste conduct administered the kingdom with unanimous decisions, there was no one who was a liar, either in the city or in the kingdom.",
+        "hindi": "",
+        "telugu": "మంత్రులందఱును త్రికరణశుద్ధితో ఏకగ్రీవముగా రాజ్యవ్యవహారములను నడుపుచుండువారు. ఆ పురమునందుగాని, రాజ్యమునందుగాని అబద్ధమాడువాడు ఎవ్వడును లేడు. అయొధ్యానగరమునందును, కోసలదేశమునందును ఏ ఒక్కడును వంచకుడు గాని, పరస్త్రీరతుడు గాని లేకుండెను. కనుక అంతటను ప్రశాంతి నెలకొనియుండెను. ఆ మంత్రులందఱును శుభవస్త్రములను, సమిచితములైన వేషభూషణములను ధరించుచుండెడివారు. వారు సచ్ఛీలురు, రాజహితమునందే దృష్టిని నిలిపి, జాగరూకులై రాజ్యతంత్రమును నడిపెడివారు. వారు తల్లితండ్రులు, గురువులు మొదలగు పెద్దలలోగల మంచిగుణములనే గ్రహింతురు. తమ సద్గుణముల కారణముగా పెద్దల ఆదరాభిమానములకు పాత్రులైనవారు. వారు పరాక్రమమునందు ప్రసిద్ధులు."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 7,
+      "verse": 13,
+      "sloka": "ब्रह्म क्षत्रम् अहिंसन्तः ते कोशम् समपूरयन् ।सुतीक्ष्ण दण्डाः संप्रेक्ष्य पुरुषस्य बलाबलम् ॥१-७-१३॥",
+      "transliteration": "brahma kṣatram ahiṁsantaḥ te kośam samapūrayan ।sutīkṣṇa daṇḍāḥ saṁprekṣya puruṣasya balābalam ॥1-7-13॥",
+      "translations": {
+        "english": "In that kingdom no one was wicked or enamoured of others' wives. Serenity prevailed over the entire kingdom including the city of excellence.",
+        "hindi": "",
+        "telugu": "మంత్రులందఱును త్రికరణశుద్ధితో ఏకగ్రీవముగా రాజ్యవ్యవహారములను నడుపుచుండువారు. ఆ పురమునందుగాని, రాజ్యమునందుగాని అబద్ధమాడువాడు ఎవ్వడును లేడు. అయొధ్యానగరమునందును, కోసలదేశమునందును ఏ ఒక్కడును వంచకుడు గాని, పరస్త్రీరతుడు గాని లేకుండెను. కనుక అంతటను ప్రశాంతి నెలకొనియుండెను. ఆ మంత్రులందఱును శుభవస్త్రములను, సమిచితములైన వేషభూషణములను ధరించుచుండెడివారు. వారు సచ్ఛీలురు, రాజహితమునందే దృష్టిని నిలిపి, జాగరూకులై రాజ్యతంత్రమును నడిపెడివారు. వారు తల్లితండ్రులు, గురువులు మొదలగు పెద్దలలోగల మంచిగుణములనే గ్రహింతురు. తమ సద్గుణముల కారణముగా పెద్దల ఆదరాభిమానములకు పాత్రులైనవారు. వారు పరాక్రమమునందు ప్రసిద్ధులు."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 7,
+      "verse": 14,
+      "sloka": "शुचीनाम् एक बुद्धीनाम् सर्वेषाम् संप्रजानताम् ।न आसीत् पुरे वा राष्ट्रे वा मृषा वादी नरः क्वचित् ॥१-७-१४॥",
+      "transliteration": "śucīnām eka buddhīnām sarveṣām saṁprajānatām ।na āsīt pure vā rāṣṭre vā mṛṣā vādī naraḥ kvacit ॥1-7-14॥",
+      "translations": {
+        "english": "They all were welldressed in fine clothes. They possessed good character with an eye on justice and vigilant about the king's welfare.",
+        "hindi": "",
+        "telugu": "మంత్రులందఱును త్రికరణశుద్ధితో ఏకగ్రీవముగా రాజ్యవ్యవహారములను నడుపుచుండువారు. ఆ పురమునందుగాని, రాజ్యమునందుగాని అబద్ధమాడువాడు ఎవ్వడును లేడు. అయొధ్యానగరమునందును, కోసలదేశమునందును ఏ ఒక్కడును వంచకుడు గాని, పరస్త్రీరతుడు గాని లేకుండెను. కనుక అంతటను ప్రశాంతి నెలకొనియుండెను. ఆ మంత్రులందఱును శుభవస్త్రములను, సమిచితములైన వేషభూషణములను ధరించుచుండెడివారు. వారు సచ్ఛీలురు, రాజహితమునందే దృష్టిని నిలిపి, జాగరూకులై రాజ్యతంత్రమును నడిపెడివారు. వారు తల్లితండ్రులు, గురువులు మొదలగు పెద్దలలోగల మంచిగుణములనే గ్రహింతురు. తమ సద్గుణముల కారణముగా పెద్దల ఆదరాభిమానములకు పాత్రులైనవారు. వారు పరాక్రమమునందు ప్రసిద్ధులు."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 7,
+      "verse": 15,
+      "sloka": "कश्चिन् न दुष्टः तत्र आसीत् पर दार रतिर् नरः ।प्रशांतम् सर्वम् एव असीत् राष्ट्रम् पुरवरम् च तत् ॥१-७-१५॥",
+      "transliteration": "kaścin na duṣṭaḥ tatra āsīt para dāra ratir naraḥ ।praśāṁtam sarvam eva asīt rāṣṭram puravaram ca tat ॥1-7-15॥",
+      "translations": {
+        "english": "They imbibed virtues from the elderlies. They were renowned in prowess. They were guided by their intellect in all affairs. They were wellknown everywhere.",
+        "hindi": "",
+        "telugu": "మంత్రులందఱును త్రికరణశుద్ధితో ఏకగ్రీవముగా రాజ్యవ్యవహారములను నడుపుచుండువారు. ఆ పురమునందుగాని, రాజ్యమునందుగాని అబద్ధమాడువాడు ఎవ్వడును లేడు. అయొధ్యానగరమునందును, కోసలదేశమునందును ఏ ఒక్కడును వంచకుడు గాని, పరస్త్రీరతుడు గాని లేకుండెను. కనుక అంతటను ప్రశాంతి నెలకొనియుండెను. ఆ మంత్రులందఱును శుభవస్త్రములను, సమిచితములైన వేషభూషణములను ధరించుచుండెడివారు. వారు సచ్ఛీలురు, రాజహితమునందే దృష్టిని నిలిపి, జాగరూకులై రాజ్యతంత్రమును నడిపెడివారు. వారు తల్లితండ్రులు, గురువులు మొదలగు పెద్దలలోగల మంచిగుణములనే గ్రహింతురు. తమ సద్గుణముల కారణముగా పెద్దల ఆదరాభిమానములకు పాత్రులైనవారు. వారు పరాక్రమమునందు ప్రసిద్ధులు."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 7,
+      "verse": 16,
+      "sloka": "सु वासस सु वेषाः च ते च सर्वे शुचिव्रताः ।हितार्थः च नरेन्द्रस्य जाग्रतो नय चक्षुषा ॥१-७-१६॥",
+      "transliteration": "su vāsasa su veṣāḥ ca te ca sarve śucivratāḥ ।hitārthaḥ ca narendrasya jāgrato naya cakṣuṣā ॥1-7-16॥",
+      "translations": {
+        "english": "The ministers were inherently well aware of the real nature of peace or war. They were affluent, adept in keeping secrecy and sharp in comprehending the points (before making any decision). They were experts in the science of ethics and morality. They always spoke pleasing words.",
+        "hindi": "",
+        "telugu": "వారు తమబుద్ధిబలముచే భూత భవిష్యద్వర్తమాన విషయ పరిజ్ఞానము గలవారుగా విదేశములయందును ఖ్యాతివహించినవారు. ఆ అమాత్యులందఱును ఇతరరాజులతో దేశకాల పరిస్థితులకు అనుగుణముగా సంధిచేసికొనుటను, యుద్ధమును నడిపించుటను ఎఱిగినవారు. కలిగిన సంపదతోడనే తృప్తిపడువారు, మంత్రాలోచనలను రహస్యముగానుంచుటలో సమర్థులు, సున్నితమైన విషయములను సూక్ష్మబుద్ధితో ఆలోచనచేయుటలో ప్రతిభగలవారు. రాజనీతిశాస్త్రపులోతులను బాగుగా ఎఱిగినవారు. రాజునకు హితము కలుగునట్లు ప్రియముగా మాటాడువారు. ఇట్టి సద్గుణసంపన్నులైన అమాత్యులతో గూడి ఎట్టి వ్యసనములు లేని దశరథ మహారాజు కోసలరాజ్యమును పరిపాలించెను."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 7,
+      "verse": 17,
+      "sloka": "गुरोर् गुण गृहीताः च प्रख्याताः च पराक्रमे ।विदेशेषु अपि विज्ञाता सर्वतो बुद्धि निश्चयाः ॥१-७-१७॥",
+      "transliteration": "guror guṇa gṛhītāḥ ca prakhyātāḥ ca parākrame ।videśeṣu api vijñātā sarvato buddhi niścayāḥ ॥1-7-17॥",
+      "translations": {
+        "english": "The ministers were inherently well aware of the real nature of peace or war. They were affluent, adept in keeping secrecy and sharp in comprehending the points (before making any decision). They were experts in the science of ethics and morality. They always spoke pleasing words.",
+        "hindi": "",
+        "telugu": "వారు తమబుద్ధిబలముచే భూత భవిష్యద్వర్తమాన విషయ పరిజ్ఞానము గలవారుగా విదేశములయందును ఖ్యాతివహించినవారు. ఆ అమాత్యులందఱును ఇతరరాజులతో దేశకాల పరిస్థితులకు అనుగుణముగా సంధిచేసికొనుటను, యుద్ధమును నడిపించుటను ఎఱిగినవారు. కలిగిన సంపదతోడనే తృప్తిపడువారు, మంత్రాలోచనలను రహస్యముగానుంచుటలో సమర్థులు, సున్నితమైన విషయములను సూక్ష్మబుద్ధితో ఆలోచనచేయుటలో ప్రతిభగలవారు. రాజనీతిశాస్త్రపులోతులను బాగుగా ఎఱిగినవారు. రాజునకు హితము కలుగునట్లు ప్రియముగా మాటాడువారు. ఇట్టి సద్గుణసంపన్నులైన అమాత్యులతో గూడి ఎట్టి వ్యసనములు లేని దశరథ మహారాజు కోసలరాజ్యమును పరిపాలించెను."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 7,
+      "verse": 18,
+      "sloka": "अभितो गुणवन्तः च न च आसन् गुण वर्जिताः ।सन्धि विग्रह तत्वज्ञाः प्रकृत्या संपदान्विताः ॥१-७-१८॥",
+      "transliteration": "abhito guṇavantaḥ ca na ca āsan guṇa varjitāḥ ।sandhi vigraha tatvajñāḥ prakṛtyā saṁpadānvitāḥ ॥1-7-18॥",
+      "translations": {
+        "english": "The faultless king Dasaratha, with the assistance of such ministers endowed with virtues, ruled the earth.",
+        "hindi": "",
+        "telugu": "వారు తమబుద్ధిబలముచే భూత భవిష్యద్వర్తమాన విషయ పరిజ్ఞానము గలవారుగా విదేశములయందును ఖ్యాతివహించినవారు. ఆ అమాత్యులందఱును ఇతరరాజులతో దేశకాల పరిస్థితులకు అనుగుణముగా సంధిచేసికొనుటను, యుద్ధమును నడిపించుటను ఎఱిగినవారు. కలిగిన సంపదతోడనే తృప్తిపడువారు, మంత్రాలోచనలను రహస్యముగానుంచుటలో సమర్థులు, సున్నితమైన విషయములను సూక్ష్మబుద్ధితో ఆలోచనచేయుటలో ప్రతిభగలవారు. రాజనీతిశాస్త్రపులోతులను బాగుగా ఎఱిగినవారు. రాజునకు హితము కలుగునట్లు ప్రియముగా మాటాడువారు. ఇట్టి సద్గుణసంపన్నులైన అమాత్యులతో గూడి ఎట్టి వ్యసనములు లేని దశరథ మహారాజు కోసలరాజ్యమును పరిపాలించెను."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 7,
+      "verse": 19,
+      "sloka": "मंत्र संवरणे शक्ताः शक्ताः सूक्ष्मासु बुद्धिषु ।नीति शास्त्र विशेषज्ञाः सततम् प्रिय वादिनः ॥१-७-१९॥",
+      "transliteration": "maṁtra saṁvaraṇe śaktāḥ śaktāḥ sūkṣmāsu buddhiṣu ।nīti śāstra viśeṣajñāḥ satatam priya vādinaḥ ॥1-7-19॥",
+      "translations": {
+        "english": "In the three worlds he (Dasaratha) was acclaimed in the three words as munificient and upholder of truth, a tiger among men, who ruled protecting and guarding the people through spies. He. ruled the kingdom with righteousness by deserting irreligious and keeping the subjects happy.",
+        "hindi": "",
+        "telugu": "దశరథ మహారాజు గూఢచారుల ద్వారా స్వదేశ పరదేశ పరిస్థితులను గమనించుచు అధర్మమునకు తావు లేకుండ ధర్మయుక్తముగా ప్రజలను రంజింపజేయుచు దేశమును పాలించుచుండెను. మహాదాతగా, సత్యసంధుడుగా ముల్లోకములయందును ఖ్యాతికెక్కినవాడై ఆ నరేంద్రుడు ఈ పృథివిని పరిపాలించుచుండెను."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 7,
+      "verse": 20,
+      "sloka": "ईदृशैः तैः अमात्यैः च राजा दशरथोऽनघः ।उपपन्नो गुणोपेतैः अन्वशासद् वसुंधराम् ॥१-७-२०॥",
+      "transliteration": "īdṛśaiḥ taiḥ amātyaiḥ ca rājā daśaratho'naghaḥ ।upapanno guṇopetaiḥ anvaśāsad vasuṁdharām ॥1-7-20॥",
+      "translations": {
+        "english": "In the three worlds he (Dasaratha) was acclaimed in the three words as munificient and upholder of truth, a tiger among men, who ruled protecting and guarding the people through spies. He. ruled the kingdom with righteousness by deserting irreligious and keeping the subjects happy.",
+        "hindi": "",
+        "telugu": "దశరథ మహారాజు గూఢచారుల ద్వారా స్వదేశ పరదేశ పరిస్థితులను గమనించుచు అధర్మమునకు తావు లేకుండ ధర్మయుక్తముగా ప్రజలను రంజింపజేయుచు దేశమును పాలించుచుండెను. మహాదాతగా, సత్యసంధుడుగా ముల్లోకములయందును ఖ్యాతికెక్కినవాడై ఆ నరేంద్రుడు ఈ పృథివిని పరిపాలించుచుండెను."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 7,
+      "verse": 21,
+      "sloka": "अवेक्षमाणः चारेण प्रजा धर्मेण रक्षयन् ।प्रजानाम् पालनम् कुर्वन् अधर्मम् परिवर्जयन् ॥१-७-२१॥",
+      "transliteration": "avekṣamāṇaḥ cāreṇa prajā dharmeṇa rakṣayan ।prajānām pālanam kurvan adharmam parivarjayan ॥1-7-21॥",
+      "translations": {
+        "english": "The king (Dasaratha) had many friends. All the tributary kings were obedient to him. He killed his enemies with his might. There was no foe who was either superior to or equal to him. He ruled the world as Indra ruled the heaven.",
+        "hindi": "",
+        "telugu": "దశరథునకు పెక్కుమంది రాజులు మిత్రులుగా ఉండిరి. సామంతరాజులందఱును ఆయనకు పాదాక్రాంతులైయుండిరి. అతడు తనప్రతాపముచే క్షుద్రులైన శత్రువులనందఱిని రూపుమాపెను. శత్రువులలొ ఆయనకంటె అధికుడుగాని ఆయనతో సమానుడుగాని ఎవ్వడునులేడు. ఇంద్రుడు దేవలోకమునువలె ఆ దశరథుడు ఈ భూలోకమును పరిపాలించుచుండెను."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 7,
+      "verse": 22,
+      "sloka": "विश्रुतः त्रिषु लोकेषु वदान्यः सत्य संगरः ।स तत्र पुरुषव्याघ्रः शशास पृथ्वीम् इमाम् ॥१-७-२२॥",
+      "transliteration": "viśrutaḥ triṣu lokeṣu vadānyaḥ satya saṁgaraḥ ।sa tatra puruṣavyāghraḥ śaśāsa pṛthvīm imām ॥1-7-22॥",
+      "translations": {
+        "english": "Accompanied by the ministers who were devoted to his welfare, adept in counselling, skilful, capable and loyal towards him, the king acquired glory like the rising Sun with luminous rays. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे सप्तमस्सर्ग: ।। Thus ends the seventh sarga of Balakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 7,
+      "verse": 23,
+      "sloka": "न अध्यगच्छत् विशिष्टम् वा तुल्यम् वा शत्रुम् आत्मनः ।मित्रवान् नत सामन्तः प्रताप हत कण्टकः ।स शशास जगत् राजा दिवि देव पतिर् यथा ॥१-७-२३॥",
+      "transliteration": "na adhyagacchat viśiṣṭam vā tulyam vā śatrum ātmanaḥ ।mitravān nata sāmantaḥ pratāpa hata kaṇṭakaḥ ।sa śaśāsa jagat rājā divi deva patir yathā ॥1-7-23॥",
+      "translations": {
+        "english": "",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 7,
+      "verse": 24,
+      "sloka": "तैः मंत्रिभिः मंत्र हितेः निविष्टैःवृतोऽनुरक्तैः कुशलैः समर्थैः ।स पार्थिवो दीप्तिम् अवाप युक्तःतेजोमयैः गोभिः इव उदितः अर्कः ॥१-७-२४॥",
+      "transliteration": "taiḥ maṁtribhiḥ maṁtra hiteḥ niviṣṭaiḥvṛto'nuraktaiḥ kuśalaiḥ samarthaiḥ ।sa pārthivo dīptim avāpa yuktaḥtejomayaiḥ gobhiḥ iva uditaḥ arkaḥ ॥1-7-24॥",
+      "translations": {
+        "english": "",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

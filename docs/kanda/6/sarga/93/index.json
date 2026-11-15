@@ -1,0 +1,961 @@
+{
+  "kanda": 6,
+  "kanda_name": "Yuddha Kanda",
+  "kanda_name_sanskrit": "युद्धकाण्डम्",
+  "sarga": 93,
+  "verses_count": 68,
+  "verses": [
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 1,
+      "sloka": "ततः पौलस्त्यसचिवाः श्रुत्वा चेन्द्रजितं हतम्।आचचक्षुरभिज्ञाय दशग्रीवाय सव्यथाः ।। ६.९३.१ ।।",
+      "transliteration": "tataḥ paulastyasacivāḥ śrutvā cendrajitaṁ hatam।ācacakṣurabhijñāya daśagrīvāya savyathāḥ ।। 6.93.1 ।।",
+      "translations": {
+        "english": "Then, having known about the distressing fall of Indrajith, the ministers of Ravana reported to the tenheaded Ravana.",
+        "hindi": "बिभीषण के वचन सुन, इन्द्रजीत अत्यन्त कुपित हुआ और बड़ी तेजी से उनके सामने जा कठोर वचन कहने लगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 2,
+      "sloka": "युद्धे हतो महाराज लक्ष्मणेन तवात्मजः।विभीषणसहायेन मिषतां नो महाद्युतिः ।। ६.९३.२ ।।",
+      "transliteration": "yuddhe hato mahārāja lakṣmaṇena tavātmajaḥ।vibhīṣaṇasahāyena miṣatāṁ no mahādyutiḥ ।। 6.93.2 ।।",
+      "translations": {
+        "english": "\"O King! Your glorious son was killed by Lakshmana with the assistance of Vibheeshana, as we were witnessing.\"",
+        "hindi": "फिर वह पलवार उठाए हुए और काले घोड़े जुते हुए और > ~ सजे सजाये एक विशाल रथ पर बैठा हुआ, सवप्राणिनाशक काल के समान जान पड़ता था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 3,
+      "sloka": "शूरः शूरेण सङ्गम्य संयुगेष्वपरजितः।लक्ष्मणेन हतः शूरः पुत्रस्तु विबुधेन्द्रजित्।गतः स परमान् लोकान् शरैः सन्ताप्य लक्ष्मणम् ।। ६.९३.३ ।।",
+      "transliteration": "śūraḥ śūreṇa saṅgamya saṁyugeṣvaparajitaḥ।lakṣmaṇena hataḥ śūraḥ putrastu vibudhendrajit।gataḥ sa paramān lokān śaraiḥ santāpya lakṣmaṇam ।। 6.93.3 ।।",
+      "translations": {
+        "english": "\"Your son who has never been defeated in war, who won Indra, the ruler of gods, after fighting and fighting was killed by Lakshmana's arrows. He has ascended to the higher world.\"",
+        "hindi": "उस समय उसके हाथ में बड़ा लंबा और दृढ़ (मजबूत) और बड़ी तेजी के साथ बाण फेंकने वाला, बड़ा भयङ्कर धनुष था तथा शत्रुनाशकारी बाण थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 4,
+      "sloka": "स तं प्रतिभयं श्रुत्वा वधं पुत्रस्य दारुणम्।घोरमिन्द्रजितः सङ्ख्ये कश्मलं चाविशन्महत् ।। ६.९३.४ ।।",
+      "transliteration": "sa taṁ pratibhayaṁ śrutvā vadhaṁ putrasya dāruṇam।ghoramindrajitaḥ saṅkhye kaśmalaṁ cāviśanmahat ।। 6.93.4 ।।",
+      "translations": {
+        "english": "On hearing about the enumeration of his son Indrajith's dreadful, frightening and ghastly end, Ravana gave way to swoon.",
+        "hindi": "अम्युत्पपात-अभिमुखमुज्जगास | ( गो० ) महाप्रमाणुं--महा- दीर्घ | (मो०) । ६५० युद्धकाण्डे भली भाँति अलंकृत रथ पर सवार बड़ा घनुष लिये हुए बल- बान इन्द्रजीत ने भूषणं से अलंकृत ओर शात्रुहन्ता श्रीरामचन्द्र जी के छोटे भाई अर्थात्‌ लक्ष्मण जी को देखा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 5,
+      "sloka": "उपलभ्य चिरात् सञ्ज्ञां राजा राक्षसपुङ्गवः।पुत्रशोकार्दितो दीनो विललापाकुलेन्द्रियः ।। ६.९३.५ ।।",
+      "transliteration": "upalabhya cirāt sañjñāṁ rājā rākṣasapuṅgavaḥ।putraśokārdito dīno vilalāpākulendriyaḥ ।। 6.93.5 ।।",
+      "translations": {
+        "english": "Coming to senses after a long time, the Rakshasa king Ravana, dejected with sorrow of his son's death, lost senses, lamented.",
+        "hindi": "लक्ष्मण जी हबुमान जी की पीठ पर सवार थे ओर उद्य- कालीन सूर्य की तरह वे प्रभावान्‌ थे उनको ओर उनके पास खड़े हुए बिभीषण को तथा अन्य बानरश्रेष्ठो से इन्द्रजीत ने कहा कि, तुम लोग आज मेरे पराक्रम को ओर मेरे धनुष से छूटे हुए बाणों की दुधे्ष बाणवृष्टि को देखना",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 6,
+      "sloka": "हा राक्षसचमूमुख्य मम वत्स महारथ।जित्वेन्द्रं कथमद्य त्वं लक्ष्मणस्य वशं गतः ।। ६.९३.६ ।।",
+      "transliteration": "hā rākṣasacamūmukhya mama vatsa mahāratha।jitvendraṁ kathamadya tvaṁ lakṣmaṇasya vaśaṁ gataḥ ।। 6.93.6 ।।",
+      "translations": {
+        "english": "'My son who was a chief of the Rakshasa army, a mighty one, who has won even Indra, how has he become a victim of Lakshmana'?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 7,
+      "sloka": "ननु त्वमिषुभिः क्रुद्धो भिन्द्याः कालान्तकावपि।मन्दरस्यापि शृङ्गाणि किं पुनर्लक्ष्मणं युधि ।। ६.९३.७ ।।",
+      "transliteration": "nanu tvamiṣubhiḥ kruddho bhindyāḥ kālāntakāvapi।mandarasyāpi śṛṅgāṇi kiṁ punarlakṣmaṇaṁ yudhi ।। 6.93.7 ।।",
+      "translations": {
+        "english": "'When angry, you could pierce with arrows even the time spirit or peak of Mandara mountain, why to speak of Lakshmana again'?",
+        "hindi": "जो आकाश से गिरती इई जलधारा के समान, दिखलाई पड़ेगी । रणक्षेत्र में उसको तुम लोग रोक कर देखना । आज सेरे बिशाल धनुष से छूटे हुए बाण, तुम लोगों के शरीरों को रुई की तरह धुनकेंगे । पेने बाणों से, शूल, शक्ति, ऋष्टि तथा पटा से",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 8,
+      "sloka": "अद्य वैवस्वतो राजा भूयो बहुमतो मम।येनाद्य त्वं महाबाहो संयुक्तः कालधर्मणा ।। ६.९३.८ ।।",
+      "transliteration": "adya vaivasvato rājā bhūyo bahumato mama।yenādya tvaṁ mahābāho saṁyuktaḥ kāladharmaṇā ।। 6.93.8 ।।",
+      "translations": {
+        "english": "'O mighty armed! Today by virtue of time you have joined Yama and become esteemed King'.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 9,
+      "sloka": "एष पन्थाः सुयोधानां सर्वामरगणेष्वपि ।। ६.९३.९ ।।",
+      "transliteration": "eṣa panthāḥ suyodhānāṁ sarvāmaragaṇeṣvapi ।। 6.93.9 ।।",
+      "translations": {
+        "english": "'Killed in war for the cause of the king and treading the path of noble warriors, one attains the heaven. Even for a human it is desirable'.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 10,
+      "sloka": "यः कृते हन्यते भर्तुः स पुमान् स्वर्गमृच्छति।अद्य देवगणाः सर्वे लोकपालास्तथर्षयः।हतमिन्द्रजितं श्रुत्वा सुखं स्वप्स्यन्ति निर्भयाः ।। ६.९३.१० ।।",
+      "transliteration": "yaḥ kṛte hanyate bhartuḥ sa pumān svargamṛcchati।adya devagaṇāḥ sarve lokapālāstatharṣayaḥ।hatamindrajitaṁ śrutvā sukhaṁ svapsyanti nirbhayāḥ ।। 6.93.10 ।।",
+      "translations": {
+        "english": "'Today, seeing Indrajith killed, Devatas in heaven, guardians of the worlds, great sages would be fearless and be happy and comfortable'.",
+        "hindi": "ऑर बादल की तरह गजू गा, तब तुममें ऐसा कन है जो सामने खड़ा र सके । यह्‌ तो तुझे मालूम ही है कि उस न रात की लड़ाई मे मैंने वज के समान तीरों से समस्त बानरी सेना सहित तुम दोनों भाइयों को मूछित कर, भूमि पर सुला दिआ था। में समकता हूँ उसको तू भूल गया। भूल क्यों न जाएगा, क्योंकि तुम सब लोग तो अब यमपुर में म वाले हो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 11,
+      "sloka": "अद्य लोकास्त्रयः कृत्स्ना पृथिवी च सकानना।एकेनेन्द्रजिता हीना शून्येव प्रतिभाति मे ।। ६.९३.११ ।।",
+      "transliteration": "adya lokāstrayaḥ kṛtsnā pṛthivī ca sakānanā।ekenendrajitā hīnā śūnyeva pratibhāti me ।। 6.93.11 ।।",
+      "translations": {
+        "english": "Today without Indrajith alone the three worlds (earth, heaven, and underworld) including forests are desolate, dark, and lustreless to me.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 12,
+      "sloka": "अद्य नैर्ऋतकन्यानां श्रोष्याम्यन्तःपुरे रवम्।करेणुसङ्घस्य यथा निनादं गिरिगह्वरे ।। ६.९३.१२ ।।",
+      "transliteration": "adya nairṛtakanyānāṁ śroṣyāmyantaḥpure ravam।kareṇusaṅghasya yathā ninādaṁ girigahvare ।। 6.93.12 ।।",
+      "translations": {
+        "english": "'Today in the gynaecium we will hear the cries of Rakshasa maidens like the roaring of elephants in the cave'.",
+        "hindi": "और तभी तुम लोग करुद्ध हुए विषधर के समान मुमसे लड्ने को आए हो। इन्द्रजीत की इस प्रकार की डींगें सुनः लक्ष्मण जी ने",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 13,
+      "sloka": "यौवराज्यं च लङ्कां च रक्षांसि च परन्तप।मातरं मां च भार्यां च क्व गतो ऽसि विहाय नः ।। ६.९३.१३ ।।",
+      "transliteration": "yauvarājyaṁ ca laṅkāṁ ca rakṣāṁsi ca parantapa।mātaraṁ māṁ ca bhāryāṁ ca kva gato 'si vihāya naḥ ।। 6.93.13 ।।",
+      "translations": {
+        "english": "'O Scourge of enemies! You have left giving up prince regent, Rakshasas, from Lanka, your mother, me, and your wife also. And went. Why'?",
+        "hindi": "दुर्गमः--दुलेभ: । (गो०) २ पार:--निर्वाहं: । (गो०) ६४२ युद्धकाण्डे क्रोध में भर ओर निर्भीक हो इद्रजीत से कहा--हे राक्षस ' किसी दुलेभ काये को न कर जीभमात्र हिला कर कह देना एक बात है और उसे करके दिखाना दूसरी बात है। बुद्धिमान्‌ बहो है जो काम करने की एक बार बात कह कर, उस काम को करके दिखा दे | तू ता निषिद्ध वक्ता और निबु द्धि है। तू कुळ नहीं कर सकता । जिस काम को (अर्थात्‌ हम लोगों को परास्त करने के काम फो) कोई कर नहीं सकता",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 14,
+      "sloka": "मम नाम त्वया वीर गतस्य यमसादनम्।प्रेतकार्याणि कार्याणि विपरीते हि वर्तसे ।। ६.९३.१४ ।।",
+      "transliteration": "mama nāma tvayā vīra gatasya yamasādanam।pretakāryāṇi kāryāṇi viparīte hi vartase ।। 6.93.14 ।।",
+      "translations": {
+        "english": "'O hero! My obsequies should have been done by you. It is peculiar that I have to perform'.",
+        "hindi": "उसे तू बाणी से कह कर, अपने को कृतार्थे मानता हे । अरे दु्ु डे ! उस दिन रात क लड़ाई सें तूने छिप कर जो करतूत को थी, यह करतूत चोरी जैसी है । जो वीरलोग होते हैं, वे ऐसी करततें नहीं किआ करते अथवा ऐसे पथ पर पदार्पण नहीं करते । हे राक्षस ! जैसे में तेरे बार्णो की मार के भीतर तेरे सामने खड़ा हूँ ; बैसे ही तू भी मेरे सामने खड़ा रह कर, अपना पराक्रम दिखा, वृथा डींगे मारने से क्या लाभ ? लक्ष्मण जी की इन बातों को सुन, उस महाबली इन्द्रजीत ने अपना भयानक चचचुष उठाया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 15,
+      "sloka": "स त्वं जीवति सुग्रीवे लक्ष्मणे च सराघवे।मम शल्यमनुद्धृत्य क्व गतो ऽसि विहाय नः ।। ६.९३.१५ ।।",
+      "transliteration": "sa tvaṁ jīvati sugrīve lakṣmaṇe ca sarāghave।mama śalyamanuddhṛtya kva gato 'si vihāya naḥ ।। 6.93.15 ।।",
+      "translations": {
+        "english": "'While Sugriva is living, Lakshmana and Raghava also, deserting me, you have gone. Where have you gone'?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 16,
+      "sloka": "एवमादिविलापार्तं रावणं राक्षसाधिपम्।आविवेश महान् कोपः पुत्रव्यसनसम्भवः ।। ६.९३.१६ ।।",
+      "transliteration": "evamādivilāpārtaṁ rāvaṇaṁ rākṣasādhipam।āviveśa mahān kopaḥ putravyasanasambhavaḥ ।। 6.93.16 ।।",
+      "translations": {
+        "english": "Distressed Ravana was lamenting in this way on account of his son deserting, as anger had taken over him.",
+        "hindi": "लक्ष्मण जी के शरीर पर गिरते ही साँपों की तरह फुँसकारते इए भूमि पर गिरने लगे । इस प्रकार इस युद्ध में वह फुर्तीला इन्द्रजीत रहाबेगवाले बाणों से शुभलक्षणों युक्त अंगों बाले लक्ष्मण जी को घायल करने लगा । बाणों के लगने से लक्ष्मण जी घायल हो गए । उनके शरीर से रक्त बहने लगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 17,
+      "sloka": "प्रकृत्या कोपनं ह्येनं पुत्रस्य पुनराधयः।दीप्तं सन्दीपयामासुर्घर्मे ऽर्कमिव रश्मयः ।। ६.९३.१७ ।।",
+      "transliteration": "prakṛtyā kopanaṁ hyenaṁ putrasya punarādhayaḥ।dīptaṁ sandīpayāmāsurgharme 'rkamiva raśmayaḥ ।। 6.93.17 ।।",
+      "translations": {
+        "english": "By nature, he is angry. Now with the loss of his son, he was glowing like the Sun that shines brighter by the rays in summer.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 18,
+      "sloka": "ललाटे भ्रुकुटीभिश्च सङ्गताभिर्व्यारोचत।युगान्ते सह नक्रैस्तु महोर्मिभिरिवोदधिः ।। ६.९३.१८ ।।",
+      "transliteration": "lalāṭe bhrukuṭībhiśca saṅgatābhirvyārocata।yugānte saha nakraistu mahormibhirivodadhiḥ ।। 6.93.18 ।।",
+      "translations": {
+        "english": "Ravana's eyebrows contracted on his forehead, he shone like the waves in the great ocean with crocodiles at the time of dissolution of the universe.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 19,
+      "sloka": "कोपाद्विजृम्भमाणस्य वक्त्राद् व्यक्तमभिज्वलन्।उत्पपात स भूयो ऽग्निर्वृत्रस्य वदनादिव ।। ६.९३.१९ ।।",
+      "transliteration": "kopādvijṛmbhamāṇasya vaktrād vyaktamabhijvalan।utpapāta sa bhūyo 'gnirvṛtrasya vadanādiva ।। 6.93.19 ।।",
+      "translations": {
+        "english": "As Ravana yawned in anger, fire with smoke burst forth from his mouth like Vrtra'.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 20,
+      "sloka": "स पुत्रवधसन्तप्तः शूरः क्रोधवशं गतः।समीक्ष्य रावणो बुद्ध्या वैदेह्या रोचयद्वधम् ।। ६.९३.२० ।।",
+      "transliteration": "sa putravadhasantaptaḥ śūraḥ krodhavaśaṁ gataḥ।samīkṣya rāvaṇo buddhyā vaidehyā rocayadvadham ।। 6.93.20 ।।",
+      "translations": {
+        "english": "Pondering over the death of his asura son, Ravana was overtaken by fury, and reviwed thinking about the destruction of Vaidehi.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 21,
+      "sloka": "तस्य प्रकृत्या रक्ते च रक्ते क्रोधाग्निना ऽपि च।रावणस्य महाघोरे दीप्ते नेत्रे बभूवतुः ।। ६.९३.२१ ।।",
+      "transliteration": "tasya prakṛtyā rakte ca rakte krodhāgninā 'pi ca।rāvaṇasya mahāghore dīpte netre babhūvatuḥ ।। 6.93.21 ।।",
+      "translations": {
+        "english": "By nature, Ravana's eyes are red, through the fire of anger it was even more red glowing and very dreadful.",
+        "hindi": "तिस पर भी कान्तिमान लक्ष्मण जी बिना धूएँ की आग की तरह शोभित हो रहे थे | कुछ देर बाद इन्द्रजीत अपने पुरुषां का फल देख,",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 22,
+      "sloka": "घोरं प्रकृत्या रूपं तत्तस्य क्रोधाग्निमूर्च्छितम्।बभूव रूपं क्रुद्धस्य रुद्धस्येव दुरासदम् ।। ६.९३.२२ ।।",
+      "transliteration": "ghoraṁ prakṛtyā rūpaṁ tattasya krodhāgnimūrcchitam।babhūva rūpaṁ kruddhasya ruddhasyeva durāsadam ।। 6.93.22 ।।",
+      "translations": {
+        "english": "His eyes are naturally dreadful, deluded with fire of anger his form was like Rudra's and threatening.",
+        "hindi": "बड़े जोर से गजे कर यह बचन बोला-हे लक्ष्मण ! आज मेरे धनुष से छुटे हुए बड़े पैने बाण, जा तेरा वध करने बाले हैं, तेरे जीवन को समाप्त कर देंगे । हे लक्ष्मण ! आज गीदड़, बाजों और गिद्धों के कुण्ड के झुण्ड मेरे द्वारा तेरे मारे जाने पर तेरी लोथ के ऊपर टूटेंगे । हे लक्ष्मण ! आज तुमको सब प्राणियों को डराने वाला यमदूतों का तजेन गर्जेन सुनाई पढ़ेगा। परम दुर्मेति, चत्रियाघम और नीच राम",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 23,
+      "sloka": "तस्य क्रुद्धस्य नेत्राभ्यां प्राप्ततन्नस्रबिन्दवः।दीप्ताभ्यामिव दीपाभ्यां सार्चिषः स्नेहबिन्दवः ।। ६.९३.२३ ।।",
+      "transliteration": "tasya kruddhasya netrābhyāṁ prāptatannasrabindavaḥ।dīptābhyāmiva dīpābhyāṁ sārciṣaḥ snehabindavaḥ ।। 6.93.23 ।।",
+      "translations": {
+        "english": "Just as drops of oil drop from flaming lamps, tears dropped from his enraged flaming eyes.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 24,
+      "sloka": "दन्तान् विदशतस्तस्य श्रूयते दशनस्वनः।यन्त्रस्यावेष्ट्यमानस्य महतो दानवैरिव ।। ६.९३.२४ ।।",
+      "transliteration": "dantān vidaśatastasya śrūyate daśanasvanaḥ।yantrasyāveṣṭyamānasya mahato dānavairiva ।। 6.93.24 ।।",
+      "translations": {
+        "english": "When he was biting on his teeth (enraged), the sound from his teeth resembled the sound of a grinder revolved round by Danavas.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 25,
+      "sloka": "कालाग्निरिव सङ्क्रुद्धो यां यां दिशमवैक्षत।तस्यां तस्यां भयत्रस्ता राक्षसाः संविलिल्यिरे ।। ६.९३.२५ ।।",
+      "transliteration": "kālāgniriva saṅkruddho yāṁ yāṁ diśamavaikṣata।tasyāṁ tasyāṁ bhayatrastā rākṣasāḥ saṁvililyire ।। 6.93.25 ।।",
+      "translations": {
+        "english": "Fearing Ravana who was enraged like the time of universal destruction, the Rakshasashid themselves in the very quarter he was looking.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 26,
+      "sloka": "तमन्तकमिव क्रुद्धं चराचरचिखादिषुम्।वीक्षमाणं दिशः सर्वा राक्षसा नोपचक्रमुः ।। ६.९३.२६ ।।",
+      "transliteration": "tamantakamiva kruddhaṁ carācaracikhādiṣum।vīkṣamāṇaṁ diśaḥ sarvā rākṣasā nopacakramuḥ ।। 6.93.26 ।।",
+      "translations": {
+        "english": "The Rakshasas could not go near Ravana who was moving in anger in all directions like the moving and unmoving creations move when chased by the god of death.",
+        "hindi": "आज ही तुक सरीखे अपने भाई को मेरे हाथ से मरा हुआ देखेगा । आज जब में तेरा बध करूंगा, तब तेरा यह कवच टूट फूट कर भूमि पर गिर पड़ेगा ओर टूक टूक हो जायगा, तथा सिर कट अलग गिर जायगा । क्रोध में भर इस प्रकार कठोर बचन कहते हुए रावणात्मज इन्द्रजीत से",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 27,
+      "sloka": "ततः परमसङ्क्रुद्धो रावणो राक्षसाधिपः।अब्रवीद्रक्षसां मध्ये संस्तम्भयिषुराहवे ।। ६.९३.२७ ।।",
+      "transliteration": "tataḥ paramasaṅkruddho rāvaṇo rākṣasādhipaḥ।abravīdrakṣasāṁ madhye saṁstambhayiṣurāhave ।। 6.93.27 ।।",
+      "translations": {
+        "english": "To provoke Rakshasas for battle, an angry Ravana, the king of Rakshasas, spoke as follows.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 28,
+      "sloka": "मया वर्षसहस्राणि चरित्वा दुश्चरं तपः।तेषु तेष्ववकाशेषु स्वयम्भूः परितोषितः ।। ६.९३.२८ ।।",
+      "transliteration": "mayā varṣasahasrāṇi caritvā duścaraṁ tapaḥ।teṣu teṣvavakāśeṣu svayambhūḥ paritoṣitaḥ ।। 6.93.28 ।।",
+      "translations": {
+        "english": "'I have done penance for thousands of years several times and am a pleased selfborn creator'.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 29,
+      "sloka": "तस्यैव तपसो व्युष्ट्या प्रसादाच्च स्वयम्भुवः।नासुरेभ्यो न देवेभ्यो भयं मम कदाचन ।। ६.९३.२९ ।।",
+      "transliteration": "tasyaiva tapaso vyuṣṭyā prasādācca svayambhuvaḥ।nāsurebhyo na devebhyo bhayaṁ mama kadācana ।। 6.93.29 ।।",
+      "translations": {
+        "english": "'By the power of the penancedone by me once, creator Brahma has given me reward, pleased with my penance. I have no fear of Asuras or Devas'.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 30,
+      "sloka": "कवचं ब्रह्मदत्तं मे यदादित्यसमप्रभम्।देवासुरविमर्देषु न भिन्नं वज्रशक्तिभिः ।। ६.९३.३० ।।",
+      "transliteration": "kavacaṁ brahmadattaṁ me yadādityasamaprabham।devāsuravimardeṣu na bhinnaṁ vajraśaktibhiḥ ।। 6.93.30 ।।",
+      "translations": {
+        "english": "'I was given a shield by Brahma, effulgent like the Sun which the Devas or Danavas could not break with their thunderbolt fists'.",
+        "hindi": "अरे कुछ करके दिखा, जिससे मुझे तेरे कथन पर बिश्वास तो हो। मैं न तो तुझसे कठोर बचन कहूँगा, न तुके धिक्का- रूँगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 31,
+      "sloka": "तेन मामद्य संयुक्तं रथस्थमिह संयुगे।प्रतीयात् को ऽद्य मामाजौ साक्षादपि पुरन्दरः ।। ६.९३.३१ ।।",
+      "transliteration": "tena māmadya saṁyuktaṁ rathasthamiha saṁyuge।pratīyāt ko 'dya māmājau sākṣādapi purandaraḥ ।। 6.93.31 ।।",
+      "translations": {
+        "english": "'Today if I, with that shield mounted the chariot go for battle, who can dare to withstand me openly? Even Indra can't'.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 32,
+      "sloka": "यत्तदा ऽभिप्रसन्नेन सशरं कार्मुकं महत्।देवासुरविमर्देषु मम दत्तं स्वयम्भुवा ।। ६.९३.३२ ।।",
+      "transliteration": "yattadā 'bhiprasannena saśaraṁ kārmukaṁ mahat।devāsuravimardeṣu mama dattaṁ svayambhuvā ।। 6.93.32 ।।",
+      "translations": {
+        "english": "'Let that supreme bow and the great arrows bestowed to me, by Brahma the creator who was pleased, when I fought in battle between Devas and Asuras, be brought to destroy Rama and Lakshmana today accompanied by hundreds of trumpets.'",
+        "hindi": "युद्धकाण्डे लक्ष्मण ने बड़े जोर से इन्द्रजीत की छाती में मारे। अच्छे परों से यक्त बड़े वेग से जाने वाले, चमचमाते और सपं की तरह वे बाण इन्द्रजीत की छाती में चुभे हुए -ऐसे शोभित हुए जैसे सूयं की किरणें । उन बाणों की चोट से क्रोध में भर इन्द्रजीत ने",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 33,
+      "sloka": "अद्य तूर्यशतैर्भीमं धनुरुत्थाप्यतां मम।रामलक्ष्मणयोरेव वधाय परमाहवे ।। ६.९३.३३ ।।",
+      "transliteration": "adya tūryaśatairbhīmaṁ dhanurutthāpyatāṁ mama।rāmalakṣmaṇayoreva vadhāya paramāhave ।। 6.93.33 ।।",
+      "translations": {
+        "english": "'Let that supreme bow and the great arrows bestowed to me, by Brahma the creator who was pleased, when I fought in battle between Devas and Asuras, be brought to destroy Rama and Lakshmana today accompanied by hundreds of trumpets.'",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 34,
+      "sloka": "स पुत्रवधसन्तप्तः शूरः क्रोधवशं गतः।समीक्ष्य रावणो बुद्ध्या सीतां हन्तुं व्यवस्यत ।। ६.९३.३४ ।।",
+      "transliteration": "sa putravadhasantaptaḥ śūraḥ krodhavaśaṁ gataḥ।samīkṣya rāvaṇo buddhyā sītāṁ hantuṁ vyavasyata ।। 6.93.34 ।।",
+      "translations": {
+        "english": "Feeling very sad about the death of his son, cruel Ravana overpowered by anger went thinking to destroy Sita.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 35,
+      "sloka": "प्रत्यवेक्ष्य तु ताम्राक्षः सुघोरो घोरदर्शनः।दीनो दीनस्वरान् सर्वांस्तानुवाच निशाचरान् ।। ६.९३.३५ ।।",
+      "transliteration": "pratyavekṣya tu tāmrākṣaḥ sughoro ghoradarśanaḥ।dīno dīnasvarān sarvāṁstānuvāca niśācarān ।। 6.93.35 ।।",
+      "translations": {
+        "english": "Redeyed Ravana, looking dreadful with a frightening face, desperate, spoke in a low voice to all Rakshasas as follows.",
+        "hindi": "दोनों ही एक दूसरे को जीतना चाहते थे और बड़ा तुमुल युद्ध कर रहे थे। दोनों ही बड़े बलवान्‌ थे ओर दोनों ही बिक्रमशाली थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 36,
+      "sloka": "मायया मम वत्सेन वञ्चनार्थं वनौकसाम्।किञ्चिदेव हतं तत्र सीतेयमिति दर्शितम् ।। ६.९३.३६ ।।",
+      "transliteration": "māyayā mama vatsena vañcanārthaṁ vanaukasām।kiñcideva hataṁ tatra sīteyamiti darśitam ।। 6.93.36 ।।",
+      "translations": {
+        "english": "'My son showed the Vanaras there something which had been killed there to hoodwink as Sita.\"",
+        "hindi": "दोनों ही बड़े पराक्रमी थे ओर दोनों ही सब प्रकार के अख ओर शखस्त्रों को चलाने और रोकने में निपुण थे । दोनों ही परम डुर्जय और अतुलित बलवान्‌ एवं तेजस्वी थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 37,
+      "sloka": "तदिदं तथ्यमेवाहं करिष्ये प्रियमात्मनः।वैदेहीं नाशयिष्यामि क्षत्रबन्धुमनुव्रताम् ।। ६.९३.३७ ।।",
+      "transliteration": "tadidaṁ tathyamevāhaṁ kariṣye priyamātmanaḥ।vaidehīṁ nāśayiṣyāmi kṣatrabandhumanuvratām ।। 6.93.37 ।।",
+      "translations": {
+        "english": "\"I myself will rejoice now in the same way (as Indarjith had done for cheating) making it true. I will destroy that lowly kshatriya, Rama's very dear Vaidehi\". Having spoken like that to the ministers he took up the sword.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 38,
+      "sloka": "इत्येवमुक्त्वा सचिवान् खड्गमाशु परामृशत् ।। ६.९३.३८ ।।",
+      "transliteration": "ityevamuktvā sacivān khaḍgamāśu parāmṛśat ।। 6.93.38 ।।",
+      "translations": {
+        "english": "\"I myself will rejoice now in the same way (as Indarjith had done for cheating) making it true. I will destroy that lowly kshatriya, Rama's very dear Vaidehi\". Having spoken like that to the ministers he took up the sword.\"",
+        "hindi": "दो सिंहों की तरह युद्ध कःते हुए वे दोनों बलवान लड़ रहे थे । वे दोनों अर्थात्‌ नरश्रेष्ठ लक्ष्मण और राक्षसश्रेष्ठ इन्द्रजीत, अत्यन्त उत्साहित हो, युद्ध करते हुए, एक दूसरे पर अघ्र्य बार्णो की वृष्टि वैसे ही कर रहे थे; जैसे बादल जल की वृष्टि करते हैँ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 39,
+      "sloka": "उद्धृत्य गुणसम्पन्नं विमलाम्बरवर्चसम्।निष्पपात स वेगेन सभार्यः सचिवैर्वृतः ।। ६.९३.३९ ।।",
+      "transliteration": "uddhṛtya guṇasampannaṁ vimalāmbaravarcasam।niṣpapāta sa vegena sabhāryaḥ sacivairvṛtaḥ ।। 6.93.39 ।।",
+      "translations": {
+        "english": "In a totally confused state on account of the death of his son, he went to Mythili taking the excellent sword, which was shining resembling pure sky, feeling enraged, accompanied by his wife, and surrounded by the ministers.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 40,
+      "sloka": "रावणः पुत्रशोकेन भृशमाकुलचेतनः।सङ्क्रुद्धः खड्गमादाय सहसा यत्र मैथिली ।। ६.९३.४० ।।",
+      "transliteration": "rāvaṇaḥ putraśokena bhṛśamākulacetanaḥ।saṅkruddhaḥ khaḍgamādāya sahasā yatra maithilī ।। 6.93.40 ।।",
+      "translations": {
+        "english": "In a totally confused state on account of the death of his son, he went to Mythili taking the excellent sword, which was shining resembling pure sky, feeling enraged, accompanied by his wife, and surrounded by the ministers.",
+        "hindi": "अतः दोनों ही बड़े जोरों से लड़ रहे थे। दोनों ही के पास बड़े बड़े प्रचण्ड बाण, खड्ग ओर पैने पेने शस्त्र थे | वे दोनों महाबली एक दूसरे को घायल रत हुए बैसे ही लड़ रहे थे, जैसे शम्बरासुर और इन्द्र लडे थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 41,
+      "sloka": "व्रजन्तं राक्षसं प्रेक्ष्य सिंहनादं प्रचुक्रुशुः।ऊचुश्चान्योन्यमाश्लिष्य सङ्क्रुद्धं प्रेक्ष्य राक्षसाः ।। ६.९३.४१ ।।",
+      "transliteration": "vrajantaṁ rākṣasaṁ prekṣya siṁhanādaṁ pracukruśuḥ।ūcuścānyonyamāśliṣya saṅkruddhaṁ prekṣya rākṣasāḥ ।। 6.93.41 ।।",
+      "translations": {
+        "english": "( As Ravana marched) the Rakshasas in the abode roared like a lion seeing enraged Ravana and embraced each other (thinking of Ravana's victory) and spoke to one another.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 42,
+      "sloka": "अद्यैनं तावुभौ दृष्ट्वा भ्रातरौ प्रव्यथिष्यतः।लोकपाला हि चत्वारः क्रुद्धेनानेन निर्जिताः ।। ६.९३.४२ ।।",
+      "transliteration": "adyainaṁ tāvubhau dṛṣṭvā bhrātarau pravyathiṣyataḥ।lokapālā hi catvāraḥ kruddhenānena nirjitāḥ ।। 6.93.42 ।।",
+      "translations": {
+        "english": "\"Seeing Ravana, the two brothers will tremble. By Ravana's fury all the four rulers of the world (Indra, Yama, Varuna, Kubera), would have disappeared. He has struck down many other enemies in wars.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 43,
+      "sloka": "बहवः शत्रवश्चापि संयुगेषु निपातिताः।त्रिषु लोकेषु रत्नानि भुङ्क्ते चाहृत्य रावणः ।। ६.९३.४३ ।।",
+      "transliteration": "bahavaḥ śatravaścāpi saṁyugeṣu nipātitāḥ।triṣu lokeṣu ratnāni bhuṅkte cāhṛtya rāvaṇaḥ ।। 6.93.43 ।।",
+      "translations": {
+        "english": "\"Ravana has collected gems from the three worlds as tax. There is none equal to him in might and prowess in this world.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 44,
+      "sloka": "विक्रमे च बले चैव नास्त्यस्य सदृशो भुवि ।। ६.९३.४४ ।।",
+      "transliteration": "vikrame ca bale caiva nāstyasya sadṛśo bhuvi ।। 6.93.44 ।।",
+      "translations": {
+        "english": "As the Rakshasas were talking in that manner, Ravana, deluded with anger, went fast to Vaidehi in Ashoka grove.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 45,
+      "sloka": "तेषां सञ्जल्पमानानामशोकवनिकां गताम्।अभिदुद्राव वैदेहीं रावणः क्रोधमूर्च्छितः ।। ६.९३.४५ ।।",
+      "transliteration": "teṣāṁ sañjalpamānānāmaśokavanikāṁ gatām।abhidudrāva vaidehīṁ rāvaṇaḥ krodhamūrcchitaḥ ।। 6.93.45 ।।",
+      "translations": {
+        "english": "Highly enraged Ravana, darted just as planet Mars rushed to Rohini in the sky, even while his wellwishers were obstructing.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 46,
+      "sloka": "वार्यमाणः सुसङ्क्रुद्धः सुहृद्भिर्हितबुद्धिभिः।अभ्यधावत सङ्क्रुद्धः खे ग्रहो रोहिणीमिव ।। ६.९३.४६ ।।",
+      "transliteration": "vāryamāṇaḥ susaṅkruddhaḥ suhṛdbhirhitabuddhibhiḥ।abhyadhāvata saṅkruddhaḥ khe graho rohiṇīmiva ।। 6.93.46 ।।",
+      "translations": {
+        "english": "While irreproachable Mythili was being guarded by rakshasi women, she saw him bearing an excellent sword and crossing. When he was repeatedly stopped by friends and obstructed, he was not receding and reaching Janaka's daughter.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 47,
+      "sloka": "मैथिली रक्ष्यमाणा तु राक्षसीभिरनिन्दिता।ददर्श राक्षसं क्रुद्धं निस्त्रिंशवरधारिणम् ।। ६.९३.४७ ।।",
+      "transliteration": "maithilī rakṣyamāṇā tu rākṣasībhiraninditā।dadarśa rākṣasaṁ kruddhaṁ nistriṁśavaradhāriṇam ।। 6.93.47 ।।",
+      "translations": {
+        "english": "While irreproachable Mythili was being guarded by rakshasi women, she saw him bearing an excellent sword and crossing. When he was repeatedly stopped by friends and obstructed, he was not receding and reaching Janaka's daughter.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 48,
+      "sloka": "तं निशाम्य सनिस्त्रिंशं व्यथिता जनकात्मजा।निवार्यमाणं बहुशः सुहृद्भिरनुवर्तिनम्।सीता दुःखसमाविष्टा विलपन्तीदमब्रवीत् ।। ६.९३.४८ ।।",
+      "transliteration": "taṁ niśāmya sanistriṁśaṁ vyathitā janakātmajā।nivāryamāṇaṁ bahuśaḥ suhṛdbhiranuvartinam।sītā duḥkhasamāviṣṭā vilapantīdamabravīt ।। 6.93.48 ।।",
+      "translations": {
+        "english": "Thus spoke Sita filled with sorrow crying,\" This evil minded angry one is coming to me to kill me as though I am an orphan even though I have a protector.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 49,
+      "sloka": "यथा ऽयं मामभिक्रुद्धः समभिद्रवति स्वयम्।वधिष्यति सनाथां मामनाथामिव दुर्मतिः ।। ६.९३.४९ ।।",
+      "transliteration": "yathā 'yaṁ māmabhikruddhaḥ samabhidravati svayam।vadhiṣyati sanāthāṁ māmanāthāmiva durmatiḥ ।। 6.93.49 ।।",
+      "translations": {
+        "english": "Thus spoke Sita filled with sorrow crying,\" This evil minded angry one is coming to me to kill me as though I am an orphan even though I have a protector.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 50,
+      "sloka": "बहुशश्चोदयामास भर्तारं मामनुव्रताम्।भार्या भव रमस्वेति प्रत्याख्यातो ध्रुवं मया ।। ६.९३.५० ।।",
+      "transliteration": "bahuśaścodayāmāsa bhartāraṁ māmanuvratām।bhāryā bhava ramasveti pratyākhyāto dhruvaṁ mayā ।। 6.93.50 ।।",
+      "translations": {
+        "english": "'I who am devoted to my husband and this Ravana wanted me to revel with him. He has been entreated by me several times. Surely, he, having been rejected by me is dejected, filled with anger and infatuation, intends to kill me, is evident'.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 51,
+      "sloka": "सो ऽयं ममानुपस्थाने व्यक्तं नैराश्यमागतः।क्रोधमोहसमाविष्टो निहन्तुं मां समुद्यतः ।। ६.९३.५१ ।।",
+      "transliteration": "so 'yaṁ mamānupasthāne vyaktaṁ nairāśyamāgataḥ।krodhamohasamāviṣṭo nihantuṁ māṁ samudyataḥ ।। 6.93.51 ।।",
+      "translations": {
+        "english": "'I who am devoted to my husband and this Ravana wanted me to revel with him. He has been entreated by me several times. Surely, he, having been rejected by me is dejected, filled with anger and infatuation, intends to kill me, is evident'.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 52,
+      "sloka": "अथवा तौ नरव्याघ्रौ भ्रातरौ रामलक्ष्मणौ।मन्निमित्तमनार्येण समरे ऽद्य निपातितौ।अहो धिङ्मन्निमित्तो ऽयं विनाशो राजपुत्रयोः ।। ६.९३.५२ ।।",
+      "transliteration": "athavā tau naravyāghrau bhrātarau rāmalakṣmaṇau।mannimittamanāryeṇa samare 'dya nipātitau।aho dhiṅmannimitto 'yaṁ vināśo rājaputrayoḥ ।। 6.93.52 ।।",
+      "translations": {
+        "english": "'Or else, have the two brothers Rama and Lakshmana fallen to unworthy Ravana on my account'?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 53,
+      "sloka": "अथवा पुत्रशोकेन अहत्वा रामलक्ष्मणौ।विधमिष्यति मां रौद्रो राक्षसः पापनिश्चयः ।। ६.९३.५३ ।।",
+      "transliteration": "athavā putraśokena ahatvā rāmalakṣmaṇau।vidhamiṣyati māṁ raudro rākṣasaḥ pāpaniścayaḥ ।। 6.93.53 ।।",
+      "translations": {
+        "english": "Many Rakshasas rejoiced, calling out their loved ones loudly, making huge noise, were heard.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 54,
+      "sloka": "हनूमतो ऽपि यद्वाक्यं न कृतं क्षुद्रया मया ।। ६.९३.५४ ।।",
+      "transliteration": "hanūmato 'pi yadvākyaṁ na kṛtaṁ kṣudrayā mayā ।। 6.93.54 ।।",
+      "translations": {
+        "english": "Wow! Has the destruction of the two brothers brought about on account of the grief of the death of his son or on my account? Not able to kill Rama and Lakshmana, has this fierce Rakshasa who does not hesitate, resolved to kill me?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 55,
+      "sloka": "यद्यहं तस्य पृष्ठेन तदा यायामनिन्दिता।नाद्यैवमनुशोचेयं भर्तुरङ्कगता सती ।। ६.९३.५५ ।।",
+      "transliteration": "yadyahaṁ tasya pṛṣṭhena tadā yāyāmaninditā।nādyaivamanuśoceyaṁ bharturaṅkagatā satī ।। 6.93.55 ।।",
+      "translations": {
+        "english": "'I am a foolish woman. I did not follow Hanuman's advice and had I left mounted on his back, no doubt I would be on my husband 's lap. I did not think in this way'.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 56,
+      "sloka": "मन्ये तु हृदयं तस्याः कौसल्यायाः फलिष्यति।एकपुत्रा यदा पुत्रं विनष्टं श्रोष्यते युधि ।। ६.९३.५६ ।।",
+      "transliteration": "manye tu hṛdayaṁ tasyāḥ kausalyāyāḥ phaliṣyati।ekaputrā yadā putraṁ vinaṣṭaṁ śroṣyate yudhi ।। 6.93.56 ।।",
+      "translations": {
+        "english": "'I am a foolish woman. I did not follow Hanuman's advice and had I left mounted on his back, no doubt I would be on my husband 's lap. I did not think in this way'.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 57,
+      "sloka": "सा हि जन्म च बाल्यं च यौवनं च महात्मनः।धर्मकार्यानुरूपं च रुदन्ती संस्मरिष्यति ।। ६.९३.५७ ।।",
+      "transliteration": "sā hi janma ca bālyaṁ ca yauvanaṁ ca mahātmanaḥ।dharmakāryānurūpaṁ ca rudantī saṁsmariṣyati ।। 6.93.57 ।।",
+      "translations": {
+        "english": "'Kausalya will think her only son has been killed in the battle. I think her heart would break'.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 58,
+      "sloka": "निराशा निहते पुत्रे दत्त्वा श्राद्धमचेतना।अग्निमारोक्ष्यते नूनमपो वा ऽपि प्रवेक्ष्यति ।। ६.९३.५८ ।।",
+      "transliteration": "nirāśā nihate putre dattvā śrāddhamacetanā।agnimārokṣyate nūnamapo vā 'pi pravekṣyati ।। 6.93.58 ।।",
+      "translations": {
+        "english": "'She will be crying and keep remembering his birth, childhood, youth, and his rightful actions, and his charm'.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 59,
+      "sloka": "धिगस्तु कुब्जामसतीं मन्थरां पापनिश्चयाम्।यन्निमित्तमिदं दुःखं कौसल्या प्रतिपत्स्यते ।। ६.९३.५९ ।।",
+      "transliteration": "dhigastu kubjāmasatīṁ mantharāṁ pāpaniścayām।yannimittamidaṁ duḥkhaṁ kausalyā pratipatsyate ।। 6.93.59 ।।",
+      "translations": {
+        "english": "'Son killed, Kausalya will be disappointed, lost sentience will be offering obsequies, surely and enter fire or water and drown'.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 60,
+      "sloka": "इत्येवं मैथिलीं दृष्ट्वा विलपन्तीं तपस्विनीम्।रोहिणीमिव चन्द्रेण विना ग्रहवशं गताम् ।। ६.९३.६० ।।",
+      "transliteration": "ityevaṁ maithilīṁ dṛṣṭvā vilapantīṁ tapasvinīm।rohiṇīmiva candreṇa vinā grahavaśaṁ gatām ।। 6.93.60 ।।",
+      "translations": {
+        "english": "'Because of the sinful resolve of hunch back Mandara, this grief has come to Kausalya surely. Let her be burnt'.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 61,
+      "sloka": "एतस्मिन्नन्तरे तस्य अमात्यो बुद्धिमान् शुचिः।सुपार्श्वो नाम मेधावी राक्षसो राक्षसेश्वरम्।निवार्यमाणं सचिवैरिदं वचनमब्रवीत् ।। ६.९३.६१ ।।",
+      "transliteration": "etasminnantare tasya amātyo buddhimān śuciḥ।supārśvo nāma medhāvī rākṣaso rākṣaseśvaram।nivāryamāṇaṁ sacivairidaṁ vacanamabravīt ।। 6.93.61 ।।",
+      "translations": {
+        "english": "Seeing Mythili in this manner grieving, just as Rohini fell under the sway of the Mars planet in the absence of the moon, being away from her husband, Suparsva, an upright minister of Ravana who was pure and wise spoke these words of advice to the Lord of Rakshasas in spite of other ministers trying to stop him.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 62,
+      "sloka": "कथं नाम दशग्रीव साक्षाद्वैश्रवणानुज।हन्तुमिच्छसि वैदेहीं क्रोधाद्धर्ममपास्य हि ।। ६.९३.६२ ।।",
+      "transliteration": "kathaṁ nāma daśagrīva sākṣādvaiśravaṇānuja।hantumicchasi vaidehīṁ krodhāddharmamapāsya hi ।। 6.93.62 ।।",
+      "translations": {
+        "english": "Seeing Mythili in this manner grieving, just as Rohini fell under the sway of the Mars planet in the absence of the moon, being away from her husband, Suparsva, an upright minister of Ravana who was pure and wise spoke these words of advice to the Lord of Rakshasas in spite of other ministers trying to stop him.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 63,
+      "sloka": "वेदविद्याव्रतस्नातः स्वकर्मनिरतः सदा।स्त्रियाः कस्माद्वधं वीर मन्यसे राक्षसेश्वर ।। ६.९३.६३ ।।",
+      "transliteration": "vedavidyāvratasnātaḥ svakarmanirataḥ sadā।striyāḥ kasmādvadhaṁ vīra manyase rākṣaseśvara ।। 6.93.63 ।।",
+      "translations": {
+        "english": "\"You being the direct brother of Kubera (one of the guardians of the world), ten head Lord desires to seek Vaidehi in fury and kill her casting righteousness?\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 64,
+      "sloka": "मैथिलीं रूपसम्पन्नां प्रत्यवेक्षस्व पार्थिव।त्वमेव तु सहास्माभी राघवे क्रोधमुत्सृज ।। ६.९३.६४ ।।",
+      "transliteration": "maithilīṁ rūpasampannāṁ pratyavekṣasva pārthiva।tvameva tu sahāsmābhī rāghave krodhamutsṛja ।। 6.93.64 ।।",
+      "translations": {
+        "english": "\"O Hero! Lord of Rakshasas! You made a vow of celibacy essential for Vedic study, so also engaged in your obligatory duties. Do you think of killing a woman?\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 65,
+      "sloka": "अभ्युत्थानं त्वमद्यैव कृष्णपक्षचतुर्दशीम्।कृत्वा निर्याह्यमावास्यां विजयाय बलैर्वृतः ।। ६.९३.६५ ।।",
+      "transliteration": "abhyutthānaṁ tvamadyaiva kṛṣṇapakṣacaturdaśīm।kṛtvā niryāhyamāvāsyāṁ vijayāya balairvṛtaḥ ।। 6.93.65 ।।",
+      "translations": {
+        "english": "\"O King! Mythili is endowed with charm. Your anger may be exhibited on Rama in battle (not Sita)'.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 66,
+      "sloka": "शूरो धीमान् रथी खड्गी रथप्रवरमास्थितः।हत्वा दशरथिं रामं भवान् प्राप्स्यति मैथिलीम् ।। ६.९३.६६ ।।",
+      "transliteration": "śūro dhīmān rathī khaḍgī rathapravaramāsthitaḥ।hatvā daśarathiṁ rāmaṁ bhavān prāpsyati maithilīm ।। 6.93.66 ।।",
+      "translations": {
+        "english": "\"Today being the fourteenth day of the dark fortnight, start on the next day that is the fifteenth dark day surrounded by the army and win.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 67,
+      "sloka": "स तद्दुरात्मा सुहृदा निवेदितं वचः सुधर्म्यं प्रतिगृह्य रावणः।गृहं जगामाथ ततश्च वीर्यवान् पुनः सभां च प्रययौ सुहृद्वृतः ।। ६.९३.६७ ।।",
+      "transliteration": "sa taddurātmā suhṛdā niveditaṁ vacaḥ sudharmyaṁ pratigṛhya rāvaṇaḥ।gṛhaṁ jagāmātha tataśca vīryavān punaḥ sabhāṁ ca prayayau suhṛdvṛtaḥ ।। 6.93.67 ।।",
+      "translations": {
+        "english": "\"Shrewd carwarrior, you are wise. Seated in the foremost chariot with your sword, kill Dasharatha's son and attain Sita.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 93,
+      "verse": 68,
+      "sloka": "इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये श्रीमद्युद्धकाण्डे त्रिनवतितमः सर्गः ।। ९३ ।।",
+      "transliteration": "ityārṣe śrīmadrāmāyaṇe vālmīkīye ādikāvye śrīmadyuddhakāṇḍe trinavatitamaḥ sargaḥ ।। 93 ।।",
+      "translations": {
+        "english": "\"Your honour, having slain Rama the son of Dasharatha, shall obtain Maithili.\" That evil-souled and valorous Ravana, accepting the most righteous word declared by his friend, went to his house, and thereafter went again to the assembly hall surrounded by friends.",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,639 @@
+{
+  "kanda": 5,
+  "kanda_name": "Sundara Kanda",
+  "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+  "sarga": 6,
+  "verses_count": 45,
+  "verses": [
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 6,
+      "verse": 1,
+      "sloka": "स निकामम् विमानेषु विषण्णः काम रूपधृत् ।विचचार पुनर्लङ्काम् लाघवेन समन्वितः ॥५-६-१॥",
+      "transliteration": "sa nikāmam vimāneṣu viṣaṇṇaḥ kāma rūpadhṛt ।vicacāra punarlaṅkām lāghavena samanvitaḥ ॥5-6-1॥",
+      "translations": {
+        "english": "The mighty Hanuman, who could assume any form at will, not finding Sita in the tall mansions, again started rapidly ranging in Lanka.",
+        "hindi": "भपनी इच्छानुसार रूप धारण किए कपिश्रेष्ठ हनुमानजी, विषादित हो, जल्दी-जल्दी अ्रटारियो पर चढ़-चढ़ कर, लंकापुरी में विचरने लगे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 6,
+      "verse": 2,
+      "sloka": "आससाद अथ लक्ष्मीवान् राक्षस इन्द्र निवेशनम् ।प्राकारेण अर्क वर्णेन भास्वरेण अभिसम्व्Rतम् ॥५-६-२॥",
+      "transliteration": "āsasāda atha lakṣmīvān rākṣasa indra niveśanam ।prākāreṇa arka varṇena bhāsvareṇa abhisamvRtam ॥5-6-2॥",
+      "translations": {
+        "english": "Then he reached the residence of the lord of demons enclosed by a red colour compound wall dazzling like the midday Sun.",
+        "hindi": "बे राक्षसराज रावण के भवन के समीप पहुंचे । वह राज-भवन सूर्यं सदृश चमकीले परकोटे से घिरा हुभ्रा था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 6,
+      "verse": 3,
+      "sloka": "रक्षितम् राक्षसैर् भीमैः सिम्हैर् इव महद् वनम् ।समीक्षमाणो भवनम् चकाशे कपि कुन्जरः ॥५-६-३॥",
+      "transliteration": "rakṣitam rākṣasair bhīmaiḥ simhair iva mahad vanam ।samīkṣamāṇo bhavanam cakāśe kapi kunjaraḥ ॥5-6-3॥",
+      "translations": {
+        "english": "The elephant among vanaras (Hanuman), scanned the mansion defended by dreadful demons like a forest protected by lions.",
+        "hindi": "दिस प्रकार सिंहों से कोई महावन रक्षित होता है, उसी प्रकार वह राजभवन बड़े-बड़े राक्षसों से रक्षित था । उस राज-भवन की बनावट ग्रौर सजावट देख हनुमानजी प्रसन्न हो गए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 6,
+      "verse": 4,
+      "sloka": "रूप्य कोप हितैः चित्रैः तोरणैर् हेम भूषितैः ।विचित्राभिः च कक्ष्याभिर् द्वारैः च रुचिरैर् व्Rतम् ॥५-६-४॥",
+      "transliteration": "rūpya kopa hitaiḥ citraiḥ toraṇair hema bhūṣitaiḥ ।vicitrābhiḥ ca kakṣyābhir dvāraiḥ ca rucirair vRtam ॥5-6-4॥",
+      "translations": {
+        "english": "He saw beautiful silver archways decorated with gold, colourful inner apartments with beauteous entrances.",
+        "hindi": "उस राजभवन का तोरणद्वार चाँदी का था भ्रौर चाँदी के ऊपर सोने का काम किया गया था । उस भवन की ड्योढ्याँ तरह-तरह की बनी हुई थीं । वहाँ की भूमि और दरवाजे विविध प्रकार के बने थे। वे देखने में सुन्दर प्रोर भवन की शोभा बढ़ा रहे थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 6,
+      "verse": 5,
+      "sloka": "गज आस्थितैर् महा मात्रैः शूरैः च विगत श्रमैः ।उपस्थितम् असम्हार्यैर् हयैः स्यन्दन यायिभिः ॥५-६-५॥",
+      "transliteration": "gaja āsthitair mahā mātraiḥ śūraiḥ ca vigata śramaiḥ ।upasthitam asamhāryair hayaiḥ syandana yāyibhiḥ ॥5-6-5॥",
+      "translations": {
+        "english": "(He saw) archways guarded by riders mounted on majestic elephants and unwearied riders of chariots drawn by horses of irresistible speed kept ready.",
+        "hindi": "वहाँ पर श्रमरहित ( अथवा शीघ्र न थकते वाले ) शूरवीर और हाथियों पर चढ़े हुए महावत, मौजूद थे । ऐसे वेगवान कि, जितका वेग कोई न रोक सके, रथों में जोते जाने वाले ऐसे घोड़े भी वहाँ उपस्थित थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 6,
+      "verse": 6,
+      "sloka": "सिम्ह व्याघ्र तनु त्राणैर् दान्त कान्चन राजतैः ।घोषवद्भिर् विचित्रैः च सदा विचरितम् रथैः ॥५-६-६॥",
+      "transliteration": "simha vyāghra tanu trāṇair dānta kāncana rājataiḥ ।ghoṣavadbhir vicitraiḥ ca sadā vicaritam rathaiḥ ॥5-6-6॥",
+      "translations": {
+        "english": "There were wonderful chariots covered with skins of lions and tigers, encrusted with ivory, gold and silver with ringing bells moving about.",
+        "hindi": "सिंह और व्याघ्र के चर्म. को धारण किए हुए; सोने, चाँदी श्रौर हाँयी दाँत के खिलौने से सुसज्जित तथा गम्भीर शब्द करने वाले विचित्र रथ, भवन के चारों श्रोर [रक्षा के लिए] घूमा करते थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 6,
+      "verse": 7,
+      "sloka": "बहु रत्न समाकीर्णम् पर अर्ध्य आसन भाजनम् ।महा रथ समावासम् महा रथ महा आसनम् ॥५-६-७॥",
+      "transliteration": "bahu ratna samākīrṇam para ardhya āsana bhājanam ।mahā ratha samāvāsam mahā ratha mahā āsanam ॥5-6-7॥",
+      "translations": {
+        "english": "The palace was embellished with excellent seats and vessels with many precious gems. There were spacious places to accommodate big chariorts filled with shouts of great charioteers.",
+        "hindi": "वहाँ पर विविध प्रकार के श्रेष्ठ भ्रनेक रत्नजटित मूढे, कुर्सी श्रादि रखे हुए शोभा दे रहे थे । वहाँ पर बड़े-बड़े महारथियों के रहने के मकान (बारकें ) बने हुए थे और वहाँ महारथियों का सिंहनाद हुश्रा करता था। श्रर्थात्‌ राजभवन के पहरे पर बड़े-बड़े महारथी नियुक्त थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 6,
+      "verse": 8,
+      "sloka": "दृश्यैः च परम उदारैः तैः तैः च मृग पक्षिभिः ।विविधैर् बहु साहस्रैः परिपूर्णम् समन्ततः ॥५-६-८॥",
+      "transliteration": "dṛśyaiḥ ca parama udāraiḥ taiḥ taiḥ ca mṛga pakṣibhiḥ ।vividhair bahu sāhasraiḥ paripūrṇam samantataḥ ॥5-6-8॥",
+      "translations": {
+        "english": "It was pleasing with several kinds of beautiful beasts in their thousands all over.",
+        "hindi": "टिप्पणी--महारथी का लक्षण यह बतलाया गया है :--- १ गहामात्रैहस्तिपर्कः । ( रा० ) २ श्रसंहार्य:--प्रतिहतवेग : ( रा० ) ३ पाठान्तरे--“महारथसमावास ।” एकादक्ष सहस्राणि योघयेखस्तु घनल्विनाम्‌ ॥ अस्त्रशस्त्रत्रवीणश्क स महारथ उच्यते ॥ अर्थात्‌ महारथी उसे कहते हैं जो ११ हजार श्रस्त्र-शस्त्र चलाने में पटु घ नुघुं र योद्धाओों से युद्ध करे । दृश्यश्च परमोदारेस्तेस्तेश्च मृगपक्षिभिः । विविधेर्बहुसाहस्रः परिपूर्ण समन्ततः",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 6,
+      "verse": 9,
+      "sloka": "विनीतैर् अन्त पालैः च रक्षोभिः च सुरक्षितम् ।मुख्याभिः च वर स्त्रीभिः परिपूर्णम् समन्ततः ॥५-६-९॥",
+      "transliteration": "vinītair anta pālaiḥ ca rakṣobhiḥ ca surakṣitam ।mukhyābhiḥ ca vara strībhiḥ paripūrṇam samantataḥ ॥5-6-9॥",
+      "translations": {
+        "english": "The place was full of beautful women, carefully protected by disciplined guards as well as demons.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 6,
+      "verse": 10,
+      "sloka": "मुदित प्रमदा रत्नम् राक्षस इन्द्र निवेशनम् ।वर आभरण निर्ह्रादैः समुद्र स्वन निह्स्वनम् ॥५-६-१०॥",
+      "transliteration": "mudita pramadā ratnam rākṣasa indra niveśanam ।vara ābharaṇa nirhrādaiḥ samudra svana nihsvanam ॥5-6-10॥",
+      "translations": {
+        "english": "Full of the jewels of joyous women, the residence of the lord of demons reverberated with the jingling of their ornaments and accessories like the sound of the sea.",
+        "hindi": "विनीतेरन्तपालैश्चः रक्षाभिश्च सुरक्षितम्‌ । मुख्याभिश्च वरस्त्रीभिः परिपूर्ण समन्ततः॥। & ॥ विनीत और बाहिर की रक्षा करने वाले राक्षसों द्वारा, उस राजभवन की रखवाली की जाती थी ग्रौर अत्यन्त सुन्दर स्त्रियों से वह राजभवन ही अरा पुरा था ॥ € ।। सुदितप्रमदारत्नं राक्षसेन्द्रनिवेशनम्‌ । वराभरणसंह्वादैः समुद्रस्वननिःस्वनम्‌",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 6,
+      "verse": 11,
+      "sloka": "तद् राज गुण सम्पन्नम् मुख्यैः च वर चन्दनैः ।भेरी म्Rदन्ग अभिरुतम् शन्ख घोष विनादितम् ॥५-६-११॥",
+      "transliteration": "tad rāja guṇa sampannam mukhyaiḥ ca vara candanaiḥ ।bherī mRdanga abhirutam śankha ghoṣa vināditam ॥5-6-11॥",
+      "translations": {
+        "english": "The place was full of eminent demons with royal traits like a dense forest infested with lions. It carried the fragrance of agaru and sandal of good quality.",
+        "hindi": "बह सुगन्धित घूपादि मुख्य-मुख्य राजोपचारोपयुक्त सामग्रियों से परिपूर्ण था। जिस प्रकार महावन में सिंह रहते हूँ, उसी प्रकार उस भवन में मुख्य-मुख्य राक्षस रहा करते थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 6,
+      "verse": 12,
+      "sloka": "भेरीमृदङ्गाभिरुतम् शङ्खघोषनिनादितम् ।नित्य अर्चितम् पर्व हुतम् पूजितम् राक्षसैः सदा ॥५-६-१२॥",
+      "transliteration": "bherīmṛdaṅgābhirutam śaṅkhaghoṣanināditam ।nitya arcitam parva hutam pūjitam rākṣasaiḥ sadā ॥5-6-12॥",
+      "translations": {
+        "english": "Reverberating with the sounds of trumpets, mridangam and conches, there the demons daily performed worships and sacrifices on new and fullmoon days.",
+        "hindi": "भेरीमृदङ्काभिरुतं शद्भघोषविनादितम्‌ । ` नित्याचितं पवंहुतं पुजितं राक्षसः सदा ॥ १२. ` ` १ परमोदारै:- श्रतिमहद्धि: । [श०] २ मन्तपालै:--वाह्मरक्षिभिः [गो०] दै ठ्या a 0०) Initiative वह भेरी, मृदंग और शंख के शब्दों से प्रतिघ्वनित हुआ करता था। तथा उस भवन में नित्य भ्रचंन हुआ करता था ग्रौर पर्वेदिवसो के श्रवसर पर राक्षसो द्वारा हवनादि भी हुआ करते थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 6,
+      "verse": 13,
+      "sloka": "समुद्रम् इव गम्भीरम् समुद्रम् इव निह्स्वनम् ।महात्मानो महद् वेश्म महा रत्न परिच्चदम् ॥५-६-१३॥",
+      "transliteration": "samudram iva gambhīram samudram iva nihsvanam ।mahātmāno mahad veśma mahā ratna pariccadam ॥5-6-13॥",
+      "translations": {
+        "english": "The place produced deep sounds like the sea. Those mighty ogres wore gemstudded ornaments. The great vanara saw the residence of the great self, Ravana rich with precious gems.",
+        "hindi": "कभी-कभी ] रावण के डर के मारे राजभवन समुद्र की तरह गम्भीर श्रौर निःशब्द भी हो जाया करता था श्र्थात्‌ वहाँ कोलाहल नहीं होने पाता था । उत्तम-उत्तम सामग्री से तथा भरे हुए उत्तम रत्नों से रावण के विशाल राजभवन को हनुमानजी ने देखा । उस भवन में जहाँ-तहाँ गज, भ्रकव श्रौर रथ मौजूद थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 6,
+      "verse": 14,
+      "sloka": "महा जन समाकीर्णम् ददर्श स महा कपिः ।विराजमानम् वपुषा गज अश्व रथ सम्कुलम् ॥५-६-१४॥",
+      "transliteration": "mahā jana samākīrṇam dadarśa sa mahā kapiḥ ।virājamānam vapuṣā gaja aśva ratha samkulam ॥5-6-14॥",
+      "translations": {
+        "english": "Hanuman, the great monkey, saw the royal mansion looking brilliant with elephants, horses and chariots. He thought that the palace was the very ornament of Lanka. He moved unnoticed into the close quarters of Ravana.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 6,
+      "verse": 15,
+      "sloka": "लन्का आभरणम् इति एव सो अमन्यत महा कपिः ।चचार हनुमाम्स्तत्र रावणस्य समीपतः ॥५-६-१५॥",
+      "transliteration": "lankā ābharaṇam iti eva so amanyata mahā kapiḥ ।cacāra hanumāmstatra rāvaṇasya samīpataḥ ॥5-6-15॥",
+      "translations": {
+        "english": "Hanuman, the great monkey, saw the royal mansion looking brilliant with elephants, horses and chariots. He thought that the palace was the very ornament of Lanka. He moved unnoticed into the close quarters of Ravana.",
+        "hindi": "हनुमानजी ने उस राजभवन को लंकापुरी का भूषण समझा। वे अब उस स्थान पर गये, जहाँ रावण सी रहा था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 6,
+      "verse": 16,
+      "sloka": "गृहाद् गृहम् राक्षसानाम् उद्यानानि च वानरः ।वीक्षमाणो हि असम्त्रस्तः प्रासादामः च चचार सः ॥५-६-१६॥",
+      "transliteration": "gṛhād gṛham rākṣasānām udyānāni ca vānaraḥ ।vīkṣamāṇo hi asamtrastaḥ prāsādāmaḥ ca cacāra saḥ ॥5-6-16॥",
+      "translations": {
+        "english": "Hanuman ranged undaunted from one mansion to another including the pleasure gardens.",
+        "hindi": "हनुमान जी राक्षसों के एक घर से दूसरे घर में तथा उनके उद्यानों में जा-जा कर, सीता को ढूंढ़ रहे थे। भवनों में निर्भय हो घूम फिर रहे थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 6,
+      "verse": 17,
+      "sloka": "अवप्लुत्य महा वेगः प्रहस्तस्य निवेशनम् ।ततो अन्यत् पुप्लुवे वेश्म महा पार्श्वस्य वीर्यवान् ॥५-६-१७॥",
+      "transliteration": "avaplutya mahā vegaḥ prahastasya niveśanam ।tato anyat pupluve veśma mahā pārśvasya vīryavān ॥5-6-17॥",
+      "translations": {
+        "english": "Courageous and swift, Hanuman sprang from Prahasta's house to Mahaparshva's, and so on.",
+        "hindi": "महावेगवान्‌ हनुमान जी कूद कर प्रहस्त के भवन में घुसे वहाँ से कूद कर, महाबली महापाइकं के घर में गये",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 6,
+      "verse": 18,
+      "sloka": "अथ मेघ प्रतीकाशम् कुम्भ कर्ण निवेशनम् ।विभीषणस्य च तथा पुप्लुवे स महा कपिः ॥५-६-१८॥",
+      "transliteration": "atha megha pratīkāśam kumbha karṇa niveśanam ।vibhīṣaṇasya ca tathā pupluve sa mahā kapiḥ ॥5-6-18॥",
+      "translations": {
+        "english": "Then the great vanara leaped from the residence of Kumbhakarna which looked like a cloud to Vibhishana's.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 6,
+      "verse": 19,
+      "sloka": "महा उदरस्य च तथा विरूप अक्षस्य चैव हि ।विद्युज् जिह्वस्य भवनम् विद्युन् मालेः तथैव च ॥५-६-१९॥",
+      "transliteration": "mahā udarasya ca tathā virūpa akṣasya caiva hi ।vidyuj jihvasya bhavanam vidyun māleḥ tathaiva ca ॥5-6-19॥",
+      "translations": {
+        "english": "The great vanara leaped from Mahodara's to Virupaksha's, from Vidyujjihva's to Vidyunmali and then to Vajradanstra's.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 6,
+      "verse": 20,
+      "sloka": "वज्र दम्ष्ट्रस्य च तथा पुप्लुवे स महा कपिः ।शुकस्य च महा वेगः सारणस्य च धीमतः ।तथा च इन्द्रजितो वेश्म जगाम हरि यूथपः ॥५-६-२०॥",
+      "transliteration": "vajra damṣṭrasya ca tathā pupluve sa mahā kapiḥ ।śukasya ca mahā vegaḥ sāraṇasya ca dhīmataḥ ।tathā ca indrajito veśma jagāma hari yūthapaḥ ॥5-6-20॥",
+      "translations": {
+        "english": "The brilliant leader of monkeys bounded to the house of Suka, to the clever Sarana's and to Indrajit's.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 6,
+      "verse": 21,
+      "sloka": "जम्बु मालेः सुमालेः च जगाम हरि यूथपः ॥५-६-२१॥",
+      "transliteration": "jambu māleḥ sumāleḥ ca jagāma hari yūthapaḥ ॥5-6-21॥",
+      "translations": {
+        "english": "The noble vanara jumped from Jambumali's to Sumali's and from Rashmiketu's, Suryaketu's and to Vajrakaya's residence.",
+        "hindi": "तदनन्तर वे वानरयूथपति हनुमानजी इन्द्रजीत--मेघनाद के घर में गये । वहाँ से वे जम्बुमाली, सुमाली के भवनों में गये",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 6,
+      "verse": 22,
+      "sloka": "रश्मि केतोः च भवनम् सूर्य शत्रोः तथैव च ।वज्रकायस्य च तथा पुप्लुवे स महाकपिः ॥५-६-२२॥",
+      "transliteration": "raśmi ketoḥ ca bhavanam sūrya śatroḥ tathaiva ca ।vajrakāyasya ca tathā pupluve sa mahākapiḥ ॥5-6-22॥",
+      "translations": {
+        "english": "The noble vanara jumped from Jambumali's to Sumali's and from Rashmiketu's, Suryaketu's and to Vajrakaya's residence.",
+        "hindi": "हनुमानजी कूदकर रहिमिकेतु, सूर्यशत्रु और वज्रकाय के घरों में गये",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 6,
+      "verse": 23,
+      "sloka": "धूम्र अक्षस्य च सम्पातेर् भवनम् मारुत आत्मजः ।विद्युद् रूपस्य भीमस्य घनस्य विघनस्य च ॥५-६-२३॥",
+      "transliteration": "dhūmra akṣasya ca sampāter bhavanam māruta ātmajaḥ ।vidyud rūpasya bhīmasya ghanasya vighanasya ca ॥5-6-23॥",
+      "translations": {
+        "english": "Hanuman jumped the houses of Dhumraksha, Sampati, Vidyudrupa, Bhima, Ghana and Vighana, Sukanasa, Vakra, Shatha, Vikata, Brahmakarna, Damshtra Romasa, Yuddhonmatta, Matta, Dhvajagriva, Nadi, Vidyujjihva and Indrajihva Hastimukha, Karala, Pisacha and Sonitaksha.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 6,
+      "verse": 24,
+      "sloka": "शुक नाभस्य वक्रस्य शठस्य विकटस्य च ।ह्रस्व कर्णस्य दम्ष्ट्रस्य रोमशस्य च रक्षसः ॥५-६-२४॥",
+      "transliteration": "śuka nābhasya vakrasya śaṭhasya vikaṭasya ca ।hrasva karṇasya damṣṭrasya romaśasya ca rakṣasaḥ ॥5-6-24॥",
+      "translations": {
+        "english": "Hanuman jumped the houses of Dhumraksha, Sampati, Vidyudrupa, Bhima, Ghana and Vighana, Sukanasa, Vakra, Shatha, Vikata, Brahmakarna, Damshtra Romasa, Yuddhonmatta, Matta, Dhvajagriva, Nadi, Vidyujjihva and Indrajihva Hastimukha, Karala, Pisacha and Sonitaksha.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 6,
+      "verse": 25,
+      "sloka": "युद्ध उन्मत्तस्य मत्तस्य ध्वज ग्रीवस्य नादिनः ।विद्युज् जिह्व इन्द्र जिह्वानाम् तथा हस्ति मुखस्य च ॥५-६-२५॥",
+      "transliteration": "yuddha unmattasya mattasya dhvaja grīvasya nādinaḥ ।vidyuj jihva indra jihvānām tathā hasti mukhasya ca ॥5-6-25॥",
+      "translations": {
+        "english": "Hanuman jumped the houses of Dhumraksha, Sampati, Vidyudrupa, Bhima, Ghana and Vighana, Sukanasa, Vakra, Shatha, Vikata, Brahmakarna, Damshtra Romasa, Yuddhonmatta, Matta, Dhvajagriva, Nadi, Vidyujjihva and Indrajihva Hastimukha, Karala, Pisacha and Sonitaksha.",
+        "hindi": "फिर वे युद्धोर्मत्त, मत्त, ध्वजग्रीव, विद्युज्जिह्व, इन्द्रजिह्व श्रौर हस्तिमुख नामक राक्षसो के घरों में गये",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 6,
+      "verse": 26,
+      "sloka": "करालस्य पिशाचस्य शोणित अक्षस्य चैव हि ।क्रममाणः क्रमेण एव हनूमान् मारुत आत्मजः ॥५-६-२६॥",
+      "transliteration": "karālasya piśācasya śoṇita akṣasya caiva hi ।kramamāṇaḥ krameṇa eva hanūmān māruta ātmajaḥ ॥5-6-26॥",
+      "translations": {
+        "english": "The illustrious son of the Windgod jumped from house to house in an order and saw the wealth of the wealthy in the lofty mansions.",
+        "hindi": "पाठान्तरे--नादिन? “वा सादितः” २ पाठाक्षरे--\"“समन्तत:\" हनुमान जी ने वहाँ जाकर देखा कि रावण पड़ा सो रहा है। राजभवन में घूमते हुए हनुमान जी ने बड़ी भयंकर सूरत वाली राक्षसियों को रावण के शयनगृह की रक्षा करते हुए देखा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 6,
+      "verse": 27,
+      "sloka": "तेषु तेषु महा अर्हेषु भवनेषु महा यशाः ।तेषाम् R^द्धिमताम् ऋद्धिम् ददर्श स महा कपिः ॥५-६-२७॥",
+      "transliteration": "teṣu teṣu mahā arheṣu bhavaneṣu mahā yaśāḥ ।teṣām R^ddhimatām ṛddhim dadarśa sa mahā kapiḥ ॥5-6-27॥",
+      "translations": {
+        "english": "The illustrious son of the Windgod jumped from house to house in an order and saw the wealth of the wealthy in the lofty mansions.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 6,
+      "verse": 28,
+      "sloka": "सर्वेषाम् समतिक्रम्य भवनानि समन्ततः ।आससाद अथ लक्ष्मीवान् राक्षस इन्द्र निवेशनम् ॥५-६-२८॥",
+      "transliteration": "sarveṣām samatikramya bhavanāni samantataḥ ।āsasāda atha lakṣmīvān rākṣasa indra niveśanam ॥5-6-28॥",
+      "translations": {
+        "english": "Passing all the mansions, the lucky Hanuman reached the residence of the demon king, Ravana.",
+        "hindi": "इन सव भवनों में होते हुये हुए बड़े यशस्वी हनुमान जी, प्रतापी राक्षस- राज रावण.के भवन में पहुँचे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 6,
+      "verse": 29,
+      "sloka": "रावणस्य उपशायिन्यो ददर्श हरि सत्तमः ।विचरन् हरि शार्दूलो राक्षसीर् विकृत ईक्षणाः ॥५-६-२९॥",
+      "transliteration": "rāvaṇasya upaśāyinyo dadarśa hari sattamaḥ ।vicaran hari śārdūlo rākṣasīr vikṛta īkṣaṇāḥ ॥5-6-29॥",
+      "translations": {
+        "english": "The heroic and powerful vanara saw at Ravana's residence demonesses with hideous eyes guarding the bed and an army of demons holding tridents, hammers, powerful javelins and iron cudgels.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 6,
+      "verse": 30,
+      "sloka": "शूल मुद्गल हस्ताः च शक्तो तोमर धारिणीः ।ददर्श विविधान् गुल्मामः तस्य रक्षः पतेर् गृहे ।राक्षसांश्च महाकायान्नानाप्रहरणोद्यतान् ॥५-६-३०॥",
+      "transliteration": "śūla mudgala hastāḥ ca śakto tomara dhāriṇīḥ ।dadarśa vividhān gulmāmaḥ tasya rakṣaḥ pater gṛhe ।rākṣasāṁśca mahākāyānnānāpraharaṇodyatān ॥5-6-30॥",
+      "translations": {
+        "english": "At his (Ravana's) residence, Hanuman also noticed troops of huge demons ready with different kinds of weapons.",
+        "hindi": "वे हाथों में त्रिशूल, मुगदर, शाबित, तोमर लिये हुए थीं । हनुभान जी ने रावण के घर में विविध सूरत शबल की श्रौर विविध प्रकार के आयुधों को लिए राक्षसियों के दलों को देखा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 6,
+      "verse": 31,
+      "sloka": "रक्तान् श्वेतान् सितामः चैव हरीमः चैव महा जवान् ॥५-६-३१॥",
+      "transliteration": "raktān śvetān sitāmaḥ caiva harīmaḥ caiva mahā javān ॥5-6-31॥",
+      "translations": {
+        "english": "He saw horses of high speed in red, white and cream colours. He saw beautiful, wellbred elephants, which were not inferior to the enemy's. They were welltrained and had proved equal to Airavata (Indra's elephant) in battles. Resembling the thundering clouds, they were unassailable to the enemy in war and were trumpeting like a cluster of clouds.",
+        "hindi": "टिप्पणी--“गृल्म” का ग्रथं दल थवा टोली है । इसे दस्ता भी कह सकते हें । एसे प्रत्येक दल या दस्ते में & हाथी, & रथ, २७ घोड़े भ्रोर ४५ पैदल हुश्रा करते थे ।] राक्षसांश्च महाकायाच्नान्राप्रहरणोद्यतान्‌ । रक्ताञ्चेतान्सिः तांश्चापि हरींश्चापि महाजवान्‌",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 6,
+      "verse": 32,
+      "sloka": "कुलीनान् रूप सम्पन्नान् गजान् पर गज आरुजान् ।निष्ठितान् गज शिखायाम् ऐरावत समान् युधि ॥५-६-३२॥",
+      "transliteration": "kulīnān rūpa sampannān gajān para gaja ārujān ।niṣṭhitān gaja śikhāyām airāvata samān yudhi ॥5-6-32॥",
+      "translations": {
+        "english": "He saw horses of high speed in red, white and cream colours. He saw beautiful, wellbred elephants, which were not inferior to the enemy's. They were welltrained and had proved equal to Airavata (Indra's elephant) in battles. Resembling the thundering clouds, they were unassailable to the enemy in war and were trumpeting like a cluster of clouds.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 6,
+      "verse": 33,
+      "sloka": "निहन्त्RRन् पर सैन्यानाम् गृहे तस्मिन् ददर्श सः ।क्षरतः च यथा मेघान् स्रवतः च यथा गिरीन् ॥५-६-३३॥",
+      "transliteration": "nihantRRn para sainyānām gṛhe tasmin dadarśa saḥ ।kṣarataḥ ca yathā meghān sravataḥ ca yathā girīn ॥5-6-33॥",
+      "translations": {
+        "english": "He saw horses of high speed in red, white and cream colours. He saw beautiful, wellbred elephants, which were not inferior to the enemy's. They were welltrained and had proved equal to Airavata (Indra's elephant) in battles. Resembling the thundering clouds, they were unassailable to the enemy in war and were trumpeting like a cluster of clouds.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 6,
+      "verse": 34,
+      "sloka": "मेघ स्तनित निर्घोषान् दुर्धर्षान् समरे परैः ।सहस्रम् वाहिनीः तत्र जाम्बूनद परिष्कृताः ॥५-६-३४॥",
+      "transliteration": "megha stanita nirghoṣān durdharṣān samare paraiḥ ।sahasram vāhinīḥ tatra jāmbūnada pariṣkṛtāḥ ॥5-6-34॥",
+      "translations": {
+        "english": "He saw in the palace of Ravana, the demon king, thousands of troops adorned with gold, fully protected with armour of gold shining like the morning Sun.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 6,
+      "verse": 35,
+      "sloka": "हेम जालैर् अविच्चिन्नाः तरुण आदित्य सम्निभाः ।ददर्श राक्षस इन्द्रस्य रावणस्य निवेशने ॥५-६-३५॥",
+      "transliteration": "hema jālair aviccinnāḥ taruṇa āditya samnibhāḥ ।dadarśa rākṣasa indrasya rāvaṇasya niveśane ॥5-6-35॥",
+      "translations": {
+        "english": "He saw in the palace of Ravana, the demon king, thousands of troops adorned with gold, fully protected with armour of gold shining like the morning Sun.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 6,
+      "verse": 36,
+      "sloka": "शिबिका विविध आकाराः स कपिर् मारुत आत्मजः ।लता गृहाणि चित्राणि चित्र शाला गृहाणि च ॥५-६-३६॥",
+      "transliteration": "śibikā vividha ākārāḥ sa kapir māruta ātmajaḥ ।latā gṛhāṇi citrāṇi citra śālā gṛhāṇi ca ॥5-6-36॥",
+      "translations": {
+        "english": "The son of the Windgod saw at the palace of Ravana, the lord of demons, colourful palanquins of several kinds, bowers, picture galleries, spots for sporting, hillocks (artificial) made of wood, apartments for romance, for pleasures and day time activities.",
+        "hindi": "ये पालकियाँ सुवर्ण की जालियों से भूषित, मध्याह्नं के सूर्यं की तरह चमचमाती थीं । हनुमानजी ने राक्षसेन्द्र रावण के भवन में अनेक चित्र विचित्र लतागृह, चित्रशालाएँ, क्रीडागृह, काठ के पहाड़, रतिगृह ग्रौर दिन में विहार करने के गृह देखे। उस भवन में एक स्थान मन्दराचल की तरह विशाल था, जिस पर मोरों के रहने के स्थान बने हुए थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 6,
+      "verse": 37,
+      "sloka": "क्रीडा गृहाणि च अन्यानि दारु पर्वतकान् अपि ।कामस्य गृहकम् रम्यम् दिवा गृहकम् एव च ॥५-६-३७॥",
+      "transliteration": "krīḍā gṛhāṇi ca anyāni dāru parvatakān api ।kāmasya gṛhakam ramyam divā gṛhakam eva ca ॥5-6-37॥",
+      "translations": {
+        "english": "The son of the Windgod saw at the palace of Ravana, the lord of demons, colourful palanquins of several kinds, bowers, picture galleries, spots for sporting, hillocks (artificial) made of wood, apartments for romance, for pleasures and day time activities.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 6,
+      "verse": 38,
+      "sloka": "ददर्श राक्षस इन्द्रस्य रावणस्य निवेशने ।स मन्दर तल प्रख्यम् मयूर स्थान सम्कुलम् ॥५-६-३८॥",
+      "transliteration": "dadarśa rākṣasa indrasya rāvaṇasya niveśane ।sa mandara tala prakhyam mayūra sthāna samkulam ॥5-6-38॥",
+      "translations": {
+        "english": "Comparable to mount Mandara, it was crowded with peacocks, set with flag staffs fixed all over, magnificent mansions built by skilled craftsmen with great efforts, decked with gems of several kinds, rich with treasures comparable to Kailasa, the home of Siva, the Lord of all beings.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 6,
+      "verse": 39,
+      "sloka": "ध्वज यष्टिभिर् आकीर्णम् ददर्श भवन उत्तमम् ।अनन्त रत्न निचयम् निधि जालम् समन्ततः ॥५-६-३९॥",
+      "transliteration": "dhvaja yaṣṭibhir ākīrṇam dadarśa bhavana uttamam ।ananta ratna nicayam nidhi jālam samantataḥ ॥5-6-39॥",
+      "translations": {
+        "english": "Comparable to mount Mandara, it was crowded with peacocks, set with flag staffs fixed all over, magnificent mansions built by skilled craftsmen with great efforts, decked with gems of several kinds, rich with treasures comparable to Kailasa, the home of Siva, the Lord of all beings.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 6,
+      "verse": 40,
+      "sloka": "धीर निष्ठित कर्म अन्तम् गृहम् भूत पतेर् इव ।अर्चिर्भिः च अपि रत्नानाम् तेजसा रावणस्य च ॥५-६-४०॥",
+      "transliteration": "dhīra niṣṭhita karma antam gṛham bhūta pater iva ।arcirbhiḥ ca api ratnānām tejasā rāvaṇasya ca ॥5-6-40॥",
+      "translations": {
+        "english": "The palace of Ravana looked splendid with gems of different hues and with Ravana's presence, it was shining like the radiant Sungod.",
+        "hindi": "वहाँ पर निर्भीक, स्थिरचित्त या एकाग्र मन राक्षस उन निधियों की रक्षा कर रहे थे। उस घर की शोभा ऐसी हो रही थी, जैसी कि, यक्षराज कुवेर के घर की होती है। रत्नों के प्रकाश प्रौर रावण के तेज से वह भवन एसा शोभित हो रहा था; जैसे सूर्य श्रपनी किरणों से शोभित होते हैं वह पर हनुमान जी ने जरदोजी के काम के उत्तमोत्तम विस्तरे तथा आसन श्रौर चाँदी के स्वच्छ बरतन देखे । मद्य और ासव से वह घर परिपूर्ण था श्रर्थात्‌ उस घर में मदिरा ग्रौर ग्रासवों का कीचड़ हो रहा था और जगह-जगह मणियों के बने [शराब पीने के] पात्र ढेर के ढेर इकट्ठे किए हुए थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 6,
+      "verse": 41,
+      "sloka": "विरराज अथ तद् वेश्म रश्मिमान् इव रश्मिभिः ।जाम्बू नदमयानि एव शयनानि आसनानि च ॥५-६-४१॥",
+      "transliteration": "virarāja atha tad veśma raśmimān iva raśmibhiḥ ।jāmbū nadamayāni eva śayanāni āsanāni ca ॥5-6-41॥",
+      "translations": {
+        "english": "The leader of the vanaras saw there beds, seats and main vessels made of gold.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 6,
+      "verse": 42,
+      "sloka": "भाजनानि च शुभ्राणि ददर्श हरि यूथपः ।मध्व् आसव कृत क्लेदम् मणि भाजन सम्कुलम् ॥५-६-४२॥",
+      "transliteration": "bhājanāni ca śubhrāṇi dadarśa hari yūthapaḥ ।madhv āsava kṛta kledam maṇi bhājana samkulam ॥5-6-42॥",
+      "translations": {
+        "english": "Hanuman entered the delightful, lofty palace comparable to Kubera's mansion. It was filled with vessels encrusted with gems scattered all over. The floor was drenched with liquor. It was resonating with sounds of golden anklets of women and of drums. The rows of mansions, lofty palaces with welllaid apartments were full of hundreds of exquisite women. इत्यार्षे वाल्मीकीये श्रीमद्रामायणे आदिकाव्ये सुन्दरकाण्डे षष्ठस्सर्गः।। Thus ends the sixth sarga of Sundarakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 6,
+      "verse": 43,
+      "sloka": "मनो रमम् असम्बाधम् कुबेर भवनम् यथा ।नूपुराणाम् च घोषेण कान्चीनाम् निनदेन च ॥५-६-४३॥",
+      "transliteration": "mano ramam asambādham kubera bhavanam yathā ।nūpurāṇām ca ghoṣeṇa kāncīnām ninadena ca ॥5-6-43॥",
+      "translations": {
+        "english": "",
+        "hindi": "उस घर में सब वस्तुएँ मनोहर झर यथास्थान नियम से रखी हुई थीं । वह घर कुबेरभवन की तरह रमणीक था । कहीं नूपुरों की छम-छम, कहीं करधनियों की झतकार, कहीं मृदंग की गमक और कहीं ताल सुन पड़ता था । इस प्रकार के विविध शब्दों से वह घर नादित था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 6,
+      "verse": 44,
+      "sloka": "मृदन्ग तल घोषैः च घोषवद्भिर् विनादितम् ।प्रासाद सम्घात युतम् स्त्री रत्न शत सम्कुलम् ॥५-६-४४॥",
+      "transliteration": "mṛdanga tala ghoṣaiḥ ca ghoṣavadbhir vināditam ।prāsāda samghāta yutam strī ratna śata samkulam ॥5-6-44॥",
+      "translations": {
+        "english": "",
+        "hindi": "। १ पाठान्तरे-“मुस्यानि । ˆ PRINTER BIEN भवन में अनेक भ्रटारियाँ बनी हुई थीं, जिनमें सैकड़ों सुन्दरी स्त्रिया भरी > पड़ी थीं । उस भवन की ड्योढियाँ बड़ी मजबूत बनी हुई थीं । ऐसे उस विशाल भवन में हनुमान जी गये",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 6,
+      "verse": 45,
+      "sloka": "सुव्यूढ कक्ष्यम् हनुमान् प्रविवेश महा गृहम् ।",
+      "transliteration": "suvyūḍha kakṣyam hanumān praviveśa mahā gṛham ।",
+      "translations": {
+        "english": "",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,891 @@
+{
+  "kanda": 2,
+  "kanda_name": "Ayodhya Kanda",
+  "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+  "sarga": 21,
+  "verses_count": 63,
+  "verses": [
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 1,
+      "sloka": "तथा तु विलपन्तीम् ताम् कौसल्याम् राम मातरम् ।उवाच लक्ष्मणो दीनः तत् काल सदृशम् वचः ॥२-२१-१॥",
+      "transliteration": "tathā tu vilapantīm tām kausalyām rāma mātaram ।uvāca lakṣmaṇo dīnaḥ tat kāla sadṛśam vacaḥ ॥2-21-1॥",
+      "translations": {
+        "english": "While Rama's mother, Kausalya was lamenting, miserable Lakshmana said to her these words appropriate to the occasion:",
+        "hindi": "॥ इस प्रकार श्रीरामचन्द्र जी के समझाने पर नीचे सिर झुक्राये हुए लक्ष्मण जी मन ही मन दुःखी और हृषित हुए ( दुःखी तो > इस लिए कि भाई को राज्य नहीं मिला और हर्षित इस लिए कि चस का सम भाई को समझा दिया)",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 2,
+      "sloka": "न रोचते मम अपि एतत् आर्ये यद् राघवो वनम् ।त्यक्त्वा राज्य श्रियम् गच्चेत् स्त्रिया वाक्य वशम् गतः ॥२-२१-२॥",
+      "transliteration": "na rocate mama api etat ārye yad rāghavo vanam ।tyaktvā rājya śriyam gaccet striyā vākya vaśam gataḥ ॥2-21-2॥",
+      "translations": {
+        "english": "O venerable one, I do not like that Rama should go to the forest yielding to the words of a woman and renouncing the welfare of the kingdom.",
+        "hindi": "सु परन्तु कुछ ही देर बाद भोहें टेढ़ी कर मारे क्रोध के बिल में 'बैठ हुए क्रुद्ध सप की तरह वे नरश्रेष्ठ ( लक्ष्मण ) दीर्घ निःश्वास -त्यागने लगे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 3,
+      "sloka": "विपरीतः च वृद्धः च विषयैः च प्रधर्षितः ।नृपः किम् इव न ब्रूयाच् चोद्यमानः समन्मथः ॥२-२१-३॥",
+      "transliteration": "viparītaḥ ca vṛddhaḥ ca viṣayaiḥ ca pradharṣitaḥ ।nṛpaḥ kim iva na brūyāc codyamānaḥ samanmathaḥ ॥2-21-3॥",
+      "translations": {
+        "english": "The king has a perverse nature. He is aged. He is overpowered by passions. He is under the spell of carnal pleasures and is incited (by Kaikeyi). Such a man can speak anything.",
+        "hindi": "उस समय भौहे टेढ़ी करने से उनका मुख क्रद्ध सिंह की तरह भयानक हो गया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 4,
+      "sloka": "न अस्य अपराधम् पश्यामि न अपि दोषम् तथा विधम् ।येन निर्वास्यते राष्ट्रात् वन वासाय राघवः ॥२-२१-४॥",
+      "transliteration": "na asya aparādham paśyāmi na api doṣam tathā vidham ।yena nirvāsyate rāṣṭrāt vana vāsāya rāghavaḥ ॥2-21-4॥",
+      "translations": {
+        "english": "I do not see any fault in Rama nor any offence committed by him for which he is exiled from the kingdom.",
+        "hindi": "हाथी जिस प्रकार अपनी सू ड़ इधर-उधर घुमाता है, उसी प्रकार लक्ष्मण जी अपने हाथ कया ओर मारे क्रोध के अपना \"सिर धुन कर",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 5,
+      "sloka": "न तम् पश्याम्य् अहम् लोके परोक्षम् अपि यो नरः ।स्वमित्रोऽपि निरस्तोऽपि योऽस्यदोषमुदाहरेत् ॥२-२१-५॥",
+      "transliteration": "na tam paśyāmy aham loke parokṣam api yo naraḥ ।svamitro'pi nirasto'pi yo'syadoṣamudāharet ॥2-21-5॥",
+      "translations": {
+        "english": "I do not find anybody in this world, even an adversary or one defeated, who finds fault with him even in his absence.",
+        "hindi": "ओर तिरछी नजर से भाई को देख कर वोले--हे भाई ! बुरे ` समय में तुमको यह बड़ा श्रम हो गया है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 6,
+      "sloka": "देव कल्पम् ऋजुम् दान्तम् रिपूणाम् अपि वत्सलम् ।अवेक्षमाणः को धर्मम् त्यजेत् पुत्रम् अकारणात् ॥२-२१-६॥",
+      "transliteration": "deva kalpam ṛjum dāntam ripūṇām api vatsalam ।avekṣamāṇaḥ ko dharmam tyajet putram akāraṇāt ॥2-21-6॥",
+      "translations": {
+        "english": "With no cause nor concern for righteousness, will any one abandon his son who is nearly equal to god, upright, selfrestrained and loved even by his enemies ?",
+        "hindi": "ह 'तियगित्यादि--क्रोधोतिशयेन विविधं शिरो धूननं कृत्वा । ( रा०;) Me TD २ र १: Tir >> न शमा ति SS .. >>> sete re २. ATARI ओकत. Ya त आख्ख्या लान साक पडलाय आपका यह समझना कि पिता की आज्ञा का पालन न करने से धमे की हानि होगी और लोग बुरा कहेंगे अथवा आप यदि पिता.की आज्ञा का पालन न करगे तो अन्य लोग भी ऐसा न करेंगे और सामाजिक व्यबस्था नष्ट हो जायगी-सो आपका ऐसी शङ्का करना बड़े भ्रम की बात है | आप जैसे निश्नोन्त पुरुष को तो ऐसा कहना भी न चाहिए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 7,
+      "sloka": "तत् इदम् वचनम् राज्ञः पुनर् बाल्यम् उपेयुषः ।पुत्रः को हृदये कुर्यात् राज व्Rत्तम् अनुस्मरन् ॥२-२१-७॥",
+      "transliteration": "tat idam vacanam rājñaḥ punar bālyam upeyuṣaḥ ।putraḥ ko hṛdaye kuryāt rāja vRttam anusmaran ॥2-21-7॥",
+      "translations": {
+        "english": "Will any son with the ideals of a king in mind accept such words of this king who has entered his chilhood again ?",
+        "hindi": "आप क्षत्रियश्रेष्ठ और दैव का सामना करने में समथ हो कर . भी एक असमथ पुरुष की तरह, अशक्त ओर दीन हो देब की ' प्रशंसा कर रहे हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 8,
+      "sloka": "यावद् एव न जानाति कश्चित् अर्थम् इमम् नरः ।तावद् एव मया साधम् आत्मस्थम् कुरु शासनम् ॥२-२१-८॥",
+      "transliteration": "yāvad eva na jānāti kaścit artham imam naraḥ ।tāvad eva mayā sādham ātmastham kuru śāsanam ॥2-21-8॥",
+      "translations": {
+        "english": "Before this news is known to any one bring the kingdom under your control with my assistance.",
+        "hindi": "क्या आपको उन पापियों के बारे में शङ्का नहीं होती । हे घमोत्मा ! क्या आपको यह नहीं मालूम कि इस संसार में धम- छलिया भी अनेक लोग हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 9,
+      "sloka": "मया पार्श्वे सधनुषा तव गुप्तस्य राघव ।कः समर्थो अधिकम् कर्तुम् कृत अन्तस्य इव तिष्ठतः ॥२-२१-९॥",
+      "transliteration": "mayā pārśve sadhanuṣā tava guptasya rāghava ।kaḥ samartho adhikam kartum kṛta antasya iva tiṣṭhataḥ ॥2-21-9॥",
+      "translations": {
+        "english": "O Rama who can commit excesses on you, when you stand like Yama, god of death, protected by me with my bow?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 10,
+      "sloka": "निर्मनुष्याम् इमाम् सर्वाम् अयोध्याम् मनुज ऋषभ ।करिष्यामि शरैअः तीक्ष्णैः यदि स्थास्यति विप्रिये ॥२-२१-१०॥",
+      "transliteration": "nirmanuṣyām imām sarvām ayodhyām manuja ṛṣabha ।kariṣyāmi śaraiaḥ tīkṣṇaiḥ yadi sthāsyati vipriye ॥2-21-10॥",
+      "translations": {
+        "english": "O best of men, if the whole of Ayodhya stands against you I shall depopulate it with my sharp arrows.",
+        "hindi": "देखिए स्वार्थ में पड़ कर महाराज ओर कैकेयी शाठतापूर्वेक आपको वनवास देते हैं। यदि ऐसा न होता तो हे राघव ! वे आपके अभिषेक में ऐसा विन्न उठा कर खड़ा न कर देते । ` .(र०)॥। तयोः प्रागेव दत्तश्च स्याद्वरः परक्रृतश्च सः । ळोकविद्विष्ठमारव्धं त्दन्यस्याभिषेचनस्‌",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 11,
+      "sloka": "भरतस्य अथ पक्ष्यो वा यो वा अस्य हितम् इच्चति ।सर्वान् एतान् वधिष्यामि मृदुर् हि परिभूयते ॥२-२१-११॥",
+      "transliteration": "bharatasya atha pakṣyo vā yo vā asya hitam iccati ।sarvān etān vadhiṣyāmi mṛdur hi paribhūyate ॥2-21-11॥",
+      "translations": {
+        "english": "I shall slay all of them who support Bharata and those who seek his prosperity. A gentleman is treated with disgrace indeed.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 12,
+      "sloka": "प्रोत्साहितोऽयम् कैकेय्या स दुष्टो यदिः पिता ।अमित्रभूतो निस्सङ्गम् वध्यताम् बध्यतामपि ॥२-२१-१२॥",
+      "transliteration": "protsāhito'yam kaikeyyā sa duṣṭo yadiḥ pitā ।amitrabhūto nissaṅgam vadhyatām badhyatāmapi ॥2-21-12॥",
+      "translations": {
+        "english": "Even if our father instigated by Kaikeyi becomes our enemy, he shall be imprisoned or even slain regardless of our relationship with him.",
+        "hindi": "यह भी सुके मान्य नहीं-क्योंकि उसीसे तो आपको मोह प्राप्त हुआ है । आप किस प्रकार सामर्थ्यवान हो कर भी कैकेयी के वशवर्ती",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 13,
+      "sloka": "गुरोरप्यवलिप्तस्य कार्याकार्यमजानतः ।उत्फथम् प्रतिपन्नस्य कार्यम् भवति शासन्म् ॥२-२१-१३॥",
+      "transliteration": "gurorapyavaliptasya kāryākāryamajānataḥ ।utphatham pratipannasya kāryam bhavati śāsanm ॥2-21-13॥",
+      "translations": {
+        "english": "Even a preceptor who follows the unrighteous path and is filled with haughtiness and does not know how to discriminate between good and bad, deserves to be disciplined (punished).",
+        "hindi": "पिता की उस आज्ञा का, जो अधमेयुक्त और निन्दित है, पालन ' करगे? वरदान का बहाना बतला आपके अभिषेक मे बाघा डालने को आप कपट नहीं समभते",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 14,
+      "sloka": "बलमेष किमाश्रित्य हेतुम् वा पुरुषर्षभ ।दातुमिच्छति कैकेय्य राज्यम् स्थितमिदम् तव ॥२-२१-१४॥",
+      "transliteration": "balameṣa kimāśritya hetum vā puruṣarṣabha ।dātumicchati kaikeyya rājyam sthitamidam tava ॥2-21-14॥",
+      "translations": {
+        "english": "O best of men, under what authority or reason this king wants to confer on Kaikeyi the kingdom that rightfully belongs to you?",
+        "hindi": "तुम्हारा सदा अहित चाहने बाले हैं और माता-पिता हो कर भी शत्रुता कर रहे हैं, कहना मन से भी मानेगा। यद्यपि आपका मत है क्रि उन दोनों ने जो कुछ अहित किया दे उसका कारण देब है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 15,
+      "sloka": "त्वया चैव मया चैव कृत्वा वैरम् अनुत्तमम् ।कस्य शक्तिः श्रियम् दातुम् भरताय अरि शासन ॥२-२१-१५॥",
+      "transliteration": "tvayā caiva mayā caiva kṛtvā vairam anuttamam ।kasya śaktiḥ śriyam dātum bharatāya ari śāsana ॥2-21-15॥",
+      "translations": {
+        "english": "What authority, O Rama, chastiser of foes, this king has to bestow the kingdom upon Bharata by entering into undesirable hostility towards you and me?",
+        "hindi": "॥ इसका सुके दुःख है । मैं तो ऐसी धर्म की आसक्ति को निन्य समता हुँ । क्योंकि आपको छोड़ ऐसा दूसरा कोन होगा, जो उन दोनों का, जो कामी हैं, ॥१४.। तथो स्स्व हितयोर्निस्यं शत्यो! पित्रभिधानयोः । यद्यपि प्रतिपत्तिस्ते दैवी चापि तयोमतम्‌",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 16,
+      "sloka": "अनुरक्तः अस्मि भावेन भ्रातरम् देवि तत्त्वतः ।सत्येन धनुषा चैव दत्तेन इष्टेन ते शपे ॥२-२१-१६॥",
+      "transliteration": "anuraktaḥ asmi bhāvena bhrātaram devi tattvataḥ ।satyena dhanuṣā caiva dattena iṣṭena te śape ॥2-21-16॥",
+      "translations": {
+        "english": "O mother, (Lakshmana now tells Kausalya) I am truly loyal to my brother from the bottom of my heart. I swear this by my bow, on my merits earned through charity, by my truthfulness and by the good deeds I have done.",
+        "hindi": "तथापि मुके तो आपका यह मत अच्छ नहीं लगता । क्योंकि. दैव का क्या भरोसा | कातर और वीर्यहीन पुरुष लोग ही दैव को मानते है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 17,
+      "sloka": "दीप्तम् अग्निम् अरण्यम् वा यदि रामः प्रवेक्ष्यते ।प्रविष्टम् तत्र माम् देवि त्वम् पूर्वम् अवधारय ॥२-२१-१७॥",
+      "transliteration": "dīptam agnim araṇyam vā yadi rāmaḥ pravekṣyate ।praviṣṭam tatra mām devi tvam pūrvam avadhāraya ॥2-21-17॥",
+      "translations": {
+        "english": "O mother rest assured should Rama enter a blazing fire or a forest I must have already entered it.",
+        "hindi": "किन्तु बीर आर धीर दैव को नहीं मानते । जो पुरुष अपने चुरुषाथ से दैव को अधीन कर सकता है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 18,
+      "sloka": "हरामि वीर्यात् दुह्खम् ते तमः सूर्यैव उदितः ।देवी पश्यतु मे वीर्यम् राघवः चैव पश्यतु ॥२-२१-१८॥",
+      "transliteration": "harāmi vīryāt duhkham te tamaḥ sūryaiva uditaḥ ।devī paśyatu me vīryam rāghavaḥ caiva paśyatu ॥2-21-18॥",
+      "translations": {
+        "english": "Like the rising Sun dispelling darkness, I shall eliminate your sorrow. O mother Let Rama see my valour. You, too.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 19,
+      "sloka": "एतत् तु वचनम् श्रुत्वा लक्ष्मणस्य महात्मनः ।उवाच रामम् कौसल्या रुदन्ती शोक लालसा ॥२-२१-१९॥",
+      "transliteration": "etat tu vacanam śrutvā lakṣmaṇasya mahātmanaḥ ।uvāca rāmam kausalyā rudantī śoka lālasā ॥2-21-19॥",
+      "translations": {
+        "english": "Having heard the words of the magnanimous Lakshmana, Kausalya, depressed and weeping, said to Rama:",
+        "hindi": "¬, स॒म्भाविता--सम्यक्‌ प्रापितः दृढ़यावात्‌ । (गो०) २ प्रबाधितुम्‌-- अलिक्रम्यवतिठु । ( गो० ) - स्वच्छन्द गमनम्‌। ( गो० ) २७२ ज्रः उ क च ~ ~ 2 स्य र ने तो कुळ बिगाड़ सकता है और न बह कभी “खी! छ - | र दूत ओर पुरुष के ( भाग्य ओर , पुरुषाथ वल रुप को देखे कि इन दो | हि र परुष को देखे कि इन दोनों में कौन प्रबलः दैवमानुषयोरद्य व्यक्ताः व्यक्ति 'भविष्यति | अद्य ग्त्पौरुपहत दवं द्रकष्यन्ति बै > \"पर्पहत दवं द्रक्ष्यन्ति वे जनाः",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 20,
+      "sloka": "भ्रातुस् ते वदतः पुत्र लक्ष्मणस्य श्रुतम् त्वया ।यद् अत्र अनन्तरम् तत् त्वम् कुरुष्व यदि रोचते ॥२-२१-२०॥",
+      "transliteration": "bhrātus te vadataḥ putra lakṣmaṇasya śrutam tvayā ।yad atra anantaram tat tvam kuruṣva yadi rocate ॥2-21-20॥",
+      "translations": {
+        "english": "O my son you have heard what your brother Lakshmana said and if it pleases you, do later what is to be done.",
+        "hindi": "ड जिन्होँने वतक उुम्हारे राज्याभिषेक में डिन रेखा है । मैं आज उस देव रूपी हाथी को भी नहीं समझता, जिसने पैर की बेड़ियाँ तोड युक्‌ ओर बल से गर्बाला होकर,",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 21,
+      "sloka": "न च अधर्म्यम् वचः श्रुत्वा सपत्न्या मम भाषितम् ।विहाय शोक सम्तप्ताम् गन्तुम् अर्हसि माम् इतः ॥२-२१-२१॥",
+      "transliteration": "na ca adharmyam vacaḥ śrutvā sapatnyā mama bhāṣitam ।vihāya śoka samtaptām gantum arhasi mām itaḥ ॥2-21-21॥",
+      "translations": {
+        "english": "By heeding the unrighteous words of my cowife (Kaikeyi) it does not behove you to leave me griefstricken and go away from here.",
+        "hindi": "पड़ता हुआ » जो अंकुश को कुछ डाली हैं और जो बेरोकटोक इधर-उ है न इधर-उधर दौड़ रहा है, अपने पौरुष से निवृत्त. करता हूँ। जब आपके राज्याभिषेक र करता ह । जब आपके राज्याभिषेक को समस्त लोकपाल,",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 22,
+      "sloka": "धर्मज्ञ यदि धर्मिष्ठो धर्मम् चरितुम् इच्चसि ।शुश्रूष माम् इहस्थः त्वम् चर धर्मम् अनुत्तमम् ॥२-२१-२२॥",
+      "transliteration": "dharmajña yadi dharmiṣṭho dharmam caritum iccasi ।śuśrūṣa mām ihasthaḥ tvam cara dharmam anuttamam ॥2-21-22॥",
+      "translations": {
+        "english": "You are righteous. You know your duty. If you wish to follow the path of righteousness, stay here, serve me and follow the best of dharma.",
+        "hindi": "आर. तीनों लोकों के समस्त निवासी अन्यथा नहीं कर सकते तत्र अकेले पिता की क्या सामर्थ्ये है जो राज्याभिषेक न होने दें। जिन लोगों ने आपके बन जाने का समथन किया है, हे राजन्‌ !",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 23,
+      "sloka": "शुश्रूषुर् जननीम् पुत्र स्व गृहे नियतः वसन् ।परेण तपसा युक्तः काश्यपः त्रिदिवम् गतः ॥२-२१-२३॥",
+      "transliteration": "śuśrūṣur jananīm putra sva gṛhe niyataḥ vasan ।pareṇa tapasā yuktaḥ kāśyapaḥ tridivam gataḥ ॥2-21-23॥",
+      "translations": {
+        "english": "O son Kasyapa who led a life of selfdiscipline and served his mother at home, attained heaven credited with (the merit of) the highest penance.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 24,
+      "sloka": "यथा एव राजा पूज्यः ते गौरवेण तथा हि अहम् ।त्वाम् न अहम् अनुजानामि न गन्तव्यम् इतः वनम् ॥२-२१-२४॥",
+      "transliteration": "yathā eva rājā pūjyaḥ te gauraveṇa tathā hi aham ।tvām na aham anujānāmi na gantavyam itaḥ vanam ॥2-21-24॥",
+      "translations": {
+        "english": "Just as the king is worthy of your respectful homage, so am I. I will not permit you to go from here to the forest.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 25,
+      "sloka": "त्वद् वियोगान् न मे कार्यम् जीवितेन सुखेन वा ।त्वया सह मम श्रेयः तृणानाम् अपि भक्षणम् ॥२-२१-२५॥",
+      "transliteration": "tvad viyogān na me kāryam jīvitena sukhena vā ।tvayā saha mama śreyaḥ tṛṇānām api bhakṣaṇam ॥2-21-25॥",
+      "translations": {
+        "english": "Separated from you, I have no use of this life or happiness. I prefer to live with you even if it means eating grass.",
+        "hindi": "वे हो लोग चौदह वर्षों तक बन में रहेंगे । में उस पिता और माता की आशा पर, जो आपको राज्य न दे कर भरत को देना चाहती है, पानी फेर दूंगा । मेरे बल के जो लोग बिरुद्ध , हैं उनको देबबल ॥२३-२४। . प्रभविष्यति दुःखाय यथोग्र पौरुषं मम। ` ऊध्वं वर्षसहस्रान्ते प्रजापास्यमनन्तरम्‌",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 26,
+      "sloka": "यदि त्वम् यास्यसि वनम् त्यक्त्वा माम् शोक लालसाम् ।अहम् प्रायम् इह आसिष्ये न हि शक्ष्यामि जीवितुम् ॥२-२१-२६॥",
+      "transliteration": "yadi tvam yāsyasi vanam tyaktvā mām śoka lālasām ।aham prāyam iha āsiṣye na hi śakṣyāmi jīvitum ॥2-21-26॥",
+      "translations": {
+        "english": "If you depart for the forest leaving me griefstricken I cannot live. Here I shall seek death by fasting.",
+        "hindi": "आप वन जाना ओर तब आपके पुत्र राज्य करंगे। बन हीसें रहना है तो. हमारे पूर्वज राजा लोग जिस प्रकार वृद्धा- १ कृत्स्नाःश्रन्यूनाः। ( गो० ) . वा० रा० अ०--{5. २७३. ST २७४ अयोध्याकाण्डे बस्था में बनबास करते थे उस प्रकार आप भी वनवास कीजिये",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 27,
+      "sloka": "ततः स्त्वम् प्राप्स्यसे पुत्र निरयम् लोक विश्रुतम् ।ब्रह्म हत्याम् इव अधर्मात् समुद्रः सरिताम् पतिः ॥२-२१-२७॥",
+      "transliteration": "tataḥ stvam prāpsyase putra nirayam loka viśrutam ।brahma hatyām iva adharmāt samudraḥ saritām patiḥ ॥2-21-27॥",
+      "translations": {
+        "english": "O son you will then fall into hell. As wellknown in the world, the ocean, the lord of rivers, incurred the guilt of slaying a brahmin through unrighteous conduct.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 28,
+      "sloka": "विलपन्तीम् तथा दीनाम् कौसल्याम् जननीम् ततः ।उवाच रामः धर्म अत्मा वचनम् धर्म सम्हितम् ॥२-२१-२८॥",
+      "transliteration": "vilapantīm tathā dīnām kausalyām jananīm tataḥ ।uvāca rāmaḥ dharma atmā vacanam dharma samhitam ॥2-21-28॥",
+      "translations": {
+        "english": "Thereafter, virtuous Rama addressed these words consistent with righteousness to his miserable mother Kausalya who was thus lamenting:",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 29,
+      "sloka": "न अस्ति शक्तिः पितुर् वाक्यम् समतिक्रमितुम् मम ।प्रसादये त्वाम् शिरसा गन्तुम् इच्चाम्य् अहम् वनम् ॥२-२१-२९॥",
+      "transliteration": "na asti śaktiḥ pitur vākyam samatikramitum mama ।prasādaye tvām śirasā gantum iccāmy aham vanam ॥2-21-29॥",
+      "translations": {
+        "english": "I do not have the power to transgress the orders of my father. Bowing my head I beseech you, allow me to go to the forest.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 30,
+      "sloka": "ऋषिणा च पितुर् वाक्यम् कुर्वता व्रत चारिणा ।गौर् हता जानता धर्मम् कण्डुना अपि विपश्चिता ॥२-२१-३०॥",
+      "transliteration": "ṛṣiṇā ca pitur vākyam kurvatā vrata cāriṇā ।gaur hatā jānatā dharmam kaṇḍunā api vipaścitā ॥2-21-30॥",
+      "translations": {
+        "english": "Learned sage Kandu who knew what is righteousness and a strict observant of vows, slew a cow for carrying out the command of his father.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 31,
+      "sloka": "अस्माकम् च कुले पूर्वम् सगरस्य आज्ञया पितुः ।खनद्भिः सागरैः भूतिम् अवाप्तः सुमहान् वधः ॥२-२१-३१॥",
+      "transliteration": "asmākam ca kule pūrvam sagarasya ājñayā pituḥ ।khanadbhiḥ sāgaraiḥ bhūtim avāptaḥ sumahān vadhaḥ ॥2-21-31॥",
+      "translations": {
+        "english": "Earlier the sons of Sagara, born in our family, while excavating the earth by the order of their father met a terrible death.",
+        "hindi": "में अकेला ही उन सब राजाओं को, जो इस कार्य में बाधा . डालने को अग्रसर होंगे, अपने पराक्रम से हटाने को पर्याप्त: (१ व्यापतोमव-आसक्तुचित्तोमव । ( गो० ) यक त्रयोविश: सगः २७५ (काफी) हुँ । मेरी ये दोनों बाँहे शरीर की शोभा बढ़ाने के लिए नहीं हैं और न मेरा यह धनुष शङ्कार करने के लिए कोई आभूषण ही है ।!३०:। नासिरावन्धनाथाय न शरा; स्तम्भहेतव!१ । अप्रत्रदमनार्थं मे सबमेतच्चतुष्ठ यम",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 32,
+      "sloka": "जामदग्न्येन रामेण रेणुका जननी स्वयम् ।कृत्ता परशुना अरण्ये पितुर् वचन कारिणा ॥२-२१-३२॥",
+      "transliteration": "jāmadagnyena rāmeṇa reṇukā jananī svayam ।kṛttā paraśunā araṇye pitur vacana kāriṇā ॥2-21-32॥",
+      "translations": {
+        "english": "Parasurama, son of Jamadagni himself in obedience to the words of his father, decapitated his mother Renuka in the forest with an axe.",
+        "hindi": "जो मेरा शत्रु बन कर रहना चाहता है उसका अस्तित्व मुझे सह्य नहीं | ( राजाओं की तो बात ही क्या) मैं अपनी तेज थार वाली और बिजली को तरह चमचमातो तलवार से",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 33,
+      "sloka": "एतैरन्यैश्च बहुभिर्देवि देवसमैः कृतम् ।पितुर्वचनमक्लीबम् करिष्यामि पितुर्शितम् ॥२-२१-३३॥",
+      "transliteration": "etairanyaiśca bahubhirdevi devasamaiḥ kṛtam ।piturvacanamaklībam kariṣyāmi piturśitam ॥2-21-33॥",
+      "translations": {
+        "english": "All of them including many other godlike persons, O Mother fulfilled the words of their father. I shall also make my father's wish come true.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 34,
+      "sloka": "न खल्व् एतन् मया एकेन क्रियते पितृ शासनम् ।एतैरपि कृतम् देवि ये मया तव कीर्तिताः ॥२-२१-३४॥",
+      "transliteration": "na khalv etan mayā ekena kriyate pitṛ śāsanam ।etairapi kṛtam devi ye mayā tava kīrtitāḥ ॥2-21-34॥",
+      "translations": {
+        "english": "I am not O Devi the only one obeying my father's command. All I have mentioned to you did.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 35,
+      "sloka": "नाहम् धर्ममपूर्वम् ते प्रतिकूलम् प्रवर्तये ।पूर्वैः अयम् अभिप्रेतः गतः मार्गो अनुगम्यते ॥२-२१-३५॥",
+      "transliteration": "nāham dharmamapūrvam te pratikūlam pravartaye ।pūrvaiḥ ayam abhipretaḥ gataḥ mārgo anugamyate ॥2-21-35॥",
+      "translations": {
+        "english": "I am not advancing anything new, contrary to the existing practice. I am only following the trodden path of our ancestors.",
+        "hindi": "यदि इन्द्र भी शत्रु बन कर मेरे सामने आवें तो उनके भी टुकड़े-टुकड़े कर डालू गा । इस तलवार के वार से काटे हुए हाथी, घोड़े और मनुष्यों के हाथों, पैरों और सिरों से भूमि पर ढेर लगा दूँगा जिससे आने-जाने का रास्ता तक न रहेगा । अथौत्‌ रणभूमि - को सुदौँ से भर कर बड़ा भयङ्कर बना दूंगा | मेरी तलवार से कटे प्रदीप्त पवेत की तरह ।।३३-३४॥ १ स्तम्महेतवः--तूणयां स्थापन हेतवः । ( गो० ) ` पतिष्यन्ति द्विषा भूमो मेघा इव सविद्युत; । बद्धगोधाङगुलित्राणै प्रग्रहीतशरासने",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 36,
+      "sloka": "तत् एतत् तु मया कार्यम् क्रियते भुवि न अन्यथा ।पितुर् हि वचनम् कुर्वन् न कश्चिन् नाम हीयते ॥२-२१-३६॥",
+      "transliteration": "tat etat tu mayā kāryam kriyate bhuvi na anyathā ।pitur hi vacanam kurvan na kaścin nāma hīyate ॥2-21-36॥",
+      "translations": {
+        "english": "I will not do as duty anything contrary to what is done by others in this world. No one who obeys the commands of his father falls off the path of righteousness.",
+        "hindi": "तब मैं देखूंगा कि वह कोन सा शूराभिमानी बीर है जो मेरा सामना करता है । में बहुत से बाण चला कर एक शत्रु को, ' एक ही बाण से अनेक शत्रुओं को",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 37,
+      "sloka": "ताम् एवम् उक्त्वा जननीम् लक्ष्मणम् पुनर् अब्रवीत् ।तव लक्ष्मण जानामि मयि स्नेहम् अनुत्तमम् ॥२-२१-३७॥",
+      "transliteration": "tām evam uktvā jananīm lakṣmaṇam punar abravīt ।tava lakṣmaṇa jānāmi mayi sneham anuttamam ॥2-21-37॥",
+      "translations": {
+        "english": "One who is the best among the knowers of speech and best of all archers, Rama spoke to his mother in this manner and then said to Lakshmana:",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 38,
+      "sloka": "तव लक्ष्मण जानामि मयि स्नेहमनुत्तमम् ।विक्रमम् चैव सत्यम् च तेजश्च सुदुरासदम् ॥२-२१-३८॥",
+      "transliteration": "tava lakṣmaṇa jānāmi mayi snehamanuttamam ।vikramam caiva satyam ca tejaśca sudurāsadam ॥2-21-38॥",
+      "translations": {
+        "english": "I know, O Lakshmana, your profound affection for me. I also know your valour, strength and unassailable energy.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 39,
+      "sloka": "मम मातुर्महद्दुःखमतुलम् शुभलक्षम्ण ।अभिप्रायम् अविज्ञाय सत्यस्य च शमस्य च ॥२-२१-३९॥",
+      "transliteration": "mama māturmahadduḥkhamatulam śubhalakṣamṇa ।abhiprāyam avijñāya satyasya ca śamasya ca ॥2-21-39॥",
+      "translations": {
+        "english": "O Lakshamana of auspicious qualities, since my mother is not aware of the significance of truth and selfrestraint, she is overcome with grief, great and incomparable.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 40,
+      "sloka": "धर्मः हि परमः लोके धर्मे सत्यम् प्रतिष्ठितम् ।धर्म सम्श्रितम् एतच् च पितुर् वचनम् उत्तमम् ॥२-२१-४०॥",
+      "transliteration": "dharmaḥ hi paramaḥ loke dharme satyam pratiṣṭhitam ।dharma samśritam etac ca pitur vacanam uttamam ॥2-21-40॥",
+      "translations": {
+        "english": "Righteousness alone is supreme in this world and truth is established in righteousness. This excellent command of our father is supported by righteousness.",
+        "hindi": "। हे रामचन्द्र ! मैं तुम्हारा दास हूँ । झुझे तुम अपने शत्रु को ' बतलाओ ओर आज्ञा दो जिससे मैं अभी उसे उसके प्राण, यश और हितैषियों से अलग कर दूँ और इस प्रथ्वी का राज्य तुम्हारे - हस्तगत हो जाय",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 41,
+      "sloka": "सम्श्रुत्य च पितुर् वाक्यम् मातुर् वा ब्राह्मणस्य वा ।न कर्तव्यम् वृथा वीर धर्मम् आश्रित्य तिष्ठता ॥२-२१-४१॥",
+      "transliteration": "samśrutya ca pitur vākyam mātur vā brāhmaṇasya vā ।na kartavyam vṛthā vīra dharmam āśritya tiṣṭhatā ॥2-21-41॥",
+      "translations": {
+        "english": "Any one, O hero, who has taken recourse to righteousness should not allow the promise made to his father, mother or a brahmin to go in vain.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 42,
+      "sloka": "सो अहम् न शक्ष्यामि पितुर् नियोगम् अतिवर्तितुम् ।पितुर् हि वचनात् वीर कैकेय्या अहम् प्रचोदितः ॥२-२१-४२॥",
+      "transliteration": "so aham na śakṣyāmi pitur niyogam ativartitum ।pitur hi vacanāt vīra kaikeyyā aham pracoditaḥ ॥2-21-42॥",
+      "translations": {
+        "english": "O hero I cannot transgress the command of my father since at his instance only Kaikeyi urged me (to go to the forest).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 43,
+      "sloka": "तत् एनाम् विसृज अनार्याम् क्षत्र धर्म आश्रिताम् मतिम् ।धर्मम् आश्रय मा तैक्ष्ण्यम् मद् बुद्धिर् अनुगम्यताम् ॥२-२१-४३॥",
+      "transliteration": "tat enām visṛja anāryām kṣatra dharma āśritām matim ।dharmam āśraya mā taikṣṇyam mad buddhir anugamyatām ॥2-21-43॥",
+      "translations": {
+        "english": "Therefore, leave this ignoble thought, resort to the duty of a kshatriya, take the righteous path. Do not adopt violence. Follow my decision.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 44,
+      "sloka": "तम् एवम् उक्त्वा सौहार्दात् भ्रातरम् लक्ष्मण अग्रजः ।उवाच भूयः कौसल्याम् प्रान्जलिः शिरसा आनतः ॥२-२१-४४॥",
+      "transliteration": "tam evam uktvā sauhārdāt bhrātaram lakṣmaṇa agrajaḥ ।uvāca bhūyaḥ kausalyām prānjaliḥ śirasā ānataḥ ॥2-21-44॥",
+      "translations": {
+        "english": "Speaking affectionately to his brother Lakshmana, Rama with folded hands and head bowed again addressed Kausalya:",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 45,
+      "sloka": "अनुमन्यस्व माम् देवि गमिष्यन्तम् इतः वनम् ।शापिता असि मम प्राणैः कुरु स्वस्त्ययनानि मे ॥२-२१-४५॥",
+      "transliteration": "anumanyasva mām devi gamiṣyantam itaḥ vanam ।śāpitā asi mama prāṇaiḥ kuru svastyayanāni me ॥2-21-45॥",
+      "translations": {
+        "english": "I have decided, O mother to go to the forest from here. Grant me the permission to do so. I swear on my life. Perform all the ceremonies for securing prosperity for me.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 46,
+      "sloka": "तीर्ण प्रतिज्ञः च वनात् पुनर् एष्याम्य् अहम् पुरीम् ।ययातिरिव राजर्षिः पुरा हित्वा पुनर्धिवम् ॥२-२१-४६॥",
+      "transliteration": "tīrṇa pratijñaḥ ca vanāt punar eṣyāmy aham purīm ।yayātiriva rājarṣiḥ purā hitvā punardhivam ॥2-21-46॥",
+      "translations": {
+        "english": "Like rajarshi Yayati of yore who lost heaven and rejained it, I shall return from the forest to the city (of Ayodhya) after the vow is fulfilled.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 47,
+      "sloka": "शोकस्सम्धार्यताम् मातर्हृदये साधु मा शुचः ।वनवासादिहैष्यामि पुनः कृत्वा पितुर्वचः ॥२-२१-४७॥",
+      "transliteration": "śokassamdhāryatām mātarhṛdaye sādhu mā śucaḥ ।vanavāsādihaiṣyāmi punaḥ kṛtvā piturvacaḥ ॥2-21-47॥",
+      "translations": {
+        "english": "Do not grieve, O mother Be prudent enough to subdue your sorrow in your heart. Having fulfilled father's words, I shall come back from my sojourn in the forest.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 48,
+      "sloka": "त्वया मया च वैदेह्या लक्ष्मणेन सुमित्रया ।पितुर्नियोगे स्थातव्यमेष धर्मः सनाअनः ॥२-२१-४८॥",
+      "transliteration": "tvayā mayā ca vaidehyā lakṣmaṇena sumitrayā ।piturniyoge sthātavyameṣa dharmaḥ sanāanaḥ ॥2-21-48॥",
+      "translations": {
+        "english": "You, Sita, Lakshmana, Sumitra and I -- all of us shall abide by the words of my father. This indeed is eternal law.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 49,
+      "sloka": "अम्ब सम्हृत्य सम्भारान् दुःखम् हृदि निगृह्य च ।वनवासकृता बुद्धिर्मम धर्म्यानुवर्त्यताम् ॥२-२१-४९॥",
+      "transliteration": "amba samhṛtya sambhārān duḥkham hṛdi nigṛhya ca ।vanavāsakṛtā buddhirmama dharmyānuvartyatām ॥2-21-49॥",
+      "translations": {
+        "english": "O mother in withdrawing the articles (for consecration) and also in subduing the sorrow in your heart approve of my plan to dwell in the forest.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 50,
+      "sloka": "एतद्वच स्तस्य निशम्य माता ।सुधर्म्यमव्यग्रमविक्लबम् च ।मृतेव सम्ज्ञाम् प्रतिलभ्य देवी ।समीक्ष्य रामम् पुनरित्युवाच ॥२-२१-५०॥",
+      "transliteration": "etadvaca stasya niśamya mātā ।sudharmyamavyagramaviklabam ca ।mṛteva samjñām pratilabhya devī ।samīkṣya rāmam punarityuvāca ॥2-21-50॥",
+      "translations": {
+        "english": "Having heard these words so unruffled and tranquil which conformed to righteousness, mother (Kausalya), like a dead person regaining consciousness spoke to Rama again:",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 51,
+      "sloka": "यथैव ते पुत्र पिता तथाहम् ।गुरुः स्वधर्मेण सुहृत्तया च ।न त्वानुजानामि न मांविहाय ।सुदुःखितामर्हसि गन्तुमेवम् ॥२-२१-५१॥",
+      "transliteration": "yathaiva te putra pitā tathāham ।guruḥ svadharmeṇa suhṛttayā ca ।na tvānujānāmi na māṁvihāya ।suduḥkhitāmarhasi gantumevam ॥2-21-51॥",
+      "translations": {
+        "english": "By virtue of my own duty and affection towards you, O my son I am as much your preceptor as your father is. I will not grant you permission. You should not go, leaving me deeply distressed.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 52,
+      "sloka": "किम् जीवितेनेह विना त्वया मे ।लोकेन वा किम् स्वधयाऽमृतेन ।श्रेयो मुहूर्तम् तव सन्निधानम् ।ममेह कृत्स्नादपि जीवलोकात् ॥२-२१-५२॥",
+      "transliteration": "kim jīviteneha vinā tvayā me ।lokena vā kim svadhayā'mṛtena ।śreyo muhūrtam tava sannidhānam ।mameha kṛtsnādapi jīvalokāt ॥2-21-52॥",
+      "translations": {
+        "english": "What is the purpose of my life in this world without you? What purpose do I have with the other world or with the oblations (offered to manes) or with nectar (availble to the gods). I would prefer one moment in your company to the whole world of living beings (without you).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 53,
+      "sloka": "नरैरिवोल्काभिरपोह्यमानो ।महागजोऽध्वानमनुप्रविष्टः ।भूयः प्रजज्वाल विलापमेवम् ।निशम्य रामः करुणम् जनन्या ॥२-२१-५३॥",
+      "transliteration": "narairivolkābhirapohyamāno ।mahāgajo'dhvānamanupraviṣṭaḥ ।bhūyaḥ prajajvāla vilāpamevam ।niśamya rāmaḥ karuṇam jananyā ॥2-21-53॥",
+      "translations": {
+        "english": "At the (inconsolable) lamentations of his mother, Rama was in flames (within) like a mighty elephant prevented from entering the highway by men with fireworks.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 54,
+      "sloka": "स मातरम् चैव विसम्ज्ञकल्पा ।मार्तम् च सौमित्रि मभिप्रतप्तम् ।धर्मे स्थितो धर्म्यमुवाच वाक्यम् ।यथा स एवार्हति तत्र वक्तुम् ॥२-२१-५४॥",
+      "transliteration": "sa mātaram caiva visamjñakalpā ।mārtam ca saumitri mabhiprataptam ।dharme sthito dharmyamuvāca vākyam ।yathā sa evārhati tatra vaktum ॥2-21-54॥",
+      "translations": {
+        "english": "Rama, centred on righteousness, again addressed his mother who had almost fainted and Lakshmana who was deeply distressed. As his words were consistent with righteousness, he alone was competent to speak that way.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 55,
+      "sloka": "अहम् हि ते लक्ष्मण नित्यमेव ।जानामि भक्तिम् च पराक्रमम् च ।मम त्वभिप्राय मसन्निरीक्ष्य ।मात्रा सहाभ्यर्दसि मा सुदुःखम् ॥२-२१-५५॥",
+      "transliteration": "aham hi te lakṣmaṇa nityameva ।jānāmi bhaktim ca parākramam ca ।mama tvabhiprāya masannirīkṣya ।mātrā sahābhyardasi mā suduḥkham ॥2-21-55॥",
+      "translations": {
+        "english": "I know your devotion (to me) and your valour, O Lakshmana But now, without understanding my intention you are causing me and mother severe pain and torment.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 56,
+      "sloka": "धर्मार्थकामाः खलु तात लोके ।समीक्षिता धर्मफलोदयेषु ।ते तत्र सर्वे स्युरसम्शयम् मे ।भार्येव वश्याभिमता सुपुत्रा ॥२-२१-५६॥",
+      "transliteration": "dharmārthakāmāḥ khalu tāta loke ।samīkṣitā dharmaphalodayeṣu ।te tatra sarve syurasamśayam me ।bhāryeva vaśyābhimatā suputrā ॥2-21-56॥",
+      "translations": {
+        "english": "Dharma,artha and kama, O my dear are adjudged in this world according to the fruits of righteous action. All these three are doubtless there (in my decision to go to the forest), like obedience in a wife and love for the mother in good sons.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 57,
+      "sloka": "यस्मिम्स्तु सर्वे स्युरसन्निविष्टा ।धर्मो यतः स्यात् तदुपक्रमेत ।द्वेष्यो भवत्यर्थपरो हि लोके ।कामात्मता खल्वपि न प्रशस्ता ॥२-२१-५७॥",
+      "transliteration": "yasmimstu sarve syurasanniviṣṭā ।dharmo yataḥ syāt tadupakrameta ।dveṣyo bhavatyarthaparo hi loke ।kāmātmatā khalvapi na praśastā ॥2-21-57॥",
+      "translations": {
+        "english": "If actions which combine these three (dharma, artha and kama), cannot be performed (which is likely), resort to righteousness. (For) one who seeks wealth is abhorred and one who seeks fulfilment of desires does not attract admiration in this world.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 58,
+      "sloka": "गुरुश्च राजा च पिता च वृद्धः ।क्रोधात्प्रहर्ष द्यदि वापि कामात् ।यद्व्यादिशेत् कार्यमवेक्ष्य धर्मम् ।कस्तन्न कुर्यादनृदनृशम्सवृत्तिः ॥२-२१-५८॥",
+      "transliteration": "guruśca rājā ca pitā ca vṛddhaḥ ।krodhātpraharṣa dyadi vāpi kāmāt ।yadvyādiśet kāryamavekṣya dharmam ।kastanna kuryādanṛdanṛśamsavṛttiḥ ॥2-21-58॥",
+      "translations": {
+        "english": "Whatever a preceptor, an old man, a king and a father commands whether it is out of anger or pleasure or passion must be carried out as dharma. Who will not do it unless he is heartless?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 59,
+      "sloka": "सवै न शक्नोमि पितुः प्रतिज्ञा ।मिमामकर्तुम् सकलम् यथावत् ।स ह्यवयोस्तत गुरुर्नियोगे ।देवाश्च भर्ता स गतिस्स धर्मः ॥२-२१-५९॥",
+      "transliteration": "savai na śaknomi pituḥ pratijñā ।mimāmakartum sakalam yathāvat ।sa hyavayostata gururniyoge ।devāśca bhartā sa gatissa dharmaḥ ॥2-21-59॥",
+      "translations": {
+        "english": "It is impossible for me not to execute the promise completely, O my dear, he (Dasaratha) is our preceptor and, therefore, fit to command us. Even for mother Kausalya, he is her husband, her refuge and her dharma.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 60,
+      "sloka": "तस्मिन् पुनर्जीवति धर्मराजे ।विशेषतः स्वे पथि वर्तमाने ।देवी मया सार्थमितोऽपगच्छेत् ।कथम् स्विदन्या विधवेव नारी ॥२-२१-६०॥",
+      "transliteration": "tasmin punarjīvati dharmarāje ।viśeṣataḥ sve pathi vartamāne ।devī mayā sārthamito'pagacchet ।katham svidanyā vidhaveva nārī ॥2-21-60॥",
+      "translations": {
+        "english": "While the righteous king is living, more importantly treading the righteous path, how can mother Kausalya, like an ordinary widow, accompany me leaving this city?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 61,
+      "sloka": "सा मानुमन्यस्व वनम् व्रजन्तम् ।कुरुष्व नः स्वस्त्ययनानि देवि ।यथा समाप्ते पुनराव्रजेयम् ।यथा हि स्त्येन पुनर्ययातिः ॥२-२१-६१॥",
+      "transliteration": "sā mānumanyasva vanam vrajantam ।kuruṣva naḥ svastyayanāni devi ।yathā samāpte punarāvrajeyam ।yathā hi styena punaryayātiḥ ॥2-21-61॥",
+      "translations": {
+        "english": "Grant me permission O mother, to depart for the forest. Bless me and perform ceremonies for my wellbeing so that I shall return (to the city) after completion (of my exile) like Yayati (who came back to heaven) with the strength of truth.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 62,
+      "sloka": "यशो ह्यहम् केवलराज्यकारणात् ।न पृष्ठतः कर्तुमलम् महोदयम् ।अदीर्घकाले न तु देवि जीविते ।वृणेऽवरामद्य महीमधर्मतः ॥२-२१-६२॥",
+      "transliteration": "yaśo hyaham kevalarājyakāraṇāt ।na pṛṣṭhataḥ kartumalam mahodayam ।adīrghakāle na tu devi jīvite ।vṛṇe'varāmadya mahīmadharmataḥ ॥2-21-62॥",
+      "translations": {
+        "english": "I will not forsake this great glory (of fulfilling my father's promise) for the sake of the kingdom. In this transient existence O mother, I do not wish to acquire this insignificant earth unrighteously.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 21,
+      "verse": 63,
+      "sloka": "प्रसादयन् नर वृषभः स मातरम् ।पराक्रमाज्जिगमिषुरेव दोम्डकान् ।अथ अनुजम् भ्Rशम् अनुशास्य दर्शनम् ।चकार ताम् ह्Rदि जननीम् प्रदक्षिणम् ॥२-२१-६३॥",
+      "transliteration": "prasādayan nara vṛṣabhaḥ sa mātaram ।parākramājjigamiṣureva domḍakān ।atha anujam bhRśam anuśāsya darśanam ।cakāra tām hRdi jananīm pradakṣiṇam ॥2-21-63॥",
+      "translations": {
+        "english": "Rama, the best among men, thus pacified his mother insisting on his desire to depart for Dandaka forest with courage. And elaborately instructed his brother about his good intentions after which he circumambulated his mother with all his heart. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे एकविंशस्सर्गः।। Thus ends the twentyfirst sarga of Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,317 @@
+{
+  "kanda": 1,
+  "kanda_name": "Bala Kanda",
+  "kanda_name_sanskrit": "बालकाण्डम्",
+  "sarga": 25,
+  "verses_count": 22,
+  "verses": [
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 25,
+      "verse": 1,
+      "sloka": "अथ तस्य अप्रमेयस्य मुनेर् वचनम् उत्तमम् ।श्रुत्वा पुरुष शार्दूलः प्रत्युवाच शुभाम् गिरम् ॥१-२५-१॥",
+      "transliteration": "atha tasya aprameyasya muner vacanam uttamam ।śrutvā puruṣa śārdūlaḥ pratyuvāca śubhām giram ॥1-25-1॥",
+      "translations": {
+        "english": "On hearing the excellent words of Viswamitra, a sage with unimaginable faculty. Rama, the tiger among men (Rama) replied in a, gentle voice:",
+        "hindi": "बा लकाः ण्डे आतःकाल होते ही प्रात:कृत्य कर, दोनों राजकु र 5 जकुसार विश्वामित्र जी को आगे कर नदी के तट पर पहुँचे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 25,
+      "verse": 2,
+      "sloka": "अल्प वीर्या यदा यक्षी श्रूयते मुनिपुङ्गव ।कथम् नाग सहस्रस्य धारयति अबला बलम् ॥१-२५-२॥",
+      "transliteration": "alpa vīryā yadā yakṣī śrūyate munipuṅgava ।katham nāga sahasrasya dhārayati abalā balam ॥1-25-2॥",
+      "translations": {
+        "english": "\"O best of ascetics, I have heard the yakshas possess little prowess. How can a woman who is by gender weak possess the strength of a thousand elephants?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 25,
+      "verse": 3,
+      "sloka": "इति उक्त,म् वचनम् श्रुत्वा राघवस्य अमित ओजसा ।हर्षयन् श्लक्ष्णया वचा स लक्ष्मणम् अरिन्दमम् ॥१-२५-३॥",
+      "transliteration": "iti ukta,m vacanam śrutvā rāghavasya amita ojasā ।harṣayan ślakṣṇayā vacā sa lakṣmaṇam arindamam ॥1-25-3॥",
+      "translations": {
+        "english": "Viswamitra said, \"Listen, how she acquired the prowess and strength by virtue of a boon she received.",
+        "hindi": "उस आश्रम में रहने वाले ब्रतधारी अषिगण भी उन के साथ हे विश्वामित्र तथा राजकुमारो के साथ ) नदी-वट तक गए आर एक सुन्दर नाव का प्रबन्ध कर सा , विश्वामित्र जी से आरोहतु भवान्नावं राजपुत्रपुरस्कृतः । अरिष्ठं गच्छ पन्थानं मा भूत्कालस्य पर्ययः",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 25,
+      "verse": 4,
+      "sloka": "विश्वामित्रोऽब्रवीत् वाक्यम् शृणु येन बलोत्कटा ।वर दान कृतम् वीर्यम् धारयति अबला बलम् ॥१-२५-४॥",
+      "transliteration": "viśvāmitro'bravīt vākyam śṛṇu yena balotkaṭā ।vara dāna kṛtam vīryam dhārayati abalā balam ॥1-25-4॥",
+      "translations": {
+        "english": "\"In the past there was a powerful and great yaksha by name Suketu. He had no children. So he performed an intense penance following virtuous practices.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 25,
+      "verse": 5,
+      "sloka": "पूर्वम् आसीत् महा यक्षः सुकेतुर् नाम वीर्यवान् ।अनपत्यः शुभाचारः स च तेपे महत् तपः ॥१-२५-५॥",
+      "transliteration": "pūrvam āsīt mahā yakṣaḥ suketur nāma vīryavān ।anapatyaḥ śubhācāraḥ sa ca tepe mahat tapaḥ ॥1-25-5॥",
+      "translations": {
+        "english": "Rama the grandsire Brahma was highly gratified and granted to the king of yakshas, the gem of a daughter by name known asTataka.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 25,
+      "verse": 6,
+      "sloka": "पितामहः तु सुप्रीतः तस्य यक्षपतेः तदा ।कन्या रत्नम् ददौ राम ताटकाम् नाम नामतः ॥१-२५-६॥",
+      "transliteration": "pitāmahaḥ tu suprītaḥ tasya yakṣapateḥ tadā ।kanyā ratnam dadau rāma tāṭakām nāma nāmataḥ ॥1-25-6॥",
+      "translations": {
+        "english": "The illustrious grandsire Brahma granted her the strength of a thousand elephants, but did not bestow a son on the yaksha.",
+        "hindi": "तब, नाव पर सवार श्रीरामचन्द्र जी ने विश्वामित्र जी से बूछा-“मह्दाराज ! यह जो तुमुल शब्द 'हो रहा है, सो क्या जल के टकराने का है? ( अथवा इस शब्द का कुछ और कारण है? )",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 25,
+      "verse": 7,
+      "sloka": "ददौ नाग सहस्रस्य बलम् च अस्याः पितामहः ।न तु एव पुत्रम् यक्षाय ददौ च असौ महायशाः ॥१-२५-७॥",
+      "transliteration": "dadau nāga sahasrasya balam ca asyāḥ pitāmahaḥ ।na tu eva putram yakṣāya dadau ca asau mahāyaśāḥ ॥1-25-7॥",
+      "translations": {
+        "english": "As she grew up, glowing with youth and beauty she was given in marriage to Sunda, son of Jharjha.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 25,
+      "verse": 8,
+      "sloka": "ताम् तु बालाम् विवर्धन्तीम् रूप यौवन शालिनीम् ।जंभ पुत्राय सुन्दाय ददौ भार्याम् यशस्विनीम् ॥१-२५-८॥",
+      "transliteration": "tām tu bālām vivardhantīm rūpa yauvana śālinīm ।jaṁbha putrāya sundāya dadau bhāryām yaśasvinīm ॥1-25-8॥",
+      "translations": {
+        "english": "After some time that yakshini gave birth to an unassailable son by name Maricha. Because of a curse, he became a rakshasa (though born of yaksha parentage).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 25,
+      "verse": 9,
+      "sloka": "कस्यचित् तु अथ कालस्य यक्षी पुत्रम् व्यजायत ।मारीचम् नाम दुर्धर्षम् यः शापात् राक्षसोऽभवत् ॥१-२५-९॥",
+      "transliteration": "kasyacit tu atha kālasya yakṣī putram vyajāyata ।mārīcam nāma durdharṣam yaḥ śāpāt rākṣaso'bhavat ॥1-25-9॥",
+      "translations": {
+        "english": "O Rama when Sunda died Tataka along with her son wanted to attack Agastya, the best of sages.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 25,
+      "verse": 10,
+      "sloka": "सुन्दे तु निहते राम सा अगस्त्यम् ऋषि सत्तमम् ।ताटका सह पुत्रेण प्रधर्षयितुम् इच्छति ॥१-२५-१०॥",
+      "transliteration": "sunde tu nihate rāma sā agastyam ṛṣi sattamam ।tāṭakā saha putreṇa pradharṣayitum icchati ॥1-25-10॥",
+      "translations": {
+        "english": "Roaring, she rushed with excitement to devour him. The venerable rishi Agastya saw her approaching him and cursed Maricha to assume form of a demoness.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 25,
+      "verse": 11,
+      "sloka": "भक्षार्थम् जात संरम्भा गर्जन्ती सा अभ्यधावत ।आपतन्तीम् तु ताम् दृष्ट्वा अगस्त्यो भगवान् ऋषिः ॥१-२५-११॥",
+      "transliteration": "bhakṣārtham jāta saṁrambhā garjantī sā abhyadhāvata ।āpatantīm tu tām dṛṣṭvā agastyo bhagavān ṛṣiḥ ॥1-25-11॥",
+      "translations": {
+        "english": "Mighty angry, Agastya cursed Tataka saying, 'Abandon this form of a great yakshini and assume the terrible figure of a rakshasi, a cannibal with distorted appearance and a hideous countenance'.",
+        "hindi": "oC 2250 2724 >म 22 नक १ नियतः = नियतमनस्कः ( गो० ) । १८४ बालकाण्डे हा गंगा जी से मिलती है । इन दोनों सरिताओं के जलों के . परस्पर टकराने व्द होता है के लिए न ॥ हा पक की प eT ताभ्यां तृ ताबुभौ कृत्वा प्रणाममतिधार्मिको । *तीरं दक्षिणमासाद्य जग्मतुलंघुविक्रमो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 25,
+      "verse": 12,
+      "sloka": "राक्षसत्वम् भजस्व इति मारीचम् व्याजहार सः ।अगस्त्यः परम अमर्षः ताटकाम् अपि शप्तवान् ॥१-२५-१२॥",
+      "transliteration": "rākṣasatvam bhajasva iti mārīcam vyājahāra saḥ ।agastyaḥ parama amarṣaḥ tāṭakām api śaptavān ॥1-25-12॥",
+      "translations": {
+        "english": "Mighty angry, Agastya cursed Tataka saying, 'Abandon this form of a great yakshini and assume the terrible figure of a rakshasi, a cannibal with distorted appearance and a hideous countenance'.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 25,
+      "verse": 13,
+      "sloka": "पुरुषादी महायक्षी विरूपा विकृत आनना ।इदम् रूपम् विहायाशु दारुणम् रूपम् अस्तु ते ॥१-२५-१३॥",
+      "transliteration": "puruṣādī mahāyakṣī virūpā vikṛta ānanā ।idam rūpam vihāyāśu dāruṇam rūpam astu te ॥1-25-13॥",
+      "translations": {
+        "english": "Enraged at the curse, senseless, Tataka with anger, has been ravaging this sacred land when Agastya walked.",
+        "hindi": "दोनों राजकुमारों ने चलते हुए एक बड़ा भयानक निर्जन वन मड बु त वन को देख, श्रीरामचन्द्र जी ने विश्वामित्र अहो बनमिदं दुर्ग झिल्लिकागणनादितम्‌ ।. वै ~ नेणं २ भरवेः श्‍वापदेः कोणं शकुन्तेदारुणारुतेः",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 25,
+      "verse": 14,
+      "sloka": "सैषा शाप कृताम् अर्षा ताटका क्रोध मूर्छिता ।देशम् उत्सादयति एनम् अगस्त्या चरितम् शुभम् ॥१-२५-१४॥",
+      "transliteration": "saiṣā śāpa kṛtām arṣā tāṭakā krodha mūrchitā ।deśam utsādayati enam agastyā caritam śubham ॥1-25-14॥",
+      "translations": {
+        "english": "O Rama for the welfare of cows and brahmins, slay this yakshini who is wicked, extremely cruel and possessing vile prowess.",
+        "hindi": "ओहो ! ऋषिवर, यह वन तो बडा दे्‌ ih एमे प १, डा ही भयानक देख पड़ता ८ । ब्‌ र सकार कर रहे हैं और बड़े-बड़े प जीवों नाद से यह परिपूर्ण है। बाज पक्षी भी बड़ी दः काता [र ड़ दारुण बोली बोल DN C eA Nr नानाप्रकारे! शकुने बाश्यद्धिभेरवे: स्वनै; । सिंहव्याघ हेश्च ५ वराहश्च वारशेश्चोपशोभितम्‌",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 25,
+      "verse": 15,
+      "sloka": "एनाम् राघव दुर्वृत्ताम् यक्षीम् परम दारुणाम् ।गो ब्राह्मण हितार्थाय जहि दुष्ट पराक्रमाम् ॥१-२५-१५॥",
+      "transliteration": "enām rāghava durvṛttām yakṣīm parama dāruṇām ।go brāhmaṇa hitārthāya jahi duṣṭa parākramām ॥1-25-15॥",
+      "translations": {
+        "english": "O son of Raghu's dynasty she is maligned by the curse, and so not a single man in the three worlds except you, is competent to slay this yakshini.",
+        "hindi": "थब, असगंध, अर्जुन, वेल, तेंदुआ, पाडरी और वेरियों के वृक्षां से यह वन कैसा सघन और भयङ्कर हो गया है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 25,
+      "verse": 16,
+      "sloka": "न हि एनाम् शाप संसृष्टाम् कश्चित् उत्सहते पुमान् ।निहन्तुम् त्रिषु लोकेषु त्वाम् ऋते रघु नन्दन ॥१-२५-१६॥",
+      "transliteration": "na hi enām śāpa saṁsṛṣṭām kaścit utsahate pumān ।nihantum triṣu lokeṣu tvām ṛte raghu nandana ॥1-25-16॥",
+      "translations": {
+        "english": "O best among men you need not hate killing a woman. You are a prince. You should serve the interest of the four orders of the society.",
+        "hindi": "यह्‌ सुन, महातेजस्त्री विश्वामित्र ने श्रीरामचन्द्र जी से कहा -है बेटा श्रीरामचन्द्र ! सुनो, में बतलाताहुहुँ कि, यह बिकट चन किसका है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 25,
+      "verse": 17,
+      "sloka": "न हि ते स्त्री वध कृते घृणा कार्या नरोत्तम ।चातुर् वर्ण्य हितार्थाम् हि कर्तव्यम् राज सूनुना ॥१-२५-१७॥",
+      "transliteration": "na hi te strī vadha kṛte ghṛṇā kāryā narottama ।cātur varṇya hitārthām hi kartavyam rāja sūnunā ॥1-25-17॥",
+      "translations": {
+        "english": "Whether cruel or kind, sinful or wrong whatever contributes to the protection of the subjects, should be done by the righteous (king).",
+        "hindi": "पहले यहाँ पर देवलोक के समान और धनधान्य से भरे-- पुरे भलद और करूष नाम के दो देशा बसे हुए थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 25,
+      "verse": 18,
+      "sloka": "नृशंसम् अनृशंसम् वा प्रजा रक्षण कारणात् ।पातकम् वा सदोषम् वा कर्तव्यम् रक्षता सदा ॥१-२५-१८॥",
+      "transliteration": "nṛśaṁsam anṛśaṁsam vā prajā rakṣaṇa kāraṇāt ।pātakam vā sadoṣam vā kartavyam rakṣatā sadā ॥1-25-18॥",
+      "translations": {
+        "english": "This is the eternal law binding those who are appointed to bear the burden of a kingdom. O Kakutstha kill her. She knows no dharma.",
+        "hindi": "हे राम ! वृत्रासुर को मार कर जब इन्द्र अपवित्र अवस्था में: भूखे-प्यासे थे, तब उनके शारीर में ब्रह्महत्या ने प्रवेश किया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 25,
+      "verse": 19,
+      "sloka": "राज्य भार नियुक्तानाम् एष धर्मः सनातनः ।अधर्म्याम् जहि काकुत्स्थ धर्मो हि अस्याम् न विद्यते ॥१-२५-१९॥",
+      "transliteration": "rājya bhāra niyuktānām eṣa dharmaḥ sanātanaḥ ।adharmyām jahi kākutstha dharmo hi asyām na vidyate ॥1-25-19॥",
+      "translations": {
+        "english": "O Prince It is heard that in the past Indra slew Manthara, Virochana's daughter who intended to destroy the earth.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 25,
+      "verse": 20,
+      "sloka": "श्रूयते हि पुरा शक्रो विरोचन सुताम् नृप ।पृथिवीम् हन्तुम् इच्छन्तीम् मन्थराम् अभ्यसूदयत् ॥१-२५-२०॥",
+      "transliteration": "śrūyate hi purā śakro virocana sutām nṛpa ।pṛthivīm hantum icchantīm mantharām abhyasūdayat ॥1-25-20॥",
+      "translations": {
+        "english": "'O Rama! In olden times, Kavya, the mother of Sukracharya, the wife of sage Bhrigu, was destroyed by Vishnu determined to destroy Indra.'",
+        "hindi": "इससे इन्द्र की छुधा और उनका श्रम यानी अपवित्रता और -त्रह्महत्या यहाँ छूटी, तब इन्द्र अत्यन्त प्रसन्न हुए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 25,
+      "verse": 21,
+      "sloka": "विष्णुना च पुरा राम भृगु पत्नी पतिव्रता ।अनिन्द्रम् लोकम् इच्छन्ती काव्यमाता निषूदिता ॥१-२५-२१॥",
+      "transliteration": "viṣṇunā ca purā rāma bhṛgu patnī pativratā ।anindram lokam icchantī kāvyamātā niṣūditā ॥1-25-21॥",
+      "translations": {
+        "english": "O Prince by these magnanimous persons and by great men several unrighteous women were killed for the common good\". इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे पञ्चविंशस्सर्ग:।। Thus ends the twentyfifth sarga of Balakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+        "hindi": "जब इन्द्र निर्मल, निष्पाप और पवित्र हो गए तब उन्होंने \"प्रसन्न हो इस देश को यह उत्तम वरदान दिया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 25,
+      "verse": 22,
+      "sloka": "एतैः च अन्यैः च बहुभी राजपुत्रैः महात्मभिः ।अधर्म सहिता नार्यो हताः पुरुषसत्तमैः ।तस्माद् एनाम् घृणाम् त्यक्त्वा जहि मत् शासनान् नृप ॥१-२५-२२॥",
+      "transliteration": "etaiḥ ca anyaiḥ ca bahubhī rājaputraiḥ mahātmabhiḥ ।adharma sahitā nāryo hatāḥ puruṣasattamaiḥ ।tasmād enām ghṛṇām tyaktvā jahi mat śāsanān nṛpa ॥1-25-22॥",
+      "translations": {
+        "english": "",
+        "hindi": "मेरे शरीर के मल को धारण करने वाले मलद और करूष -नामों से विख्यात और धनधान्य से भरे-पुरे दो देश तीनों लोकों में प्रसिद्ध होंगे",
+        "telugu": ""
+      }
+    }
+  ]
+}

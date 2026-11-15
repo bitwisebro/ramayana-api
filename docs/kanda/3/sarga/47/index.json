@@ -1,0 +1,709 @@
+{
+  "kanda": 3,
+  "kanda_name": "Aranya Kanda",
+  "kanda_name_sanskrit": "अरण्यकाण्डम्",
+  "sarga": 47,
+  "verses_count": 50,
+  "verses": [
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 47,
+      "verse": 1,
+      "sloka": "रावणेन तु वैदेही तदा पृष्टा जिहीर्षुणा ।परिव्राजक रूपेण शशंस आत्मानम् आत्मना ॥३-४७-१॥",
+      "transliteration": "rāvaṇena tu vaidehī tadā pṛṣṭā jihīrṣuṇā ।parivrājaka rūpeṇa śaśaṁsa ātmānam ātmanā ॥3-47-1॥",
+      "translations": {
+        "english": "Then Ravana in the guise of a mendicant with crooked intention to abduct her, asked Vaidehi to tell him about herself.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 47,
+      "verse": 2,
+      "sloka": "ब्राह्मणः च अतिथिः च एष अनुक्तो हि शपेत माम् ।इति ध्यात्वा मुहूर्तम् तु सीता वचनम् अब्रवीत् ॥३-४७-२॥",
+      "transliteration": "brāhmaṇaḥ ca atithiḥ ca eṣa anukto hi śapeta mām ।iti dhyātvā muhūrtam tu sītā vacanam abravīt ॥3-47-2॥",
+      "translations": {
+        "english": "'He is a brahmin and also a guest. If unanswered he may curse me'. Thinking this Sita thought for a moment and said:",
+        "hindi": "जब सीता जी ने इस प्रकार के कठोर बचन करे त्र ने महाक्रुद् हो और भौंहें टेठो हु 0.3, क्रुद्ध ह हैं टेढो कर, कठोर वचन कहना अ क हे न कहना आरम्भ; भ्राता वश्रवणस्याहं सापत्न्यो वरवर्शानि | _ रावणो ग भद्रं ते दशग्रीवः प्रतापवान",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 47,
+      "verse": 3,
+      "sloka": "दुहिता जनकस्य अहम् मैथिलस्य महात्मनः ।सीता नाम्ना अस्मि भद्रम् ते रामस्य महिषी प्रिया ॥३-४७-३॥",
+      "transliteration": "duhitā janakasya aham maithilasya mahātmanaḥ ।sītā nāmnā asmi bhadram te rāmasya mahiṣī priyā ॥3-47-3॥",
+      "translations": {
+        "english": "O best of brahmins be pleased to know I am Sita by name, daughter of the great Janaka, king of Mithila and wife of Rama.",
+        "hindi": "मरे डर के मारे देवता, गन्धव, पिशाच गोर सपे र ५; , पन्नग और सपे उसी प्रकार भाग खड़े होते हैं, जेसे मनष्य त्यु भागते हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 47,
+      "verse": 4,
+      "sloka": "उषित्वा द्वा दश समाः इक्ष्वाकूणाम् निवेशने ।भुंजाना मानुषान् भोगान् सर्व काम समृद्धिनी ॥३-४७-४॥",
+      "transliteration": "uṣitvā dvā daśa samāḥ ikṣvākūṇām niveśane ।bhuṁjānā mānuṣān bhogān sarva kāma samṛddhinī ॥3-47-4॥",
+      "translations": {
+        "english": "I lived in the house of the Ikshvakus for twelve years and enjoyed all kinds of pleasures meant for mortals.",
+        "hindi": "ने अपने सौतेले भाई कुबेर को कारणविशेषबश युद्ध में _कुद हो अपने बल विक्रम से जीता हे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 47,
+      "verse": 5,
+      "sloka": "तत्र त्रयो दशे वर्षे राज अमंत्र्यत प्रभुः ।अभिषेचयितुम् रामम् समेतो राज मन्त्रिभिः ॥३-४७-५॥",
+      "transliteration": "tatra trayo daśe varṣe rāja amaṁtryata prabhuḥ ।abhiṣecayitum rāmam sameto rāja mantribhiḥ ॥3-47-5॥",
+      "translations": {
+        "english": "In the thirteenth year, the king and lord Dasaratha consulted other kings and ministers to consecrate Rama.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 47,
+      "verse": 6,
+      "sloka": "तस्मिन् संभ्रियमाणे तु राघवस्य अभिषेचने ।कैकेयी नाम भर्तारम् मम आर्या याचते वरम् ॥३-४७-६॥",
+      "transliteration": "tasmin saṁbhriyamāṇe tu rāghavasya abhiṣecane ।kaikeyī nāma bhartāram mama āryā yācate varam ॥3-47-6॥",
+      "translations": {
+        "english": "Arrangements for consecration were on when queen Kaikeyi sought a boon from the king.",
+        "hindi": "बह कुवेर मेरे भय से भीत हो, भरी पूरी अपनी लङ्कापुरी को त्याग, पचतश्रष्ठ कलास पर जा बसा ॥ ४ यस्तु तत्पुष्पकं नाम विमानं कामगं शुभम्‌ । वीर्यादेवार्जित भद्रे येन यामि विहायसम्‌",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 47,
+      "verse": 7,
+      "sloka": "प्रतिगृह्य तु कैकेयी श्वशुरम् सुकृतेन मे ।मम प्रव्राजनम् भर्तुर् भरतस्य अभिषेचनम् ॥३-४७-७॥",
+      "transliteration": "pratigṛhya tu kaikeyī śvaśuram sukṛtena me ।mama pravrājanam bhartur bharatasya abhiṣecanam ॥3-47-7॥",
+      "translations": {
+        "english": "For the fulfilment of the promise made to Kaikeyi earlier by my truthful fatherin law, who, to my good luck, was the best of kings, she asked for two boons. One was banishment of my husband and second, consecration of Bharata.",
+        "hindi": "हे मैथिली ! इन्द्रादि देवता मेरा कुपित मुख देख, भयभीत हो भाग जाते हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 47,
+      "verse": 8,
+      "sloka": "द्वौ अयाचत भर्तारम् सत्यसंधम् नृपोत्तमम् ।न अद्य भोक्ष्ये न च स्वप्स्ये न पास्ये कदाचन ॥३-४७-८॥",
+      "transliteration": "dvau ayācata bhartāram satyasaṁdham nṛpottamam ।na adya bhokṣye na ca svapsye na pāsye kadācana ॥3-47-8॥",
+      "translations": {
+        "english": "'I shall not eat, or sleep or even drink if Rama is consecrated and I shall put an end to my life itself' (said Kaikeyi).",
+        "hindi": "जहाँ में खड़ा होता हूँ, वहाँ पवन शङ्कायुक्त हो बहुता है। मेरे डर के मारे सूंय की प्रखर किरणे चन्द्रमा की तरह शीतल पड़ ज्ञाती हें",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 47,
+      "verse": 9,
+      "sloka": "एष मे जीवितस्य अन्तो रामो यदि अभिषिच्यते ।इति ब्रुवाणाम् कैकेयीम् श्वशुरो मे स पार्थिवः ॥३-४७-९॥",
+      "transliteration": "eṣa me jīvitasya anto rāmo yadi abhiṣicyate ।iti bruvāṇām kaikeyīm śvaśuro me sa pārthivaḥ ॥3-47-9॥",
+      "translations": {
+        "english": "The king, my fatherinlaw, who respected her offered riches. Which she did not accept.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 47,
+      "verse": 10,
+      "sloka": "अयाचत अर्थैः अन्वर्थैः न च यांचाम् चकार सा ।मम भर्ता महातेजा वयसा पंच विंशकः ॥३-४७-१०॥",
+      "transliteration": "ayācata arthaiḥ anvarthaiḥ na ca yāṁcām cakāra sā ।mama bhartā mahātejā vayasā paṁca viṁśakaḥ ॥3-47-10॥",
+      "translations": {
+        "english": "My husband who was very bold was twentyfive years and I had completed eighteen years since my birth.",
+        "hindi": "समुद्र क पार लङ्का नामक मेरी परम सुन्दर नगरी है । वह भयङ्कर राक्षसा से वैते हो परिपूर्ण हे, जेते ( देवताओं से ) इन्द्रपुरी आमरात्रती",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 47,
+      "verse": 11,
+      "sloka": "अष्टा दश हि वर्षाणि मम जन्मनि गण्यते ।राम इति प्रथितो लोके सत्यवान् शीलवान् शुचिः ॥३-४७-११॥",
+      "transliteration": "aṣṭā daśa hi varṣāṇi mama janmani gaṇyate ।rāma iti prathito loke satyavān śīlavān śuciḥ ॥3-47-11॥",
+      "translations": {
+        "english": "My husband known in the world as Rama is largeeyed, longarmed, virtuous, truthful, pure and is always engaged in the welfare of all beings.",
+        "hindi": "वह सफेद परकाटे से घिरी हुई है | उसके चोक सोने के हॅ ओर उसके वाहिरा सप फाटक वैद्य मणि 'के बने हुए हैं। बह नगरी सुरम्य हे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 47,
+      "verse": 12,
+      "sloka": "विशालाक्षो महाबाहुः सर्व भूत हिते रतः ।कामार्तः च महाराजः पिता दशरथः स्वयम् ॥३-४७-१२॥",
+      "transliteration": "viśālākṣo mahābāhuḥ sarva bhūta hite rataḥ ।kāmārtaḥ ca mahārājaḥ pitā daśarathaḥ svayam ॥3-47-12॥",
+      "translations": {
+        "english": "The brilliant king, Dasaratha, father of Rama, overcome by passion, did not consecrate Rama in order to please Kaikeyi.",
+        "hindi": "हाथियों और घोड़ों तथा रथों से वह भरी हुई है और उसमें बाजे सदा बजा ही करते हैं, सत्र ऋतुओं में फजने बाजे वृत्त से युक्त उद्यानों से वदद सुशोभित है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 47,
+      "verse": 13,
+      "sloka": "कैकेय्याः प्रिय कामार्थम् तम् रामम् न अभिषेचयत् ।अभिषेकाय तु पितुः समीपम् रामम् आगतम् ॥३-४७-१३॥",
+      "transliteration": "kaikeyyāḥ priya kāmārtham tam rāmam na abhiṣecayat ।abhiṣekāya tu pituḥ samīpam rāmam āgatam ॥3-47-13॥",
+      "translations": {
+        "english": "When my husband Rama approached his father for the consecration she said these unhesitating words:",
+        "hindi": "हे राजकुमारी सीते! वहाँ चल कए त्‌ मेरे साथ रहना । वहाँ रहने पर तुझे कभी मानवी नारियों का स्मरण भीन होगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 47,
+      "verse": 14,
+      "sloka": "कैकेयी मम भर्तारम् इति उवाच द्रुतम् वचः ।तव पित्रा समाज्ञप्तम् मम इदम् शृणु राघव ॥३-४७-१४॥",
+      "transliteration": "kaikeyī mama bhartāram iti uvāca drutam vacaḥ ।tava pitrā samājñaptam mama idam śṛṇu rāghava ॥3-47-14॥",
+      "translations": {
+        "english": "'O Rama, listen, your father has ordered that this kingdom be bestowed on Bharata without any obstacles.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 47,
+      "verse": 15,
+      "sloka": "भरताय प्रदातव्यम् इदम् राज्यम् अकण्टकम् ।त्वया तु खलु वस्तव्यम् नव वर्षाणि पंच च ॥३-४७-१५॥",
+      "transliteration": "bharatāya pradātavyam idam rājyam akaṇṭakam ।tvayā tu khalu vastavyam nava varṣāṇi paṁca ca ॥3-47-15॥",
+      "translations": {
+        "english": "'O Rama of the Kakutstha dynasty, you should live in the forest for fourteen years and save your father from falsehood'.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 47,
+      "verse": 16,
+      "sloka": "वने प्रव्रज काकुत्स्थ पितरम् मोचय अनृतात् ।तथा इति उवाच ताम् रामः कैकेयीम् अकुतो भयः ॥३-४७-१६॥",
+      "transliteration": "vane pravraja kākutstha pitaram mocaya anṛtāt ।tathā iti uvāca tām rāmaḥ kaikeyīm akuto bhayaḥ ॥3-47-16॥",
+      "translations": {
+        "english": "My husband Rama, a man of fearlessness and firm resolution, said to Kaikeyi 'Be it so' and carried out her words.",
+        "hindi": "राम सनुष्य है, बह युद्ध सें मेरी एक अंगुली के बल के समान भो (बलवान्‌) नहीं हे । (अर्धांतू उसमें इतना भी बल नहीं 'जतना मरी एक अंगुली में है) अतः बह्‌ युद्ध में मेरा सामना केसे कर सकता हे हे वरवणिनी ! इसे त अपना सोभाग्य समझ £ सं यहां आया हू । छातः त मुझे अङ्गीकार कर",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 47,
+      "verse": 17,
+      "sloka": "चकार तत् वचः तस्या मम भर्ता दृढ व्रतः ।दद्यात् न प्रतिगृह्णीयात् सत्यम् ब्रूयात् न च अनृतम् ॥३-४७-१७॥",
+      "transliteration": "cakāra tat vacaḥ tasyā mama bhartā dṛḍha vrataḥ ।dadyāt na pratigṛhṇīyāt satyam brūyāt na ca anṛtam ॥3-47-17॥",
+      "translations": {
+        "english": "O brahmin this is his firm resolve and his great vow: 'One should give and never take one should speak the truth and nothing but he truth.'",
+        "hindi": "C. सवराक्षसभतोर कामाः त्स्पयमिहायतम्‌ । ७, मन्मथशराविष्ट प्रत्याख्यातुं त्वमहसि ॥ १७ ५ में राक्षसो का राजा हो कर भी अपनी इच्छा से अपने आप यहाँ आया हूँ । में कामदेव के बाणों से घायल हो रहा हूँ ! मेरा 'तिरस्कार करना तुझको उचित नहों है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 47,
+      "verse": 18,
+      "sloka": "एतत् ब्राह्मण रामस्य व्रतम् ध्रुवम् अनुत्तमम् ।तस्य भ्राता तु वैमात्रो लक्ष्मणो नाम वीर्यवान् ॥३-४७-१८॥",
+      "transliteration": "etat brāhmaṇa rāmasya vratam dhruvam anuttamam ।tasya bhrātā tu vaimātro lakṣmaṇo nāma vīryavān ॥3-47-18॥",
+      "translations": {
+        "english": "Son to the second mother of Rama, his mighty halfbrother, by name, Lakshmana, a tiger among men and a slayer of enemies in battle is a companion to him.",
+        "hindi": "गतचेतसा--कर्ब्थाकरतव्यमूहुमनता । (गोऽ) र दापसेन मम कृषे भागवता भ! न्त? इति न्यायेन अश्रेण । (गो०) ३ तपस्विनः-- शोच्येन । (गोऽ) ४कामातू- स्वेच्छया | (शि०) «पाठान्तरे-- राजञा । अष्टचत्वारशः सग ३७४ हे भीरु ! यदि तू भेरा तिरस्कार करेगा, तो पीछे तुझको वेसे हा पछताना पड़ेगा, जेस उबशी अप्सरा राजा पुरूरवा के लात मार कर, पछताई थी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 47,
+      "verse": 19,
+      "sloka": "रामस्य पुरुषव्याघ्रः सहायः समरे अरिहा ।स भ्राता लक्ष्मणो नाम धर्म चारी दृढ व्रतः ॥३-४७-१९॥",
+      "transliteration": "rāmasya puruṣavyāghraḥ sahāyaḥ samare arihā ।sa bhrātā lakṣmaṇo nāma dharma cārī dṛḍha vrataḥ ॥3-47-19॥",
+      "translations": {
+        "english": "Lakshmana, his brother, is righteous and steadfast. Bow in hand, he followed Rama along with me, into exile.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 47,
+      "verse": 20,
+      "sloka": "अन्वगच्छत् धनुष् पाणिः प्रव्रजंतम् मया सह ।जटी तापस रूपेण मया सह सह अनुजः ॥३-४७-२०॥",
+      "transliteration": "anvagacchat dhanuṣ pāṇiḥ pravrajaṁtam mayā saha ।jaṭī tāpasa rūpeṇa mayā saha saha anujaḥ ॥3-47-20॥",
+      "translations": {
+        "english": "Rama who is ever righteous and selfcontrolled entered the Dandaka forest with matted locks, his brother and me.",
+        "hindi": "रावण के ऐसे बचन सुन, सीता कुपित हो आर लाल लाल नेत्र कर, उस निजन घन में रावण से कठोर बचन बोली",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 47,
+      "verse": 21,
+      "sloka": "प्रविष्टो दंडकारण्यम् धर्म नित्यो धृढ व्रतः ।ते वयम् प्रच्युता राज्यात् कैकेय्याः तु कृते त्रयः ॥३-४७-२१॥",
+      "transliteration": "praviṣṭo daṁḍakāraṇyam dharma nityo dhṛḍha vrataḥ ।te vayam pracyutā rājyāt kaikeyyāḥ tu kṛte trayaḥ ॥3-47-21॥",
+      "translations": {
+        "english": "O best of brahmins three of us have been wandering with courage in the deep forest, dislodged from the kingdom on account of Kaikeyi.",
+        "hindi": "इन्र की पत्नी शची को हर कर, कोई चाहे भले ही जीता बना रहे; किन्तु ` मुझ राअपत्मी को हर कर, कोई जीता नहीं रह सकता",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 47,
+      "verse": 22,
+      "sloka": "विचराम द्विज श्रेष्ठ वनम् गंभीरम् ओजसा ।समाश्वस मुहूर्तम् तु शक्यम् वस्तुम् इह त्वया ॥३-४७-२२॥",
+      "transliteration": "vicarāma dvija śreṣṭha vanam gaṁbhīram ojasā ।samāśvasa muhūrtam tu śakyam vastum iha tvayā ॥3-47-22॥",
+      "translations": {
+        "english": "Rest here awhile. My husband will return with plenty of meat of many kinds from the forest, killing deer, alligators and wild boars.",
+        "hindi": "हे रावण ! याद रख । निश्चय ही वे समस्त राक्षस सारे जाँयगे जिसका तुझ जैसा कूर, दुष्टबुद्धि और अजितेन्द्रिय राजा है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 47,
+      "verse": 23,
+      "sloka": "आगमिष्यति मे भर्ता वन्यम् आदाय पुष्कलम् ।रुरून् गोधान् वराहान् च हत्वा आदाय अमिषान् बहु ॥३-४७-२३॥",
+      "transliteration": "āgamiṣyati me bhartā vanyam ādāya puṣkalam ।rurūn godhān varāhān ca hatvā ādāya amiṣān bahu ॥3-47-23॥",
+      "translations": {
+        "english": "Rest here awhile. My husband will return with plenty of meat of many kinds from the forest, killing deer, alligators and wild boars.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 47,
+      "verse": 24,
+      "sloka": "सः त्वम् नाम च गोत्रम् च कुलम् आचक्ष्व तत्त्वतः ।एकः च दण्डकारण्ये किम् अर्थम् चरसि द्विज ॥३-४७-२४॥",
+      "transliteration": "saḥ tvam nāma ca gotram ca kulam ācakṣva tattvataḥ ।ekaḥ ca daṇḍakāraṇye kim artham carasi dvija ॥3-47-24॥",
+      "translations": {
+        "english": "O brahmin, tell me your name, your gotra and your pedigree. And the purpose for which you are going about all alone in this Dandaka forest",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 47,
+      "verse": 25,
+      "sloka": "एवम् ब्रुवत्याम् सीतायाम् राम पत्नीआम् महाबलः ।प्रत्युवाच उत्तरम् तीव्रम् रावणो राक्षसाधिपः ॥३-४७-२५॥",
+      "transliteration": "evam bruvatyām sītāyām rāma patnīām mahābalaḥ ।pratyuvāca uttaram tīvram rāvaṇo rākṣasādhipaḥ ॥3-47-25॥",
+      "translations": {
+        "english": "To these words of Sita, Rama's wife, Ravana, the powerful king of demons, replied sharp:",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 47,
+      "verse": 26,
+      "sloka": "येन वित्रासिता लोकाः स देव असुर मानुषा ।अहम् सः रावणो नाम सीते रक्षो गण ईश्वरः ॥३-४७-२६॥",
+      "transliteration": "yena vitrāsitā lokāḥ sa deva asura mānuṣā ।aham saḥ rāvaṇo nāma sīte rakṣo gaṇa īśvaraḥ ॥3-47-26॥",
+      "translations": {
+        "english": "O Sita I am called Ravana, the lord of demons by whom all the worlds of demons, snakes and gods are frightened.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 47,
+      "verse": 27,
+      "sloka": "त्वाम् तु कांचन वर्ण आभाम् दृष्ट्वा कौशेय वासिनीम् ।रतिम् स्वकेषु दारेषु न अधिगच्छामि अनिन्दिते ॥३-४७-२७॥",
+      "transliteration": "tvām tu kāṁcana varṇa ābhām dṛṣṭvā kauśeya vāsinīm ।ratim svakeṣu dāreṣu na adhigacchāmi anindite ॥3-47-27॥",
+      "translations": {
+        "english": "O flawless beauty of golden complexion seeing you clad in silk, I am not inclined to show any interest in my own wives.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 47,
+      "verse": 28,
+      "sloka": "बह्वीनाम् उत्तम स्त्रीणाम् आहृतानाम् इतः ततः ।सर्वासाम् एव भद्रम् ते मम अग्र महिषी भव ॥३-४७-२८॥",
+      "transliteration": "bahvīnām uttama strīṇām āhṛtānām itaḥ tataḥ ।sarvāsām eva bhadram te mama agra mahiṣī bhava ॥3-47-28॥",
+      "translations": {
+        "english": "You will be the chief queen among the best of women I have won in wars. Be blessed.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 47,
+      "verse": 29,
+      "sloka": "लंका नाम समुद्रस्य मध्ये मम महापुरी ।सागरेण परिक्षिप्ता निविष्टा गिरि मूर्धनि ॥३-४७-२९॥",
+      "transliteration": "laṁkā nāma samudrasya madhye mama mahāpurī ।sāgareṇa parikṣiptā niviṣṭā giri mūrdhani ॥3-47-29॥",
+      "translations": {
+        "english": "My great city called Lanka is on the peak of a mountain surrounded by, and in the middle of, the sea.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 47,
+      "verse": 30,
+      "sloka": "तत्र सीते मया सार्धम् वनेषु विचरिष्यसि ।न च अस्य वन वासस्य स्पृहयिष्यसि भामिनि ॥३-४७-३०॥",
+      "transliteration": "tatra sīte mayā sārdham vaneṣu vicariṣyasi ।na ca asya vana vāsasya spṛhayiṣyasi bhāmini ॥3-47-30॥",
+      "translations": {
+        "english": "O Sita, you can stroll with me in my pleasuregardens. O beautiful lady, you will not like living in the forest (thereafter).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 47,
+      "verse": 31,
+      "sloka": "पंच दास्यः सहस्राणि सर्व आभरण भूषिताः ।सीते परिचरिष्यन्ति भार्या भवसि मे यदि ॥३-४७-३१॥",
+      "transliteration": "paṁca dāsyaḥ sahasrāṇi sarva ābharaṇa bhūṣitāḥ ।sīte paricariṣyanti bhāryā bhavasi me yadi ॥3-47-31॥",
+      "translations": {
+        "english": "O Sita if you become my wife, five thousand female attendants adorned with all ornaments will attend on you.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 47,
+      "verse": 32,
+      "sloka": "रावणेन एवम् उक्ता तु कुपिता जनक आत्मजा ।प्रत्युवाच अनवद्यांगी तम् अनादृत्य राक्षसम् ॥३-४७-३२॥",
+      "transliteration": "rāvaṇena evam uktā tu kupitā janaka ātmajā ।pratyuvāca anavadyāṁgī tam anādṛtya rākṣasam ॥3-47-32॥",
+      "translations": {
+        "english": "Thus addressed by Ravana, Janaki, a lady of blemishless limbs, got enraged and replied without caring for the demon:",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 47,
+      "verse": 33,
+      "sloka": "महा गिरिम् इव अकंप्यम् महेन्द्र सदृशम् पतिम् ।महा उदधिम् इव अक्षोभ्यम् अहम् रामम् अनुव्रता ॥३-४७-३३॥",
+      "transliteration": "mahā girim iva akaṁpyam mahendra sadṛśam patim ।mahā udadhim iva akṣobhyam aham rāmam anuvratā ॥3-47-33॥",
+      "translations": {
+        "english": "I am devoted to Rama, my husband, who is unshakeable like a huge mountain, is comparable to lord Indra and is imperturbable like the mighty ocean.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 47,
+      "verse": 34,
+      "sloka": "सर्व लक्षण संपन्नम् न्यग्रोध परि मण्डलम् ।सत्य संधम् महाभागम् रामम् अनुव्रता ॥३-४७-३४॥",
+      "transliteration": "sarva lakṣaṇa saṁpannam nyagrodha pari maṇḍalam ।satya saṁdham mahābhāgam rāmam anuvratā ॥3-47-34॥",
+      "translations": {
+        "english": "I am the loyal wife of venerable Rama who is endowed with all excellences, a refuge to all like a spreading banyan tree, and a votary of truth.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 47,
+      "verse": 35,
+      "sloka": "महाबाहुम् महोरस्कम् सिंह विक्रांत गामिनम् ।नृसिंहम् सिंह संकाशम् अहम् रामम् अनुव्रता ॥३-४७-३५॥",
+      "transliteration": "mahābāhum mahoraskam siṁha vikrāṁta gāminam ।nṛsiṁham siṁha saṁkāśam aham rāmam anuvratā ॥3-47-35॥",
+      "translations": {
+        "english": "I am the faithful wife of the longarmed, broadchested Rama, a lion among men. His gait is the gait of an advancing, invincible lion.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 47,
+      "verse": 36,
+      "sloka": "पूर्ण चन्द्र आननम् वीरम् राज वत्सम् जितेन्द्रियम् ।पृथु कीर्तिम् महाबाहुम् अहम् रामम् अनुव्रता ॥३-४७-३६॥",
+      "transliteration": "pūrṇa candra ānanam vīram rāja vatsam jitendriyam ।pṛthu kīrtim mahābāhum aham rāmam anuvratā ॥3-47-36॥",
+      "translations": {
+        "english": "I am the devoted wife of great Rama, whose face is like a fullmoon, who is the son of a king, who has conquered his senses and whose fame is widespread (on earth).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 47,
+      "verse": 37,
+      "sloka": "त्वम् पुनः जंबुकः सिंहीम् माम् इह इच्छसि दुर्लभाम् ।न अहम् शक्या त्वया स्प्रष्टुम् आदित्यस्य प्रभा यथा ॥३-४७-३७॥",
+      "transliteration": "tvam punaḥ jaṁbukaḥ siṁhīm mām iha icchasi durlabhām ।na aham śakyā tvayā spraṣṭum ādityasya prabhā yathā ॥3-47-37॥",
+      "translations": {
+        "english": "You are a jackal, and you want a lioness like me who is difficult to win. I am like the Sun's radiance whom you cannot even touch.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 47,
+      "verse": 38,
+      "sloka": "पादपान् कांचनान् नूनम् बहून् पश्यसि मंदभाक् ।राघवस्य प्रियाम् भार्याम् यः त्वम् इच्छसि राक्षस ॥३-४७-३८॥",
+      "transliteration": "pādapān kāṁcanān nūnam bahūn paśyasi maṁdabhāk ।rāghavasya priyām bhāryām yaḥ tvam icchasi rākṣasa ॥3-47-38॥",
+      "translations": {
+        "english": "O luckless Ravana you want the beloved wife of Rama.You will, for sure, see golden trees. (which those close to death do).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 47,
+      "verse": 39,
+      "sloka": "क्षुधितस्य च सिंहस्य मृग शत्रोः तरस्विनः ।आशी विषस्य वदनात् दम्ष्ट्राम् आदातुम् इच्छसि ॥३-४७-३९॥",
+      "transliteration": "kṣudhitasya ca siṁhasya mṛga śatroḥ tarasvinaḥ ।āśī viṣasya vadanāt damṣṭrām ādātum icchasi ॥3-47-39॥",
+      "translations": {
+        "english": "You are seeking to pull the teeth from the mouth of a hungry and powerful lion who is considered the enemy of the deer(which you are). You intend to pull the fang of a poisonous snake.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 47,
+      "verse": 40,
+      "sloka": "मंदरम् पर्वत श्रेष्ठम् पाणिना हर्तुम् इच्छसि ।काल कूटम् विषम् पीत्वा स्वस्तिमान् गंतुम् इच्छसि ॥३-४७-४०॥",
+      "transliteration": "maṁdaram parvata śreṣṭham pāṇinā hartum icchasi ।kāla kūṭam viṣam pītvā svastimān gaṁtum icchasi ॥3-47-40॥",
+      "translations": {
+        "english": "You are trying to carry the greatest of mountains, the Mandara, with one hand. You are wishing to go safe after drinking deadly poison (produced from the churning of the ocean).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 47,
+      "verse": 41,
+      "sloka": "अक्षि सूच्या प्रमृजसि जिह्वया लेढि च क्षुरम् ।राघवस्य प्रियाम् भार्याम् अधिगंतुम् त्वम् इच्छसि ॥३-४७-४१॥",
+      "transliteration": "akṣi sūcyā pramṛjasi jihvayā leḍhi ca kṣuram ।rāghavasya priyām bhāryām adhigaṁtum tvam icchasi ॥3-47-41॥",
+      "translations": {
+        "english": "You wish to violate the loving wife of Rama. You are rubbing your eyes with a needle and licking the razor with your tongue.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 47,
+      "verse": 42,
+      "sloka": "अवसज्य शिलाम् कण्ठे समुद्रम् तर्तुम् इच्छसि ।सूर्या चन्द्रमसौ च उभौ प्राणिभ्याम् हर्तुम् इच्छसि ॥३-४७-४२॥",
+      "transliteration": "avasajya śilām kaṇṭhe samudram tartum icchasi ।sūryā candramasau ca ubhau prāṇibhyām hartum icchasi ॥3-47-42॥",
+      "translations": {
+        "english": "You want to assault Rama's dear wife. It is like girding a stone round the neck and trying to cross the sea.It is like intending to take the Sun and the Moon with both your hands.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 47,
+      "verse": 43,
+      "sloka": "यो रामस्य प्रियाम् भार्याम् प्रधर्षयितुम् इच्छसि ।अग्निम् प्रज्वलितम् दृष्ट्वा वस्त्रेण आहर्तुम् इच्छसि ॥३-४७-४३॥",
+      "transliteration": "yo rāmasya priyām bhāryām pradharṣayitum icchasi ।agnim prajvalitam dṛṣṭvā vastreṇa āhartum icchasi ॥3-47-43॥",
+      "translations": {
+        "english": "You intend to assaut the wife of Rama, who is a lady of virtuous conduct. You wish to hold blazing fire in your cloth.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 47,
+      "verse": 44,
+      "sloka": "कल्याण वृत्ताम् यो भार्याम् रामस्य हर्तुम् इच्छसि ।अयो मुखानाम् शूलानाम् अग्रे चरितुम् इच्छसि ।रामस्य सदृशीम् भार्याम् यो अधिगंतुम् त्वम् इच्छसि ॥३-४७-४४॥",
+      "transliteration": "kalyāṇa vṛttām yo bhāryām rāmasya hartum icchasi ।ayo mukhānām śūlānām agre caritum icchasi ।rāmasya sadṛśīm bhāryām yo adhigaṁtum tvam icchasi ॥3-47-44॥",
+      "translations": {
+        "english": "You want to acquire Rama's worthy wife. You wish to walk on sharp ironheaded spear.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 47,
+      "verse": 45,
+      "sloka": "यद् अंतरम् सिंह शृगालयोः वनेयद् अंतरम् स्यन्दनिका समुद्रयोः ।सुर अग्र्य सौवीरकयोः यद् अंतरम्तद् अंतरम् दाशरथेः तव एव च ॥३-४७-४५॥",
+      "transliteration": "yad aṁtaram siṁha śṛgālayoḥ vaneyad aṁtaram syandanikā samudrayoḥ ।sura agrya sauvīrakayoḥ yad aṁtaramtad aṁtaram dāśaratheḥ tava eva ca ॥3-47-45॥",
+      "translations": {
+        "english": "The difference between you and Rama is the difference between a jackal and a lion in the forest, between a ditch and the sea, and between sour gruel and the best of wines.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 47,
+      "verse": 46,
+      "sloka": "यद् अंतरम् कांचन सीस लोहयोःयद् अंतरम् चन्दन वारि पंकयोः ।यद् अंतरम् हस्ति बिडालयोः वनेतद् अंतरम् दशरथेः तव एव च ॥३-४७-४६॥",
+      "transliteration": "yad aṁtaram kāṁcana sīsa lohayoḥyad aṁtaram candana vāri paṁkayoḥ ।yad aṁtaram hasti biḍālayoḥ vanetad aṁtaram daśaratheḥ tava eva ca ॥3-47-46॥",
+      "translations": {
+        "english": "The difference between you and Rama is the difference between gold and lead, sandal and slime, an elephant and a cat of the forest.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 47,
+      "verse": 47,
+      "sloka": "यद् अंतरम् वायस वैनतेययोःयद् अंतरम् मद्गु मयूरयोः अपि ।यद् अंतरम् हंस गृध्रयोः वनेतद् अंतरम् दाशरथेः तव एव च ॥३-४७-४७॥",
+      "transliteration": "yad aṁtaram vāyasa vainateyayoḥyad aṁtaram madgu mayūrayoḥ api ।yad aṁtaram haṁsa gṛdhrayoḥ vanetad aṁtaram dāśaratheḥ tava eva ca ॥3-47-47॥",
+      "translations": {
+        "english": "The difference between you and Dasaratha's son is the difference between a crow and Garuda, a watercrane and a peacock, a vulture and a swan in the forest.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 47,
+      "verse": 48,
+      "sloka": "तस्मिन् सहस्राक्ष सम प्रभावेरामे स्थिते कार्मुक बाण पाणौ ।हृता अपि ते अहम् न जराम् गमिष्येवज्रम् यथा मक्षिकया अवगीर्णम् ॥३-४७-४८॥",
+      "transliteration": "tasmin sahasrākṣa sama prabhāverāme sthite kārmuka bāṇa pāṇau ।hṛtā api te aham na jarām gamiṣyevajram yathā makṣikayā avagīrṇam ॥3-47-48॥",
+      "translations": {
+        "english": "So long Rama, equal in prowess to the thousandeyed Indra stands with bow and arrows in hand, I will not, although abducted, wither away like a diamond gulped by an insect (fly).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 47,
+      "verse": 49,
+      "sloka": "इति इव तत् वाक्यम् अदुष्ट भावासुदुष्टम् उक्त्वा रजनी चरम् तम् ।गात्र प्रकंपात् व्यथिता बभूववात उद्धता सा कदली इव तन्वी ॥३-४७-४९॥",
+      "transliteration": "iti iva tat vākyam aduṣṭa bhāvāsuduṣṭam uktvā rajanī caram tam ।gātra prakaṁpāt vyathitā babhūvavāta uddhatā sā kadalī iva tanvī ॥3-47-49॥",
+      "translations": {
+        "english": "Having said thus to the wicked nightwalker Ravana, Sita, pure in thought remained distressed.Her slender body started trembling like a banana plant becomes shaken by a violent wind.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 47,
+      "verse": 50,
+      "sloka": "ताम् वेपमानाम् उपलक्ष्य सीताम्स रावणो मृत्यु सम प्रभावः ।कुलम् बलम् नाम च कर्म च आत्मनःसमाचचक्षे भय कारण अर्थम् ॥३-४७-५०॥",
+      "transliteration": "tām vepamānām upalakṣya sītāmsa rāvaṇo mṛtyu sama prabhāvaḥ ।kulam balam nāma ca karma ca ātmanaḥsamācacakṣe bhaya kāraṇa artham ॥3-47-50॥",
+      "translations": {
+        "english": "Beholding Sita who was trembling, Ravana, powerful like death, started telling about himself, his clan, his strength and his deeds to instil more fear in her. इत्तयार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अरण्यकाण्डे सप्तचत्वारिंशस्सर्गः।। Thus ends the fortyseventh sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

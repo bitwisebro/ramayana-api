@@ -1,0 +1,415 @@
+{
+  "kanda": 1,
+  "kanda_name": "Bala Kanda",
+  "kanda_name_sanskrit": "बालकाण्डम्",
+  "sarga": 77,
+  "verses_count": 29,
+  "verses": [
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 77,
+      "verse": 1,
+      "sloka": "गते रामे प्रशांत आत्मा रामो दाशरथिः धनुः ।वरुणाय अप्रमेयाय ददौ हस्ते महायशाः ॥१-७७-१॥",
+      "transliteration": "gate rāme praśāṁta ātmā rāmo dāśarathiḥ dhanuḥ ।varuṇāya aprameyāya dadau haste mahāyaśāḥ ॥1-77-1॥",
+      "translations": {
+        "english": "When Parasurama departed, Rama, son of Dasaratha with a serene mind gave the bow along with the arrow to Varuna of immeasurable strength.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 77,
+      "verse": 2,
+      "sloka": "अभिवाद्य ततो रामो वसिष्ठ प्रमुखान् ऋषीन् ।पितरम् विह्वलम् दृष्ट्वा प्रोवाच रघुनंदनः ॥१-७७-२॥",
+      "transliteration": "abhivādya tato rāmo vasiṣṭha pramukhān ṛṣīn ।pitaram vihvalam dṛṣṭvā provāca raghunaṁdanaḥ ॥1-77-2॥",
+      "translations": {
+        "english": "Thereafter Rama the descendant of the Raghus, paid obeisance to Vasishta and other rishis, and looked at his father who appeared agitated said:",
+        "hindi": "्रचिन्त्यानि-द्राश्चर्यभूतानि | ( गा० ) २ अप्रमेयानि--अप_- रिच्छेद्य महिमानि । ( गो० ) हे राजन्‌ | डूद्वाकु और विदेह-दोनों ही बंशों की वंश- परम्पराएँ विस्मयोत्पादनी हैं और इनकी महिमा असीम है। इनकी बराबरी करने वाला दूसरा कोई कुल ही नहीं है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 77,
+      "verse": 3,
+      "sloka": "जामदग्न्यो गतो रामः प्रयातु चतुर् अन्गिणी ।अयोध्या अभिमुखी सेना त्वया नाथेन पालिता ॥१-७७-३॥",
+      "transliteration": "jāmadagnyo gato rāmaḥ prayātu catur angiṇī ।ayodhyā abhimukhī senā tvayā nāthena pālitā ॥1-77-3॥",
+      "translations": {
+        "english": "\"Parasurama, son of Jamadagni, has gone. Let the four divisions of the army of which you are the commander proceed towards Ayodhya.",
+        "hindi": "सदृशो धर्मसम्बन्धः सदृशो रूपसम्पदा । रामलक्ष्मणयो राजन्‌ सीता चोर्मिलया सह ।!२॥ श्रीरमचन्द्र और सीता का तथा लक्ष्मण एवं उर्मिला का धर्म सम्बन्ध अर्थात्‌ वैवाहिक सम्बन्ध बराबर का है। क्योंकि. बर-बधू दोनों ही क्या रूप और क्या सम्पत्ति, सब बातों में समान हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 77,
+      "verse": 4,
+      "sloka": "रामस्य वचनम् श्रुत्वा राजा दशरथः सुतम् ।बाहुभ्याम् सम्परिष्वज्य मूर्ध्नि उपाघ्राय राघवम् ॥१-७७-४॥",
+      "transliteration": "rāmasya vacanam śrutvā rājā daśarathaḥ sutam ।bāhubhyām sampariṣvajya mūrdhni upāghrāya rāghavam ॥1-77-4॥",
+      "translations": {
+        "english": "The army which is under your command O King is awaiting your orders like the chatakas awaiting water. Direct them (to proceed).",
+        "hindi": "हे राजन्‌! यह्‌ होने पर भी मुझे इस पर कुछ वक्तव्य है । उसे सुनिए । आपके यह छोटे और धर्मज्ञ भाई जो कुशध्वज हैँ,",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 77,
+      "verse": 5,
+      "sloka": "गतो राम इति श्रुत्वा हृष्टः प्रमुदितो नृपः ।पुनर्जातम् तदा मेने पुत्रम् आत्मानम् एव च ॥१-७७-५॥",
+      "transliteration": "gato rāma iti śrutvā hṛṣṭaḥ pramudito nṛpaḥ ।punarjātam tadā mene putram ātmānam eva ca ॥1-77-5॥",
+      "translations": {
+        "english": "On hearing the words 'Parasurama has departed' from Rama, king Dasaratha embraced him and kissed his forehead. The king, immensely happy, felt he and his son were reborn.",
+        "hindi": "परशुराम जी की ये बातें सुन, महाराज दशरथ उदास हो गये ओर दीनतापूबेक ( अर्थात्‌ परशुराम की खुशामद कर के.) हाथ जोड कर, कहने लगे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 77,
+      "verse": 6,
+      "sloka": "चोदयामास ताम् सेनाम् जगाम आशु ततः पुरीम् ।पताका ध्वजिनीम् रम्याम् तूर्य उद् घुष्ट निनादिताम् ॥१-७७-६॥",
+      "transliteration": "codayāmāsa tām senām jagāma āśu tataḥ purīm ।patākā dhvajinīm ramyām tūrya ud ghuṣṭa nināditām ॥1-77-6॥",
+      "translations": {
+        "english": "On hearing the words 'Parasurama has departed' from Rama, king Dasaratha embraced him and kissed his forehead. The king, immensely happy, felt he and his son were reborn.",
+        "hindi": "अर्थात्‌ हे राजन्‌ ! एक कन्या बुद्धिमान्‌ राजकुमार भरत के लिए ओर एक शात्रुन्न के लिए हम माँगरे हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 77,
+      "verse": 7,
+      "sloka": "सिक्त राज पथा रम्याम् प्रकीर्ण कुसुम उत्कराम् ।राज प्रवेश सुमुखैः पौरैः मंगल पाणिभिः ॥१-७७-७॥",
+      "transliteration": "sikta rāja pathā ramyām prakīrṇa kusuma utkarām ।rāja praveśa sumukhaiḥ pauraiḥ maṁgala pāṇibhiḥ ॥1-77-7॥",
+      "translations": {
+        "english": "Thereafter, king Dasaratha directed his army to proceed speedily in advance. When he reached the city of Ayodhya it looked welldecorated with flags and banners. It resounded with trumpets. The royal highways were sprinkiled with water and strewn with flowers. It was filled with groups of people. Awaiting with delight the arrival of the king the citizens produced merry sounds with musical instruments.",
+        "hindi": "॥ महाराज दशरथ के चारों राजकुमार रूपवान्‌, यौवनशाली, लोकपालों के तमान, अथच देवतुल्य पराक्रमी हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 77,
+      "verse": 8,
+      "sloka": "सम्पूर्णाम् प्राविशत् राजा जन ओघैः समलम्कृताम् ।पौरैः प्रति उद्गतो दूरम् द्विजैः च पुर वासिभिः ॥१-७७-८॥",
+      "transliteration": "sampūrṇām prāviśat rājā jana oghaiḥ samalamkṛtām ।pauraiḥ prati udgato dūram dvijaiḥ ca pura vāsibhiḥ ॥1-77-8॥",
+      "translations": {
+        "english": "Thereafter, king Dasaratha directed his army to proceed speedily in advance. When he reached the city of Ayodhya it looked welldecorated with flags and banners. It resounded with trumpets. The royal highways were sprinkiled with water and strewn with flowers. It was filled with groups of people. Awaiting with delight the arrival of the king the citizens produced merry sounds with musical instruments.",
+        "hindi": "सो हे राजेन्द्र ! इन दोनों राजकुमारों का भी सम्बन्ध कीजिए | इच्वाङङ्ल निर्दोष है और आप भी पुण्यात्मा हैं ॥-॥ विश्वामित्रवचः श्रुत्वा वसिष्ठस्थ मते तदा । जनकः गराज्ञालवाक्यमुवाच मुनिपुङ्गबौ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 77,
+      "verse": 9,
+      "sloka": "पुत्रैः अनुगतः श्रीमान् श्रीमद्भिः च महायशाः ।प्रविवेश गृहम् राजा हिमवत् सदृशम् प्रियम् ॥१-७७-९॥",
+      "transliteration": "putraiḥ anugataḥ śrīmān śrīmadbhiḥ ca mahāyaśāḥ ।praviveśa gṛham rājā himavat sadṛśam priyam ॥1-77-9॥",
+      "translations": {
+        "english": "Prosperous king Dasaratha of great fame followed by his elegant sons entered the city of Ayodhya while the citizens and brahmins came forward from a long distance to welcome him who reentered his palace looking like the Himalayan mountain.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 77,
+      "verse": 10,
+      "sloka": "ननन्द स्वजनैः राजा गृहे कामैः सुपूजितः ।कौसल्या च सुमित्रा च कैकेयी च सुमध्यमा ॥१-७७-१०॥",
+      "transliteration": "nananda svajanaiḥ rājā gṛhe kāmaiḥ supūjitaḥ ।kausalyā ca sumitrā ca kaikeyī ca sumadhyamā ॥1-77-10॥",
+      "translations": {
+        "english": "The king and his kith and kin were received with honour in a pleasing manner. Kausalya, Sumitra and Kaikeyi of slender waist and other women attending on the king were busy in receiving the new brides.",
+        "hindi": "मेरा कुल धन्य है, जो आप दोनों महषियों ने स्वयं इस कुल- सम्बन्ध का समान बतलाया है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 77,
+      "verse": 11,
+      "sloka": "वधू प्रतिग्रहे युक्ता याः च अन्या राज योषितः ।ततः सीताम् महाभागाम् ऊर्मिलाम् च यशस्विनीम् ॥१-७७-११॥",
+      "transliteration": "vadhū pratigrahe yuktā yāḥ ca anyā rāja yoṣitaḥ ।tataḥ sītām mahābhāgām ūrmilām ca yaśasvinīm ॥1-77-11॥",
+      "translations": {
+        "english": "The king and his kith and kin were received with honour in a pleasing manner. Kausalya, Sumitra and Kaikeyi of slender waist and other women attending on the king were busy in receiving the new brides.",
+        "hindi": "re OS क २. अव्यग्रं--निर्दोष | ( गो० ) पु आप जो आज्ञा देंगे बही होगा । आपका मङ्गल हो, कुशध्वज की कन्याओं का विवाह भरत और शत्रुन्न के साथ कर दिया जायगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 77,
+      "verse": 12,
+      "sloka": "कुशध्वज सुते च उभे जगृहुः नृप योषितः ।मंगल आलापनैः होमैः शोभिताः क्षौम वाससः ॥१-७७-१२॥",
+      "transliteration": "kuśadhvaja sute ca ubhe jagṛhuḥ nṛpa yoṣitaḥ ।maṁgala ālāpanaiḥ homaiḥ śobhitāḥ kṣauma vāsasaḥ ॥1-77-12॥",
+      "translations": {
+        "english": "Thereafter the queens received the highly fortunate Sita, Urmila of high fame and both the daughters of Kusadhwaja, Mandavi and Srutakirti.",
+        "hindi": "हे मुनि ! एक ही दिन महाराज दशरथ के चारों महाबली राज- कुमार, इन चारों का पाणिग्रहण करें । अर्थात्‌ चारों का विवाह एक ही दिन हो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 77,
+      "verse": 13,
+      "sloka": "देवत आयतनानि आशु सर्वाः ताः प्रत्यपूजयन् ।अभिवाद्य अभिवाद्यान् च सर्वा राज सुताः तदा ॥१-७७-१३॥",
+      "transliteration": "devata āyatanāni āśu sarvāḥ tāḥ pratyapūjayan ।abhivādya abhivādyān ca sarvā rāja sutāḥ tadā ॥1-77-13॥",
+      "translations": {
+        "english": "With auspicious aricles in their hands, all the new brides who shone in silken apparels immediately went to temples and worshipped the family deities.",
+        "hindi": "हे अह्मन्‌ ! कल उत्तराफाल्गुनी नक्षत्र है । पणिडतों का मत है कि, इस नचत्र में विवाह होना उत्तम है। क्योंकि इस नक्षत्र का अजापति भग देवता है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 77,
+      "verse": 14,
+      "sloka": "रेमिरे मुदिताः सर्वा भर्तृभिः सहिता रहः ।कृत दाराः कृत अस्त्राः च स धनाः स सुहृत् जनाः ॥१-७७-१४॥",
+      "transliteration": "remire muditāḥ sarvā bhartṛbhiḥ sahitā rahaḥ ।kṛta dārāḥ kṛta astrāḥ ca sa dhanāḥ sa suhṛt janāḥ ॥1-77-14॥",
+      "translations": {
+        "english": "Then all the princesses paid obeisance to those worthy of worship and entered their residence that resembled the palace of Kubera.Thereafter pleased with gifting cows, riches and corn to brahmins and satisfying them they joined their husbands and enjoyed themselves in privacy",
+        "hindi": "यह्‌ कह्‌ राजा जनक खड़े हो गए और हाथ जोड़ कर दोनों आुनिवरों से बोले",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 77,
+      "verse": 15,
+      "sloka": "शुश्रूषमाणाः पितरम् वर्तयन्ति नरर्षभाः ।कस्यचित् अथ कालस्य राजा दशरधः सुतम् ॥१-७७-१५॥",
+      "transliteration": "śuśrūṣamāṇāḥ pitaram vartayanti nararṣabhāḥ ।kasyacit atha kālasya rājā daśaradhaḥ sutam ॥1-77-15॥",
+      "translations": {
+        "english": "Then all the princesses paid obeisance to those worthy of worship and entered their residence that resembled the palace of Kubera.Thereafter pleased with gifting cows, riches and corn to brahmins and satisfying them they joined their husbands and enjoyed themselves in privacy",
+        "hindi": "हमारी तो सब कन्याएँ मङ्गलाचार किए बत. हुए वेदी के समीप टं बैठी है । वे सब अग्निशिखा की तरह देदीप्यमान हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 77,
+      "verse": 16,
+      "sloka": "भरतम् कैकेयी पुत्रम् अब्रवीत् रघुनंदन ।अयम् केकय राजस्य पुत्रो वसति पुत्रक ॥१-७७-१६॥",
+      "transliteration": "bharatam kaikeyī putram abravīt raghunaṁdana ।ayam kekaya rājasya putro vasati putraka ॥1-77-16॥",
+      "translations": {
+        "english": "All the princes who were best of men, great souls, incomparable in prowess on earth, capable of the use of weapons and endowed with wealth moved about with friends, serving their father and following his commands.",
+        "hindi": "प्रभुत्व मे जैसे जनकपुरी महाराज दशरथ की है, वैसे ही अयोध्यापुरी मेरी दै । इसमें कुछ भी सन्देह नहीं है। अतएव आपको जो उचित जान पड़े सो कीजिए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 77,
+      "verse": 17,
+      "sloka": "त्वाम् नेतुम् आगतो वीरो युधाजित् मातुलः तव ।श्रुत्वा दशरथस्य एतत् भरतः कैकेयि सुतः ॥१-७७-१७॥",
+      "transliteration": "tvām netum āgato vīro yudhājit mātulaḥ tava ।śrutvā daśarathasya etat bharataḥ kaikeyi sutaḥ ॥1-77-17॥",
+      "translations": {
+        "english": "After some time king Dasaratha the delight of the Raghu race addressed his son Bharata:",
+        "hindi": "जब जनक ने ये वचन महाराज दशरथ से कहे, तब उन्होंने प्रसन्न होकर जनक से कहा,",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 77,
+      "verse": 18,
+      "sloka": "गमनाय अभिचक्राम शत्रुघ्न सहितः तदा ।आपृच्छ्य पितरम् शूरो रामम् च अक्लिष्ट कर्मणम् ॥१-७७-१८॥",
+      "transliteration": "gamanāya abhicakrāma śatrughna sahitaḥ tadā ।āpṛcchya pitaram śūro rāmam ca akliṣṭa karmaṇam ॥1-77-18॥",
+      "translations": {
+        "english": "\"The heroic Yudhajit son of the king of Kekaya, your maternal uncle, has come here and wishes to take you with him, O Child",
+        "hindi": "हे मिथिलेश्वर ! आप दोनों भाइयों में असंख्य गुण हैं । आपने ऋषियों और राजाओं का अच्छा सत्कार किया हे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 77,
+      "verse": 19,
+      "sloka": "मातॄः च अपि नरश्रेष्ट शत्रुघ्न सहितो ययौ ।युधाजित् प्राप्य भरतम् स शत्रुघ्नम् प्रहर्षितः ॥१-७७-१९॥",
+      "transliteration": "mātṝḥ ca api naraśreṣṭa śatrughna sahito yayau ।yudhājit prāpya bharatam sa śatrughnam praharṣitaḥ ॥1-77-19॥",
+      "translations": {
+        "english": "O Knower of dharma this was his request to me in Mithila in the midst of sages. You should bring him delight (by obliging him).",
+        "hindi": "मेरे ज्येष्ठ पुत्र श्रीरामचन्द्र पराक्रम में इन्द्र के समान शत्रुओं का नाश करने वाले हैं । पुष्य नक्षत्र युक्त चन्द्रमा की तरह धमोत्मा हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 77,
+      "verse": 20,
+      "sloka": "स्व पुरम् प्रविवेशत् वीरः पिता तस्य तुतोष ह ।गते च भरते रामो लक्ष्मणः च महाबलः ॥१-७७-२०॥",
+      "transliteration": "sva puram praviveśat vīraḥ pitā tasya tutoṣa ha ।gate ca bharate rāmo lakṣmaṇaḥ ca mahābalaḥ ॥1-77-20॥",
+      "translations": {
+        "english": "Having heard the words of Dasaratha, Bharata, son of Kaikeyi paid obeisance to his father and Rama, embraced Lakshmana and prepared for the journey with Satrughna.",
+        "hindi": "शफ बालुकारडे, इस प्रकार राजा जनक से बिदा हो महाराज दशरथ दोनों सुनियों को आगे कर, तुरन्त चल दिए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 77,
+      "verse": 21,
+      "sloka": "पितरम् देव संकाशम् पूजयामासतुः तदा ।पितुः आज्ञाम् पुरस्कृत्य पौर कार्याणि सर्वशः ॥१-७७-२१॥",
+      "transliteration": "pitaram deva saṁkāśam pūjayāmāsatuḥ tadā ।pituḥ ājñām puraskṛtya paura kāryāṇi sarvaśaḥ ॥1-77-21॥",
+      "translations": {
+        "english": "Having heard the words of Dasaratha, Bharata, son of Kaikeyi paid obeisance to his father and Rama, embraced Lakshmana and prepared for the journey with Satrughna.",
+        "hindi": "अपने स्थान पर जा कर महाराज दशरथ ने विधि से श्राद्ध किया और अगले दिन प्रातःकाल होते ही गोदानादि किए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 77,
+      "verse": 22,
+      "sloka": "चकार रामः सर्वाणि प्रियाणि च हितानि च ।मातृभ्यो मातृ कार्याणि कृत्वा परम यंत्रितः ॥१-७७-२२॥",
+      "transliteration": "cakāra rāmaḥ sarvāṇi priyāṇi ca hitāni ca ।mātṛbhyo mātṛ kāryāṇi kṛtvā parama yaṁtritaḥ ॥1-77-22॥",
+      "translations": {
+        "english": "Valiant Bharata, the best of men took leave of his father Dasaratha, a tireless brother Rama and mothers and departed with Satrughna.",
+        "hindi": "तप द्वारा इकट्टे किये हुए लोकों# को बाण से नष्ट हुआ देख, परशुराम जी तुरन्त महेन्द्राचल पर चले गये",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 77,
+      "verse": 23,
+      "sloka": "गुरूणाम् गुरु कार्याणि काले काले अन्ववैक्षत ।एवम् दशरथः प्रीतो ब्राह्मणा नैगमाः तथा ॥१-७७-२३॥",
+      "transliteration": "gurūṇām guru kāryāṇi kāle kāle anvavaikṣata ।evam daśarathaḥ prīto brāhmaṇā naigamāḥ tathā ॥1-77-23॥",
+      "translations": {
+        "english": "After the departure of Bharata, mighty Rama and Lakshmana continued to serve their godlike father.",
+        "hindi": "उन गोओं के सींग सोने के पत्रों से मढे हुए थे । वे दुधार थीं । उनके साथ उनके बछडे थे । प्रत्येक गो के साथ काँसे का दूध दुहने का पात्र ( दुधेडी) था | इस प्रकार की चार लाख गौएँ महाराज ने दीं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 77,
+      "verse": 24,
+      "sloka": "रामस्य शील वृत्तेन सर्वम् विषय वासिनः ।तेषाम् अति यशा लोके रामः सत्य पराक्रमः ॥१-७७-२४॥",
+      "transliteration": "rāmasya śīla vṛttena sarvam viṣaya vāsinaḥ ।teṣām ati yaśā loke rāmaḥ satya parākramaḥ ॥1-77-24॥",
+      "translations": {
+        "english": "Righteous Rama discharged his duties towards the citizens for their allround comfort and welfare giving top priority to (the execution of) the command of his father.",
+        "hindi": "तदनन्तर विधिवत्‌ ओर मंत्र पढ़ कर, वेदी पर अग्नि स्थापन किया आर महातेजस्व भगवान्‌ वसिष्ठ ऋषि, उस अग्नि में ` _ आहुति देने लगे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 77,
+      "verse": 25,
+      "sloka": "स्वयम्भूः इव भूतानाम् बभूव गुणवत्तरः ।रामः च सीतया सार्धम् विजहार बहून् ऋतून् ॥१-७७-२५॥",
+      "transliteration": "svayambhūḥ iva bhūtānām babhūva guṇavattaraḥ ।rāmaḥ ca sītayā sārdham vijahāra bahūn ṛtūn ॥1-77-25॥",
+      "translations": {
+        "english": "With unfailing regularity Rama carried out his duties towards his mothers, and his elders, looking into them from time to time.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 77,
+      "verse": 26,
+      "sloka": "मनस्वी तद् गतमानस्य तस्या हृदि समर्पितः ।प्रिया तु सीता रामस्य दाराः पितृ कृता इति ॥१-७७-२६॥",
+      "transliteration": "manasvī tad gatamānasya tasyā hṛdi samarpitaḥ ।priyā tu sītā rāmasya dārāḥ pitṛ kṛtā iti ॥1-77-26॥",
+      "translations": {
+        "english": "Dasaratha was pleased with the good conduct and character of Rama. Brahmanas as also the inhabitants of the city and the people of the country at large were happy with him.",
+        "hindi": "राजा जनक ने श्रीरामचन्द्र जी से कहा-हे राम ! यह मेरी “कन्या सीता, आज से आपकी सहधर्मचारिणी हुई",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 77,
+      "verse": 27,
+      "sloka": "गुणात् रूप गुणात् च अपि प्रीतिः भूयो अभिवर्धते ।तस्याः च भर्ता द्विगुणम् हृदये परिवर्तते ॥१-७७-२७॥",
+      "transliteration": "guṇāt rūpa guṇāt ca api prītiḥ bhūyo abhivardhate ।tasyāḥ ca bhartā dviguṇam hṛdaye parivartate ॥1-77-27॥",
+      "translations": {
+        "english": "In world the glorious and virtuous Rama armed with the power of truthfulness became the protector of the people like Brahma (to living beings).",
+        "hindi": "इसे आप लीजिए और अपने हाथ से इसका हाथ पकड़िए । यह महाभागा पतिव्रता सदा छाया की तरह आपकी अनुगामिनी अनी रहेगी । आप दोनों का मङ्गल हो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 77,
+      "verse": 28,
+      "sloka": "अन्तर् गतम् अपि व्यक्तम् आख्याति हृदयम् हृदा ।तस्य भूयो विशेषेण मैथिली जनक आत्मजा ।देवताभिः समा रूपे सीता श्रीः इव रूपिणी ॥१-७७-२८॥",
+      "transliteration": "antar gatam api vyaktam ākhyāti hṛdayam hṛdā ।tasya bhūyo viśeṣeṇa maithilī janaka ātmajā ।devatābhiḥ samā rūpe sītā śrīḥ iva rūpiṇī ॥1-77-28॥",
+      "translations": {
+        "english": "With his heart fixed on Sita to whom he was always devoted, Rama, the wise went about enjoying with her (the beauty of) all the seasons.",
+        "hindi": "यह कह कर राजा जनक ने मंत्रों द्वारा पवित्र किया हुआ जल दोनों पर छिड़का । उस समय सब देवता और ऋषिगण “साधु- साधु” कहने लगे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 77,
+      "verse": 29,
+      "sloka": "तया स राज ऋषि सुतो अभिकामयासमेयिवान् उत्तम राज कन्यया ।अतीव रामः शुशुभे मुदा अन्वितोविभुः श्रिया विष्णुः इव अमर ईश्वरः ॥१-७७-२९॥",
+      "transliteration": "tayā sa rāja ṛṣi suto abhikāmayāsameyivān uttama rāja kanyayā ।atīva rāmaḥ śuśubhe mudā anvitovibhuḥ śriyā viṣṇuḥ iva amara īśvaraḥ ॥1-77-29॥",
+      "translations": {
+        "english": "Chosen by his father Sita became Rama's beloved wife with her virtue and beauty his affection for her grew further.",
+        "hindi": "और संग्राम से रथ या हाथी पर वैठ कर जब वे लोटते हैं ` तब पुरवासियों,से स्वजनों की भाँति उनके पुत्रों का, अग्नि ( अञ्न १ अभिविनीतः-सवतः सुशिक्षितः । ( गो० . ` ॐ पाठान्तरे--धर्माथनिषुण: । ३ ह्वतीय: सगः २% होत्रादि ) का स्त्रियों का तथा दासों और रिष्यों का क्रम से उसी प्रकार कुशल पूछते हैं । जेसे पिता अपने औरस पुत्रां से कुशल पूछता हो ।।३७-३८॥ शुश्र पन्ते च वः शिष्याः कञ्चित्कमसु दं शिताः^ । इति नः पुरुपव्याघ्रा सदा रामोऽभिभाषत",
+        "telugu": ""
+      }
+    }
+  ]
+}

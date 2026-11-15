@@ -1,0 +1,513 @@
+{
+  "kanda": 1,
+  "kanda_name": "Bala Kanda",
+  "kanda_name_sanskrit": "बालकाण्डम्",
+  "sarga": 4,
+  "verses_count": 36,
+  "verses": [
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 4,
+      "verse": 1,
+      "sloka": "प्राप्त राज्यस्य रामस्य वाल्मीकिर् भगवान् ऋषिः ।चकार चरितम् कृत्स्नम् विचित्र पदम् अर्थवत् ॥१-४-१॥",
+      "transliteration": "prāpta rājyasya rāmasya vālmīkir bhagavān ṛṣiḥ ।cakāra caritam kṛtsnam vicitra padam arthavat ॥1-4-1॥",
+      "translations": {
+        "english": "The divine sage Valmiki, composed in wonderful lines the entire lifestory of Rama who regained his kingdom.",
+        "hindi": "त्रालक्राएड का तीसरा सर्ग पूरा हुआ । >> तनमन त SSS ही न 0) १ अरे: पुर इति शौर्यातिशयोक्तिः उचरत्रचान्वयः ( गो» ) चतुर्थ: सग: ®] आप्राज्यस्य रामस्य वाल्माकभेगवान पिः । चकार चारत कृत्स्न वाचत्रपदमात्मवान्‌",
+        "telugu": "బ్రహ్మదేవుని అనుగ్రహము వలన దివ్యజ్ఞానమును పొందిన వాడును, మహాకావ్య నిర్మాణచతురుడును ఐన వాల్మీకి మహర్షి కోసలాధీశుడై యున్న శ్రీరామునిచరితమును మనోజ్ఞములైన శబ్దార్థాలంకారములతో లోకకల్యాణమునకై అద్భుతముగా రచించెను."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 4,
+      "verse": 2,
+      "sloka": "चतुर्विंशत् सहस्राणि श्लोकानाम् उक्तवान् ऋषिः ।तथा सर्ग शतान् पंच षट् काण्डानि तथा उत्तरम् ॥१-४-२॥",
+      "transliteration": "caturviṁśat sahasrāṇi ślokānām uktavān ṛṣiḥ ।tathā sarga śatān paṁca ṣaṭ kāṇḍāni tathā uttaram ॥1-4-2॥",
+      "translations": {
+        "english": "Sage Valmiki composed the Ramayanam in twentyfour thousand verses in six kandas and also Uttarakanda (consisting of five hundred cantos).",
+        "hindi": "टिप्पणी--इस श्लोक से स्पष्ट है कि, यह इतिहास श्रीरामचन्द्र जी का समकालीन इतिहा^ है ।] चतुविशत्सहस्राणि श्लोकानामुक्तवानृषिः । तथा सगशतान्पञ्च पट काण्डान तथोत्तरम्‌",
+        "telugu": "వాల్మీకిమహర్షి రామాయణమును ఆఱుకాండములుగా ఐదువందల సర్గములలో ఇరువదినాలుగువేల శ్లోకములతో రచించెను. పిదప ఉత్తరకాండమునకు రూపుదిద్దెను."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 4,
+      "verse": 3,
+      "sloka": "कृत्वा तु तन् महाप्राज्ञः स भविष्यम् सह उत्तरम् ।चिन्तयामास कोन्वेतत् प्रयुंजीयाद् इति प्रभुः ॥१-४-३॥",
+      "transliteration": "kṛtvā tu tan mahāprājñaḥ sa bhaviṣyam saha uttaram ।cintayāmāsa konvetat prayuṁjīyād iti prabhuḥ ॥1-4-3॥",
+      "translations": {
+        "english": "The great intellectual and competent Valmiki having composed the Ramayanam including the events of Uttarakanda as well as future events, reflected as to who could translate into performance the epic.",
+        "hindi": "",
+        "telugu": "మిక్కిలి ప్రజ్ఞాశలియు కడుసమర్థుడు ఐన వాల్మీకి శ్రీరామ పట్టాభిషేకానంతరగాథను, అశ్వమేధయాగమునకు పిమ్మట జరుగనున్న వృత్తాంతమును గూడ (ఉత్తరకండమునుగూడ) రచించెను. ఇక \"ఈ రామాయణమును కంఠస్థముచేసి గానము చేయగలవారు ఎవరు? అని అతడు ఆలోచించసాగెను."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 4,
+      "verse": 4,
+      "sloka": "तस्य चिन्तयामानस्य महर्षेर् भावितात्मनः ।अगृह्णीताम् ततः पादौ मुनि वेषौ कुशी लवौ ॥१-४-४॥",
+      "transliteration": "tasya cintayāmānasya maharṣer bhāvitātmanaḥ ।agṛhṇītām tataḥ pādau muni veṣau kuśī lavau ॥1-4-4॥",
+      "translations": {
+        "english": "While the highly honoured sage Valmiki was thus pondering over, Kusa and Lava came to him in the garb of ascetics and bowed at his feet.",
+        "hindi": "",
+        "telugu": "ఇట్లు చింతించుచు ఆ మహర్షి అట్టి (కావ్య శ్లోకములను కంఠస్థమొనర్చి గానముచేయగల) శిష్యప్రాప్తికై భగవంతుని ధ్యానించుచుండగా మునివేషములలోనున్న కుశలవులు అచటికి వచ్చి, ఆయనపాదములను ఆశ్రయించిరి. గురుశుశ్రూష చేయుటలో నిరతులును, అధ్యయనము పూర్తియగువఱకును స్థిరమైన నిష్ఠగలిగిన రాజకుమారులును మంచి విద్యార్థులుగా ప్రసిద్ధికెక్కినవారును, సమానస్థాయిలో గానముచేయగల సోదరులును (కంఠములు కలిసినవారును) చక్కని గాత్రము గలవారును, తనఆశ్రమవాసులును ఐన ఆ లవకుశులను మహర్షి చూచెను. \"వీరు రామాయణమును గానము చేయుటకు సమర్థులు\" అని తలంచెను."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 4,
+      "verse": 5,
+      "sloka": "कुशी लवौ तु धर्मज्ञौ राज पुत्रौ यशश्विनौ ।भ्रातरौ स्वर संपन्नौ ददर्श आश्रम वासिनौ ॥१-४-५॥",
+      "transliteration": "kuśī lavau tu dharmajñau rāja putrau yaśaśvinau ।bhrātarau svara saṁpannau dadarśa āśrama vāsinau ॥1-4-5॥",
+      "translations": {
+        "english": "The sage saw the two illustrious princely brothers, wellversed in dharma and endowed with a sweet voice living in the hermitage.",
+        "hindi": "वे यह सोच ही रहे थे कि, इतने में सुनिवेषधारी कुश और लव ने आकर महर्षि वाल्मीकि जी के दोनों चरण छये",
+        "telugu": "ఇట్లు చింతించుచు ఆ మహర్షి అట్టి (కావ్య శ్లోకములను కంఠస్థమొనర్చి గానముచేయగల) శిష్యప్రాప్తికై భగవంతుని ధ్యానించుచుండగా మునివేషములలోనున్న కుశలవులు అచటికి వచ్చి, ఆయనపాదములను ఆశ్రయించిరి. గురుశుశ్రూష చేయుటలో నిరతులును, అధ్యయనము పూర్తియగువఱకును స్థిరమైన నిష్ఠగలిగిన రాజకుమారులును మంచి విద్యార్థులుగా ప్రసిద్ధికెక్కినవారును, సమానస్థాయిలో గానముచేయగల సోదరులును (కంఠములు కలిసినవారును) చక్కని గాత్రము గలవారును, తనఆశ్రమవాసులును ఐన ఆ లవకుశులను మహర్షి చూచెను. \"వీరు రామాయణమును గానము చేయుటకు సమర్థులు\" అని తలంచెను."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 4,
+      "verse": 6,
+      "sloka": "स तु मेधाविनौ दृष्ट्वा वेदेषु परिनिष्टितौ ।वेदोपबृंहणार्थाय तौ अग्राहयत प्रभुः ॥१-४-६॥",
+      "transliteration": "sa tu medhāvinau dṛṣṭvā vedeṣu pariniṣṭitau ।vedopabṛṁhaṇārthāya tau agrāhayata prabhuḥ ॥1-4-6॥",
+      "translations": {
+        "english": "Valmiki, the master, having found both Kusa and Lava endowed with intellect and accomplished in the Vedas initiated them into the Ramayana composed by him for the purpose of nourishing the Vedas.",
+        "hindi": "बुद्धिमान्‌ ओर वेदों में निष्ठा रखने वाले जान कर, वेद के अर्थ को श्लोकों में प्रकट कर, महषि ने उन दोनों को वह काव्य पढ़ाया",
+        "telugu": "వేదతుల్యమైన (వేదప్రతిరూపమైన) రామాయణమును గానము చేయుటద్వారా వేదార్థములను వ్యక్తపఱచుటకై (వేదధర్మములకు ప్రసిద్ధిని గూర్చుటకై)సర్వసమర్థుడైన వాల్మీకి విషయములను గ్రహించుటలోను గట్టిశక్తిగలవారును, వేదవేదాంగములను అధ్యయనము చేసినవారును ఐన లవకుశులను స్వీకరించెను. ఈ రామాయణమహాకావ్యమున ముఖ్యముగా శ్రీరామవృత్తాంతము, సీతాచరితము, రావణవధ వర్నింపబడినందున దీనిని \"రామాయణము\"అనియు, \"సీతాచరిత్రము\" అనియు \"పౌలస్త్యవధము\" అనియు పేర్కొనవచ్చునని అపారజ్ఞానసంపన్నుడైన వాల్మీకి కుశలవులకు ఉపదేశించెను."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 4,
+      "verse": 7,
+      "sloka": "काव्यम् रामायणम् कृत्स्नम् सीतायाः चरितम् महत् ।पौलस्त्य वधम् इति एवम् चकार चरित व्रतः ॥१-४-७॥",
+      "transliteration": "kāvyam rāmāyaṇam kṛtsnam sītāyāḥ caritam mahat ।paulastya vadham iti evam cakāra carita vrataḥ ॥1-4-7॥",
+      "translations": {
+        "english": "Valmiki who practised religious austerities composed this entire epic named the Ramayana which constitutes the great history of Sita and the killing of Paulastya (Ravana).",
+        "hindi": "",
+        "telugu": "వేదతుల్యమైన (వేదప్రతిరూపమైన) రామాయణమును గానము చేయుటద్వారా వేదార్థములను వ్యక్తపఱచుటకై (వేదధర్మములకు ప్రసిద్ధిని గూర్చుటకై)సర్వసమర్థుడైన వాల్మీకి విషయములను గ్రహించుటలోను గట్టిశక్తిగలవారును, వేదవేదాంగములను అధ్యయనము చేసినవారును ఐన లవకుశులను స్వీకరించెను. ఈ రామాయణమహాకావ్యమున ముఖ్యముగా శ్రీరామవృత్తాంతము, సీతాచరితము, రావణవధ వర్నింపబడినందున దీనిని \"రామాయణము\"అనియు, \"సీతాచరిత్రము\" అనియు \"పౌలస్త్యవధము\" అనియు పేర్కొనవచ్చునని అపారజ్ఞానసంపన్నుడైన వాల్మీకి కుశలవులకు ఉపదేశించెను."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 4,
+      "verse": 8,
+      "sloka": "पाठ्ये गेये च मथुरम् प्रमाणैः त्रिभिर् अन्वितम् ।जातिभिः सप्तभिः युक्तम् तन्त्री लय समन्वितम् ॥१-४-८॥",
+      "transliteration": "pāṭhye geye ca mathuram pramāṇaiḥ tribhir anvitam ।jātibhiḥ saptabhiḥ yuktam tantrī laya samanvitam ॥1-4-8॥",
+      "translations": {
+        "english": "The twin brothers Kusa and Lava, endowed with a melodious voice, possessed auspicious form and beauty. They were gandharvas in human form. They looked like the two reflected images of Rama. The contents of this epic, apart from being memorable are sweet and suitable for verbal recitation as well as singing. This charming and attractive kavya is fit to be adapted to the three measures of time and to stringed instruments. It possesses seven notes together with various moodsamorous, compassionate, humorous, heroic, fearful and also violent.",
+        "hindi": "टिष्पणी--रावण का जन्म पुलस्त्य ऋषि के वंश में हुआ था, अत: रावण को पोलस्त्य भी कहते हैं ।-पोलस्त्य-वध श्रर्थात्‌ रावण का वथ, जिसमें वर्णन किया गया, वह पोलस्त्य-वध काव्य कहलाया । ] पाठये गेथे च मधर प्रमाझेस्त्रिभिरन्वितम्‌ । जातिभिः सप्तभिवेद्ध तन्त्रीलयसम न्वितम्‌",
+        "telugu": "ఈ రామాయణము చక్కగా పఠించుటకును, మధురముగా గానము చేయుటకును అనువైనది. తిస్ర, చతురశ్ర, మిశ్ర ప్రమాణాలతో లేదా ద్రుత, మధ్య, విలంబిత ప్రమాణములతో అలరారునది. స,రి,గ,మ,ప,ద,ని అను సప్తస్వరములతో కూర్చబడినది. వీణాది తంత్రీవాద్యములపైనను, మృదంగాదిలయవాద్యములతోడను పలికించుటకు అనువైనది, శృంగార, వీర, కరుణ, హాస్య, రౌద్ర, భయానకాది నవరసములతో పరిపుష్టమైనది. అట్టి రామాయణకావ్యమును ఆ లవకుశులు గానము చేసిరి."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 4,
+      "verse": 9,
+      "sloka": "रसैः शृंगार करुण हास्य रौद्र भयानकैः ।विरादिभी रसैर् युक्तम् काव्यम् एतत् अगायताम् ॥१-४-९॥",
+      "transliteration": "rasaiḥ śṛṁgāra karuṇa hāsya raudra bhayānakaiḥ ।virādibhī rasair yuktam kāvyam etat agāyatām ॥1-4-9॥",
+      "translations": {
+        "english": "The twin brothers Kusa and Lava, endowed with a melodious voice, possessed auspicious form and beauty. They were gandharvas in human form. They looked like the two reflected images of Rama. The contents of this epic, apart from being memorable are sweet and suitable for verbal recitation as well as singing. This charming and attractive kavya is fit to be adapted to the three measures of time and to stringed instruments. It possesses seven notes together with various moodsamorous, compassionate, humorous, heroic, fearful and also violent.",
+        "hindi": "",
+        "telugu": "ఈ రామాయణము చక్కగా పఠించుటకును, మధురముగా గానము చేయుటకును అనువైనది. తిస్ర, చతురశ్ర, మిశ్ర ప్రమాణాలతో లేదా ద్రుత, మధ్య, విలంబిత ప్రమాణములతో అలరారునది. స,రి,గ,మ,ప,ద,ని అను సప్తస్వరములతో కూర్చబడినది. వీణాది తంత్రీవాద్యములపైనను, మృదంగాదిలయవాద్యములతోడను పలికించుటకు అనువైనది, శృంగార, వీర, కరుణ, హాస్య, రౌద్ర, భయానకాది నవరసములతో పరిపుష్టమైనది. అట్టి రామాయణకావ్యమును ఆ లవకుశులు గానము చేసిరి."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 4,
+      "verse": 10,
+      "sloka": "तौ तु गान्धर्व तत्त्वज्ञौ स्थान मूर्च्छन कोविदौ ।भ्रातरौ स्वर संपन्नौ गन्धर्वाः इव रूपिणौ ॥१-४-१०॥",
+      "transliteration": "tau tu gāndharva tattvajñau sthāna mūrcchana kovidau ।bhrātarau svara saṁpannau gandharvāḥ iva rūpiṇau ॥1-4-10॥",
+      "translations": {
+        "english": "The twin brothers Kusa and Lava, endowed with a melodious voice, possessed auspicious form and beauty. They were gandharvas in human form. They looked like the two reflected images of Rama. The contents of this epic, apart from being memorable are sweet and suitable for verbal recitation as well as singing. This charming and attractive kavya is fit to be adapted to the three measures of time and to stringed instruments. It possesses seven notes together with various moodsamorous, compassionate, humorous, heroic, fearful and also violent.",
+        "hindi": "नोट--किंसी भी उच्चकोटि के काव्य ग्रन्थ में इन नवरतों का होना आवश्यक माना जाता है |] तो तु गान्वरतच्तजञौ मूळंनात्यानकोबरिदो । श्रातरा स्मरसंपन्नी गन्धर्वाविव रूपिणों",
+        "telugu": "కవలలైన ఆ లవకుశులు సంగీతశాస్త్రమున ఆరితేఱినవారు, వీణాదివాదనమున నేర్పరులు, మంద్ర మధ్యమ తార స్థాయులలో గానము చేయుటయందు నిపుణులు, కమ్మని కంఠము గలవారు, మనుష్యవేషములలోనున్న గంధర్వులవలె ఒప్పుచున్నవారు, అభినయించుచు పాడుటలో కుశులురు, మృదుమధురముగా భాషించుటలో చతురులు, రాముని రూపమునకు అచ్చుగ్రుద్దినట్లుగా (రాముని ప్రతిబింబములుగా) ఉన్నవారు. ఇట్టి లవకుశులు రామాయణమును గానము చేసిరి."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 4,
+      "verse": 11,
+      "sloka": "रूप लक्षण संपन्नौ मधुर स्वर भाषिणौ ।बिंबात् इव उथीतौ बिंबौ राम देहात् तथा अपरौ ॥१-४-११॥",
+      "transliteration": "rūpa lakṣaṇa saṁpannau madhura svara bhāṣiṇau ।biṁbāt iva uthītau biṁbau rāma dehāt tathā aparau ॥1-4-11॥",
+      "translations": {
+        "english": "The twin brothers Kusa and Lava, endowed with a melodious voice, possessed auspicious form and beauty. They were gandharvas in human form. They looked like the two reflected images of Rama. The contents of this epic, apart from being memorable are sweet and suitable for verbal recitation as well as singing. This charming and attractive kavya is fit to be adapted to the three measures of time and to stringed instruments. It possesses seven notes together with various moodsamorous, compassionate, humorous, heroic, fearful and also violent.",
+        "hindi": "सुस्वरूप और सुलक्षणा से सम्पन्न, मीठे कंठ वाले दोनों राज- 'कुमार ऐसे जान पड़ते थे, मानां श्रीरामचन्द्र की देह के वे दो प्रतिबिम्ब हों",
+        "telugu": "కవలలైన ఆ లవకుశులు సంగీతశాస్త్రమున ఆరితేఱినవారు, వీణాదివాదనమున నేర్పరులు, మంద్ర మధ్యమ తార స్థాయులలో గానము చేయుటయందు నిపుణులు, కమ్మని కంఠము గలవారు, మనుష్యవేషములలోనున్న గంధర్వులవలె ఒప్పుచున్నవారు, అభినయించుచు పాడుటలో కుశులురు, మృదుమధురముగా భాషించుటలో చతురులు, రాముని రూపమునకు అచ్చుగ్రుద్దినట్లుగా (రాముని ప్రతిబింబములుగా) ఉన్నవారు. ఇట్టి లవకుశులు రామాయణమును గానము చేసిరి."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 4,
+      "verse": 12,
+      "sloka": "तौ राज पुत्रौ कार्त्स्न्येन धर्म्यम् आख्यानम् उत्तमम् ।वाचो विधेयम् तत् सर्वम् कृत्वा काव्यम् अनिन्दितौ ॥१-४-१२॥",
+      "transliteration": "tau rāja putrau kārtsnyena dharmyam ākhyānam uttamam ।vāco vidheyam tat sarvam kṛtvā kāvyam aninditau ॥1-4-12॥",
+      "translations": {
+        "english": "These two princes blameless, disciplined and wellversed, committed to memory the whole epic and chanted as instructed in the assembly of rishis, brahmins and saints.",
+        "hindi": "अशसनीग्र उन दोनों राजकुमारों ने अत्युत्तम धर्म को वतलाने वाले रामायण काव्य को वार-बार पढ़ कर, कण्ठाग्न कर डाला",
+        "telugu": "ఏమాత్రము లోపము లేకుండా గురూపదేశము ప్రకారము గానముచేయగలవారును, మునిబాలురవేషములలోనున్నవారును ఐన రాజకుమారులు సకలధర్మములను తెలుపునట్టి ఉత్తమమైన ఆ రామాయణకావ్యమును పూర్తిగా కంఠస్థమొనర్చిరి. వారు అర్థవంతముగా చక్కగా పఠింపగలవారు, ఏ విషయమునందును మఱుపులేక సావధానచిత్తులైయుండువారు, మిక్కిలి ప్రజ్ఞాశాలురు, ఉత్తమ గుణములకు కుదురైనవారు, సమస్తశబ్దలక్షణములను ఎఱిగినవారు. మహర్షులు, బ్రాహ్మణోత్తములు, సాధుపురుషులు చేరియున్నసభలో ఆ సోదరులు రామాయణకావ్యగానము చేసిరి."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 4,
+      "verse": 13,
+      "sloka": "ऋषीणाम् च द्विजातीनाम् साधूनाम् च समागमे ।यथा उपदेशम् तत्त्वज्ञौ जगतुः तौ समाहितौ ॥१-४-१३॥",
+      "transliteration": "ṛṣīṇām ca dvijātīnām sādhūnām ca samāgame ।yathā upadeśam tattvajñau jagatuḥ tau samāhitau ॥1-4-13॥",
+      "translations": {
+        "english": "These two princes blameless, disciplined and wellversed, committed to memory the whole epic and chanted as instructed in the assembly of rishis, brahmins and saints.",
+        "hindi": "रः rn SS १ वाचोवि घेयं श्राति हुल्येन वाग्वशवर्तिझत्वा ( गो» ) थः सग; वे सह ब्राह्मणों और साधुओं के सामने रामचरित को, जैसा कि उन्हें बतलाया गया था, बड़ी सावधानी से गाया करते थे",
+        "telugu": "ఏమాత్రము లోపము లేకుండా గురూపదేశము ప్రకారము గానముచేయగలవారును, మునిబాలురవేషములలోనున్నవారును ఐన రాజకుమారులు సకలధర్మములను తెలుపునట్టి ఉత్తమమైన ఆ రామాయణకావ్యమును పూర్తిగా కంఠస్థమొనర్చిరి. వారు అర్థవంతముగా చక్కగా పఠింపగలవారు, ఏ విషయమునందును మఱుపులేక సావధానచిత్తులైయుండువారు, మిక్కిలి ప్రజ్ఞాశాలురు, ఉత్తమ గుణములకు కుదురైనవారు, సమస్తశబ్దలక్షణములను ఎఱిగినవారు. మహర్షులు, బ్రాహ్మణోత్తములు, సాధుపురుషులు చేరియున్నసభలో ఆ సోదరులు రామాయణకావ్యగానము చేసిరి."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 4,
+      "verse": 14,
+      "sloka": "महात्मनौ महाभागौ सर्व लक्ष्ण लक्षितौ ।तौ कदाचित् समेतानाम् ऋषीणाम् भवित आत्मनाम् ॥१-४-१४॥",
+      "transliteration": "mahātmanau mahābhāgau sarva lakṣṇa lakṣitau ।tau kadācit sametānām ṛṣīṇām bhavita ātmanām ॥1-4-14॥",
+      "translations": {
+        "english": "On a particular occasion both the great princes who were dignified and endowed with good features, chanted this great epic in the presence of honoured ascetics who assembled at one place.",
+        "hindi": "एक बार अर्थात्‌ श्री रामचन्द्र जी के अश्वमेध यज्ञ में, महात्मा महाभाग तथा सवलक्तणयुक्त दोनों भाइयों ने प्रौढ-विचार-सम्पन्न महात्मा ऋषियों की सभा में बैठ कर यह काव्य गाया, जिसको सुन कर मुनियों के शरीर रोमाञ्चित हो गए और उनके नेत्रों में आँसू भर आए",
+        "telugu": "ఒకానొకప్పుడు వాల్మీకిమహర్షిఆశ్రమమునకు స్థితప్రజ్ఞులైన ఋషులెల్లరును విచ్చేసిరి. వారు అందఱును అచట సుఖాసీనులైయుండిరి.\nఅప్పుడు మిగుల బుద్ధిశాలురు, రూపసౌభాగ్యముగలవారు, సర్వ శుభలక్షణ సంపన్నులు ఐన ఆ కుశలవులు వారి సమక్షమున ఈ కావ్యమును గానముచేసిరి."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 4,
+      "verse": 15,
+      "sloka": "मध्ये सभम् समीपस्थौ इदम् काव्यम् अगायताम् ।तत् श्रुत्वा मुनयः सर्वे बाष्प पर्याकुलेक्षणाः ॥१-४-१५॥",
+      "transliteration": "madhye sabham samīpasthau idam kāvyam agāyatām ।tat śrutvā munayaḥ sarve bāṣpa paryākulekṣaṇāḥ ॥1-4-15॥",
+      "translations": {
+        "english": "﻿ All the sages having heard the chanting (of that glorious kavya), experienced great astonishment. Overcome with tears of joy in their eyes, they praised them, exclaiming \"Excellent, Excellent\".",
+        "hindi": "",
+        "telugu": "ఆ సభలోని మునులు అందఱును ఆ కావ్యగానమును విని, పరమాశ్చర్యభరితులైరి, వారు ఆనందాశ్రువులతో \"బాగుబాగు\" అనుచు ఆ లవకుశులపై ప్రశంసలజల్లు కురిపించిరి. ఏ మాత్రము మాత్సర్యము లేనివారు, గానానందమున పొంగిపోయినవారు, అయిన ఆ మునులు అందఱును, గానమధురిమలచే ప్రశంసార్హులైన కుశలవులను \"ఆహా! ఈ గాన మాధుర్యము అత్యద్భుతము,\" అని మెచ్చుకొనుచు \"శ్లోకముల రచనావైశిష్ట్యము ఇంకను ప్రశంసనీయము, ఇది మున్నెన్నడొ జరిగిన వృత్తాంతమేయైనను నేడు కన్నులకు గట్టినట్లున్నది\" - అని కొనియాడసాగిరి."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 4,
+      "verse": 16,
+      "sloka": "साधु साध्विति ता ऊचुः परम् विस्मयम् आगताः ।ते प्रीत मनसः सर्वे मुनयो धर्म वत्सलाः ॥१-४-१६॥",
+      "transliteration": "sādhu sādhviti tā ūcuḥ param vismayam āgatāḥ ।te prīta manasaḥ sarve munayo dharma vatsalāḥ ॥1-4-16॥",
+      "translations": {
+        "english": "All the sages steeped in dharma, pleased with them, praised the admirable Kusa and Lava as they sang.",
+        "hindi": "आश्चरे-चकित हो और “साधु साधु” कह कर, उन दोनों राजकुमारों की प्रशांसा करते हुए वे धर्मवत्सल ऋषि, अत्या- नन्दित हुए",
+        "telugu": "ఆ సభలోని మునులు అందఱును ఆ కావ్యగానమును విని, పరమాశ్చర్యభరితులైరి, వారు ఆనందాశ్రువులతో \"బాగుబాగు\" అనుచు ఆ లవకుశులపై ప్రశంసలజల్లు కురిపించిరి. ఏ మాత్రము మాత్సర్యము లేనివారు, గానానందమున పొంగిపోయినవారు, అయిన ఆ మునులు అందఱును, గానమధురిమలచే ప్రశంసార్హులైన కుశలవులను \"ఆహా! ఈ గాన మాధుర్యము అత్యద్భుతము,\" అని మెచ్చుకొనుచు \"శ్లోకముల రచనావైశిష్ట్యము ఇంకను ప్రశంసనీయము, ఇది మున్నెన్నడొ జరిగిన వృత్తాంతమేయైనను నేడు కన్నులకు గట్టినట్లున్నది\" - అని కొనియాడసాగిరి."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 4,
+      "verse": 17,
+      "sloka": "प्रशशंसुः प्रशस्तव्यौ गायमानौ कुशी लवौ ।अहो गीतस्य माधुर्यम् श्लोकानाम् च विशेषतः ॥१-४-१७॥",
+      "transliteration": "praśaśaṁsuḥ praśastavyau gāyamānau kuśī lavau ।aho gītasya mādhuryam ślokānām ca viśeṣataḥ ॥1-4-17॥",
+      "translations": {
+        "english": "How melodious is this chanting, especially the verses Though it (the events) had happened long ago, it is described as if it is happening at the present moment, exclaimed the audience.",
+        "hindi": "उन गाते हुए एवं प्रशंसा करने योग्य राजकुमारों की प्रशंसा कर, वे बोले कि, गान बड़ा ही मधुर है और श्लोकों का माधुय तो बहुत अधिक चढ़ बढ़ कर है",
+        "telugu": "ఆ సభలోని మునులు అందఱును ఆ కావ్యగానమును విని, పరమాశ్చర్యభరితులైరి, వారు ఆనందాశ్రువులతో \"బాగుబాగు\" అనుచు ఆ లవకుశులపై ప్రశంసలజల్లు కురిపించిరి. ఏ మాత్రము మాత్సర్యము లేనివారు, గానానందమున పొంగిపోయినవారు, అయిన ఆ మునులు అందఱును, గానమధురిమలచే ప్రశంసార్హులైన కుశలవులను \"ఆహా! ఈ గాన మాధుర్యము అత్యద్భుతము,\" అని మెచ్చుకొనుచు \"శ్లోకముల రచనావైశిష్ట్యము ఇంకను ప్రశంసనీయము, ఇది మున్నెన్నడొ జరిగిన వృత్తాంతమేయైనను నేడు కన్నులకు గట్టినట్లున్నది\" - అని కొనియాడసాగిరి."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 4,
+      "verse": 18,
+      "sloka": "चिरनिर्वृत्तम् अपि एतत् प्रत्यक्षम् इव दर्शितम् ।प्रविश्य ता उभौ सुष्ठु तथा भावम् अगायताम् ॥१-४-१८॥",
+      "transliteration": "ciranirvṛttam api etat pratyakṣam iva darśitam ।praviśya tā ubhau suṣṭhu tathā bhāvam agāyatām ॥1-4-18॥",
+      "translations": {
+        "english": "﻿ They both chanted in perfect unison in theme and passion, with their charming melodious voice endowed with the rich notes of music (sadja and other).",
+        "hindi": "",
+        "telugu": "ఆ లవకుశులు ఇద్దఱును శ్లోకములలోని భావములు, రసములు చక్కగా వ్యక్తమగునట్లుగా లయబద్ధముగా సప్తస్వర సంపదతో రాగయుక్తముగా మధురముగా గానముచేసిరి. తపోధనులు, మహాత్ములు ఐన ఆ మునుల ఆనందపారవశ్యములనుగాంచి, ఆ లవకుశులు భావరాగతాళయుక్తముగా ఇంకను మధురముగా గానము చాయసాగిరి."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 4,
+      "verse": 19,
+      "sloka": "सहितौ मधुरम् रक्तम् संपन्नम् स्वर संपदा ।एवम् प्रशस्यमानौ तौ तपः श्लाघ्यैः महर्षिभिः ॥१-४-१९॥",
+      "transliteration": "sahitau madhuram raktam saṁpannam svara saṁpadā ।evam praśasyamānau tau tapaḥ ślāghyaiḥ maharṣibhiḥ ॥1-4-19॥",
+      "translations": {
+        "english": "Praised in this manner by the great sages commendable for their austerities, they chanted even with greater charm and sweetness.",
+        "hindi": "",
+        "telugu": "ఆ లవకుశులు ఇద్దఱును శ్లోకములలోని భావములు, రసములు చక్కగా వ్యక్తమగునట్లుగా లయబద్ధముగా సప్తస్వర సంపదతో రాగయుక్తముగా మధురముగా గానముచేసిరి. తపోధనులు, మహాత్ములు ఐన ఆ మునుల ఆనందపారవశ్యములనుగాంచి, ఆ లవకుశులు భావరాగతాళయుక్తముగా ఇంకను మధురముగా గానము చాయసాగిరి."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 4,
+      "verse": 20,
+      "sloka": "संरक्ततरम् अत्यर्थम् मधुरम् तौ अगायताम् ।प्रीतः कश्चिन् मुनिः ताभ्याम् संस्थितः कलशम् ददौ ॥१-४-२०॥",
+      "transliteration": "saṁraktataram atyartham madhuram tau agāyatām ।prītaḥ kaścin muniḥ tābhyām saṁsthitaḥ kalaśam dadau ॥1-4-20॥",
+      "translations": {
+        "english": "Pleased with the singing, one of the sages seated in the assembly presented them a pitcher. Another sage of renown got so delighted that he gave them garments.",
+        "hindi": "राग सहित मधुर कण्ठ से गाने वाले उन राजकुमारों के मधुर गान पर प्रसन्न हो, सुनने वालों में से किसी ने उठा कर उनको कलसा, किसी ने वल्कल, किसी ने सृगच्मे, किसी ने मौंजी- मेखला, किसी ने कमण्डलु, किसी ने यज्ञोपवीत, किसी ने गूलर का आसन, किसी ने जपमाला, किसी ने कौपीन, किसी ने कुठार, किसी ने काषाय वस्न, किसी ने चीर, किसी ने जटा बाँधने का डोरा, किसी ने कोई यज्ञपात्र, और. किसी ने माला दी । किसी ने प्रसन्न हो कर स्वस्ति और आयुष्मान्‌ कह कर आशीर्वाद ही दिया । इस आश्च्यप्रद काव्य के प्रणेता की प्रशंसा कर वे कहने लगे,",
+        "telugu": "వారిగానమునకు ఆనందించిన అచటి మునులలో ఒకరు వారికి కలశమును బహూకరించెను. వాసికెక్కిన మఱియొక మహర్షి ప్రసన్నుడై వల్కలమును, ఇంకొకరు జింకచర్మమును, వేఱొకరు మౌంజిని (దర్భ మొలత్రాడును) మఱియొకరు కమండలమును, యజ్ఞోపవీతమును వేఱొకరును బహుమతిగా ఇచ్చిరి. ఒకరు మేడిపీఠమును, దానిపై అందమైన మెత్తని ఆసనమును, మఱియొకరు జపమాలను, వేఱొకరు కౌపీనమును బహుకరించిరి. అట్లే ప్రసన్నమైన మనస్సుతో ఒకరు గొడ్డలిని, వేఱొకరు కాషాయవస్త్రములను, ఉత్తరీయమును, మఱియొకరు జటాబంధనమును, ఇంకొకరు కాష్ఠరజ్జువును, యజ్ఞపాత్రను, వేఱొకరు సమిధలను కానుకలుగా సమర్పించిరి. పిమ్మట సభలోని మహర్షులు అందఱును స్వస్తివాచనములతో వారిని ఆశీర్వదించిరి, వరములను ఇచ్చిరి."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 4,
+      "verse": 21,
+      "sloka": "प्रसन्नो वल्कलम् कश्चिद् ददौ ताभ्याम् महायशाः ।अन्यः कृष्णाजिनम् अदद् यज्ञ सूत्रम् तथा अपरः ॥१-४-२१॥",
+      "transliteration": "prasanno valkalam kaścid dadau tābhyām mahāyaśāḥ ।anyaḥ kṛṣṇājinam adad yajña sūtram tathā aparaḥ ॥1-4-21॥",
+      "translations": {
+        "english": "This wonderful epic chronologically composed and completed by the sage (Valmiki), is the supreme source for poetry.",
+        "hindi": "",
+        "telugu": "వారిగానమునకు ఆనందించిన అచటి మునులలో ఒకరు వారికి కలశమును బహూకరించెను. వాసికెక్కిన మఱియొక మహర్షి ప్రసన్నుడై వల్కలమును, ఇంకొకరు జింకచర్మమును, వేఱొకరు మౌంజిని (దర్భ మొలత్రాడును) మఱియొకరు కమండలమును, యజ్ఞోపవీతమును వేఱొకరును బహుమతిగా ఇచ్చిరి. ఒకరు మేడిపీఠమును, దానిపై అందమైన మెత్తని ఆసనమును, మఱియొకరు జపమాలను, వేఱొకరు కౌపీనమును బహుకరించిరి. అట్లే ప్రసన్నమైన మనస్సుతో ఒకరు గొడ్డలిని, వేఱొకరు కాషాయవస్త్రములను, ఉత్తరీయమును, మఱియొకరు జటాబంధనమును, ఇంకొకరు కాష్ఠరజ్జువును, యజ్ఞపాత్రను, వేఱొకరు సమిధలను కానుకలుగా సమర్పించిరి. పిమ్మట సభలోని మహర్షులు అందఱును స్వస్తివాచనములతో వారిని ఆశీర్వదించిరి, వరములను ఇచ్చిరి."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 4,
+      "verse": 22,
+      "sloka": "कश्चित् कमण्डलुम् प्रदान् मौञ्जीम् अन्यो महामुनिः ।ब्रुसीमन्यः तदा प्रादत् कौपीनम् अपरो मुनिः ॥१-४-२२॥",
+      "transliteration": "kaścit kamaṇḍalum pradān mauñjīm anyo mahāmuniḥ ।brusīmanyaḥ tadā prādat kaupīnam aparo muniḥ ॥1-4-22॥",
+      "translations": {
+        "english": "The two singers, proficient in all kinds of notes recited the epic in the streets and on the principal roads. It was pleasing to hear for all. It gave long life and prosperity to the listeners. People admired them. Once Rama happened to see them.",
+        "hindi": "",
+        "telugu": "వారిగానమునకు ఆనందించిన అచటి మునులలో ఒకరు వారికి కలశమును బహూకరించెను. వాసికెక్కిన మఱియొక మహర్షి ప్రసన్నుడై వల్కలమును, ఇంకొకరు జింకచర్మమును, వేఱొకరు మౌంజిని (దర్భ మొలత్రాడును) మఱియొకరు కమండలమును, యజ్ఞోపవీతమును వేఱొకరును బహుమతిగా ఇచ్చిరి. ఒకరు మేడిపీఠమును, దానిపై అందమైన మెత్తని ఆసనమును, మఱియొకరు జపమాలను, వేఱొకరు కౌపీనమును బహుకరించిరి. అట్లే ప్రసన్నమైన మనస్సుతో ఒకరు గొడ్డలిని, వేఱొకరు కాషాయవస్త్రములను, ఉత్తరీయమును, మఱియొకరు జటాబంధనమును, ఇంకొకరు కాష్ఠరజ్జువును, యజ్ఞపాత్రను, వేఱొకరు సమిధలను కానుకలుగా సమర్పించిరి. పిమ్మట సభలోని మహర్షులు అందఱును స్వస్తివాచనములతో వారిని ఆశీర్వదించిరి, వరములను ఇచ్చిరి."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 4,
+      "verse": 23,
+      "sloka": "ताभ्याम् ददौ तदा हृष्टः कुठारम् अपरो मुनिः ।काषायम् अपरो वस्त्रम् चीरम् अन्यो ददौ मुनिः ॥१-४-२३॥",
+      "transliteration": "tābhyām dadau tadā hṛṣṭaḥ kuṭhāram aparo muniḥ ।kāṣāyam aparo vastram cīram anyo dadau muniḥ ॥1-4-23॥",
+      "translations": {
+        "english": "The two singers, proficient in all kinds of notes recited the epic in the streets and on the principal roads. It was pleasing to hear for all. It gave long life and prosperity to the listeners. People admired them. Once Rama happened to see them.",
+        "hindi": "",
+        "telugu": "వారిగానమునకు ఆనందించిన అచటి మునులలో ఒకరు వారికి కలశమును బహూకరించెను. వాసికెక్కిన మఱియొక మహర్షి ప్రసన్నుడై వల్కలమును, ఇంకొకరు జింకచర్మమును, వేఱొకరు మౌంజిని (దర్భ మొలత్రాడును) మఱియొకరు కమండలమును, యజ్ఞోపవీతమును వేఱొకరును బహుమతిగా ఇచ్చిరి. ఒకరు మేడిపీఠమును, దానిపై అందమైన మెత్తని ఆసనమును, మఱియొకరు జపమాలను, వేఱొకరు కౌపీనమును బహుకరించిరి. అట్లే ప్రసన్నమైన మనస్సుతో ఒకరు గొడ్డలిని, వేఱొకరు కాషాయవస్త్రములను, ఉత్తరీయమును, మఱియొకరు జటాబంధనమును, ఇంకొకరు కాష్ఠరజ్జువును, యజ్ఞపాత్రను, వేఱొకరు సమిధలను కానుకలుగా సమర్పించిరి. పిమ్మట సభలోని మహర్షులు అందఱును స్వస్తివాచనములతో వారిని ఆశీర్వదించిరి, వరములను ఇచ్చిరి."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 4,
+      "verse": 24,
+      "sloka": "जटाबन्धनम् अन्यः तु काष्ठ रज्जुम् मुदान्वितः ।यज्ञ भाण्डम् ऋषिः कश्चित् काष्ठभारम् तथा परः ॥१-४-२४॥",
+      "transliteration": "jaṭābandhanam anyaḥ tu kāṣṭha rajjum mudānvitaḥ ।yajña bhāṇḍam ṛṣiḥ kaścit kāṣṭhabhāram tathā paraḥ ॥1-4-24॥",
+      "translations": {
+        "english": "Thereafter, Rama, the destroyer of enemies, having invited the two brothers Kusa and Lava who deserved honour. He brought them to his royal palace and extended respectful hospitality.",
+        "hindi": "रकतं -रागयुक्तं (गो०) २ संस्थितः--उत्थितः (गो०) | # २१, २२, २२, २४ और २५ का प्रथम चरण भूषण टीकाकार न “अधिक पाठ” माना है । चतुर्थ १ सगः ५१ कर्चित्कमण्डलु मादादयज्ञहत्रमथापरः । ऑहुम्बरीं बृसीमन्यो जपमालामधापरः",
+        "telugu": "వారిగానమునకు ఆనందించిన అచటి మునులలో ఒకరు వారికి కలశమును బహూకరించెను. వాసికెక్కిన మఱియొక మహర్షి ప్రసన్నుడై వల్కలమును, ఇంకొకరు జింకచర్మమును, వేఱొకరు మౌంజిని (దర్భ మొలత్రాడును) మఱియొకరు కమండలమును, యజ్ఞోపవీతమును వేఱొకరును బహుమతిగా ఇచ్చిరి. ఒకరు మేడిపీఠమును, దానిపై అందమైన మెత్తని ఆసనమును, మఱియొకరు జపమాలను, వేఱొకరు కౌపీనమును బహుకరించిరి. అట్లే ప్రసన్నమైన మనస్సుతో ఒకరు గొడ్డలిని, వేఱొకరు కాషాయవస్త్రములను, ఉత్తరీయమును, మఱియొకరు జటాబంధనమును, ఇంకొకరు కాష్ఠరజ్జువును, యజ్ఞపాత్రను, వేఱొకరు సమిధలను కానుకలుగా సమర్పించిరి. పిమ్మట సభలోని మహర్షులు అందఱును స్వస్తివాచనములతో వారిని ఆశీర్వదించిరి, వరములను ఇచ్చిరి."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 4,
+      "verse": 25,
+      "sloka": "औदुम्बरीम् ब्रुसीम् अन्यः स्वस्ति केचित् तदा अवदन् ।आयुष्यम् अपरे प्राहुर् मुदा तत्र महर्षयः ॥१-४-२५॥",
+      "transliteration": "audumbarīm brusīm anyaḥ svasti kecit tadā avadan ।āyuṣyam apare prāhur mudā tatra maharṣayaḥ ॥1-4-25॥",
+      "translations": {
+        "english": "Rama, the tormentor of enemies, surrounded by his ministers and brothers occupied the splendid golden throne.",
+        "hindi": "",
+        "telugu": "వారిగానమునకు ఆనందించిన అచటి మునులలో ఒకరు వారికి కలశమును బహూకరించెను. వాసికెక్కిన మఱియొక మహర్షి ప్రసన్నుడై వల్కలమును, ఇంకొకరు జింకచర్మమును, వేఱొకరు మౌంజిని (దర్భ మొలత్రాడును) మఱియొకరు కమండలమును, యజ్ఞోపవీతమును వేఱొకరును బహుమతిగా ఇచ్చిరి. ఒకరు మేడిపీఠమును, దానిపై అందమైన మెత్తని ఆసనమును, మఱియొకరు జపమాలను, వేఱొకరు కౌపీనమును బహుకరించిరి. అట్లే ప్రసన్నమైన మనస్సుతో ఒకరు గొడ్డలిని, వేఱొకరు కాషాయవస్త్రములను, ఉత్తరీయమును, మఱియొకరు జటాబంధనమును, ఇంకొకరు కాష్ఠరజ్జువును, యజ్ఞపాత్రను, వేఱొకరు సమిధలను కానుకలుగా సమర్పించిరి. పిమ్మట సభలోని మహర్షులు అందఱును స్వస్తివాచనములతో వారిని ఆశీర్వదించిరి, వరములను ఇచ్చిరి."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 4,
+      "verse": 26,
+      "sloka": "ददुः च एवम् वरान् सर्वे मुनयः सत्यवादिनः ।आश्चर्यम् इदम् आख्यानम् मुनिना संप्रकीर्तितम् ॥१-४-२६॥",
+      "transliteration": "daduḥ ca evam varān sarve munayaḥ satyavādinaḥ ।āścaryam idam ākhyānam muninā saṁprakīrtitam ॥1-4-26॥",
+      "translations": {
+        "english": "Then selfpossessed Rama, having seen those very handsome brothers (Kusa and Lava), addressed Lakshmana, Satrughna and Bharata, saying:",
+        "hindi": "यह काव्य पीछे के कवियों का आधार-स्वरूप है और यथाक्रम समाप्त किया गया है । यह ग्रन्थ जैसा अद्भुत है वैसा ही गीत- विशारद इन दोनों राजकुमारों ने इसे गाया भी है",
+        "telugu": "వాల్మీకి మహర్షి విరచించిన ఈ మహాకావ్యము మిక్కిలి అద్భుతావహముగా ఉన్నది. మొదటినుండియు చివరివఱకు ఏమాత్రము కుంటుపడక పూర్తిగా రచింపబడిన ఈ కావ్యము కవీశ్వరులకు అందఱికిని మిక్కిలి ఆదర్శప్రాయమైనది."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 4,
+      "verse": 27,
+      "sloka": "परम् कवीनाम् आधारम् समाप्तम् च यथा क्रमम् ।अभिगीतम् इदम् गीतम् सर्व गीतेषु कोविदौ ॥१-४-२७॥",
+      "transliteration": "param kavīnām ādhāram samāptam ca yathā kramam ।abhigītam idam gītam sarva gīteṣu kovidau ॥1-4-27॥",
+      "translations": {
+        "english": "\"Listen to this story sung by both of them, portraying excellent sense and words\". Having said this, Rama urged the singers with the lustre of devatas to commence.",
+        "hindi": "",
+        "telugu": "\"ఓ గానకోవిదులారా! మీ కావ్యగానము అద్భుతముగా ఉన్నది. ఇది ఆయుర్వృద్ధికరమైనది, పుష్టిని గూర్చునది, ఎల్లరకును కర్ణపేయమైనది. ఈ కావ్యమును మీరు మధురముగా ఆలపించితిరి\" అని అచటివారు అందఱును వారిని ప్రశంసించిరి. ఒకానొకప్పుడు వీధులయందును, రాజమార్గముల యందును గానము చేయుచున్న ఆ లవకుశులను భరతాగ్రజుడైన శ్రీరాముడు తిలకించెను."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 4,
+      "verse": 28,
+      "sloka": "आयुष्यम् पुष्टि जननम् सर्व श्रुति मनोहरम् ।प्रशस्यमानौ सर्वत्र कदाचित् तत्र गायकौ ॥१-४-२८॥",
+      "transliteration": "āyuṣyam puṣṭi jananam sarva śruti manoharam ।praśasyamānau sarvatra kadācit tatra gāyakau ॥1-4-28॥",
+      "translations": {
+        "english": "Both of them, with good and ample voice, chanted the kavya in a distinctly meaningful way. Tuning their stringed instruments, they sang melodiously and engagingly.",
+        "hindi": "यह काव्य श्रोताओं की आयु बढ़ाने वाला तथा उनकी पुष्टि करने वाला ओर सुनने से सबके मन को हरने बाला है। इस सकार सुनियो से अशंसित दोनों राजकुमारी को, ॥२ bGangotr Initiative रथ्यासु राजमागेषु ददशे भरताग्रजः । स्ववेश्म चानीय ततो भ्रातरौ च कुशीलवौ",
+        "telugu": "\"ఓ గానకోవిదులారా! మీ కావ్యగానము అద్భుతముగా ఉన్నది. ఇది ఆయుర్వృద్ధికరమైనది, పుష్టిని గూర్చునది, ఎల్లరకును కర్ణపేయమైనది. ఈ కావ్యమును మీరు మధురముగా ఆలపించితిరి\" అని అచటివారు అందఱును వారిని ప్రశంసించిరి. ఒకానొకప్పుడు వీధులయందును, రాజమార్గముల యందును గానము చేయుచున్న ఆ లవకుశులను భరతాగ్రజుడైన శ్రీరాముడు తిలకించెను."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 4,
+      "verse": 29,
+      "sloka": "रथ्यासु राज मार्गेषु ददर्श भरताग्रजः ।स्व वेश्म च आनीय ततो भ्रातरौ स कुशी लवौ ॥१-४-२९॥",
+      "transliteration": "rathyāsu rāja mārgeṣu dadarśa bharatāgrajaḥ ।sva veśma ca ānīya tato bhrātarau sa kuśī lavau ॥1-4-29॥",
+      "translations": {
+        "english": "The chanting of the kavya in the assembly of men comforted the sense of hearing. The listeners rejoiced in their mind, heart and the whole being.",
+        "hindi": "",
+        "telugu": "అంతట రామాయణమును మధురముగా గానము చేయుచు అందఱి ప్రశంసలకు పాత్రులైన, ఆ లవకుశ సోదరులను అరివీరభయంకరుడైన శ్రీరాముడు తనభవనమునకు రప్పించి, వారిని ప్రశంసించెను."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 4,
+      "verse": 30,
+      "sloka": "पूजयामास पुज अर्हौ रामः शत्रुनिबर्हणः ।आसीनः कांचने दिव्ये स च सिंहासने प्रभुः ॥१-४-३०॥",
+      "transliteration": "pūjayāmāsa puja arhau rāmaḥ śatrunibarhaṇaḥ ।āsīnaḥ kāṁcane divye sa ca siṁhāsane prabhuḥ ॥1-4-30॥",
+      "translations": {
+        "english": "Addressing the assembly of men Rama said \"Both Kusa and Lava, even though ascetics, are endowed with the attributes of royalty. Eventhough they are singers, they are ascetics. This is even conducive to my wellbeing. Listen to the meaningful story with concentration\".",
+        "hindi": "मंत्रियों व भाइयों सहित बैठे हुए श्रीरामचन्द्र जी उन रूपवान ओर सुशिक्षित दोनों भाइयों को देखकर",
+        "telugu": "శ్రీరామచంద్రప్రభువు దివ్యమైన బంగారు సింహాసనముపై ఆసీనుడైయుండెను. ఆ మహావీరుని సమీపమున మంత్రులు, సోదరులు చేరియుండిరి."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 4,
+      "verse": 31,
+      "sloka": "उपोपविष्टैः सचिवैः भ्रातृभिः च समन्वित ।दृष्ट्वा तु रूप संपन्नौ विनीतौ भ्रातरौ उभौ ॥१-४-३१॥",
+      "transliteration": "upopaviṣṭaiḥ sacivaiḥ bhrātṛbhiḥ ca samanvita ।dṛṣṭvā tu rūpa saṁpannau vinītau bhrātarau ubhau ॥1-4-31॥",
+      "translations": {
+        "english": "Encouraged by the words of Rama, the two brothers chanted according to marga mode of singing (classical style). Even Rama who was in the assembly desirous of peace, concentrated his mind on that chanting. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे चतुर्थस्सर्ग:।। Thus ends the fourth sarga of Balakanda of the holy Ramayana in synopsis of the first epic composed by sage Valmiki.",
+        "hindi": "लक्ष्मण, शत्रुघ्न ओर भरत से कहने लगे कि, इन देव के समान तेजस्वी, गायको के गान किए हुए इतिहास को सुनो",
+        "telugu": "అశ్వమేధయాగదీక్షలోనున్న శ్రీరాముడు ముద్దులొలుకుచున్న ఆ ఇద్దఱు చిన్నారులను జూచి, లక్ష్మణ భరత శత్రుఘ్నులతో \"దివ్యమైన వర్చస్సుగల ఈ చిరంజీవులు గానము చేసెడి విచిత్రార్థపద విలపితమైన ఈ వృత్తాంతమును వినుడు\" అని పలికి, ఆ మధుర గాయకులను పాడుటకై ప్రోత్సహించెను."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 4,
+      "verse": 32,
+      "sloka": "उवाच लक्ष्मणम् रामः शत्रुघ्नम् भरतम् तथा ।श्रूयताम् एतद् आख्यानम् अनयोः देव वर्चसोः ॥१-४-३२॥",
+      "transliteration": "uvāca lakṣmaṇam rāmaḥ śatrughnam bharatam tathā ।śrūyatām etad ākhyānam anayoḥ deva varcasoḥ ॥1-4-32॥",
+      "translations": {
+        "english": "",
+        "hindi": "",
+        "telugu": "అశ్వమేధయాగదీక్షలోనున్న శ్రీరాముడు ముద్దులొలుకుచున్న ఆ ఇద్దఱు చిన్నారులను జూచి, లక్ష్మణ భరత శత్రుఘ్నులతో \"దివ్యమైన వర్చస్సుగల ఈ చిరంజీవులు గానము చేసెడి విచిత్రార్థపద విలపితమైన ఈ వృత్తాంతమును వినుడు\" అని పలికి, ఆ మధుర గాయకులను పాడుటకై ప్రోత్సహించెను."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 4,
+      "verse": 33,
+      "sloka": "विचित्रार्थ पदम् सम्यक् गायकौ समचोदयत् ।तौ च अपि मधुरम् रक्तम् स्वचित्तायत निःस्वनम् ॥१-४-३३॥",
+      "transliteration": "vicitrārtha padam samyak gāyakau samacodayat ।tau ca api madhuram raktam svacittāyata niḥsvanam ॥1-4-33॥",
+      "translations": {
+        "english": "",
+        "hindi": "उस समा में बैठे हुए लोगों के मन और हृदय उस गान को सुन कर अत्यन्त आह्वादित हो गए",
+        "telugu": "ఆ బాలకులిద్దఱును ప్రసిద్ధికెక్కిన అ రామాయణగాథను మధురముగా, రాగయుక్తముగా, వీణాతంత్రులను మీటుచు లయబద్ధముగా శ్రావ్యమైన కంఠస్వరములతొ గానము చేసిరి. ఆ మహాజనసభలో వీనులవిందు గావించుచు వారు హాయిగా గానము చేసిన ఆ పాట సదస్యుల శరీరములను పులకింపజేసెను, మనస్సుల ఆహ్లాదపఱచెను, హృదయమును ద్రవింపజేసెను. అది సభకే ఒక వెలుగు దివ్వెయై విలసిల్లెను."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 4,
+      "verse": 34,
+      "sloka": "तन्त्री लयवत् अत्यर्थम् विश्रुतार्थम् अगायताम् ।ह्लादयत् सर्व गात्राणि मनांसि हृदयानि च ।श्रोत्राश्रय सुखम् गेयम् तद् बभौ जनसंसदि ॥१-४-३४॥",
+      "transliteration": "tantrī layavat atyartham viśrutārtham agāyatām ।hlādayat sarva gātrāṇi manāṁsi hṛdayāni ca ।śrotrāśraya sukham geyam tad babhau janasaṁsadi ॥1-4-34॥",
+      "translations": {
+        "english": "",
+        "hindi": "श्रीरामचन्द्र जी भी कहने लगे कि, राजलत्तणों से युक्त इन बड़े तपस्वी कुश और लब ने प्रभावोत्पादक जो चरित गाए. हैं वे मुझे बहुत अच्छे जान पड़ते हैं",
+        "telugu": "ఆ బాలకులిద్దఱును ప్రసిద్ధికెక్కిన అ రామాయణగాథను మధురముగా, రాగయుక్తముగా, వీణాతంత్రులను మీటుచు లయబద్ధముగా శ్రావ్యమైన కంఠస్వరములతొ గానము చేసిరి. ఆ మహాజనసభలో వీనులవిందు గావించుచు వారు హాయిగా గానము చేసిన ఆ పాట సదస్యుల శరీరములను పులకింపజేసెను, మనస్సుల ఆహ్లాదపఱచెను, హృదయమును ద్రవింపజేసెను. అది సభకే ఒక వెలుగు దివ్వెయై విలసిల్లెను."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 4,
+      "verse": 35,
+      "sloka": "इमौ मुनी पार्थिव लक्षणान्वितौकुशी लवौ च एव महातपस्विनौ ।ममा अपि तद् भूति करम् प्रचक्षतेमहानुभावम् चरितम् निबोधत ॥१-४-३५॥",
+      "transliteration": "imau munī pārthiva lakṣaṇānvitaukuśī lavau ca eva mahātapasvinau ।mamā api tad bhūti karam pracakṣatemahānubhāvam caritam nibodhata ॥1-4-35॥",
+      "translations": {
+        "english": "",
+        "hindi": "",
+        "telugu": "\"ఈ బాలురు ఇద్దఱును మునివేషములలో ఉన్నను రాజ లక్షణములు గలవారు, వీరు గాయకులు, మహాతపస్సంపన్నులు. వీరి కావ్యగానము నాకును ఆనందమును గూర్చుచున్నది. కనుక నాకును శ్రేయస్కరమైన ఈ మహాచరితమును వినుడు.\" అంతట వారు శ్రీరాముని ప్రోత్సాహముతో సర్వజనామోదకమైన మార్గపద్ధతిలో గానము చేసిరి. శ్రీరాముడును సభలోని వారితోపాటు ఆ గానానందమును తానును అనుభవింపదలచినవాడై ఆ గానమును వినుటలోనే నిమగ్నుడాయెను. దానిని ఎంతగా విన్నను వారికి తనివితీరకుండెను."
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 4,
+      "verse": 36,
+      "sloka": "ततः तु तौ राम वचः प्रचोदितौअगायताम् मार्ग विधान संपदा ।स च अपि रामः परिषद् गतः शनैर्बुभूषय आसक्तमना बभूव ॥१-४-३६॥",
+      "transliteration": "tataḥ tu tau rāma vacaḥ pracoditauagāyatām mārga vidhāna saṁpadā ।sa ca api rāmaḥ pariṣad gataḥ śanairbubhūṣaya āsaktamanā babhūva ॥1-4-36॥",
+      "translations": {
+        "english": "",
+        "hindi": "",
+        "telugu": "\"ఈ బాలురు ఇద్దఱును మునివేషములలో ఉన్నను రాజ లక్షణములు గలవారు, వీరు గాయకులు, మహాతపస్సంపన్నులు. వీరి కావ్యగానము నాకును ఆనందమును గూర్చుచున్నది. కనుక నాకును శ్రేయస్కరమైన ఈ మహాచరితమును వినుడు.\" అంతట వారు శ్రీరాముని ప్రోత్సాహముతో సర్వజనామోదకమైన మార్గపద్ధతిలో గానము చేసిరి. శ్రీరాముడును సభలోని వారితోపాటు ఆ గానానందమును తానును అనుభవింపదలచినవాడై ఆ గానమును వినుటలోనే నిమగ్నుడాయెను. దానిని ఎంతగా విన్నను వారికి తనివితీరకుండెను."
+      }
+    }
+  ]
+}

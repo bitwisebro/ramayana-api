@@ -1,0 +1,443 @@
+{
+  "kanda": 4,
+  "kanda_name": "Kishkindha Kanda",
+  "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+  "sarga": 15,
+  "verses_count": 31,
+  "verses": [
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 15,
+      "verse": 1,
+      "sloka": "अथ तस्य निनादम् तम् सुग्रीवस्य महात्मनः ।शुश्राव अन्तःपुर गतो वाली भ्रातुर् अमर्षणः ॥४-१५-१॥",
+      "transliteration": "atha tasya ninādam tam sugrīvasya mahātmanaḥ ।śuśrāva antaḥpura gato vālī bhrātur amarṣaṇaḥ ॥4-15-1॥",
+      "translations": {
+        "english": "The indignant Vali, who was in the harem, heard the roaring of his venerable brother, Sugriva.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 15,
+      "verse": 2,
+      "sloka": "श्रुत्वा तु तस्य निनदम् सर्वभूत प्रकंपनम् ।मदः च एकपदे नष्टः क्रोधः च आपादितो महान् ॥४-१५-२॥",
+      "transliteration": "śrutvā tu tasya ninadam sarvabhūta prakaṁpanam ।madaḥ ca ekapade naṣṭaḥ krodhaḥ ca āpādito mahān ॥4-15-2॥",
+      "translations": {
+        "english": "The roar (of Sugriva) that frightened all beings gave Vali's vanity a jolt and at once aroused in him violent rage.",
+        "hindi": "हे वरानने ( श्रेष्ठमुखवाली ) ! मेरा वह भाई तो मेरा बड़ा शत्र है । फिर बह जब इस प्रकार गर्बेसहित गजे रहा है, तब भला में उसके इस गर्जन तजन को कैसे सह सकता हूँ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 15,
+      "verse": 3,
+      "sloka": "ततो रोष परीत अंगो वाली स कनक प्रभः ।उपरक्त इव आदित्यः सद्यो निष्प्रभताम् गतः ॥४-१५-३॥",
+      "transliteration": "tato roṣa parīta aṁgo vālī sa kanaka prabhaḥ ।uparakta iva ādityaḥ sadyo niṣprabhatām gataḥ ॥4-15-3॥",
+      "translations": {
+        "english": "Overcome with anger, Vali looked pale like the eclipsed Sun with the golden radiance faded from his face.",
+        "hindi": "हे भीरु! देख, जो शूर रुभी कितो से पराजित नहीं हुए और होंने रणत्तेत्र में शत्र को कभी पीठ नहीं दिखाई, उनके लिए स प्रकार का तिरस्कार सहना मरने से भी गया बीता है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 15,
+      "verse": 4,
+      "sloka": "वाली दंष्ट्रा करालः तु क्रोधाद् दीप्त अग्नि लोचनः ।भाति उत्पतित पद्माभः समृणाल इव ह्रदः ॥४-१५-४॥",
+      "transliteration": "vālī daṁṣṭrā karālaḥ tu krodhād dīpta agni locanaḥ ।bhāti utpatita padmābhaḥ samṛṇāla iva hradaḥ ॥4-15-4॥",
+      "translations": {
+        "english": "Vali, who looked fierce with his teeth and whose eyes shone like a flaming fire through anger looked like a pond with the lotuses and their stalks uprooted.",
+        "hindi": "रणचत्र में युद्धाभिलापी हीनग्रीब सुम्रीत्र का अभिमानसहित गर्जना, में किसी तरह भी नहीं सह सकता",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 15,
+      "verse": 5,
+      "sloka": "शब्दम् दुर्मर्षणम् श्रुत्वा निष्पपात ततो हरिः ।वेगेन च पद न्यासैर् दारयन् इव मेदिनीम् ॥४-१५-५॥",
+      "transliteration": "śabdam durmarṣaṇam śrutvā niṣpapāta tato hariḥ ।vegena ca pada nyāsair dārayan iva medinīm ॥4-15-5॥",
+      "translations": {
+        "english": "Unable to tolerate Sugriva's roar, Vali stepped out hurriedly, taking long strides as if breaking the earth.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 15,
+      "verse": 6,
+      "sloka": "तम् तु तारा परिष्वज्य स्नेहाद् दर्शित सौहृदा ।उवाच त्रस्त संभ्रांता हित उदर्कम् इदम् वचः ॥४-१५-६॥",
+      "transliteration": "tam tu tārā pariṣvajya snehād darśita sauhṛdā ।uvāca trasta saṁbhrāṁtā hita udarkam idam vacaḥ ॥4-15-6॥",
+      "translations": {
+        "english": "Tara, perplexed out of fear, glanced at Vali lovingly, embraced him and gave him wise counsel:",
+        "hindi": "रा० कि०--१० १४६ ह केच्किन्वीकि | तू खिर्यो के साथ लौट जा । तू क्यों फिर मेरे पीछे चली आती है । हे तारे ! तुझको मेरे प्रति जितनी हितैपिता और प्रीति दिखलानी चाहिए थी, उतनी तू दिखला चुकी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 15,
+      "verse": 7,
+      "sloka": "साधु क्रोधम् इमम् वीर नदी वेगम् इव आगतम् ।शयनाद् उत्थितः काल्यम् त्यज भुक्ताम् इव स्रजम् ॥४-१५-७॥",
+      "transliteration": "sādhu krodham imam vīra nadī vegam iva āgatam ।śayanād utthitaḥ kālyam tyaja bhuktām iva srajam ॥4-15-7॥",
+      "translations": {
+        "english": "'O valiant Vali anger has overtaken you like the flood of a river. It is natural for you to be angry at this time, but shake off your anger just as the wise discard a flower garland already used up.",
+        "hindi": "जञेंतोसुप्रीब से युद्ध कर, उसका दपे चूण करूँगा, किन्तु उसकी जान न लूँगा । अतः तू विकल न हो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 15,
+      "verse": 8,
+      "sloka": "काल्यम् एतेन संग्रामम् करिष्यसि च वानर ।वीर ते शत्रु बाहुल्यम् फल्गुता वा न विद्यते ॥४-१५-८॥",
+      "transliteration": "kālyam etena saṁgrāmam kariṣyasi ca vānara ।vīra te śatru bāhulyam phalgutā vā na vidyate ॥4-15-8॥",
+      "translations": {
+        "english": "'O monkey fight him only tomorrow morning. By this you are not going to prove your weakness or increase your respect for the enemy.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 15,
+      "verse": 9,
+      "sloka": "सहसा तव निष्क्रामो मम तावत् न रोचते ।श्रूयताम् अभिधास्यामि यन् निमित्तम् निवार्यते ॥४-१५-९॥",
+      "transliteration": "sahasā tava niṣkrāmo mama tāvat na rocate ।śrūyatām abhidhāsyāmi yan nimittam nivāryate ॥4-15-9॥",
+      "translations": {
+        "english": "'I do not like your rashness. I will explain the reason I am preventing you. Listen:",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 15,
+      "verse": 10,
+      "sloka": "पूर्वम् आपतितः क्रोधात् स त्वाम् आह्वयते युधि ।निष्पत्य च निरस्तः ते हन्यमानो दिशो गतः ॥४-१५-१०॥",
+      "transliteration": "pūrvam āpatitaḥ krodhāt sa tvām āhvayate yudhi ।niṣpatya ca nirastaḥ te hanyamāno diśo gataḥ ॥4-15-10॥",
+      "translations": {
+        "english": "'Earlier, he (Sugriva) came and challenged you to a duel. You struck him in anger, and defeated, he fled, running in all directions. Now his challenge rouses my suspicion.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 15,
+      "verse": 11,
+      "sloka": "त्वया तस्य निरस्तस्य पीडितस्य विशेषतः ।इह एत्य पुनर् आह्वानम् शंकाम् जनयति इव मे ॥४-१५-११॥",
+      "transliteration": "tvayā tasya nirastasya pīḍitasya viśeṣataḥ ।iha etya punar āhvānam śaṁkām janayati iva me ॥4-15-11॥",
+      "translations": {
+        "english": "'One who is defeated and badly mauled by you is again coming and inviting you to a duel in this manner arouses suspicion in me.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 15,
+      "verse": 12,
+      "sloka": "दर्पः च व्यवसायः च यादृशः तस्य नर्दतः ।निनादस्य च संरंभो न एतत् अल्पम् हि कारणम् ॥४-१५-१२॥",
+      "transliteration": "darpaḥ ca vyavasāyaḥ ca yādṛśaḥ tasya nardataḥ ।ninādasya ca saṁraṁbho na etat alpam hi kāraṇam ॥4-15-12॥",
+      "translations": {
+        "english": "'His determination, his insolence, his roaring, his arroganceall this cannot be for a small reason.",
+        "hindi": "फिर वाल के विजय के लिए मन्त्रयुक्त मङ्गलाचार कर, शोकाः कुल हो, अन्यं खियासहित वह रनवास में चली गईं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 15,
+      "verse": 13,
+      "sloka": "न असहायम् अहम् मन्ये सुग्रीवम् तम् इह आगतम् ।अवष्टब्ध सहायः च यम् आश्रित्य एष गर्जति ॥४-१५-१३॥",
+      "transliteration": "na asahāyam aham manye sugrīvam tam iha āgatam ।avaṣṭabdha sahāyaḥ ca yam āśritya eṣa garjati ॥4-15-13॥",
+      "translations": {
+        "english": "'Certainly Sugriva has not come here to give a warcry without any external help. The person whose refuge he has sought is not a small one.",
+        "hindi": "स्त्रियों सहित तारा के अन्तःपुर में चले जाने पर, वालि) क्रद्ध सपं का तरह फु सक्रारता हुआ, किष्किन्धा से बाहिर निकला",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 15,
+      "verse": 14,
+      "sloka": "प्रकृत्या निपुणः चैव बुद्धिमान् चैव वानरः ।न अपरीक्षित वीर्येण सुग्रीवः सख्यम् एष्यति ॥४-१५-१४॥",
+      "transliteration": "prakṛtyā nipuṇaḥ caiva buddhimān caiva vānaraḥ ।na aparīkṣita vīryeṇa sugrīvaḥ sakhyam eṣyati ॥4-15-14॥",
+      "translations": {
+        "english": "'Sugriva is clever by nature. He is wise. Without assessing the ability of the ally he will not enter into friendship.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 15,
+      "verse": 15,
+      "sloka": "पूर्वम् एव मया वीर श्रुतम् कथयतो वचः ।अंगदस्य कुमारस्य वक्ष्यामि अद्य हितम् वचः ॥४-१५-१५॥",
+      "transliteration": "pūrvam eva mayā vīra śrutam kathayato vacaḥ ।aṁgadasya kumārasya vakṣyāmi adya hitam vacaḥ ॥4-15-15॥",
+      "translations": {
+        "english": "'O hero I have heard the news earlier from our son Angada. I will tell you what he had heard and what he has said to me:",
+        "hindi": "इन्िणा--स््स्मन्नपरस्मिंश्च वुल्यहिता ( गो० )। :१ ४८ किष्किन्धाकाण्डे तदनन्तर सोने की तरह पीले नेत्रबाले सुग्रीव को, कमर्‌ कसे और यह्द के ।लिये तैयार देखा । उस समय सुमीव दहकती हुई च्प्राग की तरह जान पड़ते थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 15,
+      "verse": 16,
+      "sloka": "अंगदः तु कुमरो अयम् वनांतम् उपनिर्गतः ।प्रवृत्तिः तेन कथिता चारैः असीत् निवेदिता ॥४-१५-१६॥",
+      "transliteration": "aṁgadaḥ tu kumaro ayam vanāṁtam upanirgataḥ ।pravṛttiḥ tena kathitā cāraiḥ asīt niveditā ॥4-15-16॥",
+      "translations": {
+        "english": "'When our son Angada was out into the forest he had collected some reports from the spies which he has transmitted to me.",
+        "hindi": "स॒ तं दृष्टा महावीयं सुग्रीवं पयवस्थितम्‌ । गाढं परिदधे वासो वाली परमरोपणः",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 15,
+      "verse": 17,
+      "sloka": "अयोध्य अधिपतेः पुत्रौ शूरौ समर दुर्जयौ ।इक्ष्वाकूणाम् कुले जातौ प्रथितौ राम लक्ष्मणौ ॥४-१५-१७॥",
+      "transliteration": "ayodhya adhipateḥ putrau śūrau samara durjayau ।ikṣvākūṇām kule jātau prathitau rāma lakṣmaṇau ॥4-15-17॥",
+      "translations": {
+        "english": "'Rama and Lakshmana, two heroic sons of the king of Ayodhya born of the Ikshvaku race, are invincible in war. They have come there to help Sugriva.",
+        "hindi": "स वाली गादसंवीतो सुष्टिसुयम्य वीयवान्‌ । सुग्रीवमेवाभिमुखो ययौ योद कृतक्षणः",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 15,
+      "verse": 18,
+      "sloka": "सुग्रीव प्रिय कामार्थम् प्राप्तौ तत्र दुरासदौ ।स ते भ्रातुर् हि विख्यातः सहायो रण कर्मणि ॥४-१५-१८॥",
+      "transliteration": "sugrīva priya kāmārtham prāptau tatra durāsadau ।sa te bhrātur hi vikhyātaḥ sahāyo raṇa karmaṇi ॥4-15-18॥",
+      "translations": {
+        "english": "'Rama, famous for crushing foes in war, like the fire that breaks out at the dissolution of the world, has slain strong enemies like Khara and will help your brother.",
+        "hindi": "सुम्रांव भी मूका तान ओर अत्यन्त क्रद्ध हो सोने का हार आरण किए हुए वालि के समीप गए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 15,
+      "verse": 19,
+      "sloka": "रामः पर बलमर्दी युगान्त अग्निः इव उत्थितः ।निवास वृक्षः साधूनाम् आपन्नानाम् परा गतिः ॥४-१५-१९॥",
+      "transliteration": "rāmaḥ para balamardī yugānta agniḥ iva utthitaḥ ।nivāsa vṛkṣaḥ sādhūnām āpannānām parā gatiḥ ॥4-15-19॥",
+      "translations": {
+        "english": "'He is like a sheltering tree to the virtuous, an ultimate refuge for the destitutes and a protector of the distressed. He is the sole repository of fame.",
+        "hindi": "तं वाली क्रोधताम्राक्षः सुग्रीवं रणपण्डितम्‌ । ापतन्तं महावेगमिद वचनमब्रवीत्‌",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 15,
+      "verse": 20,
+      "sloka": "आर्तानाम् संश्रयः चैव यशसः च एक भाजनम् ।ज्ञान विज्ञान संपन्नो निदेशो निरतः पितुः ॥४-१५-२०॥",
+      "transliteration": "ārtānām saṁśrayaḥ caiva yaśasaḥ ca eka bhājanam ।jñāna vijñāna saṁpanno nideśo nirataḥ pituḥ ॥4-15-20॥",
+      "translations": {
+        "english": "'He is endowed with the knowledge of science and scriptures. He stood by his father's command. He is like a mine of virtues just as the lord of the mountain is a mine of minerals.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 15,
+      "verse": 21,
+      "sloka": "धातूनाम् इव शैलेन्द्रो गुणानाम् आकरो महान् ।तत् क्षमो न विरोधः ते सह तेन महात्मना ॥४-१५-२१॥",
+      "transliteration": "dhātūnām iva śailendro guṇānām ākaro mahān ।tat kṣamo na virodhaḥ te saha tena mahātmanā ॥4-15-21॥",
+      "translations": {
+        "english": "'Rama is immeasurable in prowess and unconquerable in war. Therefore, enmity with him is not desirable for you.",
+        "hindi": "बालि के यह कहने पर सुप्रीव ने क्रुद् हो बालि से, कहा-- हमारा मूका मो तेरे सिर पर लगने से तेरे प्राण हर लेगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 15,
+      "verse": 22,
+      "sloka": "दुर्जयेन अप्रमेयेण रामेण रण कर्मसु ।शूर वक्ष्यामि ते किंचिन् न च इच्छामि अभ्यसूयितुम् ॥४-१५-२२॥",
+      "transliteration": "durjayena aprameyeṇa rāmeṇa raṇa karmasu ।śūra vakṣyāmi te kiṁcin na ca icchāmi abhyasūyitum ॥4-15-22॥",
+      "translations": {
+        "english": "'O hero, this I tell you not because I dislike you, but because I wish your welfare. Listen, and do as I say",
+        "hindi": "तब बालि ने अत्यन्त क्रद्ध हो कर, बड़े जोर से सुग्रीव के दसा मारा | उस घूं से के लगने से सुग्रोब, उसी प्रकार मुख से खून ओकने लगा, जिस प्रकार पर्वत से झरने का जल निकलता: है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 15,
+      "verse": 23,
+      "sloka": "श्रूयताम् क्रियताम् चैव तव वक्ष्यामि यद् हितम् ।यौवराज्येन सुग्रीवम् तूर्णम् साधु अभिषेचय ॥४-१५-२३॥",
+      "transliteration": "śrūyatām kriyatām caiva tava vakṣyāmi yad hitam ।yauvarājyena sugrīvam tūrṇam sādhu abhiṣecaya ॥4-15-23॥",
+      "translations": {
+        "english": "'O king O hero consecrate your brother Sugriva as prince at once. Do not create enmity with him.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 15,
+      "verse": 24,
+      "sloka": "विग्रहम् मा कृथा वीर भ्रात्रा राजन् यवीयसा ।अहम् हि ते क्षमम् मन्ये तेन रामेण सौहृदम् ॥४-१५-२४॥",
+      "transliteration": "vigraham mā kṛthā vīra bhrātrā rājan yavīyasā ।aham hi te kṣamam manye tena rāmeṇa sauhṛdam ॥4-15-24॥",
+      "translations": {
+        "english": "'Leave enmity with Sugriva far behind. Make friendship with Rama. I think it is the right thing for you.",
+        "hindi": "स तु वाली प्रचलितः सालताडनविद्वलः | गुरुमारसमाक्रान्तो नौसाथ इव सागरे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 15,
+      "verse": 25,
+      "sloka": "सुग्रीवेण च संप्रीतिम् वैरम् उत्सृज्य दूरतः ।लालनीयो हि ते भ्राता यवीयान् एष वानरः ॥४-१५-२५॥",
+      "transliteration": "sugrīveṇa ca saṁprītim vairam utsṛjya dūrataḥ ।lālanīyo hi te bhrātā yavīyān eṣa vānaraḥ ॥4-15-25॥",
+      "translations": {
+        "english": "'This monkey is your younger brother and, therefore, deserves your protection. Whether he is here or there, he is your brother.",
+        "hindi": "इस तरह भयङ्कर बल-विक्रम-शाली तथा गरुड़ के समान वेग- बान और विशालकाय वालि और सुप्रीब ऐसे लड़ने लगे, मानों आकाश में चन्द्र और सूय लड़ रहे हा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 15,
+      "verse": 26,
+      "sloka": "तत्र वा सन्निहस्थो वा सर्वथा बन्धुः एव ते ।नहि तेन समम् बन्धुम् भुवि पश्यामि किंचन ॥४-१५-२६॥",
+      "transliteration": "tatra vā sannihastho vā sarvathā bandhuḥ eva te ।nahi tena samam bandhum bhuvi paśyāmi kiṁcana ॥4-15-26॥",
+      "translations": {
+        "english": "'Indeed I do not see any of your relatives comparable to him on earth. Give up enmity with him. Give him wealth. Give him respect. Keep him by your side.",
+        "hindi": "परस्परममित्रघ्नो जिद्रान्वेपणतत्परो । ततो$वर्धत वाली तु बलवीर्यसमन्वितः",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 15,
+      "verse": 27,
+      "sloka": "दान मानादि सत्कर्रैः कुरुष्व प्रत्यनन्तरम् ।वैरम् एतत् सम् उत्स्रृज्य तव पार्श्वे स तिष्ठतु ॥४-१५-२७॥",
+      "transliteration": "dāna mānādi satkarraiḥ kuruṣva pratyanantaram ।vairam etat sam utsrṛjya tava pārśve sa tiṣṭhatu ॥4-15-27॥",
+      "translations": {
+        "english": "'Indeed I do not see any of your relatives comparable to him on earth. Give up enmity with him. Give him wealth. Give him respect. Keep him by your side.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 15,
+      "verse": 28,
+      "sloka": "सुग्रीवो विपुल ग्रीवो महाबन्धुः मतः तव ।भ्रातृ सौहृदम् आलंब्य न अन्या गति इह अस्ति ते ॥४-१५-२८॥",
+      "transliteration": "sugrīvo vipula grīvo mahābandhuḥ mataḥ tava ।bhrātṛ sauhṛdam ālaṁbya na anyā gati iha asti te ॥4-15-28॥",
+      "translations": {
+        "english": "'Extend your brotherly affection to broadnecked Sugriva. He is always your great relation. There is no alternative for you other than this at present.",
+        "hindi": "परन्तु सुम्रीव श्रीरामचन्द्र जी को दिखाने। के लिए, लि ऊपर अत्यन्त कुद्ध हो, जड़ व शाखासहित पेड़ों, शिलाओं और चञ्जसम घारबाल नखों से, घूंसों से, लातों से, जांघों से और बाहुओं से बराबर लड़ने लगे । उन दोनों का युद्ध वैसा ही घोर छुआ, जैसा फि बृत्रासुर के साथ इन्द्र का हुआ था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 15,
+      "verse": 29,
+      "sloka": "यदि ते मत् प्रियम् कार्यम् यदि च अवैषि माम् हिताम् ।याच्यमानः प्रियत्वेन साधु वाक्यम् कुरुष्व मे ॥४-१५-२९॥",
+      "transliteration": "yadi te mat priyam kāryam yadi ca avaiṣi mām hitām ।yācyamānaḥ priyatvena sādhu vākyam kuruṣva me ॥4-15-29॥",
+      "translations": {
+        "english": "'Pray, do me this favour. Treat me as your wellwisher. Heed my advice given with care.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 15,
+      "verse": 30,
+      "sloka": "प्रसीद पथ्यम् श्रुणु जल्पितम् हि मेन रोषम् एव अनुविधातुम् अर्हसि ।क्षमो हि ते कोशल राज सूनुनान विग्रहः शक्र सम तेजसा ॥४-१५-३०॥",
+      "transliteration": "prasīda pathyam śruṇu jalpitam hi mena roṣam eva anuvidhātum arhasi ।kṣamo hi te kośala rāja sūnunāna vigrahaḥ śakra sama tejasā ॥4-15-30॥",
+      "translations": {
+        "english": "'Do not lose your temper. Quieten your mind. My advice is beneficial to you. You should not fight with the prince of Kosala who is comparable to Indra in splendour.It is not proper for you.'",
+        "hindi": "वे दोनों बनचर बंदर युद्ध करते हुए सुधिर से तरबर हो ओर मेघ की तरह घोर शब्द कर, परस्पर तर्जन गजेन करने लगे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 15,
+      "verse": 31,
+      "sloka": "तदा हि तारा हितम् एव वाक्यम्तम् वालिनम् पथ्यम् इदम् बभाषे ।न रोचते तद् वचनम् हि तस्यकाल अभिपन्नस्य विनाश काले ॥४-१५-३१॥",
+      "transliteration": "tadā hi tārā hitam eva vākyamtam vālinam pathyam idam babhāṣe ।na rocate tad vacanam hi tasyakāla abhipannasya vināśa kāle ॥4-15-31॥",
+      "translations": {
+        "english": "Even though Tara gave good counsel to Vali at the hour of destruction, the advice did not find favour with him as he was under the influence of unfavourable time (seized by death). इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये किष्किन्धाकाण्डे पञ्चदशस्सर्गः।। Thus ends the fifteenth sarga of Kishkindakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+        "hindi": "श्रीरामचन्द्र जी ने देखा किं, खुगीब का पराक्रम घट जाने के कारण वह बारबार इधर उधर ताक रहा है",
+        "telugu": ""
+      }
+    }
+  ]
+}

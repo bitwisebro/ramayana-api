@@ -1,0 +1,849 @@
+{
+  "kanda": 1,
+  "kanda_name": "Bala Kanda",
+  "kanda_name_sanskrit": "बालकाण्डम्",
+  "sarga": 14,
+  "verses_count": 60,
+  "verses": [
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 1,
+      "sloka": "अथ संवत्सरे पूर्णे तस्मिन् प्राप्ते तुरंगमे ।सरय्वाः च उत्तरे तीरे राज्ञो यज्ञो अभ्यवर्तत ॥१-१४-१॥",
+      "transliteration": "atha saṁvatsare pūrṇe tasmin prāpte turaṁgame ।sarayvāḥ ca uttare tīre rājño yajño abhyavartata ॥1-14-1॥",
+      "translations": {
+        "english": "After completion of one year when the sacrificial horse had returned, the sacrifice by the king (Dasaratha) commenced on the northern bank of river Sarayu.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 2,
+      "sloka": "ऋष्यशृंगम् पुरस्कृत्य कर्म चक्रुः द्विजर्षभाः ।अश्वमेधे महायज्ञे राज्ञोऽस्य सुमहात्मनः ॥१-१४-२॥",
+      "transliteration": "ṛṣyaśṛṁgam puraskṛtya karma cakruḥ dvijarṣabhāḥ ।aśvamedhe mahāyajñe rājño'sya sumahātmanaḥ ॥1-14-2॥",
+      "translations": {
+        "english": "The best of brahmins led by Rsyasringa performed the rituals of aswamedha organised by the exceedingly magnanimous king.",
+        "hindi": "वसिष्ठ जी को प्रणाम कर और उनका यथाविधि पूजन कर पुत्रप्राप्ति के लिए उनसे महाराज दशरथ नम्रतापूर्वेक बोले",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 3,
+      "sloka": "कर्म कुर्वंति विधिवत् याजका वेदपारगाः ।यथा विधि यथा न्यायं परिक्रामन्ति शास्त्रतः ॥१-१४-३॥",
+      "transliteration": "karma kurvaṁti vidhivat yājakā vedapāragāḥ ।yathā vidhi yathā nyāyaṁ parikrāmanti śāstrataḥ ॥1-14-3॥",
+      "translations": {
+        "english": "The chief priests, masters of the Vedas, conducted the rituals in consonance with traditions and scriptures. They officiated in conformity with duties laid down in the Vedas and according to law.",
+        "hindi": "ST कक ८ 00 be SS १ न्यायतः = शास्त्रतः (गो०) | त्र्य १०३ द्रा हे मुनिश्रेष्ठ ! प्रसन्नतापूर्वेक् ओर विधिपूर्वक यज्ञ आरम्भ कीजिए, जिससे यज्ञ के करिसी भी कर्म में वित्न न हो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 4,
+      "sloka": "प्रवर्ग्यम् शास्त्रतः कृत्वा तथा एव उपसदम् द्विजाः ।चक्रुः च विधिवत् सर्वम् अधिकम् कर्म शास्त्रतः ॥१-१४-४॥",
+      "transliteration": "pravargyam śāstrataḥ kṛtvā tathā eva upasadam dvijāḥ ।cakruḥ ca vidhivat sarvam adhikam karma śāstrataḥ ॥1-14-4॥",
+      "translations": {
+        "english": "Brahmins performed pravargya and upasada and other ceremonies as per the scriptures and traditions.",
+        "hindi": "क्योंकि आपका मेरे ऊपर अविच्छिन्न स्नेह है और आप मेरे केवल हितैषी ही नहीं, प्रत्युत मेरे सबसे बड़े शुरु भी हैं। इस उपस्थित यज्ञ का जो बड़ा भारी बोझ है, उसे आप सँभालिए; अर्थात्‌ इस महान्‌ यज्ञ का सारा भार आपके ही ` ऊपर है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 5,
+      "sloka": "अभिपूज्य तदा हृष्टाः सर्वे चक्रुः यथा विधि ।प्रातः सवन पूर्वाणि कर्माणि मुनिपुंगवाः ॥१-१४-५॥",
+      "transliteration": "abhipūjya tadā hṛṣṭāḥ sarve cakruḥ yathā vidhi ।prātaḥ savana pūrvāṇi karmāṇi munipuṁgavāḥ ॥1-14-5॥",
+      "translations": {
+        "english": "Thereafter the eminent ascetics, rejoicing in their hearts performed the worship (of celestial beings) and conducted the prescribed rituals starting with morning ablutions etc.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 6,
+      "sloka": "ऐन्द्रश्च विधिवत् दत्तो राजा च अभिषुतोऽनघः ।मध्यंदिनम् च सवनम् प्रावर्तत यथा क्रमम् ॥१-१४-६॥",
+      "transliteration": "aindraśca vidhivat datto rājā ca abhiṣuto'naghaḥ ।madhyaṁdinam ca savanam prāvartata yathā kramam ॥1-14-6॥",
+      "translations": {
+        "english": "Havis was duly offered to Indra daily. The juice was extracted in the morning by pressing the soma plant. Midday ablutions were performed. All in proper sequence.",
+        "hindi": "तदुपरान्त वसिष्ठ जी ने वृद्ध और यज्ञकार्यं में कुशल ब्राह्मणों को, परम धार्मिक और वद्ध स्थापत्य विद्या ( भवन-निमाण-कला ) में कुशल कारीगरों को, शिल्पियों को, अथवा लेखकों को, नटों और नाचने वालियों को बहुत जानने वाले और सच्चे ( इमानदार ) शास्रवेत्ता ब्राह्मणों को बुलाकर कहा कि, आप लोगों के लिए महाराज की आज्ञा है कि, यज्ञकार्य में मनोयोगपूर्वक आप लग जायें",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 7,
+      "sloka": "तृतीय सवनम् चैव राज्ञोऽस्य सुमहात्मनः ।चक्रुः ते शाश्त्रतो दृष्ट्वा तथा ब्राह्मण पुंगवाः ॥१-१४-७॥",
+      "transliteration": "tṛtīya savanam caiva rājño'sya sumahātmanaḥ ।cakruḥ te śāśtrato dṛṣṭvā tathā brāhmaṇa puṁgavāḥ ॥1-14-7॥",
+      "translations": {
+        "english": "Those exceedingly noble and eminent brahmins performed third pressing of the soma, in conformity with the sastras.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 8,
+      "sloka": "आह्वान् चक्रिरे तत्र शक्रादीन् विबुधोत्तमान् ।ऋष्यशृङ्गाअदौ मन्त्रैः शिक्षाक्षर समन्वितौ ॥१-१४-८॥",
+      "transliteration": "āhvān cakrire tatra śakrādīn vibudhottamān ।ṛṣyaśṛṅgāadau mantraiḥ śikṣākṣara samanvitau ॥1-14-8॥",
+      "translations": {
+        "english": "There were no omissions in the offerings nor any lappes in the performance. Everything was done through recitation of mantras and in a wholesome way.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 9,
+      "sloka": "गीतिभिः मधुरैः स्निग्धैः मन्त्र आह्वानैः यथार्हतः ।होतारो ददुरावाह्य हविर्भागान् दिवौकसाम् ॥१-१४-९॥",
+      "transliteration": "gītibhiḥ madhuraiḥ snigdhaiḥ mantra āhvānaiḥ yathārhataḥ ।hotāro dadurāvāhya havirbhāgān divaukasām ॥1-14-9॥",
+      "translations": {
+        "english": "During the days (of sacrifice) none felt tired or hungry. There was no brahmin who was not learned or had less than a hundred followers (or disciples).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 10,
+      "sloka": "न च अहुतं आभूत् तत्र स्खलितम् वा न किंचन ।दृश्यते ब्रह्मवत् सर्वम् क्षेमयुक्तम् हि चक्रिरे ॥१-१४-१०॥",
+      "transliteration": "na ca ahutaṁ ābhūt tatra skhalitam vā na kiṁcana ।dṛśyate brahmavat sarvam kṣemayuktam hi cakrire ॥1-14-10॥",
+      "translations": {
+        "english": "During that period brahmanas as well as those who have masters, (the sudras), ascetics and monks had enough to eat.",
+        "hindi": "इसी प्रकार सैकड़ों सुन्दर मकान अच्छी-अच्छी जगहों पर ब्राह्मणों के ठहरने के लिए बनाओ, जिनमें भोजनादि की सब आवश्यक सामग्री रहे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 11,
+      "sloka": "न तेषु अहस्सु श्रान्तो वा क्षुधितो वा न दृश्यते ।न अविद्वान् ब्राह्मणः कश्चिन् न अशत अनुचरः तथा ॥१-१४-११॥",
+      "transliteration": "na teṣu ahassu śrānto vā kṣudhito vā na dṛśyate ।na avidvān brāhmaṇaḥ kaścin na aśata anucaraḥ tathā ॥1-14-11॥",
+      "translations": {
+        "english": "The aged, the sick, women and also children ate there and knew no limit to their enjoyment.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 12,
+      "sloka": "ब्राह्मणा भुंजते नित्यम् नाथवन्तः च भुंजते ।तापसा भुंजते च अपि श्रमणाः चैव भुंजते ॥१-१४-१२॥",
+      "transliteration": "brāhmaṇā bhuṁjate nityam nāthavantaḥ ca bhuṁjate ।tāpasā bhuṁjate ca api śramaṇāḥ caiva bhuṁjate ॥1-14-12॥",
+      "translations": {
+        "english": "\"Give food, give, various kinds of clothes\" echoed the organisers. And they (in charge of distribution) did.",
+        "hindi": "॥ जाय । उसे सत्कारपूर्वक दी जाय, देते समय किसी का भी अनादरः न किया जाय",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 13,
+      "sloka": "वृद्धाः च व्याधिताः च एव स्त्री बालाः तथा एव च ।अनिशं भुंजमानानां न तृप्तिः उपलभ्यते ॥१-१४-१३॥",
+      "transliteration": "vṛddhāḥ ca vyādhitāḥ ca eva strī bālāḥ tathā eva ca ।aniśaṁ bhuṁjamānānāṁ na tṛptiḥ upalabhyate ॥1-14-13॥",
+      "translations": {
+        "english": "There, could be seen day after day heaps of nicely cooked food, looking like mountains.",
+        "hindi": "ऐसा प्रबन्ध हो कि, किसी वर्णे का भी मनुष्य, जो यज्ञ में आवे, उसके वणे के अनुरूप उसका यथोचित सत्कार किया जाय । स्नेह अथवा द्वेष वश, (खबरदार!) किसी का भी अनादर न किया जाय",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 14,
+      "sloka": "दीयताम् दीयताम् अन्नम् वासांसि विविधानि च ।इति संचोदिताः तत्र तथा चक्रुः अनेकशः ॥१-१४-१४॥",
+      "transliteration": "dīyatām dīyatām annam vāsāṁsi vividhāni ca ।iti saṁcoditāḥ tatra tathā cakruḥ anekaśaḥ ॥1-14-14॥",
+      "translations": {
+        "english": "Men and women who had come from various countries to that sacrifice were entertained with food and drink by the magnanimous (king).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 15,
+      "sloka": "अन्न कूटाः च दृश्यन्ते बहवः पर्वत उपमाः ।दिवसे दिवसे तत्र सिद्धस्य विधिवत् तदा ॥१-१४-१५॥",
+      "transliteration": "anna kūṭāḥ ca dṛśyante bahavaḥ parvata upamāḥ ।divase divase tatra siddhasya vidhivat tadā ॥1-14-15॥",
+      "translations": {
+        "english": "Brahmins having tasted the delicious food cooked in prescribed manner, praised saying \"Ah We are fully satisfied. Prosperity to you\". Such were the words heard by king Dasaratha.",
+        "hindi": "देहातियों के लिए भी सब सुविधाओं के मकान बनें । एक बात का ध्यान रखना कि, जिसको अन्नादि भोजन-सामम्री दी णकर दककळेणा- टशाप्यणा पाहु» „\" (40. ७ फु 7 ता हु COI Y PP घे सब वसिष्ठ जी के समीप जा उनसे बोले",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 16,
+      "sloka": "नाना देशात् अनुप्राप्ताः पुरुषाः स्त्री गणाः तथा ।अन्न पानैः सुविहिताः तस्मिन् यज्ञे महात्मनः ॥१-१४-१६॥",
+      "transliteration": "nānā deśāt anuprāptāḥ puruṣāḥ strī gaṇāḥ tathā ।anna pānaiḥ suvihitāḥ tasmin yajñe mahātmanaḥ ॥1-14-16॥",
+      "translations": {
+        "english": "While brahmins were being served with food by welldressed men, some others wearing pendents studded with shining jewels assisted them.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 17,
+      "sloka": "अन्नम् हि विधिवत् स्वादु प्रशन्सन्ति द्विजर्षभाः ।अहो तृप्ताः स्म भद्रम् ते इति शुश्राव राघवः ॥१-१४-१७॥",
+      "transliteration": "annam hi vidhivat svādu praśansanti dvijarṣabhāḥ ।aho tṛptāḥ sma bhadram te iti śuśrāva rāghavaḥ ॥1-14-17॥",
+      "translations": {
+        "english": "In the interval between ceremonies, eloquent and sagacious brahmins were engaged in various disputations, desirous of victory.",
+        "hindi": "आपने जैसी आज्ञा दी है, तदनुसार ही हम सब करेंगे, किसी काम में त्रुटि न होने देंगे तब वसिष्ठ जी ने सुमन्त्र को बुलवाया ओर उनसे बोले",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 18,
+      "sloka": "स्वलंकृताः च पुरुषा ब्राह्मणान् पर्यवेषयन् ।उपासन्ते च तान् अन्ये सुमृष्ट मणि कुण्डलाः ॥१-१४-१८॥",
+      "transliteration": "svalaṁkṛtāḥ ca puruṣā brāhmaṇān paryaveṣayan ।upāsante ca tān anye sumṛṣṭa maṇi kuṇḍalāḥ ॥1-14-18॥",
+      "translations": {
+        "english": "Every day in that sacrifice brahmins, skilful in rituals, persuaded (by sage Vasishta), performed all their duties as per tradition.",
+        "hindi": "इस प्रथिवीमरडल पर जो धार्मिक राजा हैं, उनके पास निमन्त्रण भेज दो। सब देशों के बहुत से ब्राह्मणों, क्षत्रियों, वैश्यों ओर शूद्रों को भी सादर बुला लाओ | सत्यपराक्रमी, शूरशिरोमणि, वेद और सब शाख्रो में निष्णात महाभाग मिथिलाधिपति को “स्वयं जाकर आद्र सहित लिवा लाओ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 19,
+      "sloka": "कर्मान्तरे तदा विप्रा हेतुवादान् बहूनपि ।प्राहुः सुवाग्मिनो धीराः परस्पर जिगीषया ॥१-१४-१९॥",
+      "transliteration": "karmāntare tadā viprā hetuvādān bahūnapi ।prāhuḥ suvāgmino dhīrāḥ paraspara jigīṣayā ॥1-14-19॥",
+      "translations": {
+        "english": "Here (in this sacrificial pavillion), there was none who was not versed in six Vedangas, not true to vows, not learned in many sastras nor adept in discussions (on sastras).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 20,
+      "sloka": "दिवसे दिवसे तत्र संस्तरे कुशला द्विजाः ।सर्व कर्माणि चक्रुः ते यथा शास्त्रं प्रचोदिताः ॥१-१४-२०॥",
+      "transliteration": "divase divase tatra saṁstare kuśalā dvijāḥ ।sarva karmāṇi cakruḥ te yathā śāstraṁ pracoditāḥ ॥1-14-20॥",
+      "translations": {
+        "english": "When the time came to erect sacrificial posts, six posts, each made of bilva, khadira, parni, sleshmataka and two of devadaru wood, with a distance of two outstretched hands between them were erected.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 21,
+      "sloka": "न अषडङ्ग वित् अत्र आसीत् न अव्रतो न अबहुश्रुतः ।सदस्यः तस्य वै राज्ञो न अवाद कुशला द्विजाः ॥१-१४-२१॥",
+      "transliteration": "na aṣaḍaṅga vit atra āsīt na avrato na abahuśrutaḥ ।sadasyaḥ tasya vai rājño na avāda kuśalā dvijāḥ ॥1-14-21॥",
+      "translations": {
+        "english": "When the time came to erect sacrificial posts, six posts each made of bilva and khadira wood and many made of parni wood along, one of sleshmataka and two of devadaru wood, with a distance of two outstretched hands between them were erected.",
+        "hindi": "टिप्पणी -यज्ञ एक धर्मकायं है, अतः इसमें जो राजा सम्मिलित होने को आवें, वे धार्मिक विचार वाले हों। ऐसे कृत्यो में अधर्मियों की उपस्थिति विप्नकारक मानी गई है । ] पूवसबान्धनं ज्ञात्वा ततः पूर्व ब्रवीमि ते । तथा काशीपतिं स्निग्धं सततं प्रियवादिनम्‌",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 22,
+      "sloka": "प्राप्ते यूपः उच्छ्रये तस्मिन् षड् बैल्वाः खादिराः तथा ।तावन्तो बिल्व सहिताः पर्णिनः च तथा अपरे ॥१-१४-२२॥",
+      "transliteration": "prāpte yūpaḥ ucchraye tasmin ṣaḍ bailvāḥ khādirāḥ tathā ।tāvanto bilva sahitāḥ parṇinaḥ ca tathā apare ॥1-14-22॥",
+      "translations": {
+        "english": "All these posts were prepared by knowers of sastras and by those wellversed in the performance of sacrifices. They were decorated with gold to add elegance to the sacrifice.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 23,
+      "sloka": "श्लेष्मातकमयः दिष्टो देवदारुमयः तथा ।द्वावेव तत्र विहितौ बाहु व्यस्त परिग्रहौ ॥१-१४-२३॥",
+      "transliteration": "śleṣmātakamayaḥ diṣṭo devadārumayaḥ tathā ।dvāveva tatra vihitau bāhu vyasta parigrahau ॥1-14-23॥",
+      "translations": {
+        "english": "These twentyone sacrificial posts, each measuring twentyone 'aratni' height, were welldecorated wrapped in a piece of cloth.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 24,
+      "sloka": "कारिताः सर्व एवैते शास्त्रज्ञैः यज्ञकोविदैः ।शोभाअर्थम् तस्य यज्ञस्य कांचन अलंकृत अभवन् ॥१-१४-२४॥",
+      "transliteration": "kāritāḥ sarva evaite śāstrajñaiḥ yajñakovidaiḥ ।śobhāartham tasya yajñasya kāṁcana alaṁkṛta abhavan ॥1-14-24॥",
+      "translations": {
+        "english": "All those posts, strong with eight sides and finely finished surfaces, wellcarved by sculptors were duly erected.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 25,
+      "sloka": "एक विंशति यूपाः ते एक विंशत् अरत्नयः ।वासोभिः एक विंशद्भिः एकैकम् समलंकृताः ॥१-१४-२५॥",
+      "transliteration": "eka viṁśati yūpāḥ te eka viṁśat aratnayaḥ ।vāsobhiḥ eka viṁśadbhiḥ ekaikam samalaṁkṛtāḥ ॥1-14-25॥",
+      "translations": {
+        "english": "Decorated with flowers and sandal paste and covered with cloths, stood the bright sacrificial posts shining like seven sages in the sky.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 26,
+      "sloka": "विन्यस्ता विधिवत् सर्वे शिल्पिभिः सुकृता दृढाः ।अष्ट आस्रयः सर्व एव श्लक्ष्ण रूप समन्विताः ॥१-१४-२६॥",
+      "transliteration": "vinyastā vidhivat sarve śilpibhiḥ sukṛtā dṛḍhāḥ ।aṣṭa āsrayaḥ sarva eva ślakṣṇa rūpa samanvitāḥ ॥1-14-26॥",
+      "translations": {
+        "english": "The sacrificial fireplace was constructed with bricks with standard measurement by brahmins who were experts in the art of measuring land with a string or single strand.",
+        "hindi": "जो कुछ यज्ञ सम्बन्धी काम करते बह सब कह दिया करते थे । तब प्रसन्न हो वसिष्ठ जी उन सब से कहते",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 27,
+      "sloka": "आच्छादिताः ते वासोभिः पुष्पैः गन्धैः च पूजिताः ।सप्त ऋषयो दीप्तिमन्तो विराजन्ते यथा दिवि ॥१-१४-२७॥",
+      "transliteration": "ācchāditāḥ te vāsobhiḥ puṣpaiḥ gandhaiḥ ca pūjitāḥ ।sapta ṛṣayo dīptimanto virājante yathā divi ॥1-14-27॥",
+      "translations": {
+        "english": "That sacrificial altar of the lion among kings, (Dasaratha), erected by welltrained brahmins was in the shape of the golden winged 'Garuda' it had three ranges and thrice as many fireplaces i.e eighteen in number.",
+        "hindi": "देश-देश के राजाओं को बुलाने के लिए दूत भेजे ओर स्त्रयं भी वसिष्ठ जी की आज्ञा के अनसार, राजाओं को लाने के लिए | रवाना हुए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 28,
+      "sloka": "इष्टकाः च यथा न्यायम् कारिताः च प्रमाणतः ।चितोऽग्निः ब्राह्मणैः तत्र कुशलैः शिप्लकर्मणि ॥१-१४-२८॥",
+      "transliteration": "iṣṭakāḥ ca yathā nyāyam kāritāḥ ca pramāṇataḥ ।cito'gniḥ brāhmaṇaiḥ tatra kuśalaiḥ śiplakarmaṇi ॥1-14-28॥",
+      "translations": {
+        "english": "Animals, serpents and birds were kept ready after the sastras intended (for sacrifice) for those respective deities.",
+        "hindi": "सुमंत्र वसिष्ठ जी के बतलाए विशिष्ट राजाओं को बुलाने के लिए शीघता से रवाना हो गए । यज्ञ कार्य में लगे हुए मनष्य बुद्धिमान्‌ महर्षि वसिष्ठ जी से",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 29,
+      "sloka": "सचित्यो राज सिंहस्य संचितः कुशलैः द्विजैः ।गरुडो रुक्मपक्षो वै त्रिगुणो अष्टा दशात्मकः ॥१-१४-२९॥",
+      "transliteration": "sacityo rāja siṁhasya saṁcitaḥ kuśalaiḥ dvijaiḥ ।garuḍo rukmapakṣo vai triguṇo aṣṭā daśātmakaḥ ॥1-14-29॥",
+      "translations": {
+        "english": "When the time came to sacrifice the animals, the chief priests, in accordance with tradition, tied up the horse and all the aquatic animals to the sacrificial posts.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 30,
+      "sloka": "नियुक्ताः तत्र पशवः तत् तत् उद्दिश्य दैवतम् ।उरगाः पक्षिणः च एव यथा शास्त्रम् प्रचोदिताः ॥१-१४-३०॥",
+      "transliteration": "niyuktāḥ tatra paśavaḥ tat tat uddiśya daivatam ।uragāḥ pakṣiṇaḥ ca eva yathā śāstram pracoditāḥ ॥1-14-30॥",
+      "translations": {
+        "english": "Three hundred animals and the jewel of the horses (from the stables) belonging to king Dasaratha were bound to the sacrificial posts.",
+        "hindi": "देखना, किसी को हँसी दिल्लगी में भी कोई वस्तु अनादर, करके सत देना; क्योंकि अनादर करके देने वाले दाता का निश्चय ही नाश होता है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 31,
+      "sloka": "शामित्रे तु हयः तत्र तथा जलचराः च ये ।ऋषिभिः सर्वम् एवै तन् नियुक्तम् शास्त्रतः तदा ॥१-१४-३१॥",
+      "transliteration": "śāmitre tu hayaḥ tatra tathā jalacarāḥ ca ye ।ṛṣibhiḥ sarvam evai tan niyuktam śāstrataḥ tadā ॥1-14-31॥",
+      "translations": {
+        "english": "Kausalya, with immense glee having gone round and worshipped that horse, severed it with three strokes of scimitar.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 32,
+      "sloka": "पशूनाम् त्रिशतम् तत्र यूपेषु नियतम् तदा ।अश्व रत्नः उत्तमम् तस्य राज्ञो दशरथस्य ह ॥१-१४-३२॥",
+      "transliteration": "paśūnām triśatam tatra yūpeṣu niyatam tadā ।aśva ratnaḥ uttamam tasya rājño daśarathasya ha ॥1-14-32॥",
+      "translations": {
+        "english": "Kausalya, in her devotion to duty and with a happy state of mind, passed one night near that horse.",
+        "hindi": "तब वसिष्ठ जी राजाओं को आए हुए देख, प्रसन्न हो, महा- राज दशरथ से बोले--आपके आदेशानुसार सब राजा लोग आए गए है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 33,
+      "sloka": "कौसल्या तम् हयम् तत्र परिचर्य समंततः ।कृपाणैः विशशासः एनम् त्रिभिः परमया मुदा ॥१-१४-३३॥",
+      "transliteration": "kausalyā tam hayam tatra paricarya samaṁtataḥ ।kṛpāṇaiḥ viśaśāsaḥ enam tribhiḥ paramayā mudā ॥1-14-33॥",
+      "translations": {
+        "english": "Hota, Adhvaryu and Udgata arranged Mahishi, Parivritti, Vavaata and another woman known as Palakali to touch (keep the company of) the sacrificial horse.",
+        "hindi": "हे महाराज ! मैंने भी उनका यथोचित सत्कार कर दिया अर यज्ञ की भी सब तैयारियाँ हो।चुकी हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 34,
+      "sloka": "पतत्रिणा तदा सार्धम् सुस्थितेन च चेतसा ।अवसत् रजनीम् एकाम् कौसल्या धर्म काम्यया ॥१-१४-३४॥",
+      "transliteration": "patatriṇā tadā sārdham susthitena ca cetasā ।avasat rajanīm ekām kausalyā dharma kāmyayā ॥1-14-34॥",
+      "translations": {
+        "english": "The official priest, highly knowledgeable in scriptures and having restrained senses, removed the marrow from the horse and cooked it according to tradition.",
+        "hindi": "अब आप भी यज्ञ करने के लिए यज्ञशाला में पधारिए और यज्ञ की सब सामग्री को देखिए कि, सेवकों ने कैसी उत्तमता और -ल्ावधानता से सब सामान सजा कर रखा है । तब वसिष्ठ जी ओर ऋष्यश्ड़ दोनों के कहने से",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 35,
+      "sloka": "होता अध्वर्युः तथ उद्गाता हस्तेन समयोजयन् ।महिष्या परिवृत्त्या अथ वावाताम् अपराम् तथा ॥१-१४-३५॥",
+      "transliteration": "hotā adhvaryuḥ tatha udgātā hastena samayojayan ।mahiṣyā parivṛttyā atha vāvātām aparām tathā ॥1-14-35॥",
+      "translations": {
+        "english": "The king at appropriate time and in agreement with the scriptures inhaled the odour of the smoke (from the burnt marrow) and absolved himself of his sins.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 36,
+      "sloka": "पतत्रिणः तस्य वपाम् उद्धृत्य नियतेइन्द्रियः ।ऋत्विक् परम संपन्नः श्रपयामास शास्त्रतः ॥१-१४-३६॥",
+      "transliteration": "patatriṇaḥ tasya vapām uddhṛtya niyateindriyaḥ ।ṛtvik parama saṁpannaḥ śrapayāmāsa śāstrataḥ ॥1-14-36॥",
+      "translations": {
+        "english": "The sixteen officiating priests (brahmins) offered all the horse's limbs with prayers as per the customs.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 37,
+      "sloka": "धूम गन्धम् वपायाः तु जिघ्रति स्म नराधिपः ।यथा कालम् यथा न्यायम् निर्णुदन् पापम् आत्मनः ॥१-१४-३७॥",
+      "transliteration": "dhūma gandham vapāyāḥ tu jighrati sma narādhipaḥ ।yathā kālam yathā nyāyam nirṇudan pāpam ātmanaḥ ॥1-14-37॥",
+      "translations": {
+        "english": "In other sacrifices oblations are offered with branches of a plaksha tree but in Aswamedha a branch of cane creeper is chosen instead.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 38,
+      "sloka": "हयस्य यानि च अंगानि तानि सर्वाणि ब्राह्मणाः ।अग्नौ प्रास्यन्ति विधिवत् समस्ताः षोडश ऋत्विजः ॥१-१४-३८॥",
+      "transliteration": "hayasya yāni ca aṁgāni tāni sarvāṇi brāhmaṇāḥ ।agnau prāsyanti vidhivat samastāḥ ṣoḍaśa ṛtvijaḥ ॥1-14-38॥",
+      "translations": {
+        "english": "According to Kalpa sutra, aswamedha in conducted for three days. In the first day, chatushtoma is arranged.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 39,
+      "sloka": "प्लक्ष शाखासु यज्ञानाम् अन्येषाम् क्रियते हविः ।अश्व मेधस्य यज्ञस्य वैतसो भागः इष्यते ॥१-१४-३९॥",
+      "transliteration": "plakṣa śākhāsu yajñānām anyeṣām kriyate haviḥ ।aśva medhasya yajñasya vaitaso bhāgaḥ iṣyate ॥1-14-39॥",
+      "translations": {
+        "english": "On the second day Ukthya and on the third day Atiraatra were performed. Many sacrifices fixed according to the scriptures were also performed.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 40,
+      "sloka": "त्र्यहोऽश्व मेधः संख्यातः कल्प सूत्रेण ब्राह्मणैः ।चतुष्टोमम् अहः तस्य प्रथमम् परिकल्पितम् ॥१-१४-४०॥",
+      "transliteration": "tryaho'śva medhaḥ saṁkhyātaḥ kalpa sūtreṇa brāhmaṇaiḥ ।catuṣṭomam ahaḥ tasya prathamam parikalpitam ॥1-14-40॥",
+      "translations": {
+        "english": "Jyotishtoma and Ayuryaga in Atiratra, Abhijit, Viswajit and Aptoryama ceremonies constituting the great sacrifice were performed in the prescribed manner.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 41,
+      "sloka": "उक्थ्यम् द्वितीयम् संख्यातम् अतिरात्रम् तथोत्तरम् ।कारिताः तत्र बहवो विहिताः शास्त्र दर्शनात् ॥१-१४-४१॥",
+      "transliteration": "ukthyam dvitīyam saṁkhyātam atirātram tathottaram ।kāritāḥ tatra bahavo vihitāḥ śāstra darśanāt ॥1-14-41॥",
+      "translations": {
+        "english": "In order to promote his dynasty, king Dasaratha gave away eastern region to Hotar, western region to Adhvaryu, southern region to Brahma and northern region to Udgata. These offerings were made in accordance with theprescriptions by Brahma long all.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 42,
+      "sloka": "ज्योतिष्टोम आयुषी च एवम् अतिरात्रौ विनिर्मितौ ।अभिजित् विश्वजित् च एवम् अप्तोर्यामो महाक्रतुः ॥१-१४-४२॥",
+      "transliteration": "jyotiṣṭoma āyuṣī ca evam atirātrau vinirmitau ।abhijit viśvajit ca evam aptoryāmo mahākratuḥ ॥1-14-42॥",
+      "translations": {
+        "english": "In order to promote his dynasty, king Dasaratha gave away eastern region to Hotar, western region to Adhvaryu, southern region to Brahma and northern region to Udgata. These offerings were made in accordance with theprescriptions by Brahma long all.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 43,
+      "sloka": "प्राचीम् होत्रे ददौ राजा दिशम् स्वकुल वर्धनःअध्वर्यवे प्रतीचीम् तु ब्रह्मणे दक्षिणाम् दिशम् ॥१-१४-४३॥",
+      "transliteration": "prācīm hotre dadau rājā diśam svakula vardhanaḥadhvaryave pratīcīm tu brahmaṇe dakṣiṇām diśam ॥1-14-43॥",
+      "translations": {
+        "english": "The king best among men and upholder of his dynasty, having concluded the sacrifice according to law, offered this entire earth as gift to priests.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 44,
+      "sloka": "उद्गात्रे च तथा उदीचीम् दक्षिणैएषा विनिर्मिता ।अश्वमेधे महायज्ञे स्वयंभु विहिते पुरा ॥१-१४-४४॥",
+      "transliteration": "udgātre ca tathā udīcīm dakṣiṇaieṣā vinirmitā ।aśvamedhe mahāyajñe svayaṁbhu vihite purā ॥1-14-44॥",
+      "translations": {
+        "english": "But all the priests said to the king purged of his sins, \"O Lord of men you alone are capable of protecting this earth\".",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 45,
+      "sloka": "क्रतुं समाप्य तु तदा न्यायतः पुरुषर्षभः ।ऋत्विग्भ्यो हि ददौ राजा धराम् ताम् कुलवर्धनः ॥१-१४-४५॥",
+      "transliteration": "kratuṁ samāpya tu tadā nyāyataḥ puruṣarṣabhaḥ ।ṛtvigbhyo hi dadau rājā dharām tām kulavardhanaḥ ॥1-14-45॥",
+      "translations": {
+        "english": "\"O ruler of the earth We are constantly engaged in the study of the Vedas. We are not capable of ruling the earth and we cannot do anything with its possession. Give some other charity in lieu of that.",
+        "hindi": "यह्‌ सुन द्विजपुङ्गव वसिष्ठ जी ने दशरथ जी से कहा--आपके कथनानुसार ही हम सब कार्य करेंगे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 46,
+      "sloka": "एवम् दत्त्वा प्रहृष्टो अभूत् श्रीमान् इक्ष्वाकु नन्दन ।ऋत्विजः तु अब्रुवन् सर्वे राजानम् गत किल्बिषम् ॥१-१४-४६॥",
+      "transliteration": "evam dattvā prahṛṣṭo abhūt śrīmān ikṣvāku nandana ।ṛtvijaḥ tu abruvan sarve rājānam gata kilbiṣam ॥1-14-46॥",
+      "translations": {
+        "english": "O best of men give us gems or gold or cows or whichever is readily available. We have no use with this earth\".",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 47,
+      "sloka": "भवान् एव महीम् कृत्स्नाम् एको रक्षितुम् अर्हति ।न भूम्या कार्यम् अस्माकम् न हि शक्ताः स्म पालने ॥१-१४-४७॥",
+      "transliteration": "bhavān eva mahīm kṛtsnām eko rakṣitum arhati ।na bhūmyā kāryam asmākam na hi śaktāḥ sma pālane ॥1-14-47॥",
+      "translations": {
+        "english": "Lord of men, the king having been thus addressed by brahmins who were wellversed in the Vedas, bestowed on them ten hundred thousand cows, a hundred crore of gold coins and four times as much in silver coins.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 48,
+      "sloka": "रताः स्वाध्याय करणे वयम् नित्यम् हि भूमिप ।निष्क्रयम् किंचित् एव इह प्रयच्छतु भवान् इति ॥१-१४-४८॥",
+      "transliteration": "ratāḥ svādhyāya karaṇe vayam nityam hi bhūmipa ।niṣkrayam kiṁcit eva iha prayacchatu bhavān iti ॥1-14-48॥",
+      "translations": {
+        "english": "Lord of men, the king having been thus addressed by brahmins who were wellversed in the Vedas, bestowed on them ten hundred thousand cows, a hundred crore of gold coins and four times as much in silver coins.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 49,
+      "sloka": "मणि रत्नम् सुवर्णम् वा गावो यद् वा समुद्यतम् ।तत् प्रयच्छ नरश्रेष्ट धरण्या न प्रयोजनम् ॥१-१४-४९॥",
+      "transliteration": "maṇi ratnam suvarṇam vā gāvo yad vā samudyatam ।tat prayaccha naraśreṣṭa dharaṇyā na prayojanam ॥1-14-49॥",
+      "translations": {
+        "english": "All the priests collectively offered that wealth to sage Rsyasringa and Vasishta endowed with prudence.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 50,
+      "sloka": "एवम् उक्तो नरपतिः ब्राह्मणैः वेद पारगैः ।गवाम् शत सहस्राणि दश तेभ्यो ददौ नृपः ॥१-१४-५०॥",
+      "transliteration": "evam ukto narapatiḥ brāhmaṇaiḥ veda pāragaiḥ ।gavām śata sahasrāṇi daśa tebhyo dadau nṛpaḥ ॥1-14-50॥",
+      "translations": {
+        "english": "Then those highly pleased brahmins, having distributed that wealth with equity, again said to the king.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 51,
+      "sloka": "दश कोटि सुवर्णस्य रजतस्य चतुर् गुणम् ।ऋत्विजः च ततः सर्वे प्रददुः सहिता वसु ॥१-१४-५१॥",
+      "transliteration": "daśa koṭi suvarṇasya rajatasya catur guṇam ।ṛtvijaḥ ca tataḥ sarve pradaduḥ sahitā vasu ॥1-14-51॥",
+      "translations": {
+        "english": "Thereafter, with earnestness king Dasaratha bestowed a crore of gold coins to brahmins who had come to see the sacrifice.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 52,
+      "sloka": "ऋष्यशृन्गाय मुनये वसिष्ठाय च धीमते ।ततः ते न्यायतः कृत्वा प्रविभागम् द्विजोत्तमाः ॥१-१४-५२॥",
+      "transliteration": "ṛṣyaśṛngāya munaye vasiṣṭhāya ca dhīmate ।tataḥ te nyāyataḥ kṛtvā pravibhāgam dvijottamāḥ ॥1-14-52॥",
+      "translations": {
+        "english": "Dasaratha then gave his excellent bracelet to a poor brahmin who solicited alms.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 53,
+      "sloka": "सुप्रीत मनसः सर्वे प्रत्यूचुः मुदिता भृशम् ।ततः प्रसर्पकेभ्यस्तु हिरण्यम् सुसमाहितः ॥१-१४-५३॥",
+      "transliteration": "suprīta manasaḥ sarve pratyūcuḥ muditā bhṛśam ।tataḥ prasarpakebhyastu hiraṇyam susamāhitaḥ ॥1-14-53॥",
+      "translations": {
+        "english": "When the brahmins were pleased, king Dasaratha who was fond of brahmins bowed to them with his eyes filled with delight.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 54,
+      "sloka": "जांबूनदम् कोओटि संख्यम् ब्राह्मणेभ्यो ददौ तदा ।दरिद्राय द्विजाय अथ हस्त आभरणम् उत्तमम् ॥१-१४-५४॥",
+      "transliteration": "jāṁbūnadam kooṭi saṁkhyam brāhmaṇebhyo dadau tadā ।daridrāya dvijāya atha hasta ābharaṇam uttamam ॥1-14-54॥",
+      "translations": {
+        "english": "Brahmins uttered blessings upon the generous king when he prostrated before them according to procedure.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 55,
+      "sloka": "कस्मै चित् याचमानाय ददौ राघव नंदनः ।ततः प्रीतेषु विधिवत् द्विजेषु द्विज वत्सलः ॥१-१४-५५॥",
+      "transliteration": "kasmai cit yācamānāya dadau rāghava naṁdanaḥ ।tataḥ prīteṣu vidhivat dvijeṣu dvija vatsalaḥ ॥1-14-55॥",
+      "translations": {
+        "english": "Sacrifice destroys sins. It leads to heaven. It is incapable of being done by other monarchs. King Dasaratha was very much pleased after performing this great sacrifice.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 56,
+      "sloka": "प्रणामम् अकरोत् तेषाम् हर्ष व्याकुलित इन्द्रियः ।तस्य आशिषोऽथ विविधा ब्राह्मणैः समुदाहृताः ॥१-१४-५६॥",
+      "transliteration": "praṇāmam akarot teṣām harṣa vyākulita indriyaḥ ।tasya āśiṣo'tha vividhā brāhmaṇaiḥ samudāhṛtāḥ ॥1-14-56॥",
+      "translations": {
+        "english": "King Dasaratha then addressing Rsyasringa said \"O Adherent of vows you can help the continuity of my race\".",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 57,
+      "sloka": "उदारस्य नृवीरस्य धरण्याम् पतितस्य च ।ततः प्रीत मना रजाअ प्राप्य यज्ञम् अनुत्तमम् ॥१-१४-५७॥",
+      "transliteration": "udārasya nṛvīrasya dharaṇyām patitasya ca ।tataḥ prīta manā rajāa prāpya yajñam anuttamam ॥1-14-57॥",
+      "translations": {
+        "english": "Rsyasringa, the best of brahmins, addressing the king said, \"O King Let it be. Four sons perpetuating your race will be born to you\". इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे चतुर्दशस्सर्ग:।। Thus ends the fourteenth sarga of Balakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 58,
+      "sloka": "पाप अपहम् स्वर् नयनम् दुस्तरम् पार्थिवर्षभैः ।ततोऽब्रवीत् ऋश्य्शृंगम् राजा दशरथः तदा ॥१-१४-५८॥",
+      "transliteration": "pāpa apaham svar nayanam dustaram pārthivarṣabhaiḥ ।tato'bravīt ṛśyśṛṁgam rājā daśarathaḥ tadā ॥1-14-58॥",
+      "translations": {
+        "english": "Having heard his sweet speech, that composed and great-souled lord of kings bowed to him, was filled with the utmost joy, and spoke once again to Rsyasringa.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 59,
+      "sloka": "कुलस्य वर्धनम् त्वम् तु कर्तुम् अर्हसि सुव्रत ।तथेति च स राजानम् उवाच द्विजसत्तमः ।भविष्यन्ति सुता राजन् चत्वारः ते कुलोद्वहाः ॥१-१४-५९॥",
+      "transliteration": "kulasya vardhanam tvam tu kartum arhasi suvrata ।tatheti ca sa rājānam uvāca dvijasattamaḥ ।bhaviṣyanti sutā rājan catvāraḥ te kulodvahāḥ ॥1-14-59॥",
+      "translations": {
+        "english": "",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 14,
+      "verse": 60,
+      "sloka": "स तस्य वाक्यम् मधुरम् निशम्यप्रणम्य तस्मै प्रयतो नृपेन्द्र ।जगाम हर्षम् परमम् महात्मातम् ऋष्यश्R^ङ्गम् पुनरपि उवाच ॥१-१४-६०॥",
+      "transliteration": "sa tasya vākyam madhuram niśamyapraṇamya tasmai prayato nṛpendra ।jagāma harṣam paramam mahātmātam ṛṣyaśR^ṅgam punarapi uvāca ॥1-14-60॥",
+      "translations": {
+        "english": "",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,415 @@
+{
+  "kanda": 4,
+  "kanda_name": "Kishkindha Kanda",
+  "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+  "sarga": 2,
+  "verses_count": 29,
+  "verses": [
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 2,
+      "verse": 1,
+      "sloka": "तौ तु दृष्ट्वा महात्मानौ भ्रातरौ राम लक्ष्मणौ ।वर आयुध धरौ वीरौ सुग्रीवः श्ङ्कितोऽभवत् ॥४-२-१॥",
+      "transliteration": "tau tu dṛṣṭvā mahātmānau bhrātarau rāma lakṣmaṇau ।vara āyudha dharau vīrau sugrīvaḥ śṅkito'bhavat ॥4-2-1॥",
+      "translations": {
+        "english": "On seeing the two great souls, heroic Rama and Lakshmana wielding the best of weapons, Sugriva was alarmed.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 2,
+      "verse": 2,
+      "sloka": "उद्विग्न हृदयः सर्वा दिशः समवलोकयन् ।न व्यतिष्ठत कस्मिन् चित् देशे वानर पुङ्गवः ॥४-२-२॥",
+      "transliteration": "udvigna hṛdayaḥ sarvā diśaḥ samavalokayan ।na vyatiṣṭhata kasmin cit deśe vānara puṅgavaḥ ॥4-2-2॥",
+      "translations": {
+        "english": "Agitated at heart, the best of vanaras started in all directions and could not settle down at one spot.",
+        "hindi": "उन्होंने विचारा कि, सुग्रोब को पुनः राज्य की प्राप्ति होगी। - क्योंकि सुप्रीव से इनका भी कुछ प्रयोजन जान पड़ता है और अपने काम के लिए ये स्वयं यहाँ आए हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 2,
+      "verse": 3,
+      "sloka": "नैव चक्रे मनः स्थातुम् वीक्षमाणो महाबलौ ।कपेः परम भीतस्य चित्तम् व्यवससाद ह ॥४-२-३॥",
+      "transliteration": "naiva cakre manaḥ sthātum vīkṣamāṇo mahābalau ।kapeḥ parama bhītasya cittam vyavasasāda ha ॥4-2-3॥",
+      "translations": {
+        "english": "Beholding the two strong heroes, the monkey (Sugriva) was very much frightened. His heart sank.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 2,
+      "verse": 4,
+      "sloka": "चिन्तयित्वा स धर्मात्मा विमृश्य गुरु लाघवम् ।सुग्रीवः परम उद्विग्नः सर्वैः तैः वानरैः सह ॥४-२-४॥",
+      "transliteration": "cintayitvā sa dharmātmā vimṛśya guru lāghavam ।sugrīvaḥ parama udvignaḥ sarvaiḥ taiḥ vānaraiḥ saha ॥4-2-4॥",
+      "translations": {
+        "english": "Righteous Sugriva, became highly agitated, deliberated with all his followers on the pros and cons of the situation.",
+        "hindi": "हे राम ! पम्पासरावर के तीरवर्ती वन से सुशोभित तथा भाँति भांति के अजगरों और बाघों चीतों से भरे हुए बन में आप भाइ के सहित किस लिए आए हें",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 2,
+      "verse": 5,
+      "sloka": "ततः स सचिवेभ्यः तु सुग्रीवः प्लवगाधिपः ।शशंस परम उद्विग्नः पश्यन् तौ राम लक्ष्मणौ ॥४-२-५॥",
+      "transliteration": "tataḥ sa sacivebhyaḥ tu sugrīvaḥ plavagādhipaḥ ।śaśaṁsa parama udvignaḥ paśyan tau rāma lakṣmaṇau ॥4-2-5॥",
+      "translations": {
+        "english": "Sugriva, lord of monkeys, extremely agitated at the sight of both Rama and Lakshmana, spoke to his minister:",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 2,
+      "verse": 6,
+      "sloka": "एतौ वनम् इदम् दुर्गम् वालि प्रणिहितौ ध्रुवम् ।छद्मना चीर वसनौ प्रचरन्तौ इह आगतौ ॥४-२-६॥",
+      "transliteration": "etau vanam idam durgam vāli praṇihitau dhruvam ।chadmanā cīra vasanau pracarantau iha āgatau ॥4-2-6॥",
+      "translations": {
+        "english": "Surely these two, clad in bark garments and wandering here in disguise into this difficult forest, have come sent by Vali.",
+        "hindi": "ये सब प्राणियों के रक्षक, पिठआज्ञा का पालन करने वाले, आर दशरथ के सुपुत्रों में अत्यन्त गुणवान हँ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 2,
+      "verse": 7,
+      "sloka": "ततः सुग्रीव सचिवा दृष्ट्वा परम धन्विनौ ।जग्मुः गिरि तटात् तस्माद् अन्यत् शिखरम् उत्तमम् ॥४-२-७॥",
+      "transliteration": "tataḥ sugrīva sacivā dṛṣṭvā parama dhanvinau ।jagmuḥ giri taṭāt tasmād anyat śikharam uttamam ॥4-2-7॥",
+      "translations": {
+        "english": "On seeing these supreme bowmen, Sugriva's counsellers left for the peak of another mountain.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 2,
+      "verse": 8,
+      "sloka": "ते क्षिप्रम् अभिगम्य अथ यूथपा यूथपर्षभम् ।हरयो वानर श्रेष्ठम् परिवार्य उपतस्थिरे ॥४-२-८॥",
+      "transliteration": "te kṣipram abhigamya atha yūthapā yūthaparṣabham ।harayo vānara śreṣṭham parivārya upatasthire ॥4-2-8॥",
+      "translations": {
+        "english": "The leaders of the monkey troops reached Sugriva, the lord of monkeys, in no time and stood surrounding him.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 2,
+      "verse": 9,
+      "sloka": "एवम् एक आयन गताः प्लवमाना गिरेः गिरिम् ।प्रकंपयन्तो वेगेन गिरीणाम् शिखराणि च ॥४-२-९॥",
+      "transliteration": "evam eka āyana gatāḥ plavamānā gireḥ girim ।prakaṁpayanto vegena girīṇām śikharāṇi ca ॥4-2-9॥",
+      "translations": {
+        "english": "Jumping from one mountain to another swiftly and shaking the mountain tops, the monkeys reached one spot.",
+        "hindi": "हे हनुमन्‌ ! दशरथ नाम के महाराज जो तेजस्वी, धर्मवत्सल धर्मपूवक सदा चारों वर्णा का प्रजा को पालन करने वाले, शत्र- ऽ किष्क्रिन्धाकाण्डे रहित, ट्रेषशून्य और प्राणिमात्र का दूसरे पितामह ब्रह्मा को तरह पालन करने बाले और जो दक्षिणायुक्त अम्निष्टोमादि बहुत से यज्ञ करने बाले थे, उनके ये प्रथम पुत्र श्रारामचन्द्र के नाम से लोगों में प्रसिद्ध हैँ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 2,
+      "verse": 10,
+      "sloka": "ततः शाखा मृगाः सर्वे प्लवमाना महाबलाः ।बभंजुः च नगान् तत्र पुष्पितान् दुर्गम् आश्रितान् ॥४-२-१०॥",
+      "transliteration": "tataḥ śākhā mṛgāḥ sarve plavamānā mahābalāḥ ।babhaṁjuḥ ca nagān tatra puṣpitān durgam āśritān ॥4-2-10॥",
+      "translations": {
+        "english": "Then the mighty monkeys jumping on the trees in full bloom shook them.",
+        "hindi": "इनमें समस्त राजाओं के लक्षण विद्यमान हें ओर यावत्‌ राज्य सम्पत्ति वाले हैं । किन्तु राज्यश्रष्ट हो कर मेरे साथ बन में रहने के लिए इस वन में आए हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 2,
+      "verse": 11,
+      "sloka": "आप्लवन्तो हरिवराः सर्वतः तम् महागिरिम् ।मृग मार्जार शार्दूलान् त्रासयन्तो ययुः तदा ॥४-२-११॥",
+      "transliteration": "āplavanto harivarāḥ sarvataḥ tam mahāgirim ।mṛga mārjāra śārdūlān trāsayanto yayuḥ tadā ॥4-2-11॥",
+      "translations": {
+        "english": "The great monkeys went on leaping all over the great (Rishyamuka) mountain, scaring the deer, wildcats and tigers.",
+        "hindi": "जिस प्रकार सूर्य अपनी प्रभा के सहित अस्ताचलगामी होते हे, उसी प्रकार यह. भो अपनी प्यारी पत्ना सीता के साथ यहां आए हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 2,
+      "verse": 12,
+      "sloka": "ततः सुग्रीव सचिवाः पर्वतेन्द्रे समाहिताः ।संगम्य कपि मुख्येन सर्वे प्रांजलयः स्थिताः ॥४-२-१२॥",
+      "transliteration": "tataḥ sugrīva sacivāḥ parvatendre samāhitāḥ ।saṁgamya kapi mukhyena sarve prāṁjalayaḥ sthitāḥ ॥4-2-12॥",
+      "translations": {
+        "english": "Thereafter, all the ministers of Sugriva assembled together on the king of mountains and stood (in front of Sugriva), with folded hands.",
+        "hindi": "मैं इनका छोटा भाई हूँ । ये कृतज्ञ और बहुज्ञ हैं। में इनके ` अतां पर मोदित हो, इनकी सेवा किआ करता हुँ । मेरा नास ` लक्ष्मण है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 2,
+      "verse": 13,
+      "sloka": "ततः तु भय संत्रस्तम् वालि किल्बिष शन्कितम् ।उवाच हनुमान् वाक्यम् सुग्रीवम् वाक्य कोविदः ॥४-२-१३॥",
+      "transliteration": "tataḥ tu bhaya saṁtrastam vāli kilbiṣa śankitam ।uvāca hanumān vākyam sugrīvam vākya kovidaḥ ॥4-2-13॥",
+      "translations": {
+        "english": "Suspecting that Vali might have sent them (Rama and Lakshmana), Hanuman, skilful in communication, said to Sugriva who was trembling in fear:",
+        "hindi": "यह सुख भोगने आर ऐरबर्य सम्पन्न होने योग्य हैं तथा प्राणिमात्र के हितैषी हें । किन्तु इस समय ऐश्बर्य से बिहीन हो वनवास कर रहे हें",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 2,
+      "verse": 14,
+      "sloka": "संभ्रमः त्यजताम् एष सर्वैः वालि कृते महान् ।मलयोऽयम् गिरिवरो भयम् न इह अस्ति वालिनः ॥४-२-१४॥",
+      "transliteration": "saṁbhramaḥ tyajatām eṣa sarvaiḥ vāli kṛte mahān ।malayo'yam girivaro bhayam na iha asti vālinaḥ ॥4-2-14॥",
+      "translations": {
+        "english": "'This is a great mountain range of Malaya and there is no fear for Vali here. Give up this fear.",
+        "hindi": "हम लोगों की अनुपस्थिति में इनकी पत्नी को कामरूपी राक्षस हर ले गया है। जिस राक्षस ने उन्हें हरा हे, उसको हमने अभी तक नहाँ जान पाया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 2,
+      "verse": 15,
+      "sloka": "यस्मात् उद्विग्न चेताः त्वम् विद्रुतो हरिपुंगव ।तम् क्रूर दर्शनम् क्रूरम् न इह पश्यामि वालिनम् ॥४-२-१५॥",
+      "transliteration": "yasmāt udvigna cetāḥ tvam vidruto haripuṁgava ।tam krūra darśanam krūram na iha paśyāmi vālinam ॥4-2-15॥",
+      "translations": {
+        "english": "'O chief of monkeys I do not see here any sign of the cruel Vali, of whom you are afraid.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 2,
+      "verse": 16,
+      "sloka": "यस्मात् तव भयम् सौम्य पूर्वजात् पाप कर्मणः ।स न इह वाली दुष्टात्मा न ते पश्यामि अहम् भयम् ॥४-२-१६॥",
+      "transliteration": "yasmāt tava bhayam saumya pūrvajāt pāpa karmaṇaḥ ।sa na iha vālī duṣṭātmā na te paśyāmi aham bhayam ॥4-2-16॥",
+      "translations": {
+        "english": "'O goodnatured Sugriva you are afraid of your elder brother Vali as he is evilminded and sinful. (But) I do not see any reason for you to be frightened as he is not found anywhere here.",
+        "hindi": "उसने हमसे कहा था कि, महाबलचान सुग्रीब तुम्हारी स्त्री के चुराने चाले को जानता हे ओर वह बतला. देगा। यह झट्ट १ महाहस्य--ऐशवयसम्पन्नत्य | ( ग।० ) बा० रा? क०- 5४ 005 किष्किन्धाकाण्डे कर बह दनु दिव्य रूप धारण कर सुखपूवक स्वगं का चला गया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 2,
+      "verse": 17,
+      "sloka": "अहो शाखा मृगत्वम् ते व्यक्तम् एव प्लवंगम ।लघु चित्ततया आत्मानम् न स्थापयसि यो मतौ ॥४-२-१७॥",
+      "transliteration": "aho śākhā mṛgatvam te vyaktam eva plavaṁgama ।laghu cittatayā ātmānam na sthāpayasi yo matau ॥4-2-17॥",
+      "translations": {
+        "english": "'Oh monkey, whoever is lilylivered cannot be steady. It is evident that your very nature as a monkey makes you restless.",
+        "hindi": "हे हनुमन्‌ ! तुम्हारे पूछने पर जो कुछ सच्चा सच्चा हाल था वो मैने तुमको सुनाया । मैं और श्रीरामचन्द्र सुग्रीव के शरण में आए हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 2,
+      "verse": 18,
+      "sloka": "बुद्धि विज्ञान संपन्न इङ्गितैः सर्वम् आचर ।न हि अबुद्धिम् गतो राजा सर्व भूतानि शास्ति हि ॥४-२-१८॥",
+      "transliteration": "buddhi vijñāna saṁpanna iṅgitaiḥ sarvam ācara ।na hi abuddhim gato rājā sarva bhūtāni śāsti hi ॥4-2-18॥",
+      "translations": {
+        "english": "You who are endowed with intelligence and discernment, act in all things by reading the signs; for a king who loses his judgement cannot govern all beings.",
+        "hindi": "देखो, ये लोकों के नाथ, श्रीरामचन्द्र जी बहुत सा द्रव्य ब्राह्मणों झो दे और बड़ा यश सम्पादन कर, इस समय सुप्राव को अपना \"क्षक बनाया चाहते हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 2,
+      "verse": 19,
+      "sloka": "सुग्रीवः तु शुभम् वाक्यम् श्रुत्वा सर्वम् हनूमतः ।ततः शुभतरम् वाक्यम् हनूमन्तम् उवाच ह ॥४-२-१९॥",
+      "transliteration": "sugrīvaḥ tu śubham vākyam śrutvā sarvam hanūmataḥ ।tataḥ śubhataram vākyam hanūmantam uvāca ha ॥4-2-19॥",
+      "translations": {
+        "english": "Having heard the wise words of Hanuman, Sugriva addressed him with words more auspicious.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 2,
+      "verse": 20,
+      "sloka": "दीर्घ बाहू विशालाक्षौ शर चाप असि धारिणौ ।कस्य न स्यात् भयम् दृष्ट्वा हि एतौ सुर सुत उपमौ ॥४-२-२०॥",
+      "transliteration": "dīrgha bāhū viśālākṣau śara cāpa asi dhāriṇau ।kasya na syāt bhayam dṛṣṭvā hi etau sura suta upamau ॥4-2-20॥",
+      "translations": {
+        "english": "'Who would not be apprehensive of these two longarmed and largeeyed individuals comparable to sons of gods wielding arrows, bows and swords.",
+        "hindi": "पहिले जो लोकों के स्वयं आश्रयदाता थे वे ही मेरे बड़े भाई बसोत्मा श्रीरामचन्द्र जी सुग्रीव को अपना आश्रयदाता या रक्षक बनाना चाहते ह",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 2,
+      "verse": 21,
+      "sloka": "वालि प्रणिहितौ एव शन्के अहम् पुरुषोत्तमौ ।राजानो बहु मित्राः च विश्वासो न अत्र हि क्षमः ॥४-२-२१॥",
+      "transliteration": "vāli praṇihitau eva śanke aham puruṣottamau ।rājāno bahu mitrāḥ ca viśvāso na atra hi kṣamaḥ ॥4-2-21॥",
+      "translations": {
+        "english": "'I support these two excellent men might have been sent by Vali. Kings have many friends and so it may not be appropriate to trust any king.",
+        "hindi": "जिनके प्रसन्न होने पर यह प्रजा प्रसन्न होती थी, वे श्रीराम चंद्र वानरराज सुग्रीव की अपने ऊपर प्रसन्नता चाहते हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 2,
+      "verse": 22,
+      "sloka": "अरयः च मनुष्येण विज्ञेयाः छद्म चारिणः ।विश्वस्तानाम् अविश्वस्ताः छिद्रेषु प्रहरन्ति अपि ॥४-२-२२॥",
+      "transliteration": "arayaḥ ca manuṣyeṇa vijñeyāḥ chadma cāriṇaḥ ।viśvastānām aviśvastāḥ chidreṣu praharanti api ॥4-2-22॥",
+      "translations": {
+        "english": "'One has to identify these men roaming in disguise. These are not trustworthy and could even be our enemies, making us believe them so as to attack us when we are not vigilant.",
+        "hindi": "सबेगुणों से युक्त राजाओं को जिन महाराज दशरथ ने सम्मा- नित किआ था, उन्हींके जगत्प्रमिद्ध अ्येष्ठपुत्र श्रीरामचन्द्र जी वानरेन्द्र सुग्रीब के शरण में जाना चाहते हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 2,
+      "verse": 23,
+      "sloka": "कृत्येषु वाली मेधावी राजानो बहु दर्शनः ।भवन्ति पर हन्तारः ते ज्ञेयाः प्राकृतैः नरैः ॥४-२-२३॥",
+      "transliteration": "kṛtyeṣu vālī medhāvī rājāno bahu darśanaḥ ।bhavanti para hantāraḥ te jñeyāḥ prākṛtaiḥ naraiḥ ॥4-2-23॥",
+      "translations": {
+        "english": "'Vali is wise in his actions. Kings employ many strategies to annihilate their enemies. Our gullible individuals should be able to detect them.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 2,
+      "verse": 24,
+      "sloka": "तौ त्वया प्राकृतेन एव गत्वा ज्ञेयौ प्लवंगम ।इङ्गितानाम् प्रकारैः च रूपव्या भाषणेन च ॥४-२-२४॥",
+      "transliteration": "tau tvayā prākṛtena eva gatvā jñeyau plavaṁgama ।iṅgitānām prakāraiḥ ca rūpavyā bhāṣaṇena ca ॥4-2-24॥",
+      "translations": {
+        "english": "'O Hanuman assume an ordinary form and approach them. Try to read them through their gestures, traits, forms and conversations.",
+        "hindi": "इस समय श्रीरामचन्द्रजी अपनी प्यारी पत्नी के शोक से विकल हो, सुग्रीव के शरण में आए हैँ, अतः वानरराज सुग्रीव को श्रीरामचन्द्र जी के ऊपर कृपा करनी चाहिये",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 2,
+      "verse": 25,
+      "sloka": "लक्षयस्व तयोः भावम् प्रहृष्ट मनसौ यदि ।विश्वासयन् प्रशंसाभिः इङ्गितैः च पुनः पुनः ॥४-२-२५॥",
+      "transliteration": "lakṣayasva tayoḥ bhāvam prahṛṣṭa manasau yadi ।viśvāsayan praśaṁsābhiḥ iṅgitaiḥ ca punaḥ punaḥ ॥4-2-25॥",
+      "translations": {
+        "english": "'O best of monkeys ascertain their purpose by praising them and studying their honest intentions. Gain the confidence of the wielders of bows and if you find them agreeable, enquire the purpose of their entering this forest.",
+        "hindi": "जब इस प्रकार दीन भाव से और आंखों में आँसू भर लक्ष्मण जी ने कहा; तब घाक्यविशारद हनुमान जी उनसे बोले",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 2,
+      "verse": 26,
+      "sloka": "मम एव अभिमुखम् स्थित्वा पृच्छ त्वम् हरि पुंगव ।प्रयोजनम् प्रवेशस्य वनस्य अस्य धनुर् धरौ ॥४-२-२६॥",
+      "transliteration": "mama eva abhimukham sthitvā pṛccha tvam hari puṁgava ।prayojanam praveśasya vanasya asya dhanur dharau ॥4-2-26॥",
+      "translations": {
+        "english": "'O best of monkeys ascertain their purpose by praising them and studying their honest intentions. Gain the confidence of the wielders of bows and if you find them agreeable, enquire the purpose of their entering this forest.",
+        "hindi": "xR किष्किन्धाकाण्डे हे लदमण ! इस प्रकार के बुद्धिमान्‌ क्रोवशून्य और जितेन्द्रि महात्मा पुरुप से सुग्रीव को अवश्य सेंट करनी चाहिए । कयोंकिं एसे पुरुषों से भेंट बड़े भाग्य से होती हे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 2,
+      "verse": 27,
+      "sloka": "शुद्ध आत्मानौ यदि एतौ जानीहि त्वम् प्लवंगम ।व्याभाषितैः वा रूपैः वा विज्ञेया दुष्टता अनयोः ॥४-२-२७॥",
+      "transliteration": "śuddha ātmānau yadi etau jānīhi tvam plavaṁgama ।vyābhāṣitaiḥ vā rūpaiḥ vā vijñeyā duṣṭatā anayoḥ ॥4-2-27॥",
+      "translations": {
+        "english": "'O best of monkeys find out whether they are noble in their intentions or evil in their design through your conversation with them.'",
+        "hindi": "सुग्रीव भी राज्य से भ्रष्ट हैं और वाचि से शत्रुता हो जाने के कारण वे वालि द्वारा वञ्चित किये गये हैं और भयभीत हो वन झं चास करते हैं। वालिने उनकी स्त्री को भी छीन लिआ है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 2,
+      "verse": 28,
+      "sloka": "इति एवम् कपिराजेन संदिष्टो मारुतात्मजः ।चकार गमने बुद्धिम् यत्र तौ राम लक्ष्मणौ ॥४-२-२८॥",
+      "transliteration": "iti evam kapirājena saṁdiṣṭo mārutātmajaḥ ।cakāra gamane buddhim yatra tau rāma lakṣmaṇau ॥4-2-28॥",
+      "translations": {
+        "english": "Instructed thus by the king of the monkeys, Hanuman, son of the Windgod, decided to meet both Rama and Lakshmana.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 2,
+      "verse": 29,
+      "sloka": "तथा इति संपूज्य वचः तु तस्य कपेः सुभीतस्य दुरासदस्य ।महानुभावो हनुमान् ययौ तदा स यत्र रामो अतिबली स लक्ष्मणः ॥४-२-२९॥",
+      "transliteration": "tathā iti saṁpūjya vacaḥ tu tasya kapeḥ subhītasya durāsadasya ।mahānubhāvo hanumān yayau tadā sa yatra rāmo atibalī sa lakṣmaṇaḥ ॥4-2-29॥",
+      "translations": {
+        "english": "Hanuman, the venerable, powerful and not easily conquerable monkey, honoured the words of the great Lord of the monkeys, offered salutations and said 'So be it'. And then proceeded towards the mighty Rama and Lakshmana. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये किष्किन्धाकाण्डे द्वितीयस्सर्गः।। Thus ends the second sarga of Kishkindakanda of the Holy Ramayana, the first epic composed by the sage Valmiki.",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

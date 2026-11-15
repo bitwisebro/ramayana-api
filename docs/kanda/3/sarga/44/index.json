@@ -1,0 +1,387 @@
+{
+  "kanda": 3,
+  "kanda_name": "Aranya Kanda",
+  "kanda_name_sanskrit": "अरण्यकाण्डम्",
+  "sarga": 44,
+  "verses_count": 27,
+  "verses": [
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 44,
+      "verse": 1,
+      "sloka": "तथा तु तम् समादिश्य भ्रातरम् रघुनंदनः ।बबन्ध असिम् महातेजा जांबूनदमयः त्सरुम् ॥३-४४-१॥",
+      "transliteration": "tathā tu tam samādiśya bhrātaram raghunaṁdanaḥ ।babandha asim mahātejā jāṁbūnadamayaḥ tsarum ॥3-44-1॥",
+      "translations": {
+        "english": "The brilliant Rama, delight of the Raghu dynasty, thus instructed his brother and fastened a sword with a golden handle to his waist.",
+        "hindi": "भाइ को इस प्रकार समका कर, श्रीरामचन्द्र ने सोने की मूठ लगी हुई तलवार ली",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 44,
+      "verse": 2,
+      "sloka": "ततः त्रि विनतम् चापम् आदाय आत्म विभूषणम् ।आबध्य च कलापौ द्वौ जगाम उदग्र विक्रमः ॥३-४४-२॥",
+      "transliteration": "tataḥ tri vinatam cāpam ādāya ātma vibhūṣaṇam ।ābadhya ca kalāpau dvau jagāma udagra vikramaḥ ॥3-44-2॥",
+      "translations": {
+        "english": "A man of indomitable prowess, he took the bow with three curves that was like an ornament to him, tied two quivers at the back and left.",
+        "hindi": "य जगह से झुका हुआ धनुष, जो उनका आभूषण था, ले ओर दो तरकस पीठ पर बाँध, प्रचण्ड पराक्रमी श्रीरोम- चन्द्र रवाना हुए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 44,
+      "verse": 3,
+      "sloka": "तम् वंचयानो राजेन्द्रम् आपतन्तम् निरीक्ष्य वै ।बभूव अंतर्हितः त्रासात् पुनः संदर्शने अभवत् ॥३-४४-३॥",
+      "transliteration": "tam vaṁcayāno rājendram āpatantam nirīkṣya vai ।babhūva aṁtarhitaḥ trāsāt punaḥ saṁdarśane abhavat ॥3-44-3॥",
+      "translations": {
+        "english": "On seeing Rama approaching him, the deer disappeared due to fear and again came within sight. With his sword and the bow, Rama chased wherever the deer ran.",
+        "hindi": "राजेन्द्र श्रीरासचन्द्र जी को आते देख, धोखेबाज मारीच देर के लिए छिप गया । पीछे से फिर दिखलाई दिआ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 44,
+      "verse": 4,
+      "sloka": "बद्ध असिः धनुः आदाय प्रदुद्राव यतो मृगः ।तम् स्म पश्यति रूपेण द्योतमानम् इव अग्रतः ॥३-४४-४॥",
+      "transliteration": "baddha asiḥ dhanuḥ ādāya pradudrāva yato mṛgaḥ ।tam sma paśyati rūpeṇa dyotamānam iva agrataḥ ॥3-44-4॥",
+      "translations": {
+        "english": "Rama, wielder of the bow, saw that splendid animal ahead of him. Holding the bow he saw the deer running away, bewldered into the great forest looking at him again and again. The deer was getting out of the range of his arrow, while it enticed him now and then. Suspecting that he might be caught, the deer was, as though jumping into the sky. Now it came within sight and now out of sight in the huge forest. It looked like the autumnal moon surrounded by clouds. (The clouds muffle the Moon and reveal him now and then).",
+        "hindi": "श्रीरामचन्द्र जी भो खङ्ग कमर सें बाँधे और धनुष हाथ में लिए हुए, जिधर बह देख पड़ा उसी ओर चले। मारीच कान्ति: ने समाने ही देखता था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 44,
+      "verse": 5,
+      "sloka": "अवेक्ष्य अवेक्ष्य धावन्तम् धनुष् पाणिः महावने ।अतिवृत्तम् इषोः पातात् लोभयानम् कदाचन ॥३-४४-५॥",
+      "transliteration": "avekṣya avekṣya dhāvantam dhanuṣ pāṇiḥ mahāvane ।ativṛttam iṣoḥ pātāt lobhayānam kadācana ॥3-44-5॥",
+      "translations": {
+        "english": "Rama, wielder of the bow, saw that splendid animal ahead of him. Holding the bow he saw the deer running away, bewldered into the great forest looking at him again and again. The deer was getting out of the range of his arrow, while it enticed him now and then. Suspecting that he might be caught, the deer was, as though jumping into the sky. Now it came within sight and now out of sight in the huge forest. It looked like the autumnal moon surrounded by clouds. (The clouds muffle the Moon and reveal him now and then).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 44,
+      "verse": 6,
+      "sloka": "शंकितम् तु समुद् भ्रान्तम् उत्पतन्तम् इव अंबरे ।दृअश्यमानम् अदृश्यम् च वन उद्देशेषु केषुचित् ॥३-४४-६॥",
+      "transliteration": "śaṁkitam tu samud bhrāntam utpatantam iva aṁbare ।dṛaśyamānam adṛśyam ca vana uddeśeṣu keṣucit ॥3-44-6॥",
+      "translations": {
+        "english": "Rama, wielder of the bow, saw that splendid animal ahead of him. Holding the bow he saw the deer running away, bewldered into the great forest looking at him again and again. The deer was getting out of the range of his arrow, while it enticed him now and then. Suspecting that he might be caught, the deer was, as though jumping into the sky. Now it came within sight and now out of sight in the huge forest. It looked like the autumnal moon surrounded by clouds. (The clouds muffle the Moon and reveal him now and then).",
+        "hindi": "कभी शाङ्कित ओर घबड़ा कर वह इतनी ऊँची छलांग भरता कि, मानों वह आकाश में चला जायगा । कभी देखते ही देखते वह अदृश्य हो जाता ओर कभी वह वन में दूर निकल जाता",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 44,
+      "verse": 7,
+      "sloka": "चिन्न अभ्रैः इव संवीतम् शारदम् चन्द्र मण्डलम् ।मुहूर्तात् एव ददृशे मुहुर् दूरात् प्रकाशते ॥३-४४-७॥",
+      "transliteration": "cinna abhraiḥ iva saṁvītam śāradam candra maṇḍalam ।muhūrtāt eva dadṛśe muhur dūrāt prakāśate ॥3-44-7॥",
+      "translations": {
+        "english": "Maricha, transformed into a deer, was seen now near, now faroff. He pulled Rama away from the hermitage through his exits and entrances.",
+        "hindi": "कभी वह (पवन से ) छितराए हुए मेघों से घिरे हुए शरत्का- लीन चन्द्रमा की तरह छिप जाता ओए मुहुत्तै बाद ही फिर दर पर दिखलाइ पड़ता था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 44,
+      "verse": 8,
+      "sloka": "दर्शन अदर्शनेन एव सः अपाकर्षत राघवम् ।सुदूरम् आश्रमस्य अस्य मारिचो मृगताम् गतः ॥३-४४-८॥",
+      "transliteration": "darśana adarśanena eva saḥ apākarṣata rāghavam ।sudūram āśramasya asya mārico mṛgatām gataḥ ॥3-44-8॥",
+      "translations": {
+        "english": "Maricha, transformed into a deer, was seen now near, now faroff. He pulled Rama away from the hermitage through his exits and entrances.",
+        "hindi": "इस प्रकार बार बार छिपता और प्रगट होता हुआ, मृग रूपधारी मारीच, श्रीरामचन्द्र जी को आश्रम से दूर ले गया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 44,
+      "verse": 9,
+      "sloka": "आसीत् क्रुद्धः तु काकुत्स्थो विवशः तेन मोहितः ।अथ अवतस्थे सुश्रान्तः च्छायाम् आश्रित्य शाद्वले ॥३-४४-९॥",
+      "transliteration": "āsīt kruddhaḥ tu kākutstho vivaśaḥ tena mohitaḥ ।atha avatasthe suśrāntaḥ cchāyām āśritya śādvale ॥3-44-9॥",
+      "translations": {
+        "english": "Deluded by that deer, Rama got tired, perplexed and angry. Then bewidered, he waited on a grassland under a shade.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 44,
+      "verse": 10,
+      "sloka": "स तम् उन्मादयामास मृगरूपो निशाचर ।मृगैः परिवृतो अथ वन्यैः अदूरात् प्रत्यदृश्यत ॥३-४४-१०॥",
+      "transliteration": "sa tam unmādayāmāsa mṛgarūpo niśācara ।mṛgaiḥ parivṛto atha vanyaiḥ adūrāt pratyadṛśyata ॥3-44-10॥",
+      "translations": {
+        "english": "That demon transformed himself into a deer and, surrounded by the animals of the forest at close range, attracted his attention.",
+        "hindi": "आसीलत्कुद्धस्तु काकुत्स्थो विवशः१तेन मोहितः२ । थावतस्थे #सुश्रान्तश्छायामांश्रित्य शाद्वले ॥&॥ प क कडकी णी य य क अ 32 क. जती १ विवश: कुतूइलपरवशः । (गो०) २ मोहित:--बण्चितः | ( गो० ) अपाठान्तरे-- सम्भ्रान्त; |? _ श्रीरामचन्द्र जी कुतूहूलवश हो, मारीच से जव इत प्रकार छले गए, तब वे क्रुद्ध ओर थक जाने के कारण छाया गुक्त उणुप्रय स्थान पर खड़े हो गए ॥६ स तमुन्मादयामास मृगरूपो निशाचरः । मृगे; परिहतो बन्यरदूरात्परत्यृश्यत",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 44,
+      "verse": 11,
+      "sloka": "ग्रहीतु कामम् दृष्ट्वा तम् पुनः एव अभ्यधावत ।तत् क्षणात् एव संत्रासात् पुनर् अंतर्हितो अभवत् ॥३-४४-११॥",
+      "transliteration": "grahītu kāmam dṛṣṭvā tam punaḥ eva abhyadhāvata ।tat kṣaṇāt eva saṁtrāsāt punar aṁtarhito abhavat ॥3-44-11॥",
+      "translations": {
+        "english": "Seeing Rama's intention to catch him, the deer ran away once again out of fear and disappeared in a moment.",
+        "hindi": "जब उसने देखा कि, श्रीरामचन्द्र जी मुझे पकड़ा ही चाहते हैं, तब बह फिर भागा और डर कर फिर छिप गया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 44,
+      "verse": 12,
+      "sloka": "पुनर् एव ततो दूरात् वृक्ष खण्डात् विनिःसृतः ।दृष्ट्वा रामो महातेजाः तम् हन्तुम् कृत निश्चयः ॥३-४४-१२॥",
+      "transliteration": "punar eva tato dūrāt vṛkṣa khaṇḍāt viniḥsṛtaḥ ।dṛṣṭvā rāmo mahātejāḥ tam hantum kṛta niścayaḥ ॥3-44-12॥",
+      "translations": {
+        "english": "Resplendent Rama saw the deer coming out of a cluster of trees at a distance and determined to kill him.",
+        "hindi": "फिर बह बहुत दूर जा कर वृक्ष समूह से निकलता हुआ दिख- लाई पड़ा । महातेजस्वी श्रीरामचन्द्र जी ने यह देख कर, अब उस मृग को जीवित पकड़ने का नहां प्रत्युत मार डालने दी का निश्चय किआ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 44,
+      "verse": 13,
+      "sloka": "भूयः तु शरम् उद्धृत्य कुपितः तत्र राघवः ।सूर्य रश्मि प्रतीकाशम् ज्वलंतम् अरि मर्दनम् ॥३-४४-१३॥",
+      "transliteration": "bhūyaḥ tu śaram uddhṛtya kupitaḥ tatra rāghavaḥ ।sūrya raśmi pratīkāśam jvalaṁtam ari mardanam ॥3-44-13॥",
+      "translations": {
+        "english": "Powerful Rama, destroyer of foes, lifted in a rage his arrow blazing like the light of the Sun, strung it to his sturdy bow and drew it with all his force. He then aimed at the deer and released the shining arrow created by Brahma which went hissing like a serpent.",
+        "hindi": "इन्होंने रोष में भर कर, बड़े वेग से तरकस से सूर्य की तरह चमचमाता ओर शत्र का नाश करने वाला एक बाण 'निकाला",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 44,
+      "verse": 14,
+      "sloka": "संधाय सुदृढे चापे विकृष्य बलवत् बली ।तम् एव मृगम् उद्दिश्य श्वसंतम् इव पन्नगम् ॥३-४४-१४॥",
+      "transliteration": "saṁdhāya sudṛḍhe cāpe vikṛṣya balavat balī ।tam eva mṛgam uddiśya śvasaṁtam iva pannagam ॥3-44-14॥",
+      "translations": {
+        "english": "Powerful Rama, destroyer of foes, lifted in a rage his arrow blazing like the light of the Sun, strung it to his sturdy bow and drew it with all his force. He then aimed at the deer and released the shining arrow created by Brahma which went hissing like a serpent.",
+        "hindi": "चतुरचत्वा२ गदा र चार उसकी आरन सजबूत चुप पर चढ़। आर रोदे का बल पूर्वक खींच, ओर हिरन का निशाना वाध फंसकारते हुए साप का तरह",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 44,
+      "verse": 15,
+      "sloka": "मुमोच ज्वलितम् दीप्तम् अस्त्रम् ब्रह्म विनिर्मितम् ।शरीरम् मृग रूपस्य विनिर्भिद्य शरोत्तमः ॥३-४४-१५॥",
+      "transliteration": "mumoca jvalitam dīptam astram brahma vinirmitam ।śarīram mṛga rūpasya vinirbhidya śarottamaḥ ॥3-44-15॥",
+      "translations": {
+        "english": "The great arrow which was like a thunderbolt first pierced into the body of Maricha who had assumed the form of a deer and then tore his heart.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 44,
+      "verse": 16,
+      "sloka": "मारीचस्य एव हृदयम् विभेद अशनि संनिभः ।ताल मात्रम् अथ उत्प्लुत्य न्यपतत् स भृश आतुरः ॥३-४४-१६॥",
+      "transliteration": "mārīcasya eva hṛdayam vibheda aśani saṁnibhaḥ ।tāla mātram atha utplutya nyapatat sa bhṛśa āturaḥ ॥3-44-16॥",
+      "translations": {
+        "english": "And, hurt by the dart, Maricha roared frighteningly, leaped as high as a palm tree and dropped down on earth almost dead.",
+        "hindi": "उस बज्न तुल्य बाण के लगने से मारीच एक ताइ इक्ष के बरा-बर ऊंचा छछुल कर और बाण की चोट से व्यथित हो, जमीन पर गिर पड़ा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 44,
+      "verse": 17,
+      "sloka": "व्यनदत् भैरवम् नादम् धरण्याम् अल्प जीवितः ।म्रियमाणः तु मारीचो जहौ ताम् कृत्रिमाम् तनुम् ॥३-४४-१७॥",
+      "transliteration": "vyanadat bhairavam nādam dharaṇyām alpa jīvitaḥ ।mriyamāṇaḥ tu mārīco jahau tām kṛtrimām tanum ॥3-44-17॥",
+      "translations": {
+        "english": "Maricha gave up his false form of the deer and before breathing his last, remembered the words of Ravana. He thought over the means through which Sita could send Lakshmana to this spot so that Ravana would abduct her when she is alone.",
+        "hindi": "जमीन पर गर्‌ अल्प समय जाने वाले साराच नं भयङ्कर नाद-किच्या । सरते समय मारीच न बनाबटा (हिरन के) शरीर की त्याग दिआ !",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 44,
+      "verse": 18,
+      "sloka": "स्मृत्वा तत् वचनम् रक्षो दध्यौ केन तु लक्ष्मणम् ।इह प्रस्थापयेत् सीता ताम् शून्ये रावणे हरेत् ॥३-४४-१८॥",
+      "transliteration": "smṛtvā tat vacanam rakṣo dadhyau kena tu lakṣmaṇam ।iha prasthāpayet sītā tām śūnye rāvaṇe haret ॥3-44-18॥",
+      "translations": {
+        "english": "Maricha gave up his false form of the deer and before breathing his last, remembered the words of Ravana. He thought over the means through which Sita could send Lakshmana to this spot so that Ravana would abduct her when she is alone.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 44,
+      "verse": 19,
+      "sloka": "स प्राप्त कालम् अज्ञाय चकार च ततः स्वरम् ।सदृशम् राघवस्य एव हा सीते लक्ष्मण इति च ॥३-४४-१९॥",
+      "transliteration": "sa prāpta kālam ajñāya cakāra ca tataḥ svaram ।sadṛśam rāghavasya eva hā sīte lakṣmaṇa iti ca ॥3-44-19॥",
+      "translations": {
+        "english": "Then Maricha realised that the appropriate time had come. In a voice similar to Rama's, he shouted loudly 'Alas Sita, Alas Lakshmana '",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 44,
+      "verse": 20,
+      "sloka": "तेन मर्मणि निर्विद्धम् शरेण अनुपमेन हि ।मृग रूपम् तु तत् त्यक्त्वा राक्षसम् रूपम् आस्थितः ॥३-४४-२०॥",
+      "transliteration": "tena marmaṇi nirviddham śareṇa anupamena hi ।mṛga rūpam tu tat tyaktvā rākṣasam rūpam āsthitaḥ ॥3-44-20॥",
+      "translations": {
+        "english": "Struck in the vital part by Rama's matchless dart, Maricha gave up the form of the deer and assumed his huge body of the demon.",
+        "hindi": "श्रीरामचन्द्रजी फे अलुपम बाण से उसका मर्मस्थल ऐसा विदीर् हो खया था कि, बह फिर मृग का रूप धारण न कर सका और अपने राहल रूप सें प्रकट हो गया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 44,
+      "verse": 21,
+      "sloka": "चक्रे स सुमहा कायम् मारीचो जीवितम् त्यजन् ।तम् दृष्ट्वा पतितम् भूमौ राक्षसम् भीम दर्शनम् ॥३-४४-२१॥",
+      "transliteration": "cakre sa sumahā kāyam mārīco jīvitam tyajan ।tam dṛṣṭvā patitam bhūmau rākṣasam bhīma darśanam ॥3-44-21॥",
+      "translations": {
+        "english": "Seeing that terrific demon fallen on the ground, drenched in blood, and strring his limbs, Rama thought of Lakshmana's words and reached Sita mentally (thought of her).",
+        "hindi": "मरने के समय मारीच बिशाल शरोरधारी हो गया अर उस समय बिचित्र केयूसदि सब आभूषण धारण किए हए बह देख षडा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 44,
+      "verse": 22,
+      "sloka": "रामो रुधिर सिक्त अंगम् चेष्टमानम् महीतले ।जगाम मनसा सीताम् लक्ष्मणस्य वचः स्मरन् ॥३-४४-२२॥",
+      "transliteration": "rāmo rudhira sikta aṁgam ceṣṭamānam mahītale ।jagāma manasā sītām lakṣmaṇasya vacaḥ smaran ॥3-44-22॥",
+      "translations": {
+        "english": "Seeing that terrific demon fallen on the ground, drenched in blood, and strring his limbs, Rama thought of Lakshmana's words and reached Sita mentally (thought of her).",
+        "hindi": "अ के लगने से बह सुबर्ण की माला पहिने हुए बड़े बड़े द्‌ चाला रास बन गया । उस भय छुर रा स ती पर र से क व्‌ शिरा हुआ देख",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 44,
+      "verse": 23,
+      "sloka": "मारीचस्य तु माय एषा पूर्व उक्तम् लक्ष्मणेन तु ।तत् तदा हि अभवत् च अद्य मारीचो अयम् मया हतः ॥३-४४-२३॥",
+      "transliteration": "mārīcasya tu māya eṣā pūrva uktam lakṣmaṇena tu ।tat tadā hi abhavat ca adya mārīco ayam mayā hataḥ ॥3-44-23॥",
+      "translations": {
+        "english": "This is an illusion created by Maricha. It happened exactly the way Lakshmana had said earlier. Maricha is now killed.",
+        "hindi": "SS अर लोहू से तरबतर जमीन पर लोटता हुआ देख श्रीरामचन्द्र मन ही सन सीता की चिन्ता करने लगे। उस समय . न्हे लक्मस की कदी बात याद आई",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 44,
+      "verse": 24,
+      "sloka": "हा सीते लक्ष्मण इति एवम् आक्रुश्य तु महा स्वनम् ।ममार राक्षसः सो अयम् श्रुत्वा सीता कथम् भवेत् ॥३-४४-२४॥",
+      "transliteration": "hā sīte lakṣmaṇa iti evam ākruśya tu mahā svanam ।mamāra rākṣasaḥ so ayam śrutvā sītā katham bhavet ॥3-44-24॥",
+      "translations": {
+        "english": "This demon Maricha screamed aloud saying, 'Alas, Sita, Alas, Lakshmana'. He is now dead. How would Sita react to this voice? What would be the condition of Lakshmana? While righteous Rama reflected on this, his hair stood on end.",
+        "hindi": "वे सोचने लगे कि, देखो लक्ष्मण ने पडले ही कहा था कि, यह मारीच की माया हे । सो उन्हीं की बाद ठीक निकली अर यह मारीच मेरे द्वारा मारा गया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 44,
+      "verse": 25,
+      "sloka": "लक्ष्मणः च महाबाहुः काम् अवस्थाम् गमिष्यति ।इति संचिन्त्य धर्माअत्मा रामो हृष्ट तनू रुहः ॥३-४४-२५॥",
+      "transliteration": "lakṣmaṇaḥ ca mahābāhuḥ kām avasthām gamiṣyati ।iti saṁcintya dharmāatmā rāmo hṛṣṭa tanū ruhaḥ ॥3-44-25॥",
+      "translations": {
+        "english": "This demon Maricha screamed aloud saying, 'Alas, Sita, Alas, Lakshmana'. He is now dead. How would Sita react to this voice? What would be the condition of Lakshmana? While righteous Rama reflected on this, his hair stood on end.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 44,
+      "verse": 26,
+      "sloka": "तत्र रामम् भयम् तीव्रम् आविवेश विषादजम् ।राक्षसम् मृग रूपम् तम् हत्वा श्रुत्वा च तत् स्वनम् ॥३-४४-२६॥",
+      "transliteration": "tatra rāmam bhayam tīvram āviveśa viṣādajam ।rākṣasam mṛga rūpam tam hatvā śrutvā ca tat svanam ॥3-44-26॥",
+      "translations": {
+        "english": "After killing the demon in the figure of a deer and hearing his voice, Rama was overtaken by intense fear born of despair.",
+        "hindi": "हा सीते लक्ष्मणेत्येबमाक्रूश्‍य च महास्पनम्‌ । ममार राक्षसः सोऽयं श्रुत्वा सीता कथं भवेत्‌ ॥ २ यह राक्षस “हा! सीते हा लक्ष्मण !” चिल्लाता हुआ मरा है । सो जब ये शब्द सीता ने सुने दंगे, तब उसकी क्या दशा हुई होगी ॥ २५ लक्ष्मणश्च महाबाहुः कामवस्थां गमिष्यति । इति सञ्चिन्त्य धर्मात्मा रामो हृष्टतनूरुहः",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 44,
+      "verse": 27,
+      "sloka": "निहत्य पृषतम् च अन्यम् मांसम् आदाय राघवः ।त्वरमाणो जनस्थानम् ससार अभिमुखः तदा ॥३-४४-२७॥",
+      "transliteration": "nihatya pṛṣatam ca anyam māṁsam ādāya rāghavaḥ ।tvaramāṇo janasthānam sasāra abhimukhaḥ tadā ॥3-44-27॥",
+      "translations": {
+        "english": "Then Rama killed another deer, collected the venison and hastened to Janasthana. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अरण्यकाण्डे चतुश्चत्वारिंशस्सर्गः। Thus ends the fortyfourth sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,359 @@
+{
+  "kanda": 3,
+  "kanda_name": "Aranya Kanda",
+  "kanda_name_sanskrit": "अरण्यकाण्डम्",
+  "sarga": 39,
+  "verses_count": 25,
+  "verses": [
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 39,
+      "verse": 1,
+      "sloka": "एवम् अस्मि तदा मुक्तः कथंचित् तेन संयुगे ।इदानीम् अपि यत् वृत्तम् तत् शृउणुष्व यत् उत्तरम् ॥३-३९-१॥",
+      "transliteration": "evam asmi tadā muktaḥ kathaṁcit tena saṁyuge ।idānīm api yat vṛttam tat śṛuṇuṣva yat uttaram ॥3-39-1॥",
+      "translations": {
+        "english": "I was somehow saved by him this way in the combat.Listen without any reply to what has taken place recently.",
+        "hindi": "हे रावण ! उस समय मैं जैसे बचा सो तुके बतलाया, अब आगे का हाल कहता हूँ, सो तू बीच में टोंके बिना सुन",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 39,
+      "verse": 2,
+      "sloka": "राक्षाभ्याम् अहम् द्वाभ्याम् अनिर्विण्णः तथा कृतः ।सहितो मृग रूपाभ्याम् प्रविष्टो दंडका वने ॥३-३९-२॥",
+      "transliteration": "rākṣābhyām aham dvābhyām anirviṇṇaḥ tathā kṛtaḥ ।sahito mṛga rūpābhyām praviṣṭo daṁḍakā vane ॥3-39-2॥",
+      "translations": {
+        "english": "Having done so, I picked up courage and entered Dandaka forest, accompanied by the two other demons in the form of deer .",
+        "hindi": "श्रीरामचन्द्र जी स बेर हो जाने के कारण ) मैं अन्य दो सग रूपी राक्षसा को अपने साथ ले, दरडकवन में गया किन्तु इस बार भी मुझे परास्त होना पडा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 39,
+      "verse": 3,
+      "sloka": "दीप्त जिह्वो महादंष्ट्रः तीक्ष्ण शृंगो महाबलः ।व्यचरन् दंडाकारण्यम् मांस भक्षो महामृगः ॥३-३९-३॥",
+      "transliteration": "dīpta jihvo mahādaṁṣṭraḥ tīkṣṇa śṛṁgo mahābalaḥ ।vyacaran daṁḍākāraṇyam māṁsa bhakṣo mahāmṛgaḥ ॥3-39-3॥",
+      "translations": {
+        "english": "I wandered in Dandaka forest in the form of a huge animal with a big and strong body, a flaming red tongue and sharp teeth feeding on flesh.",
+        "hindi": "स पदका तस, वास्थजिच्छेदाकरणेन शणिवत्यर्थः । ( गो० । i २ अनिविर्ण:--निर्वेदर हितः | ( गोऽ ) (० » है सन हि ८ | 5 > | Vinay Ay WES 80007 Trust Donationx ६७ उस समय छग्विशिखा की तरह तो मेरी जिह्ला लपलपाती थी और मेरे दाँत बड़े पेने थे। में एक बड़े बलवान्‌ मृग जैसा रूप धारण किए हुए था और माँस खाता हुआ दर्डकवन सें घूस रहा था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 39,
+      "verse": 4,
+      "sloka": "अग्निहोत्रेषु तीर्थेषु चैत्य वृक्षेषु रावण ।अत्यन्त घोरो व्यचरन् तापसान् संप्रधर्षयन् ॥३-३९-४॥",
+      "transliteration": "agnihotreṣu tīrtheṣu caitya vṛkṣeṣu rāvaṇa ।atyanta ghoro vyacaran tāpasān saṁpradharṣayan ॥3-39-4॥",
+      "translations": {
+        "english": "O Ravana, assuming a very dreadful form, I wandered about sacrificial spots, sacred places, river banks, under huge trees planted at quadranglestorturing the ascetics.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 39,
+      "verse": 5,
+      "sloka": "निहत्य दंडकारण्ये तापसान् धर्मचरिणः ।रुधिराणि पिबन्तः तेषाम् तन् मांसानि च भक्षयन् ॥३-३९-५॥",
+      "transliteration": "nihatya daṁḍakāraṇye tāpasān dharmacariṇaḥ ।rudhirāṇi pibantaḥ teṣām tan māṁsāni ca bhakṣayan ॥3-39-5॥",
+      "translations": {
+        "english": "I wandered about the Dandaka forest slaying righteous ascetics, drinking their blood and eating their flesh.",
+        "hindi": "हे रावण ! अग्निहोत्र के स्थानों में, तीर्था में और पूज्य वृक्षो के निकट जा, में अत्यन्त भयङ्कर रूप धारण कर, तपस्ियों को उत्पीडित किआ करता था ॥४ निहत्य दण्डकारण्ये तापसान्‌ धमचारिणः रुविराणि पिवस्तेषां तथा मांसानि भक्षयन्‌",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 39,
+      "verse": 6,
+      "sloka": "ऋषि माअंस अशनः क्रूरः त्रासयन् वनगोचरान् ।तदा रुधिर मत्तो अहम् व्यचरन् दंडका वनम् ॥३-३९-६॥",
+      "transliteration": "ṛṣi māaṁsa aśanaḥ krūraḥ trāsayan vanagocarān ।tadā rudhira matto aham vyacaran daṁḍakā vanam ॥3-39-6॥",
+      "translations": {
+        "english": "While thus roaming, I harmed the wanderers of the forest. Intoxicated with their blood I used to frighten the righteous.",
+        "hindi": "ऋषियों का मांस खाने वाला में, अत्यन्त निष्ठुर बन, बनवासी ऋषियों को दुःख देता था । इस प्रकार रक्तपान से मतवाला हो, चम को नष्ट करवा हुआ, दण्डकवन में विचरता था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 39,
+      "verse": 7,
+      "sloka": "तदा अहम् दंडकारण्ये विचरन् धर्म दूषकः ।आसादयम् तदा रामम् तापसम् धर्मम् आश्रितम् ॥३-३९-७॥",
+      "transliteration": "tadā aham daṁḍakāraṇye vicaran dharma dūṣakaḥ ।āsādayam tadā rāmam tāpasam dharmam āśritam ॥3-39-7॥",
+      "translations": {
+        "english": "I encountered again the righteous Rama who was in the form of an ascetic, with venerable Sita and the great warrior Lakshmana.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 39,
+      "verse": 8,
+      "sloka": "वैदेहि च महाभागाम् लक्ष्मणम् च महरथम् ।तापसम् नियत आहारम् सर्व बूत हिते रतम् ॥३-३९-८॥",
+      "transliteration": "vaidehi ca mahābhāgām lakṣmaṇam ca maharatham ।tāpasam niyata āhāram sarva būta hite ratam ॥3-39-8॥",
+      "translations": {
+        "english": "Although Rama was very strong, he was living on restricted diet, engaged in the welfare of all beings. Treating him as a mere ascetic living in the forest, remembering my past hostility with him and disregarding his (fatal) blow, I ran towards him angrily, assuming the form of a sharphorned animal with an intention to kill him.",
+        "hindi": "आसादयं--अपीडयम्‌ । ( शि०) . ` ६८ अरण्यकाण्ड ... तापसं नियताहारं सर्वभूतहिते रतम्‌ । साऽहं बनगतं रामं परिभूय! महाबलम्‌ !!८॥ तपस्वी राम का; जो नियमित भोजन करने वाले हैं. और जो सब प्राशियों की भलाई में तत्पर रहते हैं तथा जो महाबलवान “एबं बन में रहते हैं, मैंने फिर तिरस्कार किआ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 39,
+      "verse": 9,
+      "sloka": "सः अहम् वन गतम् रामम् परिभूय महाबलम् ।तापसो अयम् इति ज्ञात्वा पूर्व वैरम् अनुस्मरन् ॥३-३९-९॥",
+      "transliteration": "saḥ aham vana gatam rāmam paribhūya mahābalam ।tāpaso ayam iti jñātvā pūrva vairam anusmaran ॥3-39-9॥",
+      "translations": {
+        "english": "Although Rama was very strong, he was living on restricted diet, engaged in the welfare of all beings. Treating him as a mere ascetic living in the forest, remembering my past hostility with him and disregarding his (fatal) blow, I ran towards him angrily, assuming the form of a sharphorned animal with an intention to kill him.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 39,
+      "verse": 10,
+      "sloka": "अभ्यधावम् सुसंक्रुद्धः तीक्ष्ण शृंगो मृग आकृतिः ।जिघांसुः अकृतप्रज्ञः तम् प्रहारम् अनुस्मरन् ॥३-३९-१०॥",
+      "transliteration": "abhyadhāvam susaṁkruddhaḥ tīkṣṇa śṛṁgo mṛga ākṛtiḥ ।jighāṁsuḥ akṛtaprajñaḥ tam prahāram anusmaran ॥3-39-10॥",
+      "translations": {
+        "english": "His mighty bow drawn, Rama released three sharp darts that came whizzing like Garuda or the wind. They could destroy the enemy.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 39,
+      "verse": 11,
+      "sloka": "तेन त्यक्ताः त्रयो बाणाः शिताः शत्रु निबर्हणाः ।विकृष्य सुमहत् चापम् सुपर्ण अनिल तुल्य गाः ॥३-३९-११॥",
+      "transliteration": "tena tyaktāḥ trayo bāṇāḥ śitāḥ śatru nibarhaṇāḥ ।vikṛṣya sumahat cāpam suparṇa anila tulya gāḥ ॥3-39-11॥",
+      "translations": {
+        "english": "All the three tightly jointed, welltargetted darts, strong as thunderbolt, and which could feed on blood came together all at once.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 39,
+      "verse": 12,
+      "sloka": "ते बाणा वज्र संकाशाः सुघोरा रक्त भोजनाः ।आजग्मुः सहिताः सर्वे त्रयः संनतपर्वणः ॥३-३९-१२॥",
+      "transliteration": "te bāṇā vajra saṁkāśāḥ sughorā rakta bhojanāḥ ।ājagmuḥ sahitāḥ sarve trayaḥ saṁnataparvaṇaḥ ॥3-39-12॥",
+      "translations": {
+        "english": "Having known Rama's prowess earlier and experienced tremendous fear, I ran away in a bewildered state as I was deceitful. The other two demons (who had accompanied me) succumbed.",
+        "hindi": "उनके अपना ओर झाते देख मैँ'तो भागा । क्‍योंकि में राम | के पराक्रम को जानता था और पहले)से भयभीत भी था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 39,
+      "verse": 13,
+      "sloka": "पराक्रमज्ञो रामस्य शठो दृष्ट भयः पुरा ।समुत्क्रांतः ततः मुक्तः तौ उभौ राक्षसौ हतौ ॥३-३९-१३॥",
+      "transliteration": "parākramajño rāmasya śaṭho dṛṣṭa bhayaḥ purā ।samutkrāṁtaḥ tataḥ muktaḥ tau ubhau rākṣasau hatau ॥3-39-13॥",
+      "translations": {
+        "english": "With my escape from Rama's darts I somehow got a fresh lease of life. Now I am composed. I have started living the life of a recluse here. I have turned an ascetic.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 39,
+      "verse": 14,
+      "sloka": "शरेण मुक्तो रामस्य कथंचित् प्राप्यजीवितम् ।इह प्रव्राजितो युक्तः तापसो अहम् समाहितः ॥३-३९-१४॥",
+      "transliteration": "śareṇa mukto rāmasya kathaṁcit prāpyajīvitam ।iha pravrājito yuktaḥ tāpaso aham samāhitaḥ ॥3-39-14॥",
+      "translations": {
+        "english": "I see Rama in every tree, clad in bark and deerskin, wielding the bow, holding a noose in hand like the god of death.",
+        "hindi": "अब मैं और सब दुष्टताओं को त्याग, मन को अपने वश में कर, तपस्या के लिए उपयोगी आचरण करने में तत्पर हूँ । किन्तु अब भी मुझे चीर और काले मृग का चर्म धारण किए हुए, राम ` अत्येक वृक्ष में देख पड़ते हें",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 39,
+      "verse": 15,
+      "sloka": "वृक्षे वृक्षे हि पश्यामि चीर कृष्ण अजिन अंबरम् ।गृहीत धनुषम् रामम् पाश हस्तम् इव अंतकम् ॥३-३९-१५॥",
+      "transliteration": "vṛkṣe vṛkṣe hi paśyāmi cīra kṛṣṇa ajina aṁbaram ।gṛhīta dhanuṣam rāmam pāśa hastam iva aṁtakam ॥3-39-15॥",
+      "translations": {
+        "english": "O Ravana I see in my fear thousands of Ramas. The entire forest appears to me as though filled with Rama.",
+        "hindi": "हे रावण ! जैसे हाथ में फांसी लिए यमराज देख पढ़ें, वैसे ही मुझे हाथ में धनुष लिए राम देख पड़ते हैँ | सो एक दो राम नदी, ऐसे राम मुझे सहस्रो देख पड़ते हैँ; जिनसे मुझे बड़ा डर लगता है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 39,
+      "verse": 16,
+      "sloka": "अपि राम सहस्राणि भीतः पश्यामि रावण ।राम भूतम् इदम् सर्वम् अरण्यम् प्रतिभाति मे ॥३-३९-१६॥",
+      "transliteration": "api rāma sahasrāṇi bhītaḥ paśyāmi rāvaṇa ।rāma bhūtam idam sarvam araṇyam pratibhāti me ॥3-39-16॥",
+      "translations": {
+        "english": "O king of the demons I see only Rama even in solitude. When I see him in a dream I lose my senses in a state of bewilderment.",
+        "hindi": "प्रत्राजित:--कृत सकलदुव च परित्याग: । (गो०)२ युक्त:---उचिता- चरणः । (गो०)३तमाहितः नियतमनस्क: | (गो० ) # पाठान्तरे “समुदू- आन्तः” | ओर तो क्या, यह सारा बन ही मुझे राममय देख पड़ता है | हे राक्षसनाथ ! जब में देखता हूँ, तब मुझे राम ही देख पड़ते हैं। रामरहित स्थान तो मुभे देख ही नहीं पड़ता",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 39,
+      "verse": 17,
+      "sloka": "रामम् एव हि पश्यामि रहिते राक्षसेश्वर ।दृष्ट्वा स्वप्न गतम् रामम् उद् भ्रमामि विचेतनः ॥३-३९-१७॥",
+      "transliteration": "rāmam eva hi paśyāmi rahite rākṣaseśvara ।dṛṣṭvā svapna gatam rāmam ud bhramāmi vicetanaḥ ॥3-39-17॥",
+      "translations": {
+        "english": "O Ravana, every name beginning with the letter 'Ra', such as Ratna (gems), Ratha (chariot), etc. strike terror in me.",
+        "hindi": "में स्वप्न में राम को देख, घबड़ा कर मूर्छित हो जाता हूँ । हे रावण ! और तो क्या, जिन नामों के आदि में रकार होता है उनके सुनने से भी मुझे तो डर लगता है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 39,
+      "verse": 18,
+      "sloka": "र कार अदीनि नामानि राम त्रस्तस्य रवण ।रत्नानि च रथाः च एव वित्रासम् जनयन्ति मे ॥३-३९-१८॥",
+      "transliteration": "ra kāra adīni nāmāni rāma trastasya ravaṇa ।ratnāni ca rathāḥ ca eva vitrāsam janayanti me ॥3-39-18॥",
+      "translations": {
+        "english": "I know his power.It is not proper to wage a war with him. Rama, delight of the Raghu dynasty, can slay even Bali or Namuchi.",
+        "hindi": "रत्न ओर रथ शब्दों के आदि में रकार होने के कारण, ये शब्द भी मुझे भयभीत कर देते हें । में राम के एभाव को जानता हूँ। इसीसे कहता हूँ कि, तू राम से लड़ने में समर्थ नहीं है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 39,
+      "verse": 19,
+      "sloka": "अहम् तस्य प्रभावज्ञो न युद्धम् तेन ते क्षमम् ।बलिम् वा नमुचिं वा अपि हन्यद्धि रघुनंअंदन ॥३-३९-१९॥",
+      "transliteration": "aham tasya prabhāvajño na yuddham tena te kṣamam ।balim vā namuciṁ vā api hanyaddhi raghunaṁaṁdana ॥3-39-19॥",
+      "translations": {
+        "english": "Missing",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 39,
+      "verse": 20,
+      "sloka": "रणे रामेण युद्ध्स्व क्षमाम् वा कुरु रावण ।न ते राम कथा कार्या यदि माम् द्रष्टुम् इच्छसि ॥३-३९-२०॥",
+      "transliteration": "raṇe rāmeṇa yuddhsva kṣamām vā kuru rāvaṇa ।na te rāma kathā kāryā yadi mām draṣṭum icchasi ॥3-39-20॥",
+      "translations": {
+        "english": "There were many pious men in this world who practise yoga and dharma .They have been destroyed along with their retinue due to mistakes committed by others.",
+        "hindi": "किन्तु यदि तू मुझे जीता जागता देखना चा | हृता है, तो मेरे | सासने राम की चचा भी मत कर । 'ऐसे अनेक हे और | बमांचरणयुक्त लोग इस संसार में हो गये हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 39,
+      "verse": 21,
+      "sloka": "बहवः साधवो लोके युक्ता धर्मम् अनुष्टिताः ।परेषाम् अपराधेन विनष्टाः स परिच्छदाः ॥३-३९-२१॥",
+      "transliteration": "bahavaḥ sādhavo loke yuktā dharmam anuṣṭitāḥ ।pareṣām aparādhena vinaṣṭāḥ sa paricchadāḥ ॥3-39-21॥",
+      "translations": {
+        "english": "O demon As such, I will perish due to your offence. You may do anything you deem appropriate. I will not follow you.",
+        "hindi": "जिन्हें दूसरों के किए अपराधों के कारण सकुटुम्ब नष्ट हो जाना पड़ा दे । सो क्या सुके भी तेरे अपराध के पीछे अपना नाश करवाना पड़ेगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 39,
+      "verse": 22,
+      "sloka": "सः अहम् पर अपराधेन विनाशेयम् निशाचर ।कुरु यत् ते क्षमम् तत् त्वम् अहम् त्वाम् न अनुयामि वै ॥३-३९-२२॥",
+      "transliteration": "saḥ aham para aparādhena vināśeyam niśācara ।kuru yat te kṣamam tat tvam aham tvām na anuyāmi vai ॥3-39-22॥",
+      "translations": {
+        "english": "Rama is brilliant, powerful and strong. I hope he will not be the god of death for the world of demons.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 39,
+      "verse": 23,
+      "sloka": "रामः च हि महातेजा महासत्त्वो महाबलः ।अपि राक्षस लोकस्य भवेत् अन्तकरो अपि हि ॥३-३९-२३॥",
+      "transliteration": "rāmaḥ ca hi mahātejā mahāsattvo mahābalaḥ ।api rākṣasa lokasya bhavet antakaro api hi ॥3-39-23॥",
+      "translations": {
+        "english": "For the sake of Surpanakha, Khara of Janasthana committed excesses and got killed by Rama who can accomplish things with ease.Tell me truly if Rama did violate anything here.",
+        "hindi": "कहीं ऐसा न हो कि, राक्षसों का नाम निशान तकन रह जाय । यद्यपि जनस्थान का रहने वाला खर, शूपेनखा के पीछे अङ्किष्ट्रकर्मा राम हारा सारा ' गया; तथापि यदि विचार पूर्वक देखा जाय तो, हे रावण ! तूही बतला इसमें राम का क्या अपराध है ?",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 39,
+      "verse": 24,
+      "sloka": "यदि शूर्पणखा हेतोः जनस्थान गत खरः ।अति वृत्तो हतः पूर्वम् रामेण अक्लिष्ट कर्मणा ।अत्र ब्रूहि यथावत् त्वम् को रामस्य व्यतिक्रमः ॥३-३९-२४॥",
+      "transliteration": "yadi śūrpaṇakhā hetoḥ janasthāna gata kharaḥ ।ati vṛtto hataḥ pūrvam rāmeṇa akliṣṭa karmaṇā ।atra brūhi yathāvat tvam ko rāmasya vyatikramaḥ ॥3-39-24॥",
+      "translations": {
+        "english": "For the sake of Surpanakha, Khara of Janasthana committed excesses and got killed by Rama who can accomplish things with ease.Tell me truly if Rama did violate anything here.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 39,
+      "verse": 25,
+      "sloka": "इदम् वचो बन्धु हित अर्थिना मयायथा उच्यमानम् यदि न अभिपत्स्यसे ।स बान्धवः त्यक्ष्यसि जीवितम् रणेहतो अद्य रामेण शरैः जिह्मगैः ॥३-३९-२५॥",
+      "transliteration": "idam vaco bandhu hita arthinā mayāyathā ucyamānam yadi na abhipatsyase ।sa bāndhavaḥ tyakṣyasi jīvitam raṇehato adya rāmeṇa śaraiḥ jihmagaiḥ ॥3-39-25॥",
+      "translations": {
+        "english": "If you do not follow my advice given for the welfare of our kith and kin, O Ravana, you are killed today. With your relations you will succumb to his straightmoving arrows. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अरण्यकाण्डे एकोनचत्वारिंशस्सर्गः।। Thus ends the thirtyninth sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+        "hindi": "इति एकोनचत्वारिंशः सग; ॥ तू भेरा बन्धु है इसीसे मैंने तेरी भलाई के लिए ही ये सब बातें तुझसे कही हैं। यदि तू मेरी बातों को न मानेगा, तो ( स्मरण रखना ) तू सपरिवार राम के बाणों से युद्ध में मारा जायगा",
+        "telugu": ""
+      }
+    }
+  ]
+}

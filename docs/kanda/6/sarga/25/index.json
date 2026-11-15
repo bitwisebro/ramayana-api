@@ -1,0 +1,485 @@
+{
+  "kanda": 6,
+  "kanda_name": "Yuddha Kanda",
+  "kanda_name_sanskrit": "युद्धकाण्डम्",
+  "sarga": 25,
+  "verses_count": 34,
+  "verses": [
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 25,
+      "verse": 1,
+      "sloka": "सबलेसागरंतीर्णेरामेदशरथात्मजे ।अमात्यौरावणश्रीमानब्रवीच्छुकसारणौ ॥६-२५-१॥।।",
+      "transliteration": "sabalesāgaraṁtīrṇerāmedaśarathātmaje ।amātyaurāvaṇaśrīmānabravīcchukasāraṇau ॥6-25-1॥।।",
+      "translations": {
+        "english": "On hearing about Rama, the son of Dasaratha crossing the shore of the ocean along with the army, exuberant Ravana spoke to his ministers Suka and Saarana.",
+        "hindi": "युद्धकाएड का चोबीसबाँ सग पूरा हुआ । ZT वव. पञ्चविंशः सगः = क्ष विजयी विकी सबले सागरं तीण रामे दशरथात्मजे । अमात्यौ रावणः :श्रीमानत्रबीच्छुकसारणौ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 25,
+      "verse": 2,
+      "sloka": "समग्रंसागरंतीर्णंदुस्तरंवानरंबलम् ।अभूतपूर्वंरामेणसागरेसेतुबन्धनम् ॥६-२५-२॥।।",
+      "transliteration": "samagraṁsāgaraṁtīrṇaṁdustaraṁvānaraṁbalam ।abhūtapūrvaṁrāmeṇasāgaresetubandhanam ॥6-25-2॥।।",
+      "translations": {
+        "english": "\"That all the Vanara army together with Rama have crossed the arduous ocean and that the construction of a bridge (is possible) in the sea is not known before.\"",
+        "hindi": "देखो, दुस्तर समस्त सागर को वानरी सेना पार कर | आयी । श्रीराम का समुद्र के ऊपर पुल बाँधना भी एक ऐसा काम है, जो इसके पहिले कभी किसी ने नहीं कर पाया था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 25,
+      "verse": 3,
+      "sloka": "सागरेसेतुबन्दंतुनश्रद्दध्यांकथञ्चन ।अवश्यंचापिसङ् ख्येयंतन्मयावानरंबलम् ॥६-२५-३॥।।",
+      "transliteration": "sāgaresetubandaṁtunaśraddadhyāṁkathañcana ।avaśyaṁcāpisaṅ khyeyaṁtanmayāvānaraṁbalam ॥6-25-3॥।।",
+      "translations": {
+        "english": "\"It is not believable even to me that they constructed a bridge in the sea. Surely I wish to know the size of their army.\"",
+        "hindi": "यद्यपि सागर के ऊपर पुल बाँध लेने से मुझे श्रीरामचन्द्र के ऊपर किसी प्रकार श्रद्धा उत्पन्न नहीं होती तथापि मुझे यह जान लेना आवश्यक है कि, श्री रामचन्द्र के साथ कितनी सेना है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 25,
+      "verse": 4,
+      "sloka": "भवन्तौवानरंसैन्यंप्रविश्यानुपलक्षितौ ।परिमाणंचवीर्यंचयेचमुख्याःप्लवङ्घमाः ॥६-२५-४॥।।",
+      "transliteration": "bhavantauvānaraṁsainyaṁpraviśyānupalakṣitau ।parimāṇaṁcavīryaṁcayecamukhyāḥplavaṅghamāḥ ॥6-25-4॥।।",
+      "translations": {
+        "english": "\"Both of you enter Vanara's army without their knowledge and know about the size of the army, of Rama and Sugriva's ministers, of army chiefs who are in the forefront, of the warriors, how they have built bridge in the middle of the sea, about the location of Vanaras and in the same way the efforts and valour of heroes Rama and Lakshmana, I ought to know truly.\"",
+        "hindi": "सो तुम छिप कर वानरी सेना में जाओ ओर वहाँ जा कर | देख आओ कि, वानरी सेना कितनी है, उसकी केसी शक्ति है । मुख्य मुख्य बानर कोन कौन हें",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 25,
+      "verse": 5,
+      "sloka": "मन्त्रिणोयेचरामस्यसुग्रीवस्यचसम्मता: ।येपूर्वमभिवर्तन्तेयेचशूराःप्लवङ्गमाः ॥६-२५-५॥।।",
+      "transliteration": "mantriṇoyecarāmasyasugrīvasyacasammatā: ।yepūrvamabhivartanteyecaśūrāḥplavaṅgamāḥ ॥6-25-5॥।।",
+      "translations": {
+        "english": "\"Both of you enter Vanara's army without their knowledge and know about the size of the army, of Rama and Sugriva's ministers, of army chiefs who are in the forefront, of the warriors, how they have built bridge in the middle of the sea, about the location of Vanaras and in the same way the efforts and valour of heroes Rama and Lakshmana, I ought to know truly.\"",
+        "hindi": "श्री रामचन्द्र और सुग्रीव के कौन कौन मंत्री हैं, जिनकी बातें वे दोनों मानते हैं या जिनका वे दोंनो आदर करते हैं। वे कौन शूर हैं, जो सेना के आगे रहते हैं और उनमें जो - । 9 बास्तघ में शूर बानर हैं उन सब का पता लगा लाओ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 25,
+      "verse": 6,
+      "sloka": "सचसेतुर्यथाबद्धस्सागरेसलिलार्णवे ।निवेशंचयधातेषांवानराणांमहात्मनाम् ॥६-२५-६॥।।",
+      "transliteration": "sacaseturyathābaddhassāgaresalilārṇave ।niveśaṁcayadhāteṣāṁvānarāṇāṁmahātmanām ॥6-25-6॥।।",
+      "translations": {
+        "english": "\"Both of you enter Vanara's army without their knowledge and know about the size of the army, of Rama and Sugriva's ministers, of army chiefs who are in the forefront, of the warriors, how they have built bridge in the middle of the sea, about the location of Vanaras and in the same way the efforts and valour of heroes Rama and Lakshmana, I ought to know truly.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 25,
+      "verse": 7,
+      "sloka": "रामस्यव्यवसायंचवीर्यंप्रहरणानिच ।लक्ष्मणस्यचवीर्यंतत्त्वतोज्ञातुमर्हथः ॥६-२५-७॥।।",
+      "transliteration": "rāmasyavyavasāyaṁcavīryaṁpraharaṇānica ।lakṣmaṇasyacavīryaṁtattvatojñātumarhathaḥ ॥6-25-7॥।।",
+      "translations": {
+        "english": "\"Both of you enter Vanara's army without their knowledge and know about the size of the army, of Rama and Sugriva's ministers, of army chiefs who are in the forefront, of the warriors, how they have built bridge in the middle of the sea, about the location of Vanaras and in the same way the efforts and valour of heroes Rama and Lakshmana, I ought to know truly.\"",
+        "hindi": "तुंम लोग इसका भी ठीक ठीक पता लगाना कि राम और -लद््मण क्या करना चाहते हैं, उनमें बल कितना है, वे किन . आयुधो से लड़ते हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 25,
+      "verse": 8,
+      "sloka": "कश्चसेनापतिस्तेषांवानराणांमहौजसाम् ।तच्चज्ञात्वायथातत्त्वंशीघ्रमगन्तुमर्हथः ॥६-२५-८॥।।",
+      "transliteration": "kaścasenāpatisteṣāṁvānarāṇāṁmahaujasām ।taccajñātvāyathātattvaṁśīghramagantumarhathaḥ ॥6-25-8॥।।",
+      "translations": {
+        "english": "Among those energetic Vanaras, who is the chief of the army? Knowing all these matters, it is fit for you to return quickly.",
+        "hindi": "उस बड़ी बलवती वानरी सेना का कौन सेनापति है । इन सब बातों का पता लगा तुम शीघ आ जाओ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 25,
+      "verse": 9,
+      "sloka": "इतिप्रतिसमादिष्टौराक्षसौशुकसारणौ ।हरिरूपधरौवीरौप्रविष्टौवानरंबलम् ॥६-२५-९॥।।",
+      "transliteration": "itipratisamādiṣṭaurākṣasauśukasāraṇau ।harirūpadharauvīraupraviṣṭauvānaraṁbalam ॥6-25-9॥।।",
+      "translations": {
+        "english": "Having accepted the order, both the Rakshasa heroes, Suka and Saarana took the form of Vanaras and entered the Vanara army.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 25,
+      "verse": 10,
+      "sloka": "ततस्तद्वानरंसैन्यमचिन्त्यंरोमहर्षणम् ।सङ् ख्यातुंनाध्यगच्छेतांतदातौशुकसारणौ ॥६-२५-१०॥।।",
+      "transliteration": "tatastadvānaraṁsainyamacintyaṁromaharṣaṇam ।saṅ khyātuṁnādhyagacchetāṁtadātauśukasāraṇau ॥6-25-10॥।।",
+      "translations": {
+        "english": "There upon both Suka and Saarana did not know the numbers (of the army) at that time as they could not count the numbers from there as it could not be conceived. It caused the raising of their hair.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 25,
+      "verse": 11,
+      "sloka": "संस्थितंपर्वताग्रेषुनिर्दरेषुगुहासुच ।समुद्रस्यचतीरेषुवनेषूपवनेषुच ॥६-२५-११॥।।",
+      "transliteration": "saṁsthitaṁparvatāgreṣunirdareṣuguhāsuca ।samudrasyacatīreṣuvaneṣūpavaneṣuca ॥6-25-11॥।।",
+      "translations": {
+        "english": "The ocean of army settled on the mountain summits, in caverns and caves, on the shores of the ocean, in the forests and adjoining gardens some who crossed the sea some in the process of crossing settled all over was witnessed by the Rakshasas. It was never ending and making terrific noise.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 25,
+      "verse": 12,
+      "sloka": "तरमाणंचतीर्णंचतर्तुकामंचसर्वशः ।निविष्टंनिविश्चैवभीमनादंमहाबलम् ॥६-२५-१२॥।।",
+      "transliteration": "taramāṇaṁcatīrṇaṁcatartukāmaṁcasarvaśaḥ ।niviṣṭaṁniviścaivabhīmanādaṁmahābalam ॥6-25-12॥।।",
+      "translations": {
+        "english": "The ocean of army settled on the mountain summits, in caverns and caves, on the shores of the ocean, in the forests and adjoining gardens some who crossed the sea some in the process of crossing settled all over was witnessed by the Rakshasas. It was never ending and making terrific noise.",
+        "hindi": "सो भी बहुत सी तो पार हो चुकी थी और बहत सी ) ॥र बहुत सी. पार होने की तैयारी कर रही थी । अनेक डानरसैनिक उस समव डेरे डाल चुके थे । वे सब के सब सिंह की तरह . दहाड़ रहे थे और बड़े बलवान्‌ थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 25,
+      "verse": 13,
+      "sloka": "तद्बलार्णवमक्षोभ्यंददृशातेनिशाचरौ ।तौददर्शमहातेजाःप्रतिच्छन्नौचविभीषणः ।आचचक्षेऽथरामायगृहीत्वाशुकसारणौ ॥६-२५-१३॥।।",
+      "transliteration": "tadbalārṇavamakṣobhyaṁdadṛśāteniśācarau ।taudadarśamahātejāḥpraticchannaucavibhīṣaṇaḥ ।ācacakṣe'tharāmāyagṛhītvāśukasāraṇau ॥6-25-13॥।।",
+      "translations": {
+        "english": "Brilliant Vibheeshana saw both Suka and Saarana hidden in the army. He took hold of them and brought to the notice of Rama.",
+        "hindi": "वे दोनों राक्षस अपना असली रूप छिपाये, उस सेनारूपी ~ र रा >. (> ००७ अक्षोभ्य सागर को देख ही रहे थे कि, इतने में तेजस्वी विभीषण ने उनको पहचान लिग्ना",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 25,
+      "verse": 14,
+      "sloka": "तस्यैमौराक्षसेन्द्रस्यमन्त्रिणौशुकसारणौ ।लङ्कायस्समनुप्राप्तौचारौपरपुरञ्जय: ॥६-२५-१४॥।।",
+      "transliteration": "tasyaimaurākṣasendrasyamantriṇauśukasāraṇau ।laṅkāyassamanuprāptaucārauparapurañjaya: ॥6-25-14॥।।",
+      "translations": {
+        "english": "\"O conqueror of enemy's citadels! these are spies from Lanka, Suka and Saarana who have come to find us out.\"",
+        "hindi": "ओर उन दोनों शुक सारण को पकड़ कर, वे श्रीरामचन्द्र जी के पास ले गये और कहा--हे शत्र को जीतने वाले ! ये दोनों राक्षस राजा रावण के मंत्री हैं। इनके नाम शुक और सारणे 'हें। ये लङ्का से यहाँ गुप्तचर बन कर आए हैं। वे श्रीरामचन्द्र जी को देख बहुत व्यथित हुए और जीबन की आशा से भी हाथ घो बैठे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 25,
+      "verse": 15,
+      "sloka": "तौदृष्टवाव्यथितौरामंनिराशौजीवितेतथा ।कृताञ्जलिपुटौभीतौवचनंचेदमूचतुः ॥६-२५-१५॥।।",
+      "transliteration": "taudṛṣṭavāvyathitaurāmaṁnirāśaujīvitetathā ।kṛtāñjalipuṭaubhītauvacanaṁcedamūcatuḥ ॥6-25-15॥।।",
+      "translations": {
+        "english": "The two (Rakshasa spies) got worried to look at Rama and also lost hope of their life. Caught up with fear they lifted their palms greeting Rama and expressed these words.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 25,
+      "verse": 16,
+      "sloka": "आवामिहागतौसौम्य रावणप्रहितावुभौ ।परिज्ञातुंबलंसर्वंतवेदंरघुनन्दन: ॥६-२५-१६॥।।",
+      "transliteration": "āvāmihāgatausaumya rāvaṇaprahitāvubhau ।parijñātuṁbalaṁsarvaṁtavedaṁraghunandana: ॥6-25-16॥।।",
+      "translations": {
+        "english": "\"O noble one! We have come to you assigned by Ravana. O delight of Raghu race, thus we arrived here to know about the entire strength of your army.\"",
+        "hindi": "उन्होंने मारे डर के हाथ जोड़ कर यह कइा--हे सौम्य ! हम दोनों रावण के भेज हुए यहाँ आये हें",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 25,
+      "verse": 17,
+      "sloka": "तयोस्तद्वचनंश्रुत्वारामोदशरथात्मजः ।अब्रवीत्प्रहसन्वाक्यंसर्वभूतहितेरतः ॥६-२५-१७॥।।",
+      "transliteration": "tayostadvacanaṁśrutvārāmodaśarathātmajaḥ ।abravītprahasanvākyaṁsarvabhūtahiterataḥ ॥6-25-17॥।।",
+      "translations": {
+        "english": "\"On hearing (the spies) Dasaratha's son Rama who remains devoted to the wellbeing of all beings spoke these words smiling at both of them.\"",
+        "hindi": "हे रघुनन्दन £ हम इसलिए भेज गये हैं कि, हम तुम्हारी समस्त सेना की संख्या जान लें । दाशरथि श्रीरामचन्द्र जी ने उनके ये वचन सुने",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 25,
+      "verse": 18,
+      "sloka": "यदिदृष्टंबलंसर्वंवयंवासुपरिक्षिताः ।यथोक्तंवाकृतंकार्यछन्दतःप्रतिगम्यताम् ॥६-२५-१८॥।।",
+      "transliteration": "yadidṛṣṭaṁbalaṁsarvaṁvayaṁvāsuparikṣitāḥ ।yathoktaṁvākṛtaṁkāryachandataḥpratigamyatām ॥6-25-18॥।।",
+      "translations": {
+        "english": "After observing our entire army carefully, acting appropriately (according to Ravana's words) and accomplishing your task you may freely return (said Rama to the spies).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 25,
+      "verse": 19,
+      "sloka": "अथकिञ्चिददृष्टंवाभूयस्तद्द्रष्टुमर्हथः ।विभीषणोवाकात्स्नर्येनभूयस्सन्दर्शयिष्यति ॥६-२५-१९॥।।",
+      "transliteration": "athakiñcidadṛṣṭaṁvābhūyastaddraṣṭumarhathaḥ ।vibhīṣaṇovākātsnaryenabhūyassandarśayiṣyati ॥6-25-19॥।।",
+      "translations": {
+        "english": "\"If you have not seen even a bit, you ought to see. Or else Vibheeshana will show you the total army.\"",
+        "hindi": "क्योंकि बह्‌ सेना ( एक स्थान पर नहीं बहिक ). पर्त शिखरों पर, भरनों के समीप, गिरिगुहाओं में, समुद्र के तट पर बनो और उपवनों में फैली हुई पड़ी थी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 25,
+      "verse": 20,
+      "sloka": "नचेदंग्रहणंप्राप्यभेत्तव्यंजीवितंप्रति ।न्यस्तशस्त्रौगृहतौवानदूतौवधमर्हतः ॥६-२५-२०॥।।",
+      "transliteration": "nacedaṁgrahaṇaṁprāpyabhettavyaṁjīvitaṁprati ।nyastaśastraugṛhatauvānadūtauvadhamarhataḥ ॥6-25-20॥।।",
+      "translations": {
+        "english": "As you have been caught by us like this you need not have apprehension of your life. Those who do not possess wield or those who are envoys ought not to be slayed.",
+        "hindi": "दद राक्षसेश्वर ! हमें मार डालने के लिए विभीषण ने हमें पकड़ लिआ था ; किन्तु असीम तेजस्वी धर्मात्मा श्रीरामचन्द्रजी ने हमको देखते ही छोड़ 4दिआ।!",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 25,
+      "verse": 21,
+      "sloka": "प्रच्छमानौविमुञ्चैतौचारौरात्रिंचरावुभौ ।शत्रुपक्षस्यसततंविभीषण: विकर्षिणौ ॥६-२५-२१॥।।",
+      "transliteration": "pracchamānauvimuñcaitaucāraurātriṁcarāvubhau ।śatrupakṣasyasatataṁvibhīṣaṇa: vikarṣiṇau ॥6-25-21॥।।",
+      "translations": {
+        "english": "\"Vibheeshana! Even though they are spies seeking to divide the enemy army as both the night rangers have been requesting, you may set them free.\"",
+        "hindi": "क्योंकि तुम शस्त्ररहित पकड़े गए हो और दूत बन कर आए हो अतः तुम मार डालने योग्य नहीं हो । हे विभीषण.! यद्यपि ये रूप बदल कर आए हैं, शत्रु के भेदिए हैं और सुग्रीवादि का भेद लेने आए हैं ; तथापि इन दोनों राक्षसचरों को छोड़ दो। ( विभीषण से यह कह श्रीरामचन्द्र पुनः उन गुप्तचरों से कहने लगे । ) हे राक्षसचरो ! लङ्का में जा कर आप लोग कुबेर के भाई राक्षसराज रावण से, मैं जो कहता हूँ सो ज्यों का त्यों कह्‌ देना । उनसे कहना कि, जिस बलवूते पर तूने मेरी सीता हरी हे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 25,
+      "verse": 22,
+      "sloka": "प्रविश्यनगरींलङ्कांभवद् भ्यांधनदानुजः ।वक्तव्योरक्षसांराजायथोक्तंवचनंमम ॥६-२५-२२॥।।",
+      "transliteration": "praviśyanagarīṁlaṅkāṁbhavad bhyāṁdhanadānujaḥ ।vaktavyorakṣasāṁrājāyathoktaṁvacanaṁmama ॥6-25-22॥।।",
+      "translations": {
+        "english": "\"Upon entering the city of Lanka, you may tell my words to the king of Rakshasas, the younger brother of Kubera just as it was told by me.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 25,
+      "verse": 23,
+      "sloka": "यद्बलंचसमाश्रित्यसीतांमेहृतवानपि ।तद्दर्शययथाकामंससैन्यस्सहबान्धवः ॥६-२५-२३॥।।",
+      "transliteration": "yadbalaṁcasamāśrityasītāṁmehṛtavānapi ।taddarśayayathākāmaṁsasainyassahabāndhavaḥ ॥6-25-23॥।।",
+      "translations": {
+        "english": "\"Let him display the strength on which he has abducted my Sita along with his army and relations at his will.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 25,
+      "verse": 24,
+      "sloka": "श्वःकाल्येनगरींलङ्कांसप्राकारांसतोरणाम् ।रक्षसंचबलंपश्यशरैर्विध्वंसितंमया ॥६-२५-२४॥।।",
+      "transliteration": "śvaḥkālyenagarīṁlaṅkāṁsaprākārāṁsatoraṇām ।rakṣasaṁcabalaṁpaśyaśarairvidhvaṁsitaṁmayā ॥6-25-24॥।।",
+      "translations": {
+        "english": "At dawn tomorrow, you may see how I will crush the arches of the entrance of Lanka city and the strength of Rakshasas.\"",
+        "hindi": "उस अपने बल को अपनी सेना और भाईबन्दों के सहित मुझे दिखला । तू कल सबेरे परकोटे और तोरण दारों सहित लङ्कापुरी कों तथा समस्त राक्षसी सेना को मेरे बाणों से ध्वस्त हुआ देखेगा ! हे रावण! कल सवेरे में सेनालहित तेरे ऊपर अपना भयङ्कर क्रोध वैसे ही प्रकट करूंगा जैसे बज्रधारी इन्द्र दानवों के ऊपर वज्र छोड़ कर, अपना क्रोध प्रकट करते हैं। इस प्रकार अब श्रीरामचन्द्र जी ने उन्न दोनों शुक सारण राक्षसा को आज्ञा दी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 25,
+      "verse": 25,
+      "sloka": "क्रोधंभीममहंमोक्ष्येससैन्येत्वयिरावण: ।श्वःकाल्येवज्रवान्वज्रंदानवेष्विववासवः ॥६-२५-२५॥।।",
+      "transliteration": "krodhaṁbhīmamahaṁmokṣyesasainyetvayirāvaṇa: ।śvaḥkālyevajravānvajraṁdānaveṣvivavāsavaḥ ॥6-25-25॥।।",
+      "translations": {
+        "english": "\"Tomorrow at the dawn of the day I will release my dreadful anger on Ravana and even on Rakshasas just as the thunderbolt of Indra was released on Rakshasas.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 25,
+      "verse": 26,
+      "sloka": "इतिप्रतिसमादिष्टौराक्षसौशुकसारणौ ॥६-२५-२६॥।।",
+      "transliteration": "itipratisamādiṣṭaurākṣasauśukasāraṇau ॥6-25-26॥।।",
+      "translations": {
+        "english": "Having heard the reply of Rama, both the Rakshasas Suka and Saarana praising Rama saying, \"Victory to you!\" reached Lanka and said to the king of Rakshasas as follows.",
+        "hindi": "दाशरथी श्रीरामचन्द्र, शोभासम्पन्न लक्ष्मण, विभीषण और महातेजस्वी एबं इन्द्र के समान पराक्रमी सुग्रीव, ये चारों श्रेष्ठज्ञन एक ही स्थान पर टिके हुए हैं। ये लोकपालों को तरह शूर हैं, श्जविद्या में निपुण हैं और बड़े पराक्रमी हूँ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 25,
+      "verse": 27,
+      "sloka": "जयेतिप्रतिनन्द्यैतौराघवंधर्मवत्सलम् ।आगम्यनगरींलङ्कामब्रूतांराक्षसाधिपम् ॥६-२५-२७॥।।",
+      "transliteration": "jayetipratinandyaitaurāghavaṁdharmavatsalam ।āgamyanagarīṁlaṅkāmabrūtāṁrākṣasādhipam ॥6-25-27॥।।",
+      "translations": {
+        "english": "Having heard the reply of Rama, both the Rakshasas Suka and Saarana praising Rama saying, \"Victory to you!\" reached Lanka and said to the king of Rakshasas as follows.",
+        "hindi": "तब वे धमवत्सल श्रीरामचन्द्र जी की जयजयकार करते हुए लक्का में जा राक्तसराज रावण से बोले",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 25,
+      "verse": 28,
+      "sloka": "विभीषणगृहीतौतुवधार्तौराक्षसेश्वर: ।दृष्टवाधर्मात्मनामुक्तौरामेणामिततेजसा ॥६-२५-२८॥।।",
+      "transliteration": "vibhīṣaṇagṛhītautuvadhārtaurākṣaseśvara: ।dṛṣṭavādharmātmanāmuktaurāmeṇāmitatejasā ॥6-25-28॥।।",
+      "translations": {
+        "english": "\"O king of Rakshasas! Vibheeshana held us captive for slaying us. But righteous self, Rama, the highly effulgent one released us on seeing.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 25,
+      "verse": 29,
+      "sloka": "एकस्थानगतायत्रचत्वारःपुरुषर्षभाः ।लोकपालसमाश्शूराःकृतास्त्रादृढविक्रमा ॥६-२५-२९॥।।",
+      "transliteration": "ekasthānagatāyatracatvāraḥpuruṣarṣabhāḥ ।lokapālasamāśśūrāḥkṛtāstrādṛḍhavikramā ॥6-25-29॥।।",
+      "translations": {
+        "english": "\"Exuberant Rama and Lakshmana, highly brilliant Vibheeshana, and Sugriva who resembles Indra in his valour, are like rulers of the world and are heroic, wielders of weapons and bulls among men. If all four of them come together there in that manner, they will unearth the arch ways and even the city of Lanka. They are capable even if the Vanaras are kept away.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 25,
+      "verse": 30,
+      "sloka": "रामोदाशरथि्शीमान् लक्ष्मणश्चविभीषणः ।सुग्रीवश्चमहातेजामहेन्द्रसमविक्रमः ॥६-२५-३०॥।।",
+      "transliteration": "rāmodāśarathi्śīmān lakṣmaṇaścavibhīṣaṇaḥ ।sugrīvaścamahātejāmahendrasamavikramaḥ ॥6-25-30॥।।",
+      "translations": {
+        "english": "\"Exuberant Rama and Lakshmana, highly brilliant Vibheeshana, and Sugriva who resembles Indra in his valour, are like rulers of the world and are heroic, wielders of weapons and bulls among men. If all four of them come together there in that manner, they will unearth the arch ways and even the city of Lanka. They are capable even if the Vanaras are kept away.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 25,
+      "verse": 31,
+      "sloka": "एतेशक्ताःपुरीलङ्कांसप्राकारांसतोरणाम् ।उत्पाट्यसङ्क्रमयितुंसर्वेतिष्ठन्तुवानराः ॥६-२५-३१॥।।",
+      "transliteration": "eteśaktāḥpurīlaṅkāṁsaprākārāṁsatoraṇām ।utpāṭyasaṅkramayituṁsarvetiṣṭhantuvānarāḥ ॥6-25-31॥।।",
+      "translations": {
+        "english": "\"Exuberant Rama and Lakshmana, highly brilliant Vibheeshana, and Sugriva who resembles Indra in his valour, are like rulers of the world and are heroic, wielders of weapons and bulls among men. If all four of them come together there in that manner, they will unearth the arch ways and even the city of Lanka. They are capable even if the Vanaras are kept away.\"",
+        "hindi": "थे चार अकेले ही परकोटों और तोरणद्वारों सहित लङ्का को उखाड़ कर फेंक सकते हें ॥ आप समस्त वानर भले ही बैठे रहें",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 25,
+      "verse": 32,
+      "sloka": "यादृश्यंतस्यरामस्यरूपंप्रहरणानिच ।वधिष्यतिपुरींलङ्कामेकस्तिष्ठन्तुतेत्रयः ॥६-२५-३२॥।।",
+      "transliteration": "yādṛśyaṁtasyarāmasyarūpaṁpraharaṇānica ।vadhiṣyatipurīṁlaṅkāmekastiṣṭhantutetrayaḥ ॥6-25-32॥।।",
+      "translations": {
+        "english": "\"If we see Rama's form and his weapon it is enough. He can alone slay even when all the other three keep away.\"",
+        "hindi": "जिस प्रकार का श्रीराम आदि का रूप है. और जैसे उनके हथियार हैं ; उनको देखते हुए कहा जा सकता है कि, श्रीराम अकेले ही लङ्का का नाश कर सकते हैं। लक्ष्मण सुग्रीव ओर विभीषण, इन तीनों की. सहायता की भी. उनको “आवश्यकता नहीं है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 25,
+      "verse": 33,
+      "sloka": "रामलक्ष्मणगुप्तासासुग्रीवेणचवाहिनी ।बभूवदुर्दर्षतरासर्वैरपिसुरासुरैः ॥६-२५-३३॥।।",
+      "transliteration": "rāmalakṣmaṇaguptāsāsugrīveṇacavāhinī ।babhūvadurdarṣatarāsarvairapisurāsuraiḥ ॥6-25-33॥।।",
+      "translations": {
+        "english": "\"Even if Rama and Lakshmana are protected, and even Sugriva also, the entire army seems formidable like suras and asuras.\"",
+        "hindi": "संक्रामयित -श्रन्यत्र ्े्दुम्‌ । (गो) -. . ३ क्कामबित अन्यतर बेच्न | (गो) 2. ० 5 २१८ ` ` युद्धकाण्डे श्रीराम लक्ष्मण और सुग्रीव से रक्षित वानरी सेना, इन्द्र “१ सहित देवताओं और दानबों से भी अति अजेय हो गई",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 25,
+      "verse": 34,
+      "sloka": "प्रहृष्टरूपाध्वजिनीवनौकसां ।महात्मनाम् सम्प्रतियोद्धुमिच्छताम् ।अलंविरोधेनशमोविधीयतांप्रदीयतांदाशरथायमैदिली ॥६-२५-३४॥।।",
+      "transliteration": "prahṛṣṭarūpādhvajinīvanaukasāṁ ।mahātmanām sampratiyoddhumicchatām ।alaṁvirodhenaśamovidhīyatāṁpradīyatāṁdāśarathāyamaidilī ॥6-25-34॥।।",
+      "translations": {
+        "english": "\"The army of the great-souled forest-dwellers, its warriors exultant, now desires to fight. Enough of enmity; let peace be made, and let Maithili be given to the son of Dasaratha.\"",
+        "hindi": "हे राजन्‌! बानरी सेना में प्रसन्नता छाई हुई है और वे सब दृढ़ मनस्क हैं और तुरन्त युद्ध करना चाहते हें । अतएब आप अपना क्रोध शान्त कीजिए और दशरथनन्दन श्रीरामचन्द्र को जानकी दै कर, उनके साथ शत्रुता की इतिश्री कर डालिए",
+        "telugu": ""
+      }
+    }
+  ]
+}

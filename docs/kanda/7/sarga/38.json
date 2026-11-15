@@ -1,0 +1,471 @@
+{
+  "kanda": 7,
+  "kanda_name": "Uttara Kanda",
+  "kanda_name_sanskrit": "उत्तरकाण्डम्",
+  "sarga": 38,
+  "verses_count": 33,
+  "verses": [
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 38,
+      "verse": 1,
+      "sloka": "एवमास्ते महाबाहुरहन्यहनि राघवः ।प्रशासत्सर्वकार्याणि पौरजानपदेषु च ।। ७.३८.१ ॥",
+      "transliteration": "evamāste mahābāhurahanyahani rāghavaḥ ।praśāsatsarvakāryāṇi paurajānapadeṣu ca ।। 7.38.1 ॥",
+      "translations": {
+        "english": "Thus, the mighty-armed Rama lived day after day, administering all affairs concerning both the city dwellers and the rural populace.",
+        "hindi": "नोट--लंकाकाणड के अन्तिम सर्ग में सुग्रीवादि वानरों ओर बिमीत्रणादि राक्षसों का अपने अपने स्थानों को जाना कहा जा चुका है। किन्तु ५२वें श्लोक में पुनः उनकी उपस्थिति देख आश्चर्य होता है ! ] उत्तरकाण्ड का तीसबाँ सर्ग समाप्त हुआ ना श्क्कञ्चिशः सग: : —: o-:— ततो रामो महातेजा विस्मयात्‌ पुनरेव हि । उवाच &प्रशतो वाक्यमगस्त्यमृपिद्त्तमम्‌",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 38,
+      "verse": 2,
+      "sloka": "ततः कतिपयाहःसु वैदेहं मिथिलाधिपम् ।राघवः प्राञ्जलिर्भूत्वा वाक्यमेतदुवाच ह ।। ७.३८.२ ॥",
+      "transliteration": "tataḥ katipayāhaḥsu vaidehaṁ mithilādhipam ।rāghavaḥ prāñjalirbhūtvā vākyametaduvāca ha ।। 7.38.2 ॥",
+      "translations": {
+        "english": "Then, after a few days, Rama, with folded hands, spoke these words to Janaka, the king of Videha and lord of Mithila.",
+        "hindi": "हे त्राह्मणश्र ष्ठ ! हे भगवन्‌ ! क्र,र स्वभाव रावण जब प्रथिवी पर घूसता था, तब क्या इस प्रथिवी पर कोइ वीर था ही नहीं ? अथवा क्या प्रथिवी वीरशून्य थी ?",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 38,
+      "verse": 3,
+      "sloka": "भवान्हि गतिरव्यग्रा भवता पालिता वयम् ।भवतस्तेजसोग्रेण रावणो निहतो मया ।। ७.३८.३ ॥",
+      "transliteration": "bhavānhi gatiravyagrā bhavatā pālitā vayam ।bhavatastejasogreṇa rāvaṇo nihato mayā ।। 7.38.3 ॥",
+      "translations": {
+        "english": "You are indeed our steadfast refuge, and we have been protected by you; it was by your fierce might that Ravana was killed by me.",
+        "hindi": "उस समग्र क्या कोई राजा या अन्य कोई राजपुरुष एसा न रह गया था, जो रावण को दबा सकता !",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 38,
+      "verse": 4,
+      "sloka": "इक्ष्वाकूणां च सर्वेषां मैथिलानां च सर्वशः ।अतुलाः प्रीतयो राजन्सम्बन्धकपुरोगमाः ।। ७.३८.४ ॥",
+      "transliteration": "ikṣvākūṇāṁ ca sarveṣāṁ maithilānāṁ ca sarvaśaḥ ।atulāḥ prītayo rājansambandhakapurogamāḥ ।। 7.38.4 ॥",
+      "translations": {
+        "english": "O King, the affections between all the Ikshvakus and all the Maithilas, especially those stemming from our marital relationship, are truly incomparable.",
+        "hindi": "क्या उस समय राजाओं में दलबन्ी थी अथबा सब राजाओं का तेज और बल नष्ट हो गया था ? आथवा क्या वे सब रावण से हार गए ?",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 38,
+      "verse": 5,
+      "sloka": "तद्भवान्स्वपुरं यातु रत्नान्यादाय पार्थिव ।भरतश्च सहायार्थं पृष्ठतस्ते ऽनुयास्यति ।। ७.३८.५ ॥",
+      "transliteration": "tadbhavānsvapuraṁ yātu ratnānyādāya pārthiva ।bharataśca sahāyārthaṁ pṛṣṭhataste 'nuyāsyati ।। 7.38.5 ॥",
+      "translations": {
+        "english": "Therefore, O King, you may return to your city taking the jewels, and Bharata will follow behind you for assistance.",
+        "hindi": "श्रीरामचन्द्र जी फे इन बचनों को सन, भगवान्‌ अगस्त्य ऋषि जी हँस कर, श्रीरामचन्द्र जी से ऐसे बोले, मानों ब्रह्मा जी शिब जी से बोलते हाँ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 38,
+      "verse": 6,
+      "sloka": "स तथेति नृपः कृत्वा राघवं वाक्यमब्रवीत् ।प्रीतो ऽस्मि भवतो राजन्दर्शनेन नयेन च ।। ७.३८.६ ॥",
+      "transliteration": "sa tatheti nṛpaḥ kṛtvā rāghavaṁ vākyamabravīt ।prīto 'smi bhavato rājandarśanena nayena ca ।। 7.38.6 ॥",
+      "translations": {
+        "english": "Having agreed, King Janaka then spoke to Rama, saying, \"O King, I am pleased by your sight and your wisdom.\"",
+        "hindi": "हे राजाओं में श्र ष्ठ ! हे प्रथिवीपते ! इस प्रकार राजाओं को पीड़ित करता हुआ रावण जत्र प्रथिवी पर घूम रहा था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 38,
+      "verse": 7,
+      "sloka": "यान्येतानि तु रत्नानि मदर्थं सञ्चितानि वै ।दुहित्रे तानि वै राजन्सर्वाण्येव ददामि च ।। ७.३८.७ ॥",
+      "transliteration": "yānyetāni tu ratnāni madarthaṁ sañcitāni vai ।duhitre tāni vai rājansarvāṇyeva dadāmi ca ।। 7.38.7 ॥",
+      "translations": {
+        "english": "O King, I give all these jewels, which were collected for my sake, to my daughter.",
+        "hindi": "तब बह घूमता घूमता स्वग तुल्य उस साहिष्मती पुरी में पहुँचा, जहाँ सदा अग्निदेव वास करते थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 38,
+      "verse": 8,
+      "sloka": "एवमुक्त्वा तु काकुत्स्थं जनको हृष्टमानसः ।प्रययौ मिथिलां श्रीमांस्तमनुज्ञाय राघवम् ।। ७.३८.८ ॥",
+      "transliteration": "evamuktvā tu kākutsthaṁ janako hṛṣṭamānasaḥ ।prayayau mithilāṁ śrīmāṁstamanujñāya rāghavam ।। 7.38.8 ॥",
+      "translations": {
+        "english": "Having thus spoken to Rama, the glorious Janaka, with a joyful mind, took leave of Rama and departed for Mithila.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 38,
+      "verse": 9,
+      "sloka": "ततः प्रयाते जनके केकयं मातुलं प्रभुः ।राघवः प्राञ्जलिर्भूत्वा वाक्यमेतदुवाच ह ।। ७.३८.९ ॥",
+      "transliteration": "tataḥ prayāte janake kekayaṁ mātulaṁ prabhuḥ ।rāghavaḥ prāñjalirbhūtvā vākyametaduvāca ha ।। 7.38.9 ॥",
+      "translations": {
+        "english": "After Janaka had departed, Lord Rama, with folded hands, then spoke these words to his maternal uncle, Kekaya.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 38,
+      "verse": 10,
+      "sloka": "इदं राज्यमहं चैव भरतश्च सलक्ष्मणः ।आयत्तास्त्वं हि नो राजन्गतिश्च पुरुषर्षभ ।। ७.३८.१० ॥",
+      "transliteration": "idaṁ rājyamahaṁ caiva bharataśca salakṣmaṇaḥ ।āyattāstvaṁ hi no rājangatiśca puruṣarṣabha ।। 7.38.10 ॥",
+      "translations": {
+        "english": "O King, O best among men, this kingdom, I, Bharata, and Lakshmana are all dependent on you, for you are indeed our refuge.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 38,
+      "verse": 11,
+      "sloka": "राजा हि वृद्धः सन्तापं त्वदर्थमुपयास्यति ।तस्माद्गमनमद्यैव रोचते तव पार्थिव ।। ७.३८.११ ॥",
+      "transliteration": "rājā hi vṛddhaḥ santāpaṁ tvadarthamupayāsyati ।tasmādgamanamadyaiva rocate tava pārthiva ।। 7.38.11 ॥",
+      "translations": {
+        "english": "The old king will indeed suffer sorrow for your sake, therefore, O prince, your departure today itself is suitable.",
+        "hindi": "राजा अर्जुन कहाँ है! शीघ्र बतलाओ | म॑ रावण हूं। में उसके साथ युद्ध करूँगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 38,
+      "verse": 12,
+      "sloka": "लक्ष्मणेनानुयात्रेण पृष्ठतो ऽनुगमिष्यते ।धनमादाय विपुलं रत्नानि विविधानि च ।। ७.३८.१२ ॥",
+      "transliteration": "lakṣmaṇenānuyātreṇa pṛṣṭhato 'nugamiṣyate ।dhanamādāya vipulaṁ ratnāni vividhāni ca ।। 7.38.12 ॥",
+      "translations": {
+        "english": "Lakshmana will follow behind as a companion, taking abundant wealth and various jewels.",
+        "hindi": "है ममागमनमप्यग्रे युष्माभिः सब्निवेधतास । इत्येवं रावणेनोक्तास्तेञमात्याः सुविपश्रितः",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 38,
+      "verse": 13,
+      "sloka": "युधाजित्तु तथेत्याह गमनं प्रति राघवम् ।रत्नानि च धनं चैव त्वय्येवाक्षय्यमस्त्विति ।। ७.३८.१३ ॥",
+      "transliteration": "yudhājittu tathetyāha gamanaṁ prati rāghavam ।ratnāni ca dhanaṁ caiva tvayyevākṣayyamastviti ।। 7.38.13 ॥",
+      "translations": {
+        "english": "Yudhājit then said to Rama regarding his departure, \"So be it; let the jewels and wealth indeed be inexhaustible in you alone.\"",
+        "hindi": "रावण से कहा कि, इस समय महाराज राजधानी में नहीं हैं। रावण पुरवासियों के मुख से यह सुन",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 38,
+      "verse": 14,
+      "sloka": "प्रदक्षिणं स राजानं कृत्वा केकयवर्धनः ।रामेण हि कृतः पूर्वमभिवाद्य प्रदक्षिणम् ।। ७.३८.१४ ॥",
+      "transliteration": "pradakṣiṇaṁ sa rājānaṁ kṛtvā kekayavardhanaḥ ।rāmeṇa hi kṛtaḥ pūrvamabhivādya pradakṣiṇam ।। 7.38.14 ॥",
+      "translations": {
+        "english": "Having circumambulated the king, Yudhājit, the enhancer of Kekaya, departed, just as Rama had previously saluted and circumambulated.",
+        "hindi": "उस पुरी को छोड़, हिमालय के समान विभ्ध्याचल पर आया । वहाँ जा कर उसने बह पर्वंत देखा, जो आकाश को स्पशं करता हुआ सा ऑर प्रथिवी को फोड़ कर निकला हुआ सा जान पड़ता था । वह हजारों शिखरों से शोभित था और सिंहादि अनेक जंतु उसकी कन्द्राओं में रहते थे । सेकडों श्वेत रङ्ग के जज के झरने उससे निकल रहे थे ! उससे ऐसा जान पडता था, मानों पेत अट्टहास कर रहा है। देव, दानव अप्सराओं सहित गंधर्व और किन्नर उस पर्वत पर स्त्रियों को ले कर क्रीड़ा कर रहे थे । इसीसे वह बडा ऊँचा पर्वत स्वर्ग जैसा जान पडता था | स्फटिक के समान स्वच्छ जल से भरी हुई नदियों से बह भूषित था; अतः वह पर्वत फणधारी चञ्चल जिह्वा वाले शेष जी की तरह शोभायमान हो रहा था | हिमा- लय के समान ऊँचा और कन्दराआं से युक्त, उस बिन्ध्यपवत को देखता देखता रावण नर्मदा नदी पर पहुँचा। वह पवित्र नदी स्वच्छ पर्वेतों पर बहती और पश्चिम समुद्र में गिरती थी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 38,
+      "verse": 15,
+      "sloka": "लक्ष्मणेन सहायेन प्रयातः केकयेश्वरः ।हते ऽसुरे यथा वृत्रे विष्णुना सह वासवः ।। ७.३८.१५ ॥",
+      "transliteration": "lakṣmaṇena sahāyena prayātaḥ kekayeśvaraḥ ।hate 'sure yathā vṛtre viṣṇunā saha vāsavaḥ ।। 7.38.15 ॥",
+      "translations": {
+        "english": "The lord of Kekaya departed with Lakshmana's help, just as Indra, with Vishnu, went after the demon Vritra was killed.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 38,
+      "verse": 16,
+      "sloka": "तं विसृज्य ततो रामो वयस्यमकुतोभयम् ।प्रतर्दनं काशिपतिं परिष्वज्येदमब्रवीत् ।। ७.३८.१६ ॥",
+      "transliteration": "taṁ visṛjya tato rāmo vayasyamakutobhayam ।pratardanaṁ kāśipatiṁ pariṣvajyedamabravīt ।। 7.38.16 ॥",
+      "translations": {
+        "english": "Then, having dismissed that fearless friend, Rama embraced Pratardana, the lord of Kashi, and spoke this.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 38,
+      "verse": 17,
+      "sloka": "दर्शिता भवता प्रीतिर्दर्शितं सौहृदं परम् ।उद्योगश्च कृतो राजन्भरतेन त्वया सह ।। ७.३८.१७ ॥",
+      "transliteration": "darśitā bhavatā prītirdarśitaṁ sauhṛdaṁ param ।udyogaśca kṛto rājanbharatena tvayā saha ।। 7.38.17 ॥",
+      "translations": {
+        "english": "O King, you have shown great affection and supreme friendship, and you, along with Bharata, have made a great effort.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 38,
+      "verse": 18,
+      "sloka": "तद्भवानद्य काशेय पुरीं वाराणसीं व्रज ।रमणीयां त्वया गुप्तां सुप्रकाशां सुतोरणाम् ।। ७.३८.१८ ॥",
+      "transliteration": "tadbhavānadya kāśeya purīṁ vārāṇasīṁ vraja ।ramaṇīyāṁ tvayā guptāṁ suprakāśāṁ sutoraṇām ।। 7.38.18 ॥",
+      "translations": {
+        "english": "Therefore, O King of Kashi, you should go today to your beautiful city of Varanasi, which is protected by you, well-illuminated, and adorned with beautiful arches.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 38,
+      "verse": 19,
+      "sloka": "एतावदुक्त्वा चोत्थाय काकुत्स्थः परमासनात् ।पर्यष्वजत धर्मात्मा निरन्तरमुरोगतम् ।। ७.३८.१९ ॥",
+      "transliteration": "etāvaduktvā cotthāya kākutsthaḥ paramāsanāt ।paryaṣvajata dharmātmā nirantaramurogatam ।। 7.38.19 ॥",
+      "translations": {
+        "english": "Having said this much, the righteous Rama rose from his excellent seat and embraced him closely to his chest.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 38,
+      "verse": 20,
+      "sloka": "विसर्जयामास तदा कौसल्यानन्दवर्धनः ।राघवेणाभ्यनुज्ञातः काशीशो ऽप्यकुतोभयः ।वाराणसीं ययौ तूर्णं राघवेण विसर्जितः ।। ७.३८.२० ॥",
+      "transliteration": "visarjayāmāsa tadā kausalyānandavardhanaḥ ।rāghaveṇābhyanujñātaḥ kāśīśo 'pyakutobhayaḥ ।vārāṇasīṁ yayau tūrṇaṁ rāghaveṇa visarjitaḥ ।। 7.38.20 ॥",
+      "translations": {
+        "english": "Then, Rama, who brings joy to Kaushalya, dismissed the fearless lord of Kashi, who, having been permitted and sent off by Rama, quickly returned to Varanasi.",
+        "hindi": "भेसे, समर, सिंह, शादू ल, भालू ओर गजेन्द्र आदि जीव, सूयं की गर्मी से उत्तप्त हो, नमंदा के जल में घुस, उसको गँदला कर रहे थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 38,
+      "verse": 21,
+      "sloka": "विसृज्य तं काशिपतिं त्रिशतं पृथिवीपतीन् ।प्रहसन्राघवो वाक्यमुवाच मधुराक्षरम् ।। ७.३८.२१ ॥",
+      "transliteration": "visṛjya taṁ kāśipatiṁ triśataṁ pṛthivīpatīn ।prahasanrāghavo vākyamuvāca madhurākṣaram ।। 7.38.21 ॥",
+      "translations": {
+        "english": "Having dismissed that lord of Kashi and three hundred other kings, Rama, with a smile, spoke words that were sweet.",
+        "hindi": "चक्रवाक, कारण्डव, हंस, जलकुक्कुट ओर सारस पक्षी उसे घेर कर, सदा मतवाले हो शब्द किया करते थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 38,
+      "verse": 22,
+      "sloka": "भवतां प्रीतिरव्यग्रा तेजसा परिरक्षिता ।धर्मश्च नियतो नित्यं सत्यं च भवतां सदा ।। ७.३८.२२ ॥",
+      "transliteration": "bhavatāṁ prītiravyagrā tejasā parirakṣitā ।dharmaśca niyato nityaṁ satyaṁ ca bhavatāṁ sadā ।। 7.38.22 ॥",
+      "translations": {
+        "english": "Your unwavering affection is protected by your valor, and your righteousness and truth are always constant.",
+        "hindi": "मनमोहने वाली नमंदा ने मानों सुन्दरी कामिनी की तरह कान्ति धारण कर ली थी । पुष्पित वृक्ष उसके भूषण, चक्रवाक उसके कुच, विशालतट उसके नितम्ब, और हंसपंक्ति मानों उसकी करधनी थी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 38,
+      "verse": 23,
+      "sloka": "युष्माकं चानुभावेन तेजसा च महात्मनाम् ।हतो दुरात्मा दुर्बुद्धी रावणो राक्षसाधमः ।। ७.३८.२३ ॥",
+      "transliteration": "yuṣmākaṁ cānubhāvena tejasā ca mahātmanām ।hato durātmā durbuddhī rāvaṇo rākṣasādhamaḥ ।। 7.38.23 ॥",
+      "translations": {
+        "english": "It is by your influence and the valor of you great souls that the evil-minded, ill-intentioned Ravana, the vilest of rakshasas, was killed.",
+        "hindi": "षपपराग उसका अंगराग, जलफेन उसका सफेद पट, स्नान सुख उसका स्पशेसुख और पुष्पित कसल ही मानों शुभ्र नेत्र थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 38,
+      "verse": 24,
+      "sloka": "हेतुमात्रमहं तत्र भवतां तेजसा हतः ।रावणः सगणो युद्धे सपुत्रामात्यबान्धवः ।। ७.३८.२४ ॥",
+      "transliteration": "hetumātramahaṁ tatra bhavatāṁ tejasā hataḥ ।rāvaṇaḥ sagaṇo yuddhe saputrāmātyabāndhavaḥ ।। 7.38.24 ॥",
+      "translations": {
+        "english": "In that matter, I was merely an instrument; it was by your valor that Ravana, along with his retinue, sons, ministers, and relatives, was killed in battle.",
+        "hindi": "तदनन्तर रावण अपने संत्रियो सहित उस अलेक मनि- सेवित नमंदा के रम्य तट पर बेठ गया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 38,
+      "verse": 25,
+      "sloka": "भवन्तश्च समानीता भरतेन महात्मना ।श्रुत्वा जनकराजस्य काननात्तनयां हृताम् ।। ७.३८.२५ ॥",
+      "transliteration": "bhavantaśca samānītā bharatena mahātmanā ।śrutvā janakarājasya kānanāttanayāṁ hṛtām ।। 7.38.25 ॥",
+      "translations": {
+        "english": "You all were brought here by the great-souled Bharata, having heard that King Janaka's daughter was abducted from the forest.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 38,
+      "verse": 26,
+      "sloka": "उद्युक्तानां च सर्वेषां पार्थिवानां महात्मनाम् ।कालो व्यतीतः सुमहान्गमनं रोचयाम्यतः ।। ७.३८.२६ ॥",
+      "transliteration": "udyuktānāṁ ca sarveṣāṁ pārthivānāṁ mahātmanām ।kālo vyatītaḥ sumahāngamanaṁ rocayāmyataḥ ।। 7.38.26 ॥",
+      "translations": {
+        "english": "A very long time has passed since all you great-souled kings were ready, therefore I approve of your departure.",
+        "hindi": "रावण ने नमंदा को गङ्गा की तरह बतला उसकी प्रशंसा की ओर उसके दर्शेत कर वह हर्षित हुआ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 38,
+      "verse": 27,
+      "sloka": "प्रत्यूचुस्तं च राजानो हर्षेण महता वृताः ।दिष्ट्यां त्वं विजयी राम स्वराज्ये ऽपि प्रतिष्ठितः ।। ७.३८.२७ ॥",
+      "transliteration": "pratyūcustaṁ ca rājāno harṣeṇa mahatā vṛtāḥ ।diṣṭyāṁ tvaṁ vijayī rāma svarājye 'pi pratiṣṭhitaḥ ।। 7.38.27 ॥",
+      "translations": {
+        "english": "The kings, filled with great joy, replied to him, saying, \"Fortunately, O Rama, you are victorious and re-established in your own kingdom.\"",
+        "hindi": "तदनंतर उसने अनायास ( अथवा खेल ही खेल में ) हँस कर मारीच, शुक और सारण नामक अपने मंन्गियों से कहा-- देखो अपनी सहस्र किरणों से जगत्‌ को सवर्ण के वर्ण का कर",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 38,
+      "verse": 28,
+      "sloka": "दिष्ट्या प्रत्याहृता सीता दिष्ट्या शत्रुः पराजितः ।एष नः परमः काम एषा नः पीतिरुत्तमा ।। ७.३८.२८ ॥",
+      "transliteration": "diṣṭyā pratyāhṛtā sītā diṣṭyā śatruḥ parājitaḥ ।eṣa naḥ paramaḥ kāma eṣā naḥ pītiruttamā ।। 7.38.28 ॥",
+      "translations": {
+        "english": "Fortunately, Sita has been brought back, and fortunately, the enemy has been defeated; this is our highest desire and our supreme joy.",
+        "hindi": "इस समय तीच्छ ताप देने वाला सूय आकाश में विराज- मान हो रहा है; किन्तु मुझे यहाँ बेठा हुआ जान, वह चन्द्रमा की तरह ठंडी किरणों से मुके छू रहा हे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 38,
+      "verse": 29,
+      "sloka": "यत्त्वां विजयिनं राम पश्यामो हतशात्रवम् ।। ७.३८.२९ ॥",
+      "transliteration": "yattvāṁ vijayinaṁ rāma paśyāmo hataśātravam ।। 7.38.29 ॥",
+      "translations": {
+        "english": "Our greatest joy is that we see you, O Rama, victorious and with your enemies slain.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 38,
+      "verse": 30,
+      "sloka": "एतत्त्वय्युपपन्नं च यदस्मांस्त्वं प्रशंससे ।प्रशंसार्ह न जानीमः प्रशंसां वक्तुमीदृशीम् ।। ७.३८.३० ॥",
+      "transliteration": "etattvayyupapannaṁ ca yadasmāṁstvaṁ praśaṁsase ।praśaṁsārha na jānīmaḥ praśaṁsāṁ vaktumīdṛśīm ।। 7.38.30 ॥",
+      "translations": {
+        "english": "It is fitting for you to praise us, but O worthy of praise, we do not know how to utter such praise in return.",
+        "hindi": "मगर मच्छ ओर पक्षियों से युक्त यह मनोहारिणी नमेंदा, तरङ्गों से व्याप्त होने पर भी, डरी हुई ललना के समान जान पड़ती हे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 38,
+      "verse": 31,
+      "sloka": "आपृच्छामो गमिष्यामो हृदिस्थो नः सदा भवान् ।वर्तामहे महाबाहो प्रीत्यात्र महता वृताः ।भवेच्च ते महाराज प्रीतिरस्मासु नित्यदा ।। ७.३८.३१ ॥",
+      "transliteration": "āpṛcchāmo gamiṣyāmo hṛdistho naḥ sadā bhavān ।vartāmahe mahābāho prītyātra mahatā vṛtāḥ ।bhavecca te mahārāja prītirasmāsu nityadā ।। 7.38.31 ॥",
+      "translations": {
+        "english": "We take our leave and shall depart, for you will always reside in our hearts; O mighty-armed one, we have been filled with great affection here, and O great king, may your affection for us always remain.",
+        "hindi": "॥ इन्द्र के समान पराक्रमी राजाओं के शख्रों की तुम लोगों ने चोटे सही हैं और चन्दन के रस की तरह रुधिर तुम्हारे सब शरीर में लिपटा हुआ है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 38,
+      "verse": 32,
+      "sloka": "बाढमित्येव राजानो हर्षेण परमान्विताः ।उचुः प्राञ्जलयः सर्वे राघवं गमनोत्सुकाः ।। ७.३८.३२ ॥",
+      "transliteration": "bāḍhamityeva rājāno harṣeṇa paramānvitāḥ ।ucuḥ prāñjalayaḥ sarve rāghavaṁ gamanotsukāḥ ।। 7.38.32 ॥",
+      "translations": {
+        "english": "All the kings, filled with supreme joy and eager to depart, said \"Very well\" to Rama with folded hands.",
+        "hindi": "उत्तरकाण्डे अतः जैसे सावेभौमादि मतवाले गजेन्द्र गङ्गा में स्नान करते हैं, बैसे ही तुम लोग भी इस सुखदायिनी और कल्याण- कारिणी नमंदा में स्नान कर डालो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 38,
+      "verse": 33,
+      "sloka": "पूजिताश्चैव रामेण जग्मुर्देशान्स्वकान्स्वकान् ।। ७.३८.३३ ।।",
+      "transliteration": "pūjitāścaiva rāmeṇa jagmurdeśānsvakānsvakān ।। 7.38.33 ।।",
+      "translations": {
+        "english": "Honored by Rama, they all departed to their respective countries. इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये श्रीमदुत्तरकाण्डे ऽष्टात्रिंशः सर्गः ।। 38 ।। Thus ends the thirty-eighth sarga of Uttara Kanda of the holy Ramayana the first epic composed by sage Valmiki.",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

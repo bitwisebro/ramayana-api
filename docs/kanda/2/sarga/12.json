@@ -1,0 +1,1605 @@
+{
+  "kanda": 2,
+  "kanda_name": "Ayodhya Kanda",
+  "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+  "sarga": 12,
+  "verses_count": 114,
+  "verses": [
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 1,
+      "sloka": "ततः श्रुत्वा महाराजः कैकेय्या दारुणम् वचः ।चिन्तामभिसमापेदे मुहूर्तम् प्रतताप च ॥२-१२-१॥",
+      "transliteration": "tataḥ śrutvā mahārājaḥ kaikeyyā dāruṇam vacaḥ ।cintāmabhisamāpede muhūrtam pratatāpa ca ॥2-12-1॥",
+      "translations": {
+        "english": "After hearing the dreadful words of Kaikeyi, the maharaja (Dasaratha), engulfed in grief, was extremely distressed for a moment.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 2,
+      "sloka": "किम् नु मे यदि वा स्वप्नश्चित्तमोहोओऽपि वामम ।अनुभूतोपसर्गो वा मनसो वाप्युपद्रवः ॥२-१२-२॥",
+      "transliteration": "kim nu me yadi vā svapnaścittamohoo'pi vāmama ।anubhūtopasargo vā manaso vāpyupadravaḥ ॥2-12-2॥",
+      "translations": {
+        "english": "' Is this a dream? Or a hallucination of the mind? Or some foreboding evil I am going to experience or a malady of my mind'? (wondered Dasaratha)",
+        "hindi": "राजसंत्रिगण, सेनापति और बडे-बढे महाजन श्रीराम चन्द्र . का राज्याभिषेक देखने को राजद्वार पर प्रसन्नचित्त हो जमा हुए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 3,
+      "sloka": "इति सम्चिन्त्य तद्राजा नाध्यगच्छ त्तदा सुखम् ।प्रतिलभ्य चिरात्सम्ज्ञाम् कैकेयीवाक्यताडितः ॥२-१२-३॥",
+      "transliteration": "iti samcintya tadrājā nādhyagaccha ttadā sukham ।pratilabhya cirātsamjñām kaikeyīvākyatāḍitaḥ ॥2-12-3॥",
+      "translations": {
+        "english": "The King absorbed in such thoughts did not get solace. He was startled and distressed like a deer beholding a tigress. He had long lost the senses struck by the (ruthless) words of Kaikeyi. He sank down upon the bare floor heaving deep sighs like a venomous serpent lying confined in a circle. 'What a pity' said the king with indignation and with his senses overwhelmed by sorrow fell into a stupor again.",
+        "hindi": "सूर्य के उदय होने पर, जब पुष्य नक्षत्र और कर्कट लग्न का समय, जिसमें श्रीरामचन्द्र जी का जन्म हुता. था, उपस्थित हुआ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 4,
+      "sloka": "व्यथितो विक्लबशचैव व्याघ्रीम् दृष्ट्वा यथा मृगः ।असम्वृतायामासीनो जगत्याम् दीर्घमुच्छ्वसन् ॥२-१२-४॥",
+      "transliteration": "vyathito viklabaśacaiva vyāghrīm dṛṣṭvā yathā mṛgaḥ ।asamvṛtāyāmāsīno jagatyām dīrghamucchvasan ॥2-12-4॥",
+      "translations": {
+        "english": "The King absorbed in such thoughts did not get solace. He was startled and distressed like a deer beholding a tigress. He had long lost the senses struck by the (ruthless) words of Kaikeyi. He sank down upon the bare floor heaving deep sighs like a venomous serpent lying confined in a circle. 'What a pity' said the king with indignation and with his senses overwhelmed by sorrow fell into a stupor again.",
+        "hindi": "तब उत्तम-उत्तम ब्राह्मणों ने श्रीरामचन्द्र जी के अभिषेक के लिए जल से भरे हुए सोने के कलसे ओर श्रीरामचन्द्र जी के बैठने के लिए सजा हुआ भद्रपीठ, यथास्थान सजा कर",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 5,
+      "sloka": "मण्ड्ले पन्नगो रुद्धो मन्त्रैरिव महाविषः ।अहोधिगिति सामर्षो वाचमुक्त्वा नराधिपः ॥२-१२-५॥",
+      "transliteration": "maṇḍle pannago ruddho mantrairiva mahāviṣaḥ ।ahodhigiti sāmarṣo vācamuktvā narādhipaḥ ॥2-12-5॥",
+      "translations": {
+        "english": "The King absorbed in such thoughts did not get solace. He was startled and distressed like a deer beholding a tigress. He had long lost the senses struck by the (ruthless) words of Kaikeyi. He sank down upon the bare floor heaving deep sighs like a venomous serpent lying confined in a circle. 'What a pity' said the king with indignation and with his senses overwhelmed by sorrow fell into a stupor again.",
+        "hindi": "चमचमाता रथ, जिसमें व्याघाम्बर बिछा हुआ था आया, तथा गङ्गा-यमुना के पवित्र सङ्गम का जल ला कर रखा गया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 6,
+      "sloka": "मोहमापेदिवान्भूयः शोकोपहतचेतनः ।चिरेण तु नृपः सम्ज्ञाम् प्रतिलभ्य सुदुःखितः ॥२-१२-६॥",
+      "transliteration": "mohamāpedivānbhūyaḥ śokopahatacetanaḥ ।cireṇa tu nṛpaḥ samjñām pratilabhya suduḥkhitaḥ ॥2-12-6॥",
+      "translations": {
+        "english": "Regaining his consciousness after a long time, the king in deep grief and with eyes as though burning in anger looked at Kaikeyi and said:",
+        "hindi": "इनके अतिरिक्त जितनी पुण्यसलिला नदियाँ, कुण्ड, कूप, और तालाब, पश्चिम की ओर बहने वाली ( नमेदा ओर ताप्ती ), ऊपर से नीचे की ओर बहने वाली ओर टेढ़ी-मेढ़ी हो कर बहने बाली नदियाँ हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 7,
+      "sloka": "कैकेयीमब्रवीत्क्रुद्धः प्रदहन्निव चक्षुषा ।नृशम्से दुष्टचारित्रे कुलस्यास्य विनाशिनि ॥२-१२-७॥",
+      "transliteration": "kaikeyīmabravītkruddhaḥ pradahanniva cakṣuṣā ।nṛśamse duṣṭacāritre kulasyāsya vināśini ॥2-12-7॥",
+      "translations": {
+        "english": "O woman of cruel and sinful nature, you are bent on destroying this family. What harm has been done to you by Rama or by me?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 8,
+      "sloka": "किम् कृतम् तव रामेण पापं पापे मयापि वा ।त्वं ममात्मविनाशार्थम् भवनम् स्वं प्रवेशिता ॥२-१२-८॥",
+      "transliteration": "kim kṛtam tava rāmeṇa pāpaṁ pāpe mayāpi vā ।tvaṁ mamātmavināśārtham bhavanam svaṁ praveśitā ॥2-12-8॥",
+      "translations": {
+        "english": "Then Rama was conducting himself in relation to you as his own mother, for what purpose are you seeking injustice to such a person?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 9,
+      "sloka": "अविज्ञानान्नृपसुता व्याLई तीक्ष्णविषा यथा ।जीवलोको यदा सर्वो रामस्याह गुणस्तवम् ॥२-१२-९॥",
+      "transliteration": "avijñānānnṛpasutā vyāLī tīkṣṇaviṣā yathā ।jīvaloko yadā sarvo rāmasyāha guṇastavam ॥2-12-9॥",
+      "translations": {
+        "english": "In my ignorance I brought home for my selfdestruction a king's daughter who was like a venomous female serpent.",
+        "hindi": "उन सब के जल ओर सब समुद्रो के जल वहाँ ला कर सोने- चाँदी के चमचमाते हुए कलसों में रखे गए। पबित्र तीर्थ-जलों से भरे उन कलसों के मुखों पर गूजर, वट आदि क्षीर वृत्तो की टहनियाँ तथा कमल-पुष्प ओर कमल-पत्र पड़े हुए थे। सधु, दही, घी, लावा, कुश, अच्छे-अच्छे फूल और दूध लाकर रखे गए थे ॥७-८॥ ् वेश्याश्वेव शुभाचारा:! सर्वाभरणभूषिताः । चन्द्रांशुविकचमरख्यं काञ्चनं रत्रभूषितम्‌",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 10,
+      "sloka": "अपराधम् कमुद्दिश्य त्यक्ष्यामीष्टमहम् सुतम् ।जीवलोको यदा सर्वो रामस्याह गुणस्तवम् ॥२-१२-१०॥",
+      "transliteration": "aparādham kamuddiśya tyakṣyāmīṣṭamaham sutam ।jīvaloko yadā sarvo rāmasyāha guṇastavam ॥2-12-10॥",
+      "translations": {
+        "english": "When all living beings of this world are extoling the virtues of Rama, for what crime should I abandon my beloved son?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 11,
+      "sloka": "अपराधम् कमुद्दिश्य त्यक्ष्यामीष्टमहम् सुतम् ।कौसल्याम् वा सुमित्राम् वा त्यजेयमपि वा श्रियम् ॥२-१२-११॥",
+      "transliteration": "aparādham kamuddiśya tyakṣyāmīṣṭamaham sutam ।kausalyām vā sumitrām vā tyajeyamapi vā śriyam ॥2-12-11॥",
+      "translations": {
+        "english": "I shall give up Kausalya or Sumitra or all my wealth or even my own life but I cannot leave Rama who is devoted to his father.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 12,
+      "sloka": "जीवितम् वात्मनो रामम् न त्वेव पितृवत्सलम् ।परा भवति मे प्रीतिर्धृष्ट्वा तनयमग्रजम् ॥२-१२-१२॥",
+      "transliteration": "jīvitam vātmano rāmam na tveva pitṛvatsalam ।parā bhavati me prītirdhṛṣṭvā tanayamagrajam ॥2-12-12॥",
+      "translations": {
+        "english": "When I see my firstborn , I experience supreme delight. But if I do not see him, my life loses its meaning.",
+        "hindi": "चन्द्रमख्डल की तरद्‌ गोल ओर चर्मचमाता तथा सफेद छन्नी | थिय कुकर १ ञुमाचाराः-मङ्गलवेषयु्ताः। (गो). / . . ल्‍ |. ४ शन ळक SERS Se FSS Tt जसः ७६ राज्याभिषेक के लिए विद्यमान था । सफेद बैल और सफेद सजा हुआ घोड़ा भी वहाँ खड़ा हुआ था ॥६-१०-११॥ प्रसतश्व गजः श्रीमानौपवाह्म:* प्रतीक्षते । अष्टौ च कन्या रुचिराः सर्वाभरणभूषिताः",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 13,
+      "sloka": "अपश्यतस्तु मे रामम् नष्टा भवति चेतना ।तिष्ठेल्लोको विना सूर्यम् सस्यम् वा सलिलम् विना ॥२-१२-१३॥",
+      "transliteration": "apaśyatastu me rāmam naṣṭā bhavati cetanā ।tiṣṭhelloko vinā sūryam sasyam vā salilam vinā ॥2-12-13॥",
+      "translations": {
+        "english": "This world can exist without the Sun or crops (can be grown) without water but without Rama, life would not exist in my body.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 14,
+      "sloka": "न तु रामम् विना देहे तिष्ठेत्तु मम जीवितम् ।तदलम् त्यज्यतामेष निश्चयः पापनिश्चये ॥२-१२-१४॥",
+      "transliteration": "na tu rāmam vinā dehe tiṣṭhettu mama jīvitam ।tadalam tyajyatāmeṣa niścayaḥ pāpaniścaye ॥2-12-14॥",
+      "translations": {
+        "english": "O lady of evil intentions, enough of this. Give up your resolve. Here I touch your feet with my head. Be pleased with me.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 15,
+      "sloka": "अपिते चरणौ मूर्ध्ना स्पृशाम्येष प्रसीद मे ।किमिदम् चिन्तितम् पापे त्वया परमदारुणम् ॥२-१२-१५॥",
+      "transliteration": "apite caraṇau mūrdhnā spṛśāmyeṣa prasīda me ।kimidam cintitam pāpe tvayā paramadāruṇam ॥2-12-15॥",
+      "translations": {
+        "english": "O sinful one why have you got this most dreadful thought? Do you want to know my likes or dislikes about Bharata? Let them be so.But speaking of Rama earlier, you used to say, 'Rama is my eldest son. He is noble and foremost in discharging his duties.' Such sweet words could not have been said only to please me.",
+        "hindi": "राजद्वार पर उपस्थित लोगों ने जब समय हो चुकने पर भी ` महाराज दशरथ को न देखा तब उपस्थित जन आपस में कहने १ प्रसुतः--प्रकर्षणलवन्मंदः । ( गो०) २ ग्रौपवाह्य--राजवाह्यः। ((गो०) . लगे कि, ह र हन उवा को कोन पहुँचाबेगा। i हो चुके, किन्तु महाराज t तक नहीं हुआ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 16,
+      "sloka": "अथ जीज्ञाससे माम् त्वम् भरतस्य प्रियाप्रिये ।अस्तुयत्तत्त्वयाअपूर्वम् व्याहृतम्राघवम्प्रति ॥२-१२-१६॥",
+      "transliteration": "atha jījñāsase mām tvam bharatasya priyāpriye ।astuyattattvayāapūrvam vyāhṛtamrāghavamprati ॥2-12-16॥",
+      "translations": {
+        "english": "O sinful one why have you got this most dreadful thought? Do you want to know my likes or dislikes about Bharata? Let them be so.But speaking of Rama earlier, you used to say, 'Rama is my eldest son. He is noble and foremost in discharging his duties.' Such sweet words could not have been said only to please me.",
+        "hindi": "है त श्रीरामचन्द्र के अभिषेक के लिए सब तैयारियाँ हो को ६। इस प्रकार लोग आपस में कह रहे थे कि आस बड़े राजाओं से",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 17,
+      "sloka": "स मे ज्येष्ठः सुतः श्रीमान् धर्मज्येष्ठ इतीव मे ।तत्त्वया प्रियवादिन्या सेवार्थम् कथितम् भवेत् ॥२-१२-१७॥",
+      "transliteration": "sa me jyeṣṭhaḥ sutaḥ śrīmān dharmajyeṣṭha itīva me ।tattvayā priyavādinyā sevārtham kathitam bhavet ॥2-12-17॥",
+      "translations": {
+        "english": "O sinful one why have you got this most dreadful thought? Do you want to know my likes or dislikes about Bharata? Let them be so.But speaking of Rama earlier, you used to say, 'Rama is my eldest son. He is noble and foremost in discharging his duties.' Such sweet words could not have been said only to please me.",
+        "hindi": "राजसम्मानित सुमंत्र ने यह कहा है कि, म र ह्‌ ) महाराज की आज्ञा- जुसार मैं श्रीरामचन्द्र जी को लाने के लिए तुरन्त जा रहा हुँ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 18,
+      "sloka": "तच्छ्रुत्वा शोकसम्तप्ता सम्तापयसि माम् भृशम् ।आविष्टासि गृहम् शून्यम् सा त्वम् परवशम् गता ॥२-१२-१८॥",
+      "transliteration": "tacchrutvā śokasamtaptā samtāpayasi mām bhṛśam ।āviṣṭāsi gṛham śūnyam sā tvam paravaśam gatā ॥2-12-18॥",
+      "translations": {
+        "english": "Further you are tormented with sorrow under the influence of others' insinuations. You are causing me great pain by entering the empty chamber of wrath.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 19,
+      "sloka": "इक्ष्वाकूणाम् कुले देवि सम्प्राप्तः सुमहानयम् ।अनयो नयसम्पन्ने यत्र ते विकृता मतिः ॥२-१२-१९॥",
+      "transliteration": "ikṣvākūṇām kule devi samprāptaḥ sumahānayam ।anayo nayasampanne yatra te vikṛtā matiḥ ॥2-12-19॥",
+      "translations": {
+        "english": "O queen, till now you had a moral sense. With your mind debased (now), a very great immorality has infected the Ikshvaku race.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 20,
+      "sloka": "न हि किम्चिदयुक्तम् वा विप्रियम् वा पुरा मम ।अकरोस्त्वम् विशालाक्षि तेन न श्रद्दधाम्यहम् ॥२-१२-२०॥",
+      "transliteration": "na hi kimcidayuktam vā vipriyam vā purā mama ।akarostvam viśālākṣi tena na śraddadhāmyaham ॥2-12-20॥",
+      "translations": {
+        "english": "O largeeyed lady, you have never done anything improper or unpalatable towards me in the past. Therefore I do not believe your words.",
+        "hindi": "आप लोग महाराज और विशेषकर श्रीरामचन्द्र के सम्मा प ल शे! न- भाजने हैं। अतः मैं लौट कर आपंकी ओर से इस बात को (कि महाराज के न पधारने का क्या कारण है ) महाराज से, जो अमी सो कर उठे हैं, पूछता हूँ । यह कह कर अति वृद्ध सुमंत्र अन्त:- पुर के द्वार पर जाकर, ।।१८-१६॥ en य के १ पुराणबित--चिरकालकथामिश: अतिवृद्ध इति। (वि० |). ` .- ¦ | 24.0 SSS SSIS ०7 (20 2420६ ७32 सदाऽसक्तंः च तद्वेशम सुमन्त्रः प्रविवेश इ । तुष्टावास्य तदा बंशं प्रविश्य च विशांपते",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 21,
+      "sloka": "ननु ते राघवस्तुल्यो भरतेन महात्मना ।बहुशो हि स्म बाले त्वम् कथयसे मम ॥२-१२-२१॥",
+      "transliteration": "nanu te rāghavastulyo bharatena mahātmanā ।bahuśo hi sma bāle tvam kathayase mama ॥2-12-21॥",
+      "translations": {
+        "english": "O childish one, you used to tell me several times that Rama is as dear to you as the highsouled Bharata.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 22,
+      "sloka": "तस्य धर्मात्मनो देवि वनवासम् यशस्विनः ।कथम् रोचयसे भीरु नव वर्षाणि पञ्च च ॥२-१२-२२॥",
+      "transliteration": "tasya dharmātmano devi vanavāsam yaśasvinaḥ ।katham rocayase bhīru nava varṣāṇi pañca ca ॥2-12-22॥",
+      "translations": {
+        "english": "O lady how do you wish this righteous and illustrious Rama to dwell in the forest for fourteen years?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 23,
+      "sloka": "अत्यन्तसुकुमारस्य तस्य धर्मे धृतात्मनः ।कथम् रोचयसे वासमरण्ये भृशदारुणे ॥२-१२-२३॥",
+      "transliteration": "atyantasukumārasya tasya dharme dhṛtātmanaḥ ।katham rocayase vāsamaraṇye bhṛśadāruṇe ॥2-12-23॥",
+      "translations": {
+        "english": "Why do you want Rama who is so tender and a firm follower of dharma to dwell in the highly dreadful forest?",
+        "hindi": "वरुण, अग्नि, इन्द्र आपको बिजय द्‌। भगवती निशा बीत चुकी और सुप्रभात हो चुका है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 24,
+      "sloka": "रोचयस्यभिरामस्य रामस्य शुभलोचने ।तवशुश्रूषमाणस्य किम्मर्थम् विप्रवासनम् ॥२-१२-२४॥",
+      "transliteration": "rocayasyabhirāmasya rāmasya śubhalocane ।tavaśuśrūṣamāṇasya kimmartham vipravāsanam ॥2-12-24॥",
+      "translations": {
+        "english": "O woman with attractive eyes, why do you want Rama who is so charming and serving you to be exiled to a distant place?",
+        "hindi": "ब्राह्मण, सेनापति, महाजन और सामन्त राजा लोग आए हुए हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 25,
+      "sloka": "रामो हि भरताद्भूयस्तव शुश्रूष्ते सदा ।विशेषम् त्वयि तस्मात्तु भरतस्य न लक्षये ॥२-१२-२५॥",
+      "transliteration": "rāmo hi bharatādbhūyastava śuśrūṣte sadā ।viśeṣam tvayi tasmāttu bharatasya na lakṣaye ॥2-12-25॥",
+      "translations": {
+        "english": "Rama is doing greater service to you than Bharata. Therefore, I do not find any reason for you to have a special love for Bharata.",
+        "hindi": "आर वे आपके दशंनों की अभिलाषा करते हैं। हे राघव ! उठिए । तब इसं प्रकार स्तुति करते हुए मंत्रिप्रबर सुमं त्र से",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 26,
+      "sloka": "शुश्रूषाम् गौरवम् चैव प्रमाणम् वचनक्रियाम् ।कस्ते भूयस्तरम् कुर्यादन्यत्र मनुजर्षभात् ॥२-१२-२६॥",
+      "transliteration": "śuśrūṣām gauravam caiva pramāṇam vacanakriyām ।kaste bhūyastaram kuryādanyatra manujarṣabhāt ॥2-12-26॥",
+      "translations": {
+        "english": "There are many thousands of women and attendants (in the inner apartment), but who will do greater service and honour you more than Rama, the best among men in the execution of your orders.",
+        "hindi": "महाराज ने जाग कर यह कहा, जैसा कि तुमसे इस केकेयी ने कहा है, तुम जा कर पहले श्रीरामचन्द्र को लिवा लाओ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 27,
+      "sloka": "बहूनाम् स्त्रीसहस्राणाम् बहूनाम् चोपजीविनाम् ।परिवादोऽपवादो वा राघवे नोपपद्यते ॥२-१२-२७॥",
+      "transliteration": "bahūnām strīsahasrāṇām bahūnām copajīvinām ।parivādo'pavādo vā rāghave nopapadyate ॥2-12-27॥",
+      "translations": {
+        "english": "The best among men, Rama has won the trust of the inhabitants of the country by securing their affection with a pure heart and by doing acts dear to them. Therefore, neither a word of blame nor reproach applies to this scion of the Raghu dynasty (Rama).",
+        "hindi": "क्या कारण है जो तुम हमारी आज्ञा की अवहेलना करते हो ? हम सोते नहीं हैं (जो तुम हमें. बार-बार जगाने की स्तुति पढ़ते हो) । तुम शांघ्र जा कर श्रीरामचन्द्र को यहाँ ले. आओ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 28,
+      "sloka": "सान्त्वयन् सर्वभूतानि रामः शुद्धेन चेतसा ।गृह्णाति मनुजव्याग्रः प्रियैर्विषयवासिनः ॥२-१२-२८॥",
+      "transliteration": "sāntvayan sarvabhūtāni rāmaḥ śuddhena cetasā ।gṛhṇāti manujavyāgraḥ priyairviṣayavāsinaḥ ॥2-12-28॥",
+      "translations": {
+        "english": "The best among men, Rama has won the trust of the inhabitants of the country by securing their affection with a pure heart and by doing acts dear to them. Therefore, neither a word of blame nor reproach applies to this scion of the Raghu dynasty (Rama).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 29,
+      "sloka": "सत्येन लोकान् जयति दीनान् दानेन राघवः ।गुरून् शुश्रूषया वीरो धनुशा युधि शात्रवान् ॥२-१२-२९॥",
+      "transliteration": "satyena lokān jayati dīnān dānena rāghavaḥ ।gurūn śuśrūṣayā vīro dhanuśā yudhi śātravān ॥2-12-29॥",
+      "translations": {
+        "english": "Rama is a hero who wins over the people by his truthfulness, the poor by charity, the preceptors by his service and the enemies in the battle by the power of his bow.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 30,
+      "sloka": "सत्यम् दानम् तपस्त्यगो वित्रता शौचमार्जवम् ।विद्या च गुरुशुश्रूषा ध्रुवाण्येतानि राघवे ॥२-१२-३०॥",
+      "transliteration": "satyam dānam tapastyago vitratā śaucamārjavam ।vidyā ca guruśuśrūṣā dhruvāṇyetāni rāghave ॥2-12-30॥",
+      "translations": {
+        "english": "Truth, munificence, asceticism, renunciation, purity, uprightness, learning and service to his superiors all those (virtues) are firmly planted in this descendant of the Raghus.",
+        "hindi": "इधर-उधर देखते-भांत्ञते और हर्षित होते हुए तेजी के साथ जाने लगे । रास्ते में प्रत्येक दशक के मुख से वे श्रीरामचन्द्र संबंधी चचो ही सुनते हुए जाते थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 31,
+      "sloka": "तस्मिन्नार्जवसम्पन्ने देवि देवोपमे कथम् ।पापमाशम्ससे रामे महर्षिसमतेजसि ॥२-१२-३१॥",
+      "transliteration": "tasminnārjavasampanne devi devopame katham ।pāpamāśamsase rāme maharṣisamatejasi ॥2-12-31॥",
+      "translations": {
+        "english": "How do you, O Devi, wish to harm Rama who is endowed with uprightness, who resembles the gods and in lustre to great ascetics?",
+        "hindi": "यह चर्चा और कुछ नहीं केबल श्रीरामचन्द्र के राज्याभिषेक की आनन्ददायिनी बातचीत थी । थोड़ी ही देर में सुमंत्र ने मनोहर कैलास पर्वत के शिखर के समान उज्ज्वल",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 32,
+      "sloka": "न स्मराम्यप्रियम् वाक्यम् लोकस्य प्रियवादिनः ।स कथम् त्वत्कृते रामम् वक्ष्यामि प्रियमप्रियम् ॥२-१२-३२॥",
+      "transliteration": "na smarāmyapriyam vākyam lokasya priyavādinaḥ ।sa katham tvatkṛte rāmam vakṣyāmi priyamapriyam ॥2-12-32॥",
+      "translations": {
+        "english": "How can I, for your sake, speak harsh to my beloved Rama who uses pleasing words to the people of the world, and never an unpleasant word which I can recall?",
+        "hindi": "ओर इन्द्रभवन के समान सुन्दर रामभवन देखा । उस राज- भंबन में बड़े-बड़े फाटक लगे थे और शत वेदियाँ शोभायमान थीं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 33,
+      "sloka": "क्षमा यस्मिन् दमस्त्यागः सत्यम् धर्मः कृतज्ञता ।अप्यहिम्सा च भूतानाम् तमृते का गतिर्मम ॥२-१२-३३॥",
+      "transliteration": "kṣamā yasmin damastyāgaḥ satyam dharmaḥ kṛtajñatā ।apyahimsā ca bhūtānām tamṛte kā gatirmama ॥2-12-33॥",
+      "translations": {
+        "english": "Where is the refuge for me without him in whom dwell forgiveness, forbearance, renunciation, truthfulness, righteousness, gratefulness and also nonviolence towards all living beings?",
+        "hindi": "भवन के केगूरों पर सेकड़ों सोने की मूतियाँ रखी हुई थीं . जिनमें मणियाँ और मूँगे जड़े हुए थे। रामभवन की शोभा, । & 000) 9 0523 अंकल किले शारदीय मेघ के समान निर्मल और सुमेरु पर्वत की कन्दरा के समान चमकीली थी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 34,
+      "sloka": "मम वृद्धस्य कैकेयि गतान्तस्य तपस्विनः ।दीनम् लालप्यमानस्य कारुण्यम् कर्तुमर्हसि ॥२-१२-३४॥",
+      "transliteration": "mama vṛddhasya kaikeyi gatāntasya tapasvinaḥ ।dīnam lālapyamānasya kāruṇyam kartumarhasi ॥2-12-34॥",
+      "translations": {
+        "english": "O Kaikeyi, you should show mercy to this wretched, old man on the verge of death, wailing pitifully.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 35,
+      "sloka": "पृथिव्याम् सागरान्तायाम् यत्किञ्चैदधिगम्यते ।तत्सर्वम् तव दास्यामि मा च त्वाम् मन्युराविशेत् ॥२-१२-३५॥",
+      "transliteration": "pṛthivyām sāgarāntāyām yatkiñcaidadhigamyate ।tatsarvam tava dāsyāmi mā ca tvām manyurāviśet ॥2-12-35॥",
+      "translations": {
+        "english": "I shall give you all that can be secured on this earth bounded by the ocean. Show no anger.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 36,
+      "sloka": "अञ्जलिम् कुर्मि कैकेयि पादौ चापि स्पृशामि ते ।शरणम् भव रामस्य माऽधर्मो मामिह स्पृशेत् ॥२-१२-३६॥",
+      "transliteration": "añjalim kurmi kaikeyi pādau cāpi spṛśāmi te ।śaraṇam bhava rāmasya mā'dharmo māmiha spṛśet ॥2-12-36॥",
+      "translations": {
+        "english": "O Kaikeyi I bow to you with folded palms. I touch your feet, too. Be the saviour of Rama. Let no sin taint me here (in this life).",
+        "hindi": "राजभवन के द्वारको मणियों की सुन्दर मालाएँ (जो बंदन- वारां की जगह लटक रही थीं) सुशोभित कर रही थीं । मोतियों ओर मण्यो से सजा हुआ चन्दन और अगर से सुब्रासित और : मनोहर गन्धों से मलयागिरि समीपवर्ती चन्दनगिरि के शिखर की तरह सुबासित, वह श्रीरामचन्द्र का भवन था। उसमें अनेक सारस अर मोर बोल रहे थे ॥३४-३५॥ २ कीण € A सुकृते हामृगाकाण सुकोण भित्तिभिस्तथा | मनश्वक्षुरच भूतानामादद्‌त्तिग्मतेजसाः",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 37,
+      "sloka": "इति दुःखाभिसन्तप्तम् विलपन्तमचेतनम् ।घूर्णमानम् महाराजम् शोकेन समभिप्लुतम् ॥२-१२-३७॥",
+      "transliteration": "iti duḥkhābhisantaptam vilapantamacetanam ।ghūrṇamānam mahārājam śokena samabhiplutam ॥2-12-37॥",
+      "translations": {
+        "english": "Then the fierce Kaikeyi used fiercer words in reply to the king who was tormented with grief and filled with tears, senses switched off, head reeling, overwhelmed with pain, beseeching again and again to ferry him across the ocean of sorrow as quickly as possible:",
+        "hindi": "श्रीरामचन्द्र जी का भवन चन्द्रमा और सूय की तरह चमकता था, कुबेर-भवन की तरह भरा-पूरा था और इन्द्रभबन की तरह बनावट में अद्वितीय था । उसमें अनेक जाति के पक्षी किलोल कर रहे थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 38,
+      "sloka": "पारम् शोकार्णवस्याशु प्रार्थयन्तम् पुनः पुनः ।प्रत्युवाचाथ कैकेयी रौद्रा रौद्रातरम् वचः ॥२-१२-३८॥",
+      "transliteration": "pāram śokārṇavasyāśu prārthayantam punaḥ punaḥ ।pratyuvācātha kaikeyī raudrā raudrātaram vacaḥ ॥2-12-38॥",
+      "translations": {
+        "english": "Then the fierce Kaikeyi used fiercer words in reply to the king who was tormented with grief and filled with tears, senses switched off, head reeling, overwhelmed with pain, beseeching again and again to ferry him across the ocean of sorrow as quickly as possible:",
+        "hindi": "ददुर:--मलयसन्निकृषश्चन्दनगिरिः । (वि०) २ सुझतै:-- स्वर्णादिना । (वि०) २. तिग्मतेजसाआददत्‌--अ्रतिशयितशोमया आफकर्षत । (विश) | प टर? यो TAD ad | थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 39,
+      "sloka": "यदि दत्वा वरौ राजन् पुनः प्रत्यनुतप्यसे ।धार्मिकत्वम् कथम् वीर पृथिव्याम् कथयिष्यसि ॥२-१२-३९॥",
+      "transliteration": "yadi datvā varau rājan punaḥ pratyanutapyase ।dhārmikatvam katham vīra pṛthivyām kathayiṣyasi ॥2-12-39॥",
+      "translations": {
+        "english": "O valiant king, if you repent like this after having given two boons, how will you talk about your righteousness on this earth?",
+        "hindi": "उस सुमेरुशिखर के समान ऊँचे श्रोरामभवन को सुमन्त्र ने देखा। उस समय वहाँ अनेक लोग हाथ जोड़े हुए उपस्थित उपादाय समाक्रान्तैस्तथा जानपदैजनै; ¦ रामाभिषेकसुसुखेरुन्मुखे: समलङकृतम्‌",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 40,
+      "sloka": "यदा समेता बहवस्त्वया राजर्षयस्सह ।कथयिष्यन्ति धर्मज्ञ तत्र किम् प्रतिवक्ष्यसि ॥२-१२-४०॥",
+      "transliteration": "yadā sametā bahavastvayā rājarṣayassaha ।kathayiṣyanti dharmajña tatra kim prativakṣyasi ॥2-12-40॥",
+      "translations": {
+        "english": "O knower of righteousness when innumerable rajarshis assemble and ask you on this what answer will you give?",
+        "hindi": "वह रामभवन महामेघ के समान विशालं था ओर तरह-तरह की मणियों से सजा हुआ था । वहाँ पर अनेक छोटे डील-डौल के किरात. जातीय नौकर भी थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 41,
+      "sloka": "यस्याः प्रसादे जीवामि या च मामभ्यपालयत् ।तस्याः कृतम् मया मिथ्या कैकेय्या इति वक्ष्यसि ॥२-१२-४१॥",
+      "transliteration": "yasyāḥ prasāde jīvāmi yā ca māmabhyapālayat ।tasyāḥ kṛtam mayā mithyā kaikeyyā iti vakṣyasi ॥2-12-41॥",
+      "translations": {
+        "english": "Will you say, 'To such a Kaikeyi by whose mercy I am alive and by whom I was protected, I have broken the promise given'?",
+        "hindi": "घोड़ों के रथ में सबार सुमंत्र जो, लोगों की भीड़ से भरे हुए राजमार्ग को शोभित करते और सम्पूर्ण पुरवासियों के हृदय को हृषित करते हुए श्रीरामभवन के द्वार पर पहुँचे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 42,
+      "sloka": "किल्बिषम् नरेन्ध्राणाम् करिष्यसि नराधिप ।यो दत्त्वा वरमद्यैव पुनरन्यानि भाषसे ॥२-१२-४२॥",
+      "transliteration": "kilbiṣam narendhrāṇām kariṣyasi narādhipa ।yo dattvā varamadyaiva punaranyāni bhāṣase ॥2-12-42॥",
+      "translations": {
+        "english": "O king, right now having given two boons, you are speaking otherwise. You are bringing blemish to kings (of the Ikshwaku race)",
+        "hindi": "विपुल धनराशि से भरे हुए रामभवन में, जो अनेक मृग ओर मयूरों से भरा हुआ था और उत्तमता में इन्द्रभवन के तुल्य था, पहुँच कर ओर वहाँ की शोभा देख कर, सुमंत्र बहुत प्रसन्न हुए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 43,
+      "sloka": "शैब्यः श्येनकपोतीये स्वमाम्सं पक्षिते ददौ ।अलर्कश्चक्षुषी दत्वा जगाम गतिमुत्तमाम् ॥२-१२-४३॥",
+      "transliteration": "śaibyaḥ śyenakapotīye svamāmsaṁ pakṣite dadau ।alarkaścakṣuṣī datvā jagāma gatimuttamām ॥2-12-43॥",
+      "translations": {
+        "english": "(King) Saibya gave his own flesh to the hawk in the conflict between the hawk and the pigeon. (King) Alarka gave his eyes (to a blind man) and attained the highest state.",
+        "hindi": "सुमंत्र जी कैलास की तरह सजे हुए श्रीरामभ्रन की स्वर, समान ड्योद़ियों को नाँघते और उन अनेक पुरुषों को १ राजकुलं--राजमागं । ( वि० ) ` कपाठान्तरे- रञ्जयन्‌ । , जो श्रोराम- . ` NR A OSES AS ®, चन्द्र के प्यारे ओर कृपापात्र थे, हटाते-बचाते अन्तःपुर में जा ` पहुँचे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 44,
+      "sloka": "सागरः समयम् कृत्वान वेलामतिवर्तते ।समयम् माऽनृतम् कार्षीः पुर्ववृत्तमनुस्मरन् ॥२-१२-४४॥",
+      "transliteration": "sāgaraḥ samayam kṛtvāna velāmativartate ।samayam mā'nṛtam kārṣīḥ purvavṛttamanusmaran ॥2-12-44॥",
+      "translations": {
+        "english": "Having made the vow (to the gods), the ocean does not advance beyond the shore. Recollect the history of the earlier kings and do not make the vow false.",
+        "hindi": "वहाँ भी सुमंत्र ने लोगों को प्रसन्न हो आपस में श्रीरामचन्द्र के अभिषेक की चर्चा करते हुए ही देखा। इस से सुमंत्र अत्यन्त प्रसन्न हुए । क्योंकि उन लोगों की बातचीत श्रीरामचन्द्र के मङ्गल , के लिए ही थी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 45,
+      "sloka": "स त्वम् धर्मम् परित्यज्य रामम् राज्येऽभिषिच्यच ।सह कौलस्यया नित्यम् रन्तुमिच्छसि दुर्मते ॥२-१२-४५॥",
+      "transliteration": "sa tvam dharmam parityajya rāmam rājye'bhiṣicyaca ।saha kaulasyayā nityam rantumicchasi durmate ॥2-12-45॥",
+      "translations": {
+        "english": "O wickedminded one, deserting righteousness and installing Rama in the kingdom, you want to enjoy life with Kausalya everafter?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 46,
+      "sloka": "भवत्वधर्मो धर्मो वा सत्यम् वा यदि वानृतम् ।यत्त्वया सम्श्रुतम् मह्यम् तस्य नास्ति व्यतिक्रमः ॥२-१२-४६॥",
+      "transliteration": "bhavatvadharmo dharmo vā satyam vā yadi vānṛtam ।yattvayā samśrutam mahyam tasya nāsti vyatikramaḥ ॥2-12-46॥",
+      "translations": {
+        "english": "Whether righteous or unrighteous, true or false, there is no deviation from what you have promised to me.",
+        "hindi": "सुमंत्र ने श्रीरामचन्द्र जी के रहने के इन्द्रभवन के समान भबन को देखा, जो रमणीक था और मृगो और पक्षियों से . ' सेवित था और जो प्रभा से प्रकाशमान आर उच्च मेरुशिखर के समान था ।।४%।। उपस्थितेरञ्ञलिकारकेश्च सोपायनेजानपदेजनेश्च । कोट्या पराधेश्च विमुक्तयाने! : समाकुलं द्वारपथं ददश",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 47,
+      "sloka": "अहम् हि विषमद्यैव पीत्वा बहु तवाग्रतः ।पश्यतस्ते मरिष्यामि रामो यद्यभिषिच्यते ॥२-१२-४७॥",
+      "transliteration": "aham hi viṣamadyaiva pītvā bahu tavāgrataḥ ।paśyataste mariṣyāmi rāmo yadyabhiṣicyate ॥2-12-47॥",
+      "translations": {
+        "english": "If Rama is coronated I will die while as you are watching right in your presence today itself by drinking excessive poison.",
+        "hindi": "तदनन्तर सुमंत्र ने देखा कि, बादल की तरह श्याम रंग का और पर्वत के समान ऊँचा शत्रुज्ञय नाम का सुन्दर हाथी, जो अंकुश की मार कभी सहता ही न था और जिएके मस्तक से मद. चू रहा था, श्रीरामचन्द्र जी की सवारी के लिए खड़ा है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 48,
+      "sloka": "एकाहमपि पश्येयम् यद्यहम् राममातरम् ।अञ्जलिम् प्रतिगृह्णन्तीम् श्रेयो ननु मृतिर्मम ॥२-१२-४८॥",
+      "transliteration": "ekāhamapi paśyeyam yadyaham rāmamātaram ।añjalim pratigṛhṇantīm śreyo nanu mṛtirmama ॥2-12-48॥",
+      "translations": {
+        "english": "If I were to see Rama's mother receiving homage from everybody even for a day, I shall prefer my death.",
+        "hindi": "स्वळ॑कृतान्‌ साश्वरथान्‌ सकुञ्जरा- | नमात्यसुर्याञ्शतशश्च वरळभान्‌ | व्यपोह्य स्तः सहितान्‌ समन्ततः | ` सम॒द्धमन्तःपुरमाविवेश ` ॥४८ फिर आगे बढ़ कर सुमंत्र ने देखा कि अनेक महाबत, सारथी ओर साईंस अपने-अपने हाथियों, रथों और घोड़ों को सजाए. हुए तैयार खड़े हैं । फिर देखा कि श्रीरामचन्द्र के प्रधान मंत्री तथा सैकड़ों ऋपापात्र वहाँ चारों ओर उपस्थित हैं । उन सब को हटा सुमंत्र सम्ृद्धिशाली अन्तःपुर में गए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 49,
+      "sloka": "भरतेनात्मना चाहम् शपे ते मनुजाधिप ।यथा नान्येन तुष्येयमृते रामविवासनात् ॥२-१२-४९॥",
+      "transliteration": "bharatenātmanā cāham śape te manujādhipa ।yathā nānyena tuṣyeyamṛte rāmavivāsanāt ॥2-12-49॥",
+      "translations": {
+        "english": "O king, I swear on Bharata and on my own life that nothing less than Rama's banishment will satisfy me.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 50,
+      "sloka": "एतावदुक्त्वा वचनम् कैकेयी विरराम ह ।विलपन्तम् च राजानम् न प्रतिव्याजहार सा ॥२-१२-५०॥",
+      "transliteration": "etāvaduktvā vacanam kaikeyī virarāma ha ।vilapantam ca rājānam na prativyājahāra sā ॥2-12-50॥",
+      "translations": {
+        "english": "Kaikeyi, having spoken to this extent remained silent. She heeded not the lament of the king.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 51,
+      "sloka": "श्रुत्वा तु राजा कैकेय्या वृतम् परमशोभनम् ।रामस्य च वने वासमैश्वर्यम् भरतस्य च ॥२-१२-५१॥",
+      "transliteration": "śrutvā tu rājā kaikeyyā vṛtam paramaśobhanam ।rāmasya ca vane vāsamaiśvaryam bharatasya ca ॥2-12-51॥",
+      "translations": {
+        "english": "Having heard of the highly unfair demands by Kaikeyi for Rama's exile to the forest and Bharata's prosperity (enthronement), the king was dumbstruck for a while with his senses agitated. He did not speak to Kaikeyi.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 52,
+      "sloka": "नाभ्यभाषत कैकेय्यिम् मुहूर्तम् व्याकुलेन्द्रियः ।प्रैक्षतानिमिषो देवीम् प्रियामप्रियवादिनीम् ॥२-१२-५२॥",
+      "transliteration": "nābhyabhāṣata kaikeyyim muhūrtam vyākulendriyaḥ ।praikṣatānimiṣo devīm priyāmapriyavādinīm ॥2-12-52॥",
+      "translations": {
+        "english": "The unhappy king intently fixed his gaze at his beloved queen speaking unpleasant words charged with grief and anguish, unpleasant to the heart like the dreadful thunderbolt.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 53,
+      "sloka": "ताम् हि वज्रसमाम् वाचमाकर्ण्य हृदया प्रियाम् ।दुःखशोकमयीम् घोराम् राजा न सुखितोऽभवत् ॥२-१२-५३॥",
+      "transliteration": "tām hi vajrasamām vācamākarṇya hṛdayā priyām ।duḥkhaśokamayīm ghorām rājā na sukhito'bhavat ॥2-12-53॥",
+      "translations": {
+        "english": "The unhappy king intently fixed his gaze at his beloved queen speaking unpleasant words charged with grief and anguish, unpleasant to the heart like the dreadful thunderbolt.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 54,
+      "sloka": "स देव्या व्यवसायम् च घोरम् च शपथम् कृतम् ।ध्यात्वा रामेति निश्श्वस्य छिन्नस्तरुरिवापतत् ॥२-१२-५४॥",
+      "transliteration": "sa devyā vyavasāyam ca ghoram ca śapatham kṛtam ।dhyātvā rāmeti niśśvasya chinnastarurivāpatat ॥2-12-54॥",
+      "translations": {
+        "english": "Reflecting on the determination of the queen and her dreadful vow, the king sighed and cried, 'O Rama' and then fell down like a tree severed.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 55,
+      "sloka": "नष्टचित्तो यथोन्मत्तो विपरीतो यथातुरः ।हृततेजा यथा सर्पो बभूव जगतीपतिः ॥२-१२-५५॥",
+      "transliteration": "naṣṭacitto yathonmatto viparīto yathāturaḥ ।hṛtatejā yathā sarpo babhūva jagatīpatiḥ ॥2-12-55॥",
+      "translations": {
+        "english": "The lord of the earth (Dasaratha) became like a man with the mind deranged, like a sick man behaving to the contrary, like a serpent with its energy drained (through mantra).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 56,
+      "sloka": "दीनया तु गिरा राजा इति होवाच कैकयिम् ।अनर्थमिममर्थाभम् केन त्वमुपदर्शिता ॥२-१२-५६॥",
+      "transliteration": "dīnayā tu girā rājā iti hovāca kaikayim ।anarthamimamarthābham kena tvamupadarśitā ॥2-12-56॥",
+      "translations": {
+        "english": "The king addressed Kaikeyi in humble words saying, Why did you exhibit this unfortunate act apparently beneficial to you? You are not ashamed of saying this like one whose faculties are possessed by an evil spirit.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 57,
+      "sloka": "भूतोपहतचित्तेव ब्रुवन्ती माम् न लज्जसे ।शीलव्यसनमेतत्ते नाभिजानाम्यहम् पुरा ।ब३लायास्तत्त्विदानीम् ते लक्षये विपरीतवत् ॥२-१२-५७॥",
+      "transliteration": "bhūtopahatacitteva bruvantī mām na lajjase ।śīlavyasanametatte nābhijānāmyaham purā ।ba3lāyāstattvidānīm te lakṣaye viparītavat ॥2-12-57॥",
+      "translations": {
+        "english": "I never knew earlier when you were young that you possessed such perverse behaviour. But now I perceive the reverse (of what I knew).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 58,
+      "sloka": "कुतो वा ते भयम् जातम् या त्वमेवम्विदम् वरम् ।राष्ट्रे भरतमासीनम् वृणीषे राघवम् वने ॥२-१२-५८॥",
+      "transliteration": "kuto vā te bhayam jātam yā tvamevamvidam varam ।rāṣṭre bharatamāsīnam vṛṇīṣe rāghavam vane ॥2-12-58॥",
+      "translations": {
+        "english": "You are asking for a boon that Bharata should be enthroned in the kingdom while Rama should live in the forest. From where did you get this apprehension?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 59,
+      "sloka": "विरमैतेन भावेन त्वमेतेनानृतेन वा ॥२-१२-५९॥",
+      "transliteration": "viramaitena bhāvena tvametenānṛtena vā ॥2-12-59॥",
+      "translations": {
+        "english": "If you wish to do good to your husband, to the world and also to Bharata, refrain from this illusory thought.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 60,
+      "sloka": "यदि भर्तुः प्रियम् कार्यम् लोकस्य भरतस्य च ।वृशम्से पापसम्कल्पे क्षुद्रे दुष्कृतकारिणि ॥२-१२-६०॥",
+      "transliteration": "yadi bhartuḥ priyam kāryam lokasya bharatasya ca ।vṛśamse pāpasamkalpe kṣudre duṣkṛtakāriṇi ॥2-12-60॥",
+      "translations": {
+        "english": "O cruel one, O woman of sinful resolve, O vile (creature), O woman of evil deeds, what wrong or sin do you really see in Rama or in me.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 61,
+      "sloka": "किम् नु कुःखमLईकम् वा मयि रामे च पश्यसि ।न कथम्चि दृते रामाद्भरतो राज्यमावसेत् ॥२-१२-६१॥",
+      "transliteration": "kim nu kuḥkhamaLīkam vā mayi rāme ca paśyasi ।na kathamci dṛte rāmādbharato rājyamāvaset ॥2-12-61॥",
+      "translations": {
+        "english": "Depriving Rama, Bharata in no way will occupy the kingdom because in the matter of righteousness I think he is superior even to Rama.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 62,
+      "sloka": "रामादपि हि तम् मन्ये धर्मतो बलवत्तरम् ।कथम् द्रक्ष्यामि रामस्य वनम् गच्छेति भाषिते ॥२-१२-६२॥",
+      "transliteration": "rāmādapi hi tam manye dharmato balavattaram ।katham drakṣyāmi rāmasya vanam gaccheti bhāṣite ॥2-12-62॥",
+      "translations": {
+        "english": "While instructing Rama to go to the forest, how can I look at his face, pale like the eclipsed moon?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 63,
+      "sloka": "मुखवर्णम् विवर्णम् तम् यथैवेन्दुमुपप्लुतम् ।ताम् हि मे सुकृताम् बुद्धिम् सुहृद्भिः सह निश्चिताम् ॥२-१२-६३॥",
+      "transliteration": "mukhavarṇam vivarṇam tam yathaivendumupaplutam ।tām hi me sukṛtām buddhim suhṛdbhiḥ saha niścitām ॥2-12-63॥",
+      "translations": {
+        "english": "I have taken this decision in consultation with friends to install Rama. How can I see such a decision being reversed like a retreating army defeated by enemies? Kings from different quarters have already arrived and they will say, How did this ignorant descendant of the Ikshakus (Dasaratha) rule this kingdom for such a long time?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 64,
+      "sloka": "कथम् द्रक्ष्याम्यपावृत्ताम् परैरिव हताम् चमूम् ।किम् माम् वक्ष्यन्ति राजानो नानादिग्भ्यः समागताह् ॥२-१२-६४॥",
+      "transliteration": "katham drakṣyāmyapāvṛttām parairiva hatām camūm ।kim mām vakṣyanti rājāno nānādigbhyaḥ samāgatāh ॥2-12-64॥",
+      "translations": {
+        "english": "I have taken this decision in consultation with friends to install Rama. How can I see such a decision being reversed like a retreating army defeated by enemies? Kings from different quarters have already arrived and they will say, How did this ignorant descendant of the Ikshakus (Dasaratha) rule this kingdom for such a long time?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 65,
+      "sloka": "बालो बताय मैक्ष्वाकश्चिरम् राज्यमकारयत् ।यदा तु बहवो वृद्धा गुणवन्तो बहुश्रुताह् ॥२-१२-६५॥",
+      "transliteration": "bālo batāya maikṣvākaściram rājyamakārayat ।yadā tu bahavo vṛddhā guṇavanto bahuśrutāh ॥2-12-65॥",
+      "translations": {
+        "english": "When several virtuous and learned elders ask me about Rama, what shall I tell them?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 66,
+      "sloka": "परिप्रक्ष्यन्ति काकुत्थ्सम् वक्ष्यामि किम्महाम् तदा ।कैकेय्या क्लिश्यमानेन रामः प्रव्राजितो मया ॥२-१२-६६॥",
+      "transliteration": "pariprakṣyanti kākutthsam vakṣyāmi kimmahām tadā ।kaikeyyā kliśyamānena rāmaḥ pravrājito mayā ॥2-12-66॥",
+      "translations": {
+        "english": "If I tell the truth 'Tortured by Kaikeyi, I have sent Rama to the forest', none will believe it and they will consider it untruth.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 67,
+      "sloka": "यदि सत्यम् ब्रवीम्येतत्तदसत्यम् भविष्यति ।किम् माम् वक्ष्यति कौसल्या राघवे वनमास्थिते ॥२-१२-६७॥",
+      "transliteration": "yadi satyam bravīmyetattadasatyam bhaviṣyati ।kim mām vakṣyati kausalyā rāghave vanamāsthite ॥2-12-67॥",
+      "translations": {
+        "english": "If Rama takes refuge in the forest, what will Kausalya say to me? Having committed such an unpleasant act, what reply can I give her?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 68,
+      "sloka": "किम् चैनाम् प्रतिवक्ष्यामि कृत्वा चाप्रियमीदृशम् ।यदा यदा ही कौसल्या दासीवच्च सखीव च ॥२-१२-६८॥",
+      "transliteration": "kim cainām prativakṣyāmi kṛtvā cāpriyamīdṛśam ।yadā yadā hī kausalyā dāsīvacca sakhīva ca ॥2-12-68॥",
+      "translations": {
+        "english": "Sweetspoken Kausalya who always cherishes my welfare. who has given me my beloved son, who has served me like an attendant, a friend, a wife, a sister and a mother deserved courteous treatment from me, but because of you, she never received due attention from me.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 69,
+      "sloka": "भार्यावद्भगिनीवच्च मातृवच्चोपतिष्ठति ।सततम् प्रियकामा मे प्रियपुत्रा प्रियम्वदा ॥२-१२-६९॥",
+      "transliteration": "bhāryāvadbhaginīvacca mātṛvaccopatiṣṭhati ।satatam priyakāmā me priyaputrā priyamvadā ॥2-12-69॥",
+      "translations": {
+        "english": "Sweetspoken Kausalya who always cherishes my welfare. who has given me my beloved son, who has served me like an attendant, a friend, a wife, a sister and a mother deserved courteous treatment from me, but because of you, she never received due attention from me.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 70,
+      "sloka": "न मया सत्कृता देवि सत्कारार्हा कृते तव ।इदानीम् तत्तपति माम् यन्मया सुकृतम् त्वयि ॥२-१२-७०॥",
+      "transliteration": "na mayā satkṛtā devi satkārārhā kṛte tava ।idānīm tattapati mām yanmayā sukṛtam tvayi ॥2-12-70॥",
+      "translations": {
+        "english": "I have done many favours to you. Like a sick person afflicted by eating rice mixed with unwholesome curry, those acts of kindness are burning me now.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 71,
+      "sloka": "अवथ्यव्यञ्जनोनोपेतम् भुक्तमन्नमिवातुरम् ।विप्रकारम् च रामस्य सम्प्रयाणम् वनस्य च ॥२-१२-७१॥",
+      "transliteration": "avathyavyañjanonopetam bhuktamannamivāturam ।viprakāram ca rāmasya samprayāṇam vanasya ca ॥2-12-71॥",
+      "translations": {
+        "english": "In seeing the insult meted out to Rama and his journey to the forest, how will frightened Sumitra have confidence in me?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 72,
+      "sloka": "सुमित्रा प्रेक्ष्यवै भीता कथम् मे विश्वसिष्यति ।कृपणम् बत वैदेही श्रोष्यति द्वयमप्रियम् ॥२-१२-७२॥",
+      "transliteration": "sumitrā prekṣyavai bhītā katham me viśvasiṣyati ।kṛpaṇam bata vaidehī śroṣyati dvayamapriyam ॥2-12-72॥",
+      "translations": {
+        "english": "Alas Sita will listen in a pitiable state the two unpleasant events namely my death and Rama's exile to the foest.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 73,
+      "sloka": "माम् च पञ्चत्वमापन्नम् रामम् च वनमाश्रितम् ।वैदेही बत मे प्राणान् शोचन्ती क्षपयिष्यति ॥२-१२-७३॥",
+      "transliteration": "mām ca pañcatvamāpannam rāmam ca vanamāśritam ।vaidehī bata me prāṇān śocantī kṣapayiṣyati ॥2-12-73॥",
+      "translations": {
+        "english": "What a pity Vaidehi, lamenting like a Kinnari forsaken by a Kinnara on the Himalayan slopes, will cause death to me.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 74,
+      "sloka": "हीना हिमवतः पार्श्वए किन्नरेणेन किन्नरा ।न हि राममहम् दृष्ट्व प्रवसन्तम् महावने ॥२-१२-७४॥",
+      "transliteration": "hīnā himavataḥ pārśvae kinnareṇena kinnarā ।na hi rāmamaham dṛṣṭva pravasantam mahāvane ॥2-12-74॥",
+      "translations": {
+        "english": "With Rama living in the wilderness and Sita crying, I do not hope to survive for long, indeed.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 75,
+      "sloka": "चिरम् जीवितुमाशम्से रुदतीम् चापि मैथिलीम् ।सा नूनम् विधवा राज्यम् सपुत्रा कारयिष्यसि ॥२-१२-७५॥",
+      "transliteration": "ciram jīvitumāśamse rudatīm cāpi maithilīm ।sā nūnam vidhavā rājyam saputrā kārayiṣyasi ॥2-12-75॥",
+      "translations": {
+        "english": "O Devi you will certainly rule the kingdom as a widow along with your son. (But) I do not wish to live after Rama is exiled.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 76,
+      "sloka": "न हि प्रवाजिते रामे देवि जीवितुमुत्सहे ।सतीम् त्वामहमत्यन्तम् व्यवस्याम्यसतीम् सतीम् ॥२-१२-७६॥",
+      "transliteration": "na hi pravājite rāme devi jīvitumutsahe ।satīm tvāmahamatyantam vyavasyāmyasatīm satīm ॥2-12-76॥",
+      "translations": {
+        "english": "Like people regarding wine mixed with poison as fine before drinking it, I had a firm belief that you were a chaste woman, but while you who look extremely beautiful you are actually not so.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 77,
+      "sloka": "रूपिणीम् विषसम्युक्ताम् पीत्वेव मदिराम् नरह् ।अनृतैर्बहु माम् सान्वैःसा न्त्वयन्ती स्म स्मभाषसे ॥२-१२-७७॥",
+      "transliteration": "rūpiṇīm viṣasamyuktām pītveva madirām narah ।anṛtairbahu mām sānvaiḥsā ntvayantī sma smabhāṣase ॥2-12-77॥",
+      "translations": {
+        "english": "You used to console me with so many words pleasing but untrue and you killed me like a hunter getting the deer trapped and slaughtered through the melody of music.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 78,
+      "sloka": "गीतशब्देन सम्रुध्य लुब्धो मृगमिवावधीः ।अनार्य इति मामार्याः पुत्रविक्रायिकम् ध्रुवम् ॥२-१२-७८॥",
+      "transliteration": "gītaśabdena samrudhya lubdho mṛgamivāvadhīḥ ।anārya iti māmāryāḥ putravikrāyikam dhruvam ॥2-12-78॥",
+      "translations": {
+        "english": "Respectable people on the highway will certainly say 'He sold away his son' and censure me as a mean person like a brahmin consuming liquor.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 79,
+      "sloka": "धिक्करिष्यन्ति रथ्यासु सुरापम् ब्राह्मणम् यथा ।अहो दुःखमहो कृच्छ्रम् यत्र वाचः क्षमे तव ॥२-१२-७९॥",
+      "transliteration": "dhikkariṣyanti rathyāsu surāpam brāhmaṇam yathā ।aho duḥkhamaho kṛcchram yatra vācaḥ kṣame tava ॥2-12-79॥",
+      "translations": {
+        "english": "What suffering What a calamity that I am made to put up with your words. I am subject to this suffering may be as expiation for the sin formerly committed.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 80,
+      "sloka": "दुःखमेवम्विधम् प्राप्तम् पुराकृतमिवाशुभम् ।चिरम् खलु मया पापे त्वम् पापेनाभिरक्षिता ॥२-१२-८०॥",
+      "transliteration": "duḥkhamevamvidham prāptam purākṛtamivāśubham ।ciram khalu mayā pāpe tvam pāpenābhirakṣitā ॥2-12-80॥",
+      "translations": {
+        "english": "O wretch I protected you in my folly for a long time through ignorance, like a rope preserved which turned out to be a noose to hang me with.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 81,
+      "sloka": "अज्ञानादुपसम्पन्ना रज्जुरुद्बम्धिनी यथा ।रममाणस्त्वया सार्धम् मृत्युम् त्वा नाभिलक्षये ॥२-१२-८१॥",
+      "transliteration": "ajñānādupasampannā rajjurudbamdhinī yathā ।ramamāṇastvayā sārdham mṛtyum tvā nābhilakṣaye ॥2-12-81॥",
+      "translations": {
+        "english": "While sporting with you, I did not realize you were death incarnate. Like a child handling a black cobra I caressed you.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 82,
+      "sloka": "बालो रहसि हस्तेन कृष्णसर्पमिवास्पृशम् ।मया ह्यपितृकः पुत्रःस महात्मा दुरात्मना ॥२-१२-८२॥",
+      "transliteration": "bālo rahasi hastena kṛṣṇasarpamivāspṛśam ।mayā hyapitṛkaḥ putraḥsa mahātmā durātmanā ॥2-12-82॥",
+      "translations": {
+        "english": "Wicked I am, I have made that magnanimous Rama fatherless. This world of living beings is certainly entitled to condemn me.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 83,
+      "sloka": "यः स्त्रीकृते प्रियम् पुत्रम् वनम् प्रस्थापयिष्यति ।व्रतैश्च ब्रह्मचर्यैश्च गुरुभिश्चपकर्शितः ॥२-१२-८३॥",
+      "transliteration": "yaḥ strīkṛte priyam putram vanam prasthāpayiṣyati ।vrataiśca brahmacaryaiśca gurubhiścapakarśitaḥ ॥2-12-83॥",
+      "translations": {
+        "english": "(They will say), 'Alas how utterly foolish and lustful is king Dasaratha who is sending his beloved son to the forest for the sake of a woman'.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 84,
+      "sloka": "भोगकाले महत्कृच्छ्रम् पुनरेव प्रपत्स्यते ।नालम् द्वितीयम् वचनम् पुत्रो माम् प्रति भाषितुम् ॥२-१२-८४॥",
+      "transliteration": "bhogakāle mahatkṛcchram punareva prapatsyate ।nālam dvitīyam vacanam putro mām prati bhāṣitum ॥2-12-84॥",
+      "translations": {
+        "english": "'(Rama) already emaciated by observing vows related to ritual and celibacy in compliance with the orders of the preceptors has to undergo hardships again at a time when he should enjoy pleasures (of life)'.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 85,
+      "sloka": "स वनम् प्रव्रजेत्युक्तो बाढमित्येव वक्ष्यति ।यदि मे राघवः कुर्याद्वनम् गच्चेति चोदितः ॥२-१२-८५॥",
+      "transliteration": "sa vanam pravrajetyukto bāḍhamityeva vakṣyati ।yadi me rāghavaḥ kuryādvanam gacceti coditaḥ ॥2-12-85॥",
+      "translations": {
+        "english": "My son Rama will not say a second word to me, if I tell him 'Go to the forest'.He will say, 'Certainly so'.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 86,
+      "sloka": "प्रतिकूलम् प्रियम् मे स्यान्न तु वत्सः करिष्यति ।शुद्धिभावो हि भावम् मे न तु ज्ञास्यति राघवः ॥२-१२-८६॥",
+      "transliteration": "pratikūlam priyam me syānna tu vatsaḥ kariṣyati ।śuddhibhāvo hi bhāvam me na tu jñāsyati rāghavaḥ ॥2-12-86॥",
+      "translations": {
+        "english": "If this scion of the Raghu race (Rama) urged to go to the forest acts against my order, it will be welcome but my son will not do it.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 87,
+      "sloka": "स वनम् प्रव्रजे त्युक्तोबाढ वित्येव वक्ष्यति ।राघवे हि वनम् प्राप्ते सर्वलोकस्य धिक्कृतम् ॥२-१२-८७॥",
+      "transliteration": "sa vanam pravraje tyuktobāḍha vityeva vakṣyati ।rāghave hi vanam prāpte sarvalokasya dhikkṛtam ॥2-12-87॥",
+      "translations": {
+        "english": "The descendant of the Raghus (Rama) who is pure in thought will not come to know my intention. Therefore if I tell him 'Go to the forest,' he will say, 'Certainly so'.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 88,
+      "sloka": "मृत्युरक्षमणीयम् माम् नयिष्यति यमक्षयम् ।राघवे हि वनम् प्राप्ते सर्वलोकस्य धिक्कृतम् ॥२-१२-८८॥",
+      "transliteration": "mṛtyurakṣamaṇīyam mām nayiṣyati yamakṣayam ।rāghave hi vanam prāpte sarvalokasya dhikkṛtam ॥2-12-88॥",
+      "translations": {
+        "english": "If Rama goes to the forest, the god of death will conduct me to his abode, for condemned by the entire world, I shall not be forgiven (even by Yama).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 89,
+      "sloka": "मृत्युरक्षमणीयम् माम् नयिष्यति यमक्षयम् ।मृते मयि गते रामे वनम् मनुजपुङ्गवे ॥२-१२-८९॥",
+      "transliteration": "mṛtyurakṣamaṇīyam mām nayiṣyati yamakṣayam ।mṛte mayi gate rāme vanam manujapuṅgave ॥2-12-89॥",
+      "translations": {
+        "english": "With me dead and Rama, the best among men, banished, what harmful acts are you contemplating against my wellwishers?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 90,
+      "sloka": "इष्टे मम जने शेषे किम् पापम् प्रतिवत्स्यसे ।कौसल्या माम् च रामम् च पुत्रौ च यदि हास्यति ॥२-१२-९०॥",
+      "transliteration": "iṣṭe mama jane śeṣe kim pāpam prativatsyase ।kausalyā mām ca rāmam ca putrau ca yadi hāsyati ॥2-12-90॥",
+      "translations": {
+        "english": "If queen Kausalya loses me, Rama, Lakshmana and Satrughna will follow me into death, unable to bear the grief.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 91,
+      "sloka": "दुःखान्यसहती देवी मामेवानुमरिष्यति ।कौसल्याम् च सुमित्राम् च माम् च पुत्रैस्त्रिभिः सह ॥२-१२-९१॥",
+      "transliteration": "duḥkhānyasahatī devī māmevānumariṣyati ।kausalyām ca sumitrām ca mām ca putraistribhiḥ saha ॥2-12-91॥",
+      "translations": {
+        "english": "O Kaikeyi consign Kausalya, Sumitra, me and my three sons into hell and be happy.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 92,
+      "sloka": "प्रक्षिव्य नरके सा त्वम् कैकेयि सुखिता भव ।मया रामेण च त्यक्तम् शाश्वतम् सत्कृतम् गुणैः ॥२-१२-९२॥",
+      "transliteration": "prakṣivya narake sā tvam kaikeyi sukhitā bhava ।mayā rāmeṇa ca tyaktam śāśvatam satkṛtam guṇaiḥ ॥2-12-92॥",
+      "translations": {
+        "english": "You will rule undisturbed the Ikshvaku race honoured for its divine virtues. Now abandoned by me and Rama it will be afflicted with grief.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 93,
+      "sloka": "इक्ष्वाकुकुलमक्षोभ्यमाकुलम् पालयिष्यसि ।प्रियम् चेद्भरतस्यैतद्रामप्रव्राजनम् भवेत् ॥२-१२-९३॥",
+      "transliteration": "ikṣvākukulamakṣobhyamākulam pālayiṣyasi ।priyam cedbharatasyaitadrāmapravrājanam bhavet ॥2-12-93॥",
+      "translations": {
+        "english": "If Rama's exile is approved by Bharata, then let him not perform my funeral rites after my death.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 94,
+      "sloka": "मा स्म मे भरतः कार्षीत् प्रेतकृत्यम् गतायुषः ।हन्तानार्ये ममामित्रे सकामा भव कैकयि ॥२-१२-९४॥",
+      "transliteration": "mā sma me bharataḥ kārṣīt pretakṛtyam gatāyuṣaḥ ।hantānārye mamāmitre sakāmā bhava kaikayi ॥2-12-94॥",
+      "translations": {
+        "english": "O my enemy, O wicked Kaikeyi, after Rama, the foremost of men, has left for the forest your desires will be fulfilled. And after my death, you as a widow along with your son will rule the kingdom.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 95,
+      "sloka": "मृते मयि गते रामे वनम् पुरुषपुङ्गवे ।सेदानीम् विधवा राज्यम् सपुत्रा कारयिष्यसि ॥२-१२-९५॥",
+      "transliteration": "mṛte mayi gate rāme vanam puruṣapuṅgave ।sedānīm vidhavā rājyam saputrā kārayiṣyasi ॥2-12-95॥",
+      "translations": {
+        "english": "O my enemy, O wicked Kaikeyi, after Rama, the foremost of men, has left for the forest your desires will be fulfilled. And after my death, you as a widow along with your son will rule the kingdom.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 96,
+      "sloka": "त्वम् राजपुत्रीवादेन न्यवसो मम वेश्मनि ।अकीर्तिश्चातुला लोके ध्रुवः परिभवश्च मे ॥२-१२-९६॥",
+      "transliteration": "tvam rājaputrīvādena nyavaso mama veśmani ।akīrtiścātulā loke dhruvaḥ paribhavaśca me ॥2-12-96॥",
+      "translations": {
+        "english": "You lived in my palace under the name of a princess. You have brought me, for sure, unparalleled dishonour and disgrace. Everybody will look upon me with contempt as if I have committed a sinful act.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 97,
+      "sloka": "सर्वभूतेषु चावज्ञा यथा पापकृतस्तथा ।कथम् रथैर्विभुर्गत्वा गजाश्वैएश्च मुहूर्महुः ॥२-१२-९७॥",
+      "transliteration": "sarvabhūteṣu cāvajñā yathā pāpakṛtastathā ।katham rathairvibhurgatvā gajāśvaieśca muhūrmahuḥ ॥2-12-97॥",
+      "translations": {
+        "english": "How will my son, Rama, who used to ride on chariots, elephants and horses roam the wilderness barefoot?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 98,
+      "sloka": "पद्भ्याम् रामो महारण्ये वत्सो मे विचरिष्यति ।यस्य त्वाहारसमये सूदाः कुण्डलधारिणः ॥२-१२-९८॥",
+      "transliteration": "padbhyām rāmo mahāraṇye vatso me vicariṣyati ।yasya tvāhārasamaye sūdāḥ kuṇḍaladhāriṇaḥ ॥2-12-98॥",
+      "translations": {
+        "english": "How will my son for whom the cooks with kundalas in their ears used to proudly prepare enough food and beverages subsist on astringent, pungent, bitter wild fruits and roots?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 99,
+      "sloka": "अहम्पुर्वाः पचन्ति स्म प्रशस्तम् पानभोजनम् ।स कथन्नु कषायाणि तिक्तानि कटुकानि च ॥२-१२-९९॥",
+      "transliteration": "ahampurvāḥ pacanti sma praśastam pānabhojanam ।sa kathannu kaṣāyāṇi tiktāni kaṭukāni ca ॥2-12-99॥",
+      "translations": {
+        "english": "How will my son for whom the cooks with kundalas in their ears used to proudly prepare enough food and beverages subsist on astringent, pungent, bitter wild fruits and roots?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 100,
+      "sloka": "भक्षयन्वन्यमाहारम् सुतो मे वर्तयिष्यति ।महार्हवस्त्रसम्वीतो भूत्वा चिरसुखोषितः ॥२-१२-१००॥",
+      "transliteration": "bhakṣayanvanyamāhāram suto me vartayiṣyati ।mahārhavastrasamvīto bhūtvā cirasukhoṣitaḥ ॥2-12-100॥",
+      "translations": {
+        "english": "How will he who was habituated to wearing expensive apparels and to (royal) comforts over a long period of time live (sleep) on the ground, putting on saffron robes?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 101,
+      "sloka": "काशायपरिधानस्तु कथम् भूमौ निवत्स्यति ।कस्यैतद्धारुणम् वाक्यमेवम् विधमचिन्तितम् ॥२-१२-१०१॥",
+      "transliteration": "kāśāyaparidhānastu katham bhūmau nivatsyati ।kasyaitaddhāruṇam vākyamevam vidhamacintitam ॥2-12-101॥",
+      "translations": {
+        "english": "Whose are these dreadful words, this inconceivable plan of Rama's exilement and Bharata's enthronement?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 102,
+      "sloka": "रामस्यारण्यगवनम् भरतस्यैव मातरम् ।धिगस्तु योषितो नाम शठाः स्वार्थपरास्सदा ॥२-१२-१०२॥",
+      "transliteration": "rāmasyāraṇyagavanam bharatasyaiva mātaram ।dhigastu yoṣito nāma śaṭhāḥ svārthaparāssadā ॥2-12-102॥",
+      "translations": {
+        "english": "A woman means one who secretly harms others. This is shameful indeed. They always seek selfish interests. I do not say this of all women, only of Bharata's mother.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 103,
+      "sloka": "न ब्रवीमि स्त्रियः सर्वा भरतस्यैव मातरम् ।अनर्थभावेऽ र्थपरे नृशम्से ।ममानुतापाय निविष्टभावे ।किमप्रियम् पश्यसि मन्निमित्तम् ।हितानुकारिण्यथवापि रामे ॥२-१२-१०३॥",
+      "transliteration": "na bravīmi striyaḥ sarvā bharatasyaiva mātaram ।anarthabhāve' rthapare nṛśamse ।mamānutāpāya niviṣṭabhāve ।kimapriyam paśyasi mannimittam ।hitānukāriṇyathavāpi rāme ॥2-12-103॥",
+      "translations": {
+        "english": "O malicious one, O covetous one, O cruel one, O woman determined to torment me, what fault have you seen in Rama who is always devoted to the welfare of others?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 104,
+      "sloka": "परित्यजेयुः पितरो हि पुत्रान् ।भार्याः वतीम्श्चापि कृतानुरागाः ।कृत्स्नम् हि सर्वम् कुपितम् जगत्स्या ।द्दृष्ट्वे रानन् व्तसबे बुनग्बन् ॥२-१२-१०४॥",
+      "transliteration": "parityajeyuḥ pitaro hi putrān ।bhāryāḥ vatīmścāpi kṛtānurāgāḥ ।kṛtsnam hi sarvam kupitam jagatsyā ।ddṛṣṭve rānan vtasabe bunagban ॥2-12-104॥",
+      "translations": {
+        "english": "This entire world will be inflamed to see Rama plunged in adversity. Fathers will abandon their sons. Wives, attached to their husbands, will forsake them.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 105,
+      "sloka": "अहम् पुनर्देवकुमाररूप ।मलकृतम् तम् सुतमाव्रजन्तम् ।नन्दामि पश्यन्नपि दर्शनेन ।भवामि दृष्ट्वा च पुनर्युवेव ॥२-१२-१०५॥",
+      "transliteration": "aham punardevakumārarūpa ।malakṛtam tam sutamāvrajantam ।nandāmi paśyannapi darśanena ।bhavāmi dṛṣṭvā ca punaryuveva ॥2-12-105॥",
+      "translations": {
+        "english": "When I see my son, handsome and welladorned like the son of a celestial deity, coming towards me, I rejoice. Even his very sight makes me grow young again.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 106,
+      "sloka": "विनापि सूर्येण भवेत्प्रवृत्ति ।रवर्ष्ता वज्रधरेण वापि ।रामम् तु गच्छन्तमितः समीक्ष्य ।जीवेन्न कश्चित्त्विति चेतना मे ॥२-१२-१०६॥",
+      "transliteration": "vināpi sūryeṇa bhavetpravṛtti ।ravarṣtā vajradhareṇa vāpi ।rāmam tu gacchantamitaḥ samīkṣya ।jīvenna kaścittviti cetanā me ॥2-12-106॥",
+      "translations": {
+        "english": "Nature's activity will continue even without the Sun or even if Indra, wielder of the thunderbolt, sends no rain but none will live to see Rama departing to the forest. This is my conviction.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 107,
+      "sloka": "विनाशकामामहिताममित्रा ।मावासयम् मृत्युमिवात्मनस्त्वम् ।चिरम् बताङ्केन धृतासि सर्पी ।महाविष तेन हतोऽस्मि मोहात् ॥२-१२-१०७॥",
+      "transliteration": "vināśakāmāmahitāmamitrā ।māvāsayam mṛtyumivātmanastvam ।ciram batāṅkena dhṛtāsi sarpī ।mahāviṣa tena hato'smi mohāt ॥2-12-107॥",
+      "translations": {
+        "english": "Alas I carried all along on my lap a highly poisonous female snake I gave you shelter while you were like death .This delusion is the cause of my ruin.You were my enemy. You wished me harm. You wished my destruction.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 108,
+      "sloka": "मया च रामेण सलक्ष्मणेन ।प्रशास्तु हीनो भरतस्त्वया सह ।पुरम् च राष्ट्रम् च निहत्य बान्धवान् ।ममाहितानाम् च भवाभिहर्षिणी ॥२-१२-१०८॥",
+      "transliteration": "mayā ca rāmeṇa salakṣmaṇena ।praśāstu hīno bharatastvayā saha ।puram ca rāṣṭram ca nihatya bāndhavān ।mamāhitānām ca bhavābhiharṣiṇī ॥2-12-108॥",
+      "translations": {
+        "english": "With Rama and Lakshmana withdrawn from me, my kinsmen killed, let Bharata along with you rule the city and the kingdom causing delight to my enemies.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 109,
+      "sloka": "नृशम्सवृत्ते व्यसनप्रहारिणि ।प्रसह्य वाक्यम् यदिहाद्य भाषसे ।न नाम ते केन मुखात्पतन्त्यधो ।विशीर्यमाणा दशना स्सहस्रधा ॥२-१२-१०९॥",
+      "transliteration": "nṛśamsavṛtte vyasanaprahāriṇi ।prasahya vākyam yadihādya bhāṣase ।na nāma te kena mukhātpatantyadho ।viśīryamāṇā daśanā ssahasradhā ॥2-12-109॥",
+      "translations": {
+        "english": "O cruelhearted woman, you strike one in adversity. Why are your teeth with which you are now speaking (such harsh words) do not fall to the ground, broken into a thousand fragments?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 110,
+      "sloka": "न किम्चिदाहाहितमप्रियम् वचो ।न वेत्ति रामः परुशाणि Bहाषितुम् ।कथन्नु रामे ह्यभिरामवादिनि ।ब्रवीषि दोषान् गुणनित्यसम्मते ॥२-१२-११०॥",
+      "transliteration": "na kimcidāhāhitamapriyam vaco ।na vetti rāmaḥ paruśāṇi Bhāṣitum ।kathannu rāme hyabhirāmavādini ।bravīṣi doṣān guṇanityasammate ॥2-12-110॥",
+      "translations": {
+        "english": "How do you find fault with Rama who does not utter even one harmful or unpalatable word, who does not know how to use harsh words, and who speaks pleasingly and who is always honoured for his virtues?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 111,
+      "sloka": "प्रताम्य वा प्रज्वल वा प्रणश्य वा ।सहस्रशो वा स्फुटिता महीम् व्रज ।न ते करिष्यमि वचः सुदारुणम् ।ममाहितम् केकयराजपाम्सनि ॥२-१२-१११॥",
+      "transliteration": "pratāmya vā prajvala vā praṇaśya vā ।sahasraśo vā sphuṭitā mahīm vraja ।na te kariṣyami vacaḥ sudāruṇam ।mamāhitam kekayarājapāmsani ॥2-12-111॥",
+      "translations": {
+        "english": "O obloquy on the house of Kekaya, you may grieve or burn yourself in the fire, or get destroyed. Even if you fall down on earth broken into a thousand pieces I will not act on your terrible, harmful words.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 112,
+      "sloka": "क्षुरोपमाम् नित्यमसत्प्रियम्वदाम् ।प्रदुष्टभावाम् स्वकुलोपघातिनीम् ।न जीवितुम् त्वाम् विषहेऽमनोरमाम् ।दिधक्षमाणाम् हृदयम् सबन्धनम् ॥२-१२-११२॥",
+      "transliteration": "kṣuropamām nityamasatpriyamvadām ।praduṣṭabhāvām svakulopaghātinīm ।na jīvitum tvām viṣahe'manoramām ।didhakṣamāṇām hṛdayam sabandhanam ॥2-12-112॥",
+      "translations": {
+        "english": "You are like a knife. You always speak palatable lies. You are malevolent. You are a destroyer of your own race. You displease the mind. You are intent on burning down all the links of my heart. I cannot bear to see you alive in this world.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 113,
+      "sloka": "न जीवितम् मेऽस्ति पुनः कुतः सुखम् ।विनात्मजेनात्मवतः कुतो रतिः ।ममाहितम् देवि न क् कर्तुमर्हसि ।स्पृशामि पादावपि ते प्रसीद मे ॥२-१२-११३॥",
+      "transliteration": "na jīvitam me'sti punaḥ kutaḥ sukham ।vinātmajenātmavataḥ kuto ratiḥ ।mamāhitam devi na k kartumarhasi ।spṛśāmi pādāvapi te prasīda me ॥2-12-113॥",
+      "translations": {
+        "english": "There is no life for me without my son (Rama). What to speak of happiness again? Where is pleasure for a selfrespecting man like me? O queen, it does not behove you to do this harmful act. I will touch your feet. Show pity on me.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 12,
+      "verse": 114,
+      "sloka": "स भूमिपलो विलपन्ननाथवत् ।स्त्रीया गृहीतो हृदयेऽतिमात्रया ।पपात देव्याश्चरणौ प्रसारिता ।पुभावसम्प्राप्य यथातुरस्तथा ॥२-१२-११४॥",
+      "transliteration": "sa bhūmipalo vilapannanāthavat ।strīyā gṛhīto hṛdaye'timātrayā ।papāta devyāścaraṇau prasāritā ।pubhāvasamprāpya yathāturastathā ॥2-12-114॥",
+      "translations": {
+        "english": "The king, with his heart in the grip of a woman, wailing like an orphan tried to reach her feet, exceeding the limit of selfrespect but, unable to touch them as she pulled them apart, he collapsed like a sick man. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे द्वादशस्सर्गः।। Thus ends the twelfth sarga of Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

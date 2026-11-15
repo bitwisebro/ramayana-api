@@ -1,0 +1,429 @@
+{
+  "kanda": 6,
+  "kanda_name": "Yuddha Kanda",
+  "kanda_name_sanskrit": "युद्धकाण्डम्",
+  "sarga": 125,
+  "verses_count": 30,
+  "verses": [
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 125,
+      "verse": 1,
+      "sloka": "उपस्थितं तु तं दृष्ट्वा पुष्पकं पुष्पभूषितम् ।अविदूरस्थितो रामं प्रत्युवाच विभीषणः ।। ६.१२५.१ ।।",
+      "transliteration": "upasthitaṁ tu taṁ dṛṣṭvā puṣpakaṁ puṣpabhūṣitam ।avidūrasthito rāmaṁ pratyuvāca vibhīṣaṇaḥ ।। 6.125.1 ।।",
+      "translations": {
+        "english": "Offering to Sri Rama the Pushpak decorated with flowers to sit, Vibheeshana stood at a distance and spoke.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 125,
+      "verse": 2,
+      "sloka": "स तु बद्धाञ्जलिः प्रह्वो विनीतो राक्षसेश्वरः ।अब्रवीत्त्वरयोपेतः किं करोमीति राघवम् ।। ६.१२५.२ ।।",
+      "transliteration": "sa tu baddhāñjaliḥ prahvo vinīto rākṣaseśvaraḥ ।abravīttvarayopetaḥ kiṁ karomīti rāghavam ।। 6.125.2 ।।",
+      "translations": {
+        "english": "The Rakshasa king humbly offered salutation to Raghava with joined palms, quickly approached, and said, 'What is to be done'?",
+        "hindi": "सीता जी भी इस समय बड़ी भारी विपत्ति में पड़ी हैं और पीड़ित हैं । अतएव ऐसे समय, विशेष कर मेरी उपस्थित में इनका बिना परदे के आना, कोई भी दोष की वात नहीं है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 125,
+      "verse": 3,
+      "sloka": "तमब्रवीन्महातेजा लक्ष्मणस्योपशृण्वतः ।विमृश्य राघवो वाक्यमिदं स्नेहपुरस्कृतम् ।। ६.१२५.३ ।।",
+      "transliteration": "tamabravīnmahātejā lakṣmaṇasyopaśṛṇvataḥ ।vimṛśya rāghavo vākyamidaṁ snehapuraskṛtam ।। 6.125.3 ।।",
+      "translations": {
+        "english": "Highly brilliant Raghava was thinking and spoke in a friendly manner while Lakshmana was listening closely.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 125,
+      "verse": 4,
+      "sloka": "कृतप्रयत्नकर्माणो विभीषण वनौकसः ।रत्नैरर्थैश्च विविधैर्भूषणैश्चापि पूजय ।। ६.१२५.४ ।।",
+      "transliteration": "kṛtaprayatnakarmāṇo vibhīṣaṇa vanaukasaḥ ।ratnairarthaiśca vividhairbhūṣaṇaiścāpi pūjaya ।। 6.125.4 ।।",
+      "translations": {
+        "english": "\"Let all the forest rangers (without exception) who made effort and fought be duly honoured with valuables and several luxuries.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 125,
+      "verse": 5,
+      "sloka": "सहैभिरजिता लङ्का निर्जिता राक्षसेश्वर ।हृष्टैः प्राणभयं त्यक्त्वा सङ्ग्रामेष्वनिवर्तिभिः ।। ६.१२५.५ ।।",
+      "transliteration": "sahaibhirajitā laṅkā nirjitā rākṣaseśvara ।hṛṣṭaiḥ prāṇabhayaṁ tyaktvā saṅgrāmeṣvanivartibhiḥ ।। 6.125.5 ।।",
+      "translations": {
+        "english": "\"This Lanka could be won with the help of these heroes who never turned back and fought in comb at without fear of life, O Lord of Rakshasas.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 125,
+      "verse": 6,
+      "sloka": "त इमे कृतकर्माणः पूज्यन्तां सर्ववानराः ।। ६.१२५.६ ।।",
+      "transliteration": "ta ime kṛtakarmāṇaḥ pūjyantāṁ sarvavānarāḥ ।। 6.125.6 ।।",
+      "translations": {
+        "english": "\"These forest rangers, all of them have struggled and accomplished success. Reward them with wealth and gems.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 125,
+      "verse": 7,
+      "sloka": "धनरत्नप्रदानेन कर्मैषां सफलं कुरु ।। ६.१२५.७ ।।",
+      "transliteration": "dhanaratnapradānena karmaiṣāṁ saphalaṁ kuru ।। 6.125.7 ।।",
+      "translations": {
+        "english": "\"These helpless monkey troops will be content with gratitude when rewarded, O respectable Vibheeshana.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 125,
+      "verse": 8,
+      "sloka": "एव सम्मानिताश्चैते मानार्हा मानद त्वया ।भविष्यन्ति कृतज्ञेन निर्वृता हरियूथपाः ।। ६.१२५.८ ।।",
+      "transliteration": "eva sammānitāścaite mānārhā mānada tvayā ।bhaviṣyanti kṛtajñena nirvṛtā hariyūthapāḥ ।। 6.125.8 ।।",
+      "translations": {
+        "english": "\"If you do so you will be called as charitable and kind, not seizing wealth and as one who has gained over senses. That is why I am telling you for so long.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 125,
+      "verse": 9,
+      "sloka": "त्यागिनं सङ्ग्रहीतारं सानुक्रोशं यशस्विनम् ।सर्वे त्वामवगच्छन्ति ततः सम्बोधयाम्यहम् ।। ६.१२५.९ ।।",
+      "transliteration": "tyāginaṁ saṅgrahītāraṁ sānukrośaṁ yaśasvinam ।sarve tvāmavagacchanti tataḥ sambodhayāmyaham ।। 6.125.9 ।।",
+      "translations": {
+        "english": "\"O Ruler of men, all the army will desert a king who is devoid of virtues, lowly and who is a destructor in the battlefield.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 125,
+      "verse": 10,
+      "sloka": "हीनं रतिगुणैः सर्वैरभिहन्तारमाहवे ।त्यजन्ति नृपतिं सैन्याः संविग्नास्तं नरेश्वरम् ।। ६.१२५.१० ।।",
+      "transliteration": "hīnaṁ ratiguṇaiḥ sarvairabhihantāramāhave ।tyajanti nṛpatiṁ sainyāḥ saṁvignāstaṁ nareśvaram ।। 6.125.10 ।।",
+      "translations": {
+        "english": "Vibheeshana honoured the Vanaras with gems and valuables, after Rama had spoken like that.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 125,
+      "verse": 11,
+      "sloka": "एवमुक्तस्तु रामेण वानरांस्तान् विभीषणः ।रत्नार्थैः संविभागेन सर्वानेवाभ्यपूजयत् ।। ६.१२५.११ ।।",
+      "transliteration": "evamuktastu rāmeṇa vānarāṁstān vibhīṣaṇaḥ ।ratnārthaiḥ saṁvibhāgena sarvānevābhyapūjayat ।। 6.125.11 ।।",
+      "translations": {
+        "english": "Then on seeing the monkey troops being honoured with excellent gemsRama ascended the aerial car.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 125,
+      "verse": 12,
+      "sloka": "ततस्तान् पूजितान् दृष्ट्वा रत्नैरर्थैश्च यूथपान् ।आरुरोह ततो रामस्तद्विमानमनुत्तमम् ।। ६.१२५.१२ ।।",
+      "transliteration": "tatastān pūjitān dṛṣṭvā ratnairarthaiśca yūthapān ।āruroha tato rāmastadvimānamanuttamam ।। 6.125.12 ।।",
+      "translations": {
+        "english": "﻿ Illustrious Vaidehi was abashed while she was taken in his(Hanuman’s) arms to Pushpalata while the valiant archers Lakshmana and his brother were there .",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 125,
+      "verse": 13,
+      "sloka": "अङ्केनादाय वैदेहीं लज्जमानां यशस्विनीम् ।लक्ष्मणेन सह भ्रात्रा विक्रान्तेन धनुष्मता ।। ६.१२५.१३ ।।",
+      "transliteration": "aṅkenādāya vaidehīṁ lajjamānāṁ yaśasvinīm ।lakṣmaṇena saha bhrātrā vikrāntena dhanuṣmatā ।। 6.125.13 ।।",
+      "translations": {
+        "english": "After duly honouring all the Vanaras, to Vibheeshana and highly courageous Sugriva, Kakuthsa spoke as follows.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 125,
+      "verse": 14,
+      "sloka": "अब्रवीच्च विमानस्थः पूजयन् सर्ववानरान् ।सुग्रीवं च महावीर्यं काकुत्स्थः सविभीषणम् ।। ६.१२५.१४ ।।",
+      "transliteration": "abravīcca vimānasthaḥ pūjayan sarvavānarān ।sugrīvaṁ ca mahāvīryaṁ kākutsthaḥ savibhīṣaṇam ।। 6.125.14 ।।",
+      "translations": {
+        "english": "\"Bull among Vanaras! Since this work of the friend has been accomplished, you too have my permission to go where you will.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 125,
+      "verse": 15,
+      "sloka": "मित्रकार्यं कृतमिदं भवद्भिर्वानरोत्तमाः ।अनुज्ञाता मया सर्वे यथेष्टं प्रतिगच्छत ।। ६.१२५.१५ ।।",
+      "transliteration": "mitrakāryaṁ kṛtamidaṁ bhavadbhirvānarottamāḥ ।anujñātā mayā sarve yatheṣṭaṁ pratigacchata ।। 6.125.15 ।।",
+      "translations": {
+        "english": "All that has to be done by an affectionate friend in advanced age has been done, for the fear of unrighteousness. Now you may advance with your army to Kishkinda.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 125,
+      "verse": 16,
+      "sloka": "यत्तु कार्यं वयस्येन सुहृदा वा परन्तप ।कृतं सुग्रीव तत् सर्वं भवता ऽधर्म भीरुणा ।। ६.१२५.१६ ।।",
+      "transliteration": "yattu kāryaṁ vayasyena suhṛdā vā parantapa ।kṛtaṁ sugrīva tat sarvaṁ bhavatā 'dharma bhīruṇā ।। 6.125.16 ।।",
+      "translations": {
+        "english": "\"Vibheeshana, I would like to see you living like Indra bestowed with your own kingdom in Lanka. It will not be possible for even gods to attack you.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 125,
+      "verse": 17,
+      "sloka": "विष्किन्धां प्रतियाह्याशु स्वसैन्येनाभिसंवृतः ।। ६.१२५.१७ ।।",
+      "transliteration": "viṣkindhāṁ pratiyāhyāśu svasainyenābhisaṁvṛtaḥ ।। 6.125.17 ।।",
+      "translations": {
+        "english": "\"I shall proceed to my father's capital, Ayodhya. You may permit me. Be auspicious. I take leave of you.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 125,
+      "verse": 18,
+      "sloka": "स्वराज्ये वस लङ्कायां मया दत्ते विभीषण ।न त्वां धर्षयितुं शक्ताः सेन्द्रा अपि दिवौकसः ।। ६.१२५.१८ ।।",
+      "transliteration": "svarājye vasa laṅkāyāṁ mayā datte vibhīṣaṇa ।na tvāṁ dharṣayituṁ śaktāḥ sendrā api divaukasaḥ ।। 6.125.18 ।।",
+      "translations": {
+        "english": "After Rama had spoken that way Sugriva, Vibheeshana, monkeys and Rakshasas saluted Rama and said as follows.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 125,
+      "verse": 19,
+      "sloka": "अयोध्यां प्रतियास्यामि राजधानीं पितुर्मम ।अभ्यनुज्ञातुमिच्छामि सर्वांश्चामन्त्रयामि वः ।। ६.१२५.१९ ।।",
+      "transliteration": "ayodhyāṁ pratiyāsyāmi rājadhānīṁ piturmama ।abhyanujñātumicchāmi sarvāṁścāmantrayāmi vaḥ ।। 6.125.19 ।।",
+      "translations": {
+        "english": "We wish to proceed with you to Ayodhya, and many wishes to go with you and range the forests and groves without anxiety.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 125,
+      "verse": 20,
+      "sloka": "एवमुक्तास्तु रामेण वानरास्ते महाबलाः ।ऊचुः प्राञ्जलयो रामं राक्षसश्च विभीषणः ।। ६.१२५.२० ।।",
+      "transliteration": "evamuktāstu rāmeṇa vānarāste mahābalāḥ ।ūcuḥ prāñjalayo rāmaṁ rākṣasaśca vibhīṣaṇaḥ ।। 6.125.20 ।।",
+      "translations": {
+        "english": "\"O Jewel among kings! We will see you being consecrated and see Kausalya, greet her and return back to our own house.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 125,
+      "verse": 21,
+      "sloka": "अयोध्यां गन्तुमिच्छामः सर्वान्नयतु नो भवान् ।उद्युक्ता विचरिष्यामो वनानि नगराणि च ।। ६.१२५.२१ ।।",
+      "transliteration": "ayodhyāṁ gantumicchāmaḥ sarvānnayatu no bhavān ।udyuktā vicariṣyāmo vanāni nagarāṇi ca ।। 6.125.21 ।।",
+      "translations": {
+        "english": "Vibheeshana and Vanaras had spoken in that way, Rama replied to Sugriva, Vibheeshana and Vanaras as follows.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 125,
+      "verse": 22,
+      "sloka": "दृष्ट्वा त्वामभिषेकार्द्रं कौसल्यामभिवाद्य च ।अचिरेणागमिष्यामः स्वान् गृहान् नृपतेः सुत ।। ६.१२५.२२ ।।",
+      "transliteration": "dṛṣṭvā tvāmabhiṣekārdraṁ kausalyāmabhivādya ca ।acireṇāgamiṣyāmaḥ svān gṛhān nṛpateḥ suta ।। 6.125.22 ।।",
+      "translations": {
+        "english": "\"If I with my dear and near and together with you go to Ayodhya, that will give more happiness with Sita coming and with all of you.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 125,
+      "verse": 23,
+      "sloka": "एवमुक्तस्तु धर्मात्मा वानरैः सविभीषणैः ।अब्रवीद्राघवः श्रीमान् ससुग्रीवविभीषणान् ।। ६.१२५.२३ ।।",
+      "transliteration": "evamuktastu dharmātmā vānaraiḥ savibhīṣaṇaiḥ ।abravīdrāghavaḥ śrīmān sasugrīvavibhīṣaṇān ।। 6.125.23 ।।",
+      "translations": {
+        "english": "Sugriva and the Vanaras, quickly ascended the aerial car. Vibheeshana, the king of Rakshasas and ministers all of them ascended.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 125,
+      "verse": 24,
+      "sloka": "प्रियात् प्रियतरं लब्धं यदहं ससुहृज्जनः ।सर्वैर्भवद्भिः सहितः प्रीतिं लप्स्ये पुरीं गतः ।। ६.१२५.२४ ।।",
+      "transliteration": "priyāt priyataraṁ labdhaṁ yadahaṁ sasuhṛjjanaḥ ।sarvairbhavadbhiḥ sahitaḥ prītiṁ lapsye purīṁ gataḥ ।। 6.125.24 ।।",
+      "translations": {
+        "english": "Then Sugriva with Vanaras happily joined the wonderful Pushpaka, Vibheeshana and his ministers also ascended.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 125,
+      "verse": 25,
+      "sloka": "क्षिप्रमारोह सुग्रीव विमानं वानरै सह ।त्वमध्यारोह सामात्यो राक्षसेन्द्र विभीषण ।। ६.१२५.२५ ।।",
+      "transliteration": "kṣipramāroha sugrīva vimānaṁ vānarai saha ।tvamadhyāroha sāmātyo rākṣasendra vibhīṣaṇa ।। 6.125.25 ।।",
+      "translations": {
+        "english": "All the Vanaras and others having got into Kubera's Pushpaka with Rama's permission, it flew into the sky.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 125,
+      "verse": 26,
+      "sloka": "ततस्तत् पुष्पकं दिव्यं सुग्रीवः सह सेनया ।अध्यारोहत्त्वरन् शीघ्रं सामात्यश्च विभीषणः ।। ६.१२५.२६ ।।",
+      "transliteration": "tatastat puṣpakaṁ divyaṁ sugrīvaḥ saha senayā ।adhyārohattvaran śīghraṁ sāmātyaśca vibhīṣaṇaḥ ।। 6.125.26 ।।",
+      "translations": {
+        "english": "Delighted and thrilled, Rama was flying in the sky in Pushpaka and with shining swans, he shone like Kubera.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 125,
+      "verse": 27,
+      "sloka": "तेष्वारूढेषु सर्वेषु कौबेरं परमासनम् ।राघवेणाभ्यनुज्ञातमुत्पपात विहायसम् ।। ६.१२५.२७ ।।",
+      "transliteration": "teṣvārūḍheṣu sarveṣu kauberaṁ paramāsanam ।rāghaveṇābhyanujñātamutpapāta vihāyasam ।। 6.125.27 ।।",
+      "translations": {
+        "english": "All those mighty monkeys and bears, and the rakshasas too, seated themselves at ease, without crowding, in that celestial car.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 125,
+      "verse": 28,
+      "sloka": "ययौ तेन विमानेन हंसयुक्तेन भास्वता ।प्रहृष्टश्च प्रतीतश्च बभौ रामः कुबेरवत् ।। ६.१२५.२८ ।।",
+      "transliteration": "yayau tena vimānena haṁsayuktena bhāsvatā ।prahṛṣṭaśca pratītaśca babhau rāmaḥ kuberavat ।। 6.125.28 ।।",
+      "translations": {
+        "english": "",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 125,
+      "verse": 29,
+      "sloka": "ते सर्वे वानरा हृष्टा राक्षसाश्च महाबलाः ।यथासुखमसम्बाधं दिव्ये तस्मिन्नुपाविशन् ।। ६.१२५.२९ ।।",
+      "transliteration": "te sarve vānarā hṛṣṭā rākṣasāśca mahābalāḥ ।yathāsukhamasambādhaṁ divye tasminnupāviśan ।। 6.125.29 ।।",
+      "translations": {
+        "english": "",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 125,
+      "verse": 30,
+      "sloka": "इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये श्रीमद्युद्धकाण्डे पञ्चविंशत्युत्तरशततमः सर्गः ।। १२५ ।।",
+      "transliteration": "ityārṣe śrīmadrāmāyaṇe vālmīkīye ādikāvye śrīmadyuddhakāṇḍe pañcaviṁśatyuttaraśatatamaḥ sargaḥ ।। 125 ।।",
+      "translations": {
+        "english": "",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

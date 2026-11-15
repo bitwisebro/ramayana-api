@@ -1,0 +1,14 @@
+{
+  "kanda": 1,
+  "kanda_name": "Bala Kanda",
+  "kanda_name_sanskrit": "बालकाण्डम्",
+  "sarga": 6,
+  "verse": 10,
+  "sloka": "न अकुण्डली न अमुकुटी न अस्रग्वी न अल्पभोगवान् ।न अमृष्टो न अलिप्ताङ्गो न असुगन्धः च विद्यते ॥१-६-१०॥",
+  "transliteration": "na akuṇḍalī na amukuṭī na asragvī na alpabhogavān ।na amṛṣṭo na aliptāṅgo na asugandhaḥ ca vidyate ॥1-6-10॥",
+  "translations": {
+    "english": "In the city, there was none without earornaments, without coronet, without wearing garlands and none unclean. And none without the anointment of fragrants on the body.",
+    "hindi": "वहाँ ऐसा एक भी जन नहीं था जो कानों में कुण्डल, सिर पर मुकुट तथा गले में पुष्पमाला धारण न करता हो और जो तेल- फुलेल, चन्दन न लगाता होया जो हर प्रकार से सुखी न हो। ऐसा तो कोई भी न था जिसके ( स्वच्छता न रहने के कारण ) शारीर से बदबू निकलती हो",
+    "telugu": "ఆ అయోధ్యలో చెవులకు ఆభరణములు లేనివాడు లేడు, శిరస్త్రాణమును, తలపాగ మొదలగువానిని ధరింపని వాడు లేడు, తనసంపదకు తగినట్లుగా భోగములను అనుభవింపనివాడు లేడు, అభ్యంగనస్నానములను చేయనివాడు లేడు, చందనాదికములను అలదుకొననివాడూ లేడు, నుదుట తిలకమునుగాని, కస్తూరిని గాని బొట్టుగా ధరింపని వాడు లేడు."
+  }
+}

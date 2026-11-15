@@ -1,0 +1,415 @@
+{
+  "kanda": 5,
+  "kanda_name": "Sundara Kanda",
+  "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+  "sarga": 19,
+  "verses_count": 29,
+  "verses": [
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 19,
+      "verse": 1,
+      "sloka": "तस्य तद्वचनं श्रुत्वा सीता रौद्रस्य रक्षसः ।आर्ता दीनस्वरा दीनं प्रत्युवाच शनैर्वचः ।। ५.१९.१।।।।",
+      "transliteration": "tasya tadvacanaṁ śrutvā sītā raudrasya rakṣasaḥ ।ārtā dīnasvarā dīnaṁ pratyuvāca śanairvacaḥ ।। 5.19.1।।।।",
+      "translations": {
+        "english": "On just seeing Ravana, the lord of demons from a distance, adorned with the best of ornaments the charming, young, blameles princess Vaidehi of beautiful waist trembled like a banana plant shaken by a strong wind.",
+        "hindi": "राक्षसियो से घिरी हुई दोनभाव को प्राप्त दुःखिनी प्रौर तपस्विनी सीता को रावण सकेतों श्रौर मधुर वचनों से लुभाने लगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 19,
+      "verse": 2,
+      "sloka": "दुःखार्ता रुदती सीता वेपमाना तपस्विनी ।चिन्तयन्ती वरारोहा पतिमेव पतिव्रता ।। ५.१९.२।।।।",
+      "transliteration": "duḥkhārtā rudatī sītā vepamānā tapasvinī ।cintayantī varārohā patimeva pativratā ।। 5.19.2।।।।",
+      "translations": {
+        "english": "On just seeing Ravana, the lord of demons from a distance, adorned with the best of ornaments the charming, young, blameles princess Vaidehi of beautiful waist trembled like a banana plant shaken by a strong wind.",
+        "hindi": "रावण ने कहा--हे सुन्दरी ! तू मुझे देख कर अपने उदर ग्रौर स्तनों को ढेक कर, भयभीत हो, अपने सारे शरीर को छिपाना चाहती है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 19,
+      "verse": 3,
+      "sloka": "तृणमन्तरतः कृत्वा प्रत्युवाच शुचिस्मिता ।निवर्तय मनो मत्तः स्वजने क्रियतां मनः ।। ५.१९.३।।।।",
+      "transliteration": "tṛṇamantarataḥ kṛtvā pratyuvāca śucismitā ।nivartaya mano mattaḥ svajane kriyatāṁ manaḥ ।। 5.19.3।।।।",
+      "translations": {
+        "english": "Largeeyed, faircomplexioned Sita seated there with her belly, thighs and breasts covered with arms cried.",
+        "hindi": "दे विशालाक्षौ ! हे प्रिये ! में तुझे चाहता हूँ; अतः तू भी मुझे अच्छी तरह मान । तेरे सब अज्ज सुन्दर हैं; प्रत: तू सब का मन हरने वाली है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 19,
+      "verse": 4,
+      "sloka": "न मां प्रार्थयितुं युक्तस्त्वं सिद्धिमिव पापकृत् ।अकार्यं न मया कार्यमेकपत्न्या विगर्हितम् ।कुलं सम्प्राप्तया पुण्यं कुले महति जातया ।।५.१९.४।।।।",
+      "transliteration": "na māṁ prārthayituṁ yuktastvaṁ siddhimiva pāpakṛt ।akāryaṁ na mayā kāryamekapatnyā vigarhitam ।kulaṁ samprāptayā puṇyaṁ kule mahati jātayā ।।5.19.4।।।।",
+      "translations": {
+        "english": "The tennecked Ravana, too, on his part saw Sita, tormented with grief, guarded by the shedemons like a boat sunk in the sea.",
+        "hindi": "हे सौते | इस समय यहाँ न तो कोई मनुष्य है और न कामरूपी कोई राक्षस ही है। (फिर तू डरती किससे है? ) यदि मुझसे डर लगता हो तो, इस भय को तू त्याग दे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 19,
+      "verse": 5,
+      "sloka": "एवमुक्त्वा तु वैदेही रावणं तं यशस्विनी ।राक्षसं पृष्ठतः कृत्वा भूयो वचनमब्रवीत् ।। ५.१९.५।।।।",
+      "transliteration": "evamuktvā tu vaidehī rāvaṇaṁ taṁ yaśasvinī ।rākṣasaṁ pṛṣṭhataḥ kṛtvā bhūyo vacanamabravīt ।। 5.19.5।।।।",
+      "translations": {
+        "english": "She looked woeful seated on the bare earth like the broken branch of a tree cut and fallen down on the ground.",
+        "hindi": "हे भीरु ! निस्सन्देइ पराई स्त्री से सम्भोग करना अथवा पराई स्त्रो को बरजोरी हर लाना राक्षसों का सदा का धर्म है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 19,
+      "verse": 6,
+      "sloka": "नाहमौपयिकी भार्या परभार्या सती तव ।साधु धर्ममवेक्षस्व साधु साधुव्रतं चर ।। ५.१९.६।।।।",
+      "transliteration": "nāhamaupayikī bhāryā parabhāryā satī tava ।sādhu dharmamavekṣasva sādhu sādhuvrataṁ cara ।। 5.19.6।।।।",
+      "translations": {
+        "english": "Her body looked colourful with dust. Although she deserved adornment, she had none. She was like a lotus stem in mud looking bright yet dull (with mud).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 19,
+      "verse": 7,
+      "sloka": "यथा तव तथान्येषां रक्ष्या दारा निशाचर ।आत्मानमुपमां कृत्वा स्वेषु दारेषु रम्यताम् ।। ५.१९.७।।।।",
+      "transliteration": "yathā tava tathānyeṣāṁ rakṣyā dārā niśācara ।ātmānamupamāṁ kṛtvā sveṣu dāreṣu ramyatām ।। 5.19.7।।।।",
+      "translations": {
+        "english": "She was as though moving towards the knower of the self, the supreme king, Rama with the horses of her resolution yoked to the chariot of her mind.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 19,
+      "verse": 8,
+      "sloka": "अतुष्टं स्वेषु दारेषु चपलं चलितेन्द्रियम् ।नयन्ति निकृतिप्रज्ञां परदाराः पराभवम् ।। ५.१९.८।।।।",
+      "transliteration": "atuṣṭaṁ sveṣu dāreṣu capalaṁ calitendriyam ।nayanti nikṛtiprajñāṁ paradārāḥ parābhavam ।। 5.19.8।।।।",
+      "translations": {
+        "english": "She was emaciated, absorbed in thought of Rama alone and crying and unable to find the end to her grief.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 19,
+      "verse": 9,
+      "sloka": "इह सन्तो न वा सन्ति सतो वा नानुवर्तसे ।वचो मिथ्या प्रणीतात्मा पथ्यमुक्तं विचक्षणैः ।। ५.१९.९।।।।",
+      "transliteration": "iha santo na vā santi sato vā nānuvartase ।vaco mithyā praṇītātmā pathyamuktaṁ vicakṣaṇaiḥ ।। 5.19.9।।।।",
+      "translations": {
+        "english": "Sitting in that manner she resembled a coiled serpent queen, the star Rohini overshadowed by a smoking comet (that is Ravana).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 19,
+      "verse": 10,
+      "sloka": "अकृतात्मानमासाद्य राजानमनये रतम् ।समृद्धानि विनश्यन्ति राष्ट्राणि नगराणि च ।। ५.१९.१०।।।।",
+      "transliteration": "akṛtātmānamāsādya rājānamanaye ratam ।samṛddhāni vinaśyanti rāṣṭrāṇi nagarāṇi ca ।। 5.19.10।।।।",
+      "translations": {
+        "english": "Though born in a traditional righteous and virtuous family, she was as though passing through a purificatory process like a lowbred woman.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 19,
+      "verse": 11,
+      "sloka": "तथेयं त्वां समासाद्य लङ्का रत्नौघ सङ्कुला ।अपराधात्तवैकस्य नचिराद्विनशिष्यति ।। ५.१९.११।।।।",
+      "transliteration": "tatheyaṁ tvāṁ samāsādya laṅkā ratnaugha saṅkulā ।aparādhāttavaikasya nacirādvinaśiṣyati ।। 5.19.11।।।।",
+      "translations": {
+        "english": "She resembled reputation besmirched by scandals, like Vedic studies slackened by lack of aplication. (Knowledge is verified with a suitable statment of the Veda which is the ultimate test of ones finding. This method is adopted in all Astika sastras which accept the authority of the Veda).",
+        "hindi": "तू तो स्त्रियों में एक रत्न है । श्रतएव ऐसा श्वृद्ारहीन वेष मत बना; बल्कि अपने शरीर को श्रलंकृत कर । हे सुन्दरी! मुझे पाकर भी तू क्यों अपने शृङ्गार करने योग्य शरीर की ऐसी खराबी कर रही है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 19,
+      "verse": 12,
+      "sloka": "स्वकृतैर्हन्यमानस्य रावणादीर्घदर्शिनः ।अभिनन्दन्ति भूतानि विनाशे पापकर्मणः ।। ५.१९.१२।।।।",
+      "transliteration": "svakṛtairhanyamānasya rāvaṇādīrghadarśinaḥ ।abhinandanti bhūtāni vināśe pāpakarmaṇaḥ ।। 5.19.12।।।।",
+      "translations": {
+        "english": "She was like great fame grown dim, faith slighted, worship meddled and hope frustrated. (Note: Sita's condition is being compared with abstract concepts such as fame, faith, reverence and hope which are hit by reverses in fate. She was the personification of all such suffering.)",
+        "hindi": "यह तेरी सुन्दर उठती हुई जवानी बीती जा रही है || यह जवानी नदी को घार की तरह है, जो एक बार बह गई, वह फिर लौट कर नहीं ग्रा सकती",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 19,
+      "verse": 13,
+      "sloka": "एवं त्वां पापकर्माणं वक्ष्यन्ति निकृता जनाः ।दिष्ट्यैतद्व्यसनं प्राप्तो रौद्र इत्येव हर्षिताः ।। ५.१९.१३।।।।",
+      "transliteration": "evaṁ tvāṁ pāpakarmāṇaṁ vakṣyanti nikṛtā janāḥ ।diṣṭyaitadvyasanaṁ prāpto raudra ityeva harṣitāḥ ।। 5.19.13।।।।",
+      "translations": {
+        "english": "She was like a prospect blasted, command flouted, entire direction set on flames at the time of catastrophe and articles of worship abducted by evil forces at the sacrificial ceremony.",
+        "hindi": "हे सुन्दरी ! जान पड़ता है, रूपं रचने वाले ब्रह्मा ने तुझको रचकर, फिरे रखना करना ही बंद कर दिया है । क्योंकि तेरे समान रूपवती स्त्री प्रौर कोई नहीं दिखाई पड़ती",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 19,
+      "verse": 14,
+      "sloka": "शक्या लोभयितुं नाहमैश्वर्येण धनेन वा ।अनन्या राघवेणाहं भास्करेण प्रभा यथा ।। ५.१९.१४।।।।",
+      "transliteration": "śakyā lobhayituṁ nāhamaiśvaryeṇa dhanena vā ।ananyā rāghaveṇāhaṁ bhāskareṇa prabhā yathā ।। 5.19.14।।।।",
+      "translations": {
+        "english": "She was like a lotuscreeper blighted, an army with its gallant warriors killed, radiance of light blocked by darkness and a stream run dry.",
+        "hindi": "हे वैदेही ! तेरी जैसी सुन्दरी युवती को पा कर कोन ऐसा होगा, जिसका मन कुमार्ग में न जाय। आर की बात ही क्या, (तुझे देख) ब्रह्मा जी भी कुपथगामी होने से भ्रपने को नहीं रोक सकते",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 19,
+      "verse": 15,
+      "sloka": "उपधाय भुजं तस्य लोकनाथस्य सत्कृतम् ।कथं नामोपधास्यामि भुजमन्यस्य कस्य चित् ।। ५.१९.१५।।।।",
+      "transliteration": "upadhāya bhujaṁ tasya lokanāthasya satkṛtam ।kathaṁ nāmopadhāsyāmi bhujamanyasya kasya cit ।। 5.19.15।।।।",
+      "translations": {
+        "english": "(She was) like the altar of worship defiled, blazing fire extinguished, and the Moon eclipsed by Rahu in the full moon night.",
+        "hindi": "हे चन्द्रमुखी ! में तेरे शरीर के जिस जिस ङ्ग पर दृष्टि डालता हूं, उसी उसी भ्रङ्क में मेरी श्राख जाकर भ्रटक जाती है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 19,
+      "verse": 16,
+      "sloka": "अहमौपयिकी भार्या तस्यैव वसुधापतेः ।व्रतस्नातस्य विप्रस्य विद्येव विदितात्मनः ।। ५.१९.१६।।।।",
+      "transliteration": "ahamaupayikī bhāryā tasyaiva vasudhāpateḥ ।vratasnātasya viprasya vidyeva viditātmanaḥ ।। 5.19.16।।।।",
+      "translations": {
+        "english": "(She appeared) like a lotuspond the excellent leaves of whose lotuses surrounded by frightened birds are destroyed by the trunks of elephants.",
+        "hindi": "हे मैथिली ! तू प्रब मेरी पत्नी बन जा। में जो इधर से उधर भ्रनेक उत्तमोत्तम स्त्रियां ले झाया हूँ; तू उन सब की मुख्य पटरानी बन जा । श्रव अपनी इस मूखंता को त्याग दे । में अनेक लोकों को जीत कर जो रत्न-राशि लाया हूँ, उन सब रत्नों को तथा भ्रपने समस्त राज्य को में तुझे देता हूँ । है Cel O8SAR UT BH, नारो केमरी सहि पधिदी जीत क । १ सगं; १६७ तेरे पिता जनक को दे दूया । में इस जगत में किसी को ऐसा नहीं देखता, जो मेरा सामना कर सके",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 19,
+      "verse": 17,
+      "sloka": "साधु रावण रामेण मां समानय दुःखिताम् ।वने वाशितया सार्धं करेण्वेव गजाधिपम् ।। ५.१९.१७।।।।",
+      "transliteration": "sādhu rāvaṇa rāmeṇa māṁ samānaya duḥkhitām ।vane vāśitayā sārdhaṁ kareṇveva gajādhipam ।। 5.19.17।।।।",
+      "translations": {
+        "english": "Stricken with grief caused by separation from her husband, she appeared like a river gone thin and dry, not fit for ablution, like a night during dark fortnight of the month deprived of all its glow.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 19,
+      "verse": 18,
+      "sloka": "मित्रमौपयिकं कर्तुं रामः स्थानं परीप्सता ।वधं चानिच्छता घोरं त्वयासौ पुरुषर्षभः ।। ५.१९.१८।।।।",
+      "transliteration": "mitramaupayikaṁ kartuṁ rāmaḥ sthānaṁ parīpsatā ।vadhaṁ cānicchatā ghoraṁ tvayāsau puruṣarṣabhaḥ ।। 5.19.18।।।।",
+      "translations": {
+        "english": "A delicate lady with beautiful limbs who deserved to be in a gemcrusted house was (now) like a lotus stem just plucked out and scorched by the Sun's heat.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 19,
+      "verse": 19,
+      "sloka": "वर्जयेद्वज्रमुत्सृष्टं वर्जयेदन्तकश् चिरम् ।त्वद्विधं न तु सङ्क्रुद्धो लोकनाथः स राघवः ।। ५.१९.१९।।।।",
+      "transliteration": "varjayedvajramutsṛṣṭaṁ varjayedantakaś ciram ।tvadvidhaṁ na tu saṅkruddho lokanāthaḥ sa rāghavaḥ ।। 5.19.19।।।।",
+      "translations": {
+        "english": "She was sighing heavily in intense grief like a royal female elephant tied to a pillar and separated from her lord, the leader of the herd.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 19,
+      "verse": 20,
+      "sloka": "रामस्य धनुषः शब्दं श्रोष्यसि त्वं महास्वनम् ।शतक्रतुविसृष्टस्य निर्घोषमशनेरिव ।। ५.१९.२०।।।।",
+      "transliteration": "rāmasya dhanuṣaḥ śabdaṁ śroṣyasi tvaṁ mahāsvanam ।śatakratuvisṛṣṭasya nirghoṣamaśaneriva ।। 5.19.20।।।।",
+      "translations": {
+        "english": "She was lovely even with a single braid of unkempt hair like the earth with a single row of dark trees covering its surface at the end of the rainy season.",
+        "hindi": "युद्ध सम्बन्धी मेरे प्रत्यन्त बल पराक्रम को देख । युद्ध में मैने सुर-प्रसुरों को बारंबार पराजित कर, उनकी ध्वजाएँ तोड़ गिराई हैं सुर श्रौर असुरों की सेना में मेरे सामने जो खड़ा रह सके, ऐसा कोई भो नहीं है । तू मुझे प्रब ग्रङ्गीकार कर, जिससे तेरा भली भांति श्ुङ्गार कराया जाय",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 19,
+      "verse": 21,
+      "sloka": "इह शीघ्रं सुपर्वाणो ज्वलितास्या इवोरगाः ।इषवो निपतिष्यन्ति रामलक्ष्मणलक्षणाः ।। ५.१९.२१।।।।",
+      "transliteration": "iha śīghraṁ suparvāṇo jvalitāsyā ivoragāḥ ।iṣavo nipatiṣyanti rāmalakṣmaṇalakṣaṇāḥ ।। 5.19.21।।।।",
+      "translations": {
+        "english": "She was wasted and emaciated through fasting and grief, depressed due to brooding and threatenings. She ate very little but was rich with austerities.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 19,
+      "verse": 22,
+      "sloka": "रक्षांसि परिनिघ्नन्तः पुर्यामस्यां समन्ततः ।असम्पातं करिष्यन्ति पतन्तः कङ्कवाससः ।। ५.१९.२२।।।।",
+      "transliteration": "rakṣāṁsi parinighnantaḥ puryāmasyāṁ samantataḥ ।asampātaṁ kariṣyanti patantaḥ kaṅkavāsasaḥ ।। 5.19.22।।।।",
+      "translations": {
+        "english": "Tormented with grief, Sita looked like a goddess begging Rama, the foremost of the Raghu family with folded hands in her mind to destroy Ravana, the tennecked demon.",
+        "hindi": "श्रौर सुन्दर चमकीले गहनों से तेरे भ्रंग सजाएं जायें । मेरी इच्छा है कि, में तेरे शुंगार किए हुए रूप को देख्‌",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 19,
+      "verse": 23,
+      "sloka": "राक्षसेन्द्रमहासर्पान्स रामगरुडो महान् ।उद्धरिष्यति वेगेन वैनतेय इवोरगान् ।। ५.१९.२३।।।।",
+      "transliteration": "rākṣasendramahāsarpānsa rāmagaruḍo mahān ।uddhariṣyati vegena vainateya ivoragān ।। 5.19.23।।।।",
+      "translations": {
+        "english": "Blameless Mythili with clear, large eyes and beautiful eyelashes with a reddish tint at the corners was looking around, crying. Ravana tried to allure Sita who was deeply faithful to Rama and threatened to kill her (when he found her unflinching). इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये सुन्दरकाण्डे एकोनविंशस्सर्गः। Thus ends the nineteenth sarga of Sundarakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 19,
+      "verse": 24,
+      "sloka": "अपनेष्यति मां भर्ता त्वत्तः शीघ्रमरिन्दमः ।असुरेभ्यः श्रियं दीप्तां विष्णुस्त्रिभिरिव क्रमैः ।। ५.१९.२४।।।।",
+      "transliteration": "apaneṣyati māṁ bhartā tvattaḥ śīghramarindamaḥ ।asurebhyaḥ śriyaṁ dīptāṁ viṣṇustribhiriva kramaiḥ ।। 5.19.24।।।।",
+      "translations": {
+        "english": "",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 19,
+      "verse": 25,
+      "sloka": "जनस्थाने हतस्थाने निहते रक्षसां बले ।अशक्तेन त्वया रक्षः कृतमेतदसाधु वै ।। ५.१९.२५।।।।",
+      "transliteration": "janasthāne hatasthāne nihate rakṣasāṁ bale ।aśaktena tvayā rakṣaḥ kṛtametadasādhu vai ।। 5.19.25।।।।",
+      "translations": {
+        "english": "",
+        "hindi": "मुझे प्रसन्न करने ते केवल तेरी ही प्रभीष्ट सिद्ध न होगी; बल्कि तेरे बन्धुजनों की इच्छाएऐ पूरी होती रहेंगी । हे भद्रे ! तू मेरी ऋद्धि, घन प्रौर क्षीति को देख",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 19,
+      "verse": 26,
+      "sloka": "आश्रमं तु तयोः शून्यं प्रविश्य नरसिंहयोः ।गोचरं गतयोर्भ्रात्रोरपनीता त्वयाधम ।। ५.१९.२६।।।।",
+      "transliteration": "āśramaṁ tu tayoḥ śūnyaṁ praviśya narasiṁhayoḥ ।gocaraṁ gatayorbhrātrorapanītā tvayādhama ।। 5.19.26।।।।",
+      "translations": {
+        "english": "",
+        "hindi": "हे सुमगे ! चीर बल्कल-घारी राम कोले कर तू क्या करेगी ? राम तो हारा हुम्ला है, श्री भ्रष्ट है और वन में रहा करता है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 19,
+      "verse": 27,
+      "sloka": "न हि गन्धमुपाघ्राय रामलक्ष्मणयोस्त्वया ।शक्यं सन्दर्शने स्थातुं शुना शार्दूलयोरिव ।। ५.१९.२७।।।।",
+      "transliteration": "na hi gandhamupāghrāya rāmalakṣmaṇayostvayā ।śakyaṁ sandarśane sthātuṁ śunā śārdūlayoriva ।। 5.19.27।।।।",
+      "translations": {
+        "english": "",
+        "hindi": "वह्‌ केवल ब्रतघारी है और जमीन पर सोया करता है । मुझे उसके प्रब तक जीवित रहने में भी सन्देह है । हे वेदेहि ! राम से तेरा मिलना तो बात ही भौर है, तू श्रव उसे देख भी नहीं सकती",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 19,
+      "verse": 28,
+      "sloka": "तस्य ते विग्रहे ताभ्यां युगग्रहणमस्थिरम् ।वृत्रस्येवेन्द्रबाहुभ्यां बाहोरेकस्य निग्रहः ।। ५.१९.२८।।।।",
+      "transliteration": "tasya te vigrahe tābhyāṁ yugagrahaṇamasthiram ।vṛtrasyevendrabāhubhyāṁ bāhorekasya nigrahaḥ ।। 5.19.28।।।।",
+      "translations": {
+        "english": "",
+        "hindi": "हे वेदेही ! जिस प्रकार बगलों की पंवित मेघाच्छादित च!दनी को नहीं देख सकती; उसी प्रकार रामचन्द्र भी भ्रब तुझको नहीं देख सकते; रामचग्द्र मेरे हाथ से. तुझको वसे ही श्रब नहीं ले सकते;",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 19,
+      "verse": 29,
+      "sloka": "क्षिप्रं तव स नाथो मे रामः सौमित्रिणा सह ।तोयमल्पमिवादित्यः प्राणानादास्यते शरैः ।। ५.१९.२९।।",
+      "transliteration": "kṣipraṁ tava sa nātho me rāmaḥ saumitriṇā saha ।toyamalpamivādityaḥ prāṇānādāsyate śaraiḥ ।। 5.19.29।।",
+      "translations": {
+        "english": "",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

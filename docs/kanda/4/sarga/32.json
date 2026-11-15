@@ -1,0 +1,317 @@
+{
+  "kanda": 4,
+  "kanda_name": "Kishkindha Kanda",
+  "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+  "sarga": 32,
+  "verses_count": 22,
+  "verses": [
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 32,
+      "verse": 1,
+      "sloka": "अंगदस्य वचः श्रुत्वा सुग्रीवः सचिवैः सह ।लक्ष्मणम् कुपितम् श्रुत्वा मुमोच आसनम् आत्मवान् ॥४-३२-१॥",
+      "transliteration": "aṁgadasya vacaḥ śrutvā sugrīvaḥ sacivaiḥ saha ।lakṣmaṇam kupitam śrutvā mumoca āsanam ātmavān ॥4-32-1॥",
+      "translations": {
+        "english": "On hearing about Lakshmana's anger from Angada, prudent Sugriva consulted his counsellors.",
+        "hindi": "किष्किन्धाकाएड का इक्तीतवाँ सगे पूरा हुआ। है स ९ त्रिशः सगः र अङ्गदस्य वचः श्रत्वा सुग्रीवः स्चिवे: सह । लक्ष्मणं कुपितं श्रत्वा मुमोचासनमात्मबवान!",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 32,
+      "verse": 2,
+      "sloka": "स च तान् अब्रवीत् वाक्यम् निश्चित्य गुरु लाघवम् ।मंत्रज्ञान् मंत्र कुशलो मंत्रेषु परिनिष्ठितः ॥४-३२-२॥",
+      "transliteration": "sa ca tān abravīt vākyam niścitya guru lāghavam ।maṁtrajñān maṁtra kuśalo maṁtreṣu pariniṣṭhitaḥ ॥4-32-2॥",
+      "translations": {
+        "english": "Sugriva, being skilled in secret assessment of matters, considering the merits and demerits, spoke to his council of ministers capable of intelligent counselling:",
+        "hindi": "सुग्रीव ने उन मंत्रियों से, जो विचार करने में बड़े निपुण थे श्रीरामचन्द्र को बड़ाई और अपनी छुटाइ के त्रिपव में कुछ भी न कह्‌, यइ कहा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 32,
+      "verse": 3,
+      "sloka": "न मे दुर् व्याहृतम् किंचित् न अपि मे दुर् अनुष्ठितम् ।लक्ष्मणो राघव भ्राता क्रुद्धः किम् इति चिंतये ॥४-३२-३॥",
+      "transliteration": "na me dur vyāhṛtam kiṁcit na api me dur anuṣṭhitam ।lakṣmaṇo rāghava bhrātā kruddhaḥ kim iti ciṁtaye ॥4-32-3॥",
+      "translations": {
+        "english": "'Indeed I have not uttered any harsh word or done anything wrong. I, therefore, wonder why Rama's brother, Lakshmana is angry with me?",
+        "hindi": "मे रह रह कर यह चिन्ता होती है कि, मैंने न तो उनको दुर्वचन कहे ओर न उनके साथ कोई बुरा बर्ताव ही किया तब श्रीरामचन्द्र के भाई लक्ष्मण के क्रद्ध होने का कारण क्या हे ?",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 32,
+      "verse": 4,
+      "sloka": "असुहृद्भिः मम अमित्रैः नित्यम् अन्तर दर्शिभिः ।मम दोषान् असंभूतान् श्रावितो राघवानुजः ॥४-३२-४॥",
+      "transliteration": "asuhṛdbhiḥ mama amitraiḥ nityam antara darśibhiḥ ।mama doṣān asaṁbhūtān śrāvito rāghavānujaḥ ॥4-32-4॥",
+      "translations": {
+        "english": "'Some enemies, who are always searching for imaginary faults of mine might have poisoned Lakshmana's ears.",
+        "hindi": "सेरी समझ में तो यह आता है कि, मेरे बेरियों ने, जो सदा झरे दोष ढूढ़ने में लगे रहते हैं, लक्ष्मण से मेरी झूठी शिकायत की है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 32,
+      "verse": 5,
+      "sloka": "अत्र तावत् यथा बुद्धि सर्वैः एव यथा विधि ।भावस्य निश्चयः तावत् विज्ञेयो निपुणम् शनैः ॥४-३२-५॥",
+      "transliteration": "atra tāvat yathā buddhi sarvaiḥ eva yathā vidhi ।bhāvasya niścayaḥ tāvat vijñeyo nipuṇam śanaiḥ ॥4-32-5॥",
+      "translations": {
+        "english": "'In the meanwhile, (right now) all of you should think quietly and try to know the reason (for Lakshmana's anger), using your intellect and expertise logically and decide( the course of action).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 32,
+      "verse": 6,
+      "sloka": "न खलु अस्ति मम त्रासो लक्ष्मणान् न अपि राघवात् ।मित्रम् तु अस्थान कुपितम् जनयति एव संभ्रमम् ॥४-३२-६॥",
+      "transliteration": "na khalu asti mama trāso lakṣmaṇān na api rāghavāt ।mitram tu asthāna kupitam janayati eva saṁbhramam ॥4-32-6॥",
+      "translations": {
+        "english": "'I have no fear either from Lakshmana or from Rama. However, when a friend is enraged without reason, it creates misgivings.",
+        "hindi": "सुके श्रीरामचन्द्र और लक्ष्मण का जरा भी डर नहीं है, भत्र का अकारण अथवा बिना अपराध क्रुद्ध होना ही भयप्रद डै",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 32,
+      "verse": 7,
+      "sloka": "सर्वथा सुकरम् मित्रम् दुष्करम् प्रतिपालनम् ।अनित्यत्वात् तु चित्तानाम् प्रीतिः अल्पे अपि भिद्यते ॥४-३२-७॥",
+      "transliteration": "sarvathā sukaram mitram duṣkaram pratipālanam ।anityatvāt tu cittānām prītiḥ alpe api bhidyate ॥4-32-7॥",
+      "translations": {
+        "english": "'It is easy to earn a friend but keeping the friendship sustained is difficult. Due to fickleness of mind friendship gets broken even on flimsy grounds.",
+        "hindi": "मैत्री करना तो सहज है, किन्तु मैत्री का निबाहना दुष्कर है, क्योंकि चित्त की अस्थिरता से जरा सी बात में प्रीति में अन्तर सङ्‌ जाता है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 32,
+      "verse": 8,
+      "sloka": "अतो निमित्तम् त्रस्तो अहम् रामेण तु महात्मना ।यन् मम उपकृतम् शक्यम् प्रतिकर्तुम् न तन् मया ॥४-३२-८॥",
+      "transliteration": "ato nimittam trasto aham rāmeṇa tu mahātmanā ।yan mama upakṛtam śakyam pratikartum na tan mayā ॥4-32-8॥",
+      "translations": {
+        "english": "'Therefore, I am apprehensive of Rama. I am not able to repay the help he has rendered to me'.",
+        "hindi": "द्वात्रिशः सगः ३२५ अतएव इन्हीं सब बातों को सोच विचार कर में महात्मा श्रीरामचन्द्र से डरता हूँ । क्योंकि में जो कुछ उनका उपकार करु सकता था, बह भी में अभी तक नहीं कर सका",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 32,
+      "verse": 9,
+      "sloka": "सुग्रीवेण एवम् उक्ते तु हनुमान् हरि पुंगवः ।उवाच स्वेन तर्केण मध्ये वानर मंत्रिणाम् ॥४-३२-९॥",
+      "transliteration": "sugrīveṇa evam ukte tu hanumān hari puṁgavaḥ ।uvāca svena tarkeṇa madhye vānara maṁtriṇām ॥4-32-9॥",
+      "translations": {
+        "english": "When Sugriva spoke thus, Hanuman the great monkey, submitted in the presnce of the monkeyministers, applying his own logic:",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 32,
+      "verse": 10,
+      "sloka": "सर्वथा न एतद् आश्चर्यम् यत् त्वम् हरिगणेश्वर ।न विस्मरसि सुस्निग्धम् उपकारम् कृतम् शुभम् ॥४-३२-१०॥",
+      "transliteration": "sarvathā na etad āścaryam yat tvam harigaṇeśvara ।na vismarasi susnigdham upakāram kṛtam śubham ॥4-32-10॥",
+      "translations": {
+        "english": "'It is not at all a matter of surprise, O king of vanara clan, that you forgot the good service rendered to you with utmost sense of friendship.",
+        "hindi": "हे कपिराज! आप जो श्रीरामचन्द्र जी के उपकार को नहीँ भूले-सो यह कोई आश्चर्यं की बात नहीं, क्योंकि उपकारी महात्मा लोगों का स्वभाव ही ऐसा अच्छा\" होता है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 32,
+      "verse": 11,
+      "sloka": "राघवेण तु वीरेण भयम् उत्सृज्य दूरतः ।त्वत् प्रिय अर्थम् हतो वाली शक्र तुल्य पराक्रमः ॥४-३२-११॥",
+      "transliteration": "rāghaveṇa tu vīreṇa bhayam utsṛjya dūrataḥ ।tvat priya artham hato vālī śakra tulya parākramaḥ ॥4-32-11॥",
+      "translations": {
+        "english": "'To remove your fear and to please you, the great hero Rama has killed Vali, an equal to Indra in valour.",
+        "hindi": "राघवेण तु वीरेण भयमुत्छज्य दूरतः । त्वत्मियाथं हतो वाली शक्रतुस्यपराक्रमः",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 32,
+      "verse": 12,
+      "sloka": "सर्वथा प्रणयात् क्रुद्धो राघवो न अत्र संशयः ।भ्रातरम् संप्रहितवान् लक्ष्मणम् लक्ष्मि वर्धनम् ॥४-३२-१२॥",
+      "transliteration": "sarvathā praṇayāt kruddho rāghavo na atra saṁśayaḥ ।bhrātaram saṁprahitavān lakṣmaṇam lakṣmi vardhanam ॥4-32-12॥",
+      "translations": {
+        "english": "'Rama's anger is purely out of love for you. He has sent Lakshmana, a bestower of prosperity to you. There is no doubt about it.",
+        "hindi": "अतः इसमें जरा सा भो सन्देह नहीं कि, श्रीरामचन्द्र जी का तुम्हारे ऊपर क्रद्ध होना भी प्रेमयुक्त हे । इसीसे उन्हाने कान्ति बद्धेन लक्ष्मण को तुम्हारे पास भेजा है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 32,
+      "verse": 13,
+      "sloka": "त्वम् प्रमत्तो न जानीषे कालम् कलविदाम् वर ।फुल्ल सप्त च्छद श्यामा प्रवृत्ता तु शरत् शिवा ॥४-३२-१३॥",
+      "transliteration": "tvam pramatto na jānīṣe kālam kalavidām vara ।phulla sapta cchada śyāmā pravṛttā tu śarat śivā ॥4-32-13॥",
+      "translations": {
+        "english": "'You knows best the passage of time (changing seasons). But you are not aware out of inattention that the auspicious autumn has set in, making the garden lush green with blossoms of Saptachada flowers.",
+        "hindi": "हे समय को पहचानने बालों में श्रेष्ठ ! तुमने मत्त हो कर, ससय को नहीं जाना। देखिए हरे हरे पत्ते वाले छितिउन के पेड़, कलो से लद॒फंद गए हैं ओर कल्याणकारिणी शरदू ऋतु का आरम्भ हो चुका",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 32,
+      "verse": 14,
+      "sloka": "निर्मल ग्रह नक्षत्रा द्यौः प्रनष्ट बलाहका ।प्रसन्नाः च दिशः सर्वाः सरितः च सरांसि च ॥४-३२-१४॥",
+      "transliteration": "nirmala graha nakṣatrā dyauḥ pranaṣṭa balāhakā ।prasannāḥ ca diśaḥ sarvāḥ saritaḥ ca sarāṁsi ca ॥4-32-14॥",
+      "translations": {
+        "english": "'The sky from which the dark clouds have completely disappeared is illumined with planets and stars. The rivers and tanks as well as all directions are pleasant.",
+        "hindi": "आकाश में मह ओर नक्षत्र सव सिमल हो गए । मेघ जहां के तहां समा गए, अर्थात्‌ आकाश में मेघ नहीं देख पड़ते । समस्त ईदिशाएँ, नदियाँ और सरोवर शोमायुक्त हो रहे हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 32,
+      "verse": 15,
+      "sloka": "प्राप्तम् उद्योग कालम् तु न अवैषि हरिपुंगव ।त्वम् प्रमत्त इति व्यक्तम् लक्ष्मणो अयम् इह आगतः ॥४-३२-१५॥",
+      "transliteration": "prāptam udyoga kālam tu na avaiṣi haripuṁgava ।tvam pramatta iti vyaktam lakṣmaṇo ayam iha āgataḥ ॥4-32-15॥",
+      "translations": {
+        "english": "'O chief of monkeys it is time for military expeditions. Since you are intoxicated you are not aware of this, Lakshmana has come here evidently for this.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 32,
+      "verse": 16,
+      "sloka": "आर्तस्य हृत दारस्य परुषम् पुरुष अन्तरात् ।वचनम् मर्षणीयम् ते राघवस्य महात्मनः ॥४-३२-१६॥",
+      "transliteration": "ārtasya hṛta dārasya paruṣam puruṣa antarāt ।vacanam marṣaṇīyam te rāghavasya mahātmanaḥ ॥4-32-16॥",
+      "translations": {
+        "english": "'The message sent by a man who is in distress, and is deprived of his wife should be accepted even if they are harsh since he is a great self (who has rendered you help).",
+        "hindi": "र ७ अतस्य हृतदारस्य परुष पुरुषान्तरात्‌ । है (Oo बचन मषणाय त राघवस्य महात्मन!",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 32,
+      "verse": 17,
+      "sloka": "कृत अपराधस्य हि ते न अन्यत् पश्यामि अहम् क्षमम् ।अंतरेण अंजलिम् बद्ध्वा लक्ष्मणस्य प्रसादनात् ॥४-३२-१७॥",
+      "transliteration": "kṛta aparādhasya hi te na anyat paśyāmi aham kṣamam ।aṁtareṇa aṁjalim baddhvā lakṣmaṇasya prasādanāt ॥4-32-17॥",
+      "translations": {
+        "english": "'In these circumstances the best way is seeking apology from Lakshmana with folded hands. I do not see any way other than this.",
+        "hindi": "अब तो हाथ जोड कर लक्ष्मण से क्षमाप्राथंना करने ही से, मुझे तुम्हारी भलाई देख पडता है | क्योंकि समय चूक जाने का अपराध तुमसे बन पड़ा है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 32,
+      "verse": 18,
+      "sloka": "नियुक्तैः मंत्रिभिः वाच्यो अवश्यम् पार्थिवो हितम् ।इत एव भयम् त्यक्त्वा ब्रवीमि अवधृतम् वचः ॥४-३२-१८॥",
+      "transliteration": "niyuktaiḥ maṁtribhiḥ vācyo avaśyam pārthivo hitam ।ita eva bhayam tyaktvā bravīmi avadhṛtam vacaḥ ॥4-32-18॥",
+      "translations": {
+        "english": "'The counsellors and ministers appointed by a king should certainly give good advice, without fear. This I tell you since I have faith in my words.",
+        "hindi": "राजकाय में लगे हुए मन्त्रयां का यह कत्तव्य है कि, वे राजा से हितकारी बात कहें । इसीसे निर्भय हो मैंने निश्चय हितकर बचन कहे हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 32,
+      "verse": 19,
+      "sloka": "अभिक्रुद्धः समर्थो हि चापम् उद्यम्य राघवः ।स देव असुर गंधर्वम् वशे स्थापयितुम् जगत् ॥४-३२-१९॥",
+      "transliteration": "abhikruddhaḥ samartho hi cāpam udyamya rāghavaḥ ।sa deva asura gaṁdharvam vaśe sthāpayitum jagat ॥4-32-19॥",
+      "translations": {
+        "english": "If enraged, Rama, raising his bow, is able to bring the whole world—including gods, demons and gandharvas—under his control.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 32,
+      "verse": 20,
+      "sloka": "न स क्षमः कोपयितुम् यः प्रसाद्य पुनर् भवेत् ।पूर्व उपकारम् स्मरता कृतज्ञेन विशेषतः ॥४-३२-२०॥",
+      "transliteration": "na sa kṣamaḥ kopayitum yaḥ prasādya punar bhavet ।pūrva upakāram smaratā kṛtajñena viśeṣataḥ ॥4-32-20॥",
+      "translations": {
+        "english": "'He who deserves propitiation, should not be offended, more so by a grateful man, remembering the help received by him earlier.",
+        "hindi": "ऐसे पुरुष को नराज्ञ न करना चाहिए, जिसको पीछे प्रसन्न करना पड़े श्रोर विशेष कर पहले छिए दुर अपने प्रति उपकारा को स्मरण कर, उपकार करने वाले ऋतद्ध पुरुष को",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 32,
+      "verse": 21,
+      "sloka": "तस्य मूर्ध्ना प्रणम्य त्वम् स पुत्रः स सुहृत् जनः ।राजन् तिष्ठ स्व समये भर्तुः भार्या इव तत् वशे ॥४-३२-२१॥",
+      "transliteration": "tasya mūrdhnā praṇamya tvam sa putraḥ sa suhṛt janaḥ ।rājan tiṣṭha sva samaye bhartuḥ bhāryā iva tat vaśe ॥4-32-21॥",
+      "translations": {
+        "english": "'O king bow down your head along with your son, friends and relations and honour the oath just as a wife subordinates to the will of the husband. Stand by obediently.",
+        "hindi": "हे राजन्‌ ! आप एत्र तथा सुदृज्जनों को अपने साथ ले लचमख के पास जाइए और सीस नतरा उनका प्रणाम कीजिए और जिस . १ अ्रवधुतं--हितत्वेत निश्चित | ( शि० ) ३२८ किष्किन्धा काएडे प्रकार भार्या अपने भत्ता के वश में रहती है, वैसे ही समय आने पर आप उनके कहुने में चलिए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 32,
+      "verse": 22,
+      "sloka": "न राम रामानुज शासनम् त्वयाकपीन्द्र युक्तम् मनसा अपि अपोहितुम् ।मनो हि ते ज्ञास्यति मानुषम् बलम्स राघवस्य अस्य सुरेन्द्र वर्चसः ॥४-३२-२२॥",
+      "transliteration": "na rāma rāmānuja śāsanam tvayākapīndra yuktam manasā api apohitum ।mano hi te jñāsyati mānuṣam balamsa rāghavasya asya surendra varcasaḥ ॥4-32-22॥",
+      "translations": {
+        "english": "'O king of monkeys It is not right for you to overlook the commands of Rama or Lakshmana even in mind. You know the superhuman virtues of Rama, particularly his valour. The two brothers are like Indra (and Upendra) in valour and might. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये किष्किन्धाकाण्डे द्वात्रिंशस्सर्गः।। Thus ends the thirtysecond sarga in Kishkindakanda of the first epic, the Holy Ramayana composed by sage Valmiki.",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

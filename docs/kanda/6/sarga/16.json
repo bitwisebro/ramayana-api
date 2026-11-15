@@ -1,0 +1,387 @@
+{
+  "kanda": 6,
+  "kanda_name": "Yuddha Kanda",
+  "kanda_name_sanskrit": "युद्धकाण्डम्",
+  "sarga": 16,
+  "verses_count": 27,
+  "verses": [
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 16,
+      "verse": 1,
+      "sloka": "सुनिविष्टम् हितम् वाक्यम् उक्तवन्तम् विभीषणम् ।अब्रवीत् परुषम् वाक्यम् रावणः काल चोदितः ॥६-१६-१॥।।",
+      "transliteration": "suniviṣṭam hitam vākyam uktavantam vibhīṣaṇam ।abravīt paruṣam vākyam rāvaṇaḥ kāla coditaḥ ॥6-16-1॥।।",
+      "translations": {
+        "english": "While Vibheeshana advised in Ravana's favour with all good intention, Ravana who was under the influence of death spoke harsh words.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 16,
+      "verse": 2,
+      "sloka": "वसेत् सह सपत्नेन क्रुद्धेन आशी विषेण च ।न तु मित्र प्रवादेन सम्वस्च्चत्रुणा सह ॥६-१६-२॥।।",
+      "transliteration": "vaset saha sapatnena kruddhena āśī viṣeṇa ca ।na tu mitra pravādena samvasccatruṇā saha ॥6-16-2॥।।",
+      "translations": {
+        "english": "\"One can live with a known enemy or even with an angry and venomous serpent but cannot stay together with one who professes to be a friend and devoted to an enemy.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 16,
+      "verse": 3,
+      "sloka": "जानामि शीलम् ज्ञातीनाम् सर्व लोकेषु राक्षस ।हृष्यन्ति व्यसनेष्वेते ज्ञातीनाम् ज्ञातयः सदा ॥६-१६-३॥।।",
+      "transliteration": "jānāmi śīlam jñātīnām sarva lokeṣu rākṣasa ।hṛṣyanti vyasaneṣvete jñātīnām jñātayaḥ sadā ॥6-16-3॥।।",
+      "translations": {
+        "english": "\"The behaviour of close relatives in all worlds is known to me. They are happy at the difficulties of relatives.\"",
+        "hindi": "में सब लोकों के जाति वालों का स्वभांव भली भाँति जानता हूँ कि, बिरादरी में जब एक पर विपत्ति पड़तो है, तब दूसरे प्रसन्न होते हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 16,
+      "verse": 4,
+      "sloka": "प्रधानम् साधकम् वैद्यम् धर्म शीलम् च राक्षस ।ज्ञातयो ह्यनमन्यन्ते शूरम् परिभवन्ति च ॥६-१६-४॥।।",
+      "transliteration": "pradhānam sādhakam vaidyam dharma śīlam ca rākṣasa ।jñātayo hyanamanyante śūram paribhavanti ca ॥6-16-4॥।।",
+      "translations": {
+        "english": "\"O Rakshasa Relatives will insult and disapprove their chief even if he is an accomplished one, a virtuous one or a heroic one and does his duty (as a ruler).\"",
+        "hindi": "जाति के मुखिया, कार्येलाथक, विद्वान्‌ और धर्मात्मा का, कुढुम्ब वाळे सदा अपमान ही किआ करते हैं और उनमें जो शूर-वीर होता हे, उसका वे तिरस्कार करना चाहते हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 16,
+      "verse": 5,
+      "sloka": "नित्यम् अन्योन्य सम्हृष्टा व्यसनेष्वाततायिनः ।प्रच्चन्न हृदया घोरा ज्ञातयस् तु भय आवहाः ॥६-१६-५॥।।",
+      "transliteration": "nityam anyonya samhṛṣṭā vyasaneṣvātatāyinaḥ ।praccanna hṛdayā ghorā jñātayas tu bhaya āvahāḥ ॥6-16-5॥।।",
+      "translations": {
+        "english": "\"Pretending to be friendly forever the relatives rejoice in them is fortunes of their relatives. They create terrible fear like desperadoes and covertly ones.\"",
+        "hindi": "जाति बाळे बढ़े निदयी होते ह! क्योंकि नित्य अल ह ५2 आपस में हषित हो कर रहें, किन्तु विपात्त पड़ने पर वे आंत तायी हो जाते हैं। वे अपन सन का भाव मन है| रखते हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 16,
+      "verse": 6,
+      "sloka": "श्रूयन्ते हस्तिभिर् गीताः श्लोकाः पद्म वने पुरा ।पाश हस्तान् नरान् दृष्ट्वा शृणु तान् गदतो मम ॥६-१६-६॥।।",
+      "transliteration": "śrūyante hastibhir gītāḥ ślokāḥ padma vane purā ।pāśa hastān narān dṛṣṭvā śṛṇu tān gadato mama ॥6-16-6॥।।",
+      "translations": {
+        "english": "\"In the past elephants in the lotus park, uttered some verses on seeing men holding snares in hand. I will relate those that I heard. You may listen.\"",
+        "hindi": "सना जाता है कि; पद्मवन के हाथिया ने उस समय एक बाद छु श्लोक कहे थे, जिस समय बहुत से ला = को बाँवने के हुँ-- हुम सुनो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 16,
+      "verse": 7,
+      "sloka": "नाग्निर्नान्यानि शस्त्राणि न नः पाशा भयावहाः ।घोराः स्वार्थप्रयुक्तास्तु ज्ञातयो नो भयावहाः  ॥६-१६-७॥।।",
+      "transliteration": "nāgnirnānyāni śastrāṇi na naḥ pāśā bhayāvahāḥ ।ghorāḥ svārthaprayuktāstu jñātayo no bhayāvahāḥ  ॥6-16-7॥।।",
+      "translations": {
+        "english": "\"We have no fear of fire or weapons or noose of death. Selfish relatives are causing fear in us.\"",
+        "hindi": "लिए रस्से लिए हुए चले आते थ। स कहता हू लुम सुना ' नाग्निनान्यान शस्त्राण न नः पाशा भयाबह घोराः स्वार्थप्रयक्तास्तु ज्ञातयो नो भयावहाः",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 16,
+      "verse": 8,
+      "sloka": "उपायमेते वक्ष्यन्ति ग्रहणे नात्रसम्शयः ।कृत्स्नाद् भयाज्ज्ञातिभयम् सुकष्टम् विदितम् च नः ॥६-१६-८॥।।",
+      "transliteration": "upāyamete vakṣyanti grahaṇe nātrasamśayaḥ ।kṛtsnād bhayājjñātibhayam sukaṣṭam viditam ca naḥ ॥6-16-8॥।।",
+      "translations": {
+        "english": "\"It is known that they (paternal relatives) teach the means to catch us. Out of all fears the fear of close relatives is the great difficulty for us.\"",
+        "hindi": "क्योंकि पकड़ने का उपाय ये ही बतलाते हैं। मुझे; यह वात अली भाँति मालूम है कि, सब भया से वढ कर विरादरी वालों का भय कष्टदायक है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 16,
+      "verse": 9,
+      "sloka": "विद्यते गोषु सम्पन्नम् विद्यते ज्ञातितो भयम् ।विद्यते स्त्रीषु चापल्यम् विद्यते ज्ञातितो भयम् ॥६-१६-९॥।।",
+      "transliteration": "vidyate goṣu sampannam vidyate jñātito bhayam ।vidyate strīṣu cāpalyam vidyate jñātito bhayam ॥6-16-9॥।।",
+      "translations": {
+        "english": "\"In the cows' wealth is present, in the brahmins forbearance is seen, in the women capriciousness exists but in close relatives fear is present.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 16,
+      "verse": 10,
+      "sloka": "ततो नेष्टम् इदम् सौम्य यदहम् लोक सत्कृतः ।ऐश्वर्यम् अभिजातः च रिपूणाम् मूर्ध्नि च स्थितः ॥६-१६-१०॥।।",
+      "transliteration": "tato neṣṭam idam saumya yadaham loka satkṛtaḥ ।aiśvaryam abhijātaḥ ca ripūṇām mūrdhni ca sthitaḥ ॥6-16-10॥।।",
+      "translations": {
+        "english": "\"Gentle (Vibheeshana) one Since you belong to the same kinsfolk (as I) you do not like me, who is born of noble descent, attained the position of chief (of clan), is worshipped by the world, and attained sovereignty.\"",
+        "hindi": "सैंने शत्रुओं को पराजित कर अतुलित यश प्रात किआ है ब लीनां लोक सेस सम्मान करते हैं, सो हे सोम्य ! मैं जान गया कि, सेरा यह उत्कर्ष तुमको अच्छा नहीं लगता",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 16,
+      "verse": 11,
+      "sloka": "यथा पुष्करपत्रेषु पतितास्तोयबिन्दवः ।न श्लेषमभिगच्चन्ति तथानार्येषु सौहृदम् ॥६-१६-११॥।।",
+      "transliteration": "yathā puṣkarapatreṣu patitāstoyabindavaḥ ।na śleṣamabhigaccanti tathānāryeṣu sauhṛdam ॥6-16-11॥।।",
+      "translations": {
+        "english": "\"Just as drops of water that fall on lotus leaves do not adhere to each other, like wise however long you spend with an unworthy (relative) one, good friendship does not take place.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 16,
+      "verse": 12,
+      "sloka": "यथा शरदि मेघानाम् सिञ्चातामपि गर्जताम् ।न भवत्यमुबसम्क्लेदस्तथानार्येषु सौहृदम् ॥६-१६-१२॥।।",
+      "transliteration": "yathā śaradi meghānām siñcātāmapi garjatām ।na bhavatyamubasamkledastathānāryeṣu sauhṛdam ॥6-16-12॥।।",
+      "translations": {
+        "english": "\"Just as honeybees do not have gratitude after drinking (honey) and satisfying, the friendship with an unworthy person like you is of no use.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 16,
+      "verse": 13,
+      "sloka": "यथा मधुकरस्तर्षाद्रासम् विन्दन्न तिष्ठति ।तथा त्वमपि तत्रैव तथानार्येषु सौहृदम् ॥६-१६-१३॥।।",
+      "transliteration": "yathā madhukarastarṣādrāsam vindanna tiṣṭhati ।tathā tvamapi tatraiva tathānāryeṣu sauhṛdam ॥6-16-13॥।।",
+      "translations": {
+        "english": "\"Just as an elephant takes dust with its trunk and abuses (and spreads on) its own body after taking a bath so also is the association with unworthy ones.\"",
+        "hindi": "जिल तरह हाथी जल में स्नान कर फिर सूँ इ में धूत भर उस से अपने शरोर को मलिन कर डालता है, उता तरइ दुन कै साथ की हुई मैत्री का परिणाम होता है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 16,
+      "verse": 14,
+      "sloka": "यथा मधुकर्स्तराषात्काशपुष्पम् पिबन्नपि ।रसमत्र न विन्देत तथानार्येषु सौहृदम् ॥६-१६-१४॥।।",
+      "transliteration": "yathā madhukarstarāṣātkāśapuṣpam pibannapi ।rasamatra na vindeta tathānāryeṣu sauhṛdam ॥6-16-14॥।।",
+      "translations": {
+        "english": "\"Just as the autumn rain poured out from the thundering clouds does not dampen, in the same way unworthy ones do not have affection.\"",
+        "hindi": "जिस प्रकार शरदऋतु भें बादलों के गरजने ओर बरसे पृथिवी का कुछ भी उपकार नहीं होता उसी प्रकार छुजन के साथ मैत्री करने से कुछ भी लाभ नहीं होता",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 16,
+      "verse": 15,
+      "sloka": "यथा पूर्वम् गजः स्नात्वा गृह्य हस्तेन वै रजः ।दूषयत्यात्मनो देहम् तथानार्येषु सौहृदम् ॥६-१६-१५॥।।",
+      "transliteration": "yathā pūrvam gajaḥ snātvā gṛhya hastena vai rajaḥ ।dūṣayatyātmano deham tathānāryeṣu sauhṛdam ॥6-16-15॥।।",
+      "translations": {
+        "english": "\"Just as honeybees do not stay at the flower after satisfaction with the nectar, in the same way is the friendship with unworthy ones.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 16,
+      "verse": 16,
+      "sloka": "योऽन्यस्त्वेवम्विधम् ब्रूयाद् वाक्यमेतन्निशाचर ।अस्मिन् मुहूर्ते न भवेत् त्वाम् तु धिक् कुलपाम्सनम् ॥६-१६-१६॥।।",
+      "transliteration": "yo'nyastvevamvidham brūyād vākyametanniśācara ।asmin muhūrte na bhavet tvām tu dhik kulapāmsanam ॥6-16-16॥।।",
+      "translations": {
+        "english": "\"O Night ranger (Vibheeshana) If any other one had spoken such words, I would not let him live this moment and also destroy. Fie upon you.\"",
+        "hindi": "हे विभीषण ! तूने जैसी बातें अभ कही हें, यदि 2200 कोई दसरा कहता तो तत्काल उसे में मरवा रिण (व भाई है, इसका विचार है.) विभीषण ! तुझ कुलकलङ्क क घिक्कार हे ॥ १% ॥ रॅ इत्युक्तः परुषं वाक्यं न्यायवादी विभीषणः | उपपात गदापाणिश्चतुमिः सह राक्षस:",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 16,
+      "verse": 17,
+      "sloka": "इतिउक्तः परुषम् वाक्यम् न्यायवादी विभीषणः ।उत्पपात गदापाणिःचतुर्भिः सह राक्षसैः ॥६-१६-१७॥।।",
+      "transliteration": "itiuktaḥ paruṣam vākyam nyāyavādī vibhīṣaṇaḥ ।utpapāta gadāpāṇiḥcaturbhiḥ saha rākṣasaiḥ ॥6-16-17॥।।",
+      "translations": {
+        "english": "Vibheeshana who was just in his argument rose up, wielding mace in hand accompanied by the four Rakshasas, when Ravana had spoken such harsh words to him.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 16,
+      "verse": 18,
+      "sloka": "अब्रवीच्च तदा वाक्यम् जातक्रोधो विभीषणः ।अन्तरिक्षगतः श्रीमान् भ्रातरम् राक्षस अधिपम् ॥६-१६-१८॥।।",
+      "transliteration": "abravīcca tadā vākyam jātakrodho vibhīṣaṇaḥ ।antarikṣagataḥ śrīmān bhrātaram rākṣasa adhipam ॥6-16-18॥।।",
+      "translations": {
+        "english": "Great Vibheeshana was enraged. Then going up into the sky spoke these words to his brother, the Lord of Rakshasas.",
+        "hindi": "जब न्यायबादी ( ठीक. ठीक कहने वाले ) विभीषण की रावण ने इस प्रकार थिक्कारा; तब वह चार राक्षसा के साथ सं आकाश में पहुँ [शमेँ. हाथ में गदा लिए हुए उड़ कर आकाश म पढचा । छाक पहुँच और क्रोध में भर विभीषण ते अपने भाई राक्षसराज रावण से ये वचन कहे ॥ १६ ISU EO स त्वं भ्राताउसि मे राजनत्र हि मां यद्यादच्छास | येष्ठो मान्य; पि धर्मपथे स्थित;",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 16,
+      "verse": 19,
+      "sloka": "स त्वम् भ्राता असि मे राजन् ब्रूहि माम् यद् यद् इच्चसि ।ज्येष्ठो मान्यः पितृसमो न च धर्मपथे स्थितः ॥६-१६-१९॥।।",
+      "transliteration": "sa tvam bhrātā asi me rājan brūhi mām yad yad iccasi ।jyeṣṭho mānyaḥ pitṛsamo na ca dharmapathe sthitaḥ ॥6-16-19॥।।",
+      "translations": {
+        "english": "\"O King You, being my elder brother, you may tell me What you wish. You are equal to father being elder brother and are to be honoured. But you have not followed the righteous path. The words you spoke are not pardonable.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 16,
+      "verse": 20,
+      "sloka": "इदम् तु परुषम् वाक्यम् न क्षमामि अनृतम् तव ।सुनीतम् हित कामेन वाक्यम् उक्तम् दश आनन ॥६-१६-२०॥।।",
+      "transliteration": "idam tu paruṣam vākyam na kṣamāmi anṛtam tava ।sunītam hita kāmena vākyam uktam daśa ānana ॥6-16-20॥।।",
+      "translations": {
+        "english": "\"O Tenheaded king Fallen under the sway of death, you are foolish. You do not understand the well prepared good words spoken by me wishing your welfare.\"",
+        "hindi": "तुम ध्यान देते भी क्यों? तुम्हारे सिर पर तो काल खेल रहा है। जो अनात्मज्ञ पुरुष होते हैं, वे ऐसी बातों पर ध्यान नहीं देते हे राजन्‌ ! सदैव चिकनी चुपड़ी बातें कहने वाले नुष्य वहुत मिलते हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 16,
+      "verse": 21,
+      "sloka": "न गृह्णन्ति अकृत आत्मानः कालस्य वशमागताः ।सुलभाः पुरुषा राजन् सततम् प्रिय वादिनः ॥६-१६-२१॥।।",
+      "transliteration": "na gṛhṇanti akṛta ātmānaḥ kālasya vaśamāgatāḥ ।sulabhāḥ puruṣā rājan satatam priya vādinaḥ ॥6-16-21॥।।",
+      "translations": {
+        "english": "\"O King Those who speak pleasingly are always easier to find than those who speak unpleasant but good words. Listeners of unpleasant words (though good) are difficult (to find).\"",
+        "hindi": "अप्रिय, किन्तु न्याययुक्त वाते कहने वाले और सुनने बाले मनुष्यों का सिलना कठिन है । सव प्राणियों को हरण करने ` वाले काल के पाश में तुमको फंसा हुआ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 16,
+      "verse": 22,
+      "sloka": "अप्रियस्य तु पथ्यस्य वक्ता श्रोता च दुर्लभः ।बद्धम् कालस्य पाशेन सर्व भूत अपहारिणा ॥६-१६-२२॥।।",
+      "transliteration": "apriyasya tu pathyasya vaktā śrotā ca durlabhaḥ ।baddham kālasya pāśena sarva bhūta apahāriṇā ॥6-16-22॥।।",
+      "translations": {
+        "english": "\"Bound by the noose of death which is the cause of destruction of all beings you are going to be killed just as the burning house if you ignore my advice.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 16,
+      "verse": 23,
+      "sloka": "न नश्यन्तम् उपेक्षेयम् प्रदीप्तम् शरणम् यथा ।दीप्त पावक सम्काशैः शितैः कान्चन भूषणैः ॥६-१६-२३॥।।",
+      "transliteration": "na naśyantam upekṣeyam pradīptam śaraṇam yathā ।dīpta pāvaka samkāśaiḥ śitaiḥ kāncana bhūṣaṇaiḥ ॥6-16-23॥।।",
+      "translations": {
+        "english": "\"While the sharp golden arrows of Rama burning like fire strike you, I do not wish to see.\"",
+        "hindi": "सुनीतं -सुनिश्चितागामिफलब्रोघ वाक्यं । (रा०) |ाठान्त ““ृसाम्यनुत । rrr १२२ युद्धकाण्डे और नष्ट होते देख, समसे न रहा गया घर को जलते देख कौन चुपचाप बैठा रह सकता हे.) पर्यासत अपन की तरह चमकते, पेने और सुवर्णभूषित ॥ कर | जे न त्वामिच्छाम्यहं दरष्टु रामेश निहतं शर; । % शूराश्च बलवन्तश्च कृताखाश्व रणाजिरे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 16,
+      "verse": 24,
+      "sloka": "न त्वाम् इच्चामि अहम् द्रष्टुम् रामेण निहतम् शरैः ।शूराः च बलवन्तः च कृत अस्त्राः च नर आजिरे ॥६-१६-२४॥।।",
+      "transliteration": "na tvām iccāmi aham draṣṭum rāmeṇa nihatam śaraiḥ ।śūrāḥ ca balavantaḥ ca kṛta astrāḥ ca nara ājire ॥6-16-24॥।।",
+      "translations": {
+        "english": "\"Even the heroic archers and mighty men wielding weapons will fall in war seized by death like the dams of sands.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 16,
+      "verse": 25,
+      "sloka": "काल अभिपन्ना सीदन्ति यथा वालुक सेतवः ।तनर्षयतु यच्चोक्तम् गुरुत्वाद्धितमिच्चता ॥६-१६-२५॥।।",
+      "transliteration": "kāla abhipannā sīdanti yathā vāluka setavaḥ ।tanarṣayatu yaccoktam gurutvāddhitamiccatā ॥6-16-25॥।।",
+      "translations": {
+        "english": "\"Since you are an elderly one, I desired to tender good advice and spoke these words. I may be excused. You protect all these Rakshasas, this capital city and yourself after I depart. Let you be auspicious and be happy.\"",
+        "hindi": "अपनी और रादसों सहित इस लङ्कापुरी की रक्षा करना । तुम्हारा मङ्गल हो, मैं अव जाउँगा । अब मेरे न रहने से तुम सुखी हो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 16,
+      "verse": 26,
+      "sloka": "आत्मानम् सर्वथा रक्ष पुरीम् च इमाम् सराक्षसाम् ।स्वस्ति ते अस्तु गमिष्यामि सुखी भव मया विना ॥६-१६-२६॥।।",
+      "transliteration": "ātmānam sarvathā rakṣa purīm ca imām sarākṣasām ।svasti te astu gamiṣyāmi sukhī bhava mayā vinā ॥6-16-26॥।।",
+      "translations": {
+        "english": "\"Since you are an elderly one, I desired to tender good advice and spoke these words. I may be excused. You protect all these Rakshasas, this capital city and yourself after I depart. Let you be auspicious and be happy.\"",
+        "hindi": "TS SEN PU य 88४ पाठान्तरे--“ \"रावण ।” =F gio - तक पो _ क ०, ०. हित की बातें कह तुम्हें सत्परामशे देता हुआ, तुमको बुरे कार्मा के करने से रोकता",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 16,
+      "verse": 27,
+      "sloka": "निवार्यमाणस्य मया हित एषिणा ।न रोचते ते वचनम् निशा चर ।परीत काला हि गत आयुषो नरा ।हितम् न गृह्णन्ति सुहृद्भिर् ईरितम् ॥६-१६-२७॥",
+      "transliteration": "nivāryamāṇasya mayā hita eṣiṇā ।na rocate te vacanam niśā cara ।parīta kālā hi gata āyuṣo narā ।hitam na gṛhṇanti suhṛdbhir īritam ॥6-16-27॥",
+      "translations": {
+        "english": "\"O King My words (of advice), given in your interest to prevent you, are not palatable to you. Good advice tendered by friends at the time of death will not be received by those beings whose life is over.\" ।।इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेषोडशस्सर्गः।। This is the end of the sixteenth sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

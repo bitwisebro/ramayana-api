@@ -1,0 +1,359 @@
+{
+  "kanda": 3,
+  "kanda_name": "Aranya Kanda",
+  "kanda_name_sanskrit": "अरण्यकाण्डम्",
+  "sarga": 37,
+  "verses_count": 25,
+  "verses": [
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 37,
+      "verse": 1,
+      "sloka": "तत् श्रुत्वा राक्षसेन्द्रस्य वाक्यम् वाक्य विशारदः ।प्रत्युवाच महाप्राज्ञो मारीचो राक्षसेश्वरम् ॥३-३७-१॥",
+      "transliteration": "tat śrutvā rākṣasendrasya vākyam vākya viśāradaḥ ।pratyuvāca mahāprājño mārīco rākṣaseśvaram ॥3-37-1॥",
+      "translations": {
+        "english": "Having heard the words of Ravana, lord of the demons, wise Maricha who was also an eloquent speaker replied:",
+        "hindi": "महाप्राज्ञ रा्सराज के यह वचन सुन, बातचीत करने में चतुर मारीच ने रावण से कहा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 37,
+      "verse": 2,
+      "sloka": "सुलभाः पुरुषा राजन् सततम् प्रिय वादिनः ।अप्रियस्य च पथ्यस्य वक्ता श्रोता च दुर्लभः ॥३-३७-२॥",
+      "transliteration": "sulabhāḥ puruṣā rājan satatam priya vādinaḥ ।apriyasya ca pathyasya vaktā śrotā ca durlabhaḥ ॥3-37-2॥",
+      "translations": {
+        "english": "O king, it is always easy to find men who speak pleasing words, but it is difficult to get a speaker and a listener who use words unpleasant (to the ears) but beneficial (in life).",
+        "hindi": "हे राजन्‌ ! बहु संख्यक, मुँहसोहली बात कहने वाले लोग सहज भें मिल सकते हें; किन्तु सुनने में अप्रिय और यथार्थ में हितकारी वचना के कहने ओर सुनने बाले लोग संसार में कम मिलते हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 37,
+      "verse": 3,
+      "sloka": "न नूनम् बुध्यसे रामम् महावीर्यम् गुण उन्नतम् ।अयुक्त चारः चपलो महेन्द्र वरुण उपमम् ॥३-३७-३॥",
+      "transliteration": "na nūnam budhyase rāmam mahāvīryam guṇa unnatam ।ayukta cāraḥ capalo mahendra varuṇa upamam ॥3-37-3॥",
+      "translations": {
+        "english": "You are fickleminded. You have employed no spy ( who could have told you the truth about Rama's character). Rama is very brave and virtuous comparable to Indra and Varuna. Surely you are not able to know what Rama is.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 37,
+      "verse": 4,
+      "sloka": "अपि स्वस्ति भवेत् तात सर्वेषाम् भुवि रक्षसाम् ।अपि रामो न संक्रुद्धः कुर्यात् लोकम् अराक्षसम् ॥३-३७-४॥",
+      "transliteration": "api svasti bhavet tāta sarveṣām bhuvi rakṣasām ।api rāmo na saṁkruddhaḥ kuryāt lokam arākṣasam ॥3-37-4॥",
+      "translations": {
+        "english": "O dear may there be good to all the demons in the world. If Rama gets enraged, he will make this world demonless.",
+        "hindi": "क्या राम से वैर बाँध कर, राक्षसकुल का कल्याण हो सकता है ! कहीं क्रुद्ध हो कर, राम इस भूलोक को राक्षसहीन न कर डालें",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 37,
+      "verse": 5,
+      "sloka": "अपि ते जीवित अंताय न उत्पन्ना जनकात्मजा ।अपि सीता निमित्तम् च न भवेत् व्यसनम् महत् ॥३-३७-५॥",
+      "transliteration": "api te jīvita aṁtāya na utpannā janakātmajā ।api sītā nimittam ca na bhavet vyasanam mahat ॥3-37-5॥",
+      "translations": {
+        "english": "Hope the daughter of Janaka is not born to put an end to your life. Hope I will not face any disaster on account of Sita.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 37,
+      "verse": 6,
+      "sloka": "अपि त्वाम् ईश्वरम् प्राप्य काम वृत्तम् निरंकुशम् ।न विनश्येत् पुरी लंका त्वया सह स राक्षसा ॥३-३७-६॥",
+      "transliteration": "api tvām īśvaram prāpya kāma vṛttam niraṁkuśam ।na vinaśyet purī laṁkā tvayā saha sa rākṣasā ॥3-37-6॥",
+      "translations": {
+        "english": "I hope the city of Lanka along with the (entire) race of demons will not be destroyed, with a dictator like you who is a slave to sensual pleasure.",
+        "hindi": "तुझ स्वेच्छाचारी निरंकुश स्वामी को पा कर, कहीँ समस्त राच्सों सहित लङ्कापुरी नष्ट न हो जाय",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 37,
+      "verse": 7,
+      "sloka": "त्वत् विधः काम वृत्तो हि दुःशीलः पाप मंत्रितः ।आत्मानम् स्व जनम् राष्ट्रम् स राजा हन्ति दुर्मतिः ॥३-३७-७॥",
+      "transliteration": "tvat vidhaḥ kāma vṛtto hi duḥśīlaḥ pāpa maṁtritaḥ ।ātmānam sva janam rāṣṭram sa rājā hanti durmatiḥ ॥3-37-7॥",
+      "translations": {
+        "english": "A king who is a slave to passion, who is of bad conduct, of wicked thoughts, advised in evil ways destroys himself, his kith and kin and the entire kingdom.",
+        "hindi": "तर जसा यथच्छाचारी गल, चर्‌ विचारों वाला दुष्ट राजा, केवल अपने आप ही को नहीं, बल्कि आत्मीय जनों सहित अपने राष्ट्र को भी चौपट कर डालता हे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 37,
+      "verse": 8,
+      "sloka": "न च पित्रा परित्यक्तो न अमर्यादः कथंचन ।न लुब्धो न च दुःशीलो न च क्षत्रिय पांसनः ॥३-३७-८॥",
+      "transliteration": "na ca pitrā parityakto na amaryādaḥ kathaṁcana ।na lubdho na ca duḥśīlo na ca kṣatriya pāṁsanaḥ ॥3-37-8॥",
+      "translations": {
+        "english": "Rama, the delight of Kausalya, has not forsaken by his father. He has never crossed the limits of dharma. He is not miserly. He has no bad conduct. He is not a slur on the kshatriyas. He does not lack in righteousness. He is not cruel nor is he engaged in doing harm to others.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 37,
+      "verse": 9,
+      "sloka": "न च धर्म गुणैर् हीनैः कौसल्या आनंद वर्धनः ।न च तीक्ष्णो हि भूतानाम् सर्व भूत हिते रतः ॥३-३७-९॥",
+      "transliteration": "na ca dharma guṇair hīnaiḥ kausalyā ānaṁda vardhanaḥ ।na ca tīkṣṇo hi bhūtānām sarva bhūta hite rataḥ ॥3-37-9॥",
+      "translations": {
+        "english": "Rama, the delight of Kausalya, has not forsaken by his father. He has never crossed the limits of dharma. He is not miserly. He has no bad conduct. He is not a slur on the kshatriyas. He does not lack in righteousness. He is not cruel nor is he engaged in doing harm to others.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 37,
+      "verse": 10,
+      "sloka": "वंचितम् पितरम् दृष्ट्वा कैकेय्या सत्य वादिनम् ।करिष्यामि इति धर्मात्मा ततः प्रव्रजितो वनम् ॥३-३७-१०॥",
+      "transliteration": "vaṁcitam pitaram dṛṣṭvā kaikeyyā satya vādinam ।kariṣyāmi iti dharmātmā tataḥ pravrajito vanam ॥3-37-10॥",
+      "translations": {
+        "english": "O dear, seeing that his truthful father was going to be deceived by Kaikeyi, righteous Rama himself offered to fulfil the promise of his father and came away to the forest.",
+        "hindi": "कामबृत्तं--बथेच्छाव्यापारं । ( गो० ) २ एापमंत्रितं-पापं दुष्ट मंत्रितं विचारो यस्यसः । ( गो० ) राम अपने सत्यवादी पिता को, केकेयी द्वारा ठगा हुआ देख, पिता की प्रतिज्ञा को सत्य करने के लिए वन में चला आया है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 37,
+      "verse": 11,
+      "sloka": "कैकेय्याः प्रिय कामार्थम् पितुर् दशरथस्य च ।हित्वा राज्यम् च भोगान् च प्रविष्टो दण्डका वनम् ॥३-३७-११॥",
+      "transliteration": "kaikeyyāḥ priya kāmārtham pitur daśarathasya ca ।hitvā rājyam ca bhogān ca praviṣṭo daṇḍakā vanam ॥3-37-11॥",
+      "translations": {
+        "english": "To satisfy the desire of Kaikeyi and to fulfil his father's word he came to Dandaka forest, leaving the kingdom and all royal pleasures, behind.",
+        "hindi": "उसने कैकेयी ओर अपने पिता दशरथ को प्रसन्न करने के लिए राज्य और राजसी भोगों को छोड़, इस दएडकबन भें प्रवेश किआ है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 37,
+      "verse": 12,
+      "sloka": "न रामः कर्कशः तात न अविद्वान् न अजित इन्द्रियः ।अनृतम् न श्रुतम् चैव नैव त्वम् वक्तुम् अर्हसि ॥३-३७-१२॥",
+      "transliteration": "na rāmaḥ karkaśaḥ tāta na avidvān na ajita indriyaḥ ।anṛtam na śrutam caiva naiva tvam vaktum arhasi ॥3-37-12॥",
+      "translations": {
+        "english": "O my dear, Rama is not harsh nor ignorant. It is not that he has no control over the senses. It is not proper for you to say what is false. You are illinformed.",
+        "hindi": "हे रावण ! न तो राम कठोरहृदय है, न सूखे हे ओर न अजितेद्रिय ही है । न वह्‌ झूठ और कणे-कढु वचन बोलने वाला . है । उनके सम्बन्ध सें तुमको ऐसे बचन न कहना चाहिए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 37,
+      "verse": 13,
+      "sloka": "रामो विग्रहवान् धर्मः साधुः सत्य पराक्रमः ।राजा सर्वस्य लोकस्य देवानाम् इव वासवः ॥३-३७-१३॥",
+      "transliteration": "rāmo vigrahavān dharmaḥ sādhuḥ satya parākramaḥ ।rājā sarvasya lokasya devānām iva vāsavaḥ ॥3-37-13॥",
+      "translations": {
+        "english": "Rama is dharma incarnate. He is pious. His strength is truth. He is king of all the worlds like Indra to the gods.",
+        "hindi": "राम तो धर्म छ. साक्षात्‌ मूर्ति हे । वह बड़ा साधु स्वभाव और सत्यपराक्रमी है । जिस प्रकार इन्द्र देवताओं के नायक हैं, उसी प्रकार राम भी सब लोगों के नायक हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 37,
+      "verse": 14,
+      "sloka": "कथम् नु तस्य वैदेहीम् रक्षिताम् स्वेन तेजसा ।इच्छसे प्रसभम् हर्तुम् प्रभाम् इव विवस्वतः ॥३-३७-१४॥",
+      "transliteration": "katham nu tasya vaidehīm rakṣitām svena tejasā ।icchase prasabham hartum prabhām iva vivasvataḥ ॥3-37-14॥",
+      "translations": {
+        "english": "Sita is protected by the strength of her character. How do you desire to carry her away forcibly (from Rama) ? Can any one separate the radiance of the Sun from the Sun itself ?",
+        "hindi": "कषराः--कठिनइईदय: | CMOS 5 क्कश:--कठिनहुंदय: । ( गो० वैभवेन । ( गोऽ ) ) २ स्वेन तेजधा--पातित्रत्य राम की सीता को, जो अपने पतिन्रताधमं से आप दी सुरक्षित है, किस प्रकार सूर्य की प्रभा की तरह वरजोरी हरना प्‌ चाहते हो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 37,
+      "verse": 15,
+      "sloka": "शर अर्चिषम् अनाधृष्यम् चाप खड्ग इन्धनम् रणे ।राम अग्निम् सहसा दीप्तम् न प्रवेष्टुम् त्वम् अर्हसि ॥३-३७-१५॥",
+      "transliteration": "śara arciṣam anādhṛṣyam cāpa khaḍga indhanam raṇe ।rāma agnim sahasā dīptam na praveṣṭum tvam arhasi ॥3-37-15॥",
+      "translations": {
+        "english": "You should not enter into the unquenchable fire that is Rama, the fire that has the arrows (of Rama) as its flames and his sword and bow as fuel.",
+        "hindi": "बाण रूपी ज्वाला से युक्त, स्पर्श के अयोग्य, धनुष रूपी इंधन से युक्त जलती हुई राम रूपी, आग में कूदने का ठुस्साहस तुमको न करना चाहिए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 37,
+      "verse": 16,
+      "sloka": "धनुर् व्यादित दीप्त आस्यम् शर अर्चिषम् अमर्षणम् ।चाप बाण धरम् तीक्ष्णम् शत्रु सेना अपहारिणम् ॥३-३७-१६॥",
+      "transliteration": "dhanur vyādita dīpta āsyam śara arciṣam amarṣaṇam ।cāpa bāṇa dharam tīkṣṇam śatru senā apahāriṇam ॥3-37-16॥",
+      "translations": {
+        "english": "You should not give up happiness,your dear life and kingdom and come to Rama who is a variable god of death. His bow is like on open burning mouth, and his flaming arrows are like fire. He is all anger. He is wielder of bow and arrows. He can strike the enemy army (alone).",
+        "hindi": "धनुष का चढ़ाना ही जिसका खुला हुआ प्रदीप्त मुख है। बाण ही जिसका प्रकाश हे ओर न सहने योग्य धनुर्वाण धारण किए हुए, शत्रसैन्य विनाशकारी राम रूपी काल का सामना कर, राञ्यसुख, जीवन और अपने इष्ट से क्यों हाथ धोना चाहते हैं.",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 37,
+      "verse": 17,
+      "sloka": "राज्यम् सुखम् च संत्यज्य जीवितम् च इष्टम् आत्मनः ।न अति आसादयितुम् तात राम अंतकम् इह अर्हसि ॥३-३७-१७॥",
+      "transliteration": "rājyam sukham ca saṁtyajya jīvitam ca iṣṭam ātmanaḥ ।na ati āsādayitum tāta rāma aṁtakam iha arhasi ॥3-37-17॥",
+      "translations": {
+        "english": "You should not give up happiness,your dear life and kingdom and come to Rama who is a variable god of death. His bow is like on open burning mouth, and his flaming arrows are like fire. He is all anger. He is wielder of bow and arrows. He can strike the enemy army (alone).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 37,
+      "verse": 18,
+      "sloka": "अप्रमेयम् हि तत् तेजो यस्य सा जनकात्मजा ।न त्वम् समर्थः ताम् हर्तुम् राम चाप आश्रयाम् वने ॥३-३७-१८॥",
+      "transliteration": "aprameyam hi tat tejo yasya sā janakātmajā ।na tvam samarthaḥ tām hartum rāma cāpa āśrayām vane ॥3-37-18॥",
+      "translations": {
+        "english": "Immeasurable indeed is the power of Rama to whom Sita, daughter of Janaka belongs. You are not competent to kidnap her, for she is under the refuge of Rama's bow in the forest.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 37,
+      "verse": 19,
+      "sloka": "तस्य वै नर सिंहस्य सिंह उरस्कस्य भामिनी ।प्राणेभ्यो अपि प्रियतरा भार्या नित्यम् अनुव्रता ॥३-३७-१९॥",
+      "transliteration": "tasya vai nara siṁhasya siṁha uraskasya bhāminī ।prāṇebhyo api priyatarā bhāryā nityam anuvratā ॥3-37-19॥",
+      "translations": {
+        "english": "Beautiful Sita happens to be the wife of Rama who is like a lion among men. Rama has a broad chest like that of a lion. He loves Sita who is ever loyal to him, more than his life.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 37,
+      "verse": 20,
+      "sloka": "न सा धर्षयितुम् शक्या मैथिली ओजस्विनः प्रिया ।दीप्तस्य इव हुत आशस्य शिखा सीता सुमध्यमा ॥३-३७-२०॥",
+      "transliteration": "na sā dharṣayitum śakyā maithilī ojasvinaḥ priyā ।dīptasya iva huta āśasya śikhā sītā sumadhyamā ॥3-37-20॥",
+      "translations": {
+        "english": "Sita is the darling of mighty Rama. With her slender waist, she is like the leaping flames of blazing fire and it is not possible for you to touch her.",
+        "hindi": "वह सूक्ष्म कटि वाली सीता प्रबलित असिशिखा के समान है। राम को प्यारी मैथिली को हर लाने का सामर्थ्य किसी सें नहीं हे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 37,
+      "verse": 21,
+      "sloka": "किम् उद्यमम् व्यर्थम् इमम् कृत्वा ते राक्षसाधिप ।दृष्टः चेत् त्वम् रणे तेन तत् अंतम् तव जीवितम् ॥३-३७-२१॥",
+      "transliteration": "kim udyamam vyartham imam kṛtvā te rākṣasādhipa ।dṛṣṭaḥ cet tvam raṇe tena tat aṁtam tava jīvitam ॥3-37-21॥",
+      "translations": {
+        "english": "O chief of the demons, why do you make this futile attempt ? The moment you are seen by Rama in war will be the last of your life.",
+        "hindi": "हे राक्षसेश्‍वर ! तू यह बृथा उद्योग क्‍यों करतो है ? यदि कहीं तू राम के सामने पड़ गया, तो युद्ध सें फिर तू जीता नहीं बचेगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 37,
+      "verse": 22,
+      "sloka": "जीवितम् च सुखम् चैव राज्यम् चैव सुदुर्लभम् ।यत् इच्छसि चिरम् भोक्तुम् मा कृथा राम विप्रियम् ॥३-३७-२२॥",
+      "transliteration": "jīvitam ca sukham caiva rājyam caiva sudurlabham ।yat icchasi ciram bhoktum mā kṛthā rāma vipriyam ॥3-37-22॥",
+      "translations": {
+        "english": "If you want to enjoy your life, happiness and even the kingdom which is not easily attainable for long, do not incur the displeasure of Rama.",
+        "hindi": "राज्य, सुख ओर यह जीवन, संसार में महादुलेभ वस्तुएं हैं। यदि इन वस्तुओं को चिरकाल तक उपभोग करने की तेरी इच्छा है, तो राम से बिगाड़ सत कर",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 37,
+      "verse": 23,
+      "sloka": "स सर्वैः सचिवैः सार्धम् विभीषण पुरस्कृतैः ।मंत्रयित्वा तु धर्मिष्ठैः कृत्वा निश्चयम् आत्मनः ।दोषाणाम् च गुणानाम् च संप्रधार्य बल अबलम् ॥३-३७-२३॥",
+      "transliteration": "sa sarvaiḥ sacivaiḥ sārdham vibhīṣaṇa puraskṛtaiḥ ।maṁtrayitvā tu dharmiṣṭhaiḥ kṛtvā niścayam ātmanaḥ ।doṣāṇām ca guṇānām ca saṁpradhārya bala abalam ॥3-37-23॥",
+      "translations": {
+        "english": "After consulting all your ministers and the righteous persons led by Vibhisana, you may take a decision. Assess the real strength and weakness, merits and demerits of your own and of Rama. Decide what is good or bad for you and then take steps you deem proper.",
+        "hindi": "+ रक जान पड़ता है, तू ने सीता के हरने का निश्चय, अपने सब सचिवा तथा घर्मिष्ठ बिभोषणादि कुटुभ्मियों से परामर्श किए त्रिना ही कर डाला है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 37,
+      "verse": 24,
+      "sloka": "आत्मनः च बलम् ज्ञात्वा राघवस्य च तत्त्वतः ।हितम् हि तव निश्चित्य क्षमम् त्वम् कर्तुम् अर्हसि ॥३-३७-२४॥",
+      "transliteration": "ātmanaḥ ca balam jñātvā rāghavasya ca tattvataḥ ।hitam hi tava niścitya kṣamam tvam kartum arhasi ॥3-37-24॥",
+      "translations": {
+        "english": "After consulting all your ministers and the righteous persons led by Vibhisana, you may take a decision. Assess the real strength and weakness, merits and demerits of your own and of Rama. Decide what is good or bad for you and then take steps you deem proper.",
+        "hindi": "झे उचित है कि, दोषों और गुणों की विशेषता और न्यूनता था अपने ओर राम के बलाबल का तथा हिताहित का यथार्थ विचार कर, जो अच्छा जान पड़े, बही कर",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 37,
+      "verse": 25,
+      "sloka": "अहम् तु मन्ये तव न क्षमम् रणेसमागमम् कोसल राज सूनुना ।इदम् हि भूयः शृणु वाक्यम् उत्तमम्क्षमम् च युक्तम् च निशाचर अधिप ॥३-३७-२५॥",
+      "transliteration": "aham tu manye tava na kṣamam raṇesamāgamam kosala rāja sūnunā ।idam hi bhūyaḥ śṛṇu vākyam uttamamkṣamam ca yuktam ca niśācara adhipa ॥3-37-25॥",
+      "translations": {
+        "english": "O Ravana I think it is not good on your part to confront the prince of Kosala in a war. Listen to my words and consider what is good for you. इत्यार्षे श्री मद्रामायणे वाल्मीकीय आदिकाव्ये अरण्यकाण्डे सप्तत्रिंशस्सर्गः।। Thus ends the thirtyseventh sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+        "hindi": "इति सप्तत्रिंशः सगः || हे राक्षसेश्वर ! मेरी ज्ञान में तों कोसलराज के पुत्र के साथ तेरा युद्ध छोड़ना सबेथा अनुचित है। फिर भी में तेरी भलाई के लिए आर कई एक युक्तियुक्त बाते कहता हूँ, उनको तू सुन",
+        "telugu": ""
+      }
+    }
+  ]
+}

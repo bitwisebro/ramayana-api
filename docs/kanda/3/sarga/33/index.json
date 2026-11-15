@@ -1,0 +1,345 @@
+{
+  "kanda": 3,
+  "kanda_name": "Aranya Kanda",
+  "kanda_name_sanskrit": "अरण्यकाण्डम्",
+  "sarga": 33,
+  "verses_count": 24,
+  "verses": [
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 33,
+      "verse": 1,
+      "sloka": "ततः शूर्पणखा दीना रावणम् लोक रावणम् ।अमात्य मध्ये संक्रुद्धा परुषम् वाक्यम् अब्रवीत् ॥३-३३-१॥",
+      "transliteration": "tataḥ śūrpaṇakhā dīnā rāvaṇam loka rāvaṇam ।amātya madhye saṁkruddhā paruṣam vākyam abravīt ॥3-33-1॥",
+      "translations": {
+        "english": "When the distressed, anguished Surpanakha met Ravana who makes the world weep, he was seated in the midst of his ministers. She addressed him these harsh words:",
+        "hindi": "अरण्यकाणड का बत्तीसवाँ सर्ग पूरा हुआ | र! ४ १. ~ ख्निश ° ्रयात्मराः सग; HB ° 0 ONE ततः शूपणखा दीनार रावणं लोकरावणम्‌ । अमात्यमध्ये स क्रुद्धारे परुषं 'वाक्यमव्र वीत्‌",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 33,
+      "verse": 2,
+      "sloka": "प्रमत्तः काम भोगेषु स्वैर वृत्तो निरंकुशः ।समुत्पन्नम् भयम् घोरम् बोद्धव्यम् न अवबुध्यसे ॥३-३३-२॥",
+      "transliteration": "pramattaḥ kāma bhogeṣu svaira vṛtto niraṁkuśaḥ ।samutpannam bhayam ghoram boddhavyam na avabudhyase ॥3-33-2॥",
+      "translations": {
+        "english": "Intoxicated with the pleasures of passion, acting on your own, ungoaded and unguided, you do not understand the problems arising out of great fear, problems you ought to know.",
+        "hindi": "रावण ! तू अत्यन्त मतत्राला हो, सदा कामपरवश बना रहता हे । तूने नीति मर्यादा त्याग दी हे । अतएव जो घोर विपत्ति इस समय सामने हे और जिसे तुके जानना चाहिए, उससे तू बेखबर है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 33,
+      "verse": 3,
+      "sloka": "सक्तम् ग्राम्येषु भोगेषु काम वृत्तम् महीपतिम् ।लुब्धम् न बहु मन्यन्ते श्मशान अग्निम् इव प्रजाः ॥३-३३-३॥",
+      "transliteration": "saktam grāmyeṣu bhogeṣu kāma vṛttam mahīpatim ।lubdham na bahu manyante śmaśāna agnim iva prajāḥ ॥3-33-3॥",
+      "translations": {
+        "english": "Lustful and greedy, you are addicted to vulgar pleasures. People will not respect you like the fire on the crematorium.",
+        "hindi": "देख, जो राजा सदा स्त्री मेधुनादि भोगों में आसक्त, स्वेच्छा- चारी ओर लोभी होता है, उस राजा को, भ्रजाजन शमशान की आग की तरह बहुत नहीं मानते अर्थात्‌ आदर नहीं करते",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 33,
+      "verse": 4,
+      "sloka": "स्वयम् कार्याणि यः काले न अनुतिष्ठति पार्थिवः ।स तु वै सह राज्येन तैः च कार्यैः विनश्यति ॥३-३३-४॥",
+      "transliteration": "svayam kāryāṇi yaḥ kāle na anutiṣṭhati pārthivaḥ ।sa tu vai saha rājyena taiḥ ca kāryaiḥ vinaśyati ॥3-33-4॥",
+      "translations": {
+        "english": "A king who does not act at the right time will be ruined along with the kingdom and its works.",
+        "hindi": "जो राजा समय पर अपने कार्यो को स्वयं नहीं करता, वह केबल अपने द कार्यों ही को नष्ट नहीं करता, बल्कि अपने राज्य को भी चौपट कर डालता है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 33,
+      "verse": 5,
+      "sloka": "अयुक्त चारम् दुर्दर्शम् अस्वाधीनम् नराधिपम् ।वर्जयन्ति नरा दूरात् नदी पंकम् इव द्विपाः ॥३-३३-५॥",
+      "transliteration": "ayukta cāram durdarśam asvādhīnam narādhipam ।varjayanti narā dūrāt nadī paṁkam iva dvipāḥ ॥3-33-5॥",
+      "translations": {
+        "english": "Just as elephants keep away from a muddy river, people will keep distance from the king who does not employ spies, does not give audience to his people and is not independent.",
+        "hindi": "जो राजा अयोग्य कार्य करने वाला है, जो समय पर राज सभा में आ कर प्रजाजनों को दर्शन नहीं देता और जो अपनी रानियों के अधीन रहता अथवा दूसरे की कही बातों पर सहसा विश्वास कर लिआ करता है; उस राजा को प्रजाजन उसी प्रकार दूर से त्याग देते हें, जिस प्रकार हाथी नदी के दलदल को दूर से त्याग देते हें",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 33,
+      "verse": 6,
+      "sloka": "ये न रक्षन्ति विषयम् अस्वाधीना नराधिपः ।ते न वृद्ध्या प्रकाशन्ते गिरयः सागरे यथा ॥३-३३-६॥",
+      "transliteration": "ye na rakṣanti viṣayam asvādhīnā narādhipaḥ ।te na vṛddhyā prakāśante girayaḥ sāgare yathā ॥3-33-6॥",
+      "translations": {
+        "english": "Kings who are not under their own control and cannot protect the country, do not attract the minds of the people like mountains inside sea water.",
+        "hindi": "हे जीतने बालों में श्रेष्ठ ! जिन राजाओं के अधीन उनके चर ( जासूस ) धनागार और राजनीति नहीं है, अर्थात्‌ जो राजनीति स्वयं न जान कर, अपने मंत्रियों के ऊपर निर्भर हैं ) वे राजा साधारण जनों के समान हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 33,
+      "verse": 7,
+      "sloka": "आत्मवद्भिः विगृह्य त्वम् देव गंधर्व दानवैः ।अयुक्त चारः चपलः कथम् राजा भविष्यसि ॥३-३३-७॥",
+      "transliteration": "ātmavadbhiḥ vigṛhya tvam deva gaṁdharva dānavaiḥ ।ayukta cāraḥ capalaḥ katham rājā bhaviṣyasi ॥3-33-7॥",
+      "translations": {
+        "english": "Having created enmity with selfrespecting persons like gods, gandharvas and demons, with a fickle mind and without spies how long can you continue as king ?",
+        "hindi": "एक तो तू चञ्चल हे, दूसरे तू यत्न करने में असावधान है, तीसरे तू दूतों के सञ्चार से ह।न है ( अर्थात्‌ तेरे चर सर्वत्र नियुक्त नहीं दै ) फिर देवताओं, गन्धर्वा और दानवों से बैर कर, तू किस प्रकार राज्य कर सकता है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 33,
+      "verse": 8,
+      "sloka": "त्वम् तु बाल स्वभावत् च बुद्धि हीनः च राक्षस ।ज्ञातव्यम् तु न जानीषि कथम् राजा भविष्यसि ॥३-३३-८॥",
+      "transliteration": "tvam tu bāla svabhāvat ca buddhi hīnaḥ ca rākṣasa ।jñātavyam tu na jānīṣi katham rājā bhaviṣyasi ॥3-33-8॥",
+      "translations": {
+        "english": "O demon you are childish and foolish. You do not even know what ought to be known. How can you rule as a king?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 33,
+      "verse": 9,
+      "sloka": "येषाम् चारः च कोशः च नयः च जयताम् वर ।अस्वाधीना नरेन्द्राणाम् प्राकृतैः ते जनैः समाः ॥३-३३-९॥",
+      "transliteration": "yeṣām cāraḥ ca kośaḥ ca nayaḥ ca jayatām vara ।asvādhīnā narendrāṇām prākṛtaiḥ te janaiḥ samāḥ ॥3-33-9॥",
+      "translations": {
+        "english": "The best among the victorious kings, who are not masters of their espionage, judicial system and their exchequer are equal to the laity.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 33,
+      "verse": 10,
+      "sloka": "यस्मात् पश्यन्ति दूरस्थान् सर्वान् अर्थान् नराधिपाः ।चारेण तस्मात् उच्यन्ते राजानो दीर्घ चक्षुषः ॥३-३३-१०॥",
+      "transliteration": "yasmāt paśyanti dūrasthān sarvān arthān narādhipāḥ ।cāreṇa tasmāt ucyante rājāno dīrgha cakṣuṣaḥ ॥3-33-10॥",
+      "translations": {
+        "english": "Since kings can see things from a faroff place with the help of the spies they are called farsighted.",
+        "hindi": "राजा लोग दूर के समस्त वृत्तान्तों को चरो । जासूसों ) को नियुक्त कर, उनके द्वारा मानो ( स्वयं ) देखते रहते हें । इसीसे बे “दीषंचछु” “दूर दृष्टि वाले”, कहलाते हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 33,
+      "verse": 11,
+      "sloka": "अयुक्त चारम् मन्ये त्वाम् प्राकृतैः सचिवैः युतः ।स्व जनम् च जनस्थानम् निहतम् न अवबुध्यसे ॥३-३३-११॥",
+      "transliteration": "ayukta cāram manye tvām prākṛtaiḥ sacivaiḥ yutaḥ ।sva janam ca janasthānam nihatam na avabudhyase ॥3-33-11॥",
+      "translations": {
+        "english": "Since you have not engaged any spy you do not know when your own relatives were killed in Janasthana. I take you to be a fool surrounded by ordinary ministers.",
+        "hindi": "में जानती हूँ कि, तूने कहीं भी जासूस नियत नहीं किए और- तू साधारण वृद्धि वाले मंत्रियों में उठा बैठा करता है । इस्रीसे तुझे जनस्थानवासी अपने कुटम्बिर्यो के नष्ट होने का कुछ भी हाल नहीं मालूम",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 33,
+      "verse": 12,
+      "sloka": "चतुर्दश सहस्राणि रक्षसाम् भीम कर्मणाम् ।हतानि एकेन रामेण खरः च सह दूषणः ॥३-३३-१२॥",
+      "transliteration": "caturdaśa sahasrāṇi rakṣasām bhīma karmaṇām ।hatāni ekena rāmeṇa kharaḥ ca saha dūṣaṇaḥ ॥3-33-12॥",
+      "translations": {
+        "english": "One Rama alone killed all the fourteen thousand demons including Dusana and Khara, demons capable of fierce exploits.",
+        "hindi": "खर ओर दूषण के सहित चौदह हजार क्ररकर्मी ह सहित चौदह हज । (कठोर केम करने वाले) राक्षसों को अकेले एक श्रीरा डाला",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 33,
+      "verse": 13,
+      "sloka": "ऋषीणाम् अभयम् दत्तम् कृत क्षेमाः च दण्डकाः ।धर्षितम् च जनस्थानम् रामेण अक्लिष्ट कारिणा ॥३-३३-१३॥",
+      "transliteration": "ṛṣīṇām abhayam dattam kṛta kṣemāḥ ca daṇḍakāḥ ।dharṣitam ca janasthānam rāmeṇa akliṣṭa kāriṇā ॥3-33-13॥",
+      "translations": {
+        "english": "Rama, the effortless performer of formindable tasks, has assured safety to the sages. Peace and happiness was restored to Dandaka forest but Janasthana has been ravaged.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 33,
+      "verse": 14,
+      "sloka": "त्वम् तु लुब्धः प्रमत्तः च पराधीनः च रावण ।विषये स्वे समुत्पन्नम् यो भयम् न अवबुध्यसे ॥३-३३-१४॥",
+      "transliteration": "tvam tu lubdhaḥ pramattaḥ ca parādhīnaḥ ca rāvaṇa ।viṣaye sve samutpannam yo bhayam na avabudhyase ॥3-33-14॥",
+      "translations": {
+        "english": "O Ravana, you are not aware of what has happened to your own kingdom. You are avaricious, intoxicated, and under others' control. A great fear has been generated in your own kingdom.",
+        "hindi": "तू कामलोलुप, मदमत्त और पराधीन होने के कार [मला ण्‌, अप ऊपर आती हुई विपत्ति को नहीं समझता",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 33,
+      "verse": 15,
+      "sloka": "तीक्ष्णम् अल्प प्रदातारम् प्रमत्तम् गर्वितम् शठम् ।व्यसने सर्व भूतानि न अभिधावन्ति पार्थिवम् ॥३-३३-१५॥",
+      "transliteration": "tīkṣṇam alpa pradātāram pramattam garvitam śaṭham ।vyasane sarva bhūtāni na abhidhāvanti pārthivam ॥3-33-15॥",
+      "translations": {
+        "english": "All living beings stop seeking refuge under a king who is, not a generous giver, but intoxicated, harsh, arrogant and fraudulent. They do not run to him for protection in times of calamity.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 33,
+      "verse": 16,
+      "sloka": "अतिमानिनम् अग्राह्यम् आत्म संभावितम् नरम् ।क्रोधिनम् व्यसने हन्ति स्व जनो अपि नराधिपम् ॥३-३३-१६॥",
+      "transliteration": "atimāninam agrāhyam ātma saṁbhāvitam naram ।krodhinam vyasane hanti sva jano api narādhipam ॥3-33-16॥",
+      "translations": {
+        "english": "A king who is extremely arrogant, who is not acceptable to good people, who is selfconceited and cholerictempered will be murdered even by his own people at the time of adversity.",
+        "hindi": "श अ्ंमह्य सद्भरितिशेषः। (गोऽ) २ ग्रास ( गो० ) २ आत्मना--स्वेने = > १०५ क्क व ५ प्राप्तः । (गो०) ३ क्रोधनं--श्रस्थाने क्रोधवन्तं । (गो०) ४ हा व्यसनेक्राले!। (गो० ) क वा० रा? आ०--१७ जो राजा अत्यन्त अभिमानी होता है, जिसे सज्जन लोग पसंद नहीं करते, जो स्वयं अपने को बडा प्रतिष्ठित सममता हे, जो अनुचित क्रोध करता है, ऐसे राजा के ऊपर दुःख पड़ने पर, उसके निकट सम्बन्धी भी उसका वध करते हैं.",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 33,
+      "verse": 17,
+      "sloka": "न अनुतिष्ठति कार्याणि भयेषु न बिभेति च ।क्षिप्रम् राज्यात् च्युतो दीनः तृणैः तुल्यो भवेत् इह ॥३-३३-१७॥",
+      "transliteration": "na anutiṣṭhati kāryāṇi bhayeṣu na bibheti ca ।kṣipram rājyāt cyuto dīnaḥ tṛṇaiḥ tulyo bhavet iha ॥3-33-17॥",
+      "translations": {
+        "english": "A king who does not do what ought to be done, does not fear what ought to be feared, will surely be dislodged from the kingdom and live a wretched life like a blade of grass.",
+        "hindi": "जो राजा अपने कर्तव्य का यथावत्‌ पालन नहीं करता, भय उपस्थित होने पर भो भयभीत नहीं होता, ऐसा राजा शीघ्र राज्यच्युत होने के कारण दीन हो, तिनके के समान अथात्‌ तुच्छ हो जाता है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 33,
+      "verse": 18,
+      "sloka": "शुष्क काष्ठैः भवेत् कार्यम् लोष्टैः अपि च पांसुभिः ।न तु स्थानात् परिभ्रष्टैः कार्यम् स्यात् वसुधाधिपैः ॥३-३३-१८॥",
+      "transliteration": "śuṣka kāṣṭhaiḥ bhavet kāryam loṣṭaiḥ api ca pāṁsubhiḥ ।na tu sthānāt paribhraṣṭaiḥ kāryam syāt vasudhādhipaiḥ ॥3-33-18॥",
+      "translations": {
+        "english": "Even dried up logs, or clods of earth, or a handful of dust may have some value but not a king who is dethroned.",
+        "hindi": "सूखी लकड़ी, ढेला और धूल से भी अनेक कार्य हो सकते हैं, किन्तु राज्यम्रष्ट राजा से कोई काम नहीं हो सकता",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 33,
+      "verse": 19,
+      "sloka": "उपभुक्तम् यथा वासः स्रजो वा मृदिता यथा ।एवम् राज्यात् परिभ्रष्टः समर्थो अपि निरर्थकः ॥३-३३-१९॥",
+      "transliteration": "upabhuktam yathā vāsaḥ srajo vā mṛditā yathā ।evam rājyāt paribhraṣṭaḥ samartho api nirarthakaḥ ॥3-33-19॥",
+      "translations": {
+        "english": "Like a piece of cloth that is worn and discarded, like garlands put on and crushed, a king dislodged from the kingdom is worthless even if he is capable.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 33,
+      "verse": 20,
+      "sloka": "अप्रमत्तः च यो राजा सर्वज्ञो विजितेन्द्रियः ।कृतज्ञो धर्म शीलः च स राजा तिष्ठते चिरम् ॥३-३३-२०॥",
+      "transliteration": "apramattaḥ ca yo rājā sarvajño vijitendriyaḥ ।kṛtajño dharma śīlaḥ ca sa rājā tiṣṭhate ciram ॥3-33-20॥",
+      "translations": {
+        "english": "A king who is alert, omniscient, has control over his senses, has a sense of gratitude and one of righteous conduct continues to rule for a long time.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 33,
+      "verse": 21,
+      "sloka": "नयनाभ्याम् प्रसुप्तो वा जागर्ति नय चक्षुषा ।व्यक्त क्रोध प्रसादः च स राजा पूज्यते जनैः ॥३-३३-२१॥",
+      "transliteration": "nayanābhyām prasupto vā jāgarti naya cakṣuṣā ।vyakta krodha prasādaḥ ca sa rājā pūjyate janaiḥ ॥3-33-21॥",
+      "translations": {
+        "english": "The king who keeps both his eyes shut but keeps the eye of justice open, one who is free from anger and remains ever alert, is worshipped by the people.",
+        "hindi": "F जो राजा आँखों को बंद किए सोते रहने पर भी नीति-शास्त्र रूपी आँखों से जागता रहता है, जिसका क्रोध ओर प्रसन्नता यथा सभय प्रकट होती है अथवा जिसका क्रोध और प्रसन्नता व्यथे नहा जाती, उस राजा का लोग सम्मान करते हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 33,
+      "verse": 22,
+      "sloka": "त्वम् तु रावण दुर्बुद्धिः गुणैः एतैः विवर्जितः ।यस्य ते अविदितः चारैः रक्षसाम् सुमहान् वधः ॥३-३३-२२॥",
+      "transliteration": "tvam tu rāvaṇa durbuddhiḥ guṇaiḥ etaiḥ vivarjitaḥ ।yasya te aviditaḥ cāraiḥ rakṣasām sumahān vadhaḥ ॥3-33-22॥",
+      "translations": {
+        "english": "O Ravana you are evilminded. You are devoid of all these good qualities. Your spies could not know that there had been a great massacre of your fellowdemons.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 33,
+      "verse": 23,
+      "sloka": "पर अवमंता विषयेषु संगवान्न देश काल प्रविभाग तत्त्व वित् ।अयुक्त बुद्धिः गुण दोष निश्चयेविपन्न राज्यो न चिरात् विपत्स्यते ॥३-३३-२३॥",
+      "transliteration": "para avamaṁtā viṣayeṣu saṁgavānna deśa kāla pravibhāga tattva vit ।ayukta buddhiḥ guṇa doṣa niścayevipanna rājyo na cirāt vipatsyate ॥3-33-23॥",
+      "translations": {
+        "english": "A king who accuses others, who is addicted to sensual pleasures, who lacks a sense of judgement of place and time, a sense of discrimination between virtue and vice and the right wisdom will destroy himself and the kingdom in no time.",
+        "hindi": "तू शत्रुओं की. उपेक्षा करता है और भोग विलास में मस्त रहता हे । इसीसे तुमे देश काल के विभागों का तत्व नहीं अलग ड इससे तेरी दि में गुण-दोष-विवेचन का सामर्थ्य नहीं । अतएव तुझे शीघ्र ही विपदूभ्रस्त ज्य पड़ेगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 33,
+      "verse": 24,
+      "sloka": "इति स्व दोषान् परिकीर्तिताम् तयासमीक्ष्य बुद्ध्या क्षणदा चरेश्वरः ।धनेन दर्पेण बलेन च अन्वितोविचिन्तयामास चिरम् स रावणः ॥३-३३-२४॥",
+      "transliteration": "iti sva doṣān parikīrtitām tayāsamīkṣya buddhyā kṣaṇadā careśvaraḥ ।dhanena darpeṇa balena ca anvitovicintayāmāsa ciram sa rāvaṇaḥ ॥3-33-24॥",
+      "translations": {
+        "english": "Ravana, king of demons, wealthy, arrogant and mighty, listened to Surpanakha and pondered over the mistakes she mentioned. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अरण्यकाण्डे त्रयस्त्रिंशस्सर्गः।। Thus ends the thirtythird sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+        "hindi": "इति त्रयञ्िशः सगः || घन, बल, और अभिमान से युक्त रात्तसेन्द्र रावण, शूपनखा फे बतलाए हुए दोषों को विचार कर, बहुत देर तक मन ही मन सोचता रहा",
+        "telugu": ""
+      }
+    }
+  ]
+}

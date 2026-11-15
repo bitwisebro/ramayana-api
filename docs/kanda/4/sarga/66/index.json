@@ -1,0 +1,541 @@
+{
+  "kanda": 4,
+  "kanda_name": "Kishkindha Kanda",
+  "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+  "sarga": 66,
+  "verses_count": 38,
+  "verses": [
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 66,
+      "verse": 1,
+      "sloka": "अनेक शत साहस्रीम् विषण्णाम् हरि वाहिनीम् ।जांबवान् समुदीक्ष्य एवम् हनुमंतम् अथ अब्रवीत् ॥४-६६-१॥",
+      "transliteration": "aneka śata sāhasrīm viṣaṇṇām hari vāhinīm ।jāṁbavān samudīkṣya evam hanumaṁtam atha abravīt ॥4-66-1॥",
+      "translations": {
+        "english": "Then Jambavan observed the worries of several hundred thousands of the monkey army and said to Hanuman:",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 66,
+      "verse": 2,
+      "sloka": "वीर वानर लोकस्य सर्व शास्त्र विदाम् वर ।तूष्णीम् एकांतम् आश्रित्य हनुमन् किम् न जल्पसि ॥४-६६-२॥",
+      "transliteration": "vīra vānara lokasya sarva śāstra vidām vara ।tūṣṇīm ekāṁtam āśritya hanuman kim na jalpasi ॥4-66-2॥",
+      "translations": {
+        "english": "'O Hanuman you are the choicest one among many scholars wellversed in all sastras. Why do you sit alone? Why do you not speak?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 66,
+      "verse": 3,
+      "sloka": "हनुमन् हरि राजस्य सुग्रीवस्य समो हि असि ।राम लक्ष्मणयोः च अपि तेजसा च बलेन च ॥४-६६-३॥",
+      "transliteration": "hanuman hari rājasya sugrīvasya samo hi asi ।rāma lakṣmaṇayoḥ ca api tejasā ca balena ca ॥4-66-3॥",
+      "translations": {
+        "english": "'Hanuman you are equal to the king of monkeys and also Rama and Lakshmana in brilliance and strength.",
+        "hindi": "॥ उस समय हनुमान जी क्रा डो गया था, जैसा डि, तीन पग जोकाहोगयाया। हृ अत्यन्त प्रसन्न हुए ओर छोटा शरोर बढ़ कर वैसा ही बड़ा । प्रथिवी नापने के समय, वामन उुमान जी का ऐसा रूप देख. वानर साथ हो विस्मित भी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 66,
+      "verse": 4,
+      "sloka": "अरिष्टनेमिनः पुत्रो वैनतेयो महाबलः ।गरुत्मान् इव विख्यात उत्तमः सर्व पक्षिणाम् ॥४-६६-४॥",
+      "transliteration": "ariṣṭaneminaḥ putro vainateyo mahābalaḥ ।garutmān iva vikhyāta uttamaḥ sarva pakṣiṇām ॥4-66-4॥",
+      "translations": {
+        "english": "'You are the son of Arishtanemi (sage Kasyapa) and Vinata, and your gurulike (elder brother) is Garuda, the greatest among birds. He is powerful and and famous.",
+        "hindi": "वानरों द्वारा स्तुति किए जाने पर, हनुमान जी ने अपना शरीर बढ़ाया । वे पूछ पसार कर या फैला कर, हर्षित हुए तथा अपने बल को स्मरण करते हुए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 66,
+      "verse": 5,
+      "sloka": "बहुशो हि मया दृष्टः सागरे स महाबलः ।भुजगान् उद्धरन् पक्षी महावेगो महायशाः ॥४-६६-५॥",
+      "transliteration": "bahuśo hi mayā dṛṣṭaḥ sāgare sa mahābalaḥ ।bhujagān uddharan pakṣī mahāvego mahāyaśāḥ ॥4-66-5॥",
+      "translations": {
+        "english": "'Garuda is very powerful, swift, and famous. I have seen him snatching serpents from the ocean many times.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 66,
+      "verse": 6,
+      "sloka": "पक्षयोः यत् बलम् तस्य तावत् भुज बलम् तव ।विक्रमः च अपि वेगः च न ते तेन अपहीयते ॥४-६६-६॥",
+      "transliteration": "pakṣayoḥ yat balam tasya tāvat bhuja balam tava ।vikramaḥ ca api vegaḥ ca na te tena apahīyate ॥4-66-6॥",
+      "translations": {
+        "english": "'The strength of your shoulders is equal to that of his (Garuda's) wings. Your speed and valour are no less.",
+        "hindi": "जिस प्रकार महासिंह किसी लंबी चौड़ी गुफा में जँभाई लेता है, उसी प्रकार वायु के ओरस पुत्र हनुमान, जभाई लेने और शरीर को बढ़ाने लगे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 66,
+      "verse": 7,
+      "sloka": "बलम् बुद्धिः च तेजः च सत्त्वम् च हरि सत्तम ।विशिष्टम् सर्व भूतेषु किम् आत्मानम् न सज्जसे ॥४-६६-७॥",
+      "transliteration": "balam buddhiḥ ca tejaḥ ca sattvam ca hari sattama ।viśiṣṭam sarva bhūteṣu kim ātmānam na sajjase ॥4-66-7॥",
+      "translations": {
+        "english": "'O leader of the monkeys you are superior in strength, wisdom, brilliance and valour to all beings. Why do you not realise your own strength?",
+        "hindi": "जँभाते समय बद्धिमान हनुमान जी का मुख दहकते हुए भाड़ अथवा सूर्य की तरह अथवा धूमरहित श्राग की तरह शोभायमान हुआ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 66,
+      "verse": 8,
+      "sloka": "अप्सर अप्सरसाम् श्रेष्ठा विख्याता पुंजिकस्थला ।अंजना इति परिख्याता पत्नी केसरिणो हरेः ॥४-६६-८॥",
+      "transliteration": "apsara apsarasām śreṣṭhā vikhyātā puṁjikasthalā ।aṁjanā iti parikhyātā patnī kesariṇo hareḥ ॥4-66-8॥",
+      "translations": {
+        "english": "An eminent and famous apsara, foremost among them, named Punjikasthala and well known as Anjana, was the wife of the monkey Kesari.",
+        "hindi": "TO TT 5 १ समाविध्य--प्रस्तायं | ( शिण ) २ उपेथिवान्‌-सस्मार | (शि) ३ अम्बरीषोपमम--सू्य तद शम्‌ । ( शि० ), त्राष््र । ( गो० ) तदनन्तर उन वानरों के बीच हनुमान जी आनन्द से रोमाञ्चित हो, उठ खड़े हुए और बड़े बूढ़े वानरों को प्रणाम कर, यह बोले",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 66,
+      "verse": 9,
+      "sloka": "विख्याता त्रिषु लोकेषु रूपेणा अप्रतिमा भुवि ।अभिशापात् अभूत् तात कपित्वे काम रूपिणी ॥४-६६-९॥",
+      "transliteration": "vikhyātā triṣu lokeṣu rūpeṇā apratimā bhuvi ।abhiśāpāt abhūt tāta kapitve kāma rūpiṇī ॥4-66-9॥",
+      "translations": {
+        "english": "'O dear she was famous in the three worlds, peerless in beauty and could change form at her free will. She was born of a monkey on this land by dint of a curse.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 66,
+      "verse": 10,
+      "sloka": "दुहिता वानर इन्द्रस्य कुंजरस्य महात्मनः ।मानुषम् विग्रहम् कृत्वा रूप यौवन शालिनी ॥४-६६-१०॥",
+      "transliteration": "duhitā vānara indrasya kuṁjarasya mahātmanaḥ ।mānuṣam vigraham kṛtvā rūpa yauvana śālinī ॥4-66-10॥",
+      "translations": {
+        "english": "'She was the daughter of a great king of monkeys called Kunjara. That young and beautiful lady had assumed a lustrous human form decked with wonderful garlands, ornaments and silk clothes and was roving on top of the mountain which appeared like a proud raincloud.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 66,
+      "verse": 11,
+      "sloka": "विचित्र माल्य आभरणा कदाचित् क्षौम धारिणी ।अचरत् पर्वतस्य अग्रे प्रावृड् अंबुद सन्निभे ॥४-६६-११॥",
+      "transliteration": "vicitra mālya ābharaṇā kadācit kṣauma dhāriṇī ।acarat parvatasya agre prāvṛḍ aṁbuda sannibhe ॥4-66-11॥",
+      "translations": {
+        "english": "'She was the daughter of a great king of monkeys called Kunjara. That young and beautiful lady had assumed a lustrous human form decked with wonderful garlands, ornaments and silk clothes and was roving on top of the mountain which appeared like a proud raincloud.",
+        "hindi": "इस लबे चोड़े आकाश को स्पर्श करने वाले मेरु पर्वत तक हजार धार आ जा सकता हूँ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 66,
+      "verse": 12,
+      "sloka": "तस्या वस्त्रम् विशालाक्ष्याः पीतम् रक्त दशम् शुभम् ।स्थितायाः पर्वतस्य अग्रे मारुतो अपहरत् शनैः ॥४-६६-१२॥",
+      "transliteration": "tasyā vastram viśālākṣyāḥ pītam rakta daśam śubham ।sthitāyāḥ parvatasya agre māruto apaharat śanaiḥ ॥4-66-12॥",
+      "translations": {
+        "english": "'While the largeeyed lady was stationed on the mountain top, the Windgod gently let her auspicious yellow garment with red border fly away.",
+        "hindi": "में अपने भुजबल से समुद्र को हिला करः पह [ नदी ल्य च नो करो डु 0 पदा आर तालाबों सहित इस लोक को डुबा ; पहाड, र सकता हूँ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 66,
+      "verse": 13,
+      "sloka": "स ददर्श ततः तस्या वृत्तौ ऊरू सुसंहतौ ।स्तनौ च पीनौ सहितौ सुजातम् चारु च आननम् ॥४-६६-१३॥",
+      "transliteration": "sa dadarśa tataḥ tasyā vṛttau ūrū susaṁhatau ।stanau ca pīnau sahitau sujātam cāru ca ānanam ॥4-66-13॥",
+      "translations": {
+        "english": "'Then he (Windgod) saw her curved, wellset thighs, her beautiful plump breasts and her lovely pleasing face.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 66,
+      "verse": 14,
+      "sloka": "ताम् बलात् आयत श्रोणीम् तनु मध्याम् यशस्विनीम् ।दृष्ट्वा एव शुभ सर्वान्गीम् पवनः काम मोहितः ॥४-६६-१४॥",
+      "transliteration": "tām balāt āyata śroṇīm tanu madhyām yaśasvinīm ।dṛṣṭvā eva śubha sarvāngīm pavanaḥ kāma mohitaḥ ॥4-66-14॥",
+      "translations": {
+        "english": "'On seeing the broad hips, slender waist and beautiful limbs of that famous lady the Windgod was infatuated.",
+        "hindi": "पक्षियों से सेवत आकाश में सपंभोगी गरुड़ जितनी देर में जितनी दूर जा सकते हैं, में उतनी ही देर में उबनी दूर, हजार बार आ जा सकता हूँ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 66,
+      "verse": 15,
+      "sloka": "स ताम् भुजाभ्याम् दीर्घाभ्याम् पर्यष्वजत मारुतः ।मन्मथ आविष्ट सर्वान्गो गत आत्मा ताम् अनिन्दिताम् ॥४-६६-१५॥",
+      "transliteration": "sa tām bhujābhyām dīrghābhyām paryaṣvajata mārutaḥ ।manmatha āviṣṭa sarvāngo gata ātmā tām aninditām ॥4-66-15॥",
+      "translations": {
+        "english": "'The Windgod lost his control over himself. His whole being was overpowered by love for her beautiful, flawless body. He embraced her with his long arms.",
+        "hindi": "मैं प्रकाशमान और उद्याचज्ञ से निकले सूर्थ के पास, उनके अस्तचलगामी होने के पूर्वे पहुँच सकता हूँ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 66,
+      "verse": 16,
+      "sloka": "सा तु तत्र एव संभ्रांता सुवृत्ता वाक्यम् अब्रवीत् ।एक पत्नी व्रतम् इदम् को नाशयितुम् इच्छति ॥४-६६-१६॥",
+      "transliteration": "sā tu tatra eva saṁbhrāṁtā suvṛttā vākyam abravīt ।eka patnī vratam idam ko nāśayitum icchati ॥4-66-16॥",
+      "translations": {
+        "english": "'She was bewildered by this and being chaste and strict observer of chastiny she said, 'Who is it that has destroyed my monoandry?",
+        "hindi": "हे वानरो ! फिर प्रथिवी बक आकर उसको स्पशे किए बिना ही अत्यन्त शीघ्र वेग से सूयं के पास जा सकता हूँ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 66,
+      "verse": 17,
+      "sloka": "अंजनाया वचः श्रुत्वा मारुतः प्रत्यभाषत ।न त्वाम् हिंसामि सुश्रोणि मा भूत् ते मनसोइ भयम् ॥४-६६-१७॥",
+      "transliteration": "aṁjanāyā vacaḥ śrutvā mārutaḥ pratyabhāṣata ।na tvām hiṁsāmi suśroṇi mā bhūt te manasoi bhayam ॥4-66-17॥",
+      "translations": {
+        "english": "'On hearing Anjana's words, the Windgod replied, ' O auspicious lady, I do you no harm, O lady of beautiful hips. I reached (enjoyed) you in mind, not body. You need not fear.'",
+        "hindi": "जितने आकाशाचारी ग्रह नचत्रादि हूँ, उन सब को में नाँघ सकता हूँ । में समुद्र को सुखा दूंगा और प्रथिवी को बिदीणे कर डालूँगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 66,
+      "verse": 18,
+      "sloka": "मनसा अस्मि गतो यत् त्वाम् परिष्वज्य यशस्विनि ।वीर्यवान् बुद्धि संपन्नः पुत्रः तव भविष्यति ॥४-६६-१८॥",
+      "transliteration": "manasā asmi gato yat tvām pariṣvajya yaśasvini ।vīryavān buddhi saṁpannaḥ putraḥ tava bhaviṣyati ॥4-66-18॥",
+      "translations": {
+        "english": "'O renowned lady I have embraced you and united with you mentally (enjoyed you without physical contact).You will bring forth a son endowed with great wisdom and courage.",
+        "hindi": "किष्किन्ध हे वानरो ! में छलाँग मार कर पर्वेतो को चणे कर डालूँगा । में समुद्र नाँबने के समय अपनी जाँधों क वेग से समुद्र को भी खींच ले जा सकता हूँ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 66,
+      "verse": 19,
+      "sloka": "महासात्त्वो महातेज महाबल पराक्रमः ।लंघने प्लवने चैव भविष्यति मया समः ॥४-६६-१९॥",
+      "transliteration": "mahāsāttvo mahāteja mahābala parākramaḥ ।laṁghane plavane caiva bhaviṣyati mayā samaḥ ॥4-66-19॥",
+      "translations": {
+        "english": "'He will be very powerful, illustrious and will be of great valour and strength. He will be my equal in leaping and flying'.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 66,
+      "verse": 20,
+      "sloka": "एवम् उक्ता ततः तुष्टा जननी ते महाकपेः ।गुहायाम् त्वाम् महाबाहो प्रजज्ञे प्लवगर्षभ ॥४-६६-२०॥",
+      "transliteration": "evam uktā tataḥ tuṣṭā jananī te mahākapeḥ ।guhāyām tvām mahābāho prajajñe plavagarṣabha ॥4-66-20॥",
+      "translations": {
+        "english": "'O great monkey O strongshouldered one having been assured that way, your mother was pleased and delivered you, a bull among monkeys, in a cave.",
+        "hindi": "और उस समय सेरे गमस का मागे उन पुष्यों कें कारण बैसा ही जान पड़ेगा, जैसे ताराग्रों से पूण आकाश में छायापथ । हे बानरो ! आकाश सें ऊपर जाते समय तथा समुद्र के उस पार पहुँचने के समय, सहामेघ के समान पेरे भयङ्कर रूप को सत्र प्राणी देखेंगे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 66,
+      "verse": 21,
+      "sloka": "अभ्युत्थितम् ततः सूर्यम् बालो दृष्ट्वा महा वने ।फलंचेतिजिघृक्षुस्त्वमुत्प्लुत्याभ्युत्पतोदिवम् - यद्वा -फलम् च इति जिघृक्षुः त्वम् उत्प्लुत्य अभिउत्पतो दिवम् ॥४-६६-२१॥",
+      "transliteration": "abhyutthitam tataḥ sūryam bālo dṛṣṭvā mahā vane ।phalaṁcetijighṛkṣustvamutplutyābhyutpatodivam - yadvā -phalam ca iti jighṛkṣuḥ tvam utplutya abhiutpato divam ॥4-66-21॥",
+      "translations": {
+        "english": "'On seeing the rising Sun in the deep forest, mistaking him to be a fruit, you wanted to seize it, when you were young.You suddenly flew into the sky and went flying towards the Sun.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 66,
+      "verse": 22,
+      "sloka": "शतानि त्रीणि गत्वा अथ योजनानाम् महाकपे ।तेजसा तस्य निर्धूतो न विषादम् ततो गतः ॥४-६६-२२॥",
+      "transliteration": "śatāni trīṇi gatvā atha yojanānām mahākape ।tejasā tasya nirdhūto na viṣādam tato gataḥ ॥4-66-22॥",
+      "translations": {
+        "english": "'O great monkey you went three hundred yojanas and were pushed back by the Sun's radiance. Yet it did not leave you depressed.",
+        "hindi": "मैं आझप्रा को डप कर अर्थात्‌ आकाश को ग्रास करता हुआ चलूँगा । में जाते समय बादलों को छिन्न भिन टर न कर दूँगा और पवतों को हिला दूँगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 66,
+      "verse": 23,
+      "sloka": "त्वाम् अपि उपगतम् तूर्णम् अंतरीक्षम् महाकपे ।क्षिप्तम् इन्द्रेण ते वज्रम् कोप आविष्टेन तेजसा ॥४-६६-२३॥",
+      "transliteration": "tvām api upagatam tūrṇam aṁtarīkṣam mahākape ।kṣiptam indreṇa te vajram kopa āviṣṭena tejasā ॥4-66-23॥",
+      "translations": {
+        "english": "'O great monkey while falling fast in space, wise Indra hurled his thunderbolt quickly at you, in anger.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 66,
+      "verse": 24,
+      "sloka": "तदा शैलाग्र शिखरे वामो हनुर् अभज्यत ।ततो हि नाम धेयम् ते हनुमान् इति कीर्तितम् ॥४-६६-२४॥",
+      "transliteration": "tadā śailāgra śikhare vāmo hanur abhajyata ।tato hi nāma dheyam te hanumān iti kīrtitam ॥4-66-24॥",
+      "translations": {
+        "english": "'You fell on the edge of the mountain peak and your left chin got broken. Since then you are widely known as Hanuman (one who has a wounded chin).",
+        "hindi": "जब में सावधान हो छलाँग मारूँगा, तब मैं समुद्र को शून्य कर डालूँगा । इस प्रकार जाने की शक्त तीन ही में हे-पर्थात्‌ गरुड़ में मुझमें ओर बायु में २३ ऋते सुपणराजानं मारुतं वा महाजवम्‌ । न तद्भूतं प्रपश्यामि यन्मां प्लुतमनुत्रजेत्‌",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 66,
+      "verse": 25,
+      "sloka": "ततः त्वाम् निहतम् दृष्ट्वा वायुः गन्ध वहः स्वयम् ।त्रैलोक्यम् भृश संक्रुद्धो न ववौ वै प्रभंजनः ॥४-६६-२५॥",
+      "transliteration": "tataḥ tvām nihatam dṛṣṭvā vāyuḥ gandha vahaḥ svayam ।trailokyam bhṛśa saṁkruddho na vavau vai prabhaṁjanaḥ ॥4-66-25॥",
+      "translations": {
+        "english": "The Windgod who is a carrier of fragrance and breaker of trees became very angry on seeing (the injury on) you and stopped blowing in the three worlds.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 66,
+      "verse": 26,
+      "sloka": "संभ्रांताः च सुराः सर्वे त्रैलोक्ये क्षुभिते सति ।प्रसादयन्ति संक्रुद्धम् मारुतम् भुवनेश्वराः ॥४-६६-२६॥",
+      "transliteration": "saṁbhrāṁtāḥ ca surāḥ sarve trailokye kṣubhite sati ।prasādayanti saṁkruddham mārutam bhuvaneśvarāḥ ॥4-66-26॥",
+      "translations": {
+        "english": "When the three worlds were thrown into turmoil, all the gods and lords of the world, alarmed, propitiated the angered Wind-god.",
+        "hindi": "समुद्र को लाँबते अमय मेरा रूप बैसा हीं हो जायगा जैसा कि, त्रिविक्रम सगवान्‌ का था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 66,
+      "verse": 27,
+      "sloka": "प्रसादिते च पवने ब्रह्मा तुभ्यम् वरम् ददौ ।अशस्त्र वध्यताम् तात समरे सत्य विक्रम ॥४-६६-२७॥",
+      "transliteration": "prasādite ca pavane brahmā tubhyam varam dadau ।aśastra vadhyatām tāta samare satya vikrama ॥4-66-27॥",
+      "translations": {
+        "english": "'O dear when the Windgod was pleased, Brahma gave a boon to you, to appease his anger. The boon made you truly valiant so that you cannot be struck by any weapon and killed.",
+        "hindi": "हे वानरो ! तुस हर्षित हो । में सीता को अवश्य देखूँगा । क्योंकि मेरी बुद्धि और मन को पूर्ण विश्वास है । सेरी चेष्टा मी ऐसी ही होती है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 66,
+      "verse": 28,
+      "sloka": "वज्रस्य च निपातेन विरुजम् त्वाम् समीक्ष्य च ।सहस्र नेत्रः प्रीत आत्मा ददौ ते वरम् उत्तमम् ॥४-६६-२८॥",
+      "transliteration": "vajrasya ca nipātena virujam tvām samīkṣya ca ।sahasra netraḥ prīta ātmā dadau te varam uttamam ॥4-66-28॥",
+      "translations": {
+        "english": "'O lord observing that you are not hurt even when struck by the thunderbolt, Indra offered, one of the best boons to you, to choose to die only when you wish.",
+        "hindi": "मैं वेग में वायु के और शोघ्रता में गरुड के समान हूँ । में तो सभकतां हूँ कि, मैं दस हजार योजन नांघ जाङँगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 66,
+      "verse": 29,
+      "sloka": "स्वच्छंदतः च मरणम् तव स्यात् इति वै प्रभो ।स त्वम् केसरिणः पुत्रः क्षेत्रजो भीम विक्रमः ॥४-६६-२९॥",
+      "transliteration": "svacchaṁdataḥ ca maraṇam tava syāt iti vai prabho ।sa tvam kesariṇaḥ putraḥ kṣetrajo bhīma vikramaḥ ॥4-66-29॥",
+      "translations": {
+        "english": "'You are a son of Kesari endowed with terrific strength and a lawful son of Maruta also. You are, therefore, equal to the very Windgod in flying and in brilliance.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 66,
+      "verse": 30,
+      "sloka": "मारुतस्य औरसः पुत्रः तेजसा च अपि तत् समः ।त्वम् हि वायु सुतो वत्स प्लवने च अपि तत् समः ॥४-६६-३०॥",
+      "transliteration": "mārutasya aurasaḥ putraḥ tejasā ca api tat samaḥ ।tvam hi vāyu suto vatsa plavane ca api tat samaḥ ॥4-66-30॥",
+      "translations": {
+        "english": "'You are a son of Kesari endowed with terrific strength and a lawful son of Maruta also. You are, therefore, equal to the very Windgod in flying and in brilliance.",
+        "hindi": "र सी RR मे विश्वास हे कि, में अपने तेज से चन्द्रमा और सूर्य को पकड़ कर और लङ्का को उखाड़ कर, यहाँ ला सकता हूँ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 66,
+      "verse": 31,
+      "sloka": "वयम् अद्य गत प्राणा भवान् अस्मासु सांप्रतम् ।दाक्ष्य विक्रम संपन्नः कपि राज इव अपरः ॥४-६६-३१॥",
+      "transliteration": "vayam adya gata prāṇā bhavān asmāsu sāṁpratam ।dākṣya vikrama saṁpannaḥ kapi rāja iva aparaḥ ॥4-66-31॥",
+      "translations": {
+        "english": "'Now we have almost lost our life.You are our saviour like another monkeyking (like Garuda, king of birds).You are fully endowed with valour and courage.",
+        "hindi": "इस प्रकार अमित बलशाली एवं गजते हुए हनुमान जी की ओर सब वानर लोम विस्मययुक्त हो देख कर प्रसन्न हुए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 66,
+      "verse": 32,
+      "sloka": "त्रिविक्रमे मया तात स शैल वन कानना ।त्रिः सप्त कृत्वः पृथिवी परिक्रान्ता प्रदक्षिणम् ॥४-६६-३२॥",
+      "transliteration": "trivikrame mayā tāta sa śaila vana kānanā ।triḥ sapta kṛtvaḥ pṛthivī parikrāntā pradakṣiṇam ॥4-66-32॥",
+      "translations": {
+        "english": "'O dear when Visnu (Vamana incarnate) took three strides I circumambulated the whole earth including its mountains and trees twentyone times.",
+        "hindi": "अपनी जाति चालों के शोक को मिटाने ~ ड वाले हनुमान्‌ जी के बचनों को सुन, वानरश्रेष्ठ जाम्बवान्‌ अत्यन्त प्रसन्न हो बोले :",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 66,
+      "verse": 33,
+      "sloka": "तथा च ओषधयो अस्माभिः संचिता देव शासनात् ।निर्मथ्यम् अमृतम् याभिः तदा तदानीम् नो महत् बलम् ॥४-६६-३३॥",
+      "transliteration": "tathā ca oṣadhayo asmābhiḥ saṁcitā deva śāsanāt ।nirmathyam amṛtam yābhiḥ tadā tadānīm no mahat balam ॥4-66-33॥",
+      "translations": {
+        "english": "'Then on receiving orders from the gods, we collected medicinal herbs and nectar which gave us great strength.",
+        "hindi": "है वेगवान, वायुपुत्र. केशरीनन्दन ! हे तात तुमने अपनी विरादरी वालों का बड़ा भारी शोक मिटा दिया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 66,
+      "verse": 34,
+      "sloka": "स इदानीम् अहम् वृद्धः परिहीन पराक्रमः ।साम्प्रतम् कालम् अस्माकम् भवान् सर्व गुण अन्वितः ॥४-६६-३४॥",
+      "transliteration": "sa idānīm aham vṛddhaḥ parihīna parākramaḥ ।sāmpratam kālam asmākam bhavān sarva guṇa anvitaḥ ॥4-66-34॥",
+      "translations": {
+        "english": "'I have become old and my valour is depleted. At this time you are the sole resort for us. You have all the necessary qualities.",
+        "hindi": "तुम्हारे कल्याण की से तुम्हारी यात्रा की सिद्धि के लिए ये समस्त बानर यूथपति यहाँ एकत्र हो सङ्गल पाठ पढेंगे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 66,
+      "verse": 35,
+      "sloka": "तत् विजृंभस्व विक्रांतः प्लवताम् उत्तमो हि असि ।त्वत् वीर्यम् द्रष्टु कामा इयम् सर्वा वानर वाहिनी ॥४-६६-३५॥",
+      "transliteration": "tat vijṛṁbhasva vikrāṁtaḥ plavatām uttamo hi asi ।tvat vīryam draṣṭu kāmā iyam sarvā vānara vāhinī ॥4-66-35॥",
+      "translations": {
+        "english": "'Cheer up and advance.You are the best among the creatures that can leap.The entire army of monkeys want to see your valour.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 66,
+      "verse": 36,
+      "sloka": "उत्तिष्ठ हरि शार्दूल लंघयस्व महा अर्णवम् ।परा हि सर्व भूतानाम् हनुमन् या गतिः तव ॥४-६६-३६॥",
+      "transliteration": "uttiṣṭha hari śārdūla laṁghayasva mahā arṇavam ।parā hi sarva bhūtānām hanuman yā gatiḥ tava ॥4-66-36॥",
+      "translations": {
+        "english": "'O Hanuman, tiger among monkeys, rise up and cross this great ocean.You have that supreme capacity among all beings.",
+        "hindi": "जव तक तुम लौट कर न आओगे तब तकर हम सब वानर एक पैर से खड़े रहेंगे, क्योंकि इन समस्त वानरों का जीवन, तुम्हारे ही हाथ है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 66,
+      "verse": 37,
+      "sloka": "विषाण्णा हरयः सर्वे हनुमन् किम् उपेक्षसे ।विक्रमस्व महावेग विष्णुः त्रीन् विक्रमान् इव ॥४-६६-३७॥",
+      "transliteration": "viṣāṇṇā harayaḥ sarve hanuman kim upekṣase ।vikramasva mahāvega viṣṇuḥ trīn vikramān iva ॥4-66-37॥",
+      "translations": {
+        "english": "'O Hanuman All the monkeys look dejected. Why do you delay? O warrior, act quick with your rapid speed like Trivikrama who took three strides that covered the entire universe'.",
+        "hindi": "उनके ये वचन सुन हनुमान जो ने उन वानरों से कहा कि, यह प्रथित्री मेरे कूदने के वग को न थाम सकेगी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 66,
+      "verse": 38,
+      "sloka": "ततः कपीनाम् ऋषभेण चोदितःप्रतीत वेगः पवन आत्मजः कपिः ।प्रहर्षयन् ताम् हरि वीर वाहिनीम्चकार रूपम् महत् आत्मनः तदा ॥४-६६-३८॥",
+      "transliteration": "tataḥ kapīnām ṛṣabheṇa coditaḥpratīta vegaḥ pavana ātmajaḥ kapiḥ ।praharṣayan tām hari vīra vāhinīmcakāra rūpam mahat ātmanaḥ tadā ॥4-66-38॥",
+      "translations": {
+        "english": "Then, urged by the bull among monkeys, that monkey of proven speed, the son of the wind, gladdening the host of vanara heroes, made his own form huge.",
+        "hindi": "किन्तु शिलाओं से यक्त बड़े और स्थिर महेन्द्र पवेत के शिखर इद्‌ और बिशाल होने के कारण मेरे वेग को थास सकते हैं",
+        "telugu": ""
+      }
+    }
+  ]
+}

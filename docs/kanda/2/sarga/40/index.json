@@ -1,0 +1,723 @@
+{
+  "kanda": 2,
+  "kanda_name": "Ayodhya Kanda",
+  "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+  "sarga": 40,
+  "verses_count": 51,
+  "verses": [
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 40,
+      "verse": 1,
+      "sloka": "अथ रामः च सीता च लक्ष्मणः च कृत अन्जलिः ।उपसम्गृह्य राजानम् चक्रुर् दीनाः प्रदक्षिणम् ॥२-४०-१॥",
+      "transliteration": "atha rāmaḥ ca sītā ca lakṣmaṇaḥ ca kṛta anjaliḥ ।upasamgṛhya rājānam cakrur dīnāḥ pradakṣiṇam ॥2-40-1॥",
+      "translations": {
+        "english": "Thereafter, Sita, Rama and Lakshmana with folded palms in a forlom state touched (the feet of) the king and circumambulated him.",
+        "hindi": "¢ ' ग्रयोध्याकाणड का चालीसवा सग समाप्त हुआ । —!c!— / एकचत्वारिंशः सगः न; £४8:-- + a Ne ९ च तस्मिस्तु पुरुषव्याघ्र विनियांते कृताञ्जलो । आतशब्दाऽथ संजज्ग स्त्रीणामन्तःपुरे महान्‌",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 40,
+      "verse": 2,
+      "sloka": "तम् च अपि समनुज्ञाप्य धर्मज्ञः सीतया सह ।राघवः शोक सम्मूढो जननीम् अभ्यवादयत् ॥२-४०-२॥",
+      "transliteration": "tam ca api samanujñāpya dharmajñaḥ sītayā saha ।rāghavaḥ śoka sammūḍho jananīm abhyavādayat ॥2-40-2॥",
+      "translations": {
+        "english": "Taking leave of Dasaratha, the righteous descendant of the Raghus (Rama) along with Sita paid obeisance to his mother Kausalya who was afflicted with deep grief.",
+        "hindi": "वे बिलाप कर के कहने लगों--जो अनाथों, दुबेलों और शोचनीय मनुष्यं एकमात्र अवलंब और रक्षक हैं, वे श्रीराम-. चन्द्र कहाँ जाते हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 40,
+      "verse": 3,
+      "sloka": "अन्वक्षम् लक्ष्मणो भ्रातुः कौसल्याम् अभ्यवादयत् ।अथ मातुः सुमित्राया जग्राह चरणौ पुनः ॥२-४०-३॥",
+      "transliteration": "anvakṣam lakṣmaṇo bhrātuḥ kausalyām abhyavādayat ।atha mātuḥ sumitrāyā jagrāha caraṇau punaḥ ॥2-40-3॥",
+      "translations": {
+        "english": "Immediately following Rama, his brother, Lakshmana also paid obeisance to Kausalya and, thereafter, held the feet of his own mother Sumitra.",
+        "hindi": "जो कठोर वचन कहने पर भी कभी क्रोध नहीं करते . हैं, और न. किसी को कुपित करते हैं, प्रत्युत कुपित हुए जन को प्रसन्न करने बाले हैं तथा जो सब के सुख-दुःख को अपना सुख-दु:ख समने ' बाले हैं, वे श्रीरामचन्द्र कहाँ जाते हैं ?",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 40,
+      "verse": 4,
+      "sloka": "तम् वन्दमानम् रुदती माता सौमित्रिम् अब्रवीत् ।हित कामा महा बाहुम् मूर्ध्नि उपाघ्राय लक्ष्मणम् ॥२-४०-४॥",
+      "transliteration": "tam vandamānam rudatī mātā saumitrim abravīt ।hita kāmā mahā bāhum mūrdhni upāghrāya lakṣmaṇam ॥2-40-4॥",
+      "translations": {
+        "english": "While the mightyarmed Lakshmana paid her homage, Sumitra wailed, kissed him on his forehead, wished him well and said:",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 40,
+      "verse": 5,
+      "sloka": "सृष्टः त्वम् वन वासाय स्वनुरक्तः सुहृज् जने ।रामे प्रमादम् मा कार्षीः पुत्र भ्रातरि गच्चति ॥२-४०-५॥",
+      "transliteration": "sṛṣṭaḥ tvam vana vāsāya svanuraktaḥ suhṛj jane ।rāme pramādam mā kārṣīḥ putra bhrātari gaccati ॥2-40-5॥",
+      "translations": {
+        "english": "Although deeply attached to your beloved ones, O Son, you are born to dwell in the forest. Never be inattentive towards your brother Rama who is on his way (to the forest).",
+        "hindi": "कैकेयी से सताए जा कर ओर महाराज द्वारा वनवास के लिए ' प्रेरित हो, इस जगत्‌ के समस्त जनों के रक्षक श्रीरामचन्द्र कहाँ चले जाते हैं ?",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 40,
+      "verse": 6,
+      "sloka": "व्यसनी वा समृद्धो वा गतिर् एष तव अनघ ।एष लोके सताम् धर्मः यज् ज्येष्ठ वशगो भवेत् ॥२-४०-६॥",
+      "transliteration": "vyasanī vā samṛddho vā gatir eṣa tava anagha ।eṣa loke satām dharmaḥ yaj jyeṣṭha vaśago bhavet ॥2-40-6॥",
+      "translations": {
+        "english": "Rama is your refuge in times of adversity or prosperity, O sinless one To be obedient to the eldest (brother) is the duty of virtuous men in this world.",
+        "hindi": "हा ! महाराज की बुद्धि पर तो पत्थर पड़े हैं, जो धमात्मा, सत्यवादी और जोबों के पूर्ण रीति से प्रीतिपात्र श्रीराम को वन- , बास दे रहे हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 40,
+      "verse": 7,
+      "sloka": "इदम् हि वृत्तम् उचितम् कुलस्य अस्य सनातनम् ।दानम् दीक्षा च यज्ञेषु तनु त्यागो मृधेषु च ॥२-४०-७॥",
+      "transliteration": "idam hi vṛttam ucitam kulasya asya sanātanam ।dānam dīkṣā ca yajñeṣu tanu tyāgo mṛdheṣu ca ॥2-40-7॥",
+      "translations": {
+        "english": "Charity, initiation at sacrifices and yielding life in battles are the befitting ancient traditions prevailing in your race.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 40,
+      "verse": 8,
+      "sloka": "लक्स्मणम् त्वेवम्क्त्वा सा सम्सिद्धम् प्रियराघवम् ।सुमित्रा गच्छ गच्छेति पुनः पुनरुवाच तम् ॥२-४०-८॥",
+      "transliteration": "laksmaṇam tvevamktvā sā samsiddham priyarāghavam ।sumitrā gaccha gaccheti punaḥ punaruvāca tam ॥2-40-8॥",
+      "translations": {
+        "english": "Having said this to Lakshmana Sumitra again and again said to her beloved Rama, who was fully prepared, 'Go, go'.",
+        "hindi": "इस प्रकार वे सब रानियाँ बळड़ा रहित गौ की तरह शोकाच हो, रोने लगीं और उच्चस्त्रर से विलाप करने लगीं ॥॥ ~ ~ © ७. ¢ स॒ तमन्तःप्रे घोरमातशब्दं महीपतिः । पुत्रशोकाभिसन्त्चः श्रुत्वा चासीत्सुदु:खितः",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 40,
+      "verse": 9,
+      "sloka": "रामम् दशरथम् विद्धि माम् विद्धि जनक आत्मजाम् ।अयोध्याम् अटवीम् विद्धि गच्च तात यथा सुखम् ॥२-४०-९॥",
+      "transliteration": "rāmam daśaratham viddhi mām viddhi janaka ātmajām ।ayodhyām aṭavīm viddhi gacca tāta yathā sukham ॥2-40-9॥",
+      "translations": {
+        "english": "(To Lakshmana she said) Regard Rama as Dasaratha, Sita as me and the forest as Ayodhya. My child, go in peace.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 40,
+      "verse": 10,
+      "sloka": "ततः सुमन्त्रः काकुत्स्थम् प्रान्जलिर् वाक्यम् अब्रवीत् ।विनीतः विनयज्ञः च मातलिर् वासवम् यथा ॥२-४०-१०॥",
+      "transliteration": "tataḥ sumantraḥ kākutstham prānjalir vākyam abravīt ।vinītaḥ vinayajñaḥ ca mātalir vāsavam yathā ॥2-40-10॥",
+      "translations": {
+        "english": "Then Sumantra who knows the ways of politeness and humility spoke to Rama, with folded hands as Matali did to Indra.",
+        "hindi": "केवल मनुष्यों ही को यह दशा हुई हो सो बात नहीं ) ' हाथियों ने अपनी-अपनी भूलें गिरा दीं, गोओं ने बछुडे-वछियों को दूध न पिलाया । माताएँ अपने ज्येष्ठ पुत्रों को देख हर्षित नहीं होती थीं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 40,
+      "verse": 11,
+      "sloka": "रथम् आरोह भद्रम् ते राज पुत्र महा यशः ।क्षिप्रम् त्वाम् प्रापयिष्यामि यत्र माम् राम वक्ष्यसि ॥२-४०-११॥",
+      "transliteration": "ratham āroha bhadram te rāja putra mahā yaśaḥ ।kṣipram tvām prāpayiṣyāmi yatra mām rāma vakṣyasi ॥2-40-11॥",
+      "translations": {
+        "english": "O Illustrious prince, wish you well Mount the chariot. I shall convey you speedily whereever you want.",
+        "hindi": "ˆ त्रिशाङु, मङ्गज, वृहस्पति, बुध, शनि और शुक्र आदि क्रूर ग्रह. ` चक्री हो, चन्द्रमा के निकट जा थर-थर काँपने लगे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 40,
+      "verse": 12,
+      "sloka": "चतुर् दश हि वर्षाणि वस्तव्यानि वने त्वया ।तानि उपक्रमितव्यानि यानि देव्या असि चोदितः ॥२-४०-१२॥",
+      "transliteration": "catur daśa hi varṣāṇi vastavyāni vane tvayā ।tāni upakramitavyāni yāni devyā asi coditaḥ ॥2-40-12॥",
+      "translations": {
+        "english": "You have been directed by Kaikeyi to live in the forest for fourteen years. Accordingly you must now commence counting those years as directed.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 40,
+      "verse": 13,
+      "sloka": "तम् रथम् सूर्य सम्काशम् सीता हृष्टेन चेतसा ।आरुरोह वर आरोहा कृत्वा अलम्कारम् आत्मनः ॥२-४०-१३॥",
+      "transliteration": "tam ratham sūrya samkāśam sītā hṛṣṭena cetasā ।āruroha vara ārohā kṛtvā alamkāram ātmanaḥ ॥2-40-13॥",
+      "translations": {
+        "english": "Sita of lovely limbs decorated herself and with a cheerful mind boarded the chariot which was shining like the Sun.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 40,
+      "verse": 14,
+      "sloka": "तथैव आयुध जातानि भ्रातृभ्याम् कवचानि च ।रथ उपस्थे प्रतिन्यस्य सचर्म कठिनम् च तत् ॥२-४०-१४॥",
+      "transliteration": "tathaiva āyudha jātāni bhrātṛbhyām kavacāni ca ।ratha upasthe pratinyasya sacarma kaṭhinam ca tat ॥2-40-14॥",
+      "translations": {
+        "english": "Thereafter, Rama and Lakshmana also boarded that chariot decorated with gold and shining like blazing fire.",
+        "hindi": "दृशां दिशाओं में अन्धकार छा गया, जिससे आकाश में प्रहों आर नक्षत्रो का प्रकाश नहीं देख पड़ता था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 40,
+      "verse": 15,
+      "sloka": "वनवासम् हि सम्ख्यय वासाम्स्याभरणानि च ।भर्तारमनुगच्छन्त्यै सीतायै श्वशुरो ददौ ॥२-४०-१५॥",
+      "transliteration": "vanavāsam hi samkhyaya vāsāmsyābharaṇāni ca ।bhartāramanugacchantyai sītāyai śvaśuro dadau ॥2-40-15॥",
+      "translations": {
+        "english": "Fatherinlaw (Dasaratha) gave clothes and ornaments on the assessment of the number of years Sita was going to spend in the forest with her husband.",
+        "hindi": "नक्षत्र प्रभाहीन ` अरः ग्रह तेजहीन हो गए । विशाखा . | i १ % नक्षत्र घुमैला पड़ गया था ओर आकाश घु धला-सा चमक ' विकि CIRO sto be Vd न | ` 'ज्ञेभी न तो भोजन किए और न को ` के कार्य में सम्मिलित हुआ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 40,
+      "verse": 16,
+      "sloka": "तथैवायुधजालानि भ्रातृभ्याम् कवचानि च ।रथोपस्थे प्रतिन्यस्य सचर्म कठिनम् च तत् ॥२-४०-१६॥",
+      "transliteration": "tathaivāyudhajālāni bhrātṛbhyām kavacāni ca ।rathopasthe pratinyasya sacarma kaṭhinam ca tat ॥2-40-16॥",
+      "translations": {
+        "english": "So also Dasaratha secured a multitude of weapons, shields and protective leathercoverings for hands and placed them at the centre of the chariot, for use by the brothers. When Sumantra ensured that Sita, Rama and Lakshmana boarded the chariot, he briskly hastened the horses which were as speedy as the wind.",
+        "hindi": "अकस्मान्नागरः सवा जना देन्यम्ुपागमरत्‌। , रेवा विहार वा न कश्चिदकरान्मनः ॥ १ दास हो गए । उस दिन किसी अकस्मात्‌ सारे नगरवासी न $“किसी खेल-कूद या मनोरञ्जन शोकपयायसन्तप्त। सतत दी घप्नुच्छवसन्‌ । ` अयोध्यायां जनः सर्व; शुशोच जगतीपातम्‌",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 40,
+      "verse": 17,
+      "sloka": "सीता तृतीयान् आरूढान् दृष्ट्वा धृष्टम् अचोदयत् ।सुमन्त्रः सम्मतान् अश्वान् वायु वेग समान् जवे ॥२-४०-१७॥",
+      "transliteration": "sītā tṛtīyān ārūḍhān dṛṣṭvā dhṛṣṭam acodayat ।sumantraḥ sammatān aśvān vāyu vega samān jave ॥2-40-17॥",
+      "translations": {
+        "english": "So also Dasaratha secured a multitude of weapons, shields and protective leathercoverings for hands and placed them at the centre of the chariot, for use by the brothers. When Sumantra ensured that Sita, Rama and Lakshmana boarded the chariot, he briskly hastened the horses which were as speedy as the wind.",
+        "hindi": "राह चलते मनुष्यों के भी नेत्र आँसुओं से {भरे हुए थे, कहीं ' असन्नता का नाम तक न था, क्योंकि सब के सब पुरवासी शोक- -सन्तप्त हो रहे थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 40,
+      "verse": 18,
+      "sloka": "प्रयाते तु महा अरण्यम् चिर रात्राय राघवे ।बभूव नगरे मूर्च्चा बल मूर्च्चा जनस्य च ॥२-४०-१८॥",
+      "transliteration": "prayāte tu mahā araṇyam cira rātrāya rāghave ।babhūva nagare mūrccā bala mūrccā janasya ca ॥2-40-18॥",
+      "translations": {
+        "english": "Having seen Rama set out for the great forest for a long period, the city was stilled and men were enervated.",
+        "hindi": "न तो शीतल हवा चलती थी, न चन्द्रमा सुहावना जान पड़ता था ओर न सूर्य ही तपते थे। सारा जगत्‌ ही रामवियोग में विकल ' ही रहा था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 40,
+      "verse": 19,
+      "sloka": "तत् समाकुल सम्भ्रान्तम् मत्त सम्कुपित द्विपम् ।हय शिन्जित निर्घोषम् पुरम् आसीन् महा स्वनम् ॥२-४०-१९॥",
+      "transliteration": "tat samākula sambhrāntam matta samkupita dvipam ।haya śinjita nirghoṣam puram āsīn mahā svanam ॥2-40-19॥",
+      "translations": {
+        "english": "The city was distressed and flurried by the intoxicated elephants, provoked by the mighty sound of the tinkling of bells and the neighing of the horses.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 40,
+      "verse": 20,
+      "sloka": "ततः सबाल वृद्धा सा पुरी परम पीडिता ।रामम् एव अभिदुद्राव घर्म आर्तः सलिलम् यथा ॥२-४०-२०॥",
+      "transliteration": "tataḥ sabāla vṛddhā sā purī parama pīḍitā ।rāmam eva abhidudrāva gharma ārtaḥ salilam yathā ॥2-40-20॥",
+      "translations": {
+        "english": "Thereafter the extremely afflicted people of the city, including young and old alike, ran towards Rama like men oppressed with heat running for water.",
+        "hindi": "जोश्रीरामचन्द्र के हितैषी मित्र थे उनको -अपनी कुङ्ग भी सुध चुंब ही न थी । वे शोकभार से इतने दबे हुए थे कि उनकी निद्रा - लक जाती रही",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 40,
+      "verse": 21,
+      "sloka": "पार्श्वतः पृष्ठतः च अपि लम्बमानाः तत् उन्मुखाः ।बाष्प पूर्ण मुखाः सर्वे तम् ऊचुर् भृश दुह्खिताः ॥२-४०-२१॥",
+      "transliteration": "pārśvataḥ pṛṣṭhataḥ ca api lambamānāḥ tat unmukhāḥ ।bāṣpa pūrṇa mukhāḥ sarve tam ūcur bhṛśa duhkhitāḥ ॥2-40-21॥",
+      "translations": {
+        "english": "All the people hanging from the chariot from behind and by the sides, heaving deeply, their faces covered with tears, thus addressed to Sumantra:",
+        "hindi": "वह पुरी हाथियों, घोड़ों और बीरों के हाहाकार ब आत्तैनाद से पूर्ण होगई। ( इन्द्र से. ` रहित का तात्पर्य यह है कि जैसे इन्द्र का कोप होने पर अनावृष्टि ` के कारण सारी प्रथ्वी ओर पहाड़ उत्तप्त हो उठते हैं ओर मनुष्य, पशु-पक्षी सभी विकल हो उठते हैं, उसी प्रकार श्रीराम के अयोध्या छोड़ कर चले जाने पर अयोध्या की दशा हो गई )",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 40,
+      "verse": 22,
+      "sloka": "सम्यच्च वाजिनाम् रश्मीन् सूत याहि शनैः शनैः ।मुखम् द्रक्ष्यामि रामस्य दुर्दर्शम् नो भविष्यति ॥२-४०-२२॥",
+      "transliteration": "samyacca vājinām raśmīn sūta yāhi śanaiḥ śanaiḥ ।mukham drakṣyāmi rāmasya durdarśam no bhaviṣyati ॥2-40-22॥",
+      "translations": {
+        "english": "O charioteer, control the reins of the horses and go slow so that we may look at the face of Rama, for soon we will not be able to see him.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 40,
+      "verse": 23,
+      "sloka": "आयसम् हृदयम् नूनम् राम मातुर् असम्शयम् ।यद् देव गर्भ प्रतिमे वनम् याति न भिद्यते ॥२-४०-२३॥",
+      "transliteration": "āyasam hṛdayam nūnam rāma mātur asamśayam ।yad deva garbha pratime vanam yāti na bhidyate ॥2-40-23॥",
+      "translations": {
+        "english": "Alas, the heart of Kausalya whose son, Rama, resembles the offspring of the gods, does not break even though he is going to the forest Undoubtedly it must be made of iron.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 40,
+      "verse": 24,
+      "sloka": "कृत कृत्या हि वैदेही चाया इव अनुगता पतिम् ।न जहाति रता धर्मे मेरुम् अर्क प्रभा यथा ॥२-४०-२४॥",
+      "transliteration": "kṛta kṛtyā hi vaidehī cāyā iva anugatā patim ।na jahāti ratā dharme merum arka prabhā yathā ॥2-40-24॥",
+      "translations": {
+        "english": "Sita, deeply attached to her duty, and with her desire fulfilled is following her husband like a shadow just as the sunlight which never leaves mount Meru.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 40,
+      "verse": 25,
+      "sloka": "अहो लक्ष्मण सिद्ध अर्थः सतताम् प्रिय वादिनम् ।भ्रातरम् देव सम्काशम् यः त्वम् परिचरिष्यसि ॥२-४०-२५॥",
+      "transliteration": "aho lakṣmaṇa siddha arthaḥ satatām priya vādinam ।bhrātaram deva samkāśam yaḥ tvam paricariṣyasi ॥2-40-25॥",
+      "translations": {
+        "english": "With your desires fulfilled, O Lakshmana, you will attend to your godlike brother who always speaks pleasant words.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 40,
+      "verse": 26,
+      "sloka": "महति एषा हि ते सिद्धिर् एष च अभ्युदयो महान् ।एष स्वर्गस्य मार्गः च यद् एनम् अनुगच्चसि ॥२-४०-२६॥",
+      "transliteration": "mahati eṣā hi te siddhir eṣa ca abhyudayo mahān ।eṣa svargasya mārgaḥ ca yad enam anugaccasi ॥2-40-26॥",
+      "translations": {
+        "english": "The very fact that you are following Rama is a great achievement and a great fortune for you. This, in fact, is the way to heaven.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 40,
+      "verse": 27,
+      "sloka": "एवम् वदन्तः ते सोढुम् न शेकुर् बाष्पम् आगतम् ।अथ राजा वृतः स्त्रीभिर् दीनाभिर् दीन चेतनः ॥२-४०-२७॥",
+      "transliteration": "evam vadantaḥ te soḍhum na śekur bāṣpam āgatam ।atha rājā vṛtaḥ strībhir dīnābhir dīna cetanaḥ ॥2-40-27॥",
+      "translations": {
+        "english": "Speaking thus, the people following their beloved Rama, the delight of the Ikshvaku dynasty, were not able to bear (restrain) the tears flowing from their eyes.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 40,
+      "verse": 28,
+      "sloka": "अथ राजा वृतः स्त्रीभिर्दीनाभिर्दीनचेतनः ।निर्जगाम प्रियम् पुत्रम् द्रक्ष्यामि इति ब्रुवन् गृहात् ॥२-४०-२८॥",
+      "transliteration": "atha rājā vṛtaḥ strībhirdīnābhirdīnacetanaḥ ।nirjagāma priyam putram drakṣyāmi iti bruvan gṛhāt ॥2-40-28॥",
+      "translations": {
+        "english": "I wish to see my beloved son said the king with a sense of desolation and emerged, surrounded by forlorn women, from the palace.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 40,
+      "verse": 29,
+      "sloka": "शुश्रुवे च अग्रतः स्त्रीनाम् रुदन्तीनाम् महा स्वनः ।यथा नादः करेणूनाम् बद्धे महति कुन्जरे ॥२-४०-२९॥",
+      "transliteration": "śuśruve ca agrataḥ strīnām rudantīnām mahā svanaḥ ।yathā nādaḥ kareṇūnām baddhe mahati kunjare ॥2-40-29॥",
+      "translations": {
+        "english": "He heard the women crying loudly in front like wailings of cowelephants when their bull elephant is captured.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 40,
+      "verse": 30,
+      "sloka": "पिता च राजा काकुत्स्थः श्रीमान् सन्नः तदा बभौ ।परिपूर्णः शशी काले ग्रहेण उपप्लुतः यथा ॥२-४०-३०॥",
+      "transliteration": "pitā ca rājā kākutsthaḥ śrīmān sannaḥ tadā babhau ।paripūrṇaḥ śaśī kāle graheṇa upaplutaḥ yathā ॥2-40-30॥",
+      "translations": {
+        "english": "The king born in the race of Kakutstha, though bright, looked dull then like the full Moon eclipsed (by Rahu).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 40,
+      "verse": 31,
+      "sloka": "स च श्रीमानचिन्त्यात्मा रामो दशरथात्मजः ।सूतम् सम्चोदयामास त्वरितम् वाह्यतामिति ॥२-४०-३१॥",
+      "transliteration": "sa ca śrīmānacintyātmā rāmo daśarathātmajaḥ ।sūtam samcodayāmāsa tvaritam vāhyatāmiti ॥2-40-31॥",
+      "translations": {
+        "english": "The son of Dasaratha, glorious Rama of inconceivable courage, exhorted the charioteer to drive the chariot fast.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 40,
+      "verse": 32,
+      "sloka": "रामो याहीति सूतम् तम् तिष्ठेति स जनस्तदा ।उभयम् नाशकत्सूतः कर्तुमध्वनि चोदितः ॥२-४०-३२॥",
+      "transliteration": "rāmo yāhīti sūtam tam tiṣṭheti sa janastadā ।ubhayam nāśakatsūtaḥ kartumadhvani coditaḥ ॥2-40-32॥",
+      "translations": {
+        "english": "Urged by Rama to drive fast on the one hand and by the citizens to stay, on the other, the charioteer could do neither on the way.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 40,
+      "verse": 33,
+      "sloka": "निर्गच्छति महाबाहौ रामे पौरजनाश्रुभिः ।पतितैरभ्यवहितम् प्रशशाम महीरजः ॥२-४०-३३॥",
+      "transliteration": "nirgacchati mahābāhau rāme paurajanāśrubhiḥ ।patitairabhyavahitam praśaśāma mahīrajaḥ ॥2-40-33॥",
+      "translations": {
+        "english": "As the mightyarmed Rama was going away, the dust raised from the earth subsided with the tears falling from the citizens' (eyes).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 40,
+      "verse": 34,
+      "sloka": "रुदिताश्रुपरिद्यूनम् हाहाकृतमचेतनम् ।प्रयाणे राघवस्यासीत्पुरम् परमपीडितम् ॥२-४०-३४॥",
+      "transliteration": "ruditāśruparidyūnam hāhākṛtamacetanam ।prayāṇe rāghavasyāsītpuram paramapīḍitam ॥2-40-34॥",
+      "translations": {
+        "english": "At the time of Rama's departure, the insensate city was drenched with tears of the deeply afflicted people crying, 'Alas, Alas'.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 40,
+      "verse": 35,
+      "sloka": "सुस्राव नयनैः स्त्रीणामस्रमायाससम्भवम् ।मीनसम्क्षोभचलितैः सलिलम् पङ्कजैरिव ॥२-४०-३५॥",
+      "transliteration": "susrāva nayanaiḥ strīṇāmasramāyāsasambhavam ।mīnasamkṣobhacalitaiḥ salilam paṅkajairiva ॥2-40-35॥",
+      "translations": {
+        "english": "Tears born of anguish fell from the eyes of women just as waterdrops fall from lotuses shaken by the movements of fishes.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 40,
+      "verse": 36,
+      "sloka": "दृष्ट्वा तु नृपतिः श्रीमानेकचित्तगतम् पुरम् ।निपपातैव दुःखेन हतमूल इव द्रुमः ॥२-४०-३६॥",
+      "transliteration": "dṛṣṭvā tu nṛpatiḥ śrīmānekacittagatam puram ।nipapātaiva duḥkhena hatamūla iva drumaḥ ॥2-40-36॥",
+      "translations": {
+        "english": "Having seen the city (people) absorbed in one single thought, the prosperous king, griefstricken, fell down on the ground like a tree severed at its root.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 40,
+      "verse": 37,
+      "sloka": "ततओ हल हला शब्दो जज्ञे रामस्य पृष्ठतः ।नराणाम् प्रेक्ष्य राजानम् सीदन्तम् भृश दुह्खितम् ॥२-४०-३७॥",
+      "transliteration": "tatao hala halā śabdo jajñe rāmasya pṛṣṭhataḥ ।narāṇām prekṣya rājānam sīdantam bhṛśa duhkhitam ॥2-40-37॥",
+      "translations": {
+        "english": "When the people saw the king enfeebled by deep grief, they raised an uproar behind Rama's (chariot).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 40,
+      "verse": 38,
+      "sloka": "हा राम इति जनाः केचित् राम माता इति च अपरे ।अन्तः पुरम् समृद्धम् च क्रोशन्तम् पर्यदेवयन् ॥२-४०-३८॥",
+      "transliteration": "hā rāma iti janāḥ kecit rāma mātā iti ca apare ।antaḥ puram samṛddham ca krośantam paryadevayan ॥2-40-38॥",
+      "translations": {
+        "english": "Some among them wailed 'Oh Rama', while some others cried 'Oh mother of Rama' By crying loudly, they made the women in the inner apartment cry too.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 40,
+      "verse": 39,
+      "sloka": "अन्वीक्षमाणो रामः तु विषण्णम् भ्रान्त चेतसम् ।राजानम् मातरम् चैव ददर्श अनुगतौ पथि ॥२-४०-३९॥",
+      "transliteration": "anvīkṣamāṇo rāmaḥ tu viṣaṇṇam bhrānta cetasam ।rājānam mātaram caiva dadarśa anugatau pathi ॥2-40-39॥",
+      "translations": {
+        "english": "When Rama glanced back, he saw his mother and father trailing behind him on the highway, with an agitated and dejected mind.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 40,
+      "verse": 40,
+      "sloka": "स बद्ध इव पाशेन किशोरो मातरम् यथा ।धर्मपाशेन सम्क्षिप्तः प्रकाशम् नाभुदैक्षत ॥२-४०-४०॥",
+      "transliteration": "sa baddha iva pāśena kiśoro mātaram yathā ।dharmapāśena samkṣiptaḥ prakāśam nābhudaikṣata ॥2-40-40॥",
+      "translations": {
+        "english": "Like a fastened foal cannot see its mother, Rama restrained by bonds of duty could not see his parents clearly.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 40,
+      "verse": 41,
+      "sloka": "पदातिनौ च यान अर्हाव् अदुह्ख अर्हौ सुख उचितौ ।दृष्ट्वा सम्चोदयाम् आस शीघ्रम् याहि इति सारथिम् ॥२-४०-४१॥",
+      "transliteration": "padātinau ca yāna arhāv aduhkha arhau sukha ucitau ।dṛṣṭvā samcodayām āsa śīghram yāhi iti sārathim ॥2-40-41॥",
+      "translations": {
+        "english": "Seeing his parents, who were worthy of riding a chariot now going on foot, who were accustomed to comforts and did not deserve any suffering, Rama urged his charioteer to drive fast.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 40,
+      "verse": 42,
+      "sloka": "न हि तत् पुरुष व्याघ्रः दुह्खदम् दर्शनम् पितुः ।मातुः च सहितुम् शक्तः तोत्र अर्दितैव द्विपः ॥२-४०-४२॥",
+      "transliteration": "na hi tat puruṣa vyāghraḥ duhkhadam darśanam pituḥ ।mātuḥ ca sahitum śaktaḥ totra arditaiva dvipaḥ ॥2-40-42॥",
+      "translations": {
+        "english": "Rama the best among men, could not, like an elephant tormented by the goad, endure that pitiful sight of his father and mother.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 40,
+      "verse": 43,
+      "sloka": "प्रत्यगारमिवायान्ती वत्सला वत्सकारणात् ।बद्धवत्सा यथा धेनू राममाताभ्याधावत ॥२-४०-४३॥",
+      "transliteration": "pratyagāramivāyāntī vatsalā vatsakāraṇāt ।baddhavatsā yathā dhenū rāmamātābhyādhāvata ॥2-40-43॥",
+      "translations": {
+        "english": "Rama's mother ran after the chariot, like an affectionate cow running towards the shed to join its fastened calf.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 40,
+      "verse": 44,
+      "sloka": "तथा रुदन्तीम् कौसल्याम् रथम् तम् अनुधावतीम् ।क्रोशन्तीम् राम राम इति हा सीते लक्ष्मण इति च ॥२-४०-४४॥",
+      "transliteration": "tathā rudantīm kausalyām ratham tam anudhāvatīm ।krośantīm rāma rāma iti hā sīte lakṣmaṇa iti ca ॥2-40-44॥",
+      "translations": {
+        "english": "While Kausalya was weeping and running after the chariot, crying O 'Rama, O Sita, O Lakshmana, shedding tears for them, Rama repeatedly glanced at her who was twisting and bending as if in a dancing pose.",
+        "hindi": "जो महाततेज़स्तर अपनी जननी कौसल्या की तरह ही हम सब ' - को माता मानते है, वे महात्मा अब कहाँ जा रहे हैं १",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 40,
+      "verse": 45,
+      "sloka": "रामलक्ष्मणसीतार्थम् स्रवन्तीम् वारि नेत्रजम् ।असकृत् प्रैक्षत तदा नृत्यन्तीम् इव मातरम् ॥२-४०-४५॥",
+      "transliteration": "rāmalakṣmaṇasītārtham sravantīm vāri netrajam ।asakṛt praikṣata tadā nṛtyantīm iva mātaram ॥2-40-45॥",
+      "translations": {
+        "english": "While Kausalya was weeping and running after the chariot, crying O 'Rama, O Sita, O Lakshmana, shedding tears for them, Rama repeatedly glanced at her who was twisting and bending as if in a dancing pose.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 40,
+      "verse": 46,
+      "sloka": "तिष्ठ इति राजा चुक्रोष याहि याहि इति राघवः ।सुमन्त्रस्य बभूव आत्मा चक्रयोः इव च अन्तरा ॥२-४०-४६॥",
+      "transliteration": "tiṣṭha iti rājā cukroṣa yāhi yāhi iti rāghavaḥ ।sumantrasya babhūva ātmā cakrayoḥ iva ca antarā ॥2-40-46॥",
+      "translations": {
+        "english": "The king cried, 'Stay, Stay', while Rama said 'Go on, Go on'. Sumantra's mind was caught as if in between two wheels.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 40,
+      "verse": 47,
+      "sloka": "न अश्रौषम् इति राजानम् उपालब्धो अपि वक्ष्यसि ।चिरम् दुह्खस्य पापिष्ठम् इति रामः तम् अब्रवीत् ॥२-४०-४७॥",
+      "transliteration": "na aśrauṣam iti rājānam upālabdho api vakṣyasi ।ciram duhkhasya pāpiṣṭham iti rāmaḥ tam abravīt ॥2-40-47॥",
+      "translations": {
+        "english": "When the king reproaches you for not stopping the chariot, you can say 'I could not hear'.Prolonging agony is sinful, said Rama to Sumantra.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 40,
+      "verse": 48,
+      "sloka": "रामस्य स वचः कुर्वन्न् अनुज्ञाप्य च तम् जनम् ।व्रजतः अपि हयान् शीघ्रम् चोदयाम् आस सारथिः ॥२-४०-४८॥",
+      "transliteration": "rāmasya sa vacaḥ kurvann anujñāpya ca tam janam ।vrajataḥ api hayān śīghram codayām āsa sārathiḥ ॥2-40-48॥",
+      "translations": {
+        "english": "Obeying the command of Rama and after taking leave of the people, Sumantra hastened the horses although they were galloping.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 40,
+      "verse": 49,
+      "sloka": "न्यवर्तत जनो राज्ञो रामम् कृत्वा प्रदक्षिणम् ।मनसा अपि अश्रु वेगैः च न न्यवर्तत मानुषम् ॥२-४०-४९॥",
+      "transliteration": "nyavartata jano rājño rāmam kṛtvā pradakṣiṇam ।manasā api aśru vegaiḥ ca na nyavartata mānuṣam ॥2-40-49॥",
+      "translations": {
+        "english": "The king's men returned, with Rama circumambulated (on the plane of their minds). But from their minds they could not hold back their tears (grief).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 40,
+      "verse": 50,
+      "sloka": "यम् इच्चेत् पुनर् आयान्तम् न एनम् दूरम् अनुव्रजेत् ।इति अमात्या महा राजम् ऊचुर् दशरथम् वचः ॥२-४०-५०॥",
+      "transliteration": "yam iccet punar āyāntam na enam dūram anuvrajet ।iti amātyā mahā rājam ūcur daśaratham vacaḥ ॥2-40-50॥",
+      "translations": {
+        "english": "We should not follow over a long distance those we wish to return, said the ministers to king Dasaratha.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 40,
+      "verse": 51,
+      "sloka": "तेषाम् वचः सर्व गुण उपपन्नम् ।प्रस्विन्न गात्रः प्रविषण्ण रूपः ।निशम्य राजा कृपणः सभार्यो ।व्यवस्थितः तम् सुतम् ईक्षमाणः ॥२-४०-५१॥",
+      "transliteration": "teṣām vacaḥ sarva guṇa upapannam ।prasvinna gātraḥ praviṣaṇṇa rūpaḥ ।niśamya rājā kṛpaṇaḥ sabhāryo ।vyavasthitaḥ tam sutam īkṣamāṇaḥ ॥2-40-51॥",
+      "translations": {
+        "english": "Dasaratha and his wives, overcome with grief, heard their words steeped in virtue (wisdom). The king stood there with his perspiring body and melancholic appearance, fixing his gaze on his son. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे चत्वारिंशस्सर्गः।। Thus ends the fortieth sarga of Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

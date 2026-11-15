@@ -1,0 +1,14 @@
+{
+  "kanda": 1,
+  "kanda_name": "Bala Kanda",
+  "kanda_name_sanskrit": "बालकाण्डम्",
+  "sarga": 5,
+  "verse": 23,
+  "sloka": "ताम् अग्निमद्भिः गुणवद्भिः आवृताम्द्विजोत्तमैः वेद षडङ्ग पारगैः ।सहस्रदैः सत्य रतैः महात्मभिःमहर्षि कल्पैः ऋषिभिः च केवलैः ॥१-५-२३॥",
+  "transliteration": "tām agnimadbhiḥ guṇavadbhiḥ āvṛtāmdvijottamaiḥ veda ṣaḍaṅga pāragaiḥ ।sahasradaiḥ satya rataiḥ mahātmabhiḥmaharṣi kalpaiḥ ṛṣibhiḥ ca kevalaiḥ ॥1-5-23॥",
+  "translations": {
+    "english": "That city (of Ayodhya) was filled with excellent dwijas (brahmana, kshatriya and vaisyas) performing rituals of sacrificial fire, virtuous and wellversed in the Vedas and Vedangas. They were generous, truthful and dignified. They were almost equal to rishis and maharshis. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे पञ्चमस्सर्ग:।। Thus ends the fifth sarga of Balakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+    "hindi": "इति पञ्चमः सग; || अयोध्यापुरी में सहस्रां साग्निक ( नित्य अग्निहोत्र करने वाले द्विज), सब प्रकार के गुणी, षडङ्ग वेद का पारायण करने वाले विद्वान्‌ ब्राह्मण, सत्यवादी महात्मा और जप-तप में निरत हजारों. ऋषि महात्मा ही मुख्यतया वास करते थे",
+    "telugu": "అచటి ద్విజోత్తములు అందఱును నిత్యాగ్నిహోత్రులు, శమదమాది గుణసంపన్నులు, వేదవేదాంగములయందు పారంగతులు, సత్యమును పల్కుటయందు నిరతులు, మిక్కిలి ప్రజ్ఞావంతులు, కొల్లలుగా దానములు చేయువారు, మహర్షులతో సమానులు. అంతేగాదు వారు సాక్షాత్తుగా మహర్షులే. అట్టి అయోధ్యానగరమును రాజధానిగా జేసికొని, దశరథమహారాజు కోసలదేశమును పరిపాలించుచుండెను."
+  }
+}

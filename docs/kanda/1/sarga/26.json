@@ -1,0 +1,513 @@
+{
+  "kanda": 1,
+  "kanda_name": "Bala Kanda",
+  "kanda_name_sanskrit": "बालकाण्डम्",
+  "sarga": 26,
+  "verses_count": 36,
+  "verses": [
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 26,
+      "verse": 1,
+      "sloka": "मुनेर् वचनम् अक्लीबम् श्रुत्वा नरवरात्मजः ।राघवः प्राञ्जलिः भूत्वा प्रत्युवाच दृढव्रतः ॥१-२६-१॥",
+      "transliteration": "muner vacanam aklībam śrutvā naravarātmajaḥ ।rāghavaḥ prāñjaliḥ bhūtvā pratyuvāca dṛḍhavrataḥ ॥1-26-1॥",
+      "translations": {
+        "english": "After listening to the manly command of ascetic Viswamitra, Rama, of the lineage of Raghu, the son of the foremost of men and firm in determination, replied with folded palms:",
+        "hindi": "—0:— rm 6a neem उप\" पश्चविशः सगः CS 4 ०0, अथ तस्याप्रमेयस्य मुनेवचनमुत्तमम्‌ । ७ % ४० शरुत्वा पुरुषशादूलः प्रत्युवाच शुभां गिरम्‌",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 26,
+      "verse": 2,
+      "sloka": "पितुर् वचन निर्देशात् पितुर् वचन गौरवात् ।वचनम् कौशिकस्य इति कर्तव्यम् अविशङ्कया ॥१-२६-२॥",
+      "transliteration": "pitur vacana nirdeśāt pitur vacana gauravāt ।vacanam kauśikasya iti kartavyam aviśaṅkayā ॥1-26-2॥",
+      "translations": {
+        "english": "\"As I have to fulfill the command of my father and honour his words and the instruction of Kausika (Viswamitra), I shall execute it (kill Tataka) without hesitation.",
+        "hindi": "हे मुनिपुङ्गव ! सुनते है, यक्ष जाति तो अल्प बल वाली होती हैं तव इस अबला ( अर्थात्‌ यक्ष स्री ) के शरीर में हजार हाथियों का बल क्योंकर आ गया ?",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 26,
+      "verse": 3,
+      "sloka": "अनुशिष्टो अस्मि अयोध्यायाम् गुरु मध्ये महात्मना ।पित्रा दशरथेन अहम् न अवज्ञेयम् च तद् वचः ॥१-२६-३॥",
+      "transliteration": "anuśiṣṭo asmi ayodhyāyām guru madhye mahātmanā ।pitrā daśarathena aham na avajñeyam ca tad vacaḥ ॥1-26-3॥",
+      "translations": {
+        "english": "In Ayodhya in the presence of elders and spiritual masters (of Dasaratha's court), I have been ordered by my magnanimous father to act according to your instructions and his words cannot be disobeyed.",
+        "hindi": "श्रीरमचन्द्र जी के प्रश्‍न को सुन, महात्मा विश्वामित्र बोले-हे राघव ! सुनिए, में कहता हूँ, जिस प्रकार यह यक्षिणी इतनी बलवती हुई है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 26,
+      "verse": 4,
+      "sloka": "सोऽहम् पितुर्वचः श्रुत्वा शासनाद् ब्रह्म वादिनः ।करिष्यामि न संदेहः ताटका वधम् उत्तमम् ॥१-२६-४॥",
+      "transliteration": "so'ham piturvacaḥ śrutvā śāsanād brahma vādinaḥ ।kariṣyāmi na saṁdehaḥ tāṭakā vadham uttamam ॥1-26-4॥",
+      "translations": {
+        "english": "As per the words of my father and the command of Viswamitra, who has the knowledge of the Brahman, I shall execute the welcome act of killing Tataka.",
+        "hindi": "यह्‌ अबला वरदान के प्रभाव ने इतनी बलवती हो गई है। ” -सुकेलु नाम का एक बड़ा बलवान यक्ष था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 26,
+      "verse": 5,
+      "sloka": "गो ब्राह्मण हितार्थाय देशस्य च हिताय च ।तव चैव अप्रमेयस्य वचनम् कर्तुम् उद्यतः ॥१-२६-५॥",
+      "transliteration": "go brāhmaṇa hitārthāya deśasya ca hitāya ca ।tava caiva aprameyasya vacanam kartum udyataḥ ॥1-26-5॥",
+      "translations": {
+        "english": "For the welfare of cows and brahmins and also for the good of this country, I am ready to perform such acts as commanded by you of boundless energy\".",
+        "hindi": "हे राम ! सदाचारी होने पर भी उसके कोई सन्तान नथी । अतएव उसने बड़ा तप किया । तब प्रसन्न हो, उस यक्षपति को ह्मा जी ने",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 26,
+      "verse": 6,
+      "sloka": "एवम् उक्त्वा धनुर्मध्ये बध्वा मुष्टिम् अरिन्दमः ।ज्या घोषम् अकरोत् तीव्रम् दिशः शब्देन नादयन् ॥१-२६-६॥",
+      "transliteration": "evam uktvā dhanurmadhye badhvā muṣṭim arindamaḥ ।jyā ghoṣam akarot tīvram diśaḥ śabdena nādayan ॥1-26-6॥",
+      "translations": {
+        "english": "Rama, the destroyer of enemies having said so clinched the middle of the bow with his fist and filled the ten quarters with the resounding twanging of the bowstring.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 26,
+      "verse": 7,
+      "sloka": "तेन शब्देन वित्रस्ताः ताटका वन वासिनः ।ताटका च सुसंक्रुद्धा तेन शब्देन मोहिता ॥१-२६-७॥",
+      "transliteration": "tena śabdena vitrastāḥ tāṭakā vana vāsinaḥ ।tāṭakā ca susaṁkruddhā tena śabdena mohitā ॥1-26-7॥",
+      "translations": {
+        "english": "The dwellers of the Tataka forest were terrified by the sound (of the bow). Tataka, was might angry and amazed.",
+        "hindi": "किन्तु, महायशस्त्री ब्रह्मा जो ने उस यक्ष को ऐसा बली पत्र नहीं दिया । जब. वह लड़की बढ़ती-बढ़ती रूप और यौबनशालिनी खी हुई",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 26,
+      "verse": 8,
+      "sloka": "तम् शब्दम् अभिनिध्याय राक्षसी क्रोध मूर्चिता ।श्रुत्वा च अभ्यद्रवत् क्रुद्धा यत्र शब्दो विनिस्सृतः ॥१-२६-८॥",
+      "transliteration": "tam śabdam abhinidhyāya rākṣasī krodha mūrcitā ।śrutvā ca abhyadravat kruddhā yatra śabdo vinissṛtaḥ ॥1-26-8॥",
+      "translations": {
+        "english": "Hearing that sound, the demoness thought for a while and senseless with anger rushed in the direction where the sound had come from.",
+        "hindi": "तब उसके पिता ने उसका विवाह जम्भ के पुत्र सन्द के साथ कर दिया । थोड़े दिनों बाद (इस) यक्षिणी के एक पुत्र उत्पन्न हुआ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 26,
+      "verse": 9,
+      "sloka": "ताम् दृष्ट्वा राघवः क्रुद्धाम् विकृताम् विकृत आननाम् ।प्रमाणेन अति वृद्धाम् च लक्ष्मणम् सोऽभ्यभाषत ॥१-२६-९॥",
+      "transliteration": "tām dṛṣṭvā rāghavaḥ kruddhām vikṛtām vikṛta ānanām ।pramāṇena ati vṛddhām ca lakṣmaṇam so'bhyabhāṣata ॥1-26-9॥",
+      "translations": {
+        "english": "Filled with wrath Rama saw Tataka, disfigured with a distorted face and gigantic in size. Turning to Lakshmana he said :",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 26,
+      "verse": 10,
+      "sloka": "पश्य लक्ष्मण यक्षिण्या भैरवम् दारुणम् वपुः ।भिद्येरन् दर्शनात् अस्या भीरूणाम् हृदयानि च ॥१-२६-१०॥",
+      "transliteration": "paśya lakṣmaṇa yakṣiṇyā bhairavam dāruṇam vapuḥ ।bhidyeran darśanāt asyā bhīrūṇām hṛdayāni ca ॥1-26-10॥",
+      "translations": {
+        "english": "\"O Lakshmana, behold, the sight of the dreadful hideous body of this yakshini will break timid hearts.",
+        "hindi": "Q मारीचं नाम दुधे यः शापाद्रानतसोऽभतत्‌ । सुन्दे तु निहते राम सागस्त्यंक्क सुनिपुङ्गत्रम्‌ ॥&॥. ————————— nn # पाठान्तरे -श्रगस्त्यमृषिसत्तमम्‌ | Dems mere Rr a i i र क नाम मारीच हे । वह बड़ा बलवान्‌ है। वह यक्षः हो षे. भा शापवश राक्षस हुआ है। हे राम! जब अगस्त्य न्द को शाप दे कर, मार डाला ॥६) ताटका सह पत्रेण अधर्षयितुमिच्छति । भक्षाथ जातसंरम्भा गर्जन्ती साउभ्यथावत",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 26,
+      "verse": 11,
+      "sloka": "एताम् पश्य दुराधर्षाम् माया बल समन्विताम् ।विनिवृत्ताम् करोमि अद्य हृत कर्णाग्र नासिकाम् ॥१-२६-११॥",
+      "transliteration": "etām paśya durādharṣām māyā bala samanvitām ।vinivṛttām karomi adya hṛta karṇāgra nāsikām ॥1-26-11॥",
+      "translations": {
+        "english": "See, she is unassailable because of the strength gained through black magic. I shall cut off her ears and the tip of her nose and make her turn away.",
+        "hindi": "दल को अपनी ओर आती हुई देख, भगवान्‌ अगस्त्यः ऋषि ने उसके पुत्र मारीच को यह शाप दिया कि, “त्‌ राक्षस: हो जा”",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 26,
+      "verse": 12,
+      "sloka": "न हि एनाम् उत्सहे हन्तुम् स्त्री स्वभावेन रक्षिताम् ।वीर्यम् च अस्या गतिम् च एव हन्यताम् इति मे मतिः ॥१-२६-१२॥",
+      "transliteration": "na hi enām utsahe hantum strī svabhāvena rakṣitām ।vīryam ca asyā gatim ca eva hanyatām iti me matiḥ ॥1-26-12॥",
+      "translations": {
+        "english": "By virtue of being a woman, she is protected. I am not inclined to slay her but take away her prowess and power of motion\".",
+        "hindi": "फिर अगस्त्य जी ने अत्यन्त कुपित हो, ताटका को भी शापः दिया कि, तू मनुष्यभक्षिणी हो जा और तेरी शकल बुरी और: भयानक हो जाय",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 26,
+      "verse": 13,
+      "sloka": "एवम् ब्रुवाणे रामे तु ताटका क्रोध मूर्छिता ।उद्यम्य बाहूम् गर्जन्ती रामम् एव अभ्यधावत ॥१-२६-१३॥",
+      "transliteration": "evam bruvāṇe rāme tu tāṭakā krodha mūrchitā ।udyamya bāhūm garjantī rāmam eva abhyadhāvata ॥1-26-13॥",
+      "translations": {
+        "english": "While Rama was still speaking, Tataka, incensed with fury rushed with her uplifted arms towards him roaring.",
+        "hindi": "तेरा यह रूप न रहे। तू विकराल रूप वाली हो जा। यहः शाप सुन ताटका अत्यन्त कुपित हुई",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 26,
+      "verse": 14,
+      "sloka": "विश्वामित्रस्तु ब्रह्मर्षिः हुंकारेणा अभिभर्त्स्य ताम् ।स्वस्ति राघवयोः अस्तु जयम् च एव अभ्यभाषत ॥१-२६-१४॥",
+      "transliteration": "viśvāmitrastu brahmarṣiḥ huṁkāreṇā abhibhartsya tām ।svasti rāghavayoḥ astu jayam ca eva abhyabhāṣata ॥1-26-14॥",
+      "translations": {
+        "english": "Brahmarshi Viswamitra threatened her with hunkara (menacing sound), uttering, \"Auspices to the Raghavas (Rama and Lakshmana) be aupicousness and success\" victorious.",
+        "hindi": "सो वह शाप को प्राप्त ताटका इस पवित्र देश को उजाडे देती है। क्योंकि अगस्त्य जी इसी देश में तपस्या करते थे। अतएव हे राम ! आप इस दुष्टा, परम दारुण और दुष्ट पराक्रम बाली ताटका को मार कर, गो-त्राह्मण का हित साधन कीजिए । क्योंकि ओर कोई मनुष्य इस शापयुक्ता को नहीं मार सकता",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 26,
+      "verse": 15,
+      "sloka": "उद् धुन्वाना रजो घोरम् ताटका राघवौ उभौ ।रजो मेघेन महता मुहूर्तम् सा व्यमोहयत् ॥१-२६-१५॥",
+      "transliteration": "ud dhunvānā rajo ghoram tāṭakā rāghavau ubhau ।rajo meghena mahatā muhūrtam sā vyamohayat ॥1-26-15॥",
+      "translations": {
+        "english": "Tataka raising a cloud of frightening dust left the descendants of Raghu bewildered quite for a moment.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 26,
+      "verse": 16,
+      "sloka": "ततो मायाम् समास्थाय शिला वर्षेण राघवौ ।अवाकिरत् सुमहता ततः चुक्रोध राघवः ॥१-२६-१६॥",
+      "transliteration": "tato māyām samāsthāya śilā varṣeṇa rāghavau ।avākirat sumahatā tataḥ cukrodha rāghavaḥ ॥1-26-16॥",
+      "translations": {
+        "english": "Then invoking the power of magic, she showered extensive rain of boulders on both the descendants of Raghu. Rama was enraged at this.",
+        "hindi": "हे नरोत्तम ! तीनों लोकों में तुमको छोड़ ऐसा और कोई नहीं है, जो इसे मार सके। ऐसी खी का बध करने में तुम्हारे मन में घृणा उत्पन्न न होनी चाहिए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 26,
+      "verse": 17,
+      "sloka": "शिला वर्षम् महत् तस्याः शर वर्षेण राघवः ।प्रतिवार्यो अपधावन्त्याः करौ चिच्छेद पत्रिभिः ॥१-२६-१७॥",
+      "transliteration": "śilā varṣam mahat tasyāḥ śara varṣeṇa rāghavaḥ ।prativāryo apadhāvantyāḥ karau ciccheda patribhiḥ ॥1-26-17॥",
+      "translations": {
+        "english": "Rama retaliated that mighty rain of rocks with a volley of arrows. While she was advancing towards him, he cut off her hands.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 26,
+      "verse": 18,
+      "sloka": "ततः च्छिन्न भुजाम् श्रान्ताम् अभ्याशे परिगर्जतीम् ।सौमित्रिः अकरोत् क्रोधात् हृत कर्णाग्र नासिकाम् ॥१-२६-१८॥",
+      "transliteration": "tataḥ cchinna bhujām śrāntām abhyāśe parigarjatīm ।saumitriḥ akarot krodhāt hṛta karṇāgra nāsikām ॥1-26-18॥",
+      "translations": {
+        "english": "When she was tired and roaring in a nearby place with her hands chopped off, Lakshmana cut off her ears and the tip of her nose in indignation.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 26,
+      "verse": 19,
+      "sloka": "काम रूपधरा सा तु कृत्वा रूपाणि अनेकशः ।अन्तर्धानम् गता यक्षी मोहयन्ति स्व मायया ॥१-२६-१९॥",
+      "transliteration": "kāma rūpadharā sā tu kṛtvā rūpāṇi anekaśaḥ ।antardhānam gatā yakṣī mohayanti sva māyayā ॥1-26-19॥",
+      "translations": {
+        "english": "Capable of assuming forms at will, that yakshini intending to delude the princes through her power of magic, vanished from the sight. She then assumed various forms and released a rain of rocks. And started moving about frightfully.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 26,
+      "verse": 20,
+      "sloka": "अश्म वर्षम् विमुंचन्ती भैरवम् विचचार सा।ततः तौ अश्म वर्षेण कीर्यमाणौ समन्ततः ॥१-२६-२०॥",
+      "transliteration": "aśma varṣam vimuṁcantī bhairavam vicacāra sā।tataḥ tau aśma varṣeṇa kīryamāṇau samantataḥ ॥1-26-20॥",
+      "translations": {
+        "english": "On seeing them hit and thrown about by a rain of stones from all sides, the auspicious son of Gadhi, (Viswamitra) spoke these words:",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 26,
+      "verse": 21,
+      "sloka": "दृष्ट्वा गाधि सुतः श्रीईमान् इदम् वचनम् अब्रवीत् ।अलम् ते घृणया राम पापा एषा दुष्ट चारिणी ॥१-२६-२१॥",
+      "transliteration": "dṛṣṭvā gādhi sutaḥ śrīīmān idam vacanam abravīt ।alam te ghṛṇayā rāma pāpā eṣā duṣṭa cāriṇī ॥1-26-21॥",
+      "translations": {
+        "english": "\"O Rama she does not deserve any more compassion. This yakshini who is sinful, wicked and obstructor of sacrifice will regain her strength by her magical powers \".",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 26,
+      "verse": 22,
+      "sloka": "यज्ञ विघ्न करी यक्षी पुरा वर्धेत मायया ।वध्यताम् तावत् एव एषा पुरा संध्या प्रवर्तते ॥१-२६-२२॥",
+      "transliteration": "yajña vighna karī yakṣī purā vardheta māyayā ।vadhyatām tāvat eva eṣā purā saṁdhyā pravartate ॥1-26-22॥",
+      "translations": {
+        "english": "Kill her, for dusk is fast approaching. During evening the strength of rakshasas tends to increase and they become unassailable\".",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 26,
+      "verse": 23,
+      "sloka": "रक्षांसि संध्या काले तु दुर्धर्षाणि भवन्ति हि ।इति उक्तः स तु ताम् यक्षीम् अश्म वृष्ट्या अभिवर्षणीम् ॥१-२६-२३॥",
+      "transliteration": "rakṣāṁsi saṁdhyā kāle tu durdharṣāṇi bhavanti hi ।iti uktaḥ sa tu tām yakṣīm aśma vṛṣṭyā abhivarṣaṇīm ॥1-26-23॥",
+      "translations": {
+        "english": "Addressed thus (by Viswamitra), Rama attacked her exhibiting his skill in targetting her by the sound and prevented with arrows the yakshini from showering stones.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 26,
+      "verse": 24,
+      "sloka": "दर्शयन् शब्द वेधित्वम् ताम् रुरोध स सायकैः ।सा रुद्धा बाण जालेन माया बल समन्विता ॥१-२६-२४॥",
+      "transliteration": "darśayan śabda vedhitvam tām rurodha sa sāyakaiḥ ।sā ruddhā bāṇa jālena māyā bala samanvitā ॥1-26-24॥",
+      "translations": {
+        "english": ". Prevented by a multitude of arrows, she with her magical powers, advanced towards Rama and Lakshmanaroaring.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 26,
+      "verse": 25,
+      "sloka": "अभि दुद्राव काकुत्स्थम् लक्षमणम् च विनेषुदी।ताम् आपतन्तीम् वेगेन विक्रान्ताम् अशनीम् इव ॥१-२६-२५॥",
+      "transliteration": "abhi dudrāva kākutstham lakṣamaṇam ca vineṣudī।tām āpatantīm vegena vikrāntām aśanīm iva ॥1-26-25॥",
+      "translations": {
+        "english": "Her chest pierced with an arrow, she rushing menacingly towards them like a thunderbolt fell down dead.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 26,
+      "verse": 26,
+      "sloka": "शरेण उरसि विव्याध सा पपात ममार च ।ताम् हताम् भीम संकाशाम् दृष्ट्वा सुरपतिः तदा ॥१-२६-२६॥",
+      "transliteration": "śareṇa urasi vivyādha sā papāta mamāra ca ।tām hatām bhīma saṁkāśām dṛṣṭvā surapatiḥ tadā ॥1-26-26॥",
+      "translations": {
+        "english": "Having seen the slain yakshini of terrible appearance, Indra and other celestials worshipped Rama, exclaiming \"well done, well done \".",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 26,
+      "verse": 27,
+      "sloka": "साधु साध्विति काकुत्स्थम् सुराः च अपि अभिपूजयन् ।उवाच परम प्रीतः सहस्राक्षः पुरन्दरः ॥१-२६-२७॥",
+      "transliteration": "sādhu sādhviti kākutstham surāḥ ca api abhipūjayan ।uvāca parama prītaḥ sahasrākṣaḥ purandaraḥ ॥1-26-27॥",
+      "translations": {
+        "english": "Then exceedingly pleased the thousandeyed Indra and all other delighted celestials said to Viswamitra:",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 26,
+      "verse": 28,
+      "sloka": "सुराः च सर्वे संहृष्टा विश्वामित्रम् अथ अब्रुवन् ।मुने कौशिक भद्रम् ते सह इन्द्राः सर्वे मरुद् गणाः ॥१-२६-२८॥",
+      "transliteration": "surāḥ ca sarve saṁhṛṣṭā viśvāmitram atha abruvan ।mune kauśika bhadram te saha indrāḥ sarve marud gaṇāḥ ॥1-26-28॥",
+      "translations": {
+        "english": "\"O ascetic Kausika, may prosperity be to you All devatas have been gratified by this act (of Rama) and have expressed their love for Rama.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 26,
+      "verse": 29,
+      "sloka": "तोषिताः कर्मणा अनेन स्नेहम् दर्शय राघवे ।प्रजापतेः कृशाश्वस्य पुत्रान् सत्य पराक्रमान् ॥१-२६-२९॥",
+      "transliteration": "toṣitāḥ karmaṇā anena sneham darśaya rāghave ।prajāpateḥ kṛśāśvasya putrān satya parākramān ॥1-26-29॥",
+      "translations": {
+        "english": "\"O Brahmarshi, you may offer to Rama, the sons of Prajapati Brishasva who are the weapons bestowed with the power that comes from truth and ascetic energy\".",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 26,
+      "verse": 30,
+      "sloka": "तपो बल भृतो ब्रह्मन् राघवाय निवेदय ।पात्रभूतः च ते ब्रह्मन् तव अनुगमने रतः ॥१-२६-३०॥",
+      "transliteration": "tapo bala bhṛto brahman rāghavāya nivedaya ।pātrabhūtaḥ ca te brahman tava anugamane rataḥ ॥1-26-30॥",
+      "translations": {
+        "english": "\"O Brahmarshi following you with firmness of mind, Rama is worthy to receive the weapons. He who is a prince has to accomplish many such great tasks for the benefit of the celestials\".",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 26,
+      "verse": 31,
+      "sloka": "कर्तव्यम् सुमहत् कर्म सुराणाम् राज सूनुना ।एवम् उक्त्वा सुराः सर्वे जग्मुर् हृष्टा विहायसम् ॥१-२६-३१॥",
+      "transliteration": "kartavyam sumahat karma surāṇām rāja sūnunā ।evam uktvā surāḥ sarve jagmur hṛṣṭā vihāyasam ॥1-26-31॥",
+      "translations": {
+        "english": "Having said these words, the celestials were pleased. They honoured Viswamitra and returned to their abodes from where they had come. And then dusk set in.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 26,
+      "verse": 32,
+      "sloka": "विश्वामित्रम् पूजयन् ततः संध्या प्रवर्तते ।ततो मुनिवरः प्रीतः ताटका वध तोषितः ॥१-२६-३२॥",
+      "transliteration": "viśvāmitram pūjayan tataḥ saṁdhyā pravartate ।tato munivaraḥ prītaḥ tāṭakā vadha toṣitaḥ ॥1-26-32॥",
+      "translations": {
+        "english": "Then, the best of ascetics Viswamitra rejoiced over the death of Tataka, kissed the forehead of Rama (fondly) and spoke these words:",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 26,
+      "verse": 33,
+      "sloka": "मूर्ध्नि रामम् उपाघ्राय इदम् वचनम् अब्रवीत् ।इह अद्य रजनीम् राम वसाम शुभ दर्शन ॥१-२६-३३॥",
+      "transliteration": "mūrdhni rāmam upāghrāya idam vacanam abravīt ।iha adya rajanīm rāma vasāma śubha darśana ॥1-26-33॥",
+      "translations": {
+        "english": "\"O auspiciouslooking Rama tonight we shall stay here. Tomorrow morning we proceed to my hermitage\".",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 26,
+      "verse": 34,
+      "sloka": "श्वः प्रभाते गमिष्यामः तद् आश्रम पदम् मम ।विश्वामित्रः वचः श्रुत्वा हृष्टो दशरधात्मजः ॥१-२६-३४॥",
+      "transliteration": "śvaḥ prabhāte gamiṣyāmaḥ tad āśrama padam mama ।viśvāmitraḥ vacaḥ śrutvā hṛṣṭo daśaradhātmajaḥ ॥1-26-34॥",
+      "translations": {
+        "english": "Having heard the words of Viswamitra, Rama rejoiced and rested happily that night in the Tataka forest .",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 26,
+      "verse": 35,
+      "sloka": "उवास रजनीम् तत्र ताटकाया वने सुखम् ।मुक्त शापम् वनम् तत् च तस्मिन् एव तत् आहनि ।रमणीयम् विबभ्राज यथा चैत्र रथम् वनम् ॥१-२६-३५॥",
+      "transliteration": "uvāsa rajanīm tatra tāṭakāyā vane sukham ।mukta śāpam vanam tat ca tasmin eva tat āhani ।ramaṇīyam vibabhrāja yathā caitra ratham vanam ॥1-26-35॥",
+      "translations": {
+        "english": "Freed from the curse from that day that forest looked charming and shone like Chitraratha Kubera's (garden).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 26,
+      "verse": 36,
+      "sloka": "निहत्य ताम् यक्ष सुताम् स रामःप्रशस्यमानः सुर सिद्ध सन्घैः ।उवास तस्मिन् मुनिना सह एवप्रभात वेलाम् प्रति बोध्यमानः ॥१-२६-३६॥",
+      "transliteration": "nihatya tām yakṣa sutām sa rāmaḥpraśasyamānaḥ sura siddha sanghaiḥ ।uvāsa tasmin muninā saha evaprabhāta velām prati bodhyamānaḥ ॥1-26-36॥",
+      "translations": {
+        "english": "Rama having killed the daughter of yaksha was praised by multitudes of devatas and siddhas. He stayed in the same forest with the sage. At the first glimpse of dawn, he was awakened by the sage (Viswamitra). इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे षड्विंशस्सर्ग:।।7 Thus ends the twentysixth sarga of Balakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

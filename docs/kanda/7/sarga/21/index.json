@@ -1,0 +1,653 @@
+{
+  "kanda": 7,
+  "kanda_name": "Uttara Kanda",
+  "kanda_name_sanskrit": "उत्तरकाण्डम्",
+  "sarga": 21,
+  "verses_count": 46,
+  "verses": [
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 21,
+      "verse": 1,
+      "sloka": "एवं सञ्चिन्त्य विप्रेन्दो जगाम लघुविक्रमः ।आख्यातुं तद्यथावृत्तं यमस्य सदनं प्रति ।। ७.२१.१ ॥",
+      "transliteration": "evaṁ sañcintya viprendo jagāma laghuvikramaḥ ।ākhyātuṁ tadyathāvṛttaṁ yamasya sadanaṁ prati ।। 7.21.1 ॥",
+      "translations": {
+        "english": "Having thus pondered, Narada, moving swiftly, went towards Yama's abode to narrate the events as they had transpired.",
+        "hindi": "उक्वरकाश्छ का उन्नीसबाँ सगे समाप्त हुआ | —*- >.) ~१— वशाः सग —>०>१—— ततो वित्रासयन्‌ सत्यान्‌ प्रथिव्यां राक्षसाधिपः । ऋससाद घने' तास्मन्नारद झुनपुङ्गवस्‌",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 21,
+      "verse": 2,
+      "sloka": "अपश्यत्स यमं तत्र देवमग्निपुरस्कृतम् ।विधानमुपतिष्ठन्तं प्राणिनो यस्य यादृशम् ।। ७.२१.२ ॥",
+      "transliteration": "apaśyatsa yamaṁ tatra devamagnipuraskṛtam ।vidhānamupatiṣṭhantaṁ prāṇino yasya yādṛśam ।। 7.21.2 ॥",
+      "translations": {
+        "english": "There, Narada saw the god Yama, honored by fire, administering the fate of all beings as it was ordained for each.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 21,
+      "verse": 3,
+      "sloka": "स तु दृष्ट्वा यमः प्राप्तं महर्षिं तत्र नारदम् ।अब्रवीत्सुखमासीनमर्घ्यमावेद्य धर्मतः ।। ७.२१.३ ॥",
+      "transliteration": "sa tu dṛṣṭvā yamaḥ prāptaṁ maharṣiṁ tatra nāradam ।abravītsukhamāsīnamarghyamāvedya dharmataḥ ।। 7.21.3 ॥",
+      "translations": {
+        "english": "Upon seeing the great sage Narada arrive there, Yama, having properly offered him a water offering and seated him comfortably, then spoke.",
+        "hindi": "असित प्रभावान्‌ महातेजस्वी देवषि नारद ने मेघ की पीठ पर बैठे ही बेठे पुष्पक विमान पर सवार रावण से कहा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 21,
+      "verse": 4,
+      "sloka": "कच्चित्क्षेमं तु देवर्षे कच्चिद्धर्मो न नश्यति ।किमागमनकृत्यं ते देवगन्धर्वसेवित ।। ७.२१.४ ॥",
+      "transliteration": "kaccitkṣemaṁ tu devarṣe kacciddharmo na naśyati ।kimāgamanakṛtyaṁ te devagandharvasevita ।। 7.21.4 ॥",
+      "translations": {
+        "english": "Yama asked, \"O divine sage, is all well with you, and is dharma not perishing? What is the purpose of your visit, O one revered by gods and gandharvas?\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 21,
+      "verse": 5,
+      "sloka": "अब्रवीत्तु तदा वाक्यं नारदो भगवानृषिः ।श्रूयतामभिधास्यामि विधानं च विधीयताम् ।। ७.२१.५ ॥",
+      "transliteration": "abravīttu tadā vākyaṁ nārado bhagavānṛṣiḥ ।śrūyatāmabhidhāsyāmi vidhānaṁ ca vidhīyatām ।। 7.21.5 ॥",
+      "translations": {
+        "english": "Then, the revered sage Narada spoke these words: \"Listen, I will tell you the plan, and let it be carried out.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 21,
+      "verse": 6,
+      "sloka": "एष नाम्नो दशग्रीवः पितृराज निशाचरः ।उपयाति वशं नेतुं विक्रमैस्त्वां सुदुर्जयम् ।। ७.२१.६ ॥",
+      "transliteration": "eṣa nāmno daśagrīvaḥ pitṛrāja niśācaraḥ ।upayāti vaśaṁ netuṁ vikramaistvāṁ sudurjayam ।। 7.21.6 ॥",
+      "translations": {
+        "english": "O King of Pitrus, this demon named Dashagriva is approaching to bring you, who are very difficult to conquer, under his control through his valor.",
+        "hindi": "हे विश्ववानन्दन सौम्य रादासराज ! खड़े रहो । में तम्हारे मन्त्रियो ओर तुम्हारे विक्रम पर बड़ा प्रसन्न हूँ ४॥ १ घने--घनपृष्ठे स्थित | ( गो ) विष्णुना दैत्यबातेश्र अन्धर्वोरमथष शेः । त्वया समं विमदश्च भृशं हि पार जैसे बिष्णु के दैत्यां को परा ने पर से संतुष्ट हुआ, वैसे ही गन्धर्व नागादिकों को पराजित करने के कारण, में तमसे भी संतष्ट हुआ हूँ ॥ % ॥। किंविह्च्यामि छतावतत श्रोतव्यं श्रोप्यसे यदि । तन्‌ में निगदतस्वात सामंथि श्रवणे छुछ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 21,
+      "verse": 7,
+      "sloka": "एतेन कारणेनाहं त्वरितो ह्यागतः प्रभो ।दण्डप्रहरणस्याद्य तव किं नु भविष्यति ।। ७.२१.७ ॥",
+      "transliteration": "etena kāraṇenāhaṁ tvarito hyāgataḥ prabho ।daṇḍapraharaṇasyādya tava kiṁ nu bhaviṣyati ।। 7.21.7 ॥",
+      "translations": {
+        "english": "O Lord, it is for this reason that I have quickly come; what will happen today to you, the wielder of the staff of punishment?",
+        "hindi": "हे तात! तू तो देवताओं से भी अवध्य हे, अतः इन बेचारे सहुष्यां को क्या मारता है । ये तो स्वयं ही मृत्यु के वश में पड़े हुए हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 21,
+      "verse": 8,
+      "sloka": "एतस्मिन्नन्तरे दुरादंशुमन्तमिवोदितम् ।ददृशुर्दीप्तमायान्तं विमानं तस्य रक्षसः ।। ७.२१.८ ॥",
+      "transliteration": "etasminnantare durādaṁśumantamivoditam ।dadṛśurdīptamāyāntaṁ vimānaṁ tasya rakṣasaḥ ।। 7.21.8 ॥",
+      "translations": {
+        "english": "In the meantime, from afar, they saw the demon's radiant aerial chariot approaching, shining like the rising sun.",
+        "hindi": "अतः देवता, दानव, दैत्य, यदा, गन्धव ओर राक्षसों से भी अवध्य हो कर, तुझको इन बेचारे मनुष्यों को सताना उचित नहीं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 21,
+      "verse": 9,
+      "sloka": "तं देशं प्रभया तस्य पुष्पकस्य महाबलः ।कृत्वा वितिमिरं सर्वं समीपं सो ऽभ्यवर्तत ।। ७.२१.९ ॥",
+      "transliteration": "taṁ deśaṁ prabhayā tasya puṣpakasya mahābalaḥ ।kṛtvā vitimiraṁ sarvaṁ samīpaṁ so 'bhyavartata ।। 7.21.9 ॥",
+      "translations": {
+        "english": "The mighty one, Ravana, having illuminated the entire region with the radiance of his Pushpaka chariot, then approached that place.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 21,
+      "verse": 10,
+      "sloka": "सो ऽपश्यत्स महाबाहुर्दशग्रीवस्ततस्ततः ।प्राणिनः सुकृतं कर्म भुञ्जानांश्चैव दुष्कृतम् ।। ७.२१.१० ॥",
+      "transliteration": "so 'paśyatsa mahābāhurdaśagrīvastatastataḥ ।prāṇinaḥ sukṛtaṁ karma bhuñjānāṁścaiva duṣkṛtam ।। 7.21.10 ॥",
+      "translations": {
+        "english": "The mighty-armed Dashagriva saw living beings everywhere experiencing the fruits of both their good and evil deeds.",
+        "hindi": "मनुष्य जहाँ तहाँ अनेक अनिष्टों से सदा पीड़ित रहा करते हें । अत: ऐसा कोन समझदार मलुष्य होगा, जो इन पर शस्र उठावे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 21,
+      "verse": 11,
+      "sloka": "अपश्यत्सैनिकांश्चास्य यमस्यानुचरैः सह ।यमस्य पुरुषैरुग्रैर्घोररूपैर्भयानकैः ।। ७.२१.११ ॥",
+      "transliteration": "apaśyatsainikāṁścāsya yamasyānucaraiḥ saha ।yamasya puruṣairugrairghorarūpairbhayānakaiḥ ।। 7.21.11 ॥",
+      "translations": {
+        "english": "He also saw Yama's soldiers along with his fierce, dreadful, and terrifying attendants.",
+        "hindi": "हे राक्षसराज ! भूख, प्यास, घुढापे आदि से दैव द्वारा निइत मनुष्य सदा क्षीण होते हैं तथा शोक एब विषाद सेवे सदा कातरं रहा करते हैं। अतः तू उन्‍हें वृथा नष्ट मत कर",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 21,
+      "verse": 12,
+      "sloka": "ददर्श वध्यमानांश्च क्लिश्यमानांश्च देहिनः ।क्रोशतश्च महानादं तीव्रनिष्टनतत्परान् ।। ७.२१.१२ ॥",
+      "transliteration": "dadarśa vadhyamānāṁśca kliśyamānāṁśca dehinaḥ ।krośataśca mahānādaṁ tīvraniṣṭanatatparān ।। 7.21.12 ॥",
+      "translations": {
+        "english": "He saw embodied beings being killed and tormented, crying out with a great cry and intent on intense wailing.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 21,
+      "verse": 13,
+      "sloka": "कृमिभिर्भक्ष्यमाणांश्च सारमेयैश्च दारुणैः ।। ७.२१.१३ ॥",
+      "transliteration": "kṛmibhirbhakṣyamāṇāṁśca sārameyaiśca dāruṇaiḥ ।। 7.21.13 ॥",
+      "translations": {
+        "english": "He saw them being devoured by worms and by fierce dogs.",
+        "hindi": "देखो न; कहीं तो प्रसन्न हो कर बहुत से लोग नाचते गाते हैँ और कही अन्य लोग दुःखी हो आँसू बहात हुए रोत हें",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 21,
+      "verse": 14,
+      "sloka": "क्षोत्रायासकरा वाचो वदतश्च भयावहाः ।सन्तार्यमाणान्वैतरणीं बहुशः शोणितोदकाम् ।। ७.२१.१४ ॥",
+      "transliteration": "kṣotrāyāsakarā vāco vadataśca bhayāvahāḥ ।santāryamāṇānvaitaraṇīṁ bahuśaḥ śoṇitodakām ।। 7.21.14 ॥",
+      "translations": {
+        "english": "He heard them uttering terrifying cries that caused distress to the ears, and saw them repeatedly being made to cross the Vaitarani river, whose waters were blood.",
+        "hindi": "साता, पिता, पुत्र, स्री ऑर भाइबंदों के स्नेह में जकडे हुए ये लोग मोहित हो कर नष्ट हो रहे हें । इसीसे उन्हें अपना क्कश तक मालूम नहाँ पड़ता",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 21,
+      "verse": 15,
+      "sloka": "वालुकासु च तप्तासु तप्यमानान्मुहूर्मुहुः ।असिपत्रवने चैव भिद्यमानानधार्मिकान् ।। ७.२१.१५ ॥",
+      "transliteration": "vālukāsu ca taptāsu tapyamānānmuhūrmuhuḥ ।asipatravane caiva bhidyamānānadhārmikān ।। 7.21.15 ॥",
+      "translations": {
+        "english": "Ravana saw the unrighteous being tormented repeatedly in hot sands and cut in the forest of sword-leaves.",
+        "hindi": "अतः मोह में फंस स्वयं नष्ट होने वाले मर्त्यलोक को दुःखी कर तू क्या करेगा ? तू निस्संशय इस लोक को जीत तो चुका ही है ( अतः मनुष्यों को सता कर क्या करेगा )",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 21,
+      "verse": 16,
+      "sloka": "रौरवे क्षारनद्यां च क्षुरधारासु चैव हि ।पानीयं याचमानांश्च तृषितान्क्षुधितानपि ।। ७.२१.१६ ॥",
+      "transliteration": "raurave kṣāranadyāṁ ca kṣuradhārāsu caiva hi ।pānīyaṁ yācamānāṁśca tṛṣitānkṣudhitānapi ।। 7.21.16 ॥",
+      "translations": {
+        "english": "He also saw them in Raurava hell, in the caustic river, and on razor-sharp edges, begging for water while thirsty and hungry.",
+        "hindi": "मत्येलोक के समस्त जीव यमपुरी में अवश्य जायेगे । अतएव हे परपुर को जीतने वाले प॒लस्त्य के पौत्र ! त यमराज की पुरी पर चढाई कर",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 21,
+      "verse": 17,
+      "sloka": "शवभूतान्कृशान्दीनान्विवर्णान्मुक्तमूर्धजान् ।मलपङ्कधरान्दीनान्रूक्षांश्च परिधावतः ।। ७.२१.१७ ॥",
+      "transliteration": "śavabhūtānkṛśāndīnānvivarṇānmuktamūrdhajān ।malapaṅkadharāndīnānrūkṣāṁśca paridhāvataḥ ।। 7.21.17 ॥",
+      "translations": {
+        "english": "These miserable beings appeared like corpses, emaciated, discolored, with disheveled hair, covered in dirt and mud, and were running around frantically.",
+        "hindi": "क्योंकि उसके जीत लेने पर निस्सन्देह त अपने को सब को जीता हुआ समम। अपने तेज से दीप्तिमान लङ्कापति रावण इस प्रकार नारद जी द्वारा समभाये जाने पर",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 21,
+      "verse": 18,
+      "sloka": "ददर्श रावणो मार्गे शतशो ऽथ सहस्रशः ।कांश्चिच्च गृहमुख्येषु गीतवादित्रनिःस्वनैः ।प्रमोदमानानद्राक्षीद्रावणः सुकृतैः स्वकैः ।। ७.२१.१८ ॥",
+      "transliteration": "dadarśa rāvaṇo mārge śataśo 'tha sahasraśaḥ ।kāṁścicca gṛhamukhyeṣu gītavāditraniḥsvanaiḥ ।pramodamānānadrākṣīdrāvaṇaḥ sukṛtaiḥ svakaiḥ ।। 7.21.18 ॥",
+      "translations": {
+        "english": "Ravana saw hundreds and thousands of such beings on his path, but he also saw others rejoicing in splendid houses with sounds of music and singing, enjoying the fruits of their own good deeds.",
+        "hindi": "नारद जी को प्रणास कर ओर मुसक्याता हुआ कहने लगा । हे देवर्ष ! हे देव-गन्धवे-ज्ञोक-विहार-प्रिये ! हो समर-दशेन- प्रिये !",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 21,
+      "verse": 19,
+      "sloka": "गौरसं गोप्रदातारो ह्यन्नं चैवान्नदायिनः ।गृहांश्च गृहदातारः स्वकर्मफलमश्नतः ।। ७.२१.१९ ॥",
+      "transliteration": "gaurasaṁ gopradātāro hyannaṁ caivānnadāyinaḥ ।gṛhāṁśca gṛhadātāraḥ svakarmaphalamaśnataḥ ।। 7.21.19 ॥",
+      "translations": {
+        "english": "Those who gave cows enjoyed milk products, givers of food enjoyed food, and givers of houses enjoyed houses, thus partaking in the fruits of their own good deeds.",
+        "hindi": "हे महाबलवान राक्षसराज ! देखो मलुष्य जाति इतनी मूढ है कि वह अपने सुख दुःख भोग करने के हीर को भी नहीं जानती और विविध भाँति के साधारण पुरुषार्था में अनुरक्त रहा करती है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 21,
+      "verse": 20,
+      "sloka": "सुवर्णमणिमुक्ताभिः प्रमदाभिरलङ्कृतान् ।। ७.२१.२० ॥",
+      "transliteration": "suvarṇamaṇimuktābhiḥ pramadābhiralaṅkṛtān ।। 7.21.20 ॥",
+      "translations": {
+        "english": "This describes beings who were adorned by beautiful women with gold, gems, and pearls.",
+        "hindi": "इस पर भगवान्‌ नारद ऋषि ने दशग्रीब से कहा-यदि तुमे रसातल ही में जाना है, तो दूसरे रास्ते से क्यों जाता है ?",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 21,
+      "verse": 21,
+      "sloka": "धार्मिकानपरांस्तत्र दीप्यमानान्स्वतेजसा ।ददर्श सुमहाबाहू रावणो राक्षसाधिपः ।। ७.२१.२१ ॥",
+      "transliteration": "dhārmikānaparāṁstatra dīpyamānānsvatejasā ।dadarśa sumahābāhū rāvaṇo rākṣasādhipaḥ ।। 7.21.21 ॥",
+      "translations": {
+        "english": "The very mighty-armed Ravana, the lord of Rakshasas, saw other righteous beings there, shining with their own splendor.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 21,
+      "verse": 22,
+      "sloka": "ततस्तान्भिद्यमानांश्च कर्मभिर्दुष्कृतैः स्वकैः ।रावणो मोचयामास विक्रमेण बलाद्बली ।। ७.२१.२२ ॥",
+      "transliteration": "tatastānbhidyamānāṁśca karmabhirduṣkṛtaiḥ svakaiḥ ।rāvaṇo mocayāmāsa vikrameṇa balādbalī ।। 7.21.22 ॥",
+      "translations": {
+        "english": "Then, the powerful Ravana, by his valor and force, released those who were being tormented by their own evil deeds.",
+        "hindi": "बा० रा० २-१४ १८६ उत्तरकाण्डे यह सुन कर रावण, शरद ऋतु के बादल की तरह बड़े जोर से हँस कर महाद्युतिमान्‌ नारद जी से बोला । उसने कहा- बहुत अच्छा हम ऐसा ही करेंगे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 21,
+      "verse": 23,
+      "sloka": "प्राणिनो मोचितास्तेन दशग्रीवेण रक्षसा ।सुखमापुर्मुहूर्तं ते ह्यतर्कितमचिन्तितम् ।। ७.२१.२३ ॥",
+      "transliteration": "prāṇino mocitāstena daśagrīveṇa rakṣasā ।sukhamāpurmuhūrtaṁ te hyatarkitamacintitam ।। 7.21.23 ॥",
+      "translations": {
+        "english": "The beings released by that Rakshasa Dashagriva indeed attained unexpected and unthought-of happiness for a moment.",
+        "hindi": "हे महाब्रह्मन्‌ ! तो में अब यम ही का वध करने के लिए दक्षिण दिशा के मार्ग से वहाँ जाता हूँ, जहाँ सूयपुत्र यमराज रहते हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 21,
+      "verse": 24,
+      "sloka": "प्रेतेषु मुच्यमानेषु राक्षसेन महीयसा ।प्रेतगोपाः सुसङ्क्रुद्धा राक्षसेन्द्रमभिद्रवन् ।। ७.२१.२४ ॥",
+      "transliteration": "preteṣu mucyamāneṣu rākṣasena mahīyasā ।pretagopāḥ susaṅkruddhā rākṣasendramabhidravan ।। 7.21.24 ॥",
+      "translations": {
+        "english": "When the dead were being released by the mighty Rakshasa, the guardians of the dead became very enraged and rushed towards the lord of Rakshasas.",
+        "hindi": "हे प्रभो ! मेंने संग्राम करने की इच्छा से क्रोध में भर पढिले प्रतिज्ञा भी की थी कि, में चारों लोकपालों को जीतूँगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 21,
+      "verse": 25,
+      "sloka": "ततो हलहलाशब्दः सर्वदिग्भ्यः समुत्थितः ।धर्मराजस्य योधानां शूराणां सम्प्रधावताम् ।। ७.२१.२५ ॥",
+      "transliteration": "tato halahalāśabdaḥ sarvadigbhyaḥ samutthitaḥ ।dharmarājasya yodhānāṁ śūrāṇāṁ sampradhāvatām ।। 7.21.25 ॥",
+      "translations": {
+        "english": "Then, a great tumultuous roar arose from all directions, made by the brave warriors of Yama who were charging forward.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 21,
+      "verse": 26,
+      "sloka": "ते प्रासैः परिघैः शूलैर्मुसलैः शक्तितोमरैः ।पुष्पकं समवर्षन्त शूराः शतसहस्रशः ।। ७.२१.२६ ॥",
+      "transliteration": "te prāsaiḥ parighaiḥ śūlairmusalaiḥ śaktitomaraiḥ ।puṣpakaṁ samavarṣanta śūrāḥ śatasahasraśaḥ ।। 7.21.26 ॥",
+      "translations": {
+        "english": "Hundreds of thousands of those brave warriors showered the Pushpaka chariot with spears, iron clubs, lances, maces, javelins, and other missiles.",
+        "hindi": "जो यमशाज स्वयं जगतसाचषो हैं और दूसरे अग्नि के समान तेजस्वी हैं, जिनके प्रताप से समस्त लोक सचेत हो सांसारिक कार्यं किआ करते हैं.",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 21,
+      "verse": 27,
+      "sloka": "तस्यासनानि प्रासादान्वेदिकास्तोरणानि च ।पुष्पकस्य बभञ्जुस्ते शीघ्रं मधुकरा इव ।। ७.२१.२७ ॥",
+      "transliteration": "tasyāsanāni prāsādānvedikāstoraṇāni ca ।puṣpakasya babhañjuste śīghraṁ madhukarā iva ।। 7.21.27 ॥",
+      "translations": {
+        "english": "They quickly shattered the seats, palaces, platforms, and archways of the Pushpaka chariot, just like bees.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 21,
+      "verse": 28,
+      "sloka": "देवनिष्ठानभूतं तद्विमानं पुष्पकं मृधे ।भज्यमानं तथैवासीदक्षयं ब्रह्मतेजसा ।। ७.२१.२८ ॥",
+      "transliteration": "devaniṣṭhānabhūtaṁ tadvimānaṁ puṣpakaṁ mṛdhe ।bhajyamānaṁ tathaivāsīdakṣayaṁ brahmatejasā ।। 7.21.28 ॥",
+      "translations": {
+        "english": "Even though that divine Pushpaka aerial chariot, which was a dwelling place for gods, was being shattered in battle, it remained indestructible due to the power of Brahma.",
+        "hindi": "कि जो आयुष्य के क्षीण होने पर इन्द्र सहित तीनों लोकों को धर्मतः ( अर्थात्‌ न्यायतः ) केरा देता है, बह काल, क्‍यों कर जीता जा सकेगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 21,
+      "verse": 29,
+      "sloka": "असङ्ख्या सुमहत्यासीत्तस्य सेना महात्मनः ।शूराणामग्रयातऽणां सहस्राणि शतानि च ।। ७.२१.२९ ॥",
+      "transliteration": "asaṅkhyā sumahatyāsīttasya senā mahātmanaḥ ।śūrāṇāmagrayāta'ṇāṁ sahasrāṇi śatāni ca ।। 7.21.29 ॥",
+      "translations": {
+        "english": "The army of that great-souled Yama was immeasurably vast, comprising hundreds and thousands of brave warriors leading the charge.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 21,
+      "verse": 30,
+      "sloka": "ततो वृक्षैश्च शैलैश्च प्रासादानां शतैस्तथा ।ततस्ते सचिवास्तस्य यथाकामं यथाबलम् ।अयुध्यन्त महावीराः स च राजा दशाननः ।। ७.२१.३० ॥",
+      "transliteration": "tato vṛkṣaiśca śailaiśca prāsādānāṁ śataistathā ।tataste sacivāstasya yathākāmaṁ yathābalam ।ayudhyanta mahāvīrāḥ sa ca rājā daśānanaḥ ।। 7.21.30 ॥",
+      "translations": {
+        "english": "Then, those great heroic ministers of Ravana, along with King Dashanana himself, fought using trees, mountains, and hundreds of palaces, as they wished and according to their strength.",
+        "hindi": "आर जिनके भय से व्याकुल हो त्रिलोकी आगती है, उन यमराज के निकट यह राक्षसश्रेष्ठ रावण अपनी इच्छानुसार क्यों कर जा सकेगा ?",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 21,
+      "verse": 31,
+      "sloka": "ते तु शोणितदिग्धाङ्गाः सर्वशस्त्रसमाहताः ।अमात्या राक्षसेन्द्रस्य चक्रुरायोधनं महत् ।। ७.२१.३१ ॥",
+      "transliteration": "te tu śoṇitadigdhāṅgāḥ sarvaśastrasamāhatāḥ ।amātyā rākṣasendrasya cakrurāyodhanaṁ mahat ।। 7.21.31 ॥",
+      "translations": {
+        "english": "Though their limbs were smeared with blood and they were struck by all sorts of weapons, those ministers of the Rakshasa king waged a great battle.",
+        "hindi": "जो संसार के धाता विधाता हैं, जो पुण्य और पाप के फल देनेवाले हें, जो शासनकत्तो हैं तथा जिन्होंने तीनों लोक जीत प कार्डे रखे हैं, उन यमराज को यह कैसे जीत लेगा ? फिर उनसे हु, ~ ~ २. 3 लड़ कर यह और कौन सा काभ करेगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 21,
+      "verse": 32,
+      "sloka": "अन्योन्यं ते महाभागा जघ्नुः प्रहरणैर्भृशम् ।यमस्य च महाबाहो रावणस्य च मन्त्रिणः ।। ७.२१.३२ ॥",
+      "transliteration": "anyonyaṁ te mahābhāgā jaghnuḥ praharaṇairbhṛśam ।yamasya ca mahābāho rāvaṇasya ca mantriṇaḥ ।। 7.21.32 ॥",
+      "translations": {
+        "english": "O mighty-armed one, those great ministers of Yama and Ravana fiercely struck each other with their weapons.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 21,
+      "verse": 33,
+      "sloka": "अमात्यांस्तांस्तु सन्त्यज्य यमयोधा महाबलाः ।तमेव चाभ्यधावन्त शूलवर्षैर्दशाननम् ।। ७.२१.३३ ॥",
+      "transliteration": "amātyāṁstāṁstu santyajya yamayodhā mahābalāḥ ।tameva cābhyadhāvanta śūlavarṣairdaśānanam ।। 7.21.33 ॥",
+      "translations": {
+        "english": "The mighty warriors of Yama, abandoning those ministers, rushed directly towards Dashanana (Ravana) with showers of spears.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 21,
+      "verse": 34,
+      "sloka": "ततः शोणितदिग्धाङ्गः प्रहारैर्जर्जरीकृतः ।फुल्लाशोक इवाभाति पुष्पके राक्षसाधिपः ।। ७.२१.३४ ॥",
+      "transliteration": "tataḥ śoṇitadigdhāṅgaḥ prahārairjarjarīkṛtaḥ ।phullāśoka ivābhāti puṣpake rākṣasādhipaḥ ।। 7.21.34 ॥",
+      "translations": {
+        "english": "Then, the lord of Rakshasas, Ravana, with his limbs smeared with blood and wounded by the blows, appeared on his Pushpaka chariot like a blooming Ashoka tree.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 21,
+      "verse": 35,
+      "sloka": "स तु शूलगदापासाञ्छक्तितोमरसायकान् ।मुसलानि शिलावृक्षान्मुमोचास्त्रबलाद्बली ।। ७.२१.३५ ॥",
+      "transliteration": "sa tu śūlagadāpāsāñchaktitomarasāyakān ।musalāni śilāvṛkṣānmumocāstrabalādbalī ।। 7.21.35 ॥",
+      "translations": {
+        "english": "The powerful one indeed hurled spears, maces, nooses, shaktis, javelins, arrows, pestles, stones, and trees, empowered by his missile knowledge.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 21,
+      "verse": 36,
+      "sloka": "तरूणां च शिलानां च शस्त्राणां चातिदारुणम् ।यमसैन्येषु तद्वर्षं पपात धरणीतले ।। ७.२१.३६ ॥",
+      "transliteration": "tarūṇāṁ ca śilānāṁ ca śastrāṇāṁ cātidāruṇam ।yamasainyeṣu tadvarṣaṁ papāta dharaṇītale ।। 7.21.36 ॥",
+      "translations": {
+        "english": "That extremely terrible shower of trees, stones, and weapons fell upon Yama's armies on the surface of the earth.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 21,
+      "verse": 37,
+      "sloka": "तांस्तु सर्वान्विनिर्भिद्य तदस्त्रमपहत्य च ।जघ्नुस्ते राक्षसं घोरमेकं शतसहस्रशः ।। ७.२१.३७ ॥",
+      "transliteration": "tāṁstu sarvānvinirbhidya tadastramapahatya ca ।jaghnuste rākṣasaṁ ghoramekaṁ śatasahasraśaḥ ।। 7.21.37 ॥",
+      "translations": {
+        "english": "But having pierced through all those weapons and repelled that missile, Yama's soldiers, in hundreds of thousands, struck that single terrible demon.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 21,
+      "verse": 38,
+      "sloka": "परिवार्य च तं सर्वे शैलं मोघोत्करा इव ।भिन्दिपालैश्च शूलैश्च निरुच्छ्वासमपोथयन् ।। ७.२१.३८ ॥",
+      "transliteration": "parivārya ca taṁ sarve śailaṁ moghotkarā iva ।bhindipālaiśca śūlaiśca nirucchvāsamapothayan ।। 7.21.38 ॥",
+      "translations": {
+        "english": "And all of them, having surrounded him like dense clouds surrounding a mountain, crushed him with bhindipalas and spears until he was breathless.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 21,
+      "verse": 39,
+      "sloka": "विमुक्तकवचः क्रुद्धः सिक्तः शोणितविस्रवैः ।ततः स पुष्पकं त्यक्त्वा पृथिव्यामवतिष्ठत ।। ७.२१.३९ ॥",
+      "transliteration": "vimuktakavacaḥ kruddhaḥ siktaḥ śoṇitavisravaiḥ ।tataḥ sa puṣpakaṁ tyaktvā pṛthivyāmavatiṣṭhata ।। 7.21.39 ॥",
+      "translations": {
+        "english": "With his armor loosened, enraged, and drenched in streams of blood, he then abandoned the Pushpaka chariot and stood on the earth.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 21,
+      "verse": 40,
+      "sloka": "ततः स कार्मुकी वाणी समरे चाभिवर्तत ।लब्धसञ्ज्ञो मुहूर्तेन क्रुद्धस्तस्थौ यथान्तकः ।। ७.२१.४० ॥",
+      "transliteration": "tataḥ sa kārmukī vāṇī samare cābhivartata ।labdhasañjño muhūrtena kruddhastasthau yathāntakaḥ ।। 7.21.40 ॥",
+      "translations": {
+        "english": "Then, the bow-wielding Indrajit, having regained consciousness in a moment, stood enraged in battle like the god of death.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 21,
+      "verse": 41,
+      "sloka": "ततः पाशुपतं दिव्यमस्त्रं सन्धाय कार्मुके ।तिष्ठ तिष्ठेति तानुक्त्वा तच्चापं विचकर्ष स ।। ७.२१.४१ ॥",
+      "transliteration": "tataḥ pāśupataṁ divyamastraṁ sandhāya kārmuke ।tiṣṭha tiṣṭheti tānuktvā taccāpaṁ vicakarṣa sa ।। 7.21.41 ॥",
+      "translations": {
+        "english": "Then, he fixed the divine Pāśupata weapon on his bow, and having told them \"Stop! Stop!\", he drew that bow.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 21,
+      "verse": 42,
+      "sloka": "आकर्णात्स विकृष्याथ चापमिन्द्रारिराहवे ।मुमोच तं शरं क्रुद्धस्त्रिपुरे शङ्करो यथा ।। ७.२१.४२ ॥",
+      "transliteration": "ākarṇātsa vikṛṣyātha cāpamindrārirāhave ।mumoca taṁ śaraṁ kruddhastripure śaṅkaro yathā ।। 7.21.42 ॥",
+      "translations": {
+        "english": "Then, Indrajit, the enemy of Indra, enraged in battle, drew his bow up to his ear and released that arrow, just as Shiva did at Tripura.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 21,
+      "verse": 43,
+      "sloka": "तस्य रूपं शरस्यासीत्विधूमज्वालमण्डलम् ।वनं दहिष्यतो घर्मे दावाग्नेरिव मूर्च्छतः ।। ७.२१.४३ ॥",
+      "transliteration": "tasya rūpaṁ śarasyāsītvidhūmajvālamaṇḍalam ।vanaṁ dahiṣyato gharme dāvāgneriva mūrcchataḥ ।। 7.21.43 ॥",
+      "translations": {
+        "english": "The form of that arrow was a smokeless circle of flames, like a raging forest fire intensifying in summer, about to consume a forest.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 21,
+      "verse": 44,
+      "sloka": "ज्वालामाली स तु शरः क्रव्यादानुगतो रणे ।मुक्तो गुल्मान्द्रुमांश्चापि भस्म कृत्वा प्रधावति ।। ७.२१.४४ ॥",
+      "transliteration": "jvālāmālī sa tu śaraḥ kravyādānugato raṇe ।mukto gulmāndrumāṁścāpi bhasma kṛtvā pradhāvati ।। 7.21.44 ॥",
+      "translations": {
+        "english": "That arrow, wreathed in flames and followed by flesh-eating demons, once released in battle, rushed forward, turning bushes and even trees into ashes.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 21,
+      "verse": 45,
+      "sloka": "ते तस्य तेजसा दग्धाः सैन्या वैवस्वतस्य तु ।रणे तस्मिन्निपतिता दावदग्धा नगा इव ।। ७.२१.४५ ॥",
+      "transliteration": "te tasya tejasā dagdhāḥ sainyā vaivasvatasya tu ।raṇe tasminnipatitā dāvadagdhā nagā iva ।। 7.21.45 ॥",
+      "translations": {
+        "english": "Yama's armies, burnt by the enemy's power in that battle, fell down like trees consumed by a forest fire.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 21,
+      "verse": 46,
+      "sloka": "ततस्तु सिचवैः सार्धं राक्षसो भीमविक्रमः ।ननाद सुमहानादं कम्पयन्निव मेदिनीम् ।। ७.२१.४६ ।।",
+      "transliteration": "tatastu sicavaiḥ sārdhaṁ rākṣaso bhīmavikramaḥ ।nanāda sumahānādaṁ kampayanniva medinīm ।। 7.21.46 ।।",
+      "translations": {
+        "english": "Then, the demon of terrible prowess, Ravana, along with his attendants, let out a very great roar, as if shaking the earth. इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये श्रीमदुत्तरकाण्डे एकविंशः सर्गः ।। 21 ।। Thus ends the twenty-first sarga of Uttara Kanda of the holy Ramayana the first epic composed by sage Valmiki.",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

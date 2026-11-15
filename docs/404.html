@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Ramayana API — Routing</title>
+  <script>
+    // GitHub Pages SPA / JSON router
+    // If a request was made for /slok/1/1/1, redirect to /slok/1/1/1.json
+    (function() {
+      const path = window.location.pathname;
+      const cleanPath = path.replace(/\/$/, "");
+      
+      // If path matches an API pattern without .json, redirect to .json equivalent
+      if (cleanPath.includes('/slok/') || cleanPath.includes('/kanda') || cleanPath.endsWith('/kandas')) {
+        const target = cleanPath + '.json' + window.location.search;
+        window.location.replace(target);
+      } else {
+        // Redirect to homepage
+        window.location.replace('./');
+      }
+    })();
+  </script>
+</head>
+<body style="background:#020617;color:#94a3b8;font-family:sans-serif;text-align:center;padding:50px;">
+  <h2>Redirecting to API endpoint...</h2>
+  <p>If you are not redirected automatically, <a href="./" style="color:#f97316;">click here to go home</a>.</p>
+</body>
+</html>

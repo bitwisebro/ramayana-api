@@ -1,0 +1,359 @@
+{
+  "kanda": 5,
+  "kanda_name": "Sundara Kanda",
+  "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+  "sarga": 40,
+  "verses_count": 25,
+  "verses": [
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 40,
+      "verse": 1,
+      "sloka": "श्रुत्वा तु वचनं तस्य वायुसूनोर्महात्मनः ।उवाचात्महितं वाक्यं सीता सुरसुतोपमा ।। ५.४०.१।।।।",
+      "transliteration": "śrutvā tu vacanaṁ tasya vāyusūnormahātmanaḥ ।uvācātmahitaṁ vākyaṁ sītā surasutopamā ।। 5.40.1।।।।",
+      "translations": {
+        "english": "Sita who was like the daughter of the gods heard the son of the Windgod for her benefit and replied:",
+        "hindi": "प्रशोकवन के पक्षियों के कोलाहल को तथा वहां वृक्षों के टूटने के शाब्द | को सुन लंका के रहने वाले सब लोग बहुत डर गए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 40,
+      "verse": 2,
+      "sloka": "त्वां दृष्ट्वा प्रियवक्तारं संप्रहृष्यामि वानर ।अर्धसञ्जातसस्येव वृष्टिं प्राप्य वसुन्धरा ।। ५.४०.२।।।।",
+      "transliteration": "tvāṁ dṛṣṭvā priyavaktāraṁ saṁprahṛṣyāmi vānara ।ardhasañjātasasyeva vṛṣṭiṁ prāpya vasundharā ।। 5.40.2।।।।",
+      "translations": {
+        "english": "\"O vanara just as the earth feels happy when the half grown crops receive rain, I feel happy after seeing you. You have been speaking pleasing words",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 40,
+      "verse": 3,
+      "sloka": "यथा तं पुरुषव्याघ्रं गात्रैः शोकाभिकर्शितैः ।संस्पृशेयं सकामा ऽहं तथा कुरु दयां मयि ।। ५.४०.३।।।।",
+      "transliteration": "yathā taṁ puruṣavyāghraṁ gātraiḥ śokābhikarśitaiḥ ।saṁspṛśeyaṁ sakāmā 'haṁ tathā kuru dayāṁ mayi ।। 5.40.3।।।।",
+      "translations": {
+        "english": "\"Be kind to me and act in such a manner that I may embrace my lord passionately with my body emaciated with grief.",
+        "hindi": "इतने में वे भयंकर आकृति वाली राक्षसियाँ जो भुराये के समय सो 'गईं थी जागीं झौर उस वन को सब प्रकार से ध्वस्त देखा ग्रौर वीर हनुमानजी को भी वहीं देखा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 40,
+      "verse": 4,
+      "sloka": "अभिज्ञानं च रामस्य दद्या हरिगणोत्तम ।क्षिप्तामिषीकां काकस्य कोपादेकाक्षिशातनीम् ।। ५.४०.४।।।।",
+      "transliteration": "abhijñānaṁ ca rāmasya dadyā harigaṇottama ।kṣiptāmiṣīkāṁ kākasya kopādekākṣiśātanīm ।। 5.40.4।।।।",
+      "translations": {
+        "english": "\"O best leader of vanaras remind Rama about the incident of the release of a blade of grass in anger blinding one of the eyes of the crow narrated to you.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 40,
+      "verse": 5,
+      "sloka": "मनःशिलायास्तिलको गण्डपार्श्वे निवेशितः ।त्वया प्रनष्टे तिलके तं किल स्मर्तुमर्हसि ।। ५.४०.५।।।।",
+      "transliteration": "manaḥśilāyāstilako gaṇḍapārśve niveśitaḥ ।tvayā pranaṣṭe tilake taṁ kila smartumarhasi ।। 5.40.5।।।।",
+      "translations": {
+        "english": "'(Further remind him), 'When my tilaka mark was erased, you painted tilaka with a stone (manassita pigment) nearby. O Rama you should remember that (incident).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 40,
+      "verse": 6,
+      "sloka": "स वीर्यवान् कथं सीतां हृतां समनुमन्यसे ।वसन्तीं रक्षसां मध्ये महेन्द्रवरुणोपमः ।। ५.४०.६।।।।",
+      "transliteration": "sa vīryavān kathaṁ sītāṁ hṛtāṁ samanumanyase ।vasantīṁ rakṣasāṁ madhye mahendravaruṇopamaḥ ।। 5.40.6।।।।",
+      "translations": {
+        "english": "'Rama you are like Indra and Varuna in valiance. How are you tolerating Sita seized, dwelling among the demons?",
+        "hindi": "हे सीते ! यह कीन है, किसका भेजा हुआ श्राया है, कहां से श्राया है आर किसलिए यहाँ श्राया है, तुमने इससे क्यों आर क्या बातचीत की",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 40,
+      "verse": 7,
+      "sloka": "एष चूडामणिर्दिव्यो मया सुपरिरक्षितः ।एतं दृष्ट्वा प्रहृष्यामि व्यसने त्वामिवानघ ।। ५.४०.७।।।।",
+      "transliteration": "eṣa cūḍāmaṇirdivyo mayā suparirakṣitaḥ ।etaṁ dṛṣṭvā prahṛṣyāmi vyasane tvāmivānagha ।। 5.40.7।।।।",
+      "translations": {
+        "english": "\"O sinless Rama this wonderful Chudamani of mine has been carefully safeguarded. Seeing this is like seeing you when I am in distress.",
+        "hindi": "गाचक्षद नो विशालाक्षि मा भत्ते सुभगे भयम्‌ । संवादससितापाङ्गे त्वया किं कृतवानयस्‌ ॥॥७३) हे विशालाक्षि ! डरो मत श्रौर हमको बतला दो कि तुमसे इसने क्या- अया कहा है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 40,
+      "verse": 8,
+      "sloka": "एष निर्यातितः श्रीमान् मया ते वारिसम्भवः ।अतः परं न शक्ष्यामि जीवितुं शोकलालसा ।। ५.४०.८।।।।",
+      "transliteration": "eṣa niryātitaḥ śrīmān mayā te vārisambhavaḥ ।ataḥ paraṁ na śakṣyāmi jīvituṁ śokalālasā ।। 5.40.8।।।।",
+      "translations": {
+        "english": "\"I am sending you this (Chudamani) born of the sea. O glorious Rama and now engrossed in grief it is not possible for me to live.",
+        "hindi": "इस पर सती एवं सर्ताङ्गसुन्दरी सीता ने उनको उत्तर देते हुए कद्वा-¬ कामरूपी भयंकर राक्षसों की माया भला मैं बया जान सकती हूँ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 40,
+      "verse": 9,
+      "sloka": "असह्यानि न दुःखानि वाचश्च हृदयच्छिदः ।राक्षसीनां सुघोराणां त्वत्कृते मर्षयाम्यहम् ।। ५.४०.९।।।।",
+      "transliteration": "asahyāni na duḥkhāni vācaśca hṛdayacchidaḥ ।rākṣasīnāṁ sughorāṇāṁ tvatkṛte marṣayāmyaham ।। 5.40.9।।।।",
+      "translations": {
+        "english": "\"I am tolerating this unbearable grief, and the words of the dreadful ogresses piercing my heart. Only for you.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 40,
+      "verse": 10,
+      "sloka": "धारयिष्यामि मासं तु जीवितं शत्रुसूदन ।मासादूर्ध्वं न जीविष्ये त्वया हीना नृपात्मज ।। ५.४०.१०।।।।",
+      "transliteration": "dhārayiṣyāmi māsaṁ tu jīvitaṁ śatrusūdana ।māsādūrdhvaṁ na jīviṣye tvayā hīnā nṛpātmaja ।। 5.40.10।।।।",
+      "translations": {
+        "english": "\"O subduer of enemies O prince I will hold on to life only for a month. I will not survive beyond a month in your absence.",
+        "hindi": "मैं स्वयं बहुत मयभीत हो रही हूँ । में वया जानू यह कोन है, किन्तु श्रनुमान से में तो यही जानती हूँ कि, यह कोई कामरूपी राक्षस है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 40,
+      "verse": 11,
+      "sloka": "घोरो राक्षसराजो ऽयं दृष्टिश्च न सुखा मयि ।त्वां च श्रुत्वा विषज्जनं न जीवेयमहं क्षणम् ।। ५.४०.११।।।।",
+      "transliteration": "ghoro rākṣasarājo 'yaṁ dṛṣṭiśca na sukhā mayi ।tvāṁ ca śrutvā viṣajjanaṁ na jīveyamahaṁ kṣaṇam ।। 5.40.11।।।।",
+      "translations": {
+        "english": "\"The demon king is frightful. He looks at me with immoral (lusty) eyes. I do not wish to live even for a moment after hearing about the adversities (you have faced).\"",
+        "hindi": "सीताजी की बातें सुन राक्षसियां चारों ग्रोर भाग खड़ी हुई । कोई तो भयभीत हो कुछ दूर वहाँ से हट कर खड़ी हो गई और कई एक यह हाल कहने के लिए रावण के पास चली गई",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 40,
+      "verse": 12,
+      "sloka": "वैदेह्या वचनं श्रुत्वा करुणं साश्रुभाषितम् ।तथा ऽब्रवीन्महातेजा हनुमान् मारुतात्मजः ।। ५.४०.१२।।।।",
+      "transliteration": "vaidehyā vacanaṁ śrutvā karuṇaṁ sāśrubhāṣitam ।tathā 'bravīnmahātejā hanumān mārutātmajaḥ ।। 5.40.12।।।।",
+      "translations": {
+        "english": "Hearing the words of Sita who was weeping piteously, brilliant Hanuman said this:",
+        "hindi": "उन भयंकर झाक्कति वाली राक्षसियों ने रावण के पास जाकर विकराल रूपधारी वानर के झरने का संवाद कहा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 40,
+      "verse": 13,
+      "sloka": "त्वच्छोकविमुखो रामो देवि सत्येन ते शपे ।रामे दुःखाभिभूते तु लक्ष्मणः परितप्यते ।। ५.४०.१३।।।।",
+      "transliteration": "tvacchokavimukho rāmo devi satyena te śape ।rāme duḥkhābhibhūte tu lakṣmaṇaḥ paritapyate ।। 5.40.13।।।।",
+      "translations": {
+        "english": "\"O irreproachable lady I swear by you that Rama has grown averse to everything out of grief of separation from you. When Rama is in grief even Lakshmana gets immersed in sorrow.",
+        "hindi": "वे कहने लगीं-- हे राजन्‌ ! अशोकवाटिका में एक' भयंकर रूपधारी वानर थाया हुआ है । वह भ्रमित बलसम्पन्न है । उसने सीताजी से बातचीत भी की और प्रब भी वह वहीं है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 40,
+      "verse": 14,
+      "sloka": "कथंचिद् भवती दृष्टा न कालः परिशोचितुम् ।इमं मुहूर्तं दुःखानामन्तं द्रक्ष्यामि भामिनि ।। ५.४०.१४।।।।",
+      "transliteration": "kathaṁcid bhavatī dṛṣṭā na kālaḥ pariśocitum ।imaṁ muhūrtaṁ duḥkhānāmantaṁ drakṣyāmi bhāmini ।। 5.40.14।।।।",
+      "translations": {
+        "english": "\"O beautiful lady somehow I could meet you. This is not the time to worry about. You will see the end of suffering at this very moment.",
+        "hindi": "हम लोगों ने उस मृगनयनी सीता से बार-बार पूछा कि, तुम्हारी श्रौर वानर की क्या बातचीत हुई, किन्तु वह उसको बतलाना नहीं चाहती",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 40,
+      "verse": 15,
+      "sloka": "तावुभौ पुरुषव्याघ्रौ राजपुत्रावरिन्दमौ ।त्वद्दर्शनकृतोत्साहौ लङ्कां भस्मीकरिष्यतः ।। ५.४०.१५।।।।",
+      "transliteration": "tāvubhau puruṣavyāghrau rājaputrāvarindamau ।tvaddarśanakṛtotsāhau laṅkāṁ bhasmīkariṣyataḥ ।। 5.40.15।।।।",
+      "translations": {
+        "english": "\"Both the princes are tigers among men and crushers of enemies. They are determined to see you, and will reduce Lanka to ashes.",
+        "hindi": "हमारी समझ में तो वह सम्भवतः इन्द्र श्रथवा कुवेर का दूत है अथव राम का भेजा हुभ्रा दुत, सीता को खोजने के लिए आया है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 40,
+      "verse": 16,
+      "sloka": "हत्वा तु समरे क्रूरं रावणं सहबान्धवम् ।राघवौ त्वां विशालाक्षि स्वां पुरीं प्रापयिष्यतः ।। ५.४०.१६।।।।",
+      "transliteration": "hatvā tu samare krūraṁ rāvaṇaṁ sahabāndhavam ।rāghavau tvāṁ viśālākṣi svāṁ purīṁ prāpayiṣyataḥ ।। 5.40.16।।।।",
+      "translations": {
+        "english": "\"O largeeyed lady Killing in war the vile Ravana, the demon king and all his relatives, Rama would take you back to his own city৷৷",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 40,
+      "verse": 17,
+      "sloka": "यत्तु रामो विजानीयादभिज्ञानमनिन्दिते ।प्रीतिसञ्जननं तस्य भूयस्त्वं दातुमर्हसि ।। ५.४०.१७।।।।",
+      "transliteration": "yattu rāmo vijānīyādabhijñānamanindite ।prītisañjananaṁ tasya bhūyastvaṁ dātumarhasi ।। 5.40.17।।।।",
+      "translations": {
+        "english": "\"O unimpeachable lady give one more identification which would make him more happy\".",
+        "hindi": "उस वाटिका में ऐसा कोई भी स्थान नहीं है, जो उसने नष्ट न कर डाला हो । परन्तु जहाँ पर सीता बैठी है, केवल उस स्थान को उसने बचा दिया है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 40,
+      "verse": 18,
+      "sloka": "सा ऽब्रवीद्दत्तमेवेति मया ऽभिज्ञानमुत्तमम् ।एतदेव हि रामस्य दृष्ट्वा मत्केशभूषणम् ।श्रद्धेयं हनुमन् वाक्यं तव वीर भविष्यति ।। ५.४०.१८।।।।",
+      "transliteration": "sā 'bravīddattameveti mayā 'bhijñānamuttamam ।etadeva hi rāmasya dṛṣṭvā matkeśabhūṣaṇam ।śraddheyaṁ hanuman vākyaṁ tava vīra bhaviṣyati ।। 5.40.18।।।।",
+      "translations": {
+        "english": "\"I have already given the best identification. When you hand this jewel used on my hair to him, he will believe what you tell him\".",
+        "hindi": "यह नहीं कहा जा सकता कि ऐसा उसने जानकी की रक्षा करने के लिए किया है अयवा थक जाने के कारण उसने वह स्थान श्रछता छोड़ दिया है अथवा वह थक तो क्या सकता है; हो न हो सीता को रक्षा के लिए ही उसने उस स्थान को छोड़ दिया है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 40,
+      "verse": 19,
+      "sloka": "स तं मणिवरं गृह्य श्रीमान् प्लवगसत्तमः ।प्रणम्य शिरसा देवीं गमनायोपचक्रमे ।। ५.४०.१९।।।।",
+      "transliteration": "sa taṁ maṇivaraṁ gṛhya śrīmān plavagasattamaḥ ।praṇamya śirasā devīṁ gamanāyopacakrame ।। 5.40.19।।।।",
+      "translations": {
+        "english": "The illustrious vanara held the ornament, prostrated to Sita and prepared to depart.",
+        "hindi": "सीताजी जिस मनोहर पल्लवपत्रयुक्त शोभायमान विशाल शीशम के पेड़ के नीचे बेठी हैं, बस उसी पेड़ को उसने छोड़ दिया है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 40,
+      "verse": 20,
+      "sloka": "तमुत्पातकृतोत्साहमवेक्ष्य हरिपुङ्गवम् ।वर्धमानं महावेगमुवाच जनकात्मजा ।। ५.४०.२०।।।।",
+      "transliteration": "tamutpātakṛtotsāhamavekṣya haripuṅgavam ।vardhamānaṁ mahāvegamuvāca janakātmajā ।। 5.40.20।।।।",
+      "translations": {
+        "english": "Seeing Hanuman eager to leap, enlarging his body quickly, she appeared pitiable with her face filled with tears and throat choked.",
+        "hindi": "हे राजन्‌ ! तुम उस उग्नरूपी वानर को उसकी उस उद्दण्डता के लिए दण्ड दो क्योंकि उसने एक (तो सीता से बातचीत की है, दूसरे अशोकवन नष्ट किया है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 40,
+      "verse": 21,
+      "sloka": "अश्रुपूर्णमुखी दीना बाष्पगद्गदया गिरा ।। ५.४०.२१।।।।",
+      "transliteration": "aśrupūrṇamukhī dīnā bāṣpagadgadayā girā ।। 5.40.21।।।।",
+      "translations": {
+        "english": "Seeing Hanuman eager to leap, enlarging his body quickly, she appeared pitiable with her face filled with tears and throat choked.",
+        "hindi": "हे राक्षसेइवर ! श्रापकी मनोनीता सीता से बातचीत कर कौन जीता जागता रह सकता है ?",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 40,
+      "verse": 22,
+      "sloka": "हनुमन् सिंहसङ्काशौ भ्रातरौ रामलक्ष्मणौ ।सुग्रीवं च सहामात्वं सर्वान् ब्रूया ह्यनामयम् ।। ५.४०.२२।।।।",
+      "transliteration": "hanuman siṁhasaṅkāśau bhrātarau rāmalakṣmaṇau ।sugrīvaṁ ca sahāmātvaṁ sarvān brūyā hyanāmayam ।। 5.40.22।।।।",
+      "translations": {
+        "english": "\"O Hanuman to the lionlike brothers Rama and Lakshmana, to Sugriva including his ministers and to every one convey my good wishes.",
+        "hindi": "सुन्द्रकाण्हे राक्षसीनां वचः शुत्वा रावणो राक्षसेश्वरः । हुतार्तिरिव जज्वाल कोपसंवतितेक्षणः २२ « राक्षसियों के इन वचनों को सुन कर, राक्षसराज रावण हुताग्नि की तरह प्रज्ज्वलित हो उठा प्रौर मारे क्रोष के उसकी ग्राँखें, बदल गई",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 40,
+      "verse": 23,
+      "sloka": "यथा च स महाबाहुर्मां तारयति राघवः ।अस्माद्दुःखाम्बुसंरोधात् त्वं समाधातुमर्हसि ।। ५.४०.२३।।।।",
+      "transliteration": "yathā ca sa mahābāhurmāṁ tārayati rāghavaḥ ।asmādduḥkhāmbusaṁrodhāt tvaṁ samādhātumarhasi ।। 5.40.23।।।।",
+      "translations": {
+        "english": "\"You should make efforts in such a manner that the mightyarmed Rama will help me in crossing the cean of sorrow.",
+        "hindi": "मारे क्रोध के उसके नेत्र से आँसू टपकने लगे, मानों अलते हुए दो दीपको में से जलते हुए तेल की बूँद टपक पड़ी ह",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 40,
+      "verse": 24,
+      "sloka": "इमं च तीव्रं मम शोकवेगं रक्षोभिरेभिः परिभर्त्सनं च ।ब्रूयास्तु रामस्य गतः समीपं शिवश्च ते ऽध्वा ऽस्तु हरिप्रवीर ।। ५.४०.२४।।।।",
+      "transliteration": "imaṁ ca tīvraṁ mama śokavegaṁ rakṣobhirebhiḥ paribhartsanaṁ ca ।brūyāstu rāmasya gataḥ samīpaṁ śivaśca te 'dhvā 'stu haripravīra ।। 5.40.24।।।।",
+      "translations": {
+        "english": "\"Foremost vanara tell Rama about my intense grief as well as the threats of the demons. May your journey be happy.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 40,
+      "verse": 25,
+      "sloka": "स राजपुत्र्या प्रतिवेदितार्थः कपिः कृतार्थः परिहृष्टचेताः ।अल्पावशेषं प्रसमीक्ष्य कार्यं दिशं ह्युदिचीं मनसा जगाम ।। ५.४०.२५।।",
+      "transliteration": "sa rājaputryā prativeditārthaḥ kapiḥ kṛtārthaḥ parihṛṣṭacetāḥ ।alpāvaśeṣaṁ prasamīkṣya kāryaṁ diśaṁ hyudicīṁ manasā jagāma ।। 5.40.25।।",
+      "translations": {
+        "english": "Hanuman understood the message of princess Sita and felt delighted at heart at his accomplishment. Considering the small task yet to be accomplished he reached the northern shore mentally (He thought of Rama who waited in Kishkinda which is in the northern direction). इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये सुन्दरकाण्डे चत्वारिंशस्सर्गः।। Thus ends the fortieth sarga of Sundarakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+        "hindi": "तेषामशीतिसाहन्नं किकराणां तरस्विनाम्‌ । नि्ंयुर्भवनात्तस्मात्कूटमुद्‌गरपाणयः २५ उनमें से भ्रस्सो हजार वेगवान किकर कूट मुगद्रों (वे मृगद्र जिनकी सोको पर लोहा लगा था ) को हाथों में ले वहाँ से निकले",
+        "telugu": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,737 @@
+{
+  "kanda": 7,
+  "kanda_name": "Uttara Kanda",
+  "kanda_name_sanskrit": "उत्तरकाण्डम्",
+  "sarga": 76,
+  "verses_count": 52,
+  "verses": [
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 76,
+      "verse": 1,
+      "sloka": "तस्य तद्वचनं श्रुत्वा रामस्याक्लिष्टकर्मणः ।अवाक्छिरास्तथाभूत्वा वाक्यमेतदुवाच ह ।। ७.७६.१ ॥",
+      "transliteration": "tasya tadvacanaṁ śrutvā rāmasyākliṣṭakarmaṇaḥ ।avākchirāstathābhūtvā vākyametaduvāca ha ।। 7.76.1 ॥",
+      "translations": {
+        "english": "Having heard those words of Rama, whose deeds are unblemished, the ascetic, with his head still bowed, then spoke the following words.",
+        "hindi": "—: &§ त एकषष्टितमः सगः ~ न्‌ -- ब्रुवद्धिरवमृषिभिः काकुत्स्थो वाक्यमब्रवीत्‌ । कि काय ब्रृत सुनयो भयं तावदपेतु वः",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 76,
+      "verse": 2,
+      "sloka": "शूद्रयोन्यां प्रसूतो ऽस्मि शम्बूको नाम नामतः ।देवत्वं पार्थये राम सशरीरो महायशः ।। ७.७६.२ ॥",
+      "transliteration": "śūdrayonyāṁ prasūto 'smi śambūko nāma nāmataḥ ।devatvaṁ pārthaye rāma saśarīro mahāyaśaḥ ।। 7.76.2 ॥",
+      "translations": {
+        "english": "The ascetic declared that he was born in a Shudra family, named Shambuka, and that he sought to attain divinity with his physical body, O greatly renowned Rama.",
+        "hindi": "त छ श्रीरामचन्द्र जी के ऐसा कहने पर, श्रयुबंशी च्यवन जी बोले-हे नरनाथ ! देश का तथा हम लोगों के भय का जो मुख्य कारण है, उसे हम बतलाते हैं, आप सुनें",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 76,
+      "verse": 3,
+      "sloka": "न मिथ्या ऽहं वदे राम देवलोकजिगीषया ।शूद्रं मां विद्धि काकुत्स्थ तप उग्रं समास्थितम् ।। ७.७६.३ ॥",
+      "transliteration": "na mithyā 'haṁ vade rāma devalokajigīṣayā ।śūdraṁ māṁ viddhi kākutstha tapa ugraṁ samāsthitam ।। 7.76.3 ॥",
+      "translations": {
+        "english": "Shambuka affirmed to Rama that he was not speaking falsely out of a desire to conquer the world of gods, and asked Rama to know him as a Shudra engaged in severe penance.",
+        "hindi": "सतयुग में मधु नाम का एक बड़ा बुद्धिमान दैत्य था। वह लोला का ज्येष्ठ पुत्र था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 76,
+      "verse": 4,
+      "sloka": "भाषतस्तस्य शूद्रस्य खड्गं सुरुचिरप्रभम् ।निष्कृष्य कोशाद्विमलं शिरश्चिच्छेद राघवः ।। ७.७६.४ ॥",
+      "transliteration": "bhāṣatastasya śūdrasya khaḍgaṁ suruciraprabham ।niṣkṛṣya kośādvimalaṁ śiraściccheda rāghavaḥ ।। 7.76.4 ॥",
+      "translations": {
+        "english": "Rama, having drawn his spotless sword of very beautiful luster from its sheath, cut off the head of that Shudra while he was speaking.",
+        "hindi": "वह ब्राह्मणभक्त, शरणागतवत्सल और बड़ा बुद्धिमान था आर परम उदार देवताओं के साथ उसकी अतुलित प्रीति थी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 76,
+      "verse": 5,
+      "sloka": "तस्मिञ्छूद्रे हते देवाः सेन्द्राः साग्निपुरोगमाः ।साधु साध्विति काकुत्स्थं प्रशशंसुर्मुहुर्मुहुः ।। ७.७६.५ ॥",
+      "transliteration": "tasmiñchūdre hate devāḥ sendrāḥ sāgnipurogamāḥ ।sādhu sādhviti kākutsthaṁ praśaśaṁsurmuhurmuhuḥ ।। 7.76.5 ॥",
+      "translations": {
+        "english": "When that Shudra was killed, the gods, led by Indra and Agni, repeatedly praised Rama, exclaiming \"Excellent! Excellent!\"",
+        "hindi": "वह बड़ा शूरवीर और धर्मनिष्ठ था । अतः भगवान्‌ शिव जी ने, बड़े आदर सम्मान के साथ उसे एक अद्भुत वर दिशा था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 76,
+      "verse": 6,
+      "sloka": "पुष्पवृष्टिर्महत्यासीद्दिव्यानां सुसुगन्धिनाम् ।पुष्पाणां वायुमुक्तानां सर्वतः प्रपपात ह ।। ७.७६.६ ॥",
+      "transliteration": "puṣpavṛṣṭirmahatyāsīddivyānāṁ susugandhinām ।puṣpāṇāṁ vāyumuktānāṁ sarvataḥ prapapāta ha ।। 7.76.6 ॥",
+      "translations": {
+        "english": "A great shower of divine, very fragrant flowers, released by the wind, fell down from all sides.",
+        "hindi": "भगवान्‌ शित्र ने, अपने त्रिशूल से एक a द्द आर आग की तरह चमचमाता त्रिशूल निकाल ऑर बड़ हष केः साथ वह त्रिशूल मधु को दिशा ओर उससे यह कहा--",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 76,
+      "verse": 7,
+      "sloka": "सुप्रीताश्चाब्रुवन्रामं देवाः सत्यपराक्रमम् ।सुरकार्यमिदं सौम्य सुकृतं ते महामते ।। ७.७६.७ ॥",
+      "transliteration": "suprītāścābruvanrāmaṁ devāḥ satyaparākramam ।surakāryamidaṁ saumya sukṛtaṁ te mahāmate ।। 7.76.7 ॥",
+      "translations": {
+        "english": "The very pleased gods then said to Rama, the one of true valor, \"O gentle and great-minded one, this task for the gods has been well accomplished by you.\"",
+        "hindi": "एक संस्करण में यहाँ पर यदद एक श्लोक और हैं :-- “बहुवर्षसहखाणि रुद्र प्रीत्याऽकरोत्तपः | छ रुद्र: प्रीतोऽभवत्तस्मै बरं दात ययौ च सः ॥ ६४६ ; उत्तरकाण्डे स्वयाऽयमतुलो धर्मो म्रसादकरः शुभः । : गीत्या परमया युक्तो ददाम्यायुधपुत्तमम्‌",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 76,
+      "verse": 8,
+      "sloka": "गृहाण च वरं सौम्य यत्त्वमिच्छस्यरिन्दम ।स्वर्गभाङ्नहि शूद्रो ऽयं त्वत्कृते रघुनन्दन ।। ७.७६.८ ॥",
+      "transliteration": "gṛhāṇa ca varaṁ saumya yattvamicchasyarindama ।svargabhāṅnahi śūdro 'yaṁ tvatkṛte raghunandana ।। 7.76.8 ॥",
+      "translations": {
+        "english": "\"O gentle one, subduer of enemies, and delight of the Raghus, accept any boon you desire, for this Shudra will certainly not attain heaven because of your action.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 76,
+      "verse": 9,
+      "sloka": "देवानां भाषितं श्रुत्वा राघवः सुसमाहितः ।उवाच प्राञ्जलिर्वाक्यं सहस्राक्षं पुरन्दरम् ।। ७.७६.९ ॥",
+      "transliteration": "devānāṁ bhāṣitaṁ śrutvā rāghavaḥ susamāhitaḥ ।uvāca prāñjalirvākyaṁ sahasrākṣaṁ purandaram ।। 7.76.9 ॥",
+      "translations": {
+        "english": "Having heard the words of the gods, Rama, composed and with folded hands, spoke to Indra, the thousand-eyed destroyer of cities.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 76,
+      "verse": 10,
+      "sloka": "यदि देवाः प्रसन्ना मे द्विजपुत्रः स जीवतु ।दिशन्तु वरमेतं मे इप्सितं परमं मम ।। ७.७६.१० ॥",
+      "transliteration": "yadi devāḥ prasannā me dvijaputraḥ sa jīvatu ।diśantu varametaṁ me ipsitaṁ paramaṁ mama ।। 7.76.10 ॥",
+      "translations": {
+        "english": "Rama requested that if the gods were pleased with him, they should grant his greatest desire: that the brahmin's son be brought back to life.",
+        "hindi": "जो तुमसे लड़ने आवे, उसके ऊपर निभय हो, इस शूल का प्रहार करना । यह शूल उस शत्रु को भस्म कर, फिर तुम्हारे हाथ में चला आवेगा ।।&॥ एवं रुद्राद्वर लब्ध्वा भूय एव महासुरः । प्रणिपत्य महादेवं वाक्यमेतदुवाच ह",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 76,
+      "verse": 11,
+      "sloka": "ममापचाराद्यातो ऽसौ ब्राह्मणस्यैकपुत्रकः ।अप्राप्तकालः कालेन नीतो वैवस्वतक्षयम् ।। ७.७६.११ ॥",
+      "transliteration": "mamāpacārādyāto 'sau brāhmaṇasyaikaputrakaḥ ।aprāptakālaḥ kālena nīto vaivasvatakṣayam ।। 7.76.11 ॥",
+      "translations": {
+        "english": "Rama declared that the brahmin's only son, whose time had not yet come, was taken to Yama's abode due to Rama's own transgression.",
+        "hindi": "« सराः ys हे भगवन्‌ ! में चाहता हूँ कि, यह अनुपम शूल मेरे वंश में दैब बना रहे । आप देवों के देव हैं। अतः यह वर आप मुझे ओर दें",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 76,
+      "verse": 12,
+      "sloka": "तं जीवयथ भद्रं वो नानृतं कर्तुमर्हथ ।द्विजस्य संश्रुतो ऽर्थो मे जीवयिष्यामि ते सुतम् ।। ७.७६.१२ ॥",
+      "transliteration": "taṁ jīvayatha bhadraṁ vo nānṛtaṁ kartumarhatha ।dvijasya saṁśruto 'rtho me jīvayiṣyāmi te sutam ।। 7.76.12 ॥",
+      "translations": {
+        "english": "Rama urged the gods to revive the child, wishing them well, and reminded them that he had promised the brahmin to bring his son back to life, thus he could not allow his word to be false.",
+        "hindi": "मधु के ऐसा कहने पर सब प्राणियों के अधिपति एवं महा- तेजस्वी शिव जी कहने लगे, ऐसा तो न होगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 76,
+      "verse": 13,
+      "sloka": "राघवस्य तु तद्वाक्यं श्रुत्वा विबुधसत्तमाः ।प्रत्युचू राघवं प्रीता देवाः प्रीतिसमन्वितम् ।। ७.७६.१३ ॥",
+      "transliteration": "rāghavasya tu tadvākyaṁ śrutvā vibudhasattamāḥ ।pratyucū rāghavaṁ prītā devāḥ prītisamanvitam ।। 7.76.13 ॥",
+      "translations": {
+        "english": "Having heard Rama's words, the best among the gods, pleased and filled with affection, replied to Rama.",
+        "hindi": "किन्तु में तेरे ऊपर प्रसन हूँ, अतएव तेरी बात म टालना भीं नहीं चाहता । अतः तेरे एक पुत्र के पास भी यह शूल बना रहेगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 76,
+      "verse": 14,
+      "sloka": "निर्वृतो भव काकुत्स्थ सो ऽस्मिन्नहनि बालकः ।जीवितं प्राप्तवान्भूयः समेतश्चापि बन्धुभिः ।। ७.७६.१४ ॥",
+      "transliteration": "nirvṛto bhava kākutstha so 'sminnahani bālakaḥ ।jīvitaṁ prāptavānbhūyaḥ sametaścāpi bandhubhiḥ ।। 7.76.14 ॥",
+      "translations": {
+        "english": "O Kakutstha, be relieved, for that boy has regained his life and is reunited with his relatives this very day.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 76,
+      "verse": 15,
+      "sloka": "यस्मिन्मुहूर्ते काकुत्स्थ शूद्रो ऽयं विनिपातितः ।तस्मिन्मुहूर्ते बालो ऽसौ जीवेन समयुज्यत ।। ७.७६.१५ ॥",
+      "transliteration": "yasminmuhūrte kākutstha śūdro 'yaṁ vinipātitaḥ ।tasminmuhūrte bālo 'sau jīvena samayujyata ।। 7.76.15 ॥",
+      "translations": {
+        "english": "O Kakutstha, the very moment this Shudra was struck down, that boy was reunited with his life.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 76,
+      "verse": 16,
+      "sloka": "स्वस्ति प्राप्नुहि भद्रं ते साधु याम नरर्षभ ।अगस्त्यस्याश्रमपदं द्रष्टुमिच्छाम राघव ।। ७.७६.१६ ॥",
+      "transliteration": "svasti prāpnuhi bhadraṁ te sādhu yāma nararṣabha ।agastyasyāśramapadaṁ draṣṭumicchāma rāghava ।। 7.76.16 ॥",
+      "translations": {
+        "english": "May you obtain well-being, O best among men, and may good fortune be yours; we wish to go and see the hermitage of Agastya, O Raghava.",
+        "hindi": "उत्तरका उसकी पत्नीं का नाम कुम्भीनसी था । वह बड़ी भाग्यवती थी और महाकान्तिमयी श्रनला के गर्भ से विश्वावसु द्वारा उत्पन्न हुई थी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 76,
+      "verse": 17,
+      "sloka": "तस्य दीक्षा समाप्ता हि ब्रह्मर्षेः सुमहाद्युतेः ।द्वादशं हि गतं वर्षं जलशय्यां समासतः ।। ७.७६.१७ ॥",
+      "transliteration": "tasya dīkṣā samāptā hi brahmarṣeḥ sumahādyuteḥ ।dvādaśaṁ hi gataṁ varṣaṁ jalaśayyāṁ samāsataḥ ।। 7.76.17 ॥",
+      "translations": {
+        "english": "The consecratory vow of that brahmin-sage of great splendour is now completed, for the twelfth year has passed as he lay abiding upon a bed of water.",
+        "hindi": "उसीका पुत्र महापराक्रमी एवं नृशंस लवणासुर है, जो बालक- पन ही से बड़ा दुष्टस्वभाव होने के कारण पाप में उसकी बुद्धि रहती है ओर बह पापकर्म ही किया करता है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 76,
+      "verse": 18,
+      "sloka": "काकुत्स्थ तद्गमिष्यामो मुनिं समभिनन्दितुम् ।त्वं चाप्यागच्छ भद्रं ते द्रष्टुं तमृषिसत्तमम् ।। ७.७६.१८ ॥",
+      "transliteration": "kākutstha tadgamiṣyāmo muniṁ samabhinanditum ।tvaṁ cāpyāgaccha bhadraṁ te draṣṭuṁ tamṛṣisattamam ।। 7.76.18 ॥",
+      "translations": {
+        "english": "O Kakutstha, we shall therefore go to greet that sage, and you too should come, for your welfare, to see that best of sages.",
+        "hindi": "अपने पुत्र को. ऐसा दुविनोत देख कर, मधु क्रुद्ध और दुःखी हुआ; किन्तु लवण से उसने कहा कुछ भो नहीं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 76,
+      "verse": 19,
+      "sloka": "स तथेति प्रतिज्ञाय देवानां रघुनन्दनः ।आरुरोह विमानं तं पुष्पकं हेमभूषितम् ।। ७.७६.१९ ॥",
+      "transliteration": "sa tatheti pratijñāya devānāṁ raghunandanaḥ ।āruroha vimānaṁ taṁ puṣpakaṁ hemabhūṣitam ।। 7.76.19 ॥",
+      "translations": {
+        "english": "Having thus agreed to the words of the gods, Rama, the delight of the Raghus, ascended that Pushpaka aerial chariot, which was adorned with gold.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 76,
+      "verse": 20,
+      "sloka": "ततो देवाः प्रयातास्ते विमानैर्बहुविस्तरैः ।रामो ऽप्यनुजगामाशु कुम्भयोनेस्तपोवनम् ।। ७.७६.२० ॥",
+      "transliteration": "tato devāḥ prayātāste vimānairbahuvistaraiḥ ।rāmo 'pyanujagāmāśu kumbhayonestapovanam ।। 7.76.20 ॥",
+      "translations": {
+        "english": "Then, the gods departed in their vast aerial chariots, and Rama also quickly followed them to the hermitage of Agastya.",
+        "hindi": "अब बही लवण शूल के भरोसे अपने दुराचारी स्वभाव से तीनों लोका को और तपस्वियो को तो विशेष रूप से सताया | करता है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 76,
+      "verse": 21,
+      "sloka": "दृष्ट्वा तु देवान्सम्प्राप्तानगस्त्यस्तपसां निधिः ।अर्चयामास धर्मात्मा सर्वांस्तानविशेषतः ।। ७.७६.२१ ॥",
+      "transliteration": "dṛṣṭvā tu devānsamprāptānagastyastapasāṁ nidhiḥ ।arcayāmāsa dharmātmā sarvāṁstānaviśeṣataḥ ।। 7.76.21 ॥",
+      "translations": {
+        "english": "Upon seeing the arrived gods, the righteous Agastya, a treasure-house of austerities, worshipped all of them equally without distinction.",
+        "hindi": "हे काकुत्स्थ ! लवणापुर इस प्रकार का है और उमके त्रिशूल का ऐसा माहात्म्य है । यह समस्त व्रृत्तान्त सुन अब आप जो उचित समम सो करें ।क्योंकि आप हो तक हमारी दोड़ हे। अथवा आप ही हमारी परम गति हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 76,
+      "verse": 22,
+      "sloka": "प्रतिगृह्य ततः पूजां सम्पूज्य च महामुनिम् ।जग्मुस्ते त्रिदशा हृष्टा नाकपृष्ठं सहानुगैः ।। ७.७६.२२ ॥",
+      "transliteration": "pratigṛhya tataḥ pūjāṁ sampūjya ca mahāmunim ।jagmuste tridaśā hṛṣṭā nākapṛṣṭhaṁ sahānugaiḥ ।। 7.76.22 ॥",
+      "translations": {
+        "english": "Having accepted the worship and honored the great sage, the delighted gods then departed to heaven with their followers.",
+        "hindi": "हे राजन्‌ ! ( आपके पास आने के पूळ ) हममें से अनेक ऋषियों ने, भय से व्याकुल हो, बहुत से राजाओं से लवण से अभय कर देने के लिए प्रार्थना भी की ; परन्तु किसी ने रक्षा न की",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 76,
+      "verse": 23,
+      "sloka": "गतेषु तेषु काकुत्स्थः पुष्पकादवरुह्य च ।ततो ऽभिवादयामास ह्यगस्त्यमृषिसत्तमम् ।। ७.७६.२३ ॥",
+      "transliteration": "gateṣu teṣu kākutsthaḥ puṣpakādavaruhya ca ।tato 'bhivādayāmāsa hyagastyamṛṣisattamam ।। 7.76.23 ॥",
+      "translations": {
+        "english": "After the gods had departed, Rama, the descendant of Kakutstha, descended from the Pushpaka chariot and then saluted Agastya, the foremost of sages.",
+        "hindi": "हे तात ! जब हम लोगों ने सुना कि, आपने सकुटुम्ब रावण का संहार किआ हे, तब हमने समभा कि, आप हमारी रक्षा कर केंगे | क्योकि प्रथिबींमएडल पर अन्य कोई ऐसा राजा नहीं ज्ञो हमारी लवण से रक्षा कर सके | अतः लवण के भय से पीडित हम लोग आपसे अपनी रक्षा करवाना चाहते हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 76,
+      "verse": 24,
+      "sloka": "सो ऽभिवाद्य महात्मानं ज्वलन्तमिव तेजसा ।आतिथ्यं परमं प्राप्य निषसाद नराधिपः ।। ७.७६.२४ ॥",
+      "transliteration": "so 'bhivādya mahātmānaṁ jvalantamiva tejasā ।ātithyaṁ paramaṁ prāpya niṣasāda narādhipaḥ ।। 7.76.24 ॥",
+      "translations": {
+        "english": "Having saluted the great-souled Agastya, who shone as if with brilliance, and having received excellent hospitality, the king of men, Rama, then sat down.",
+        "hindi": "इति एकषष्टितमः संगः ॥ इस प्रकार उने तपस्त्रियो ने अपने भय का समस्त वृत्तान्त कह, श्रीरामचन्द्र जी से निवेदन कर कह।--ह भगवन्‌ ! आप बड़े बलवान हैं, अतः हमारे इस भय को दूर करने में आप ही संथा समर्थ हें। सो हे महापराक्रमी ! आप इस काम को कीजिए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 76,
+      "verse": 25,
+      "sloka": "तमुवाच महातेजाः कुम्भयोनिर्महातपाः ।स्वागतं ते नरश्रेष्ठ दिष्ट्या प्राप्तो ऽसि राघव ।। ७.७६.२५ ॥",
+      "transliteration": "tamuvāca mahātejāḥ kumbhayonirmahātapāḥ ।svāgataṁ te naraśreṣṭha diṣṭyā prāpto 'si rāghava ।। 7.76.25 ॥",
+      "translations": {
+        "english": "The greatly effulgent and great ascetic Agastya said to him, \"Welcome to you, O best among men, O scion of Raghu, fortunately you have arrived.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 76,
+      "verse": 26,
+      "sloka": "त्वं मे बहुमतो राम गुणैर्बहुभिरुत्तमैः ।अतिथिः पूजनीयश्च मम नित्यं हृदि स्थितः ।। ७.७६.२६ ॥",
+      "transliteration": "tvaṁ me bahumato rāma guṇairbahubhiruttamaiḥ ।atithiḥ pūjanīyaśca mama nityaṁ hṛdi sthitaḥ ।। 7.76.26 ॥",
+      "translations": {
+        "english": "O Rama, you are highly esteemed by me for your many excellent qualities, and you are a guest worthy of worship, always residing in my heart.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 76,
+      "verse": 27,
+      "sloka": "सुरा हि कथयन्ति त्वामागतं शूद्रघातिनम् ।ब्राह्मणस्य तु धर्मेण त्वया जीवापितः सुतः ।। ७.७६.२७ ॥",
+      "transliteration": "surā hi kathayanti tvāmāgataṁ śūdraghātinam ।brāhmaṇasya tu dharmeṇa tvayā jīvāpitaḥ sutaḥ ।। 7.76.27 ॥",
+      "translations": {
+        "english": "Indeed, the gods speak of you as having come after slaying the Shudra (Shambuka), and by your righteous action, the Brahmin's son was brought back to life.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 76,
+      "verse": 28,
+      "sloka": "उष्यतां चेह रजनी सकाशे मम राघव ।प्रभाते पुष्पकेण त्वं गन्ता ऽसि पुरमेव हि ।। ७.७६.२८ ॥",
+      "transliteration": "uṣyatāṁ ceha rajanī sakāśe mama rāghava ।prabhāte puṣpakeṇa tvaṁ gantā 'si purameva hi ।। 7.76.28 ॥",
+      "translations": {
+        "english": "O scion of Raghu, please stay here for the night near me, and in the morning, you will certainly go to your city by the Pushpaka chariot.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 76,
+      "verse": 29,
+      "sloka": "त्वं हि नारायणः श्रीमांस्त्वयि सर्वं प्रतिष्ठितम् ।त्वं प्रभुः सर्वदेवानां पुरुषस्त्वं सनातनः ।। ७.७६.२९ ॥",
+      "transliteration": "tvaṁ hi nārāyaṇaḥ śrīmāṁstvayi sarvaṁ pratiṣṭhitam ।tvaṁ prabhuḥ sarvadevānāṁ puruṣastvaṁ sanātanaḥ ।। 7.76.29 ॥",
+      "translations": {
+        "english": "Indeed, you are the glorious Narayana, in whom everything is established; you are the lord of all gods, and you are the eternal being.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 76,
+      "verse": 30,
+      "sloka": "इदं चाभरणं सौम्य निर्मितं विश्वकर्मणा ।दिव्यं दिव्येन वपुषा दीप्यमानं स्वतेजसा ।प्रतिगृह्णीष्व काकुत्स्थ मत्प्रियं कुरु राघव ।। ७.७६.३० ॥",
+      "transliteration": "idaṁ cābharaṇaṁ saumya nirmitaṁ viśvakarmaṇā ।divyaṁ divyena vapuṣā dīpyamānaṁ svatejasā ।pratigṛhṇīṣva kākutstha matpriyaṁ kuru rāghava ।। 7.76.30 ॥",
+      "translations": {
+        "english": "O gentle Raghava, please accept this divine ornament, created by Vishwakarma, which shines with its own splendor and divine form, and by doing so, fulfill my wish.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 76,
+      "verse": 31,
+      "sloka": "दत्तस्य हि पुनर्दाने सुमहत्फलमुच्यते ।भरणे हि भवान् शक्तः सेन्द्राणां मरुतामपि ।। ७.७६.३१ ॥",
+      "transliteration": "dattasya hi punardāne sumahatphalamucyate ।bharaṇe hi bhavān śaktaḥ sendrāṇāṁ marutāmapi ।। 7.76.31 ॥",
+      "translations": {
+        "english": "It is said that giving something again, once it has been given, yields a very great reward, and indeed, you are capable of sustaining even Indra and the Maruts.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 76,
+      "verse": 32,
+      "sloka": "त्वं हि शक्तस्तारयितुं सेन्द्रानपि दिवौकसः ।तस्मात्प्रदास्ये विधिवत्तत्प्रतीच्छ नराधिप ।। ७.७६.३२ ॥",
+      "transliteration": "tvaṁ hi śaktastārayituṁ sendrānapi divaukasaḥ ।tasmātpradāsye vidhivattatpratīccha narādhipa ।। 7.76.32 ॥",
+      "translations": {
+        "english": "Indeed, you are capable of protecting even the gods, including Indra, therefore I will properly give this to you; O king of men, please accept it.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 76,
+      "verse": 33,
+      "sloka": "दिव्यमाभरणं चित्रं प्रदीप्तमिव भास्करम् ।। ७.७६.३३ ॥",
+      "transliteration": "divyamābharaṇaṁ citraṁ pradīptamiva bhāskaram ।। 7.76.33 ॥",
+      "translations": {
+        "english": "This divine and wonderful ornament shines brilliantly like the sun.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 76,
+      "verse": 34,
+      "sloka": "अथोवाच महात्मानमिक्ष्वाकूणां महारथः ।रामो मतिमतां श्रेष्ठः क्षत्रधर्ममनुस्मरन् ।। ७.७६.३४ ॥",
+      "transliteration": "athovāca mahātmānamikṣvākūṇāṁ mahārathaḥ ।rāmo matimatāṁ śreṣṭhaḥ kṣatradharmamanusmaran ।। 7.76.34 ॥",
+      "translations": {
+        "english": "Then, Rama, the great warrior of the Ikshvakus and the best among the intelligent, spoke to the great-souled one, remembering the duties of a Kshatriya.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 76,
+      "verse": 35,
+      "sloka": "प्रतिग्रहो ऽयं भगवन्ब्राह्मणस्याविगर्हितः ।गृह्णीयां क्षत्रियो ऽहं वै कथं ब्राह्मणपुङ्गव ।। ७.७६.३५ ॥",
+      "transliteration": "pratigraho 'yaṁ bhagavanbrāhmaṇasyāvigarhitaḥ ।gṛhṇīyāṁ kṣatriyo 'haṁ vai kathaṁ brāhmaṇapuṅgava ।। 7.76.35 ॥",
+      "translations": {
+        "english": "Rama questions the sage, asking how he, a Kshatriya, can accept a gift that is considered blameless only for a Brahmana.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 76,
+      "verse": 36,
+      "sloka": "ब्राह्मणेन विशेषेण दत्तं तद्वक्तुमर्हसि ।एवमुक्तस्तु रामेण प्रत्युवाच महानृषिः ।। ७.७६.३६ ॥",
+      "transliteration": "brāhmaṇena viśeṣeṇa dattaṁ tadvaktumarhasi ।evamuktastu rāmeṇa pratyuvāca mahānṛṣiḥ ।। 7.76.36 ॥",
+      "translations": {
+        "english": "Rama further requested the sage to explain the reason for accepting such a gift, especially when given by a Brahmana, to which the great sage then replied.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 76,
+      "verse": 37,
+      "sloka": "आसन्कृतयुगे राम ब्रह्मभूते पुरायुगे ।अपार्थिवाः प्रजाः सर्वाः सुराणां तु शतक्रतुः ।। ७.७६.३७ ॥",
+      "transliteration": "āsankṛtayuge rāma brahmabhūte purāyuge ।apārthivāḥ prajāḥ sarvāḥ surāṇāṁ tu śatakratuḥ ।। 7.76.37 ॥",
+      "translations": {
+        "english": "The great sage began by telling Rama that in the ancient Krita Yuga, when the world was pure, all people were without an earthly king, though Indra was the ruler of the gods.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 76,
+      "verse": 38,
+      "sloka": "ताः प्रजा देवदेवेशं राजार्थं समुपाद्रवन् ।सुराणां स्थापितो राजा त्वया देव शतक्रतुः ।। ७.७६.३८ ॥",
+      "transliteration": "tāḥ prajā devadeveśaṁ rājārthaṁ samupādravan ।surāṇāṁ sthāpito rājā tvayā deva śatakratuḥ ।। 7.76.38 ॥",
+      "translations": {
+        "english": "Those people approached the Lord of gods (Brahma) requesting a king, reminding him that he had already established Indra as the king of the gods.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 76,
+      "verse": 39,
+      "sloka": "प्रयच्छ नो हि लोकेश पार्थिवं नरपुङ्गवम् ।यस्मै पूजां प्रयुञ्जाना धूतपापाश्चरेमहि ।न वसामो विना राज्ञा एष नो निश्चयः परः ।। ७.७६.३९ ॥",
+      "transliteration": "prayaccha no hi lokeśa pārthivaṁ narapuṅgavam ।yasmai pūjāṁ prayuñjānā dhūtapāpāścaremahi ।na vasāmo vinā rājñā eṣa no niścayaḥ paraḥ ।। 7.76.39 ॥",
+      "translations": {
+        "english": "The people implored Brahma, the Lord of the worlds, to grant them an earthly king, a best among men, whom they could worship to cleanse their sins and under whose rule they could live, as they declared their supreme resolve not to live without a king.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 76,
+      "verse": 40,
+      "sloka": "प्रजानां वचनं श्रुत्वा निश्चयित्वा ऽर्थमुत्तमम् ।। ७.७६.४० ॥",
+      "transliteration": "prajānāṁ vacanaṁ śrutvā niścayitvā 'rthamuttamam ।। 7.76.40 ॥",
+      "translations": {
+        "english": "Having heard the words of the subjects, and having ascertained their excellent purpose.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 76,
+      "verse": 41,
+      "sloka": "ततो ब्रह्मा सुरश्रेष्ठो लोकपालान्सवासवान् ।समाहूयाब्रवीत्सर्वांस्तेजोभागान्प्रयच्छत ।। ७.७६.४१ ॥",
+      "transliteration": "tato brahmā suraśreṣṭho lokapālānsavāsavān ।samāhūyābravītsarvāṁstejobhāgānprayacchata ।। 7.76.41 ॥",
+      "translations": {
+        "english": "Then, Brahma, the best among gods, summoned all the protectors of the worlds, including Indra, and told them to bestow shares of their splendor.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 76,
+      "verse": 42,
+      "sloka": "ततो ददुर्लोकपालाः सर्वे भागान्स्वतेजसः ।अक्षुपच्च ततो ब्रह्मा यतो जातः क्षुपो नृपः ।। ७.७६.४२ ॥",
+      "transliteration": "tato dadurlokapālāḥ sarve bhāgānsvatejasaḥ ।akṣupacca tato brahmā yato jātaḥ kṣupo nṛpaḥ ।। 7.76.42 ॥",
+      "translations": {
+        "english": "Then all the protectors of the worlds gave shares of their own splendor, and then Brahma sneezed, from which King Kṣupa was born.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 76,
+      "verse": 43,
+      "sloka": "तं ब्रह्मा लोकपालानां सहांशैः समयोजयत् ।ततो ददौ नृपं तासां प्रजानामीश्वरं क्षुपम् ।। ७.७६.४३ ॥",
+      "transliteration": "taṁ brahmā lokapālānāṁ sahāṁśaiḥ samayojayat ।tato dadau nṛpaṁ tāsāṁ prajānāmīśvaraṁ kṣupam ।। 7.76.43 ॥",
+      "translations": {
+        "english": "Brahma then endowed him (Kṣupa) with the shares of splendor from the protectors of the worlds, and then gave King Kṣupa as the ruler of those subjects.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 76,
+      "verse": 44,
+      "sloka": "तत्रैन्द्रेण च भागेन महीमाज्ञापयन्नृपः ।वारुणेन तु भागेन वपुः पुष्यति पार्थिवः ।। ७.७६.४४ ॥",
+      "transliteration": "tatraindreṇa ca bhāgena mahīmājñāpayannṛpaḥ ।vāruṇena tu bhāgena vapuḥ puṣyati pārthivaḥ ।। 7.76.44 ॥",
+      "translations": {
+        "english": "There, the king rules the earth with the share of Indra, and with the share of Varuna, the king nourishes his body.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 76,
+      "verse": 45,
+      "sloka": "कौबेरेण तु भागेन वित्तमासां ददौ तदा ।यस्तु याम्यो ऽभवद्भागस्तेन शास्ति स्म स प्रजाः ।। ७.७६.४५ ॥",
+      "transliteration": "kaubereṇa tu bhāgena vittamāsāṁ dadau tadā ।yastu yāmyo 'bhavadbhāgastena śāsti sma sa prajāḥ ।। 7.76.45 ॥",
+      "translations": {
+        "english": "Then, he gave wealth to the people from the northern part (Kubera's domain), and with the southern part (Yama's domain), he ruled his subjects.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 76,
+      "verse": 46,
+      "sloka": "तत्रैन्द्रेण नरश्रेष्ठ भागेन रघुनन्दन ।प्रतिगृह्णीष्व भद्रं ते तारणार्थं मम प्रभो ।। ७.७६.४६ ॥",
+      "transliteration": "tatraindreṇa naraśreṣṭha bhāgena raghunandana ।pratigṛhṇīṣva bhadraṁ te tāraṇārthaṁ mama prabho ।। 7.76.46 ॥",
+      "translations": {
+        "english": "O best among men, O delight of the Raghus, O lord, please accept this eastern part (Indra's domain) for my salvation; may good fortune be yours.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 76,
+      "verse": 47,
+      "sloka": "तस्य तद्वचनं श्रुत्वा ऋषेः परमधार्मिकम् ।तद्रामः प्रतिजग्राह मुनेराभरणं वरम् ।। ७.७६.४७ ॥",
+      "transliteration": "tasya tadvacanaṁ śrutvā ṛṣeḥ paramadhārmikam ।tadrāmaḥ pratijagrāha munerābharaṇaṁ varam ।। 7.76.47 ॥",
+      "translations": {
+        "english": "Having heard that most righteous speech of the sage, Rama accepted that excellent ornament from the sage.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 76,
+      "verse": 48,
+      "sloka": "प्रतिगृह्य ततो रामस्तदाभरणमुत्तमम् ।आगमं तस्य दीप्तस्य प्रष्टुमेवोपचक्रमे ।। ७.७६.४८ ॥",
+      "transliteration": "pratigṛhya tato rāmastadābharaṇamuttamam ।āgamaṁ tasya dīptasya praṣṭumevopacakrame ।। 7.76.48 ॥",
+      "translations": {
+        "english": "Having accepted that excellent ornament, Rama then began to inquire about the origin of that radiant object.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 76,
+      "verse": 49,
+      "sloka": "अत्यद्भुतमिदं दिव्यं वपुषा युक्तमुत्तमम् ।कथं वा भगवता प्राप्तं कुतो वा केन वा हृतम् ।। ७.७६.४९ ॥",
+      "transliteration": "atyadbhutamidaṁ divyaṁ vapuṣā yuktamuttamam ।kathaṁ vā bhagavatā prāptaṁ kuto vā kena vā hṛtam ।। 7.76.49 ॥",
+      "translations": {
+        "english": "Rama asked, \"How was this extremely wonderful, divine, and excellent form obtained by your revered self, or from where, or by whom was it taken away?\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 76,
+      "verse": 50,
+      "sloka": "कुतूहलितया ब्रह्मन्पृच्छामि त्वां महायशः ।आश्चर्याणां बहूनां हि निधिः परमको भवान् ।। ७.७६.५० ॥",
+      "transliteration": "kutūhalitayā brahmanpṛcchāmi tvāṁ mahāyaśaḥ ।āścaryāṇāṁ bahūnāṁ hi nidhiḥ paramako bhavān ।। 7.76.50 ॥",
+      "translations": {
+        "english": "O greatly renowned Brahmana, I ask you out of curiosity, for you are indeed a supreme treasure of many wonders.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 76,
+      "verse": 51,
+      "sloka": "एवं ब्रुवति काकुत्स्थे मुनिर्वाक्यमथाब्रवीत् ।शृणु राम यथावृत्तं पुरा त्रेतायुगे युगे ।। ७.७६.५१ ॥",
+      "transliteration": "evaṁ bruvati kākutsthe munirvākyamathābravīt ।śṛṇu rāma yathāvṛttaṁ purā tretāyuge yuge ।। 7.76.51 ॥",
+      "translations": {
+        "english": "When Rama, the descendant of Kakutstha, spoke thus, the sage then replied, \"Listen, O Rama, to what happened formerly in the Treta Yuga.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 76,
+      "verse": 52,
+      "sloka": "रमणीयप्रदेशे ऽस्मिन् वने यद्दृष्टवानहम् ।आश्चर्यं मे महाबाहो दानमाश्रित्य केवलम् ।। ७.७६.५२ ।।",
+      "transliteration": "ramaṇīyapradeśe 'smin vane yaddṛṣṭavānaham ।āścaryaṁ me mahābāho dānamāśritya kevalam ।। 7.76.52 ।।",
+      "translations": {
+        "english": "O mighty-armed one, I saw a wonder in this beautiful forest region, which was solely concerning the power of charity. इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये श्रीमदुत्तरकाण्डे षट्सप्ततितमः सर्गः ।। 76 ।। Thus ends the seventy-sixth sarga of Uttara Kanda of the holy Ramayana the first epic composed by sage Valmiki.",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

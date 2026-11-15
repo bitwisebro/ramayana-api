@@ -1,0 +1,527 @@
+{
+  "kanda": 2,
+  "kanda_name": "Ayodhya Kanda",
+  "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+  "sarga": 48,
+  "verses_count": 37,
+  "verses": [
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 48,
+      "verse": 1,
+      "sloka": "तेषामेवम् विष्ण्णानाम्पीडितानामतीव च ।बाष्पविप्लुतनेत्राणाम् सशोकानाम् मुमूर्षया ॥२-४८-१॥",
+      "transliteration": "teṣāmevam viṣṇṇānāmpīḍitānāmatīva ca ।bāṣpaviplutanetrāṇām saśokānām mumūrṣayā ॥2-48-1॥",
+      "translations": {
+        "english": "The people afflicted with sorrow followed Rama and returned to the city deeply distressed. Eyes overflowing with tears, they longed for death. Smitten with grief, they lost their highmindedness and looked as if their life had been drained out.",
+        "hindi": "श्रयोध्याकाण्ड का सँतालीसवाँ सगे समाप्त हुआ । —:0:— ; अष्टचत्वारिशः सग; 7,902: तेषामेवं विपण्णानां पीडितानामतीव च। वाष्पविप्लुतनेत्राणां सशोकानां मुमूषया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 48,
+      "verse": 2,
+      "sloka": "अनुगम्य निवृत्तानाम् रामम् नगर वासिनाम् ।उद्गतानि इव सत्त्वानि बभूवुर् अमनस्विनाम् ॥२-४८-२॥",
+      "transliteration": "anugamya nivṛttānām rāmam nagara vāsinām ।udgatāni iva sattvāni babhūvur amanasvinām ॥2-48-2॥",
+      "translations": {
+        "english": "The people afflicted with sorrow followed Rama and returned to the city deeply distressed. Eyes overflowing with tears, they longed for death. Smitten with grief, they lost their highmindedness and looked as if their life had been drained out.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 48,
+      "verse": 3,
+      "sloka": "स्वम् स्वम् निलयम् आगम्य पुत्र दारैः समावृताः ।अश्रूणि मुमुचुः सर्वे बाष्पेण पिहित आननाः ॥२-४८-३॥",
+      "transliteration": "svam svam nilayam āgamya putra dāraiḥ samāvṛtāḥ ।aśrūṇi mumucuḥ sarve bāṣpeṇa pihita ānanāḥ ॥2-48-3॥",
+      "translations": {
+        "english": "The subjects reached their respective homes and surrounded by their sons and wives broke down their faces flooded with tears.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 48,
+      "verse": 4,
+      "sloka": "न च आहृष्यन् न च अमोदन् वणिजो न प्रसारयन् ।न च अशोभन्त पण्यानि न अपचन् गृह मेधिनः ॥२-४८-४॥",
+      "transliteration": "na ca āhṛṣyan na ca amodan vaṇijo na prasārayan ।na ca aśobhanta paṇyāni na apacan gṛha medhinaḥ ॥2-48-4॥",
+      "translations": {
+        "english": "The people had no joy in life nor did they find cheer in anything. The merchants did not offer their wares for sale. The marketplace looked graceless (lifeless). (The stocks were empty). The householders did not cook their food.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 48,
+      "verse": 5,
+      "sloka": "नष्टम् दृष्ट्वा न अभ्यनन्दन् विपुलम् वा धन आगमम् ।पुत्रम् प्रथमजम् लब्ध्वा जननी न अभ्यनन्दत ॥२-४८-५॥",
+      "transliteration": "naṣṭam dṛṣṭvā na abhyanandan vipulam vā dhana āgamam ।putram prathamajam labdhvā jananī na abhyanandata ॥2-48-5॥",
+      "translations": {
+        "english": "Neither loss nor acquisition of wealth mattered (to the people). No mother rejoiced over getting her firstborn son.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 48,
+      "verse": 6,
+      "sloka": "गृहे गृहे रुदन्त्यः च भर्तारम् गृहम् आगतम् ।व्यगर्हयन्तः दुह्ख आर्ता वाग्भिस् तोत्रैः इव द्विपान् ॥२-४८-६॥",
+      "transliteration": "gṛhe gṛhe rudantyaḥ ca bhartāram gṛham āgatam ।vyagarhayantaḥ duhkha ārtā vāgbhis totraiḥ iva dvipān ॥2-48-6॥",
+      "translations": {
+        "english": "In every house, women wept and in anguish heaped abuses on their husbands on their arrival at home with words (sharp) like goads on elephants:",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 48,
+      "verse": 7,
+      "sloka": "किम् नु तेषाम् गृहैः कार्यम् किम् दारैः किम् धनेन वा ।पुत्रैः वा किम् सुखैः वा अपि ये न पश्यन्ति राघवम् ॥२-४८-७॥",
+      "transliteration": "kim nu teṣām gṛhaiḥ kāryam kim dāraiḥ kim dhanena vā ।putraiḥ vā kim sukhaiḥ vā api ye na paśyanti rāghavam ॥2-48-7॥",
+      "translations": {
+        "english": "For those who do not see Rama, of what use are the houses or spouses or sons or fortunes or delight?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 48,
+      "verse": 8,
+      "sloka": "एकः सत् पुरुषो लोके लक्ष्मणः सह सीतया ।यो अनुगच्चति काकुत्स्थम् रामम् परिचरन् वने ॥२-४८-८॥",
+      "transliteration": "ekaḥ sat puruṣo loke lakṣmaṇaḥ saha sītayā ।yo anugaccati kākutstham rāmam paricaran vane ॥2-48-8॥",
+      "translations": {
+        "english": "Lakshmana is the only fortunate person in the world who has followed Rama of the Kakutstha race along with Sita to serve them.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 48,
+      "verse": 9,
+      "sloka": "आपगाः कृत पुण्याः ताः पद्मिन्यः च सराम्सि च ।येषु स्नास्यति काकुत्स्थो विगाह्य सलिलम् शुचि ॥२-४८-९॥",
+      "transliteration": "āpagāḥ kṛta puṇyāḥ tāḥ padminyaḥ ca sarāmsi ca ।yeṣu snāsyati kākutstho vigāhya salilam śuci ॥2-48-9॥",
+      "translations": {
+        "english": "The rivers and the lotuspools have done some meritorious acts in the past as a result of which Rama having plunged into their holy waters will make his ablution.",
+        "hindi": "अब वे पुरवासी जन, शिषादयुक्त, अत्यन्त दुःखी होने के कारण आँसुओं से नेत्र भरे हुए थे और शोकाकुल थे तथा मरना चाहते थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 48,
+      "verse": 10,
+      "sloka": "शोभयिष्यन्ति काकुत्स्थम् अटव्यो रम्य काननाः ।आपगाः च महा अनूपाः सानुमन्तः च पर्वताः ॥२-४८-१०॥",
+      "transliteration": "śobhayiṣyanti kākutstham aṭavyo ramya kānanāḥ ।āpagāḥ ca mahā anūpāḥ sānumantaḥ ca parvatāḥ ॥2-48-10॥",
+      "translations": {
+        "english": "Forests with beautiful groves rivers with vast expanse of waters, mountains with their slopes will enhance the lustre of the scion of the Kakutsthas (Rama).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 48,
+      "verse": 11,
+      "sloka": "काननम् वा अपि शैलम् वा यम् रामः अभिगमिष्यति ।प्रिय अतिथिम् इव प्राप्तम् न एनम् शक्ष्यन्ति अनर्चितुम् ॥२-४८-११॥",
+      "transliteration": "kānanam vā api śailam vā yam rāmaḥ abhigamiṣyati ।priya atithim iva prāptam na enam śakṣyanti anarcitum ॥2-48-11॥",
+      "translations": {
+        "english": "Whichever hill or forest Rama visits, people will receive him there like a welcome guest and will not fail to render hospitality to him.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 48,
+      "verse": 12,
+      "sloka": "विचित्र कुसुम आपीडा बहु मन्जलि धारिणः ।अकाले च अपि मुख्यानि पुष्पाणि च फलानि च ॥२-४८-१२॥",
+      "transliteration": "vicitra kusuma āpīḍā bahu manjali dhāriṇaḥ ।akāle ca api mukhyāni puṣpāṇi ca phalāni ca ॥2-48-12॥",
+      "translations": {
+        "english": "Trees with bunches of cololurful flowers and clusters of blossoms hovering over with black bees will present themselves to the son of the Raghus (Rama).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 48,
+      "verse": 13,
+      "sloka": "अकाले चापि मुख्यानि पुष्पाणि च फलानि च ।दर्शयिष्यन्ति अनुक्रोशात् गिरयो रामम् आगतम् ॥२-४८-१३॥",
+      "transliteration": "akāle cāpi mukhyāni puṣpāṇi ca phalāni ca ।darśayiṣyanti anukrośāt girayo rāmam āgatam ॥2-48-13॥",
+      "translations": {
+        "english": "The hills will exhibit their excellent flowers and fruits off season out of compassion in order to welcome Rama.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 48,
+      "verse": 14,
+      "sloka": "प्रस्रविष्यन्ति तोयानि विमलानि महीधराः ।विदर्शयन्तः विविधान् भूयः चित्रामः च निर्झरान् ॥२-४८-१४॥",
+      "transliteration": "prasraviṣyanti toyāni vimalāni mahīdharāḥ ।vidarśayantaḥ vividhān bhūyaḥ citrāmaḥ ca nirjharān ॥2-48-14॥",
+      "translations": {
+        "english": "The mountains, displaying various wonderful streams here and there, will flow with pellucid waters (for Rama).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 48,
+      "verse": 15,
+      "sloka": "पादपाः पर्वत अग्रेषु रमयिष्यन्ति राघवम् ।यत्र रामः भयम् न अत्र न अस्ति तत्र पराभवः ॥२-४८-१५॥",
+      "transliteration": "pādapāḥ parvata agreṣu ramayiṣyanti rāghavam ।yatra rāmaḥ bhayam na atra na asti tatra parābhavaḥ ॥2-48-15॥",
+      "translations": {
+        "english": "The trees on the mountain summits will enchant Rama. Where Rama goes, there will be no room for fear or dishonour.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 48,
+      "verse": 16,
+      "sloka": "स हि शूरः महा बाहुः पुत्रः दशरथस्य च ।पुरा भवति नो दूरात् अनुगच्चाम राघवम् ॥२-४८-१६॥",
+      "transliteration": "sa hi śūraḥ mahā bāhuḥ putraḥ daśarathasya ca ।purā bhavati no dūrāt anugaccāma rāghavam ॥2-48-16॥",
+      "translations": {
+        "english": "Before that valiant, strongarmed son of Dasaratha goes too far away (from us), we should follow him.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 48,
+      "verse": 17,
+      "sloka": "पादच् चाया सुखा भर्तुस् तादृशस्य महात्मनः ।स हि नाथो जनस्य अस्य स गतिः स परायणम् ॥२-४८-१७॥",
+      "transliteration": "pādac cāyā sukhā bhartus tādṛśasya mahātmanaḥ ।sa hi nātho janasya asya sa gatiḥ sa parāyaṇam ॥2-48-17॥",
+      "translations": {
+        "english": "The shadow of the feet of this magnanimous lord will give us happiness. He alone is the goal and protector of all these people. He is the supreme refuge.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 48,
+      "verse": 18,
+      "sloka": "वयम् परिचरिष्यामः सीताम् यूयम् तु राघवम् ।इति पौर स्त्रियो भर्तृऋन् दुह्ख आर्ताः तत् तत् अब्रुवन् ॥२-४८-१८॥",
+      "transliteration": "vayam paricariṣyāmaḥ sītām yūyam tu rāghavam ।iti paura striyo bhartṛṛn duhkha ārtāḥ tat tat abruvan ॥2-48-18॥",
+      "translations": {
+        "english": "We will serve Sita. You will serve Rama. Such were the words of the distressed women of the city to their husbands. (They continued).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 48,
+      "verse": 19,
+      "sloka": "युष्माकम् राघवो अरण्ये योग क्षेमम् विधास्यति ।सीता नारी जनस्य अस्य योग क्षेमम् करिष्यति ॥२-४८-१९॥",
+      "transliteration": "yuṣmākam rāghavo araṇye yoga kṣemam vidhāsyati ।sītā nārī janasya asya yoga kṣemam kariṣyati ॥2-48-19॥",
+      "translations": {
+        "english": "In the forest, Rama will look after your wellbeing and Sita will ensure our, women folk's security.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 48,
+      "verse": 20,
+      "sloka": "को न्व् अनेन अप्रतीतेन स उत्कण्ठित जनेन च ।सम्प्रीयेत अमनोज्ञेन वासेन हृत चेतसा ॥२-४८-२०॥",
+      "transliteration": "ko nv anena apratītena sa utkaṇṭhita janena ca ।samprīyeta amanojñena vāsena hṛta cetasā ॥2-48-20॥",
+      "translations": {
+        "english": "The people here are choked with grief. Who will like to stay here where life is disagreeable, cheerless, full of despondency and distress?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 48,
+      "verse": 21,
+      "sloka": "कैकेय्या यदि चेद् राज्यम् स्यात् अधर्म्यम् अनाथवत् ।न हि नो जीवितेन अर्थः कुतः पुत्रैः कुतः धनैः ॥२-४८-२१॥",
+      "transliteration": "kaikeyyā yadi ced rājyam syāt adharmyam anāthavat ।na hi no jīvitena arthaḥ kutaḥ putraiḥ kutaḥ dhanaiḥ ॥2-48-21॥",
+      "translations": {
+        "english": "If Kaikeyi rules this kingdom unethically, we do not want to live here like orphans. What is the use of our progeny or property (in such a place)?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 48,
+      "verse": 22,
+      "sloka": "यया पुत्रः च भर्ता च त्यक्ताव् ऐश्वर्य कारणात् ।कम् सा परिहरेद् अन्यम् कैकेयी कुल पाम्सनी ॥२-४८-२२॥",
+      "transliteration": "yayā putraḥ ca bhartā ca tyaktāv aiśvarya kāraṇāt ।kam sā parihared anyam kaikeyī kula pāmsanī ॥2-48-22॥",
+      "translations": {
+        "english": "Can Kaikeyi, who has brought disgrace to the race by abandoning her husband and son for the sake of wealth, spare others?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 48,
+      "verse": 23,
+      "sloka": "कैकेय्या न वयम् राज्ये भृतका निवसेमहि ।जीवन्त्या जातु जीवन्त्यः पुत्रैः अपि शपामहे ॥२-४८-२३॥",
+      "transliteration": "kaikeyyā na vayam rājye bhṛtakā nivasemahi ।jīvantyā jātu jīvantyaḥ putraiḥ api śapāmahe ॥2-48-23॥",
+      "translations": {
+        "english": "We swear on our sons that as long as Kaikeyi lives, or we live, we will never stay in her kingdom as servants.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 48,
+      "verse": 24,
+      "sloka": "या पुत्रम् पार्थिव इन्द्रस्य प्रवासयति निर्घृणा ।कः ताम् प्राप्य सुखम् जीवेद् अधर्म्याम् दुष्ट चारिणीम् ॥२-४८-२४॥",
+      "transliteration": "yā putram pārthiva indrasya pravāsayati nirghṛṇā ।kaḥ tām prāpya sukham jīved adharmyām duṣṭa cāriṇīm ॥2-48-24॥",
+      "translations": {
+        "english": "Who can live with pleasure under the rule of Kaikeyi of unrighteous character and wicked behaviour, one who without compassion banished Rama, son of Dasaratha, king of kings?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 48,
+      "verse": 25,
+      "sloka": "उपद्रुतमिदम् सर्वमनालम्बमनायकम् ।कैकेय्या हि कृते सर्वम् विनाशमुपयास्यति ॥२-४८-२५॥",
+      "transliteration": "upadrutamidam sarvamanālambamanāyakam ।kaikeyyā hi kṛte sarvam vināśamupayāsyati ॥2-48-25॥",
+      "translations": {
+        "english": "The entire kingdom, for the sake of Kaikeyi, is under a great calamity. With no support or leader it will definitely go to ruin.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 48,
+      "verse": 26,
+      "sloka": "न हि प्रव्रजिते रामे जीविष्यति मही पतिः ।मृते दशरथे व्यक्तम् विलोपः तत् अनन्तरम् ॥२-४८-२६॥",
+      "transliteration": "na hi pravrajite rāme jīviṣyati mahī patiḥ ।mṛte daśarathe vyaktam vilopaḥ tat anantaram ॥2-48-26॥",
+      "translations": {
+        "english": "Now that Rama has been banished, the king will not live (long). After his death there will be evidently only lamentations.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 48,
+      "verse": 27,
+      "sloka": "ते विषम् पिबत आलोड्य क्षीण पुण्याः सुदुर्गताः ।राघवम् वा अनुगच्चध्वम् अश्रुतिम् वा अपि गच्चत ॥२-४८-२७॥",
+      "transliteration": "te viṣam pibata āloḍya kṣīṇa puṇyāḥ sudurgatāḥ ।rāghavam vā anugaccadhvam aśrutim vā api gaccata ॥2-48-27॥",
+      "translations": {
+        "english": "Where you are in deep trouble with merits exhausted, it is better to take poison, or follow Rama or walk into the unknown.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 48,
+      "verse": 28,
+      "sloka": "मिथ्या प्रव्राजितः रामः सभार्यः सह लक्ष्मणः ।भरते सम्निषृष्टाः स्मः सौनिके पशवो यथा ॥२-४८-२८॥",
+      "transliteration": "mithyā pravrājitaḥ rāmaḥ sabhāryaḥ saha lakṣmaṇaḥ ।bharate samniṣṛṣṭāḥ smaḥ saunike paśavo yathā ॥2-48-28॥",
+      "translations": {
+        "english": "Rama along with Sita and Lakshmana has been deceitfully exiled and all of us delivered to Bharata like beasts to a butcher (for protection).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 48,
+      "verse": 29,
+      "sloka": "पूर्णचन्द्राननः श्यामो गूढजत्रुररिंदमः ।आजानुबाहुः पद्माक्षो रामो लक्ष्मनपूर्वजः ॥२-४८-२९॥",
+      "transliteration": "pūrṇacandrānanaḥ śyāmo gūḍhajatrurariṁdamaḥ ।ājānubāhuḥ padmākṣo rāmo lakṣmanapūrvajaḥ ॥2-48-29॥",
+      "translations": {
+        "english": "Rama, elder brother to Lakshmana is a tiger among men, a subduer of enemies, powerful like an intoxicated elephant, and a great charioteer. Blue in complexion, he has a face like the full Moon. He has lotuslike eyes, kneelong arms and fleshy clavicles. Endowed with a sweet nature, he always speaks the truth and the first to speak to others. When he roams the forest, charming like the Moon and pleasing to the whole world, he will surely make it look graceful.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 48,
+      "verse": 30,
+      "sloka": "पूर्वाभिभाषी मधुरः सत्यवादी महाबलः ।सौम्यः सर्वस्य लोकस्य चन्द्रवत्प्रियदर्शनः ॥२-४८-३०॥",
+      "transliteration": "pūrvābhibhāṣī madhuraḥ satyavādī mahābalaḥ ।saumyaḥ sarvasya lokasya candravatpriyadarśanaḥ ॥2-48-30॥",
+      "translations": {
+        "english": "Rama, elder brother to Lakshmana is a tiger among men, a subduer of enemies, powerful like an intoxicated elephant, and a great charioteer. Blue in complexion, he has a face like the full Moon. He has lotuslike eyes, kneelong arms and fleshy clavicles. Endowed with a sweet nature, he always speaks the truth and the first to speak to others. When he roams the forest, charming like the Moon and pleasing to the whole world, he will surely make it look graceful.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 48,
+      "verse": 31,
+      "sloka": "नूनम् पुरुषशार्दूलो मत्तमातङ्गविक्रमः ।शोभयुश्यत्यरण्यानि विचरन् स महारथः ॥२-४८-३१॥",
+      "transliteration": "nūnam puruṣaśārdūlo mattamātaṅgavikramaḥ ।śobhayuśyatyaraṇyāni vicaran sa mahārathaḥ ॥2-48-31॥",
+      "translations": {
+        "english": "Rama, elder brother to Lakshmana is a tiger among men, a subduer of enemies, powerful like an intoxicated elephant, and a great charioteer. Blue in complexion, he has a face like the full Moon. He has lotuslike eyes, kneelong arms and fleshy clavicles. Endowed with a sweet nature, he always speaks the truth and the first to speak to others. When he roams the forest, charming like the Moon and pleasing to the whole world, he will surely make it look graceful.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 48,
+      "verse": 32,
+      "sloka": "तास्तथा विलपन्त्यस्तु नगरे नागरस्त्रियः ।चुक्रुशुर्दुःखसम्तप्तामृत्योरिव भयागमे ॥२-४८-३२॥",
+      "transliteration": "tāstathā vilapantyastu nagare nāgarastriyaḥ ।cukruśurduḥkhasamtaptāmṛtyoriva bhayāgame ॥2-48-32॥",
+      "translations": {
+        "english": "Such was the lamentation of the women of the city. Overcome with grief as if frightened at the approach of death, they wept bitterly.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 48,
+      "verse": 33,
+      "sloka": "इत्येव विलपन्तीनाम् स्त्रीणाम् वेश्मसु राघवम् ।जगामास्तम् दिनकरो रजनी चाभ्यवर्तत ॥२-४८-३३॥",
+      "transliteration": "ityeva vilapantīnām strīṇām veśmasu rāghavam ।jagāmāstam dinakaro rajanī cābhyavartata ॥2-48-33॥",
+      "translations": {
+        "english": "As the women of the city were thus lamenting over the scion of the Raghus (Rama) (sitting) at home, the sun set. Night fell.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 48,
+      "verse": 34,
+      "sloka": "नष्टज्वलनसम्पाता प्रशान्ताध्यायसत्कथा ।तिमिरेणाभिलिप्तेव तदा सा नगरी बभौ ॥२-४८-३४॥",
+      "transliteration": "naṣṭajvalanasampātā praśāntādhyāyasatkathā ।timireṇābhilipteva tadā sā nagarī babhau ॥2-48-34॥",
+      "translations": {
+        "english": "With sacrificial fires extinguished and the reading of holy scriptures and sacred recitations stopped, Ayodhya looked as if besmeared with darkness.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 48,
+      "verse": 35,
+      "sloka": "उपशान्तवणिक्पण्या नष्टहर्षा निराश्रया ।अयोध्या नगरी चासीन्नष्टतारमिवाम्बरम् ॥२-४८-३५॥",
+      "transliteration": "upaśāntavaṇikpaṇyā naṣṭaharṣā nirāśrayā ।ayodhyā nagarī cāsīnnaṣṭatāramivāmbaram ॥2-48-35॥",
+      "translations": {
+        "english": "With markets closed, the city of Ayodhya cheerless and shelterless looked like the sky without stars.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 48,
+      "verse": 36,
+      "sloka": "तथा स्त्रियो राम निमित्तम् आतुरा ।यथा सुते भ्रातरि वा विवासिते ।विलप्य दीना रुरुदुर् विचेतसः ।सुतैः हि तासाम् अधिको हि सो अभवत् ॥२-४८-३६॥",
+      "transliteration": "tathā striyo rāma nimittam āturā ।yathā sute bhrātari vā vivāsite ।vilapya dīnā rurudur vicetasaḥ ।sutaiḥ hi tāsām adhiko hi so abhavat ॥2-48-36॥",
+      "translations": {
+        "english": "The women grieved over Rama as if a son or a brother had been exiled. Depressed and distressed, they wept and sobbed. For them, Rama was indeed more than their sons.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 48,
+      "verse": 37,
+      "sloka": "प्रशान्तगीतोत्सव नृत्तवादना ।व्यपास्तहर्षा पिहितापणोदया ।तदा ह्ययोध्या नगरी बभूव सा ।महार्णवः सम्क्षपितोदको यथा ॥२-४८-३७॥",
+      "transliteration": "praśāntagītotsava nṛttavādanā ।vyapāstaharṣā pihitāpaṇodayā ।tadā hyayodhyā nagarī babhūva sā ।mahārṇavaḥ samkṣapitodako yathā ॥2-48-37॥",
+      "translations": {
+        "english": "With the cessation of singing, celebrations, dance and music, there was no rejoicing in the city. The markets displaying merchandise were shut down. The city of Ayodhya looked like the ocean with its waters diminished. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे अष्टचत्वारिशस्सर्गः।। Thus ends the fortyeighth sarga of Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

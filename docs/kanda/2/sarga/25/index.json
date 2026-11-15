@@ -1,0 +1,667 @@
+{
+  "kanda": 2,
+  "kanda_name": "Ayodhya Kanda",
+  "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+  "sarga": 25,
+  "verses_count": 47,
+  "verses": [
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 25,
+      "verse": 1,
+      "sloka": "सा अपनीय तम् आयासम् उपस्पृश्य जलम् शुचि ।चकार माता रामस्य मन्गलानि मनस्विनी ॥२-२५-१॥",
+      "transliteration": "sā apanīya tam āyāsam upaspṛśya jalam śuci ।cakāra mātā rāmasya mangalāni manasvinī ॥2-25-1॥",
+      "translations": {
+        "english": "Highminded mother Kausalya, her anguish subdued, performed the sipping rite (achamana) and her self rendered pure, performed auspicious ceremonies for Rama.",
+        "hindi": "प्रिय बोलने बाली और प्रीति-की पात्र वैदेही से जब श्रीराम- चन्द्र जी ने ऐसा (अयोध्या ही में रहने को कहा); तब जानकी जी प्रीतियुक्त ( किन्तु ऊपरं से ) क्रोध प्रदर्शित कर श्रीरामचन्द्र जी से बोलीं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 25,
+      "verse": 2,
+      "sloka": "न शक्यसे वारयौइतुम् गच्छेदानीम् रघुत्तम ।श्रीघ्रम् च विनिवर्तस्व वर्तस्व च सताम् क्रमे ॥२-२५-२॥",
+      "transliteration": "na śakyase vārayauitum gacchedānīm raghuttama ।śrīghram ca vinivartasva vartasva ca satām krame ॥2-25-2॥",
+      "translations": {
+        "english": "I am unable to dissuade you, O the best among the descendants of Raghus, from going into the forest. Go now and return soon. Follow in the footsteps of the virtuous.",
+        "hindi": "हे राम! तुम यह केसी हल्की बात कहते हो। इसे सुन कर _ तो हे राजकुमार ! मुझे हँसी आती है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 25,
+      "verse": 3,
+      "sloka": "यम् पालयसि धर्मम् त्वम् धृत्या च नियमेन च ।सवै राघवशार्दुल! धर्मस्त्वामभिरक्षतु ॥२-२५-३॥",
+      "transliteration": "yam pālayasi dharmam tvam dhṛtyā ca niyamena ca ।savai rāghavaśārdula! dharmastvāmabhirakṣatu ॥2-25-3॥",
+      "translations": {
+        "english": "The duty which you are carrying out with courage and selfdiscipline, O tiger among the descendants of Raghu will alone protect you.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 25,
+      "verse": 4,
+      "sloka": "येभ्यः प्रणमसे पुत्र चैत्येष्वायतनेषु च ।ते च त्वामभिरक्षन्तु वने सह महर्षिभिः ॥२-२५-४॥",
+      "transliteration": "yebhyaḥ praṇamase putra caityeṣvāyataneṣu ca ।te ca tvāmabhirakṣantu vane saha maharṣibhiḥ ॥2-25-4॥",
+      "translations": {
+        "english": "O my son may the gods in the temples and in other sacred places and the maharshis you bow to protect you in the forest",
+        "hindi": "हे आयपुत्र ! पिता, माता, भाई, पुत्र ओर पुत्रबधू-ये सब अपने-अपने पुण्यां को भोगते हुए अपने-अपने भाग्य के भरोसे भत भाग्य तु भागका प्राम्मोति पुरुषषभ | अतश्चैवाहमा दिष्टा बने वंस्तव्यमित्यपि",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 25,
+      "verse": 5,
+      "sloka": "यानि दत्तानि तेऽ स्त्राणि विश्वामित्रेण धीमता ।तानि त्वामभिरक्षन्तु गुणैस्समुदितम् सदा ॥२-२५-५॥",
+      "transliteration": "yāni dattāni te' strāṇi viśvāmitreṇa dhīmatā ।tāni tvāmabhirakṣantu guṇaissamuditam sadā ॥2-25-5॥",
+      "translations": {
+        "english": "May the weapons endowed with mantric qualities, which were bestowed on you by sagacious Viswamitra always protect you",
+        "hindi": "प्रणयादेव ~ सौहृदादेव नढुवेरात्‌ । ( गो० ) किन्तु स्त्री ( अद्धोङ्गिनी होने के कारण ) अपने पति के भाग्य का फल भोगती है। इसलिए मुझे भी महाराज की आज्ञा वन जाने की हो चुकी II न पिता नात्मजो नात्मा न माता न सखीजनः । इह प्रत्य च नारीणां पतिरेको गति! सदा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 25,
+      "verse": 6,
+      "sloka": "पितृशुश्रुषया पुत्र मातृशु श्रूषया तथा ।सत्येन च महाबाहो चिरम् जीवाभिरक्षितः ॥२-२५-६॥",
+      "transliteration": "pitṛśuśruṣayā putra mātṛśu śrūṣayā tathā ।satyena ca mahābāho ciram jīvābhirakṣitaḥ ॥2-25-6॥",
+      "translations": {
+        "english": "O my mighty armed son protected by the service to your father, mother and to truth, live long",
+        "hindi": "यदि तुम आज ही बन को जा रहे हो, तो मैं तुम्हारे आगे- आगे कुश ओर काँटो को हटा रास्ता साफ करती पैदल ही चलू गी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 25,
+      "verse": 7,
+      "sloka": "समित्कुशपवित्राणि वेद्यश्चायतनानि च ।स्थण्ढिलानि विचित्राणि शैला वृक्षाः कुशुफा ह्रदाः ॥२-२५-७॥",
+      "transliteration": "samitkuśapavitrāṇi vedyaścāyatanāni ca ।sthaṇḍhilāni vicitrāṇi śailā vṛkṣāḥ kuśuphā hradāḥ ॥2-25-7॥",
+      "translations": {
+        "english": "O best of men may sacrificial fuel, kusa grass and sacred rings made of kusha grass, sacrificial altars, temples, various levelled sacrificial grounds, mountains, trees, plants, lakes, birds, serpents and lions protect you",
+        "hindi": "हे बीर ! इष्यो और रोष को त्याग कर निःशङ्क हो मुझे अपने साथ ले चलो। क्योंकि मुझमें कोई ऐसा पाप नहीं है, जो मेरे यहाँ छोड़ने के लिए पयोप्त कारण कहा जा स के",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 25,
+      "verse": 8,
+      "sloka": "पतङ्गाः पन्नगाः सिम्हास्त्वाम् रक्षन्तु नरोत्तम ।स्वस्ति साध्याः च विश्वे च मरुतः च महर्षयः ॥२-२५-८॥",
+      "transliteration": "pataṅgāḥ pannagāḥ simhāstvām rakṣantu narottama ।svasti sādhyāḥ ca viśve ca marutaḥ ca maharṣayaḥ ॥2-25-8॥",
+      "translations": {
+        "english": "May all gods known as Sadhyas, Visvedevatas, Maruts, great ascetics, the sustainer (Virat Purusha), the preserver of creation (lord Brahma), Sun, Bhaga, Aryama, and all other important guardians of the world headed by Indra bestow their blessings on you",
+        "hindi": "विस्नन्धः--निःशङ्कः । (गो०) २ वेह्ायसगतेन-्शिमादष्ट्ेश्चय ` सिद्धि सम्पन्नो चितनिहायस्सम्बन्धि गमनाद्वा । (गो०) ३ पादच्छाया--पा सेवा । ( गो० ) दु- ` «के I I i रि सप ७६ ३ ; चक्रवर्ती राजाओं के महलों में वास करने से अथवा स्वग के विमानों में रहने से अथवा आठों प्रकार के अणिमादि ऐश्वर्यो की प्राप्ति से जो सुख प्राप्त होता है उससे कहीं अधिक सुख स्त्री को पति की सेवा करने में प्राप्त होता है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 25,
+      "verse": 9,
+      "sloka": "स्वस्ति धाता विधाता च स्वस्ति पूषा भगो अर्यमा ।ऋतवः चैव पक्षाः च मासाः सम्वत्सराः क्षपाः ॥२-२५-९॥",
+      "transliteration": "svasti dhātā vidhātā ca svasti pūṣā bhago aryamā ।ṛtavaḥ caiva pakṣāḥ ca māsāḥ samvatsarāḥ kṣapāḥ ॥2-25-9॥",
+      "translations": {
+        "english": "May the six seasons, years, months, fortnights, nights, days and moments bring good to you",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 25,
+      "verse": 10,
+      "sloka": "ऋतवश्चैव पक्षाश्च मासास्सम्वत्सराः क्षपाः ।दिनानि च मुहूर्ताः च स्वस्ति कुर्वन्तु ते सदा ॥२-२५-१०॥",
+      "transliteration": "ṛtavaścaiva pakṣāśca māsāssamvatsarāḥ kṣapāḥ ।dināni ca muhūrtāḥ ca svasti kurvantu te sadā ॥2-25-10॥",
+      "translations": {
+        "english": "O my son may Smriti, Dhriti and Dharma always guard you. May divine personages and gods, Skanda, Soma, Brihaspati, the seven rishis and Narada protect you at all times",
+        "hindi": "मैं निश्चय ही तुम्हारे साथ उस निजन वन में चलूंगी जो नाना भाँति के बनैले जीवों से पूण और शादूल एबं बृकादि ( भेड़ियों ) से NN सेबित है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 25,
+      "verse": 11,
+      "sloka": "स्मृतिर् धृतिः च धर्मः च पान्तु त्वाम् पुत्र सर्वतः ।स्कन्दः च भगवान् देवः सोमः च सबृहस्पतिः ॥२-२५-११॥",
+      "transliteration": "smṛtir dhṛtiḥ ca dharmaḥ ca pāntu tvām putra sarvataḥ ।skandaḥ ca bhagavān devaḥ somaḥ ca sabṛhaspatiḥ ॥2-25-11॥",
+      "translations": {
+        "english": "O my son may Smriti, Dhriti and Dharma always guard you. May divine personages and gods, Skanda, Soma, Brihaspati, the seven rishis and Narada protect you at all times",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 25,
+      "verse": 12,
+      "sloka": "सप्त ऋषयो नारदः च ते त्वाम् रक्षन्तु सर्वतः ।याश्चापि सर्वतः सिद्दा दिश्श्च सदिगीश्वराः ॥२-२५-१२॥",
+      "transliteration": "sapta ṛṣayo nāradaḥ ca te tvām rakṣantu sarvataḥ ।yāścāpi sarvataḥ siddā diśśca sadigīśvarāḥ ॥2-25-12॥",
+      "translations": {
+        "english": "May Siddhas, guardians of the quarters invoked by me protect you from all directions in that forest at all times, O my son",
+        "hindi": "हे वीर ! में नित्य नियमपूवेक काम-भोग-विंत्रजिता हो आपके साथ उन मधुर गन्धयुक्त बनो में तरिचरू गी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 25,
+      "verse": 13,
+      "sloka": "स्तुता मया वने तस्मिन् पान्तुत्वाम् पुत्र नित्यशः ।शैलाः सर्वे समुद्राश्च राजा वरुण एव च ॥२-२५-१३॥",
+      "transliteration": "stutā mayā vane tasmin pāntutvām putra nityaśaḥ ।śailāḥ sarve samudrāśca rājā varuṇa eva ca ॥2-25-13॥",
+      "translations": {
+        "english": "When you dwell in the forest may all the mountains, seas, lord Varuna, heaven, space, and earth and also all rivers, all stars and planets with their presiding deities, day, night, dawn and dusk protect you",
+        "hindi": "हे प्राणनाथ ! जब तुम बन में असंख्य मनुष्यों का भरण-पोषण करने का भार उठा सकते हो, तब क्या आप मुझ अकेली की रक्षा न कर सकोगे ?",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 25,
+      "verse": 14,
+      "sloka": "द्यौरन्तरिक्षम् पृथिवी नद्यस्सर्वास्तथैव च ।नक्षत्राणि च सर्वाणि ग्रहाः च सहदेवताः ॥२-२५-१४॥",
+      "transliteration": "dyaurantarikṣam pṛthivī nadyassarvāstathaiva ca ।nakṣatrāṇi ca sarvāṇi grahāḥ ca sahadevatāḥ ॥2-25-14॥",
+      "translations": {
+        "english": "When you dwell in the forest may all the mountains, seas, lord Varuna, heaven, space, and earth and also all rivers, all stars and planets with their presiding deities, day, night, dawn and dusk protect you",
+        "hindi": "हे महाभाग ! में भी आज अवश्य तुम्हारे साथ वन चलेगी | तुस मेरे इस उत्साह को भंग नहीं कर सकते । अथवा अब तुम निषेध न करो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 25,
+      "verse": 15,
+      "sloka": "अहोरात्रे तथा सन्ध्ये पान्तु त्वाम् वनमाश्रितम् ।ऋतवश्चैव ष्ट्पुण्या मासाः सम्वत्सरास्तथा ॥२-२५-१५॥",
+      "transliteration": "ahorātre tathā sandhye pāntu tvām vanamāśritam ।ṛtavaścaiva ṣṭpuṇyā māsāḥ samvatsarāstathā ॥2-25-15॥",
+      "translations": {
+        "english": "May all the six pious seasons, months, years, kala and kashta contribute to your wellbeing",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 25,
+      "verse": 16,
+      "sloka": "कलाश्च काष्ठाश्च तथा तव शर्म दिशन्तु ते ।महा वनानि चरतः मुनि वेषस्य धीमतः ॥२-२५-१६॥",
+      "transliteration": "kalāśca kāṣṭhāśca tathā tava śarma diśantu te ।mahā vanāni carataḥ muni veṣasya dhīmataḥ ॥2-25-16॥",
+      "translations": {
+        "english": "May gods and demons always give you happiness when you wander in that great forest clad in ascetic garb",
+        "hindi": "ब्रह्मचारिणी -कामभौगविवजिता [( गो० ) र रिं ~ 00 मैं तुम जैसे बुद्धिमान प्राणनाथ सें रक्षिता होकर भीलों, पहाड़ों, तालाबों और वन को निःशङ्क हो देखना चाहती हूँ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 25,
+      "verse": 17,
+      "sloka": "तवादित्याश्च दैत्याश्च भवन्तु सुखदाः सदा ।राक्षसानाम् पिशाचानाम् रौद्राणाम् क्रूरकर्मणाम् ॥२-२५-१७॥",
+      "transliteration": "tavādityāśca daityāśca bhavantu sukhadāḥ sadā ।rākṣasānām piśācānām raudrāṇām krūrakarmaṇām ॥2-25-17॥",
+      "translations": {
+        "english": "Let there be no fear from rakshasas who are fearful to look at and commit cruel acts, from pisachas (evil spirits) and from flesheating animals, O my child",
+        "hindi": "मैं चाहती हुँ कि तुम जैसे बीर के साथ हंस ओर कारण्डव पक्तियों से सेवित और सुन्दर फूली हुई कमलिनियों से युक्त तड़ांगों को सुखपूवेक्र अथोत्‌ भली भाँति देखूँ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 25,
+      "verse": 18,
+      "sloka": "क्रव्यादानाम् च सर्वेषम् माभूत्पुत्रक ते भयम् ।प्लवगा वृश्चिका दम्शा मशकाः चैव कानने ॥२-२५-१८॥",
+      "transliteration": "kravyādānām ca sarveṣam mābhūtputraka te bhayam ।plavagā vṛścikā damśā maśakāḥ caiva kānane ॥2-25-18॥",
+      "translations": {
+        "english": "May monkeys, scorpions, wild gnats, mosquitoes, reptiles and insects in that inaccessible forest not trouble you",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 25,
+      "verse": 19,
+      "sloka": "सरी सृपाः च कीटाः च मा भूवन् गहने तव ।महा द्विपाः च सिम्हाः च व्याघ्राऋक्षाः च दम्ष्ट्रिणः ॥२-२५-१९॥",
+      "transliteration": "sarī sṛpāḥ ca kīṭāḥ ca mā bhūvan gahane tava ।mahā dvipāḥ ca simhāḥ ca vyāghrāṛkṣāḥ ca damṣṭriṇaḥ ॥2-25-19॥",
+      "translations": {
+        "english": "May the mighty elephants, lions with pointed incisors, tigers, bears and fierce, wild, horned buffaloes, do you no harm, O my dear son",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 25,
+      "verse": 20,
+      "sloka": "महिषाः शृन्गिणो रौद्रा न ते द्रुह्यन्तु पुत्रक ।नृ माम्स भोजना रौद्रा ये च अन्ये सत्त्व जातयः ॥२-२५-२०॥",
+      "transliteration": "mahiṣāḥ śṛngiṇo raudrā na te druhyantu putraka ।nṛ māmsa bhojanā raudrā ye ca anye sattva jātayaḥ ॥2-25-20॥",
+      "translations": {
+        "english": "May the ferocious breed of cernivores I worship not harm you, O my child",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 25,
+      "verse": 21,
+      "sloka": "मा च त्वाम् हिम्सिषुः पुत्र मया सम्पूजिताः तु इह ।आगमाः ते शिवाः सन्तु सिध्यन्तु च पराक्रमाः ॥२-२५-२१॥",
+      "transliteration": "mā ca tvām himsiṣuḥ putra mayā sampūjitāḥ tu iha ।āgamāḥ te śivāḥ santu sidhyantu ca parākramāḥ ॥2-25-21॥",
+      "translations": {
+        "english": "O Rama may your path be auspecious May your valour be fruitful Go safel and achieve success in everything",
+        "hindi": "में तो तुम्हारे साथ उस दुगेम वन में चलू'गी, जो हिरनों से युक्त ओर बन्दरों तथा हाथियों से सेवित है। तुम्हारी चरणसेवा करती हुई में बहाँ उसी प्रकार सुखपूवक रहुँगी जिस प्रकार में अपने पिता के घर में सुख से रहती थी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 25,
+      "verse": 22,
+      "sloka": "सर्व सम्पत्तयो राम स्वस्तिमान् गच्च पुत्रक ।स्वस्ति ते अस्तु आन्तरिक्षेभ्यः पार्थिवेभ्यः पुनः पुनः ॥२-२५-२२॥",
+      "transliteration": "sarva sampattayo rāma svastimān gacca putraka ।svasti te astu āntarikṣebhyaḥ pārthivebhyaḥ punaḥ punaḥ ॥2-25-22॥",
+      "translations": {
+        "english": "May gods from the sky, the earth and all other gods protect you and let there be no harm to you from your foes.",
+        "hindi": "सैं तो तुमको छोड़ अन्य किसी को नहीं जानती । मेरा मन तुम्हीं में अनुरक्त है । अतः यदि तुमसे विछोह हुआ, तो मैं अपने , प्राण त्यागने को तैयार हूँ । हे नाथ! मेरी प्राथेना स्वीकार कर मुझे अपने साथ लेते चले । मेरा कुछ भी भार तुमको उठाना न पड़ेगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 25,
+      "verse": 23,
+      "sloka": "सर्वेभ्यः चैव देवेभ्यो ये च ते परिपन्थिनः ।गुरुः सोमश्च सूर्यश्च धनदोऽथ यमस्तथा ॥२-२५-२३॥",
+      "transliteration": "sarvebhyaḥ caiva devebhyo ye ca te paripanthinaḥ ।guruḥ somaśca sūryaśca dhanado'tha yamastathā ॥2-25-23॥",
+      "translations": {
+        "english": "Propitiated by my worship, O Rama may Brihaspati, Moon, Sun, Kubera and Yama protect you when you are in Dandaka forest",
+        "hindi": "इति सप्तविंशः सगः ॥| १ घमंबत्सलः--काम्ताब्लेशासहिप्णुः | (गो) २ निनीषति- नेतु= ` मिच्छुति। ( गोऽ ) न RIS), सीता जी के इस प्रकार अनुनय विनयपूरवेक प्रार्थना करने पर भी सीता जी को कष्टित देखने में असमर्थ श्रीरामचन्द्र जी जानकी जी को अपने साथ वन में ले जाने को राजी न हुए! प्रत्युत वनवास के अनेक कष्टों का वर्णन कर, जिससे जानकी जी. बन जाने का विचार छोड़ द्‌, बोले",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 25,
+      "verse": 24,
+      "sloka": "पान्तु त्वामर्चिता राम! दण्डकारण्यवासिनम् ।अग्निर्वायुस्तथा धूमोमन्त्राश्चर्षिमुखाच्च्युताः ॥२-२५-२४॥",
+      "transliteration": "pāntu tvāmarcitā rāma! daṇḍakāraṇyavāsinam ।agnirvāyustathā dhūmomantrāścarṣimukhāccyutāḥ ॥2-25-24॥",
+      "translations": {
+        "english": "May Fire, Wind, Smoke and Mantras emanated from the mouths of rishis protect you when you take your ablutions, O Son of the Raghu race O Joy of the Raghus",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 25,
+      "verse": 25,
+      "sloka": "उपस्पर्शनकाले तु पान्तु त्वाम् रघुन्ददन ।सर्व लोक प्रभुर् ब्रह्मा भूत भर्ता तथा ऋषयः ॥२-२५-२५॥",
+      "transliteration": "upasparśanakāle tu pāntu tvām raghundadana ।sarva loka prabhur brahmā bhūta bhartā tathā ṛṣayaḥ ॥2-25-25॥",
+      "translations": {
+        "english": "May Siva, lord of all the worlds, Visnu, supporter of living beings, Brahma, rishis and all the rest of the gods protect you while you dwell in the forest",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 25,
+      "verse": 26,
+      "sloka": "ये च शेषाः सुराः ते त्वाम् रक्षन्तु वन वासिनम् ।इति माल्यैः सुर गणान् गन्धैः च अपि यशस्विनी ॥२-२५-२६॥",
+      "transliteration": "ye ca śeṣāḥ surāḥ te tvām rakṣantu vana vāsinam ।iti mālyaiḥ sura gaṇān gandhaiḥ ca api yaśasvinī ॥2-25-26॥",
+      "translations": {
+        "english": "Thus illustrious, largeeyed Kausalya worshipped hosts of gods by offering them garlands and fragrant substances with appropriate prayers.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 25,
+      "verse": 27,
+      "sloka": "स्तुतिभिः च अनुरूपाभिर् आनर्च आयत लोचना ।ज्वलनम् समुपादाय ब्राह्मणेन महात्मना ॥२-२५-२७॥",
+      "transliteration": "stutibhiḥ ca anurūpābhir ānarca āyata locanā ।jvalanam samupādāya brāhmaṇena mahātmanā ॥2-25-27॥",
+      "translations": {
+        "english": "After collecting the sacred fire through great brahmins she duly offered oblations to the gods for the welfare of Rama.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 25,
+      "verse": 28,
+      "sloka": "हावयामास विधिना राममङ्गलकारणात् ।घृतम् श्वेतानि माल्यानि समिधः श्वेतसर्षपान् ॥२-२५-२८॥",
+      "transliteration": "hāvayāmāsa vidhinā rāmamaṅgalakāraṇāt ।ghṛtam śvetāni mālyāni samidhaḥ śvetasarṣapān ॥2-25-28॥",
+      "translations": {
+        "english": "Noble Kausalya procured clarified butter, garlands of white flowers, sacred fuel, and grains of white mustard seed (for oblations to the gods).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 25,
+      "verse": 29,
+      "sloka": "उपसम्पादयामास कौसल्या पमाङ्गना ।उपाध्यायः स विधिना हुत्व शान्तिमनामयम् ॥२-२५-२९॥",
+      "transliteration": "upasampādayāmāsa kausalyā pamāṅganā ।upādhyāyaḥ sa vidhinā hutva śāntimanāmayam ॥2-25-29॥",
+      "translations": {
+        "english": "The officiating priest performed the ritual of sacrificial offerings strictly in accordance with rules for peace and happiness of Rama. With the remainder of the offerings, he performed whatever ceremonies were to be done externally.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 25,
+      "verse": 30,
+      "sloka": "हुतहव्यावशेषेण बाह्यम् बलिमकल्पयत् ।मधुदद्यक्षतघृतैः स्वस्तिवाच्य द्विजाम् स्ततः ॥२-२५-३०॥",
+      "transliteration": "hutahavyāvaśeṣeṇa bāhyam balimakalpayat ।madhudadyakṣataghṛtaiḥ svastivācya dvijām stataḥ ॥2-25-30॥",
+      "translations": {
+        "english": "Thereafter she made the brahmins pronounce benedictory prayers, offering honey, curd, rice and clarified butter.Then she got mantras (expiatory rites) recited for averting evil to Rama while in the forest.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 25,
+      "verse": 31,
+      "sloka": "वाचयामास रामस्य वने स्वस्त्ययनक्रियाः ।ततस्तन्मै द्विजेन्द्राय राममाता यशस्विनी ॥२-२५-३१॥",
+      "transliteration": "vācayāmāsa rāmasya vane svastyayanakriyāḥ ।tatastanmai dvijendrāya rāmamātā yaśasvinī ॥2-25-31॥",
+      "translations": {
+        "english": "The illustrious Kausalya, mother of Rama gave abundant gifts to the best of the brahmins and thereafter said to him:",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 25,
+      "verse": 32,
+      "sloka": "दक्षिणाम् प्रददौ काम्याम् राघवम् चेदमब्रवीत् ।यन् मन्गलम् सहस्र अक्षे सर्व देव नमः कृते ॥२-२५-३२॥",
+      "transliteration": "dakṣiṇām pradadau kāmyām rāghavam cedamabravīt ।yan mangalam sahasra akṣe sarva deva namaḥ kṛte ॥2-25-32॥",
+      "translations": {
+        "english": "May the same blessings bestowed by all the gods on the thousandeyed Indra at the time of killing Vritra be with you",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 25,
+      "verse": 33,
+      "sloka": "वृत्र नाशे समभवत् तत् ते भवतु मन्गलम् ।यन् मन्गलम् सुपर्णस्य विनता अकल्पयत् पुरा ॥२-२५-३३॥",
+      "transliteration": "vṛtra nāśe samabhavat tat te bhavatu mangalam ।yan mangalam suparṇasya vinatā akalpayat purā ॥2-25-33॥",
+      "translations": {
+        "english": "May you be conferred with the same blessings which Vinata bestowed on Garuda at the time of bringing nectar",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 25,
+      "verse": 34,
+      "sloka": "अमृतम् प्रार्थयानस्य तत् ते भवतु मन्गलम् ।अमृतोत्पादने दैत्यान् घ्नतो वज्रधरस्य यत् ॥२-२५-३४॥",
+      "transliteration": "amṛtam prārthayānasya tat te bhavatu mangalam ।amṛtotpādane daityān ghnato vajradharasya yat ॥2-25-34॥",
+      "translations": {
+        "english": "May you be bestowed with the same blessings conferred by Aditi on Indra, the wielder of thunder for the killing of daityas at the time nectar was generated",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 25,
+      "verse": 35,
+      "sloka": "अदितिर्मङ्गLअम् प्रादात् तत्ते भवतु मङ्गLअम् ।तीन्विक्रमान् प्रकमतो विष्णोरमिततेजसः ॥२-२५-३५॥",
+      "transliteration": "aditirmaṅgaLam prādāt tatte bhavatu maṅgaLam ।tīnvikramān prakamato viṣṇoramitatejasaḥ ॥2-25-35॥",
+      "translations": {
+        "english": "O Rama by occupying three footsteps of space, highly lustrous Visnu owned the three worlds and obtained glory. May you obtain similar auspiciousness",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 25,
+      "verse": 36,
+      "sloka": "यदासीन्मङ्गLअम् प्रादात् तत्ते भवतु मङ्गLअम् ।ऋतवः सागरा द्वीपा वेदा लोका दिश्श्चते ॥२-२५-३६॥",
+      "transliteration": "yadāsīnmaṅgaLam prādāt tatte bhavatu maṅgaLam ।ṛtavaḥ sāgarā dvīpā vedā lokā diśścate ॥2-25-36॥",
+      "translations": {
+        "english": "O mightyarmed Rama may the auspicious and prosperous seasons, seas, islands. the Vedas, the worlds and the quarters bless you",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 25,
+      "verse": 37,
+      "sloka": "मम्गLआनि महाबाहो दिशन्तु शुभवङ्गLआः ।इति पुत्रस्य शेषाश्च कृत्वा शिरसि भामिनी ॥२-२५-३७॥",
+      "transliteration": "mamgaLāni mahābāho diśantu śubhavaṅgaLāḥ ।iti putrasya śeṣāśca kṛtvā śirasi bhāminī ॥2-25-37॥",
+      "translations": {
+        "english": "The largeeyed Kausalya placed the remains of the offerings on his (Rama's) head and applied sandal cream to his body. She tied an auspicious medicinal herb known as Vishalyakarani to his arm for attainment of his objectives, repeatedly muttering prayers.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 25,
+      "verse": 38,
+      "sloka": "गन्दाम्श्चापि समालभ्य राममायतलो चना ।ओषधीम् च अपि सिद्ध अर्थाम् विशल्य करणीम् शुभाम् ॥२-२५-३८॥",
+      "transliteration": "gandāmścāpi samālabhya rāmamāyatalo canā ।oṣadhīm ca api siddha arthām viśalya karaṇīm śubhām ॥2-25-38॥",
+      "translations": {
+        "english": "The largeeyed Kausalya placed the remains of the offerings on his (Rama's) head and applied sandal cream to his body. She tied an auspicious medicinal herb known as Vishalyakarani to his arm for attainment of his objectives, repeatedly muttering prayers.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 25,
+      "verse": 39,
+      "sloka": "चकार रक्षाम् कौसल्या मन्त्रैः अभिजजाप च ।उवाचातिप्रहृष्टेव सा दुःखवशर्तिनी ॥२-२५-३९॥",
+      "transliteration": "cakāra rakṣām kausalyā mantraiḥ abhijajāpa ca ।uvācātiprahṛṣṭeva sā duḥkhavaśartinī ॥2-25-39॥",
+      "translations": {
+        "english": "Even though Kausalya was filled with distress, she appeared as if she was very much happy. She uttered mere words in a confusing tone without applying her mind.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 25,
+      "verse": 40,
+      "sloka": "वाङ्मात्रेण न भावेन वाचा सम्सज्जमानया ।आनम्य मूर्ध्नि च आघ्राय परिष्वज्य यशस्विनी ॥२-२५-४०॥",
+      "transliteration": "vāṅmātreṇa na bhāvena vācā samsajjamānayā ।ānamya mūrdhni ca āghrāya pariṣvajya yaśasvinī ॥2-25-40॥",
+      "translations": {
+        "english": "Illustrious Kausalya embraced Rama, bending his head down and smelt his forehead. And then said O Rama go in peace and come back after accomplishing the objective.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 25,
+      "verse": 41,
+      "sloka": "अवदत् पुत्र सिद्ध अर्थो गच्च राम यथा सुखम् ।अरोगम् सर्व सिद्ध अर्थम् अयोध्याम् पुनर् आगतम् ॥२-२५-४१॥",
+      "transliteration": "avadat putra siddha artho gacca rāma yathā sukham ।arogam sarva siddha artham ayodhyām punar āgatam ॥2-25-41॥",
+      "translations": {
+        "english": "O my son I shall be happy to behold you back in Ayodhya in sound health successful in your objectives and firmly established in the kingdom.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 25,
+      "verse": 42,
+      "sloka": "पश्यामि त्वाम् सुखम् वत्स सुस्थितम् राज वेश्मनि ।प्रणष्टकुःखसम्कल्पा हर्षविद्योतितानना ॥२-२५-४२॥",
+      "transliteration": "paśyāmi tvām sukham vatsa susthitam rāja veśmani ।praṇaṣṭakuḥkhasamkalpā harṣavidyotitānanā ॥2-25-42॥",
+      "translations": {
+        "english": "When you return from the forest like the full Moon rising, I shall behold you with my anxieties gone and my face sparkling with joy.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 25,
+      "verse": 43,
+      "sloka": "द्रक्ष्यामि त्वाम् वनात्र्पाप्तम् पूर्णचन्द्रमिवोदितम् ।भद्रासनगतम् राम वनवासादिहागतम् ॥२-२५-४३॥",
+      "transliteration": "drakṣyāmi tvām vanātrpāptam pūrṇacandramivoditam ।bhadrāsanagatam rāma vanavāsādihāgatam ॥2-25-43॥",
+      "translations": {
+        "english": "After you have fulfilled your father's words and returned from your exile I shall behold you seated on the throne, O Rama",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 25,
+      "verse": 44,
+      "sloka": "द्रक्षामि च पुनस्त्वाम् तु तीर्णवन्तम् पितुर्वचः ।मङ्गशैरुपसम्पन्नो वनवासादिहागतः ॥२-२५-४४॥",
+      "transliteration": "drakṣāmi ca punastvām tu tīrṇavantam piturvacaḥ ।maṅgaśairupasampanno vanavāsādihāgataḥ ॥2-25-44॥",
+      "translations": {
+        "english": "O Rama, credited with auspicious events on return from the forest, fulfil my desires and those of my daughterinlaw (Sita).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 25,
+      "verse": 45,
+      "sloka": "पध्वा मम च नित्यम् त्वम् कामान् सम्वर्ध याहि भोः ।मया अर्चिता देव गणाः शिव आदयो ।महर्षयो भूत महा असुर उरगाः ।अभिप्रयातस्य वनम् चिराय ते।हितानि कान्क्षन्तु दिशः च राघव ॥२-२५-४५॥",
+      "transliteration": "padhvā mama ca nityam tvam kāmān samvardha yāhi bhoḥ ।mayā arcitā deva gaṇāḥ śiva ādayo ।maharṣayo bhūta mahā asura uragāḥ ।abhiprayātasya vanam cirāya te।hitāni kānkṣantu diśaḥ ca rāghava ॥2-25-45॥",
+      "translations": {
+        "english": "O son of the Raghu race Lord Siva and other gods, the great rishis, bhutas, great asuras and serpents and four quarters worshipped by me will always promote your welfare when you dwell in the forest.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 25,
+      "verse": 46,
+      "sloka": "इति इव च अश्रु प्रतिपूर्ण लोचना।समाप्य च स्वस्त्ययनम् यथा विधि ।प्रदक्षिणम् चैव चकार राघवम् ।पुनः पुनः च अपि निपीड्य सस्वजे ॥२-२५-४६॥",
+      "transliteration": "iti iva ca aśru pratipūrṇa locanā।samāpya ca svastyayanam yathā vidhi ।pradakṣiṇam caiva cakāra rāghavam ।punaḥ punaḥ ca api nipīḍya sasvaje ॥2-25-46॥",
+      "translations": {
+        "english": "Thus with her eyes brimming with tears, she duly completed the benedictory rites and circumambulated the scion of the Raghus and embraced him again and again holding him tight.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 25,
+      "verse": 47,
+      "sloka": "तथा तु देव्या स कृत प्रदक्षिणो ।निपीड्य मातुः चरणौ पुनः पुनः ।जगाम सीता निलयम् महा यशाः ।स राघवः प्रज्वलितः स्वया श्रिया ॥२-२५-४७॥",
+      "transliteration": "tathā tu devyā sa kṛta pradakṣiṇo ।nipīḍya mātuḥ caraṇau punaḥ punaḥ ।jagāma sītā nilayam mahā yaśāḥ ।sa rāghavaḥ prajvalitaḥ svayā śriyā ॥2-25-47॥",
+      "translations": {
+        "english": "Circumambulated by mother Kausalya, the illustrious scion of the Raghu race clasped his mother's feet again and again. And shining in his glory, proceeded to the palace of Sita. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे पञ्चविंशस्सर्गः।। Thus ends the twentyfifth sarga of Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

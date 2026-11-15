@@ -1,0 +1,639 @@
+{
+  "kanda": 1,
+  "kanda_name": "Bala Kanda",
+  "kanda_name_sanskrit": "बालकाण्डम्",
+  "sarga": 70,
+  "verses_count": 45,
+  "verses": [
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 70,
+      "verse": 1,
+      "sloka": "ततः प्रभाते जनकः कृत कर्मा महर्षिभिः ।उवाच वाक्यम् वाक्यज्ञः शतानंदम् पुरोहितम् ॥१-७०-१॥",
+      "transliteration": "tataḥ prabhāte janakaḥ kṛta karmā maharṣibhiḥ ।uvāca vākyam vākyajñaḥ śatānaṁdam purohitam ॥1-70-1॥",
+      "translations": {
+        "english": "Thereafter at dawn after the maharshis had performed their daily (sacrificial) rites the eloquent Janaka said to the chief priest Satananda:",
+        "hindi": "—: §8:— पंचपष्टितमः सगं; — ki — अथ हैमवतीं” राम दिशं त्यक्त्वा महामुनिः । पूर्वा दिशमनुप्राप्य तपस्तेपे सुदारुणम्‌",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 70,
+      "verse": 2,
+      "sloka": "भ्राता मम महातेजा यवीयान् अतिधार्मिकः ।कुशध्वज इति ख्यातः पुरीम् अध्यवसत् शुभाम् ॥१-७०-२॥",
+      "transliteration": "bhrātā mama mahātejā yavīyān atidhārmikaḥ ।kuśadhvaja iti khyātaḥ purīm adhyavasat śubhām ॥1-70-2॥",
+      "translations": {
+        "english": "\"The extremely righteous, renowned and most brilliant Kusadhwaja, my younger brother is (at present) ruling the sacred kingdom of Sankasya, which is like the aerial chariot Pushpaka, with darts planted in water as boundary on the bank of the auspicious, sacred river Ikshumati.",
+        "hindi": "हे राम ! उन्होंने, एक हजार वर्षों तक मौनत्रत धारण कर परम दुष्कर अतुलित तप किया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 70,
+      "verse": 3,
+      "sloka": "वार्या फलक पर्यन्ताम् पिबन् इक्षुमतीम् नदीम् ।सांकाश्याम् पुण्य संकाशाम् विमानम् इव पुष्पकम् ॥१-७०-३॥",
+      "transliteration": "vāryā phalaka paryantām piban ikṣumatīm nadīm ।sāṁkāśyām puṇya saṁkāśām vimānam iva puṣpakam ॥1-70-3॥",
+      "translations": {
+        "english": "\"The extremely righteous, renowned and most brilliant Kusadhwaja, my younger brother is (at present) ruling the sacred kingdom of Sankasya, which is like the aerial chariot Pushpaka, with darts planted in water as boundary on the bank of the auspicious, sacred river Ikshumati.",
+        "hindi": "यहाँ तक कि, जब एक हजार वर्ष पूरे हुए, तब विश्वामित्र जी का शरीर काठ की तरह हो गया। इस बीच में अनेक प्रकार के विन्न उपस्थित हुए; किन्तु मुनिराज के अन्तःकरण में क्रोध उत्पन्न, न हुआ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 70,
+      "verse": 4,
+      "sloka": "तम् अहम् द्रष्टुम् इच्छामि यज्ञ गोप्ता स मे मतः ।प्रीतिम् सो अपि महातेजा इमाम् भोक्ता मया सह ॥१-७०-४॥",
+      "transliteration": "tam aham draṣṭum icchāmi yajña goptā sa me mataḥ ।prītim so api mahātejā imām bhoktā mayā saha ॥1-70-4॥",
+      "translations": {
+        "english": "I desire to see Kusadhwaja who I have accepted as the protector of the sacrifice. I want that my glorious brother should share this pleasure, with me\".",
+        "hindi": "हे राम ! जब विश्वामित्र जी को निश्चय हो गया कि, उन्होंने क्रोध को जीत लिया और उनका एक हजार वर्ष तप करने का सङ्कल्प पूरा हो गया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 70,
+      "verse": 5,
+      "sloka": "एवम् उक्तो तु वचने शतानंदस्य संनिधौ ।आगताः केचिद् अव्यग्रा जनकः तान् समादिशत् ॥१-७०-५॥",
+      "transliteration": "evam ukto tu vacane śatānaṁdasya saṁnidhau ।āgatāḥ kecid avyagrā janakaḥ tān samādiśat ॥1-70-5॥",
+      "translations": {
+        "english": "Janaka having said so in the presence of Satananda gave instructions to a few faithful attendants who were present.",
+        "hindi": "हे राघव ! तब वे अन्न भोजन करने को बैठे | उसी समय इन्द्र ब्राह्मण का रूप धर कर आए और विश्वामित्र की थाली में परोसे हुए भोज्य पदार्थों के लिए उनसे याचना की",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 70,
+      "verse": 6,
+      "sloka": "शासनात् तु नरेन्द्रस्य प्रययुः शीघ्र वाजिभिः ।समानेतुम् नरव्याघ्रम् विष्णुम् इन्द्र आज्ञया यथा ॥१-७०-६॥",
+      "transliteration": "śāsanāt tu narendrasya prayayuḥ śīghra vājibhiḥ ।samānetum naravyāghram viṣṇum indra ājñayā yathā ॥1-70-6॥",
+      "translations": {
+        "english": "In obedience to the command of Indra among men (king Janaka), the messengers rode away on swift horses to bring king Kusadhwaja, a tiger among men just like fetching Visnu by the orders of Indra.",
+        "hindi": "तस्मे दत्ता तदा सिद्धं सवं विप्राय निश्चितः । ण्ल्न 'शेपिते उन्ते, भगवान भले व, रिहा त्रपा४३)५॥ Initiative भोजन के _ लिए जो अन्न तैयार हुआ था वह सब का सब उठा कर, उन्होंने इन्द्र को सचमुच ब्राह्मण जान दे दिया । स्वयं , बिना खाए ही रह गए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 70,
+      "verse": 7,
+      "sloka": "संकास्याम् ते समागम्य ददृशुः च कुश्ध्वजम् ।न्यवेदयन् यथा वृत्तम् जनकस्य च चिन्तितम् ॥१-७०-७॥",
+      "transliteration": "saṁkāsyām te samāgamya dadṛśuḥ ca kuśdhvajam ।nyavedayan yathā vṛttam janakasya ca cintitam ॥1-70-7॥",
+      "translations": {
+        "english": "The messengers reached Sankasya, met Kusadhwaja and related to him what had happened. They informed him the intention of (king) Janaka.",
+        "hindi": "किन्तु ब्राह्मण से कुछ भी न कहा, क्‍योंकि वे मौनत्रव धारण किए हुए थे | तदनन्तर फिर उन्होंने एक हजार वर्ष तक साँस रोक कर तप करना आरम्भ किया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 70,
+      "verse": 8,
+      "sloka": "तद् वृत्तम् नृपतिः श्रुत्वा दूत श्रेष्ठैः महा जवैः ।आज्ञया तु नरेन्द्रस्य आजगाम कुशध्वजः ॥१-७०-८॥",
+      "transliteration": "tad vṛttam nṛpatiḥ śrutvā dūta śreṣṭhaiḥ mahā javaiḥ ।ājñayā tu narendrasya ājagāma kuśadhvajaḥ ॥1-70-8॥",
+      "translations": {
+        "english": "Kusadhwaja having heard the events from the loyal, mighty messengers set out for Mithila in compliance with the request of the king (Janaka).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 70,
+      "verse": 9,
+      "sloka": "स ददर्श महात्मानम् जनकम् धर्म वत्सलम् ।सो अभिवाद्य शतानंदम् जनकम् च अति धार्मिकम् ॥१-७०-९॥",
+      "transliteration": "sa dadarśa mahātmānam janakam dharma vatsalam ।so abhivādya śatānaṁdam janakam ca ati dhārmikam ॥1-70-9॥",
+      "translations": {
+        "english": "There he saw the highsouled Janaka devoted to righteousness. Having paid his regards to Satananda and the virtuous king he occupied an exalted seat befitting a king.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 70,
+      "verse": 10,
+      "sloka": "राज अर्हम् परमम् दिव्यम् आसनम् च अध्यरोहत ।उपविष्टौ उभौ तौ तु भ्रातरौ अमित ओजसौ ॥१-७०-१०॥",
+      "transliteration": "rāja arham paramam divyam āsanam ca adhyarohata ।upaviṣṭau ubhau tau tu bhrātarau amita ojasau ॥1-70-10॥",
+      "translations": {
+        "english": "The two heroic brothers endowed with great splendour seated beside each other, despatched Sudamana the wisest of ministers (to Dasaratha).",
+        "hindi": "श्रादीपितम्‌-तापितं । ( गो० ) २ मोहिता;--मूच्छिता: । ( गो० ) ३ कश्मलोपहताः--दुःखोपहताः | ( गो० ) उन सब ने दुःखी हो ब्रह्मा जी से कहा-हे देव! हमने महर्षि विश्वामित्र को अनेक प्रकार से",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 70,
+      "verse": 11,
+      "sloka": "प्रेषयामासतुः वीरौ मन्त्रि श्रेष्ठम् सुदामनम् ।गच्छ मंत्रि पते शीघ्रम् इक्ष्वाकम् अमित प्रभम् ॥१-७०-११॥",
+      "transliteration": "preṣayāmāsatuḥ vīrau mantri śreṣṭham sudāmanam ।gaccha maṁtri pate śīghram ikṣvākam amita prabham ॥1-70-11॥",
+      "translations": {
+        "english": "\"O Foremost among counsellors, go speedily and bring along with his ministers and sons the invincible Dasaratha of the Ikshvakus dynasty whose splendour is immeasurable\".",
+        "hindi": "लुभाया और क्रुद्ध करना चाहा, किन्तु ये अपने तप से न डिगे, प्रत्युत इनका तप बढ्ता ही गया । अब इनमें राग-द्वेष नाम मात्र को भी नहीं रह गया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 70,
+      "verse": 12,
+      "sloka": "आत्मजैः सह दुर्धर्षम् आनयस्व स मंत्रिणम् ।औपकार्याम् स गत्वा तु रघूणाम् कुल वर्धनम् ॥१-७०-१२॥",
+      "transliteration": "ātmajaiḥ saha durdharṣam ānayasva sa maṁtriṇam ।aupakāryām sa gatvā tu raghūṇām kula vardhanam ॥1-70-12॥",
+      "translations": {
+        "english": "Having reached the tent, he (Sudamana) saw Dasaratha, perpetuator of the race of the Raghus and bowing down his head, said:",
+        "hindi": "यदि अब भी उनको उनका अभीष्ट वर ( अर्थात्‌ ब्रह्मषि की पदवी ) न दिया गया, तो वे अपने तप से सचणाचर तीनों लोकां को नष्ट कर डालेंगे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 70,
+      "verse": 13,
+      "sloka": "ददर्श शिरसा च एनम् अभिवाद्य इदम् अब्रवीत् ।अयोध्या अधिपते वीर वैदेहो मिथिला अधिपः ॥१-७०-१३॥",
+      "transliteration": "dadarśa śirasā ca enam abhivādya idam abravīt ।ayodhyā adhipate vīra vaideho mithilā adhipaḥ ॥1-70-13॥",
+      "translations": {
+        "english": "\"O Heroic lord of Ayodhya, Janaka, the lord of Mithila desires to see you along with preceptors and priest\".",
+        "hindi": "देखिए, सब दिशाएँ विकल हैं और प्रकाशरहित हैं । ( अर्थात्‌ इनकी तपस्या के तेज से सब का तेज छिप गया है ) समुद्र छुग्ध हो गए हैं ओर सब पर्वत फटे जाते हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 70,
+      "verse": 14,
+      "sloka": "स त्वाम् द्रष्टुम् व्यवसितः स उपाध्याय पुरोहितम् ।मंत्रि श्रेष्ठ वचः श्रुत्वा राजा स ऋषि गणः तदा ॥१-७०-१४॥",
+      "transliteration": "sa tvām draṣṭum vyavasitaḥ sa upādhyāya purohitam ।maṁtri śreṣṭha vacaḥ śrutvā rājā sa ṛṣi gaṇaḥ tadā ॥1-70-14॥",
+      "translations": {
+        "english": "King Dasaratha on hearing the words of the best of the counsellors reached the place where Janaka was waiting with hosts of rishis and relations.",
+        "hindi": "महर्षि की तपस्या के तेज से सूर्य प्रभाद्दीन पड़ गया है, पृथ्वी काप रही है बार चायु. का गति भी गड़्बड़ा गई है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 70,
+      "verse": 15,
+      "sloka": "स बन्धुः अगमत् तत्र जनको यत्र वर्तते ।राजा च मंत्रि सहितः स उपाध्यायः स बांधवः ॥१-७०-१५॥",
+      "transliteration": "sa bandhuḥ agamat tatra janako yatra vartate ।rājā ca maṁtri sahitaḥ sa upādhyāyaḥ sa bāṁdhavaḥ ॥1-70-15॥",
+      "translations": {
+        "english": "The king (Dasaratha), skilled in speech, accompanied by counsellors and kins said to Janaka,the lord of the Videhas:",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 70,
+      "verse": 16,
+      "sloka": "वाक्यम् वाक्य विदाम् श्रेष्ठो वैदेहम् इदम् अब्रवीत् ।विदितम् ते महाराज इक्ष्वाकु कुल दैवतम् ॥१-७०-१६॥",
+      "transliteration": "vākyam vākya vidām śreṣṭho vaideham idam abravīt ।viditam te mahārāja ikṣvāku kula daivatam ॥1-70-16॥",
+      "translations": {
+        "english": "\"O Great king venerable Vasishta is the spiritual protector of the Ikshvakus race and it is known that for all ceremonies he is our spokesman\".",
+        "hindi": "अतः हे देव ! विश्वामित्र के मन में इस जगत्‌ को नाशा करने की इच्छा उत्पन्न होने के पूर्वं ही, आप इनको सन्तुष्ट कर दीजिए । क्योंकि इल समथ वे अग्नि रूप होने के कारण महाद्युति- मान हो रहे है.",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 70,
+      "verse": 17,
+      "sloka": "वक्ता सर्वेषु कृत्येषु वसिष्ठो भगवान् ऋषिः ।विश्वामित्र अभ्यनुज्ञातः सह सर्वैः महर्षिभिः ॥१-७०-१७॥",
+      "transliteration": "vaktā sarveṣu kṛtyeṣu vasiṣṭho bhagavān ṛṣiḥ ।viśvāmitra abhyanujñātaḥ saha sarvaiḥ maharṣibhiḥ ॥1-70-17॥",
+      "translations": {
+        "english": "\"Having been permitted by Viswamitra, along with all maharshis virtuous Vasishta will tell you in detail about my race\".",
+        "hindi": "जैसे प्रलय के समय कालाग्नि तीनों लोको को जला कर नष्ट कर डालते हैं, वैसे ही ये भी जला कर भस्म कर डालेंगे। यदि यह इन्द्रासन चाहें तो बह भी इनको दे कर इनका अभीष्ट पूरा कीजिए अथवा यदि आप इनको ब्रह्मबिपद्‌, जो इनका अभीष्ट है, नहीं देंगे दो यह इन्द्रपुरी के राज्य की इच्छा करने लगेंगे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 70,
+      "verse": 18,
+      "sloka": "एष वक्ष्यति धर्मात्मा वसिष्ठो मे यथा क्रमम् ।तूष्णीम् भूते दशरथे वसिष्ठो भगवान् ऋषिः ॥१-७०-१८॥",
+      "transliteration": "eṣa vakṣyati dharmātmā vasiṣṭho me yathā kramam ।tūṣṇīm bhūte daśarathe vasiṣṭho bhagavān ṛṣiḥ ॥1-70-18॥",
+      "translations": {
+        "english": "Having said this amidst the best of men and the most distinguished among kings, Dasaratha remained silent. Then Vasishta, the venerable sage, wellversed in speech spoke to the Lord of Videhas (Janaka) in the midst of priests.",
+        "hindi": "उन लोगों से इस प्रकार अनुरोध किए जाने पर) ब्रह्मा जी सब देवताओं को साथले, महात्मा विश्वामित्र जी से जा कर, ( ये) मधुर वचन बोले",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 70,
+      "verse": 19,
+      "sloka": "उवाच वाक्यम् वाक्यज्ञो वैदेहम् स पुरोधसाम् ।अव्यक्त प्रभवो ब्रह्मा शाश्वतो नित्य अव्ययः ॥१-७०-१९॥",
+      "transliteration": "uvāca vākyam vākyajño vaideham sa purodhasām ।avyakta prabhavo brahmā śāśvato nitya avyayaḥ ॥1-70-19॥",
+      "translations": {
+        "english": "Having said this amidst the best of men and the most distinguished among kings, Dasaratha remained silent. Then Vasishta, the venerable sage, wellversed in speech spoke to the Lord of Videhas (Janaka) in the midst of priests.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 70,
+      "verse": 20,
+      "sloka": "तस्मात् मरीचिः संजज्ञे मरीचेः कश्यपः सुतः ।विवस्वान् कश्यपात् जज्ञे मनुर् वैवस्वतः स्मृतः ॥१-७०-२०॥",
+      "transliteration": "tasmāt marīciḥ saṁjajñe marīceḥ kaśyapaḥ sutaḥ ।vivasvān kaśyapāt jajñe manur vaivasvataḥ smṛtaḥ ॥1-70-20॥",
+      "translations": {
+        "english": "\"From the unmanifest was born the eternal, the constant, the imperishable Brahma. To him was born Marichi and to Marichi, Kasyapa.",
+        "hindi": "अब हम सब देवताओं सहित तुमको आशीर्वाद देते हैं कि, तुम दीघंजीवी हो; तुम्हारा मङ्गल हो। हे सौम्य! अब जहाँ तुम्हारी इच्छा हो वहाँ जाओ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 70,
+      "verse": 21,
+      "sloka": "मनुः प्रजापतिः पूर्वम् इक्ष्वाकुः च मनोः सुतः ।तम् इक्ष्वाकुम् अयोध्यायाम् राजानम् विद्धि पूर्वकम् ॥१-७०-२१॥",
+      "transliteration": "manuḥ prajāpatiḥ pūrvam ikṣvākuḥ ca manoḥ sutaḥ ।tam ikṣvākum ayodhyāyām rājānam viddhi pūrvakam ॥1-70-21॥",
+      "translations": {
+        "english": "Kasyapa begot Vivasvan and Vivasvan, Manu. Ikshavaku was the son of Manu otherwise called Prajapati or Vaivasvata.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 70,
+      "verse": 22,
+      "sloka": "इक्ष्वाकोः तु सुतः श्रीमान् कुक्षिः इति एव विश्रुतः ।कुक्षेः अथ आत्मजः श्रीमान् विकुक्षिः उपपद्यत ॥१-७०-२२॥",
+      "transliteration": "ikṣvākoḥ tu sutaḥ śrīmān kukṣiḥ iti eva viśrutaḥ ।kukṣeḥ atha ātmajaḥ śrīmān vikukṣiḥ upapadyata ॥1-70-22॥",
+      "translations": {
+        "english": "It may be noted that Ikshvaku was the first ancestral king of Ayodhya whose son was the wellknown, glorious Kukshi.",
+        "hindi": "यदि मुझे ञ्राह्मणत्व दिया है और दीर्घायु प्राप्त हो चुका दै, \"तो ओंकार, बषटकार तथा वेद भी सुमे अङ्गीकार करे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 70,
+      "verse": 23,
+      "sloka": "विकुक्षेः तु महातेजा बाणः पुत्रः प्रतापवान् ।बाणस्य तु महातेजा अनरण्यः प्रतापवान् ॥१-७०-२३॥",
+      "transliteration": "vikukṣeḥ tu mahātejā bāṇaḥ putraḥ pratāpavān ।bāṇasya tu mahātejā anaraṇyaḥ pratāpavān ॥1-70-23॥",
+      "translations": {
+        "english": "Prosperous Vikukshi was Kukshi's son, who brought forth brilliant and powerful Bana.",
+        "hindi": "नोट--ग्रोकार का यहाँ रथं है ब्रह्मशानसाधन और वषट्कार से -अमिप्राय है यज्ञसाधन । वेद से अ्रभिप्राय है साङ्गोपाङ्ग वेदविद्या से। “अङ्गीकार करें ( वरयन्तु ) श्रर्थात्‌ जैसे वसिष्ठादि ब्रह्मर्षियों को वेद पढ़ाने .का तथा यज्ञ कराने का अधिकार है--विश्वामित्र जी ब्रह्मा जी से कहते है (कि, वैसे ही मुझे भी वेद पढ़ाने और यज्ञ कराने का अधिकार आप दें । ] चत्रवेद विदां श्रेष्ठो ब्रह्मवेदविदामपि । ब्रह्मपुत्रो वसिष्ठो मामेवं वदतु देवताः",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 70,
+      "verse": 24,
+      "sloka": "अनरण्यात् पृथुः जज्ञे त्रिशंकुः तु पृथोः सुतः ।त्रिशंकोः अभवत् पुत्रो धुन्धुमारः महायशाः ॥१-७०-२४॥",
+      "transliteration": "anaraṇyāt pṛthuḥ jajñe triśaṁkuḥ tu pṛthoḥ sutaḥ ।triśaṁkoḥ abhavat putro dhundhumāraḥ mahāyaśāḥ ॥1-70-24॥",
+      "translations": {
+        "english": "Bana's son was the most brilliant and valiant Anaranya whose son Pruthu was succeeded by Trisanku.",
+        "hindi": "चत्रवेदाः-्षत्रियाणाम्‌ शान्तिपुष्टयादिप्रयोजना श्रथर्वंण्वेदाः तद्‌- -विदां श्रेष्ठ: | ( गो० ) यदि यह्‌ भेरा बड़ा अभीष्ट पूरा हो जाय, तो आप लोग (अर्थात्‌ सब देवता ) चले जा सकते हैं। यह सुन देवता लोग कऋषिश्रेष्ठ वसिष्ठ जी {के पास गए और उन्हें मना कर राजी किया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 70,
+      "verse": 25,
+      "sloka": "धुन्धुमारात् महातेजा युवनाश्वो महारथः ।युवनाश्व सुतः असीत् मान्धाता पृथिवी पतिः ॥१-७०-२५॥",
+      "transliteration": "dhundhumārāt mahātejā yuvanāśvo mahārathaḥ ।yuvanāśva sutaḥ asīt māndhātā pṛthivī patiḥ ॥1-70-25॥",
+      "translations": {
+        "english": "Trisanku's famous son was Dundumara also known as Yuvanashva whose son was king Mandhata.",
+        "hindi": "वसिष्ठ जी आए और विश्वामित्र जी से मेल कर लिया ( अर्थात्‌ चैर छोड़ दिया) और कहा, तुम ब्रह्मषि हो गए। तुम्हारे ब्रह्मपिं होने में अत्र कुछ भी सन्देह नहीं है। अब तो सब ने तुम्हारा ब्रह्मषि होना मान ही लिया है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 70,
+      "verse": 26,
+      "sloka": "मान्धातुः तु सुतः श्रीमान् सुसन्धिः उदपद्यत ।सुसंधेः अपि पुत्रौ द्वौ ध्रुवसंधिः प्रसेनजित् ॥१-७०-२६॥",
+      "transliteration": "māndhātuḥ tu sutaḥ śrīmān susandhiḥ udapadyata ।susaṁdheḥ api putrau dvau dhruvasaṁdhiḥ prasenajit ॥1-70-26॥",
+      "translations": {
+        "english": "Mandhata's son was prosperous Susandhi who brought forth two sons Dhruvasandhi and Prasenajit.",
+        "hindi": "यह कह कर देवता भी अपने अपने स्थानों को चले गए | विश्वामित्र ने भी उत्तम ब्राह्मणत्व प्राप्त करके",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 70,
+      "verse": 27,
+      "sloka": "यशस्वी ध्रुवसंधेः तु भरतो नाम नामतः ।भरतात् तु महातेजा असितो नाम जायत ॥१-७०-२७॥",
+      "transliteration": "yaśasvī dhruvasaṁdheḥ tu bharato nāma nāmataḥ ।bharatāt tu mahātejā asito nāma jāyata ॥1-70-27॥",
+      "translations": {
+        "english": "To Dhruvasandhi was born the wellknown Bharata who begot the vigorous Asita.",
+        "hindi": "महषिप्रबर ब्रह्मषि वसिष्ठ जी का पूजन किया और स्वयं कृत- कार्य हो और तप करते हुए ये अब सारी प्रथ्वी पर भ्रमण करने --ल्गे है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 70,
+      "verse": 28,
+      "sloka": "यस्य एते प्रति राजन उदपत्यन्त शात्रवः ।हैहय तालजंघाः च शूराः च शशबिंद्वः ॥१-७०-२८॥",
+      "transliteration": "yasya ete prati rājana udapatyanta śātravaḥ ।haihaya tālajaṁghāḥ ca śūrāḥ ca śaśabiṁdvaḥ ॥1-70-28॥",
+      "translations": {
+        "english": "Valiant kings belonging to the races of the Haihayas, Talaiangha, and Sasibindus became the enemies to Asita.",
+        "hindi": "एवं त्वनेन ब्राह्मण्य॑ प्राप्तं राम महात्मना । Ce राम सनष MAME [स्तः Rl SU Initiative ( शवानन्द जी बोले ) हे राम ! इस तरह इन महात्मा विश्वा-- मित्र जी ने ब्राह्मणत्व पाया है । हे राम ! यह झुनियों में श्रेष्ठ हु अर तप की तो साक्षात्‌ मूत्ति ही है.",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 70,
+      "verse": 29,
+      "sloka": "तान् च स प्रति युद्ध्यन् वै युद्धे राजा प्रवासितः ।हिमवन्तम् उपागम्य भार्याभ्याम् सहितः तदा ॥१-७०-२९॥",
+      "transliteration": "tān ca sa prati yuddhyan vai yuddhe rājā pravāsitaḥ ।himavantam upāgamya bhāryābhyām sahitaḥ tadā ॥1-70-29॥",
+      "translations": {
+        "english": "The king Asita who was a weakling was defeated in the conflict against the kings and was exiled. Along with his counsellors he lived at on the Bhriguprasravana Himavat mountain.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 70,
+      "verse": 30,
+      "sloka": "असितो अल्प बलो राजा काल धर्मम् उपेयिवान् ।द्वे च अस्य भार्ये गर्भिण्यै बभूवतुः इति श्रुति ॥१-७०-३०॥",
+      "transliteration": "asito alpa balo rājā kāla dharmam upeyivān ।dve ca asya bhārye garbhiṇyai babhūvatuḥ iti śruti ॥1-70-30॥",
+      "translations": {
+        "english": "It is said that his (Asita's) two wives were pregnant. One gave food mixed with poison to the other with the intention of destroying her embryo.",
+        "hindi": "शतानन्द जी की बात पूरी होने पर, श्रीरामचन्द्र लक्ष्मण के सामने राजा जनक ने हाथ जोड़ कर कोशिक जी से कहा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 70,
+      "verse": 31,
+      "sloka": "एका गर्भ विनाश अर्थम् सपत्नै सगरम् ददौ ।ततः शैलवरे रम्ये बभूव अभिरतो मुनिः ॥१-७०-३१॥",
+      "transliteration": "ekā garbha vināśa artham sapatnai sagaram dadau ।tataḥ śailavare ramye babhūva abhirato muniḥ ॥1-70-31॥",
+      "translations": {
+        "english": "At that time Chyavana of the family of Bhrigu liked to stay at Himavat, the great, pleasant mountain.",
+        "hindi": "हे कौशिक ! में अपने को धन्य मानवा हूँ और आपका बड़ा' अनुगृद्दीत हूँ । क्योंकि आप श्रीराम और लक्ष्मण सहित, मेरे यज्ञ. में पधारे हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 70,
+      "verse": 32,
+      "sloka": "भार्गव च्यवनो नाम हिमवंतम् उपाश्रितः ।तत्र च एका महाभागा भार्गवम् देव वर्चसम् ॥१-७०-३२॥",
+      "transliteration": "bhārgava cyavano nāma himavaṁtam upāśritaḥ ।tatra ca ekā mahābhāgā bhārgavam deva varcasam ॥1-70-32॥",
+      "translations": {
+        "english": "That the lotuseyed and highly accomplished Kalindi, offered herself for a son to Chyavana who was glowing like a god.",
+        "hindi": "हे ब्रह्मन्‌ ! अपने दर्शन दे कर आपने मुझे पवित्र किया है [8 हे महाभाग, हे ब्र्मर्षियो में श्रेष्ठ विश्वामित्र जी !",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 70,
+      "verse": 33,
+      "sloka": "ववन्दे पद्म पत्राक्षी कांक्षन्ती सुतम् उत्तमम् ।तम् ऋषिम् सा अभ्युपगम्य कालिन्दी च अभ्यवादत ॥१-७०-३३॥",
+      "transliteration": "vavande padma patrākṣī kāṁkṣantī sutam uttamam ।tam ṛṣim sā abhyupagamya kālindī ca abhyavādata ॥1-70-33॥",
+      "translations": {
+        "english": "Having approached the ascetic. Kalindi paid obeisance to him who said:",
+        "hindi": "आपके दशन से मेरा मान बढ़ा है। मेने विस्तारपूर्व ह आपके “तप की कीत्ति का वृत्तान्त सुना है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 70,
+      "verse": 34,
+      "sloka": "स ताम् अभ्यवदत् विप्रः पुत्र ईप्सुम् पुत्र जन्मनि ।तव कुक्षौ महाभागे सु पुत्रः सु महाबलः ॥१-७०-३४॥",
+      "transliteration": "sa tām abhyavadat vipraḥ putra īpsum putra janmani ।tava kukṣau mahābhāge su putraḥ su mahābalaḥ ॥1-70-34॥",
+      "translations": {
+        "english": "'O Great lady a child of high prowess, lustre and virtues is growing in your womb. In a short time this glorious son carrying with him the poison (administered to you) will be born. O Lotuseyed lady, do not grieve'.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 70,
+      "verse": 35,
+      "sloka": "महावीर्यो महातेजा अचिरात् संजनिष्यति ।गरेण सहितः श्रीमान् मा शुचः कमलेक्षणे ॥१-७०-३५॥",
+      "transliteration": "mahāvīryo mahātejā acirāt saṁjaniṣyati ।gareṇa sahitaḥ śrīmān mā śucaḥ kamalekṣaṇe ॥1-70-35॥",
+      "translations": {
+        "english": "'O Great lady a child of high prowess, lustre and virtues is growing in your womb. In a short time this glorious son carrying with him the poison (administered to you) will be born. O Lotuseyed lady, do not grieve'.",
+        "hindi": "हे कौशिक ! आपका तप और बल अचिन्त्य है । आपके गुण अपार हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 70,
+      "verse": 36,
+      "sloka": "च्यवनम् च नमस्कृत्य राजपुत्री पतिव्रता ।पत्या विरहिता तस्मात् पुत्रम् देवी व्यजायत ॥१-७०-३६॥",
+      "transliteration": "cyavanam ca namaskṛtya rājaputrī pativratā ।patyā virahitā tasmāt putram devī vyajāyata ॥1-70-36॥",
+      "translations": {
+        "english": "This eldest queen who was a devoted wife, afflicted with sorrow due to loss of her husband gave birth to a son by the grace of Chyavana.",
+        "hindi": "हवेविभो व आपकी विस्मयोत्पादिनी कथाओं को सुनते-सुनते -मेरा जी नहीं भरा । अब सूर्य अस्त होने वाला है; सन्ध्योपास- नादि कर्म करने का समय समीप है । ( अतः अब में बिदा होता हूं )",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 70,
+      "verse": 37,
+      "sloka": "सपत्न्या तु गरः तस्यैः दत्तो गर्भ जिघांसया ।सह तेन गरेण एव संजातः सगरोइ अभवत् ॥१-७०-३७॥",
+      "transliteration": "sapatnyā tu garaḥ tasyaiḥ datto garbha jighāṁsayā ।saha tena gareṇa eva saṁjātaḥ sagaroi abhavat ॥1-70-37॥",
+      "translations": {
+        "english": "Since poison was given to her by her rival queen with the intention of destroying the embryo, the son was born with poison and so came to be known as Sagara.",
+        "hindi": "शुणाः-कर्मश्रेष्ठयजञतित्रेष्ठचलच्षणः न रा० ) २ अप्रमेयाः -इयत्तया ज्ञाठुमशक्याः । ( गोऽ ) र ४४३ प्‌ः ष ५ सग $ हे तप करने बालों में श्रेष्ठ ! आप इस समय भले पघारै। कल प्रातःकाल फिर मुझे आपके दर्शन होंगे । अब जाने की आज्ञा दीजिए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 70,
+      "verse": 38,
+      "sloka": "सगरस्य अस्य असमंजः तु असमंजात् अथ अंशुमान् ।दिलीपो अंशुमतः पुत्रो दिलीपस्य भगीरथः ॥१-७०-३८॥",
+      "transliteration": "sagarasya asya asamaṁjaḥ tu asamaṁjāt atha aṁśumān ।dilīpo aṁśumataḥ putro dilīpasya bhagīrathaḥ ॥1-70-38॥",
+      "translations": {
+        "english": "Asamanja was the son of Sagara and to him was born Anshuman. Dilipa was the son of Anshuman and father of Bhagiratha.",
+        "hindi": "जब जनक जी ने ऐसा कहा, तब बिश्त्रामित्र जी ने उनकी :अशांसा करते हुए, प्रसन्न मन से बड़े प्रेम के साथ उनको तुरन्त \"बिदा कर दिया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 70,
+      "verse": 39,
+      "sloka": "भगीरथात् ककुत्स्थः च ककुत्स्थस्य रघुः तथा ।रघोः तु पुत्रः तेजस्वी प्रवृद्धः पुरुषादकः ॥१-७०-३९॥",
+      "transliteration": "bhagīrathāt kakutsthaḥ ca kakutsthasya raghuḥ tathā ।raghoḥ tu putraḥ tejasvī pravṛddhaḥ puruṣādakaḥ ॥1-70-39॥",
+      "translations": {
+        "english": "Bhagiratha begot Kakustha whose son was Raghu. Powerful Pravriddha was Raghu's son. He became Purushadaka (cannibal), on the curse of Vasistha. He grasped water in order to retaliate Vasishta but was prevented by his wife. The water fell on his feet and he came to be known as Kalmashapada (feet polluted with water). Samkhana was born to him.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 70,
+      "verse": 40,
+      "sloka": "कल्माषपादो हि अभवत् तस्मात् जातः तु शङ्खणः ।सुदर्शनः शंखणस्य अग्निवर्णः सुदर्शनात् ॥१-७०-४०॥",
+      "transliteration": "kalmāṣapādo hi abhavat tasmāt jātaḥ tu śaṅkhaṇaḥ ।sudarśanaḥ śaṁkhaṇasya agnivarṇaḥ sudarśanāt ॥1-70-40॥",
+      "translations": {
+        "english": "Sudarsana was the son of Samkhana. His son was Agnivarna. To Agnivarna was born Sighraga and to Sighraga, Maru. To Maru, was born Prasusruka and to Prasrusuka, Ambarisha.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 70,
+      "verse": 41,
+      "sloka": "शीघ्रगः तु अग्निवर्णस्य शीघ्रगस्य मरुः सुतः ।मरोः प्रशुश्रुकः तु आसीत् अंबरीषः प्रशुश्रुकात् ॥१-७०-४१॥",
+      "transliteration": "śīghragaḥ tu agnivarṇasya śīghragasya maruḥ sutaḥ ।maroḥ praśuśrukaḥ tu āsīt aṁbarīṣaḥ praśuśrukāt ॥1-70-41॥",
+      "translations": {
+        "english": "Sudarsana was the son of Samkhana. His son was Agnivarna. To Agnivarna was born Sighraga and to Sighraga, Maru. To Maru, was born Prasusruka and to Prasrusuka, Ambarisha.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 70,
+      "verse": 42,
+      "sloka": "अंबरीषस्य पुत्रो अभूत् नहुषः च महीपतिः ।नहुषस्य ययातिः तु नाभागः तु ययाति जः ॥१-७०-४२॥",
+      "transliteration": "aṁbarīṣasya putro abhūt nahuṣaḥ ca mahīpatiḥ ।nahuṣasya yayātiḥ tu nābhāgaḥ tu yayāti jaḥ ॥1-70-42॥",
+      "translations": {
+        "english": "King Nahusha was the son of Ambarisha. To Nahusha was born Yayati whose son was Nabhaga.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 70,
+      "verse": 43,
+      "sloka": "नाभागस्य भभूव अज अजात् दशरथो अभवत् ।अस्मात् दशरथात् जातौ भ्रातरौ राम लक्ष्मणौ ॥१-७०-४३॥",
+      "transliteration": "nābhāgasya bhabhūva aja ajāt daśaratho abhavat ।asmāt daśarathāt jātau bhrātarau rāma lakṣmaṇau ॥1-70-43॥",
+      "translations": {
+        "english": "Nabhaga's son was Aja. Aja was the father of Dasaratha and Dasaratha, the father of Rama and Lakshmana.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 70,
+      "verse": 44,
+      "sloka": "आदि वंश विशुद्धानाम् राज्ञाम् परम धर्मिणाम् ।इक्ष्वाकु कुल जातानाम् वीराणाम् सत्य वादिनाम् ॥१-७०-४४॥",
+      "transliteration": "ādi vaṁśa viśuddhānām rājñām parama dharmiṇām ।ikṣvāku kula jātānām vīrāṇām satya vādinām ॥1-70-44॥",
+      "translations": {
+        "english": "\"Of kings pure from the founding of their line, most righteous, born in the house of Ikshvaku, heroes and truthful of speech —",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 70,
+      "verse": 45,
+      "sloka": "राम लक्ष्मणयोः अर्थे त्वत् सुते वरये नृप ।सदृशाभ्याम् नरश्रेष्ठ सदृशे दातुम् अर्हसि ॥१-७०-४५॥",
+      "transliteration": "rāma lakṣmaṇayoḥ arthe tvat sute varaye nṛpa ।sadṛśābhyām naraśreṣṭha sadṛśe dātum arhasi ॥1-70-45॥",
+      "translations": {
+        "english": "\"— on behalf of Rama and Lakshmana I ask for your two daughters, O king. Best of men, you should give the two who are their match to two who are theirs.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,457 @@
+{
+  "kanda": 7,
+  "kanda_name": "Uttara Kanda",
+  "kanda_name_sanskrit": "उत्तरकाण्डम्",
+  "sarga": 4,
+  "verses_count": 32,
+  "verses": [
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 4,
+      "verse": 1,
+      "sloka": "श्रुत्वागस्त्येरितं वाक्यं रामो विस्मयमागतः ।कथमासीत्तु लङ्कायां सम्भवो रक्षसां पुरा ।। ७.४.१ ॥",
+      "transliteration": "śrutvāgastyeritaṁ vākyaṁ rāmo vismayamāgataḥ ।kathamāsīttu laṅkāyāṁ sambhavo rakṣasāṁ purā ।। 7.4.1 ॥",
+      "translations": {
+        "english": "Having heard the words spoken by Agastya, Rama was filled with astonishment, wondering how the Rakshasas could have originated in Lanka in ancient times.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 4,
+      "verse": 2,
+      "sloka": "ततः शिरः कम्पयित्वा त्रेताग्निसमविग्रहम् ।तमगस्त्यं मुहुर्दृष्ट्वा स्मयमानो ऽभ्यभाषत ।। ७.४.२ ॥",
+      "transliteration": "tataḥ śiraḥ kampayitvā tretāgnisamavigraham ।tamagastyaṁ muhurdṛṣṭvā smayamāno 'bhyabhāṣata ।। 7.4.2 ॥",
+      "translations": {
+        "english": "Then, shaking his head and repeatedly looking at Agastya, whose body resembled the three sacred fires, Rama smiled and spoke to him.",
+        "hindi": "विश्रवा मनि सत्यवादी, शीलवान्‌, दान्त स्म्राध्यायनिरत पवित्र,सव भोगों से दर रहने बाले और धमांचार में तत्पर देख पड़ते थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 4,
+      "verse": 3,
+      "sloka": "भगवन्पूर्वमप्येषा लङ्कासीत्पिशिताशिनाम् ।श्रुत्वेदं भगवद्वाक्यं जातो मे विस्मयः परः ।। ७.४.३ ॥",
+      "transliteration": "bhagavanpūrvamapyeṣā laṅkāsītpiśitāśinām ।śrutvedaṁ bhagavadvākyaṁ jāto me vismayaḥ paraḥ ।। 7.4.3 ॥",
+      "translations": {
+        "english": "O revered one, having heard your statement that this Lanka formerly belonged to the flesh-eaters, a great astonishment has arisen within me.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 4,
+      "verse": 4,
+      "sloka": "पुलस्त्यवंशादुद्भूता राक्षसा इति नः श्रुतम् ।इदानीमन्यतश्चापि सम्भवः कीर्तितस्त्वया ।। ७.४.४ ॥",
+      "transliteration": "pulastyavaṁśādudbhūtā rākṣasā iti naḥ śrutam ।idānīmanyataścāpi sambhavaḥ kīrtitastvayā ।। 7.4.4 ॥",
+      "translations": {
+        "english": "We have heard that the Rākṣasas originated from Pulastya's lineage, but now you have also spoken of their origin from another source.",
+        "hindi": "परम हर्षित हो मनिश्रोष्ठ विश्रवा जी ने अपनी-भायां के गर्भ से बलवान और परस अद्भुत एक पुत्र ऐसा उत्पन्न किआ, जिसमें ब्राह्मणोचित समस्त गुण बिद्यमान थे । उसके उत्पन्न होने से उसके बाबा पुलस्त्य जी को बडी प्रसन्नता हुई",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 4,
+      "verse": 5,
+      "sloka": "रावणात्कुम्भकर्णाच्च प्रहस्ताद्विकटादपि ।रावणस्य च पुत्रेभ्यः किं नु ते बलवत्तराः ।। ७.४.५ ॥",
+      "transliteration": "rāvaṇātkumbhakarṇācca prahastādvikaṭādapi ।rāvaṇasya ca putrebhyaḥ kiṁ nu te balavattarāḥ ।। 7.4.5 ॥",
+      "translations": {
+        "english": "Are these new Rākṣasas indeed more powerful than Rāvaṇa, Kumbhakarṇa, Prahasta, Vikaṭa, and even Rāvaṇa's own sons?",
+        "hindi": "धर्मानुसार भरद्वाज जी की कन्या के साथ विवाह कर, संतान की इच्छा रखते हुए, विश्रवा जी उसकी भलाई चाहने लगे || > ॥ मुदा परमया युक्तो विश्रवा मुनिपुङ्गव; । स तस्यां वीयसम्पन्नसपत्यं परमाद्थुतम्‌",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 4,
+      "verse": 6,
+      "sloka": "क एषां पूर्वको ब्रह्मन्किन्नामा च बलोत्कटः ।अपराधं च कं प्राप्य विष्णुना द्राविताः कथम् ।। ७.४.६ ॥",
+      "transliteration": "ka eṣāṁ pūrvako brahmankinnāmā ca balotkaṭaḥ ।aparādhaṁ ca kaṁ prāpya viṣṇunā drāvitāḥ katham ।। 7.4.6 ॥",
+      "translations": {
+        "english": "O Brāhmaṇa, who was their first ancestor, what was his name, and how were these exceedingly powerful beings driven away by Viṣṇu after committing what offense?",
+        "hindi": "उस तपोवन में रहता हुआ वह वेश्रवण आहुति छोड़े इए अग्नि की तरह बढ़ने लगा | वह बड़ा तेजस्वी हुआ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 4,
+      "verse": 7,
+      "sloka": "एतद्विस्तरतः सर्वं कथयस्व ममानघ ।कुतूहलमिदं मह्यं नुद भानुर्यथा तमः ।। ७.४.७ ॥",
+      "transliteration": "etadvistarataḥ sarvaṁ kathayasva mamānagha ।kutūhalamidaṁ mahyaṁ nuda bhānuryathā tamaḥ ।। 7.4.7 ॥",
+      "translations": {
+        "english": "O sinless one, please narrate all of this to me in detail and dispel my great curiosity, just as the sun dispels darkness.",
+        "hindi": "वे अपने नाती की कल्याणकारिणी बुद्धि देख कर बोले-- “यह बालक धनाध्यक्ष होगा ।” फिर उन्होंने अत्यन्त हर्षित हो देवियों सहित उसका नामकरण किया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 4,
+      "verse": 8,
+      "sloka": "राघवस्य वचः श्रुत्वा संस्कारालङ्कृतं शुभम् ।ईषद्विस्मयमानस्तमगस्त्यः प्राह राघवम् ।। ७.४.८ ॥",
+      "transliteration": "rāghavasya vacaḥ śrutvā saṁskārālaṅkṛtaṁ śubham ।īṣadvismayamānastamagastyaḥ prāha rāghavam ।। 7.4.8 ॥",
+      "translations": {
+        "english": "Having heard Rāghava's auspicious words, adorned with refinement, Agastya, slightly surprised, spoke to Rāghava.",
+        "hindi": "वे बोले-यह बालक विश्रवा से उत्पन्न हुआ हे ओर है भी उन्हींके सदृश | अतः यह वेश्रवण के नाम से विख्यात होगा ॥ = ॥ स तु वैश्रवणस्तत्र तपोवनगतस्तदा ¦ अवधेताहुतिहुती सहातेजा यथाऽनलः",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 4,
+      "verse": 9,
+      "sloka": "प्रजापतिः पुरा सृष्ट्वा ह्यपः सलिलसम्भवः ।तासां गोपायने सत्त्वानसृजत्पद्मसम्भवः ।। ७.४.९ ॥",
+      "transliteration": "prajāpatiḥ purā sṛṣṭvā hyapaḥ salilasambhavaḥ ।tāsāṁ gopāyane sattvānasṛjatpadmasambhavaḥ ।। 7.4.9 ॥",
+      "translations": {
+        "english": "In ancient times, Prajapati Brahma, who was born from water and a lotus, first created the waters and then created various beings for their protection.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 4,
+      "verse": 10,
+      "sloka": "ते सत्त्वाः सत्त्वकर्तारं विनीतवदुपस्थिताः ।किं कुर्म इति भाषन्तः क्षुत्पिपासाभयार्दिताः ।। ७.४.१० ॥",
+      "transliteration": "te sattvāḥ sattvakartāraṁ vinītavadupasthitāḥ ।kiṁ kurma iti bhāṣantaḥ kṣutpipāsābhayārditāḥ ।। 7.4.10 ॥",
+      "translations": {
+        "english": "Those beings, afflicted by hunger, thirst, and fear, humbly approached their creator and asked, \"What shall we do?\"",
+        "hindi": "आश्रम में रहने के समय उस के मन में यह बात उपजी कि, धर्म ही परमगति है, अतः में भी धर्माचरण अर्थात्‌ तप करूँगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 4,
+      "verse": 11,
+      "sloka": "प्रजापतिस्तु तान्याह सत्वानि प्रहसन्निव ।आभाष्य वाचा यत्नेन रक्षध्वमिति मानदः ।। ७.४.११ ॥",
+      "transliteration": "prajāpatistu tānyāha satvāni prahasanniva ।ābhāṣya vācā yatnena rakṣadhvamiti mānadaḥ ।। 7.4.11 ॥",
+      "translations": {
+        "english": "Prajapati, the giver of honor, addressed those beings as if with a smile and instructed them with effort, \"Protect!\"",
+        "hindi": "च यह्‌ विचार वह बढ़े कठोर नियमों के साथ हजार बर्षा तक बड़ी कठोर तपस्या करते रहे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 4,
+      "verse": 12,
+      "sloka": "रक्षामेति च तत्रान्ये जक्षाम इति चापरे ।भुक्षिताभुक्षितैरुक्तस्ततस्तानाह भूतकृत् ।। ७.४.१२ ॥",
+      "transliteration": "rakṣāmeti ca tatrānye jakṣāma iti cāpare ।bhukṣitābhukṣitairuktastatastānāha bhūtakṛt ।। 7.4.12 ॥",
+      "translations": {
+        "english": "Among those beings, some said, \"We will protect,\" while others said, \"We will eat\"; then, having heard these responses from the hungry and the non-hungry, the creator of beings spoke to them.",
+        "hindi": "एक हजार वर्ष बीत जाने पर वे कभी जल पी कर, कभी पवन पान कर और कभी-कभी निराहार ही रह जाते थे | इस प्रकार उन्होंने एक हजार वषे, एक वर्ष की तरह बिता दिए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 4,
+      "verse": 13,
+      "sloka": "रक्षामेति च यैरुक्तं राक्षसास्ते भवन्तु वः ।जक्षाम इति यैरुक्तं यक्षा एव भवन्तु वः ।। ७.४.१३ ॥",
+      "transliteration": "rakṣāmeti ca yairuktaṁ rākṣasāste bhavantu vaḥ ।jakṣāma iti yairuktaṁ yakṣā eva bhavantu vaḥ ।। 7.4.13 ॥",
+      "translations": {
+        "english": "To those who said, \"We will protect,\" he declared, \"You shall be Rakshasas,\" and to those who said, \"We will eat,\" he declared, \"You shall indeed be Yakshas.\"",
+        "hindi": "तब तो ब्रह्मा जी उनके तप से प्रसन्न हुए और वे इन्द्र सहित समस्त देवताओं को अपने साथ ले उनके आश्रम में पहुँचे और उन ऋषिश्रेष्ठ से यह वचन बोले",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 4,
+      "verse": 14,
+      "sloka": "तत्र हेतिः प्रहेतिश्च भ्रातरौ राक्षसाधिपौ ।मधुकैटभसङ्काशौ बभूवतुररिन्दमौ ।। ७.४.१४ ॥",
+      "transliteration": "tatra hetiḥ prahetiśca bhrātarau rākṣasādhipau ।madhukaiṭabhasaṅkāśau babhūvaturarindamau ।। 7.4.14 ॥",
+      "translations": {
+        "english": "There existed two demon lords, Heti and Praheti, who were brothers, vanquishers of foes, and resembled Madhu and Kaiṭabha.",
+        "hindi": "हे सुब्रत ! वत्स ! में तुम्हारी इस तपस्या से तुम पर प्रसन्न हुआ हूँ । अतः हे सुब्रत ! तुम वर पाने योग्य होने के कारण, अब तुम वरदान माँगो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 4,
+      "verse": 15,
+      "sloka": "प्रहेतिर्धार्मिकस्तत्र तपोवनगतस्तदा ।हेतिर्दारक्रियार्थे तु परं यत्नमथाकरोत् ।। ७.४.१५ ॥",
+      "transliteration": "prahetirdhārmikastatra tapovanagatastadā ।hetirdārakriyārthe tu paraṁ yatnamathākarot ।। 7.4.15 ॥",
+      "translations": {
+        "english": "At that time, Praheti, being righteous, went to a hermitage, while Heti made a great effort to find a wife.",
+        "hindi": "अपने सामने ब्रह्मा जो को उपस्थित देख, वैश्रवण जी ने उनसे कहा-हे भगवान्‌ ! मेरी इच्छा हे कि, में लोकपाल होऊ ओर समस्त घन मेरे पास रहे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 4,
+      "verse": 16,
+      "sloka": "स कालभगिनीं कन्यां भयां नाम भयावहाम् ।उदावहदमेयात्मा स्वयमेव महामतिः ।। ७.४.१६ ॥",
+      "transliteration": "sa kālabhaginīṁ kanyāṁ bhayāṁ nāma bhayāvahām ।udāvahadameyātmā svayameva mahāmatiḥ ।। 7.4.16 ॥",
+      "translations": {
+        "english": "That great-minded Heti, of immeasurable spirit, himself married a terrifying maiden named Bhaya, who was the sister of Kala (Death).",
+        "hindi": "त्रह्मा जी ने समस्त देवताओं के साथ प्रसन्न मन हो वे श्रवण जी के बचनों को सहूष स्वीकार कर कहा--बहुत अच्छा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 4,
+      "verse": 17,
+      "sloka": "स तस्यां जनयामास हेती राक्षसपुङ्गवः ।पुत्रं पुत्रवतां श्रेष्ठो विद्युत्केश इति श्रुतम् ।। ७.४.१७ ॥",
+      "transliteration": "sa tasyāṁ janayāmāsa hetī rākṣasapuṅgavaḥ ।putraṁ putravatāṁ śreṣṭho vidyutkeśa iti śrutam ।। 7.4.17 ॥",
+      "translations": {
+        "english": "Heti, the foremost among Rākṣasas and best among those with sons, begot a son named Vidyutkeśa in her (Bhaya).",
+        "hindi": "और कहने लगे )--हे वत्स! में तो चोथा लोकपाल रचने ही वाला था । हे धर्मज्ञ ! यम, इन्द्र और वरुण के समान (समकक्ष) लोकपाल होने की तुम्हारी जो कासना है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 4,
+      "verse": 18,
+      "sloka": "विद्युत्केशो हेतिपुत्रः स दीप्तार्कसमप्रभः ।व्यवर्धत महातेजास्तोयमध्य इवाम्बुदः ।। ७.४.१८ ॥",
+      "transliteration": "vidyutkeśo hetiputraḥ sa dīptārkasamaprabhaḥ ।vyavardhata mahātejāstoyamadhya ivāmbudaḥ ।। 7.4.18 ॥",
+      "translations": {
+        "english": "Vidyutkeśa, Heti's son, of great splendor and brilliance like the blazing sun, grew like a cloud in the midst of water.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 4,
+      "verse": 19,
+      "sloka": "स यदा यौवनं भद्रमनुप्राप्तो निशाचरः ।ततो दारक्रियां तस्य कर्तुं व्यवसितः पिता ।। ७.४.१९ ॥",
+      "transliteration": "sa yadā yauvanaṁ bhadramanuprāpto niśācaraḥ ।tato dārakriyāṁ tasya kartuṁ vyavasitaḥ pitā ।। 7.4.19 ॥",
+      "translations": {
+        "english": "When the night-wanderer (Vidhyutkesha) attained auspicious youth, his father then resolved to perform his marriage ceremony.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 4,
+      "verse": 20,
+      "sloka": "सन्ध्यायास्तनयां सो ऽथ सन्ध्यातुल्यां प्रभावतः ।वरयामास पुत्रार्थं हेती राक्षसपुङ्गवः ।। ७.४.२० ॥",
+      "transliteration": "sandhyāyāstanayāṁ so 'tha sandhyātulyāṁ prabhāvataḥ ।varayāmāsa putrārthaṁ hetī rākṣasapuṅgavaḥ ।। 7.4.20 ॥",
+      "translations": {
+        "english": "Then Heti, the chief of Rakshasas, sought Sandhya's daughter, who was equal to Sandhya in splendor, as a bride for his son.",
+        "hindi": "अच्छा तुम्हारा कल्याण हो । अब हम लोग अपने स्थानों को जाते हें । क्योंकि हे तात ! तुमको वरदान दे कर, हम लोग कृत-कृत्य हो गए अर्थात्‌ जिस काम के लिए आए थे वह कर चुके",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 4,
+      "verse": 21,
+      "sloka": "अवश्यमेव दातव्या परस्मै सेति सन्ध्यया ।चिन्तयित्वा सुता दत्ता विद्युत्केशाय राघव ।। ७.४.२१ ॥",
+      "transliteration": "avaśyameva dātavyā parasmai seti sandhyayā ।cintayitvā sutā dattā vidyutkeśāya rāghava ।। 7.4.21 ॥",
+      "translations": {
+        "english": "O Rama, Sandhya, having thought that her daughter must certainly be given to another, thus gave her daughter to Vidhyutkesha.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 4,
+      "verse": 22,
+      "sloka": "सन्ध्यायास्तनयां लब्ध्वा विद्युत्केशो निशाचरः ।रमते स्म तया सार्धं पौलोम्या मघवानिव ।। ७.४.२२ ॥",
+      "transliteration": "sandhyāyāstanayāṁ labdhvā vidyutkeśo niśācaraḥ ।ramate sma tayā sārdhaṁ paulomyā maghavāniva ।। 7.4.22 ॥",
+      "translations": {
+        "english": "Having obtained Sandhya's daughter, the night-wanderer Vidhyutkesha enjoyed with her, just as Maghavan (Indra) enjoys with Paulomi.",
+        "hindi": "तब धनेश वेश्रवण जी सावधान हो ओर हाथ जोड़ कर अपने पिता से बोले, हे भगबन्‌ ! मैने पितामह ब्रह्मा जी से अभीष्ठ बरदान पा लिया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 4,
+      "verse": 23,
+      "sloka": "केनचित्त्वथ कालेन राम सालकटङ्कटा ।विद्युत्केशाद्गर्भमाप घनराजिरिवार्णवात् ।। ७.४.२३ ॥",
+      "transliteration": "kenacittvatha kālena rāma sālakaṭaṅkaṭā ।vidyutkeśādgarbhamāpa ghanarājirivārṇavāt ।। 7.4.23 ॥",
+      "translations": {
+        "english": "O Rama, after some time, Salakatankata conceived from Vidhyutkesha, just as a line of clouds obtains moisture from the ocean.",
+        "hindi": "किन्तु ब्रह्मा जी ने मेरे रहने के लिए कुछ भी प्रबन्ध नहीं किया | अतः हे स्वामिन्‌! सो आप मेरे रहने के लिए कोई ऐसा स्थान बतलाइए जहाँ मेरे रहने से किसी को कष्ट या पीड़ा न हो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 4,
+      "verse": 24,
+      "sloka": "ततः सा राक्षसी गर्भं घनगर्भसमप्रभम् ।प्रसूता मन्दरं गत्वा गङ्गा गर्भमिवाग्निजम् ।। ७.४.२४ ॥",
+      "transliteration": "tataḥ sā rākṣasī garbhaṁ ghanagarbhasamaprabham ।prasūtā mandaraṁ gatvā gaṅgā garbhamivāgnijam ।। 7.4.24 ॥",
+      "translations": {
+        "english": "Then, that female demon, having gone to the Mandara mountain, gave birth to an offspring shining like a thundercloud, just as Ganga gave birth to the fire-born embryo (Kartikeya).",
+        "hindi": "जब पुत्र ने इस प्रकार कहा, तब मनिश्रेष्ठ विश्रवा ने अपने पुत्र से कहा--हे धर्मज्ञ ! हे श्रेष्ठ ! सुनो, में तुम्हारे रहने के लिए स्थान बतलाता हूँ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 4,
+      "verse": 25,
+      "sloka": "समुत्सृज्य तु सा गर्भं विद्युत्केशरतार्थिनी ।रेमे तु सार्धं पतिना विस्मृत्य सुतमात्मजम् ।। ७.४.२५ ॥",
+      "transliteration": "samutsṛjya tu sā garbhaṁ vidyutkeśaratārthinī ।reme tu sārdhaṁ patinā vismṛtya sutamātmajam ।। 7.4.25 ॥",
+      "translations": {
+        "english": "Having abandoned her offspring, she, desiring union with Vidyutkesha, then enjoyed herself with her husband, completely forgetting her own son.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 4,
+      "verse": 26,
+      "sloka": "उत्सृष्टस्तु तदा गर्भो घनशब्दसमस्वनः ।तयोत्सृष्टः स तु शिशुः शरदर्कसमद्युतिः ।निधायास्ये स्वयं मुष्टिं रुरोद शनकैस्तदा ।। ७.४.२६ ॥",
+      "transliteration": "utsṛṣṭastu tadā garbho ghanaśabdasamasvanaḥ ।tayotsṛṣṭaḥ sa tu śiśuḥ śaradarkasamadyutiḥ ।nidhāyāsye svayaṁ muṣṭiṁ ruroda śanakaistadā ।। 7.4.26 ॥",
+      "translations": {
+        "english": "The abandoned offspring, who had a roar like thunder and a luster like the autumn sun, then cried slowly, having placed his own fist in his mouth.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 4,
+      "verse": 27,
+      "sloka": "ततो वृषभमास्थाय पार्वत्या सहितः शिवः ।वायुमार्गेण गच्छन्वै शुश्राव रुदितस्वनम् ।। ७.४.२७ ॥",
+      "transliteration": "tato vṛṣabhamāsthāya pārvatyā sahitaḥ śivaḥ ।vāyumārgeṇa gacchanvai śuśrāva ruditasvanam ।। 7.4.27 ॥",
+      "translations": {
+        "english": "Then Shiva, accompanied by Parvati and mounted on a bull, was traveling through the sky and heard the sound of crying.",
+        "hindi": "उसी लङ्कापुरी में लुम जाकर रहो तुम्हारा सङ्कल होगा । इसमें कुछ सन्देह नहीं। उस नगरी के परकोटे की दीवालें प सोने की हैं, उसके चारों ओर खाई खुदी हुई हैं और वह यंत्रों ओर शाखों से भरी पूरी हे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 4,
+      "verse": 28,
+      "sloka": "अपश्यदुमया सार्धं रुदन्तं राक्षसात्मजम् ।कारुण्यभावात्पार्वत्या भवस्त्रिपुरसूदनः ।। ७.४.२८ ॥",
+      "transliteration": "apaśyadumayā sārdhaṁ rudantaṁ rākṣasātmajam ।kāruṇyabhāvātpārvatyā bhavastripurasūdanaḥ ।। 7.4.28 ॥",
+      "translations": {
+        "english": "Shiva, the destroyer of Tripura, then saw the demon's son crying, accompanied by Uma, moved by Parvati's feeling of compassion.",
+        "hindi": "वह लङ्कापुरी बड़ी रमणीक हे । उसके फाटक सोने के हैं और उनमें पन्ने जड़े हुए हैं। पहले उसमें राक्षस रहा करते थे, किन्तु विष्णु के डर से वे वहाँ से भाग गए हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 4,
+      "verse": 29,
+      "sloka": "तं राक्षसात्मजं चक्रे मातुरेव वयःसमम् ।अमरं चैव तं कृत्वा महादेवो ऽक्षरो ऽव्ययः ।। ७.४.२९ ॥",
+      "transliteration": "taṁ rākṣasātmajaṁ cakre mātureva vayaḥsamam ।amaraṁ caiva taṁ kṛtvā mahādevo 'kṣaro 'vyayaḥ ।। 7.4.29 ॥",
+      "translations": {
+        "english": "The imperishable and immutable Lord Mahadeva made that son of the demon, Sukesha, immortal and equal in age to his mother.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 4,
+      "verse": 30,
+      "sloka": "पुरमाकाशगं प्रादात्पार्वत्याः प्रियकाम्यया ।उमयापि वरो दत्तो राक्षसानां नृपात्मज ।। ७.४.३० ॥",
+      "transliteration": "puramākāśagaṁ prādātpārvatyāḥ priyakāmyayā ।umayāpi varo datto rākṣasānāṁ nṛpātmaja ।। 7.4.30 ॥",
+      "translations": {
+        "english": "To please Parvati, Shiva gave him a city that could move in the sky, and O son of the king, Uma also granted a boon to the demons.",
+        "hindi": "हे पुत्रः! तुम वहाँ जाकर सुखपूबंक रहो । वहाँ तुम्हारे रहने में कुछ भी बुराई न होगी ओर न किसी को किसी प्रकार का कष्ट हो होगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 4,
+      "verse": 31,
+      "sloka": "सद्योपलब्धिर्गर्भस्य प्रसूतिः सद्य एव च ।सद्य एव वयःप्राप्तिर्मातुरेव वयस्समम् ।। ७.४.३१ ॥",
+      "transliteration": "sadyopalabdhirgarbhasya prasūtiḥ sadya eva ca ।sadya eva vayaḥprāptirmātureva vayassamam ।। 7.4.31 ॥",
+      "translations": {
+        "english": "The boon granted by Uma was that conception would be immediate, birth would be immediate, and the child would immediately attain an age equal to that of its mother.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 4,
+      "verse": 32,
+      "sloka": "ततः सुकेशो वरदानगर्वितः श्रियं प्रभोः प्राप्य हरस्य पार्श्वतः ।चचार सर्वत्र महान्महामतिः खगं पुरं प्राप्य पुरन्दरो यथा ।। ७.४.३२ ।।",
+      "transliteration": "tataḥ sukeśo varadānagarvitaḥ śriyaṁ prabhoḥ prāpya harasya pārśvataḥ ।cacāra sarvatra mahānmahāmatiḥ khagaṁ puraṁ prāpya purandaro yathā ।। 7.4.32 ।।",
+      "translations": {
+        "english": "Then, Sukesha, proud of the boon and having obtained glory from the presence of Lord Shiva, roamed everywhere, great and of great intellect, just as Indra does after obtaining his celestial city. इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये श्रीमदुत्तरकाण्डे चतुर्थः सर्गः ।। 4 ।। Thus ends the fourth sarga of Uttara Kanda of the holy Ramayana the first epic composed by sage Valmiki.",
+        "hindi": "सदा हर्षित रहने वाले इजारों राक्षस वहाँ जा बसे। वैश्रवण के शासन में थोड़े ही दिनों में वह लङ्कापुरी भरी पुरी हो गई",
+        "telugu": ""
+      }
+    }
+  ]
+}

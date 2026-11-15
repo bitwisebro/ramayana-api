@@ -1,0 +1,877 @@
+{
+  "kanda": 5,
+  "kanda_name": "Sundara Kanda",
+  "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+  "sarga": 48,
+  "verses_count": 62,
+  "verses": [
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 1,
+      "sloka": "ततः स रक्षोधिपतिर्महात्मा हनूमता ऽक्षे निहते कुमारे ।मनः समाधाय तदेन्द्रकल्पं समादिदेशेन्द्रजितं सरोषम् ।। ५.४८.१।।।।",
+      "transliteration": "tataḥ sa rakṣodhipatirmahātmā hanūmatā 'kṣe nihate kumāre ।manaḥ samādhāya tadendrakalpaṁ samādideśendrajitaṁ saroṣam ।। 5.48.1।।।।",
+      "translations": {
+        "english": "Thereafter the great demon king, mighty angry at the death of Aksha in the hands of Hanuman, controlled his feeling and ordered Indrajit who was like a godhead.",
+        "hindi": "महावीर हनुमानजी के, उन वचनों को सुन, रावण ने क्रुद्ध हो, उनके मारे जाने की प्राज्ञा दी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 2,
+      "sloka": "त्वमस्त्रविच्छस्त्रविदां वरिष्ठः सुरासुराणामपि शोकदाता ।सुरेषु सेन्द्रेषु च दृष्टकर्मा पितामहाराधनऽञ्चितास्त्रः ।। ५.४८.२।।।।",
+      "transliteration": "tvamastravicchastravidāṁ variṣṭhaḥ surāsurāṇāmapi śokadātā ।sureṣu sendreṣu ca dṛṣṭakarmā pitāmahārādhana'ñcitāstraḥ ।। 5.48.2।।।।",
+      "translations": {
+        "english": "\"You are an expert in wielding astras (missiles) and foremost among the wielders of weapons. You are highly efficient. You have brought grief even to suras and asuras. You are a warrior of proven ability demonstrated in your war against the gods including Indra. By propitiating, (through penance), grandfather Brahma you have acquired many missiles.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 3,
+      "sloka": "तवास्त्रबलमासाद्य नासुरा न मरुद्गणाः ।न शेकुः समरे स्थातुं सुरेश्वरसमाश्रिताः ।। ५.४८.३।।।।",
+      "transliteration": "tavāstrabalamāsādya nāsurā na marudgaṇāḥ ।na śekuḥ samare sthātuṁ sureśvarasamāśritāḥ ।। 5.48.3।।।।",
+      "translations": {
+        "english": "\"None could face you in war including Indra, Maruts and gods because of your skill and the power of your astras.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 4,
+      "sloka": "न कश्चित् त्रिषु लोकेषु संयुगे नगतश्रमः ।भुजवीर्याभिगुप्तश्च तपसा चाभिरक्षितः ।देशकालविभागज्ञस्त्वमेव मतिसत्तमः ।। ५.४८.४।।।।",
+      "transliteration": "na kaścit triṣu lokeṣu saṁyuge nagataśramaḥ ।bhujavīryābhiguptaśca tapasā cābhirakṣitaḥ ।deśakālavibhāgajñastvameva matisattamaḥ ।। 5.48.4।।।।",
+      "translations": {
+        "english": "\"Excepting you there is none who has not experienced fatigue in war in the three worlds. You alone are intelligent in fighting. You are protected by the strength of your arms and power of austerity. You are aware of the proper place and time of action.",
+        "hindi": "शत्रु को जीतने वाले तथा वचन बोलने वालों में चतुर विभीषण ने भ्रपना कर्तव्य स्थिर कर भ्रौर भ्रपने बड़े भाई का सम्मान कर, भ्रत्यन्त हितकर वचन, साम नीति का ध्रबलंबन कर रावण से कहना आरम्भ किया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 5,
+      "sloka": "न ते ऽस्त्यशक्यं समरेषु कर्मणा न ते ऽस्त्यकार्यं मतिपूर्वमन्त्रणे ।न सो ऽस्ति कश्चित् त्रिषु संग्रहेषु वै न वेद यस्ते ऽस्त्रबलं बलं च ते ।। ५.४८.५।।।।",
+      "transliteration": "na te 'styaśakyaṁ samareṣu karmaṇā na te 'styakāryaṁ matipūrvamantraṇe ।na so 'sti kaścit triṣu saṁgraheṣu vai na veda yaste 'strabalaṁ balaṁ ca te ।। 5.48.5।।।।",
+      "translations": {
+        "english": "\"Nothing is impossible for you in war. You do not consider with your wise judgment any action unfit for undertaking. There is none in all the three worlds who is unaware of the strength of your weapons and your power to recall through Mantra the weapon you have discharged.",
+        "hindi": "हे राक्षसेन्द्र ! क्रोध को शान्त कर शरोर क्षमा को ग्रहण कर, प्रसन्न शतत से छाप मेरी इन बातों को सुनिए । हे राजन्‌ ! पूर्वापर का विवेक रखने वाले राजा लोग दूत को कदापि नहीं मारते",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 6,
+      "sloka": "ममानुरूपं तपसो बलं च ते पराक्रमश्चास्त्रबलं च संयुगे ।न त्वां समासाद्य रणावमर्दे मनः श्रमं गच्छति निश्चितार्थम् ।। ५.४८.६।।।।",
+      "transliteration": "mamānurūpaṁ tapaso balaṁ ca te parākramaścāstrabalaṁ ca saṁyuge ।na tvāṁ samāsādya raṇāvamarde manaḥ śramaṁ gacchati niścitārtham ।। 5.48.6।।।।",
+      "translations": {
+        "english": "\"The power of your penance, your valour and your ability to discharge astras in war is equal only to mine. I am not bothered about the consequences of war you wage because your victory is certain.",
+        "hindi": "हे वीर ! इस दूत वानर का वध करना, केवल राजधर्म विरुद्ध ही नहीं है किन्तु लोकाचार से निन्द्य भी है। यह कायं तुम्हारे स्वरूप के विरुद्ध भी है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 7,
+      "sloka": "निहताः किङ्कराः सर्वे जम्बुमाली च राक्षसः ।अमात्यपुत्रा वीराश्च पञ्च सेनाग्रयायिनः ।। ५.४८.७।।।।",
+      "transliteration": "nihatāḥ kiṅkarāḥ sarve jambumālī ca rākṣasaḥ ।amātyaputrā vīrāśca pañca senāgrayāyinaḥ ।। 5.48.7।।।।",
+      "translations": {
+        "english": "\"All the kinkaras , Jambumali, the heroic demons, sons of the ministers and five army generals were slain. Battalions of well-equipped army including horses, elephants and chariots were also destroyed.",
+        "hindi": "तुम घमंज्ञ, कृतज्ञ, राजनीतिविशारद पूर्वापर के जानने वाले झौर प्राणियों में सबसे अधिक परमार्थतत्व के ज्ञाता हो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 8,
+      "sloka": "बलानि सुसमृद्धानि साश्वनागरथानि च ।सहोदरस्ते दयितः कुमारो ऽक्षश्च सूदितः ।। ५.४८.८।।।।",
+      "transliteration": "balāni susamṛddhāni sāśvanāgarathāni ca ।sahodaraste dayitaḥ kumāro 'kṣaśca sūditaḥ ।। 5.48.8।।।।",
+      "translations": {
+        "english": "\"Your dear young brother Aksha is killed. O scourage of enemies I do not have the faith in them as I have in you.",
+        "hindi": "यदि तुम जैसे पण्डित भी क्रोध के वशवर्ती हो जायें श्रौर ऐसे अनुचित काय कर बठ तब तो शास्त्र पढ़ना केवल श्रम उठाना ही ठहरा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 9,
+      "sloka": "न हि तेष्वेव मे सारो यस्त्वय्यरिनिषूदन ।। ५.४८.९।।।।",
+      "transliteration": "na hi teṣveva me sāro yastvayyariniṣūdana ।। 5.48.9।।।।",
+      "translations": {
+        "english": "\"O intelligent warrior measure the strength, power and valour of the monkey and your own strength carefully. Exercise your own strength and speed accordingly.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 10,
+      "sloka": "इदं हि दृष्ट्वा मतिमन्महद्बलं कपेः प्रभावं च पराक्रमं च ।त्वमात्मनश्चापि समीक्ष्य सारं कुरुष्व वेगं स्वबलानुरूपम् ।। ५.४८.१०।।।।",
+      "transliteration": "idaṁ hi dṛṣṭvā matimanmahadbalaṁ kapeḥ prabhāvaṁ ca parākramaṁ ca ।tvamātmanaścāpi samīkṣya sāraṁ kuruṣva vegaṁ svabalānurūpam ।। 5.48.10।।।।",
+      "translations": {
+        "english": "\"O warrior of extraordinary merit among the wielders of astras asses your strength approach the enemy in a manner by which he is subdued without causing further destruction to our army. Carefully measure your own strength and your enemy's before you start fighting.",
+        "hindi": "राक्षसेष्धर रावण, विभीषण के वचन सुन कर श्रौर भी भ्रधिक क्रुद्ध हुश्रा भौर उनकी बातों के उत्तर देता हुआ कहने लगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 11,
+      "sloka": "बलावमर्दस्त्वयि सन्निकृष्टे यथा गते शाम्यति शान्तशत्रौ ।तथा समीक्ष्यात्मबलं परं च समारभस्वास्त्रविदां वरिष्ठ ।। ५.४८.११।।।।",
+      "transliteration": "balāvamardastvayi sannikṛṣṭe yathā gate śāmyati śāntaśatrau ।tathā samīkṣyātmabalaṁ paraṁ ca samārabhasvāstravidāṁ variṣṭha ।। 5.48.11।।।।",
+      "translations": {
+        "english": "\"O hero take no large army as it is futile with this monkey endowed with extraordinary vigour. Even a thunderbolt can do nothing. He is like the wind and has no match in speed. He is like the sacrificial fire who cannot be destroyed by weapons.",
+        "hindi": "हैं शत्रुसूदन | पापी को मारने से पाप नहीं लगता । श्रतएव में इस पापकमं करने वाले वानर का वध करवाऊंगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 12,
+      "sloka": "न वीर सेना गणशोच्यवन्ति न वज्रमादाय विशालसारम् ।न मारुतस्यास्य गतेः प्रमाणं न चाग्निकल्पः करणेन हन्तुम् ।। ५.४८.१२।।।।",
+      "transliteration": "na vīra senā gaṇaśocyavanti na vajramādāya viśālasāram ।na mārutasyāsya gateḥ pramāṇaṁ na cāgnikalpaḥ karaṇena hantum ।। 5.48.12।।।।",
+      "translations": {
+        "english": "\"Assess the situation properly. You are a person of sound judgement. You are a master in weaponry. Recollect the strength of your bow and divine astras and march forward with a singleminded attention. Act in a manner that does not bring your doom.",
+        "hindi": "बुद्धिमानों में श्रेष्ठ विभीषण, रावण के श्रघमंमूलक, घ्रनेक दोषों से युक्त श्रौर प्रभद्रोचित वचनों को सुन, परमार्थतत्वयुक्त वचन बोले",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 13,
+      "sloka": "तमेवमर्थं प्रसमीक्ष्य सम्यक् स्वकर्मसाम्याद्धि समाहितात्मा ।स्मरंश्च दिव्यं धनुषो ऽस्त्रवीर्यं व्रजाक्षतं कर्म समारभस्व ।। ५.४८.१३।।।।",
+      "transliteration": "tamevamarthaṁ prasamīkṣya samyak svakarmasāmyāddhi samāhitātmā ।smaraṁśca divyaṁ dhanuṣo 'stravīryaṁ vrajākṣataṁ karma samārabhasva ।। 5.48.13।।।।",
+      "translations": {
+        "english": "\"I am reluctant to send you to war in the circumstances. But you are the best choice for me. However, certainly this is the duty of a kshatriya who follows the science of polity. Hence I am sending you.",
+        "hindi": "हे लवर ! हे राक्षसेन्द्र ! तुम प्रसन्न हो झोौर मेरे धर्म एवं प्रथ यक्त वचनों को सुनो। हे राजन्‌ ! सब जातियों के समस्त सन्त जनों का सवंत्र यही कथन पाया जाता है कि, दूत को किसी भी समय न मारना चाहिए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 14,
+      "sloka": "न खल्वियं मतिः श्रेष्ठा यत्त्वां संप्रेषयाम्यहम् ।इयं च राजधर्माणां क्षत्रस्य च मतिर्मता ।। ५.४८.१४।।।।",
+      "transliteration": "na khalviyaṁ matiḥ śreṣṭhā yattvāṁ saṁpreṣayāmyaham ।iyaṁ ca rājadharmāṇāṁ kṣatrasya ca matirmatā ।। 5.48.14।।।।",
+      "translations": {
+        "english": "\"O subduer of enemies you are capable of handling different kinds of weapons. Therefore, understand that I seek only your ultimate triumph in war.",
+        "hindi": "यद्यपि यह बड़ा शत्रु है भोर इसने अपराध भी बड़ा भारी किया है; तथापि साघुमतानुसार दूत होने के कारण इसका वघ करवाना अनुचित है । हाँ, इसका वघ न करा कर इसे, दूत को देने योग्य भनेक ग्न्य दण्डों में से कोई. दण्ड दिया जा सकता है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 15,
+      "sloka": "नानाशस्त्रैश्च संग्रामे वैशारद्यमरिन्दम् ।अवश्यमेव बोद्धव्यं काम्यश्च विजयो रणे ।। ५.४८.१५।।।।",
+      "transliteration": "nānāśastraiśca saṁgrāme vaiśāradyamarindam ।avaśyameva boddhavyaṁ kāmyaśca vijayo raṇe ।। 5.48.15।।।।",
+      "translations": {
+        "english": "Hearing the father's words (of exhortation), he, who is never distressed at the prospect of war decided to seek the battle as he was powerful like the son of Daksha, and went round his father with respect.",
+        "hindi": "दूत के लिए ये दण्ड भी बतलाए हैं, दूत को प्रङ्ग भङ्ग कर देना, दूत के चाबूक लगवाना, दूत का सिर मुड्वा देना, दूत के शरीर में कोई चिह्न दगवा देना । किन्तु दूत का वघ करवाना तो मेंने कभी नही सुना",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 16,
+      "sloka": "ततः पितुस्तद्वचनं निशम्य प्रदक्षिणं दक्षसुतप्रभावः ।चकार भर्तारमदीनसत्त्वो रणाय वीरः प्रतिपन्नबुद्धिः ।। ५.४८.१६।।।।",
+      "transliteration": "tataḥ pitustadvacanaṁ niśamya pradakṣiṇaṁ dakṣasutaprabhāvaḥ ।cakāra bhartāramadīnasattvo raṇāya vīraḥ pratipannabuddhiḥ ।। 5.48.16।।।।",
+      "translations": {
+        "english": "Having been honoured by his own kith and kin who loved him, Indrajit rushed forth for war with martial vigour.",
+        "hindi": "फिर श्राप जैसे धर्मार्थ शिक्षित बुद्धि वाले तथा अच्छे-बुरे को जान कर निर्णय करने वाले लोग भला किस प्रकार क्रोध के वश होते हैं । व्यवसायवन्तों को तो क्रोध भ्रवदय भपने वश में रखना ही चाहिए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 17,
+      "sloka": "ततस्तैः स्वगणैरिष्टैरिन्द्रजत् प्रतिपूजितः ।युद्धोद्धतः कृतोत्साहः सग्रामं प्रत्यद्यत ।। ५.४८.१७।।।।",
+      "transliteration": "tatastaiḥ svagaṇairiṣṭairindrajat pratipūjitaḥ ।yuddhoddhataḥ kṛtotsāhaḥ sagrāmaṁ pratyadyata ।। 5.48.17।।।।",
+      "translations": {
+        "english": "When the illustrious son of Ravana, the highly Indrajit resplendent with eyes of lotus petals marched ahead he looked like the turbulent ocean on a fullmoon day.",
+        "hindi": "हे वीर! घमंशास्त्र के ज्ञान में, लोकाचार में प्रौर शास्त्र के विचार में सुम्हारी टक्कर का कोई भी तो नहीं देख पड़ता । इस समय तो इन विषयों के ज्ञान में तुम सुर प्रौर भ्रसुर संब ही में सर्वोत्तम माने जाते हो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 18,
+      "sloka": "श्रीमान् पद्मपलाशाक्षो राक्षसाधिपतेः सुतः ।निर्जगाम महातेजाः समुद्र इव पर्वसु ।। ५.४८.१८।।।।",
+      "transliteration": "śrīmān padmapalāśākṣo rākṣasādhipateḥ sutaḥ ।nirjagāma mahātejāḥ samudra iva parvasu ।। 5.48.18।।।।",
+      "translations": {
+        "english": "Like Indra, Indrajit ascended the chariot (which had the standard of Indra as it was seized from him as a token of his having conquered Indra) yoked to four sharptoothed tigers. It moved in swiftness vying with Garuda, the king of birds in speed.",
+        "hindi": "श्रधिक कहाँ तक कहे--पराक्रम, उत्साह श्रौर शौयंवान जो देवता और असुर हैं, उन सबसे तुम दुर्जेय हो । भ्रनेक बार तुम इनको तथा भ्रनेक राजाम्रों को जीत चुके हो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 19,
+      "sloka": "स पक्षिराजोपमतुल्यवेगैर्व्यालैश्चतुर्भिः सिततीक्ष्णदंष्ट्रैः ।रथं समायुक्तमसङ्गवेगं समारुरोहेन्द्रजिदिन्द्रकल्पः ।। ५.४८.१९।।।।",
+      "transliteration": "sa pakṣirājopamatulyavegairvyālaiścaturbhiḥ sitatīkṣṇadaṁṣṭraiḥ ।rathaṁ samāyuktamasaṅgavegaṁ samārurohendrajidindrakalpaḥ ।। 5.48.19।।।।",
+      "translations": {
+        "english": "Mounted on the chariot, Indrajit, the best in archery and an expert in weaponry went quickly to the place where that great Hanuman was stationed.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 20,
+      "sloka": "स रथी धन्विनीं श्रेष्ठः शस्त्रज्ञो ऽस्त्रविदां वरः ।रथेनाभिययौ क्षिप्रं हनूमान् यत्र सो ऽभवत् ।। ५.४८.२०।।।।",
+      "transliteration": "sa rathī dhanvinīṁ śreṣṭhaḥ śastrajño 'stravidāṁ varaḥ ।rathenābhiyayau kṣipraṁ hanūmān yatra so 'bhavat ।। 5.48.20।।।।",
+      "translations": {
+        "english": "The leader of the monkey also became happier on hearing the rumbling (of the chariot) and the twang of Indrajit's bowstring.",
+        "hindi": "मुझे तो इस वानर के मरवा डालने में कुछ भी भ्रच्छाई नहीं देख पड़ती । बल्कि यह दण्ड तो उसे देना चाहिए जिसका भेजा यह यहाँ आया है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 21,
+      "sloka": "स तस्य रथनिर्घोषं ज्यास्वनं कार्मुकस्य च ।निशम्य हरिवीरो ऽसौ संप्रहृष्टतरो ऽभवत् ।। ५.४८.२१।।।।",
+      "transliteration": "sa tasya rathanirghoṣaṁ jyāsvanaṁ kārmukasya ca ।niśamya harivīro 'sau saṁprahṛṣṭataro 'bhavat ।। 5.48.21।।।।",
+      "translations": {
+        "english": "Indrajit who was an adept in warfare, picked his highly powerful bow and aimed his sharpedged arrow at Hanuman.",
+        "hindi": "यह्‌ स्वयं अच्छा है या बुरा, यह प्रश्‍न ही नहीं, परन्तु भेजा तो यह दूसरे का है और दूसरे ही का संदेश कहता है। भ्रतएव इस परवश दूत झो मारना ठीक नहीं है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 22,
+      "sloka": "सुमहच्चापमादाय शितशल्यांश्च सायकान् ।हनुमन्तमभिप्रेत्य जगाम रणपण्डितः ।। ५.४८.२२।।।।",
+      "transliteration": "sumahaccāpamādāya śitaśalyāṁśca sāyakān ।hanumantamabhipretya jagāma raṇapaṇḍitaḥ ।। 5.48.22।।।।",
+      "translations": {
+        "english": "When he sallied forth happily holding a bow full of passion for war, darkness prevailed in all quarters and it became gloomy. Beasts began to howl in various frightful ways.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 23,
+      "sloka": "तस्मिंस्ततः संयति जातहर्षे रणाय निर्गच्छति बाणपाणौ ।दिशश्च सर्वाः बभूवर्मृगाश्च रौद्रा बहुधा विनेदुः ।। ५.४८.२३।।।।",
+      "transliteration": "tasmiṁstataḥ saṁyati jātaharṣe raṇāya nirgacchati bāṇapāṇau ।diśaśca sarvāḥ babhūvarmṛgāśca raudrā bahudhā vineduḥ ।। 5.48.23।।।।",
+      "translations": {
+        "english": "(To see the combat) the Nagas, Yakshas, seers and Siddhas who move round the heavenly orbits assembled in the sky. The birds collected in flocks in the sky and screeched loudly and happily.",
+        "hindi": "शासि कक्कड | ७ फी हे शत्रुपुरजयी ! भ्रतएव इसके वध के लिए यत्न न करना चाहिए । घल्कि यदि वध करने ही की इच्छा है, तो श्राप देवताम्रों पर चढ़ाई करने | की तेयारियाँ कीजिए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 24,
+      "sloka": "समागतास्तत्र तु नागयक्षा महर्षयश्चक्रचराश्च सिद्धाः ।नभः समावृत्य च पक्षिसङ्घा विनेदुरुच्चैः परमप्रहृष्टाः ।। ५.४८.२४।।।।",
+      "transliteration": "samāgatāstatra tu nāgayakṣā maharṣayaścakracarāśca siddhāḥ ।nabhaḥ samāvṛtya ca pakṣisaṅghā vineduruccaiḥ paramaprahṛṣṭāḥ ।। 5.48.24।।।।",
+      "translations": {
+        "english": "Hanuman of very high speed enlarged his body and roared, perceiving Indrajit's chariot coming swiftly.",
+        "hindi": "» हे युद्धप्रिय | यदि यह दूत मार डाला गया तो फिर ऐसा दूसरा दूत | न मिलेगा, जो इतनी दुर श्रौर ऐसे प्रवरुद्ध माग से जाकर, उन दोनों दुविनीत श्रौर तुम्हारे वेरी राजकुमारों को लड़ने के लिए उत्साहित करे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 25,
+      "sloka": "आयान्तं सरथं दृष्ट्वा तूर्णमिन्द्रजितं कपिः ।विननाद महानादं व्यवर्धत च वेगवान् ।। ५.४८.२५।।।।",
+      "transliteration": "āyāntaṁ sarathaṁ dṛṣṭvā tūrṇamindrajitaṁ kapiḥ ।vinanāda mahānādaṁ vyavardhata ca vegavān ।। 5.48.25।।।।",
+      "translations": {
+        "english": "Indrajit on his part sat in his divine chariot holding a wonderful bow and in a lightning speed twanged it.",
+        "hindi": "इस वानरयूथपति के मार डालने से सव लोग तुम्हारी सवंत्र निन्दा || करेंगे । ऐसा करने से मुझे तो इसमें न तो तुम्हारे लिए यश की शोर न छोड भलाई की बात ही देख पड़ती है । प्रत्युत इससे तो संसार भर में तुम्हारी निन्दा फेल जायगी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 26,
+      "sloka": "इन्द्रजित्तु रथं दिव्यमास्थितश्चित्रकार्मुकः ।धनुर्विस्फारयामास तडिदूर्जितनिःस्वनम् ।। ५.४८.२६।।।।",
+      "transliteration": "indrajittu rathaṁ divyamāsthitaścitrakārmukaḥ ।dhanurvisphārayāmāsa taḍidūrjitaniḥsvanam ।। 5.48.26।।।।",
+      "translations": {
+        "english": "Then the son of the demon king and Hanuman, both very fast in speed, mighty and powerful, fearless in war and like sura and asura closed in upon each other.",
+        "hindi": "हे राक्षस मनोनन्दन ! बड़े-बड़े पराक्रमी भ्रौर उत्साही देवता घौर द्त्य भी तुमको नहीं जीत सकते । प्रतः राक्षसों के मन की युद्ध सम्बन्धी उल्लेख को भु करना तुमको उचित नहीं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 27,
+      "sloka": "ततः समेतावति तीक्ष्णवेगौ महाबलौ तौ रणनिर्विशङ्कौ ।कपिश्च रक्षोधिपतेश्च पुत्रः सुरासुरेन्द्राविव बद्धवैरौ ।। ५.४८.२७।।।।",
+      "transliteration": "tataḥ sametāvati tīkṣṇavegau mahābalau tau raṇanirviśaṅkau ।kapiśca rakṣodhipateśca putraḥ surāsurendrāviva baddhavairau ।। 5.48.27।।।।",
+      "translations": {
+        "english": "Hanuman of immeasurable strength heaved himself to a huge proprtion and went moving on the path of his father (windgod) rendering useless the extraordinary speed of the arrows of Indrajit, who was great in chariot warfare, and an efficient archer.",
+        "hindi": "क्योंकि ये सब योद्धा लोग तुम्हारे हितैषी हें, बड़े शूर वीर हें; सावधान रहने वाले हैं, कुलीन हें, मनस्वी है सौर शस्त्रघारियों में श्रेष्ठ हैँ । इनकी संख्या भी करोड़ों पर ही है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 28,
+      "sloka": "स तस्य वीरस्य महारथस्य धनुष्मतः संयति संमतस्य ।शरप्रवेगं व्यहनत् प्रवृद्धश्चचार मार्गे पितुरप्रमेये ।। ५.४८.२८।।।।",
+      "transliteration": "sa tasya vīrasya mahārathasya dhanuṣmataḥ saṁyati saṁmatasya ।śarapravegaṁ vyahanat pravṛddhaścacāra mārge pituraprameye ।। 5.48.28।।।।",
+      "translations": {
+        "english": "Then the heroic Indrajit, slayer of enemy warriors, discharged long arrows that were fixed with fine feathers with sharppointed gold tips, bent a little at the tip touching the bow string, as swift as lightning.",
+        "hindi": "भेरी सम्मति से तो इस समय तुम्हारी कुछ सेना वहाँ जाय श्रौर उन दोनों मूढ़ राजकुमारों फो पकड़ लावे, जिससे कि तुम्हारा प्रभाव उनको मालूम हो जाय",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 29,
+      "sloka": "ततः शरानायतीक्ष्णशल्यान् सुपत्रिणः काञ्चनचित्रपुङ्खान् ।मुमोच वीरः परवीरहन्ता सुसन्नतान् वज्रनिपातवेगान् ।। ५.४८.२९।।।।",
+      "transliteration": "tataḥ śarānāyatīkṣṇaśalyān supatriṇaḥ kāñcanacitrapuṅkhān ।mumoca vīraḥ paravīrahantā susannatān vajranipātavegān ।। 5.48.29।।।।",
+      "translations": {
+        "english": "Thereupon, hearing the rumbling of the chariot, the sounds of mrudangas, bheris, and patahas drawing towards him, and percieving the loud twang of the bow (of Indrajit) Hanuman sprang up again.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 30,
+      "sloka": "ततस्तु तत्स्यन्दननिःस्वनं च मृदङ्गभेरीपटहस्वनं च ।विकृष्यमाणस्य च कार्मुकस्य निशम्य घोषं पुनरुत्पपात ।। ५.४८.३०।।।।",
+      "transliteration": "tatastu tatsyandananiḥsvanaṁ ca mṛdaṅgabherīpaṭahasvanaṁ ca ।vikṛṣyamāṇasya ca kārmukasya niśamya ghoṣaṁ punarutpapāta ।। 5.48.30।।।।",
+      "translations": {
+        "english": "The great tawny monkey moved quickly between spaces of arrows that were aimed at him rendering hosts of Indrajit's targets futile.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 31,
+      "sloka": "शराणामन्तरेष्वाशु व्यवर्तत महाकपिः ।हरिस्तस्याभिलक्ष्यस्य मोघयँल्लक्ष्यसंग्रहम् ।। ५.४८.३१।।।।",
+      "transliteration": "śarāṇāmantareṣvāśu vyavartata mahākapiḥ ।haristasyābhilakṣyasya moghayam̐llakṣyasaṁgraham ।। 5.48.31।।।।",
+      "translations": {
+        "english": "Hanuman, son of the Windgod again stood facing the arrows directly stretching his hands and jumped (into the air).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 32,
+      "sloka": "शराणआमग्रतस्तस्य पुनः समभिवर्तत ।प्रसार्य हस्तौ हनुमानुत्पपातानिलात्मजः ।। ५.४८.३२।।।।",
+      "transliteration": "śarāṇaāmagratastasya punaḥ samabhivartata ।prasārya hastau hanumānutpapātānilātmajaḥ ।। 5.48.32।।।।",
+      "translations": {
+        "english": "Both the warriors endowed with speed and skill in warfare carried on the fight which captivated the minds of all creatures.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 33,
+      "sloka": "तावुभौ वेगसम्पन्नौ रणकर्मविशारदौ ।सर्वभूतमनोग्राहि चक्रतुर्युद्धमुत्तमम् ।। ५.४८.३३।।।।",
+      "transliteration": "tāvubhau vegasampannau raṇakarmaviśāradau ।sarvabhūtamanogrāhi cakraturyuddhamuttamam ।। 5.48.33।।।।",
+      "translations": {
+        "english": "The demon did not find a way to hit Hanuman. Maruti also found no opportunity to hit great Indrajit. Both of them being equal to gods in valour became too much to each other in war. (Both of them moved at meteoric speed making it difficult to aim at the enemy.)",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 34,
+      "sloka": "हनूमतो वेद न राक्षसो ऽन्तरं न मारुतिस्तस्य महात्मनो ऽन्तरम् ।परस्परं निर्विषहौ बभूवतुः समेत्य तौ देवसमानविक्रमौ ।। ५.४८.३४।।।।",
+      "transliteration": "hanūmato veda na rākṣaso 'ntaraṁ na mārutistasya mahātmano 'ntaram ।parasparaṁ nirviṣahau babhūvatuḥ sametya tau devasamānavikramau ।। 5.48.34।।।।",
+      "translations": {
+        "english": "Indrajit's infallible arrows missed Hanuman. Then the great warrior became perplexed and started thinking seriously within himself entering into a reflective mood.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 35,
+      "sloka": "ततस्तु लक्ष्ये स विहन्यमाने शरेष्वमोघेषु च संपतत्सु ।जागम चिन्तां महतीं महात्मा समाधिसंयोगसमाहितात्मा ।। ५.४८.३५।।।।",
+      "transliteration": "tatastu lakṣye sa vihanyamāne śareṣvamogheṣu ca saṁpatatsu ।jāgama cintāṁ mahatīṁ mahātmā samādhisaṁyogasamāhitātmā ।। 5.48.35।।।।",
+      "translations": {
+        "english": "Then Indrajit, son of the demon king, thinking that a vanara should not be killed started considering other means of catching hm.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 36,
+      "sloka": "ततो मतिं राक्षसराजसूनुश्चकार तस्मिन् हरिवीरमुख्ये ।अवध्यतां तस्य कपेः समीक्ष्य कथं निगच्छेदिति निग्रहार्थम् ।। ५.४८.३६।।।।",
+      "transliteration": "tato matiṁ rākṣasarājasūnuścakāra tasmin harivīramukhye ।avadhyatāṁ tasya kapeḥ samīkṣya kathaṁ nigacchediti nigrahārtham ।। 5.48.36।।।।",
+      "translations": {
+        "english": "Then the heroic master of weapons, an excellent and glorious warrior directed the Brahmastram towards the foremost of monkeys.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 37,
+      "sloka": "ततः पैतामहं वीरः सो ऽस्त्रमस्त्रविदां वरः ।सन्दधे सुमहातेजास्तं हरिप्रवरं प्रति ।। ५.४८.३७।।।।",
+      "transliteration": "tataḥ paitāmahaṁ vīraḥ so 'stramastravidāṁ varaḥ ।sandadhe sumahātejāstaṁ haripravaraṁ prati ।। 5.48.37।।।।",
+      "translations": {
+        "english": "Indrajit, the strongarmed hero, who knew the secrets of all missiles, realising that the son of the Windgod cannot be killed caught him by the divine weapon of Brahma (Brahmastram).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 38,
+      "sloka": "अवध्यो ऽयमिति ज्ञात्वा तमस्त्रेणास्त्रतत्त्ववित् ।निजग्राह महाबाहुर्मारुतात्मजमिन्द्रजित् ।। ५.४८.३८।।।।",
+      "transliteration": "avadhyo 'yamiti jñātvā tamastreṇāstratattvavit ।nijagrāha mahābāhurmārutātmajamindrajit ।। 5.48.38।।।।",
+      "translations": {
+        "english": "Then Hanuman bound by the weapon of the demon was unable to move and fell on the ground.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 39,
+      "sloka": "तेन बद्धस्ततो ऽस्त्रेण राक्षसेन स वानरः ।अभवन्निर्विचेष्टश्च पपात च महीतले ।। ५.४८.३९।।।।",
+      "transliteration": "tena baddhastato 'streṇa rākṣasena sa vānaraḥ ।abhavannirviceṣṭaśca papāta ca mahītale ।। 5.48.39।।।।",
+      "translations": {
+        "english": "The monkey leader realised that his speed was arrested by the power of the lord Brahma, by the strength of the bond of Brahmastram. He then recalled lord Brahma's boon to him.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 40,
+      "sloka": "ततो ऽथ बुद्ध्वा स तदस्त्रबन्धं प्रभोः प्रभावाद् विगतात्मवेगः ।पितामहानुग्रहमात्मनश्च विचिन्तयामास हरिप्रवीरः ।। ५.४८.४०।।।।",
+      "transliteration": "tato 'tha buddhvā sa tadastrabandhaṁ prabhoḥ prabhāvād vigatātmavegaḥ ।pitāmahānugrahamātmanaśca vicintayāmāsa haripravīraḥ ।। 5.48.40।।।।",
+      "translations": {
+        "english": "Hanuman realised that it was by invoking creator Brahma and applying the mantra that he was caught by Brahmastram. On that occasion he started thinking of the boon given to him by Grandsire Brahma :",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 41,
+      "sloka": "ततः स्वायम्भुवैर्मन्त्रैर्ब्रह्मास्त्रमभिमन्त्रितम् ।हनूमांश्चिन्तयामास वरदानं पितामहात् ।। ५.४८.४१।।।।",
+      "transliteration": "tataḥ svāyambhuvairmantrairbrahmāstramabhimantritam ।hanūmāṁścintayāmāsa varadānaṁ pitāmahāt ।। 5.48.41।।।।",
+      "translations": {
+        "english": "'I deem it an effect of the power of Brahma. It is not possiblle for me to free myself due to the power of the great lord presiding over the universe through the astra. It should be obeyed'.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 42,
+      "sloka": "न मे ऽस्य बन्धस्य च शक्तिरस्ति विमोक्षणे लोकगुरोः प्रभावात् ।इत्येव मत्वा विहितो ऽस्त्रबन्धो मया ऽ ऽत्मयोनेरनुवर्तितव्यः ।। ५.४८.४२।।।।",
+      "transliteration": "na me 'sya bandhasya ca śaktirasti vimokṣaṇe lokaguroḥ prabhāvāt ।ityeva matvā vihito 'strabandho mayā ' 'tmayoneranuvartitavyaḥ ।। 5.48.42।।।।",
+      "translations": {
+        "english": "Reflecting within himself about the power of the astra, Hanuman recalled Braham's favour to him. He recalled his own power to liberate himself from the Brahmastra and resolved to abide by the order of Brahma.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 43,
+      "sloka": "स वीर्यमस्त्रस्य कपिर्विचार्य पितामहानुग्रहमात्मनश्च ।विमोक्षशक्तिं परिचिन्तयित्वा पितामहाज्ञामनुवर्तते स्म ।। ५.४८.४३।।।।",
+      "transliteration": "sa vīryamastrasya kapirvicārya pitāmahānugrahamātmanaśca ।vimokṣaśaktiṁ paricintayitvā pitāmahājñāmanuvartate sma ।। 5.48.43।।।।",
+      "translations": {
+        "english": "'Even though I am bound by the astra, I have the protection of both Brahma and Indra as well as the Windgod. Hence there is no cause for apprension.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 44,
+      "sloka": "अस्त्रेणापि हि बद्धस्य भयं मम न जायते ।पितामहमहेन्द्राभ्यां रक्षितस्यानिलेन च ।। ५.४८.४४।।।।",
+      "transliteration": "astreṇāpi hi baddhasya bhayaṁ mama na jāyate ।pitāmahamahendrābhyāṁ rakṣitasyānilena ca ।। 5.48.44।।।।",
+      "translations": {
+        "english": "'If I am caught by the demon I will have the opportunity to see the demon lord. Therefore, let me be caught by my enemies'.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 45,
+      "sloka": "ग्रहणे चापि रक्षोभिर्महान् मे गुणदर्शनः ।राक्षसेन्द्रेण संवादस्तस्मादगृह्णन्तु मां परे ।। ५.४८.४५।।।।",
+      "transliteration": "grahaṇe cāpi rakṣobhirmahān me guṇadarśanaḥ ।rākṣasendreṇa saṁvādastasmādagṛhṇantu māṁ pare ।। 5.48.45।।।।",
+      "translations": {
+        "english": "Hanuman, a destroyer of enemies, who assesses before he acts, resolved (to submit to the ordinance of Brahma), to be silent (the power of his movement affected). When the enemy forces came to him slowly and slowly, siezed him forcibly and abused him, he roared.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 46,
+      "sloka": "स निश्चितार्थः परिवीरहन्ता समीक्ष्यकारी विनिवृत्तचेष्टः ।परैः प्रसह्याभिगतैर्निगृह्य ननाद तैस्तैः परिभर्त्स्यमानः ।। ५.४८.४६।।।।",
+      "transliteration": "sa niścitārthaḥ parivīrahantā samīkṣyakārī vinivṛttaceṣṭaḥ ।paraiḥ prasahyābhigatairnigṛhya nanāda taistaiḥ paribhartsyamānaḥ ।। 5.48.46।।।।",
+      "translations": {
+        "english": "Then the ogres had Hanuman, the subduer of enemies, who made no effort to move, bound with hemp rope and bark robes.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 47,
+      "sloka": "ततस्तं राक्षसा दृष्ट्वा निर्विचेष्टमरिन्दमम् ।बबन्धुः शणवल्कैश्च द्रुमचीरैश्च संहतैः ।। ५.४८.४७।।।।",
+      "transliteration": "tatastaṁ rākṣasā dṛṣṭvā nirviceṣṭamarindamam ।babandhuḥ śaṇavalkaiśca drumacīraiśca saṁhataiḥ ।। 5.48.47।।।।",
+      "translations": {
+        "english": "Bound by the enemy warriors, Hanuman, decided to bear all humiliations, thinking, 'May be the demon king might come to see me out of curiosity if he is so disposed'.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 48,
+      "sloka": "स रोचयामास परैश्च बन्धं प्रसह्य वीरैरभिनिग्रहं च ।कौतूहलान्मां यदि राक्षसेन्द्रो द्रष्ठुं व्यवस्येदिति निश्चितार्थः ।। ५.४८.४८।।।।",
+      "transliteration": "sa rocayāmāsa paraiśca bandhaṁ prasahya vīrairabhinigrahaṁ ca ।kautūhalānmāṁ yadi rākṣasendro draṣṭhuṁ vyavasyediti niścitārthaḥ ।। 5.48.48।।।।",
+      "translations": {
+        "english": "On being bound by bark ropes Hanuman was set free from the bond of Brahmastra, since the bondage of Brahmastra does not tolerate another ordinary bondage.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 49,
+      "sloka": "स बद्धस्तेन वल्केन विमुक्तो ऽस्त्रेण वीर्यवान् ।अस्त्रबन्धः स चान्यं हि न बन्धमनुवर्तते ।। ५.४८.४९।।।।",
+      "transliteration": "sa baddhastena valkena vimukto 'streṇa vīryavān ।astrabandhaḥ sa cānyaṁ hi na bandhamanuvartate ।। 5.48.49।।।।",
+      "translations": {
+        "english": "Then the heroic Indrajit coming to know that the foremost of the monkeys bound by bark ropes was released from the bondage of Brahmastra, thought, 'indeed the divine weapon does not tolerate other bonds, so the vanara is released'.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 50,
+      "sloka": "अथेन्द्रजित्तुद्रुमचीरबद्धं विचार्य वीरः कपिसत्तमं तम् ।विमुक्तमस्त्रेण जगाम चिन्तां नान्येन बद्धो ह्यनुवर्तते ऽस्त्रम् ।। ५.४८.५०।।।।",
+      "transliteration": "athendrajittudrumacīrabaddhaṁ vicārya vīraḥ kapisattamaṁ tam ।vimuktamastreṇa jagāma cintāṁ nānyena baddho hyanuvartate 'stram ।। 5.48.50।।।।",
+      "translations": {
+        "english": "'Alas! my achievement has been wasted. The ogres had not considered the impact of the mantra of astra . Once the Brahmastra is ineffective another astra cannot be operative again. We are all running a risk.'",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 51,
+      "sloka": "अहो महत् कर्म कृतं निरर्थकं न राक्षसैर्मन्त्रगतिर्विमृष्टा ।पुनश्च नास्त्रे विहते ऽस्त्रमन्यत् प्रवर्तते संशयिताः स्म सर्वे ।। ५.४८.५१।।।।",
+      "transliteration": "aho mahat karma kṛtaṁ nirarthakaṁ na rākṣasairmantragatirvimṛṣṭā ।punaśca nāstre vihate 'stramanyat pravartate saṁśayitāḥ sma sarve ।। 5.48.51।।।।",
+      "translations": {
+        "english": "Though binding and dragging by the ogres had hurt Hanuman, he on his part did not know that he had been released from Brahmastra.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 52,
+      "sloka": "अस्त्रेण हनुमान् मुक्तो नात्मानमवबुध्यत ।कृष्यमाणस्तु रक्षोभिस्तैश्च बन्धेर्निपीडितः ।। ५.४८.५२।।।।",
+      "transliteration": "astreṇa hanumān mukto nātmānamavabudhyata ।kṛṣyamāṇastu rakṣobhistaiśca bandhernipīḍitaḥ ।। 5.48.52।।।।",
+      "translations": {
+        "english": "The cruel ogres hit Hanuman with sticks and fists and dragged him to the presence of the demon lord.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 53,
+      "sloka": "हन्यमानस्ततः क्रूरै राक्षसैः काष्ठमुष्टिभिः ।समीपं राक्षसेन्द्रस्य प्रकृष्यत स वानरः ।। ५.४८.५३।।।।",
+      "transliteration": "hanyamānastataḥ krūrai rākṣasaiḥ kāṣṭhamuṣṭibhiḥ ।samīpaṁ rākṣasendrasya prakṛṣyata sa vānaraḥ ।। 5.48.53।।।।",
+      "translations": {
+        "english": "Then Indarjit, seeing the powerful Hanuman, the foremost of monkeys who was released from the Brahmastra, still bound by bark ropes, presented him to the ogres and their master in the royal assembly.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 54,
+      "sloka": "अथेन्द्रजित्तं प्रसमीक्ष्य मुक्तमस्त्रेण बद्धं द्रुमचीरसूत्रैः ।व्यदर्शयत्तत्र महाबलं हरिप्रवीरं सगणाय राज्ञे ।। ५.४८.५४।।।।",
+      "transliteration": "athendrajittaṁ prasamīkṣya muktamastreṇa baddhaṁ drumacīrasūtraiḥ ।vyadarśayattatra mahābalaṁ haripravīraṁ sagaṇāya rājñe ।। 5.48.54।।।।",
+      "translations": {
+        "english": "The ogres presented the best of monkeys, Hanuman looking like an elephant in rut to Ravana, the demon king.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 55,
+      "sloka": "तं मत्तमिव मातङ्गं बद्धं कपिवरोत्तमम् ।राक्षसा राक्षसेन्द्राय रावणाय न्यवेदयन् ।। ५.४८.५५।।।।",
+      "transliteration": "taṁ mattamiva mātaṅgaṁ baddhaṁ kapivarottamam ।rākṣasā rākṣasendrāya rāvaṇāya nyavedayan ।। 5.48.55।।।।",
+      "translations": {
+        "english": "\"Who is he? Whose son is he? Why has he come here? Where has he come from? What business does he have here?\" Thus the heroic demons talked among themselves.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 56,
+      "sloka": "को ऽयं कस्य कुतो वा ऽत्र किं कार्यं को व्यपाश्रयः ।इति राक्षसवीराणां तत्र संजज्ञिरे कथाः ।। ५.४८.५६।।।।",
+      "transliteration": "ko 'yaṁ kasya kuto vā 'tra kiṁ kāryaṁ ko vyapāśrayaḥ ।iti rākṣasavīrāṇāṁ tatra saṁjajñire kathāḥ ।। 5.48.56।।।।",
+      "translations": {
+        "english": "Thereafter other ogres angrily said 'Let us kill him, burn him or otherwise devour him,' thus they spoke to one another.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 57,
+      "sloka": "हन्यतां दह्यतां वापि भक्ष्यतामिति चापरे ।राक्षसास्तत्र संक्रुद्धाः परस्परमथाब्रुवन् ।। ५.४८.५७।।।।",
+      "transliteration": "hanyatāṁ dahyatāṁ vāpi bhakṣyatāmiti cāpare ।rākṣasāstatra saṁkruddhāḥ parasparamathābruvan ।। 5.48.57।।।।",
+      "translations": {
+        "english": "The great Hanuman moving quickly and crossing the path came near the feet of the king. He saw the aged and experienced ministers of the king and the palace of the king adorned with precious gems.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 58,
+      "sloka": "अतीत्य मार्गं सहसा महात्मा स तत्र रक्षोधिपपादमूले ।ददर्श राज्ञः परिचारवृद्धान् गृहं महारत्नविभूषितं च ।। ५.४८.५८।।।।",
+      "transliteration": "atītya mārgaṁ sahasā mahātmā sa tatra rakṣodhipapādamūle ।dadarśa rājñaḥ paricāravṛddhān gṛhaṁ mahāratnavibhūṣitaṁ ca ।। 5.48.58।।।।",
+      "translations": {
+        "english": "Resplendent Ravana saw the ogres of ugly appearance dragging the foremost of the monkeys here and there.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 59,
+      "sloka": "स ददर्श महातेजा रावणः कपिसत्तमम् ।रक्षोभिर्विकृताकारैः कृष्यमाणमितस्ततः ।। ५.४८.५९।।।।",
+      "transliteration": "sa dadarśa mahātejā rāvaṇaḥ kapisattamam ।rakṣobhirvikṛtākāraiḥ kṛṣyamāṇamitastataḥ ।। 5.48.59।।।।",
+      "translations": {
+        "english": "Hanuman the best of monkeys also saw the demon king who had both splendour and strength, radiating brilliance like the Sun.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 60,
+      "sloka": "राक्षसाधिपतिं चापि ददर्श कपिसत्तमः ।तेजोबलसमायुक्तं तपन्तमिव भास्करम् ।। ५.४८.६०।।।।",
+      "transliteration": "rākṣasādhipatiṁ cāpi dadarśa kapisattamaḥ ।tejobalasamāyuktaṁ tapantamiva bhāskaram ।। 5.48.60।।।।",
+      "translations": {
+        "english": "That tenheaded rakshasa king, rolling his red eyes rapidly in rage and observing the monkey unwinkingly ordered the noble and aged ministers of his clan to interrogate Hanuman.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 61,
+      "sloka": "स रोषसंवर्तितताम्रदृष्टिर्दशाननस्तं कपिमन्ववेक्ष्य ।अथोपविष्टान् कुलशीलवृद्धान् समादिशत्तं प्रति मन्त्रिमुख्यान् ।। ५.४८.६१।।।।",
+      "transliteration": "sa roṣasaṁvartitatāmradṛṣṭirdaśānanastaṁ kapimanvavekṣya ।athopaviṣṭān kulaśīlavṛddhān samādiśattaṁ prati mantrimukhyān ।। 5.48.61।।।।",
+      "translations": {
+        "english": "At the very outset they questioned Hanuman manner in the usual about the place he came from and the purpose. Hanuman reported, 'I am Hanuman. I came as a messenger by the order of the king of monkeys'. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये सुन्दरकाण्डे अष्टचत्वारिंशस्सर्गः।। Thus ends the fortyeigth sarga of Sundarakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 48,
+      "verse": 62,
+      "sloka": "यथाक्रमं तैः स कपिर्विपृष्टः कार्यार्थमर्थस्य च मूलमादौ ।निवेदयामास हरीश्वरस्य दूतः सकाशादहमागतो ऽस्मि ।। ५.४८.६२।।",
+      "transliteration": "yathākramaṁ taiḥ sa kapirvipṛṣṭaḥ kāryārthamarthasya ca mūlamādau ।nivedayāmāsa harīśvarasya dūtaḥ sakāśādahamāgato 'smi ।। 5.48.62।।",
+      "translations": {
+        "english": "",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,569 @@
+{
+  "kanda": 5,
+  "kanda_name": "Sundara Kanda",
+  "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+  "sarga": 62,
+  "verses_count": 40,
+  "verses": [
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 62,
+      "verse": 1,
+      "sloka": "तानुवाच हरिश्रेष्ठो हनुमान् वानरर्षभः ।अव्यग्रमनसो यूयं मधु सेवत वानराः ।अहमावारयिष्यामि युष्माकं परिपन्थिनः ।। ५.६२.१ ।।।।",
+      "transliteration": "tānuvāca hariśreṣṭho hanumān vānararṣabhaḥ ।avyagramanaso yūyaṁ madhu sevata vānarāḥ ।ahamāvārayiṣyāmi yuṣmākaṁ paripanthinaḥ ।। 5.62.1 ।।।।",
+      "translations": {
+        "english": "Hanuman, the foremost of the monkeys, bull among vanaras said, 'Enjoy the honey devoid of any fear. I shall prevent those who object to your action'.",
+        "hindi": "जब हनुमानजी ने इस प्रकार कहा तब दशरथनन्दन श्रीरामचन्द्रजी उस चूडामणि को छाती से लगा।लक्ष्मण सहित रोने लगे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 62,
+      "verse": 2,
+      "sloka": "श्रुत्वा हनुमतो वाक्यं हरीणां प्रवरो ऽङ्गदः ।प्रत्युवाच प्रसन्नात्मा पिबन्तु हरयो मधु ।। ५.६२.२ ।।।।",
+      "transliteration": "śrutvā hanumato vākyaṁ harīṇāṁ pravaro 'ṅgadaḥ ।pratyuvāca prasannātmā pibantu harayo madhu ।। 5.62.2 ।।।।",
+      "translations": {
+        "english": "Pleased with Hanuman's words, the distinguished Angada permitted the monkeys to drink.",
+        "hindi": "उस मणि को देख श्रीरामचन्द्रजी दुःखी हुए और दोनों नेत्रों में श्रांस भर सुग्रीव से बोले",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 62,
+      "verse": 3,
+      "sloka": "अवश्यं कृतकार्यस्य वाक्यं हनुमतो मया ।अकार्यमपि कर्तव्यं किमङ्ग पुनरीदृशम् ।। ५.६२.३ ।।।।",
+      "transliteration": "avaśyaṁ kṛtakāryasya vākyaṁ hanumato mayā ।akāryamapi kartavyaṁ kimaṅga punarīdṛśam ।। 5.62.3 ।।।।",
+      "translations": {
+        "english": "Even if Hanuman, the achiever, forbids me to do something, I will do it. And now when he has permitted you, why hesitate ?",
+        "hindi": "जैसे वत्सला गाय के स्तनों से बछड़े को देखने से श्रपने आप दूध टपकने लगता है वैसे ही इस मणिश्रेष्ठ को देखने से मेरा मन भी द्रवीमूत हो गया है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 62,
+      "verse": 4,
+      "sloka": "अङ्गदस्य मुखाच्छ्रुत्वा वचनं वानरर्षभाः ।साधु साध्विति संहृष्टा वानराः प्रत्यपूजयन् ।। ५.६२.४ ।।।।",
+      "transliteration": "aṅgadasya mukhācchrutvā vacanaṁ vānararṣabhāḥ ।sādhu sādhviti saṁhṛṣṭā vānarāḥ pratyapūjayan ।। 5.62.4 ।।।।",
+      "translations": {
+        "english": "Having heard the words that came from Angada's mouth, the bulls among vanaras praised him for his generous approval.",
+        "hindi": "मेरे ससुर विदेहराज ने विवाह के समय यह चूडामणि सीताजी को दी थी झौर मस्तक पर धारण करने से यह बड़ी शोभा भी देती थी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 62,
+      "verse": 5,
+      "sloka": "पूजयित्वा ऽङ्गदं सर्वे वानरा वानरर्षभम् ।जग्मुर्मधुवनं यत्र नदीवेगा इव द्रुतम् ।। ५.६२.५ ।।।।",
+      "transliteration": "pūjayitvā 'ṅgadaṁ sarve vānarā vānararṣabham ।jagmurmadhuvanaṁ yatra nadīvegā iva drutam ।। 5.62.5 ।।।।",
+      "translations": {
+        "english": "The vanaras praised Angada, the bull among vanaras and went to Madhuvanam swiftly like a fastflowing river going to uproot a tree.",
+        "hindi": "यह मणि जल से निकाली गई थी और यह देवपुजित है । बुद्धिमान इन्द्र ने यज्ञ में सन्तुष्ट हो यह जनकजी को दी थी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 62,
+      "verse": 6,
+      "sloka": "ते प्रविष्टा मधुवनं पालानाक्रम्य वीर्यतः ।। ५.६२.६ ।।।।",
+      "transliteration": "te praviṣṭā madhuvanaṁ pālānākramya vīryataḥ ।। 5.62.6 ।।।।",
+      "translations": {
+        "english": "Overjoyed at the news of Mythili, being seen, the vanaras entered Madhuvanam and attacked the guards violently, drank the honey and ate the tasty fruits.",
+        "hindi": "हे सौम्य ! इस मणि को देखने से मुझे प्रपने पिता और महाराज जनक क स्मरण हो आया है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 62,
+      "verse": 7,
+      "sloka": "अतिसर्गाच्च पटवो दृष्ट्वा श्रुत्वा च मैथिलीम् ।पपुः सर्वे मधु तदा रसवत् फलमाददुः ।। ५.६२.७ ।।।।",
+      "transliteration": "atisargācca paṭavo dṛṣṭvā śrutvā ca maithilīm ।papuḥ sarve madhu tadā rasavat phalamādaduḥ ।। 5.62.7 ।।।।",
+      "translations": {
+        "english": "Overjoyed at the news of Mythili, being seen, the vanaras entered Madhuvanam and attacked the guards violently, drank the honey and ate the tasty fruits.",
+        "hindi": "यह मणि मेरी प्यारी सीता के मस्तक पर शोभा पाती थी ! आज इस मणि को देखने से मुझे ऐसा जान पड़ रहा है, मानो मुझे सीता ही मिल गई हों",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 62,
+      "verse": 8,
+      "sloka": "उत्पत्य च ततः सर्वे वनपालान् समागतान् ।ताडयन्ति स्म शतशः सक्तान् मधुवने तदा ।। ५.६२.८ ।।।।",
+      "transliteration": "utpatya ca tataḥ sarve vanapālān samāgatān ।tāḍayanti sma śataśaḥ saktān madhuvane tadā ।। 5.62.8 ।।।।",
+      "translations": {
+        "english": "All the vanaras collected together, entered the Madhuvanam and attacked in many ways the guards protecting the garden.",
+        "hindi": "है सौम्य ! सीता ने क्या कहा ? उसकी कही बातें तुम मुझसे बार-बार कहो, उसने तो मानो मुझ प्यासे को अपने वचनछूपी जल से तृप्त किया है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 62,
+      "verse": 9,
+      "sloka": "मधूनि द्रोणमात्राणि बाहुभिः परिगृह्य ते ।पिबन्ति सहिताः सर्वे निघ्नन्ति स्म तथा ऽपरे ।। ५.६२.९ ।।।।",
+      "transliteration": "madhūni droṇamātrāṇi bāhubhiḥ parigṛhya te ।pibanti sahitāḥ sarve nighnanti sma tathā 'pare ।। 5.62.9 ।।।।",
+      "translations": {
+        "english": "All of them now gathered at one place and drank honey from large containers. Others were busy preventing the guards.",
+        "hindi": "हे लक्ष्मण ! इससे बढ़ कर मेरे लिए ग्रौर कौन-सी दुःख की बात होगी कि; बिना सौता के में इस जलोत्पन्न चूडामणि को देख रहा हूँ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 62,
+      "verse": 10,
+      "sloka": "केचित्पीत्वा ऽपविध्यन्ति मधूनि मधुपिङ्गलाः ।मधूच्छिष्टेन केचिच्च जघ्नुरन्योन्यमुत्कटाः ।। ५.६२.१० ।।।।",
+      "transliteration": "kecitpītvā 'pavidhyanti madhūni madhupiṅgalāḥ ।madhūcchiṣṭena kecicca jaghnuranyonyamutkaṭāḥ ।। 5.62.10 ।।।।",
+      "translations": {
+        "english": "The honeycoloured monkeys drank honey. Some threw large chunks of honey combs after drinking and some went about intoxicated.",
+        "hindi": "हे लक्ष्मण ! यदि जानकी एक मास जीवित रही तो वह भ्रवइय बहुत काल जीतो रहेंगी । में तो उस कृष्णनयनी के बिना क्षण भर भी जीवित नहीं रह सकता",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 62,
+      "verse": 11,
+      "sloka": "अपरे वृक्षमूले तु शाखां गृह्य व्यवस्थिताः ।अत्यर्थं च मदग्लानाः पर्णान्यास्तीर्य शेरते ।। ५.६२.११ ।।।।",
+      "transliteration": "apare vṛkṣamūle tu śākhāṁ gṛhya vyavasthitāḥ ।atyarthaṁ ca madaglānāḥ parṇānyāstīrya śerate ।। 5.62.11 ।।।।",
+      "translations": {
+        "english": "Some took branches of trees and rested at the root of trees. Some totally languid lay down spreading leaves due to drinking of sweet drinks.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 62,
+      "verse": 12,
+      "sloka": "उन्मत्तभूताः प्लवगा मधुमत्ताश्च हृष्टवत् ।क्षिपन्ति च तदा ऽन्योन्यं स्खलन्ति च तथा ऽपरे ।। ५.६२.१२ ।।।।",
+      "transliteration": "unmattabhūtāḥ plavagā madhumattāśca hṛṣṭavat ।kṣipanti ca tadā 'nyonyaṁ skhalanti ca tathā 'pare ।। 5.62.12 ।।।।",
+      "translations": {
+        "english": "Intoxicated with drink, some behaved like mad people, some pushed others senselessly and some were unsteady and shaky.",
+        "hindi": "हे हनुमन्‌ ! यह तो क्तलाग्रो कि, मेरी वह सुन्दरी पतिव्रता श्रौर श्रत्यन्त भीर (डरने वाली ) सीता, किस प्रकार उन अत्यन्त भयंकर राक्षसों के बीच रहती है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 62,
+      "verse": 13,
+      "sloka": "केचित् क्ष्वेलां प्रकुर्वन्ति केचित् कूजन्ति हृष्टवत् ।हरयो मधुना मत्ताः केचित् सुप्ता महीतले ।। ५.६२.१३ ।।।।",
+      "transliteration": "kecit kṣvelāṁ prakurvanti kecit kūjanti hṛṣṭavat ।harayo madhunā mattāḥ kecit suptā mahītale ।। 5.62.13 ।।।।",
+      "translations": {
+        "english": "Some roared, some warbled happily, some felt drowsy, drinking honey and some dropped off to sleep on the ground.",
+        "hindi": "प्रन्धकार से युक्त झरद ऋतु का चंद्रमा मेघ से ढक कर जैसे प्रकाशित नहीं होता, वसे हो राक्षसो द्वारा घिरी हुई होने के कारण सीताजी का मुख- मण्डल भी शोभायमान न होता होगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 62,
+      "verse": 14,
+      "sloka": "कृत्वा केचिद्धसन्त्यन्ये केचित् कुर्वन्ति चेतरत् ।कृत्वा केचिद्वदन्त्यन्ये केचिद्बुद्ध्यन्ति चेतरत् ।। ५.६२.१४ ।।।।",
+      "transliteration": "kṛtvā keciddhasantyanye kecit kurvanti cetarat ।kṛtvā kecidvadantyanye kecidbuddhyanti cetarat ।। 5.62.14 ।।।।",
+      "translations": {
+        "english": "Some made others laugh, some provoked others and some thought of doing something else having got over the intoxication.",
+        "hindi": "हे हनुमन्‌ ! अब तुम ठीक-ठीक मुझे बतलाग्रो कि जानकी ने तुमसे क्या कहा है ? जैसे रोगी बवा से जीता है, वेसे ही में, सीताजी के कथन को सुन निइचय-ही जीता रहूंगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 62,
+      "verse": 15,
+      "sloka": "ये ऽप्यत्र मधुपालाः स्युः प्रेष्या दधिमुखस्य तु ।ते ऽपि तैर्वानरैर्भीमैः प्रतिषिद्धा दिशो गताः ।। ५.६२.१५ ।।।।",
+      "transliteration": "ye 'pyatra madhupālāḥ syuḥ preṣyā dadhimukhasya tu ।te 'pi tairvānarairbhīmaiḥ pratiṣiddhā diśo gatāḥ ।। 5.62.15 ।।।।",
+      "translations": {
+        "english": "All the guards engaged in protecting the garden were driven away in all directions by the fierce vanaras.",
+        "hindi": "इति षट्षष्टितमः सगं: ।। हे हनुमन्‌ ! सौम्यमूति एवं मधुरभाषिणी जानकी ने वियोग में दुःखी हो मुझे क्या संदेस। भेजा है ? सो तुम कहो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 62,
+      "verse": 16,
+      "sloka": "जानुभिस्तु प्रकृष्टाश्च देवमार्गं प्रदर्शिताः ।अब्रुवन् परमोद्विग्ना गत्वा दधिमुखं वचः ।। ५.६२.१६ ।।।।",
+      "transliteration": "jānubhistu prakṛṣṭāśca devamārgaṁ pradarśitāḥ ।abruvan paramodvignā gatvā dadhimukhaṁ vacaḥ ।। 5.62.16 ।।।।",
+      "translations": {
+        "english": "Some were dragged on their knees and tossed up. Some monkeys exhibited their private parts, showing indecent behaviour. Dadhimukha, highly disturbed at this, said:",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 62,
+      "verse": 17,
+      "sloka": "हनूमता दत्तवरैर्हतं मधुवनं बलात् ।वयं च जानुभिः कृष्टा देवमार्गं च दर्शिताः ।। ५.६२.१७ ।।।।",
+      "transliteration": "hanūmatā dattavarairhataṁ madhuvanaṁ balāt ।vayaṁ ca jānubhiḥ kṛṣṭā devamārgaṁ ca darśitāḥ ।। 5.62.17 ।।।।",
+      "translations": {
+        "english": "Permitted by Hanuman (to enter Madhuvanam and drink), they dragged one another forcefully tossed up on their knees showing their private parts.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 62,
+      "verse": 18,
+      "sloka": "ततो दधिमुखः क्रुद्धो वनपस्तत्र वानरः ।हतं मधुवनं श्रुत्वा सान्त्वयामास तान् हरीन् ।। ५.६२.१८ ।।।।",
+      "transliteration": "tato dadhimukhaḥ kruddho vanapastatra vānaraḥ ।hataṁ madhuvanaṁ śrutvā sāntvayāmāsa tān harīn ।। 5.62.18 ।।।।",
+      "translations": {
+        "english": "Then Dadhimukha, the guardian of the garden became furious on the vanaras. Having heard from the guards that the garden was destroyed, he said soothing words to them.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 62,
+      "verse": 19,
+      "sloka": "इहागच्छत गच्छामो वानरान् बलदर्पितान् ।बलेन वारयिष्यामो मधु भक्षयतो वयम् ।। ५.६२.१९ ।।।।",
+      "transliteration": "ihāgacchata gacchāmo vānarān baladarpitān ।balena vārayiṣyāmo madhu bhakṣayato vayam ।। 5.62.19 ।।।।",
+      "translations": {
+        "english": "\"Come, we will all go there to Madhuvanam and prevent forcibly the vanaras who have consumed honey proud of their power.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 62,
+      "verse": 20,
+      "sloka": "श्रुत्वा दधिमुखस्येदं वचनं वानरर्षभाः ।पुनर्वीरा मधुवनं तेनैव सहसा ययुः ।। ५.६२.२० ।।।।",
+      "transliteration": "śrutvā dadhimukhasyedaṁ vacanaṁ vānararṣabhāḥ ।punarvīrā madhuvanaṁ tenaiva sahasā yayuḥ ।। 5.62.20 ।।।।",
+      "translations": {
+        "english": "\"The heroes, bulls among vanaras, heard Dadhimukha and quickly entered Madhuvanam along with him.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 62,
+      "verse": 21,
+      "sloka": "मध्ये चैषां दधिमुखः प्रगृह्य तरसा तरुम् ।समभ्यधावद्वेगेन ते च सर्वे प्लवङ्गमाः ।। ५.६२.२१ ।।।।",
+      "transliteration": "madhye caiṣāṁ dadhimukhaḥ pragṛhya tarasā tarum ।samabhyadhāvadvegena te ca sarve plavaṅgamāḥ ।। 5.62.21 ।।।।",
+      "translations": {
+        "english": "On the way, the energetic Dadhimukha took up a tree and ran to the leaping vanaras swiftly with guards following him.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 62,
+      "verse": 22,
+      "sloka": "ते शिलाः पादपांश्चापि पर्वतांश्चापि वानराः ।गृहीत्वा ऽभ्यगमन् क्रुद्धा यत्र ते कपिकुञ्जराः ।। ५.६२.२२ ।।।।",
+      "transliteration": "te śilāḥ pādapāṁścāpi parvatāṁścāpi vānarāḥ ।gṛhītvā 'bhyagaman kruddhā yatra te kapikuñjarāḥ ।। 5.62.22 ।।।।",
+      "translations": {
+        "english": "The furious vanara guards lifted rocks, trees and even mountains and went behind Dadhimukha the elephant among the vanaras.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 62,
+      "verse": 23,
+      "sloka": "ते स्वामिवचनं वीरा हृदयेष्ववसज्य तत् ।त्वरया ह्यभ्यधावन्त सालतालशिलायुधाः ।। ५.६२.२३ ।।।।",
+      "transliteration": "te svāmivacanaṁ vīrā hṛdayeṣvavasajya tat ।tvarayā hyabhyadhāvanta sālatālaśilāyudhāḥ ।। 5.62.23 ।।।।",
+      "translations": {
+        "english": "The heroic vanaras held Sala and Tala trees and rushed at once keeping their leader's words in mind.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 62,
+      "verse": 24,
+      "sloka": "वृक्षस्थांश्च तलस्थांश्च वानरान् बलदर्पितान् ।अभ्यक्रामंस्ततो वीराः पालास्तत्र सहस्रशः ।। ५.६२.२४ ।।।।",
+      "transliteration": "vṛkṣasthāṁśca talasthāṁśca vānarān baladarpitān ।abhyakrāmaṁstato vīrāḥ pālāstatra sahasraśaḥ ।। 5.62.24 ।।।।",
+      "translations": {
+        "english": "Then the heroic guards in their thousands fell on the vanaras proud of their power on and under the tala trees.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 62,
+      "verse": 25,
+      "sloka": "अथ दृष्ट्वा दधिमुखं क्रुद्धं वानरपुङ्गवाः ।अभ्यधावन्त वेगेन हनुमत्प्रमुखास्तदा ।। ५.६२.२५ ।।।।",
+      "transliteration": "atha dṛṣṭvā dadhimukhaṁ kruddhaṁ vānarapuṅgavāḥ ।abhyadhāvanta vegena hanumatpramukhāstadā ।। 5.62.25 ।।।।",
+      "translations": {
+        "english": "Having seen the fury of Dadhimukha, Hanuman the leader of the vanaras went to him swiftly.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 62,
+      "verse": 26,
+      "sloka": "तं सवृक्षं महाबाहुमापतन्तं महाबलम् ।आर्यकं प्राहरत्तत्र बाहुभ्यां कुपितो ऽङ्गदः ।। ५.६२.२६ ।।।।",
+      "transliteration": "taṁ savṛkṣaṁ mahābāhumāpatantaṁ mahābalam ।āryakaṁ prāharattatra bāhubhyāṁ kupito 'ṅgadaḥ ।। 5.62.26 ।।।।",
+      "translations": {
+        "english": "Seeing the revered, powerful and strongarmed Dadhimukha rushing to him, the angry Angada caught him with both hands tightly.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 62,
+      "verse": 27,
+      "sloka": "मदान्धश्च न वेदैनमार्यको ऽयं ममेति सः ।अथैनं निष्पिपेषाशु वेगवद्वसुधातले ।। ५.६२.२७ ।।।।",
+      "transliteration": "madāndhaśca na vedainamāryako 'yaṁ mameti saḥ ।athainaṁ niṣpipeṣāśu vegavadvasudhātale ।। 5.62.27 ।।।।",
+      "translations": {
+        "english": "\"Blinded by arrogance, the prince pushed him (Dadhimukha) on the floor forcibly, forgetting that he was his revered granduncle.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 62,
+      "verse": 28,
+      "sloka": "स भग्नबाहूरुभुजो विह्वलः शोणितोक्षितः ।मुमोह सहसा वीरो मुहूर्तं कपिकुञ्जरः ।। ५.६२.२८ ।।।।",
+      "transliteration": "sa bhagnabāhūrubhujo vihvalaḥ śoṇitokṣitaḥ ।mumoha sahasā vīro muhūrtaṁ kapikuñjaraḥ ।। 5.62.28 ।।।।",
+      "translations": {
+        "english": "The heroic Dadhimukha, an elephant among monkeys, with his shoulders and arms broken, and body drenched in blood lost his consciousness instantly.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 62,
+      "verse": 29,
+      "sloka": "स समाश्वस्य सहसा संक्रुद्धो राजमातुलः ।वानरान् वारयामास दण्डेन मधुमोहितान् ।। ५.६२.२९ ।।।।",
+      "transliteration": "sa samāśvasya sahasā saṁkruddho rājamātulaḥ ।vānarān vārayāmāsa daṇḍena madhumohitān ।। 5.62.29 ।।।।",
+      "translations": {
+        "english": "At once Dadhimukha, the maternal uncle of the king became conscious and chased with a stick the intoxicated vanaras.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 62,
+      "verse": 30,
+      "sloka": "स कथंचिद्विमुक्तस्तैर्वानरैर्वानरर्षभः ।उवाचैकान्तमाश्रित्य भृत्यान् स्वान् समुपागतान् ।। ५.६२.३० ।।।।",
+      "transliteration": "sa kathaṁcidvimuktastairvānarairvānararṣabhaḥ ।uvācaikāntamāśritya bhṛtyān svān samupāgatān ।। 5.62.30 ।।।।",
+      "translations": {
+        "english": "Escaping from the vanaras with great difficulty, Dadhimukha, a bull among monkeys, repaired to a secluded place and said to his servants:",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 62,
+      "verse": 31,
+      "sloka": "एते तिष्ठन्तु गच्छामो भर्ता नो यत्र वानरः ।सुग्रीवो विपुलग्रीवः सह रामेण तिष्ठति ।। ५.६२.३१ ।।।।",
+      "transliteration": "ete tiṣṭhantu gacchāmo bhartā no yatra vānaraḥ ।sugrīvo vipulagrīvaḥ saha rāmeṇa tiṣṭhati ।। 5.62.31 ।।।।",
+      "translations": {
+        "english": "\"Let them stay here. Our broadnecked king Sugriva will be there with Rama. Let us go to him.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 62,
+      "verse": 32,
+      "sloka": "सर्वं चैवाङ्गदे दोषं श्रावयिष्यामि पार्थिवे ।अमर्षी वचनं श्रुत्वा घातयिष्यति वानरान् ।। ५.६२.३२ ।।।।",
+      "transliteration": "sarvaṁ caivāṅgade doṣaṁ śrāvayiṣyāmi pārthive ।amarṣī vacanaṁ śrutvā ghātayiṣyati vānarān ।। 5.62.32 ।।।।",
+      "translations": {
+        "english": "I will make all of Angada's faults known to the king; hearing it, the furious one will have the monkeys put to death.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 62,
+      "verse": 33,
+      "sloka": "इष्टं मधुवनं ह्येतत् सुग्रीवस्य महात्मनः ।पितृपैतामहं दिव्यं देवैरपि दुरासदम् ।। ५.६२.३३ ।।।।",
+      "transliteration": "iṣṭaṁ madhuvanaṁ hyetat sugrīvasya mahātmanaḥ ।pitṛpaitāmahaṁ divyaṁ devairapi durāsadam ।। 5.62.33 ।।।।",
+      "translations": {
+        "english": "'Madhuvan has come down to us from our forefather's time. Dear to the king, its entry is prohibited even to the gods.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 62,
+      "verse": 34,
+      "sloka": "स वानरानिमान् सर्वान् मधुलुब्धान् गतायुषः ।घातयिष्यति दण्डेन सुग्रीवः ससुहृज्जनान् ।। ५.६२.३४ ।।।।",
+      "transliteration": "sa vānarānimān sarvān madhulubdhān gatāyuṣaḥ ।ghātayiṣyati daṇḍena sugrīvaḥ sasuhṛjjanān ।। 5.62.34 ।।।।",
+      "translations": {
+        "english": "'Sugriva will chase all the vanaras and their friends greedy for honey. They will be punished with a stick. They are doomed'.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 62,
+      "verse": 35,
+      "sloka": "वध्या ह्येते दुरात्मानो नृपाज्ञापरिभाविनः ।अमर्षप्रभवो रोषः सफलो नो भविष्यति ।। ५.६२.३५ ।।।।",
+      "transliteration": "vadhyā hyete durātmāno nṛpājñāparibhāvinaḥ ।amarṣaprabhavo roṣaḥ saphalo no bhaviṣyati ।। 5.62.35 ।।।।",
+      "translations": {
+        "english": "'Indeed those evilminded ones who have disobeyed the king's order deserve to be killed.That way our fury and forbearance will result in success'.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 62,
+      "verse": 36,
+      "sloka": "एवमुक्त्वा दधिमुखो वनपालान् महाबलः ।जगाम सहसोत्पत्य वनपालैः समन्वितः ।। ५.६२.३६ ।।।।",
+      "transliteration": "evamuktvā dadhimukho vanapālān mahābalaḥ ।jagāma sahasotpatya vanapālaiḥ samanvitaḥ ।। 5.62.36 ।।।।",
+      "translations": {
+        "english": "Powerful Dadhimukha having said that to the guardians of the garden rose up to the sky and went off with them.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 62,
+      "verse": 37,
+      "sloka": "निमेषान्तरमात्रेण स हि प्राप्तो वनालयः ।सहस्रांशुसुतो धीमान् सुग्रीवो यत्र वानरः ।। ५.६२.३७ ।।।।",
+      "transliteration": "nimeṣāntaramātreṇa sa hi prāpto vanālayaḥ ।sahasrāṁśusuto dhīmān sugrīvo yatra vānaraḥ ।। 5.62.37 ।।।।",
+      "translations": {
+        "english": "In a moment, Dadhimukha reached the place where wise Sugriva, the son of Sungod was there",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 62,
+      "verse": 38,
+      "sloka": "रामं च लक्ष्मणं चैव दृष्ट्वा सुग्रीवमेव च ।समप्रतिष्ठां जगतीमाकाशान्निपपात ह ।। ५.६२.३८ ।।।।",
+      "transliteration": "rāmaṁ ca lakṣmaṇaṁ caiva dṛṣṭvā sugrīvameva ca ।samapratiṣṭhāṁ jagatīmākāśānnipapāta ha ।। 5.62.38 ।।।।",
+      "translations": {
+        "english": "Seeing Rama, Lakshmana and also Sugriva from the sky he landed on an even ground.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 62,
+      "verse": 39,
+      "sloka": "सन्निपत्य महावीर्यः सर्वैस्तैः परिवारितः ।हरिर्दधिमुखः पालैः पालानां परमेश्वरः ।। ५.६२.३९ ।।।।",
+      "transliteration": "sannipatya mahāvīryaḥ sarvaistaiḥ parivāritaḥ ।harirdadhimukhaḥ pālaiḥ pālānāṁ parameśvaraḥ ।। 5.62.39 ।।।।",
+      "translations": {
+        "english": "Dadhimukha, a great hero and king of the guards protecting Madhuvanam surrounded by his servants, with a sad expression on his face offered painful obeisance with folded hands bowing down his forehead at the feet of Sugriva. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये सुन्दरकाण्डे द्विषष्टितमस्सर्गः।। Thus ends the sixtysecond sarga of Sundarakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 62,
+      "verse": 40,
+      "sloka": "स दीनवदनो भूत्वा कृत्वा शिरसि चाञ्जलिम् ।सुग्रीवस्य शुभौ मूर्ध्ना चरणौ प्रत्यपीडयत् ।। ५.६२.४० ।।",
+      "transliteration": "sa dīnavadano bhūtvā kṛtvā śirasi cāñjalim ।sugrīvasya śubhau mūrdhnā caraṇau pratyapīḍayat ।। 5.62.40 ।।",
+      "translations": {
+        "english": "",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

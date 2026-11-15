@@ -1,0 +1,709 @@
+{
+  "kanda": 6,
+  "kanda_name": "Yuddha Kanda",
+  "kanda_name_sanskrit": "युद्धकाण्डम्",
+  "sarga": 46,
+  "verses_count": 50,
+  "verses": [
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 46,
+      "verse": 1,
+      "sloka": "ततो द्यां पृथिवीं चैव वीक्षमाणा वनौकसः ।ददृशुः सन्ततौ बाणैर्भ्रातरौ रामलक्ष्मणौ ।। ६.४६.१ ।।।।",
+      "transliteration": "tato dyāṁ pṛthivīṁ caiva vīkṣamāṇā vanaukasaḥ ।dadṛśuḥ santatau bāṇairbhrātarau rāmalakṣmaṇau ।। 6.46.1 ।।।।",
+      "translations": {
+        "english": "Thereafter looking at the sky and the ground for Rama and Lakshmana, the Vanara leaders saw the two brothers, lying on the ground hurt by arrows.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 46,
+      "verse": 2,
+      "sloka": "वृष्ट्वेवोपरते देवे कृतकर्मणि राक्षसे ।आजगामाथ तं देशं ससुग्रीवो विभीषणः ।। ६.४६.२ ।।।।",
+      "transliteration": "vṛṣṭvevoparate deve kṛtakarmaṇi rākṣase ।ājagāmātha taṁ deśaṁ sasugrīvo vibhīṣaṇaḥ ।। 6.46.2 ।।।।",
+      "translations": {
+        "english": "Indrajith retired after completing the task, like a cloud that retires after raining. Then came Vibheeshana and Sugriva to that location.",
+        "hindi": "विनतं जाम्बवन्तं च सानुप्रस्थं महाबलम्‌ । ७ (९) ८5 ऋषभ चषभर्कन्धमाददश परन्तपः ) ३ ।। उन दस'वानय्यूथपतियों में दोनों सुषेण के पुत्र थे, कपिश्रेष्ठ नील, बालिपुत्र अङ्गद, बलवान शरभ, विनत, जाम्बवान्‌ महाबली सामुप्रस्थ, ऋषभ और ऋषभस्कन्ध थे । इनको परन्तप श्रीरामचन्द्र जी ने आज्ञा दी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 46,
+      "verse": 3,
+      "sloka": "नीलद्विविदमैन्दाश्च सुषेणकुमुदाङ्गदाः ।तूर्णं हनुमता सार्धमन्वशोचन्त राघवौ ।। ६.४६.३ ।।।।",
+      "transliteration": "nīladvividamaindāśca suṣeṇakumudāṅgadāḥ ।tūrṇaṁ hanumatā sārdhamanvaśocanta rāghavau ।। 6.46.3 ।।।।",
+      "translations": {
+        "english": "Neela, Dwivida, Mainda, Sushena, Kumuda, Angada accompanied by Hanuman grieved intensely on looking at the Raghavas.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 46,
+      "verse": 4,
+      "sloka": "अचेष्टौ मन्दनिश्वासौ शोणितौघपरिप्लुतौ ।शरजालाचितौ स्तब्धौ शयानौ शरतल्पयोः ।। ६.४६.४ ।।।।",
+      "transliteration": "aceṣṭau mandaniśvāsau śoṇitaughapariplutau ।śarajālācitau stabdhau śayānau śaratalpayoḥ ।। 6.46.4 ।।।।",
+      "translations": {
+        "english": "Unable to move, with feeble breath, drenched in blood and the body covered all over with arrows, lying on a bed of arrows, stunned, with reduced prowess, sighing like serpents, the heroes, Rama, and Lakshmana, who were like golden posts became dull. Rama and Lakshmana were lying on a heroic bed, arrows stuck to the bodies. Vibheeshana and all the Vanaras kept seeing both the scions and wept surrounding them.",
+        "hindi": "ये सब के सब प्रसन्न हो बड़े बड़े भयङ्कर आकार वाले वृक्षों को हाथों में ले, आकाशमण्डल में पहुँचे ओर चारों ओर घूम फिर कर, इन्द्रजीत को ढूढा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 46,
+      "verse": 5,
+      "sloka": "निश्वसन्तौ यथा सर्पौ निश्चेष्टौ मन्दविक्रमौ ।रुधिरस्रावदिग्धाङ्गौ तापनीयाविव ध्वजौ ।। ६.४६.५ ।।।।",
+      "transliteration": "niśvasantau yathā sarpau niśceṣṭau mandavikramau ।rudhirasrāvadigdhāṅgau tāpanīyāviva dhvajau ।। 6.46.5 ।।।।",
+      "translations": {
+        "english": "Unable to move, with feeble breath, drenched in blood and the body covered all over with arrows, lying on a bed of arrows, stunned, with reduced prowess, sighing like serpents, the heroes, Rama, and Lakshmana, who were like golden posts became dull. Rama and Lakshmana were lying on a heroic bed, arrows stuck to the bodies. Vibheeshana and all the Vanaras kept seeing both the scions and wept surrounding them.",
+        "hindi": "अखविद्यावेत्ता, रावणपुत्र मेघनाद ने इन वेगव।न्‌ वानर! के वेग को परमाखों से रोका । वे भयङ्कर वेगवाले व।नर बाणा की चोट खा कर, ज्ञतविज्ञत हो गये और अन्धकार में मेघनाद को : वैसे ही न देख सके, जैसे मेघों से आच्छादित सूर्य को कोई नहीं “देख सकता",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 46,
+      "verse": 6,
+      "sloka": "तौ वीरशयने वीरौ शयनौ मन्दचेष्टितौ ।यूथपैस्तैः परिवृतौ बाष्पव्याकुललोचनैः ।। ६.४६.६ ।।।।",
+      "transliteration": "tau vīraśayane vīrau śayanau mandaceṣṭitau ।yūthapaistaiḥ parivṛtau bāṣpavyākulalocanaiḥ ।। 6.46.6 ।।।।",
+      "translations": {
+        "english": "Unable to move, with feeble breath, drenched in blood and the body covered all over with arrows, lying on a bed of arrows, stunned, with reduced prowess, sighing like serpents, the heroes, Rama, and Lakshmana, who were like golden posts became dull. Rama and Lakshmana were lying on a heroic bed, arrows stuck to the bodies. Vibheeshana and all the Vanaras kept seeing both the scions and wept surrounding them.",
+        "hindi": "तयोः क्षतजमार्गेण सुस्राव रुधिरं बहु । तावुभौ च प्रकाशेते पुष्पिताविध किंशुकौ ॥ & ॥ दोनों वीर भाइयों के शारीरों क घावों से बहुत सा खून बह रहा था और वे दोनों फूले हुए टेसू के पेड़ की तरह देख पड़ते थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 46,
+      "verse": 7,
+      "sloka": "राघवौ पतितौ दृष्ट्वा शरजालसमावृतौ ।बभूवुर्व्यथिताः सर्वे वानराः सविभीषणाः ।। ६.४६.७ ।।।।",
+      "transliteration": "rāghavau patitau dṛṣṭvā śarajālasamāvṛtau ।babhūvurvyathitāḥ sarve vānarāḥ savibhīṣaṇāḥ ।। 6.46.7 ।।।।",
+      "translations": {
+        "english": "Unable to move, with feeble breath, drenched in blood and the body covered all over with arrows, lying on a bed of arrows, stunned, with reduced prowess, sighing like serpents, the heroes, Rama, and Lakshmana, who were like golden posts became dull. Rama and Lakshmana were lying on a heroic bed, arrows stuck to the bodies. Vibheeshana and all the Vanaras kept seeing both the scions and wept surrounding them.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 46,
+      "verse": 8,
+      "sloka": "अन्तरिक्षं निरीक्षन्तो दिशः सर्वाश्च वानराः ।न चैनं मायया च्छन्नं ददृशू रावणिं रणे ।। ६.४६.८ ।।।।",
+      "transliteration": "antarikṣaṁ nirīkṣanto diśaḥ sarvāśca vānarāḥ ।na cainaṁ māyayā cchannaṁ dadṛśū rāvaṇiṁ raṇe ।। 6.46.8 ।।।।",
+      "translations": {
+        "english": "Though the Vanaras searched all over the battlefield and in all directions of the sky, they could not see Indrajith of mystical powers.",
+        "hindi": "यी मेघनाद ने शरीर को भेदन करने बाले बाणी रविज र स चन्द्र और लक्ष्मण के शरीरीं फ्री चलनी से छेद छंद कर, श्रीराम ३६८ युद्धकाण्डे क्रुद्ध हो बोर इन्द्रजीत ने दोनों भाई श्रीराम और लक्ष्मण के शरीरों में इतने बाण मारे कि,शरीर में तिल रखने को भी जगह न रह गई । उसके वे बाण नाग हो जाते थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 46,
+      "verse": 9,
+      "sloka": "त तु मायाप्रतिच्छन्नं माययैव विभीषणः ।वीक्षमाणो ददर्शाथ भ्रातुः पुत्रमवस्थितम् ।। ६.४६.९ ।।।।",
+      "transliteration": "ta tu māyāpraticchannaṁ māyayaiva vibhīṣaṇaḥ ।vīkṣamāṇo dadarśātha bhrātuḥ putramavasthitam ।। 6.46.9 ।।।।",
+      "translations": {
+        "english": "Vibheeshana started looking with occult powers for his brother's son endowed with occult power following occult means and found Indrajith.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 46,
+      "verse": 10,
+      "sloka": "तमप्रतिमकर्माणमप्रतिद्वन्द्वमाहवे ।ददर्शान्तर्हितं वीरं वरदानाद्विभीषणः ।। ६.४६.१० ।।।।",
+      "transliteration": "tamapratimakarmāṇamapratidvandvamāhave ।dadarśāntarhitaṁ vīraṁ varadānādvibhīṣaṇaḥ ।। 6.46.10 ।।।।",
+      "translations": {
+        "english": "Brilliant and glorious Vibheeshana, capable of difficult deeds, incomparable at work, and in fight, unrivalled in battle, saw the hidden hero Indrajith by virtue of a boon (from Brahma).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 46,
+      "verse": 11,
+      "sloka": "तेजसा यशसा चैव विक्रमेण च संयुतम् ।। ६.४६.११ ।।।।",
+      "transliteration": "tejasā yaśasā caiva vikrameṇa ca saṁyutam ।। 6.46.11 ।।।।",
+      "translations": {
+        "english": "Reviewing the scions lying on bed by his action, Indrajith caused extreme joy to all Rakshasas and spoke.",
+        "hindi": "अलक्षित युद्ध करते हुए मुझको जब दनरल इन्द्र ही नहीं देख सके और न मुझे मार दी सके, तब तम दोनो पा he छ लक, तः को ऽ गिनती हे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 46,
+      "verse": 12,
+      "sloka": "इन्द्रजित्त्वात्मनः कर्म तौ शयानौ समीक्ष्य च ।उवाच परमप्रीतो हर्षयन् सर्वनैर्ऋतान् ।। ६.४६.१२ ।।।।",
+      "transliteration": "indrajittvātmanaḥ karma tau śayānau samīkṣya ca ।uvāca paramaprīto harṣayan sarvanairṛtān ।। 6.46.12 ।।।।",
+      "translations": {
+        "english": "\"The two brothers, Rama and Lakshmana, who slayed Dushana and Khara have been struck.\"",
+        "hindi": "के बाणुजाल में i के ठुभ दोनों रघुनन्दर्नो को मैं क्रद्ध हो, इन कडुपत्रयुक्त वारणो से अभी ( मार डाल कर ुर देता हूँ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 46,
+      "verse": 13,
+      "sloka": "दूषणस्य च हन्तारौ खरस्य च महाबलौ ।सादितौ मामकैर्बाणैर्भ्रातरौ रामलक्ष्णौ ।। ६.४६.१३ ।।।।",
+      "transliteration": "dūṣaṇasya ca hantārau kharasya ca mahābalau ।sāditau māmakairbāṇairbhrātarau rāmalakṣṇau ।। 6.46.13 ।।।।",
+      "translations": {
+        "english": "\"Even if all the sages, Devatas and Rakshasas collected together come, they cannot get liberated from this bondage of arrows.\"",
+        "hindi": "इस प्रकार कह, वह दोनों धमज्ञ भाई श्रीरामचन्द्र ओर लक्ष्मण को पेने पेने बाणों से क्षतविक्षत कर ओर अत्यन्त प्रसन्न हो नाद करने।लगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 46,
+      "verse": 14,
+      "sloka": "नेमौ मोक्षयितुं शक्यावेतस्मादिषुबन्धनात् ।सर्वैरपि समागम्य सर्षिसङ्घैः सुरासुरैः ।। ६.४६.१४ ।।।।",
+      "transliteration": "nemau mokṣayituṁ śakyāvetasmādiṣubandhanāt ।sarvairapi samāgamya sarṣisaṅghaiḥ surāsuraiḥ ।। 6.46.14 ।।।।",
+      "translations": {
+        "english": "\"On whose account my father was in grief and spent all night and passed the three parts of the night (without sleep) and why he was unable to sleep was not understood clearly. By his (Rama's) action this Lanka is agitated like a river during the rainy season. He, who is the root cause of this calamity, has been got rid of by me,\" thought Indrajith.",
+        "hindi": "काजल के समान काला मेघनाद अपने विशाल धनुष को टंकारता हुआ, उस मद्दारणमें बार बार भयङ्कर वाणों को छोड़ने लगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 46,
+      "verse": 15,
+      "sloka": "यत्कृते चिन्तयानस्य शोकार्तस्य पितुर्मम ।अस्पृष्ट्वा शयनं गात्रैस्त्रियामा याति शर्वरी ।। ६.४६.१५ ।।।।",
+      "transliteration": "yatkṛte cintayānasya śokārtasya piturmama ।aspṛṣṭvā śayanaṁ gātraistriyāmā yāti śarvarī ।। 6.46.15 ।।।।",
+      "translations": {
+        "english": "\"On whose account my father was in grief and spent all night and passed the three parts of the night (without sleep) and why he was unable to sleep was not understood clearly. By his (Rama's) action this Lanka is agitated like a river during the rainy season. He, who is the root cause of this calamity, has been got rid of by me,\" thought Indrajith.",
+        "hindi": "मर्भस्थलों को जानने वाला मेघनाद, श्रीरामचन्द्र जी और लक्ष्मण जी के सत्र सुकुमार अंगों में पेने पैने बाण मार कर बारबार गजने लगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 46,
+      "verse": 16,
+      "sloka": "कृत्स्नेयं यत्कृते लङ्का नदी वर्षास्विवाकुला ।सो ऽयं मूलहरो ऽनर्थः सर्वेषां निहतो मया ।। ६.४६.१६ ।।।।",
+      "transliteration": "kṛtsneyaṁ yatkṛte laṅkā nadī varṣāsvivākulā ।so 'yaṁ mūlaharo 'narthaḥ sarveṣāṁ nihato mayā ।। 6.46.16 ।।।।",
+      "translations": {
+        "english": "\"Rama, and Lakshmana and even all valiant Vanaras have been got rid of just like clouds of autumn are wasted.\"",
+        "hindi": "इस लड़ाई में बाणजाल में बँधे हुए, वे दोनों एक पल के लिए भी मेघनाद को न देख सके",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 46,
+      "verse": 17,
+      "sloka": "रामस्य लक्ष्मणस्यापि सर्वेषां च वनौकसाम् ।विक्रमा निष्फलाः सर्वे यथा शरदि तोयदाः ।। ६.४६.१७ ।।।।",
+      "transliteration": "rāmasya lakṣmaṇasyāpi sarveṣāṁ ca vanaukasām ।vikramā niṣphalāḥ sarve yathā śaradi toyadāḥ ।। 6.46.17 ।।।।",
+      "translations": {
+        "english": "Indrajith, having spoken in that way to all Rakshasas, began to strike all the Vanara leaders looking at him.",
+        "hindi": "तब सर्वाङ्ग छिन्नभिन्न, बाणजाल में बँघे हुए.दोनों भाई रस्सी से रहित अर्थात्‌ खुली हुई इन्द्र की ध्वजा की तरह कॉपने लगे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 46,
+      "verse": 18,
+      "sloka": "एवमुक्त्वा तु तान् सर्वान् राक्षसान् परिपार्श्वतः ।यूथपानपि तान् सर्वांस्ताडयामास रावणिः ।। ६.४६.१८ ।।।।",
+      "transliteration": "evamuktvā tu tān sarvān rākṣasān paripārśvataḥ ।yūthapānapi tān sarvāṁstāḍayāmāsa rāvaṇiḥ ।। 6.46.18 ।।।।",
+      "translations": {
+        "english": "The slayer of enemies, Indrajith attacked Neela with nine shafts, so also Mainda and Dwivida with three separate sharpedged shafts.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 46,
+      "verse": 19,
+      "sloka": "नीलं नवभिराहत्य मैन्दं च द्विविदं तथा ।त्रिभिस्त्रिभिरमित्रघ्नस्तताप प्रवरेषुभिः ।। ६.४६.१९ ।।।।",
+      "transliteration": "nīlaṁ navabhirāhatya maindaṁ ca dvividaṁ tathā ।tribhistribhiramitraghnastatāpa pravareṣubhiḥ ।। 6.46.19 ।।।।",
+      "translations": {
+        "english": "Indrajith endowed with great bow pierced Jambavan in his chest, and released ten arrows at Hanuman, endowed with speed in war.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 46,
+      "verse": 20,
+      "sloka": "जाम्बवन्तं महेष्वासो विद्ध्वा बाणेन वक्षसि ।हनूमतो वेगवतो विससर्ज शरान् दश ।। ६.४६.२० ।।।।",
+      "transliteration": "jāmbavantaṁ maheṣvāso viddhvā bāṇena vakṣasi ।hanūmato vegavato visasarja śarān daśa ।। 6.46.20 ।।।।",
+      "translations": {
+        "english": "Indrajith endowed with speed in war, attacked highly energetic Gavaksha and Sarabha with two arrows each.",
+        "hindi": "उन दोनों के शरीरों में एक अंगुल भी ऐसी जगह न थी जहाँ बाण न गडे हों। हाथों को अंगुलियों तक सें बाण बिघे हुए थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 46,
+      "verse": 21,
+      "sloka": "गवाक्षं शरभं चैव द्वावप्यमिततेजसौ ।द्वाभ्यां द्वाभ्यां महावेगो विव्याध युधि रावणिः ।। ६.४६.२१ ।।।।",
+      "transliteration": "gavākṣaṁ śarabhaṁ caiva dvāvapyamitatejasau ।dvābhyāṁ dvābhyāṁ mahāvego vivyādha yudhi rāvaṇiḥ ।। 6.46.21 ।।।।",
+      "translations": {
+        "english": "Thereafter Indrajith attacked the ruler of Golangulas, and Vali's son Angada with many arrows.",
+        "hindi": "क्रूर स्वेच्छाचारी सेघनाद्‌ ने उन दोनों को ऐसा मारा कि, दोनों भाइयों के अंगों से, झरने से जल भरने की तरह, रुधिर भर रहा था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 46,
+      "verse": 22,
+      "sloka": "गोलाङ्गूलेश्वरं चैव वालिपुत्रमथाङ्गदम् ।विव्याध बहुभिर्बाणैस्त्वरमाणो ऽथ रावणिः ।। ६.४६.२२ ।।।।",
+      "transliteration": "golāṅgūleśvaraṁ caiva vāliputramathāṅgadam ।vivyādha bahubhirbāṇaistvaramāṇo 'tha rāvaṇiḥ ।। 6.46.22 ।।।।",
+      "translations": {
+        "english": "Mighty son of Ravana, then attacked the best of monkeys with arrows which were like flames of fire.",
+        "hindi": "जिस मेघनाद ने पूवकाल में इन्द्र को जीता था; उसके क्रोध में भर चलाए हुए बाणों से ममेविद्ध हो, श्रीरामचन्द्र जी पहिले भूमि पर गिर पड़े",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 46,
+      "verse": 23,
+      "sloka": "तान् वानरवरान् भित्त्वा शरैरग्निशिखोपमैः ।ननाद बलवांस्तत्र महासत्त्वः स रावणिः ।। ६.४६.२३ ।।।।",
+      "transliteration": "tān vānaravarān bhittvā śarairagniśikhopamaiḥ ।nanāda balavāṁstatra mahāsattvaḥ sa rāvaṇiḥ ।। 6.46.23 ।।।।",
+      "translations": {
+        "english": "Indrajith hurt the Vanaras with hails of arrows terrifying them. Then the mighty armed son of Ravana laughed and spoke these words.",
+        "hindi": "सुवण पुख बाले, पैनी नोंक के, ऊपर से कि की ओर बंडी तेजी से आने वाले, सीधी नोंको का हुई नोंको वाले, भाले जैसे, अड गुलि के आकार की नोंकों वाले, बछड़े के दाँत जैसी नॉक वाले, सिंह की ढाढ़ों जेसी नोक वाले और छुरा जैसी नॉक वाले बाणो से क्षतबिद्षत हो, श्रीरामचंद्र जी अपना प्रत्यञ्चारहित धनुष पटक, वी रशय्या पर सो गए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 46,
+      "verse": 24,
+      "sloka": "तानर्दयित्वा बाणौघैस्त्रासयित्वा च वानरान् ।प्रजहास महाबाहुर्वचनं चेदमब्रवीत् ।। ६.४६.२४ ।।।।",
+      "transliteration": "tānardayitvā bāṇaughaistrāsayitvā ca vānarān ।prajahāsa mahābāhurvacanaṁ cedamabravīt ।। 6.46.24 ।।।।",
+      "translations": {
+        "english": "\"O Rakshasas! Look at these two brothers together bound by my fierce arrows in front of you.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 46,
+      "verse": 25,
+      "sloka": "शरबन्धेन घोरेण मया बद्धौ चमूमुखे ।सहितौ भ्रातरावेतौ निशामयत राक्षसाः ।। ६.४६.२५ ।।।।",
+      "transliteration": "śarabandhena ghoreṇa mayā baddhau camūmukhe ।sahitau bhrātarāvetau niśāmayata rākṣasāḥ ।। 6.46.25 ।।।।",
+      "translations": {
+        "english": "Indrajith having spoken in that way to the Rakshasas, all of them were highly amazed by the action of Indrajith and went laughing.",
+        "hindi": "तीन स्थानों से झुके हुए और रत्नभूषित धनुष की सुठिया उनके हाथ से छट गई । तदनन्तर पुरुपश्रेष्ठ श्रीराम चंद्र को बाण शय्या पर पड़ा हुआ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 46,
+      "verse": 26,
+      "sloka": "एवमुक्तास्तु ते सर्वे राक्षसाः कूटयोधिनः ।परं विस्मयमाजग्मुः कर्मणा तेन हर्षिताः ।। ६.४६.२६ ।।।।",
+      "transliteration": "evamuktāstu te sarve rākṣasāḥ kūṭayodhinaḥ ।paraṁ vismayamājagmuḥ karmaṇā tena harṣitāḥ ।। 6.46.26 ।।।।",
+      "translations": {
+        "english": "The Rakshasas thundering like rain clouds, roaring aloud thinking 'Rama is killed' by Ravana's son offered prayers.",
+        "hindi": "देख, लक्ष्मण जी उनके जीबन से निराश हो गए । कमलनेत्र, 'शारबंधन में फंसे ओर घायल भाई श्रीरामचन्द्र को जमीन पर गिरा हुआ देख, लक्ष्मण जी शोकान्वित हो गए। वानर भो श्रीरामचन्द्र जी की यह दशा देख परम संतप्त हुए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 46,
+      "verse": 27,
+      "sloka": "विनेदुश्च महानादान् सर्वतो जलदोपमाः ।हतो राम इति ज्ञात्वा रावणिं समपूजयन् ।। ६.४६.२७ ।।।।",
+      "transliteration": "vineduśca mahānādān sarvato jaladopamāḥ ।hato rāma iti jñātvā rāvaṇiṁ samapūjayan ।। 6.46.27 ।।।।",
+      "translations": {
+        "english": "Thereafter having seen the two brothers Rama and Lakshmana not responding or breathing, lying on the ground, he thought they were dead.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 46,
+      "verse": 28,
+      "sloka": "निष्पन्दौ तु तदा दृष्ट्वा तावुभौ रामलक्ष्मणौ ।वसुधायां निरुच्छ्वासौ हतावित्यन्वमन्यत ।। ६.४६.२८ ।।।।",
+      "transliteration": "niṣpandau tu tadā dṛṣṭvā tāvubhau rāmalakṣmaṇau ।vasudhāyāṁ nirucchvāsau hatāvityanvamanyata ।। 6.46.28 ।।।।",
+      "translations": {
+        "english": "Indrajith, who is victorious in battles, feeling happy and creating happiness to all Rakshasas collected there entered the city of Lanka.",
+        "hindi": "इति पञ्चचत्त्रारिंशः सगः ॥ दोनों वीर भाइयों को जमीन पर पड़ा हुआ देख, बानर लोग उन दोनों को घेर कर बैठ गए । फिर वायुपुत्र हनुमानादि प्रमुख वीर वानर, उन दोनों के समीप जा परम विषादित हुए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 46,
+      "verse": 29,
+      "sloka": "हर्षेण तु समाविष्ट इन्द्रजित् समितिञ्जयः ।प्रविवेश पुरीं लङ्कां हर्षयन् सर्वराक्षसान् ।। ६.४६.२९ ।।।।",
+      "transliteration": "harṣeṇa tu samāviṣṭa indrajit samitiñjayaḥ ।praviveśa purīṁ laṅkāṁ harṣayan sarvarākṣasān ।। 6.46.29 ।।।।",
+      "translations": {
+        "english": "Sugriva was overtaken by fear on seeing Rama and Lakshmana riddled with arrows from head to foot all over the body",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 46,
+      "verse": 30,
+      "sloka": "रामलक्ष्मणयोर्द्दष्ट्वा शरीरे सायकैश्चिते ।सर्वाणि चाङ्गोपाङ्गानि सुग्रीवं भयमाविशत् ।। ६.४६.३० ।।।।",
+      "transliteration": "rāmalakṣmaṇayorddaṣṭvā śarīre sāyakaiścite ।sarvāṇi cāṅgopāṅgāni sugrīvaṁ bhayamāviśat ।। 6.46.30 ।।।।",
+      "translations": {
+        "english": "Sugriva was overtaken by fear on seeing Rama and Lakshmana riddled with arrows from head to foot all over the body",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 46,
+      "verse": 31,
+      "sloka": "तमुवाच परित्रस्तं वानरेन्द्रं विभीषणः ।सबाष्पवदनं दीनं शोकव्याकुललोचनम् ।। ६.४६.३१ ।।।।",
+      "transliteration": "tamuvāca paritrastaṁ vānarendraṁ vibhīṣaṇaḥ ।sabāṣpavadanaṁ dīnaṁ śokavyākulalocanam ।। 6.46.31 ।।।।",
+      "translations": {
+        "english": "Sugriva was overtaken by fear on seeing Rama and Lakshmana riddled with arrows from head to foot all over the body",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 46,
+      "verse": 32,
+      "sloka": "अलं त्रासेन सुग्रीव बाष्पवेगो निगृह्यताम् ।एवं प्रायाणि युद्धानि विजयो नास्ति नैष्ठिकः ।। ६.४६.३२ ।।।।",
+      "transliteration": "alaṁ trāsena sugrīva bāṣpavego nigṛhyatām ।evaṁ prāyāṇi yuddhāni vijayo nāsti naiṣṭhikaḥ ।। 6.46.32 ।।।।",
+      "translations": {
+        "english": "Sugriva was overtaken by fear on seeing Rama and Lakshmana riddled with arrows from head to foot all over the body",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 46,
+      "verse": 33,
+      "sloka": "सशेषभाग्यता ऽस्माकं यदि वीर भविष्यति ।मोहमेतौ प्रहास्येते महात्मानौ महाबलौ ।। ६.४६.३३ ।।।।",
+      "transliteration": "saśeṣabhāgyatā 'smākaṁ yadi vīra bhaviṣyati ।mohametau prahāsyete mahātmānau mahābalau ।। 6.46.33 ।।।।",
+      "translations": {
+        "english": "\"O Vanara! We are helpless, be confident, for those following righteousness and truthfulness there is no fear of death.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 46,
+      "verse": 34,
+      "sloka": "पर्यवस्थापयात्मानमनाथं मां च वानर ।सत्यधर्माभिरक्तानां नास्ति मृत्युकृतं भयम् ।। ६.४६.३४ ।।।।",
+      "transliteration": "paryavasthāpayātmānamanāthaṁ māṁ ca vānara ।satyadharmābhiraktānāṁ nāsti mṛtyukṛtaṁ bhayam ।। 6.46.34 ।।।।",
+      "translations": {
+        "english": "Vibheeshana, having spoken in that manner, there after dipped his hand in water and wiped the beautiful eyes of Sugriva to brighten.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 46,
+      "verse": 35,
+      "sloka": "एवमुक्त्वा ततस्तस्य जलक्लिन्नेन पाणिना ।सुग्रीवस्य शुभे नेत्रे प्रममार्ज विभिषणः ।। ६.४६.३५ ।।।।",
+      "transliteration": "evamuktvā tatastasya jalaklinnena pāṇinā ।sugrīvasya śubhe netre pramamārja vibhiṣaṇaḥ ।। 6.46.35 ।।।।",
+      "translations": {
+        "english": "Thereafter the dutiful Vibheeshana taking water as per tradition consecrated chanting sacred text and wiped Sugriva's eyes.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 46,
+      "verse": 36,
+      "sloka": "ततः सलिलमादाय विद्यया परिजप्य च ।सुग्रीवनेत्रे धर्मात्मा स ममार्ज विभीषणः ।। ६.४६.३६ ।।।।",
+      "transliteration": "tataḥ salilamādāya vidyayā parijapya ca ।sugrīvanetre dharmātmā sa mamārja vibhīṣaṇaḥ ।। 6.46.36 ।।।।",
+      "translations": {
+        "english": "Wise Vibheeshana having wiped Sugriva's face clean in accordance with time addressed with opportune words.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 46,
+      "verse": 37,
+      "sloka": "प्रमृज्य वदनं तस्य कपिराजस्य धीमतः ।अब्रवीत् कालसम्प्राप्तमसम्भ्रममिदं वचः ।। ६.४६.३७ ।।।।",
+      "transliteration": "pramṛjya vadanaṁ tasya kapirājasya dhīmataḥ ।abravīt kālasamprāptamasambhramamidaṁ vacaḥ ।। 6.46.37 ।।।।",
+      "translations": {
+        "english": "\"O king of monkeys! This is not the time for faint heartedness. Extreme attachment at this time will lead us to death.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 46,
+      "verse": 38,
+      "sloka": "न कालः कपिराजेन्द्र वैक्लव्यमनुवर्तितुम् ।अतिस्नेहो ऽप्यकाले ऽस्मिन् मरणायोपकल्पते ।। ६.४६.३८ ।।।।",
+      "transliteration": "na kālaḥ kapirājendra vaiklavyamanuvartitum ।atisneho 'pyakāle 'smin maraṇāyopakalpate ।। 6.46.38 ।।।।",
+      "translations": {
+        "english": "\"Therefore, give up faintheartedness as all actions will be destroyed by that. Following Rama's leadership, think of the army's welfare.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 46,
+      "verse": 39,
+      "sloka": "तस्मादुत्सृज्य वैक्लव्यं सर्वकार्यविनाशनम् ।हितं रामपुरोगाणां सैन्यानामनुचिन्त्यताम् ।। ६.४६.३९ ।।।।",
+      "transliteration": "tasmādutsṛjya vaiklavyaṁ sarvakāryavināśanam ।hitaṁ rāmapurogāṇāṁ sainyānāmanucintyatām ।। 6.46.39 ।।।।",
+      "translations": {
+        "english": "\"Or else till they become conscious, protect the Kakuthsa princes. When they become conscious, they can get rid of our fear.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 46,
+      "verse": 40,
+      "sloka": "अथवा रक्ष्यतां रामो यावत् सञ्ज्ञाविपर्ययः ।लब्धसञ्ज्ञौ हि काकुत्स्थौ भयं नो व्यपनेष्यतः ।। ६.४६.४० ।।।।",
+      "transliteration": "athavā rakṣyatāṁ rāmo yāvat sañjñāviparyayaḥ ।labdhasañjñau hi kākutsthau bhayaṁ no vyapaneṣyataḥ ।। 6.46.40 ।।।।",
+      "translations": {
+        "english": "\"Therefore, Rama has no fear of death, even a little. Whatever splendour is lost, prosperity will not leave him.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 46,
+      "verse": 41,
+      "sloka": "नैतत् किञ्चन रामस्य न च रामो मुमूर्षति ।न ह्येनं हास्यते लक्ष्मीर्दुर्लभा या गतायुषाम् ।। ६.४६.४१ ।।।।",
+      "transliteration": "naitat kiñcana rāmasya na ca rāmo mumūrṣati ।na hyenaṁ hāsyate lakṣmīrdurlabhā yā gatāyuṣām ।। 6.46.41 ।।।।",
+      "translations": {
+        "english": "\"Therefore, restoring breath let us reassure the army again till all actions are carried out by restoring their confidence.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 46,
+      "verse": 42,
+      "sloka": "तस्मादाश्वासयात्मानं बलं चाश्वासय स्वकम् ।यावत् कार्याणि सर्वाणि पुनः संस्थापयाम्यहम् ।। ६.४६.४२ ।।।।",
+      "transliteration": "tasmādāśvāsayātmānaṁ balaṁ cāśvāsaya svakam ।yāvat kāryāṇi sarvāṇi punaḥ saṁsthāpayāmyaham ।। 6.46.42 ।।।।",
+      "translations": {
+        "english": "\"O Monkey leader! these monkeys whose eyes have become big (are dilated) with fear are talking ear to ear (about Rama).\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 46,
+      "verse": 43,
+      "sloka": "एते हि फुल्लनयनास्त्रासादागतसाध्वसाः ।कर्णे कर्णे प्रकथिता हरयो हरिसत्तम ।। ६.४६.४३ ।।।।",
+      "transliteration": "ete hi phullanayanāstrāsādāgatasādhvasāḥ ।karṇe karṇe prakathitā harayo harisattama ।। 6.46.43 ।।।।",
+      "translations": {
+        "english": "\"Let the army forces of monkeys be happy seeing me moving, getting rid of the inherent fear in them just as they discard a garland of flowers enjoyed by them earlier.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 46,
+      "verse": 44,
+      "sloka": "मां तु दृष्ट्वा प्रधावन्तमनीकं सम्प्रहर्षितुम् ।त्यजन्तु हरयस्त्रासं भुक्तपूर्वामिव स्रजम् ।। ६.४६.४४ ।।।।",
+      "transliteration": "māṁ tu dṛṣṭvā pradhāvantamanīkaṁ sampraharṣitum ।tyajantu harayastrāsaṁ bhuktapūrvāmiva srajam ।। 6.46.44 ।।।।",
+      "translations": {
+        "english": "The king of Rakshasas, Vibheeshana having assured Sugriva, knowing the Vanara army he reassured them.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 46,
+      "verse": 45,
+      "sloka": "समाश्वास्य तु सुग्रीवं राक्षसेन्द्रो विभीषणः ।विद्रुतं वानरानीकं तत्समाश्वासयत् पुनः ।। ६.४६.४५ ।।।।",
+      "transliteration": "samāśvāsya tu sugrīvaṁ rākṣasendro vibhīṣaṇaḥ ।vidrutaṁ vānarānīkaṁ tatsamāśvāsayat punaḥ ।। 6.46.45 ।।।।",
+      "translations": {
+        "english": "Great Indrajith surrounded by all army entered the city of Lanka and approached his father.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 46,
+      "verse": 46,
+      "sloka": "इन्द्रजित्तु महामायः सर्वसैन्यसमावृतः ।विवेश नगरीं लङ्कां पितरं चाभ्युपागमत् ।। ६.४६.४६ ।।।।",
+      "transliteration": "indrajittu mahāmāyaḥ sarvasainyasamāvṛtaḥ ।viveśa nagarīṁ laṅkāṁ pitaraṁ cābhyupāgamat ।। 6.46.46 ।।।।",
+      "translations": {
+        "english": "Having reached Ravana, Indrajith greeted him with folded palms and broke the pleasant news, \"Rama and Lakshmana are killed.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 46,
+      "verse": 47,
+      "sloka": "तत्र रावणमासीनमभिवाद्य कृताञ्जलिः ।आचचक्षे प्रियं पित्रे निहतौ रामलक्ष्मणौ ।। ६.४६.४७ ।।।।",
+      "transliteration": "tatra rāvaṇamāsīnamabhivādya kṛtāñjaliḥ ।ācacakṣe priyaṁ pitre nihatau rāmalakṣmaṇau ।। 6.46.47 ।।।।",
+      "translations": {
+        "english": "In the midst of Rakshasas, Ravana hearing the news of his enemies being killed, rejoiced, and got up from his couch and embraced his son.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 46,
+      "verse": 48,
+      "sloka": "उत्पपात ततो हृष्टः पुत्रं च परिषस्वजे ।रावणो रक्षसां मध्ये श्रुत्वा शत्रू निपातितौ ।उपाघ्राय स मूर्ध्न्येनं पप्रच्छ प्रीतमानसः ।। ६.४६.४८ ।।।।",
+      "transliteration": "utpapāta tato hṛṣṭaḥ putraṁ ca pariṣasvaje ।rāvaṇo rakṣasāṁ madhye śrutvā śatrū nipātitau ।upāghrāya sa mūrdhnyenaṁ papraccha prītamānasaḥ ।। 6.46.48 ।।।।",
+      "translations": {
+        "english": "Delighted Ravana kissed his son on the forehead and enquired of him of the details. Indrajith presented details saying that both Rama and Lakshmana were stunned in the network of arrows, and lost splendour.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 46,
+      "verse": 49,
+      "sloka": "पृच्छते च यथावृत्तं पित्रे सर्वं न्यवेदयत् ।यथा तौ शरबन्धेन निश्चेष्टौ निष्प्रभौ कृतौ ।। ६.४६.४९ ।।।।",
+      "transliteration": "pṛcchate ca yathāvṛttaṁ pitre sarvaṁ nyavedayat ।yathā tau śarabandhena niśceṣṭau niṣprabhau kṛtau ।। 6.46.49 ।।।।",
+      "translations": {
+        "english": "Delighted Ravana kissed his son on the forehead and enquired of him of the details. Indrajith presented details saying that both Rama and Lakshmana were stunned in the network of arrows, and lost splendour.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 46,
+      "verse": 50,
+      "sloka": "स हर्षवेगानुगतान्तरात्मा श्रुत्वा वचस्तस्य महारथस्य ।जहौ ज्वरं दाशरथेः समुत्थितं प्रहृष्य वाचा ऽभिननन्द पुत्रम् ।। ६.४६.५० ।।",
+      "transliteration": "sa harṣavegānugatāntarātmā śrutvā vacastasya mahārathasya ।jahau jvaraṁ dāśaratheḥ samutthitaṁ prahṛṣya vācā 'bhinananda putram ।। 6.46.50 ।।",
+      "translations": {
+        "english": "Hearing the words of the great chariot warrior, Ravana was filled with excessive joy at heart. His fear and agony of Dasaratha's son having gone on hearing the words of his son, Ravana greeted him. ।। इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेषटचत्वारिंशस्सर्गः ।। This is the end of the forty sixth sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

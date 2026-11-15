@@ -1,0 +1,695 @@
+{
+  "kanda": 4,
+  "kanda_name": "Kishkindha Kanda",
+  "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+  "sarga": 41,
+  "verses_count": 49,
+  "verses": [
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 41,
+      "verse": 1,
+      "sloka": "ततः प्रस्थाप्य सुग्रीवः तन् महत् वानरम् बलम् ।दक्षिणाम् प्रेषयामास वानरान् अभिलक्षितान् ॥४-४१-१॥",
+      "transliteration": "tataḥ prasthāpya sugrīvaḥ tan mahat vānaram balam ।dakṣiṇām preṣayāmāsa vānarān abhilakṣitān ॥4-41-1॥",
+      "translations": {
+        "english": "Sugriva then sends in the southern direction another vanara army known for their excellence.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 41,
+      "verse": 2,
+      "sloka": "नीलम् अग्नि सुतम् चैव हनूमन्तम् च वानरम् ।पितामह सुतम् चैव जांबवंतम् महोजसम् ॥४-४१-२॥",
+      "transliteration": "nīlam agni sutam caiva hanūmantam ca vānaram ।pitāmaha sutam caiva jāṁbavaṁtam mahojasam ॥4-41-2॥",
+      "translations": {
+        "english": "The extraordinary Sugriva commanded Nila, son of the firegod, Hanuman, the formidable, Jambavan, son of Brahma, Suhotra, Sarari, Saragulma, Gaja, Gavaksha, Gavaya, Sushena, Vrishabam, Mainda, Dvivida, Vijaya, Gandhamadana, the two sons of Firegod, Ulkamuka and Asanga including Angada, leader of the group, to proceed. All of them were endowed with speed and valour.",
+        "hindi": "अम्निसुत नील, हनुमान और ब्रह्मा के पुत्र महाबली जान्बवान, सुहोत्र, शरारि, शरशुल्म, गज,, गवाक्ष, गवय, सुषेण , वृषभ, मेन्द, द्विविद, विजय, गन्धमादन तथा अग्नि के दोनों पुत्र उल्कामुख ओर अनङ्ग को, जो वेग और पराक्रम वाले थे, कपिराज और सब देशों को विशेष रूप से जानने वाले सुग्रोब ने दक्षिण दिशा को भेजा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 41,
+      "verse": 3,
+      "sloka": "सुहोत्रम् च शरारिम् च शरगुल्मम् तथा एव च ।गजम् गवाक्षम् गवयम् सुषेणम् वृषभम् तथा ॥४-४१-३॥",
+      "transliteration": "suhotram ca śarārim ca śaragulmam tathā eva ca ।gajam gavākṣam gavayam suṣeṇam vṛṣabham tathā ॥4-41-3॥",
+      "translations": {
+        "english": "The extraordinary Sugriva commanded Nila, son of the firegod, Hanuman, the formidable, Jambavan, son of Brahma, Suhotra, Sarari, Saragulma, Gaja, Gavaksha, Gavaya, Sushena, Vrishabam, Mainda, Dvivida, Vijaya, Gandhamadana, the two sons of Firegod, Ulkamuka and Asanga including Angada, leader of the group, to proceed. All of them were endowed with speed and valour.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 41,
+      "verse": 4,
+      "sloka": "मैन्दम् च द्विविदम् चैव सुषेणम् गन्धमादनम् ।उल्कामुखम् अनंगम् च हुतशन सुतौ उभौ ॥४-४१-४॥",
+      "transliteration": "maindam ca dvividam caiva suṣeṇam gandhamādanam ।ulkāmukham anaṁgam ca hutaśana sutau ubhau ॥4-41-4॥",
+      "translations": {
+        "english": "The extraordinary Sugriva commanded Nila, son of the firegod, Hanuman, the formidable, Jambavan, son of Brahma, Suhotra, Sarari, Saragulma, Gaja, Gavaksha, Gavaya, Sushena, Vrishabam, Mainda, Dvivida, Vijaya, Gandhamadana, the two sons of Firegod, Ulkamuka and Asanga including Angada, leader of the group, to proceed. All of them were endowed with speed and valour.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 41,
+      "verse": 5,
+      "sloka": "अंगद प्रमुखान् वीरान् वीरः कपि गण ईश्वरः ।वेग विक्रम संपन्नान् संदिदेश विशेषवित् ॥४-४१-५॥",
+      "transliteration": "aṁgada pramukhān vīrān vīraḥ kapi gaṇa īśvaraḥ ।vega vikrama saṁpannān saṁdideśa viśeṣavit ॥4-41-5॥",
+      "translations": {
+        "english": "The extraordinary Sugriva commanded Nila, son of the firegod, Hanuman, the formidable, Jambavan, son of Brahma, Suhotra, Sarari, Saragulma, Gaja, Gavaksha, Gavaya, Sushena, Vrishabam, Mainda, Dvivida, Vijaya, Gandhamadana, the two sons of Firegod, Ulkamuka and Asanga including Angada, leader of the group, to proceed. All of them were endowed with speed and valour.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 41,
+      "verse": 6,
+      "sloka": "तेषाम् अग्रेसरम् चैव बृहद् बलम् अथ अंगदम् ।विधाय हरि वीराणाम् आदिशद् दक्षिणाम् दिशम् ॥४-४१-६॥",
+      "transliteration": "teṣām agresaram caiva bṛhad balam atha aṁgadam ।vidhāya hari vīrāṇām ādiśad dakṣiṇām diśam ॥4-41-6॥",
+      "translations": {
+        "english": "Then Sugriva ordered mighty Angada to lead the group of the heroic monkeys in the southern direction.",
+        "hindi": "तदनन्तर गोदावरी ओर रमणाक क्ुष्णरेणो नदो मितेगो। इन चर देने वाली महाथागा नदियों के आकष पास बड़े बड़े सर्फ रहते हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 41,
+      "verse": 7,
+      "sloka": "ये केचन समुद्देशाः तस्याम् दिशि सुदुर्गमाः ।कपीइशः कपि मुख्यानाम् स तेषाम् समुदाहरत् ॥४-४१-७॥",
+      "transliteration": "ye kecana samuddeśāḥ tasyām diśi sudurgamāḥ ।kapīiśaḥ kapi mukhyānām sa teṣām samudāharat ॥4-41-7॥",
+      "translations": {
+        "english": "Sugriva, the monkey king, explained to the monkey chiefs about the inaccessible places in the southern direction.",
+        "hindi": "पाठान्तरे सङ्गं । ” † पाठान्तरे “ महृद्वलमसङ्गमम्‌ |” C कूच ५ सुग 3 कपिराज सुग्रोब ने जो दिशा में जा जो देश दुर्गाम थे, उनका त्तान्त उन वानरों के नेताओं को बतलाया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 41,
+      "verse": 8,
+      "sloka": "सहस्र शिरसम् विंध्यम् नाना द्रुम लता आयुतम् ।नर्मदाम् च नदीम् रम्याम् महोरग निषेविताम् ॥४-४१-८॥",
+      "transliteration": "sahasra śirasam viṁdhyam nānā druma latā āyutam ।narmadām ca nadīm ramyām mahoraga niṣevitām ॥4-41-8॥",
+      "translations": {
+        "english": "'Search for Sita all over Vindhya of a thousand peaks filled with several trees and creepers, and along the river Narmada. Then proceed to Godavari, lovely Krishnaveni, Mahanadi, Varada and Mahabhaga inhabited by terrific serpents.You may search Mekhala, Utkala and Dasarna cities, Asvavanti and Avanti countries also.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 41,
+      "verse": 9,
+      "sloka": "ततो गोदावरीम् रम्याम् कृष्णावेणीम् महानदीम् ।वरदाम् च महाभागाम् महोरग निषेविताम् ।मेखलान् उत्कलाम् चैव दशार्ण नगराणि अपि ॥४-४१-९॥",
+      "transliteration": "tato godāvarīm ramyām kṛṣṇāveṇīm mahānadīm ।varadām ca mahābhāgām mahoraga niṣevitām ।mekhalān utkalām caiva daśārṇa nagarāṇi api ॥4-41-9॥",
+      "translations": {
+        "english": "'Search for Sita all over Vindhya of a thousand peaks filled with several trees and creepers, and along the river Narmada. Then proceed to Godavari, lovely Krishnaveni, Mahanadi, Varada and Mahabhaga inhabited by terrific serpents.You may search Mekhala, Utkala and Dasarna cities, Asvavanti and Avanti countries also.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 41,
+      "verse": 10,
+      "sloka": "अब्रवंतीम् अवंतीम् च सर्वम् एव अनुपश्यत ।विदर्भान् ऋष्टिकान् चैव रम्यान् माहिषकान् अपि ॥४-४१-१०॥",
+      "transliteration": "abravaṁtīm avaṁtīm ca sarvam eva anupaśyata ।vidarbhān ṛṣṭikān caiva ramyān māhiṣakān api ॥4-41-10॥",
+      "translations": {
+        "english": "'Search for Sita all over Vindhya of a thousand peaks filled with several trees and creepers, and along the river Narmada. Then proceed to Godavari, lovely Krishnaveni, Mahanadi, Varada and Mahabhaga inhabited by terrific serpents.You may search Mekhala, Utkala and Dasarna cities, Asvavanti and Avanti countries also.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 41,
+      "verse": 11,
+      "sloka": "तथा वन्गान् कलिन्गाम् च कौशिकान् च समंततः ।अन्वीक्ष्य दण्डक अरण्यम् स पर्वत नदी गुहम् ॥४-४१-११॥",
+      "transliteration": "tathā vangān kalingām ca kauśikān ca samaṁtataḥ ।anvīkṣya daṇḍaka araṇyam sa parvata nadī guham ॥4-41-11॥",
+      "translations": {
+        "english": "'Look for Sita in the countries of Vidarbha and Rishika, in the picturesque country of Mashaka, Vanga and Kalinga and all over Kausika. Look for her in mountains caves and on river banks, in Dandaka forest, in Godavari, in Andhra also in Pundra, Chola and Pandya countries and all over Kerala.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 41,
+      "verse": 12,
+      "sloka": "नदीम् गोदावरीम् चैव सर्वम् एव अनुपश्यत ।तथैव आन्ध्रान् च पुण्ड्रान् च चोलान् पाण्ड्यान् केरलान् ॥४-४१-१२॥",
+      "transliteration": "nadīm godāvarīm caiva sarvam eva anupaśyata ।tathaiva āndhrān ca puṇḍrān ca colān pāṇḍyān keralān ॥4-41-12॥",
+      "translations": {
+        "english": "'Look for Sita in the countries of Vidarbha and Rishika, in the picturesque country of Mashaka, Vanga and Kalinga and all over Kausika. Look for her in mountains caves and on river banks, in Dandaka forest, in Godavari, in Andhra also in Pundra, Chola and Pandya countries and all over Kerala.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 41,
+      "verse": 13,
+      "sloka": "अयोमुखः च गंतव्यः पर्वतो धातु मण्डितः ।विचित्र शिखरः श्रीमान् चित्र पुष्पित काननः ॥४-४१-१३॥",
+      "transliteration": "ayomukhaḥ ca gaṁtavyaḥ parvato dhātu maṇḍitaḥ ।vicitra śikharaḥ śrīmān citra puṣpita kānanaḥ ॥4-41-13॥",
+      "translations": {
+        "english": "'Look for Sita all over mount Ayomukha (known as Malaya), rich in ores. It has wonderful peaks. It looks colourful with the forest in bloom. This great mountain is full of sandalwood forest.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 41,
+      "verse": 14,
+      "sloka": "सुचंदन वनोद्देशो मार्गितव्यो महागिरिः ।ततः ताम् आपगाम् दिव्याम् प्रसन्न सलिलाशयान् ॥४-४१-१४॥",
+      "transliteration": "sucaṁdana vanoddeśo mārgitavyo mahāgiriḥ ।tataḥ tām āpagām divyām prasanna salilāśayān ॥4-41-14॥",
+      "translations": {
+        "english": "'Look for Sita all over mount Ayomukha (known as Malaya), rich in ores. It has wonderful peaks. It looks colourful with the forest in bloom. This great mountain is full of sandalwood forest.",
+        "hindi": "यह पर्वत बिचित्र शिखरो तथा अनेक फूले हुए वनों से शोभायुक्त है। इसके ऊपर चन्दन वृक्षों का वन है । सो इस महा अचेत पर भ! ठूढ़नो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 41,
+      "verse": 15,
+      "sloka": "तत्र द्रक्ष्यथ कावेरीम् विहृताम् अप्सरो गणैः ।तस्य आसीनम् नगस्य अग्रे मलयस्य महोजसम् ॥४-४१-१५॥",
+      "transliteration": "tatra drakṣyatha kāverīm vihṛtām apsaro gaṇaiḥ ।tasya āsīnam nagasya agre malayasya mahojasam ॥4-41-15॥",
+      "translations": {
+        "english": "'Then you will see the sacred river Cauvery with pure and auspicious water, where celestial nymphs sport.",
+        "hindi": "इसके बाद तुम लोगों को दिव्य, स्वच्छ जल वाली, पुण्यतोया | कावेरी मिलेगी, जिसके तटों पर अप्सराएँ विहार किआ करती हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 41,
+      "verse": 16,
+      "sloka": "द्रक्ष्यथ आदित्य संकाशम् अगस्त्यम् ऋषि सत्तमम् ।ततः तेन अभ्यनुज्ञाताः प्रसन्नेन महात्मना ॥४-४१-१६॥",
+      "transliteration": "drakṣyatha āditya saṁkāśam agastyam ṛṣi sattamam ।tataḥ tena abhyanujñātāḥ prasannena mahātmanā ॥4-41-16॥",
+      "translations": {
+        "english": "'Dwelling on the top of that Malaya mountain you will find celebrated sage Agastya, resplendent like the Sun.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 41,
+      "verse": 17,
+      "sloka": "ताम्रपर्णीम् ग्राह जुष्टाम् तरिष्यथ महानदीम् ।सा चन्दन वनैः चित्रैः प्रच्छन्ना द्वीप वारिणी ॥४-४१-१७॥",
+      "transliteration": "tāmraparṇīm grāha juṣṭām tariṣyatha mahānadīm ।sā candana vanaiḥ citraiḥ pracchannā dvīpa vāriṇī ॥4-41-17॥",
+      "translations": {
+        "english": "'You will then come cross the great river Tamraparni infested with alligators. Cross it with the permission of the sage pleased (with you).",
+        "hindi": "जब वे प्रसन्न हो तुमको बिदा करें, तब वहां .से चल कर घड़ियालों से परिपूर्ण ताम्रपर्णी महानदी से पार होना",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 41,
+      "verse": 18,
+      "sloka": "कान्ता इव युवती कान्तम् समुद्रम् अवगाहते ।ततो हेममयम् दिव्यम् मुक्ता मणि विभूषितम् ॥४-४१-१८॥",
+      "transliteration": "kāntā iva yuvatī kāntam samudram avagāhate ।tato hemamayam divyam muktā maṇi vibhūṣitam ॥4-41-18॥",
+      "translations": {
+        "english": "'With its wonderful islands covered with lovely sandalwood forests, the river mingles with the ocean just as a young beloved meets her lover.",
+        "hindi": "इस नदी के उभय तट और इसके द्वीप (टापू) चन्दन के पेड़ों से आच्छादित हैं । यह नदी समुद्र से, वैसे ही जा कर मिलती है, जैसे कोई युबती स्त्री अपने पात से मिलती है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 41,
+      "verse": 19,
+      "sloka": "युक्तम् कवाटम् पाण्ड्यानाम् गता द्रक्ष्यथ वानराः ।ततः समुद्रम् आसाद्य संप्रधार्य अर्थ निश्चयम् ॥४-४१-१९॥",
+      "transliteration": "yuktam kavāṭam pāṇḍyānām gatā drakṣyatha vānarāḥ ।tataḥ samudram āsādya saṁpradhārya artha niścayam ॥4-41-19॥",
+      "translations": {
+        "english": "'O monkeys leaving that river, you will find encrusted with pearls the wonderful golden gate of the city of Pandyas (modern Madurai).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 41,
+      "verse": 20,
+      "sloka": "अगस्त्येन अन्तरे तत्र सागरे विनिवेशितः ।चित्र सानु नगः श्रीमान् महेन्द्रः पर्वतोत्तमः ॥४-४१-२०॥",
+      "transliteration": "agastyena antare tatra sāgare viniveśitaḥ ।citra sānu nagaḥ śrīmān mahendraḥ parvatottamaḥ ॥4-41-20॥",
+      "translations": {
+        "english": "'Then on reaching the sea shore, decide the course of action. Sage Agastya has set up (between the moat of the city and and the sea) a glorious golden mountain Mahendra. Filled with colourful trees, it stretches into the sea.",
+        "hindi": "न कन्ध ~ ४०६ किष्किन्धाकाण्डे तदन्तर तुम्हे समुद्र मिलेगा । उस समुद्र के पार जाने के 'विषय में अपनी सामथ्ये को विचार कर, उसके पार होना। वहां पर आगस्त्य झुनि ने समुद्र के भीतर महेन्द्राचल पहाड़ को खड़ा कर दिया है । यह पवत सुबणेमय है .। इसके अनेक प्रकार के श्षङ्ग लताओं से सुशोभित हैं । उस पर्वत पर देवर्षि, यत्त, अप्सराएं ओर चारण रहा करते हैं इससे भी यह बड़ा मनोहर हो गया है । प्रत्येक पर्व पर समुद्रस्नान करने को इस पर्वत पर इन्द्र आया करते हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 41,
+      "verse": 21,
+      "sloka": "जात रूपमयः श्रीमान् अवगाढो महार्णवम् ।नाना विधैः नगैः फुल्लैः लताभिः च उपशोभितम् ॥४-४१-२१॥",
+      "transliteration": "jāta rūpamayaḥ śrīmān avagāḍho mahārṇavam ।nānā vidhaiḥ nagaiḥ phullaiḥ latābhiḥ ca upaśobhitam ॥4-41-21॥",
+      "translations": {
+        "english": "'Then on reaching the sea shore, decide the course of action. Sage Agastya has set up (between the moat of the city and and the sea) a glorious golden mountain Mahendra. Filled with colourful trees, it stretches into the sea.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 41,
+      "verse": 22,
+      "sloka": "देव ऋषि यक्ष प्रवरैः अप्सरोभिः च सेवितम् ।सिद्ध चारण संघैः च प्रकीर्णम् सुमनोहरम् ॥४-४१-२२॥",
+      "transliteration": "deva ṛṣi yakṣa pravaraiḥ apsarobhiḥ ca sevitam ।siddha cāraṇa saṁghaiḥ ca prakīrṇam sumanoharam ॥4-41-22॥",
+      "translations": {
+        "english": "'That mountain with several kinds of colourful trees and vines is frequented by gods, sages and prominent yakshas like siddhas and charanas. It is exceedingly delightful and even the thousandeyed Indra keeps visiting this place on full and new Moon days.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 41,
+      "verse": 23,
+      "sloka": "तम् उपैति सहस्राक्षः सदा पर्वसु पर्वसु ।द्वीपः तस्य अपरे पारे शत योजन विसृतः ॥४-४१-२३॥",
+      "transliteration": "tam upaiti sahasrākṣaḥ sadā parvasu parvasu ।dvīpaḥ tasya apare pāre śata yojana visṛtaḥ ॥4-41-23॥",
+      "translations": {
+        "english": "'That mountain with several kinds of colourful trees and vines is frequented by gods, sages and prominent yakshas like siddhas and charanas. It is exceedingly delightful and even the thousandeyed Indra keeps visiting this place on full and new Moon days.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 41,
+      "verse": 24,
+      "sloka": "अगम्यो मानुषैः दीप्तः तम् मार्गध्वम् समंततः ।तत्र सर्व आत्मना सीता मार्गितव्या विशेषतः ॥४-४१-२४॥",
+      "transliteration": "agamyo mānuṣaiḥ dīptaḥ tam mārgadhvam samaṁtataḥ ।tatra sarva ātmanā sītā mārgitavyā viśeṣataḥ ॥4-41-24॥",
+      "translations": {
+        "english": "'Beyond this, on the other side of the sea stretching over an area of a hundred yojanas is an island difficult to reach for humans. Which you may explore.",
+        "hindi": "इस समुद्र के उस पार सो योजन लंबा एक द्वीप है। डस दवीप में कोई मनुष्य नहीं जा सकता उस द्वीप सें भी सवत्र म्लोजना",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 41,
+      "verse": 25,
+      "sloka": "स हि देशः तु वध्यस्य रावणस्य दुरात्मनः ।राक्षस अधिपतेः वासः सहस्राक्ष समद्युतेः ॥४-४१-२५॥",
+      "transliteration": "sa hi deśaḥ tu vadhyasya rāvaṇasya durātmanaḥ ।rākṣasa adhipateḥ vāsaḥ sahasrākṣa samadyuteḥ ॥4-41-25॥",
+      "translations": {
+        "english": "There above all Sita must be searched for with all effort, for that region is the abode of the wicked Ravana, lord of demons, who deserves death and rivals thousand-eyed Indra in splendour.",
+        "hindi": "वहाँ जा कर उसमें सब जगह बिशेष कर सीद को ड्‌ ढन्म ! ८७-०0 वही BERR Uhre ABE उस बि, छे करने विक का SU -«किकि “ssn somes सा एकचस्वारिंशः सग: go योग्य रावण का वासस्थल है | दक्तिणसमुद्र के बीच में अङ्गारिका नाम की प्रसिद्ध राक्षसी है, जो आकाशचारियों को उनकी छाया द्वारा पकड़ कर खा डाला करती है । मेरे बतलाप हुए संशययुक्त ( खतरे के ) स्थानों को भली भाँति देख भाल कर और सब सन्देहों को दूर कर अमित तेजस्वी नरेन्द्र श्रीरामचन्द्र जी की भार्या सीता को खोजना । उस द्वीप को लांघ कर, सो योजन वाले शोभायुक्त समुद्र के बीच",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 41,
+      "verse": 26,
+      "sloka": "दक्षिणस्य समुद्रस्य मध्ये तस्य तु राक्षसी ।अंगारक इति विख्याता चायाम् आक्षिप्य भोजिनी ॥४-४१-२६॥",
+      "transliteration": "dakṣiṇasya samudrasya madhye tasya tu rākṣasī ।aṁgāraka iti vikhyātā cāyām ākṣipya bhojinī ॥4-41-26॥",
+      "translations": {
+        "english": "'In the midst of the southern sea is a famous ogress, Angaraka (also Simhika) by name who swallows humans by capturing them even by their shadows.",
+        "hindi": "पुष्पितक नाम का एक पहाड़ है, इस पर भी सिद्ध और चारण रहा करते हैं | यह सूर्य और चन्द्रमा की तरह कान्तिमान्‌ चारों ओर के सागर के जल से घिरा हुआ है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 41,
+      "verse": 27,
+      "sloka": "एवम् निःसंशयान् कृत्वा संशयान् नष्ट संशयाः ।मृगयध्वम् नरेन्द्रस्य पत्नीम् अमित ओजसः ॥४-४१-२७॥",
+      "transliteration": "evam niḥsaṁśayān kṛtvā saṁśayān naṣṭa saṁśayāḥ ।mṛgayadhvam narendrasya patnīm amita ojasaḥ ॥4-41-27॥",
+      "translations": {
+        "english": "'In this way make sure wherever you have a doubt (of Sita's presence) and proceed to look for the consort of Rama, king of limitless lustre.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 41,
+      "verse": 28,
+      "sloka": "तम् अतिक्रम्य लक्ष्मीवान् समुद्रे शत योजने ।गिरिः पुष्पितको नाम सिद्ध चारण सेवितः ॥४-४१-२८॥",
+      "transliteration": "tam atikramya lakṣmīvān samudre śata yojane ।giriḥ puṣpitako nāma siddha cāraṇa sevitaḥ ॥4-41-28॥",
+      "translations": {
+        "english": "Beyond that, a hundred yojanas across the sea, lies a prosperous mountain named Pushpitaka, frequented by siddhas and charanas.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 41,
+      "verse": 29,
+      "sloka": "चन्द्र सूर्य अंशु संकाशः सागर अंबु समाश्रयः ।भ्राजते विपुलैः शृन्गैः अम्बरम् विलिखन् इव ॥४-४१-२९॥",
+      "transliteration": "candra sūrya aṁśu saṁkāśaḥ sāgara aṁbu samāśrayaḥ ।bhrājate vipulaiḥ śṛngaiḥ ambaram vilikhan iva ॥4-41-29॥",
+      "translations": {
+        "english": "'It looks bright, spreading its radiance like the Sun and Moon. It is surrounded by the sea. Its peaks appear as though scratching the sky.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 41,
+      "verse": 30,
+      "sloka": "तस्य एकम् कांचनम् शृंगम् सेवते यम् दिवाकरः ।श्वेतम् राजतम् एकम् च सेवते यम् निशाकरः ।न तम् कृतघ्नाः पश्यन्ति न नृशंसा न नास्तिकाः ॥४-४१-३०॥",
+      "transliteration": "tasya ekam kāṁcanam śṛṁgam sevate yam divākaraḥ ।śvetam rājatam ekam ca sevate yam niśākaraḥ ।na tam kṛtaghnāḥ paśyanti na nṛśaṁsā na nāstikāḥ ॥4-41-30॥",
+      "translations": {
+        "english": "'The Sun resorts to its golden peak. The Moon rests over its silver peak. Neither the ungrateful, nor the mean nor the unbelievers can behold this (phenomenon).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 41,
+      "verse": 31,
+      "sloka": "प्रणम्य शिरसा शैलम् तम् विमार्गथ वानराः ।तम् अतिक्रम्य दुर्धर्षम् सूर्यवान् नाम पर्वतः ॥४-४१-३१॥",
+      "transliteration": "praṇamya śirasā śailam tam vimārgatha vānarāḥ ।tam atikramya durdharṣam sūryavān nāma parvataḥ ॥4-41-31॥",
+      "translations": {
+        "english": "'The Sun resorts to its golden peak. The Moon rests over its silver peak. Neither the ungrateful, nor the mean nor the unbelievers can behold this (phenomenon).",
+        "hindi": "श्वेत राजतशूडु च सेवते यं निशाकरः । नतं कृतघ्राः पश्यन्ति न त्रशंसा न नास्तिका?३१॥ और उसके दूसरे चाँदी के शज्ञ का निशानाथ चन्द्रमा सेवन किआ करते हैं । इस पर्वत को कृतन्न, नृशंस और नास्तिक लोग नहीं देख पाते",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 41,
+      "verse": 32,
+      "sloka": "अध्वना दुर्विगाहेन योजनानि चतुर्दश ।ततः तम् अपि अतिक्रम्य वैद्युतो नाम पर्वतः ॥४-४१-३२॥",
+      "transliteration": "adhvanā durvigāhena yojanāni caturdaśa ।tataḥ tam api atikramya vaidyuto nāma parvataḥ ॥4-41-32॥",
+      "translations": {
+        "english": "'O monkeys bowing down to that mountain, proceed in search of Sita. O unassailable vanaras, beyond this mountain is another called Suryavan. It is at a distance of fourteen yojanas and it is difficult to cover that distance.",
+        "hindi": "अपाठान्तरे--“राजतमेकं ४०५ किष्किन्धाकाण्डे वना दुर्विगाहेन योजनानि चतुदश । ततस्तमप्यतिक्रम्य वद्युतो नाम पवतः ॥२३! हे बानरो! तुम इस पर्वत को प्रणाम कर सीता जी को ढूढों ना उस पर्वत के आगे जाने पर तुमको दुर्घषे सूयेवान्‌ नाम कापर्वंत मिलेगा । पूर्वकथित पर्वत से यह पर्वत चौदह योजन के न्तर पर है, किन्तु इसका मार्ग बड़ा बेंडा हे । सूर्यवान्‌ पर्वत के आगे तुम्हें वैद्युत नाम का पहाड़ मिलेगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 41,
+      "verse": 33,
+      "sloka": "सर्व काम फलैः वृक्षैः सर्व काल मनोहरैः ।तत्र भुक्त्वा वर अर्हाणि मूलानि च फलानि च ॥४-४१-३३॥",
+      "transliteration": "sarva kāma phalaiḥ vṛkṣaiḥ sarva kāla manoharaiḥ ।tatra bhuktvā vara arhāṇi mūlāni ca phalāni ca ॥4-41-33॥",
+      "translations": {
+        "english": "'Beyond that mountain lies Vaidyuta, a hill with trees yielding lovely fruits in all seasons which can satisfy all desires.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 41,
+      "verse": 34,
+      "sloka": "मधूनि पीत्वा जुष्टानि परम् गच्छत वानराः ।तत्र नेत्र मनः कांतः कुंजरो नाम पर्वतः ॥४-४१-३४॥",
+      "transliteration": "madhūni pītvā juṣṭāni param gacchata vānarāḥ ।tatra netra manaḥ kāṁtaḥ kuṁjaro nāma parvataḥ ॥4-41-34॥",
+      "translations": {
+        "english": "'O monkeys eat your cherlshed roots and fruits and drink the best of honey there and proceed further.",
+        "hindi": "यह्‌ पर्वत सदा हरा भरा और सुन्दर बना रहता हे और इसके ऊपर जो वृक्ष हूँ, वे सब कामनाओं को एणं करने वाले फलों से लदे रहते हैं । वहां उन वृक्षो के अत्युत्तम फल मूलों को खा कर",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 41,
+      "verse": 35,
+      "sloka": "अगस्त्य भवनम् यत्र निर्मितम् विश्वकर्मणा ।तत्र योजन विस्तारम् उच्छ्रितम् दश योजनम् ॥४-४१-३५॥",
+      "transliteration": "agastya bhavanam yatra nirmitam viśvakarmaṇā ।tatra yojana vistāram ucchritam daśa yojanam ॥4-41-35॥",
+      "translations": {
+        "english": "'There you will find a mountain called Kunjara pleasing to the eye and pleasing to the heart. That is the hermitage of Agastya built by Visvakarma.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 41,
+      "verse": 36,
+      "sloka": "शरणम् कांचनम् दिव्यम् नाना रत्न विभूषितम् ।तत्र भोगवती नाम सर्पाणाम् आलयः पुरी ॥४-४१-३६॥",
+      "transliteration": "śaraṇam kāṁcanam divyam nānā ratna vibhūṣitam ।tatra bhogavatī nāma sarpāṇām ālayaḥ purī ॥4-41-36॥",
+      "translations": {
+        "english": "'The hermitage of Agastya is one yojana in breadth and ten yojanas in height. It is wonderful, built of gold and adorned with many gems.",
+        "hindi": "इसी पर्वंत पर विश्वकर्मा का बनाया हुआ अगस्त ऋषि का एक भवन है । यह्‌ भवन एक योजन लंबा और दस योजन ऊँचा - हे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 41,
+      "verse": 37,
+      "sloka": "विशाल रथ्या दुर्धर्षा सर्वतः परिरक्षिता ।रक्षिता पन्नगैः घोरैः तीष्क्ण दम्ष्ट्रैः महा विषैः ॥४-४१-३७॥",
+      "transliteration": "viśāla rathyā durdharṣā sarvataḥ parirakṣitā ।rakṣitā pannagaiḥ ghoraiḥ tīṣkṇa damṣṭraiḥ mahā viṣaiḥ ॥4-41-37॥",
+      "translations": {
+        "english": "'There on that mountain (Kunjara) stands a city called Bhogavati, which is the abode of serpents. It has wide corridors. Guarded on all sides, it is unassailable since it is protected by venomous serpents with sharp fangs. The wise serpent king Vasuki resides there. (Bhogavati is the replica of the city of the same name in Patala, the sixth subterranean region)",
+        "hindi": "यह भवन सोने का है और अनेक रत्नों से भूषित है । वहीं पर सर्फी की भोगवती नाम की पुरी है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 41,
+      "verse": 38,
+      "sloka": "सर्प राजो महाघोरो यस्याम् वसति वासुकिः ।निर्याय मार्गितव्या च सा च भोगवती पुरी ॥४-४१-३८॥",
+      "transliteration": "sarpa rājo mahāghoro yasyām vasati vāsukiḥ ।niryāya mārgitavyā ca sā ca bhogavatī purī ॥4-41-38॥",
+      "translations": {
+        "english": "'There on that mountain (Kunjara) stands a city called Bhogavati, which is the abode of serpents. It has wide corridors. Guarded on all sides, it is unassailable since it is protected by venomous serpents with sharp fangs. The wise serpent king Vasuki resides there. (Bhogavati is the replica of the city of the same name in Patala, the sixth subterranean region)",
+        "hindi": "इस पुरी की गलियाँ बड़ी बड़ी हैं । यह दुर्थषे है । क्योंकि चारों ओर से बड़े बढ़े भयङ्कर और पेने दाँतों वाले महाविषधर सर्पो से यह सुरक्षित हे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 41,
+      "verse": 39,
+      "sloka": "तत्र च अंतरोद्देशा ये केचन समावृताः ।तम् च देशम् अतिक्रम्य महान् ऋषभ संस्थितिः ॥४-४१-३९॥",
+      "transliteration": "tatra ca aṁtaroddeśā ye kecana samāvṛtāḥ ।tam ca deśam atikramya mahān ṛṣabha saṁsthitiḥ ॥4-41-39॥",
+      "translations": {
+        "english": "'Emerging from this city of Bhogavati, search all possible hidden places.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 41,
+      "verse": 40,
+      "sloka": "सर्व रत्नमयः श्रीमान् ऋषभो नाम पर्वतः ।गोशीर्षकम् पद्मकम् च हरिश्यामम् च चन्दनम् ॥४-४१-४०॥",
+      "transliteration": "sarva ratnamayaḥ śrīmān ṛṣabho nāma parvataḥ ।gośīrṣakam padmakam ca hariśyāmam ca candanam ॥4-41-40॥",
+      "translations": {
+        "english": "'With this place passed, you will see a huge mountain named Rishaba of the size of a bull filled with all gems.",
+        "hindi": "बहाँ पर अनेक ऐसे देश हैँ, जो छिपे हुए है अर्थात्‌ जिन्हें बहुत कम लोग जानते हैँ। उनमें जा कर ढूं ढना । इस देश के आगे तुम्हें वेल के आकार का ऋषभ रामभ पर्वेत देख पड़ेगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 41,
+      "verse": 41,
+      "sloka": "दिव्यम् उत्पद्यते यत्र तत् चैव अग्नि सम प्रभम् ।न तु तत् चन्दनम् दृष्ट्वा स्प्रष्टव्यम् च कदाचन ॥४-४१-४१॥",
+      "transliteration": "divyam utpadyate yatra tat caiva agni sama prabham ।na tu tat candanam dṛṣṭvā spraṣṭavyam ca kadācana ॥4-41-41॥",
+      "translations": {
+        "english": "'There grow sandal trees of amazing colours like that of gorochana, padmaka (like lotus), greenish black and red as fire.",
+        "hindi": "शुरणं--गहं । ( गो० ) ४१० किष्किन्धाकाण्डे इस ऋषभ पवेत में सब प्रकार फे रत्न हैं और यह बड़ा शोभायमान है । इसके ऊपर गोरोचन के रंग का पपल के रंग का, तमालदल वणे का चन्दन उत्पन्न होता हे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 41,
+      "verse": 42,
+      "sloka": "रोहिता नाम गंधर्वा घोरम् रक्षन्ति तद् वनम् ।तत्र गंधर्व पतयः पंच सूर्य सम प्रभाः ॥४-४१-४२॥",
+      "transliteration": "rohitā nāma gaṁdharvā ghoram rakṣanti tad vanam ।tatra gaṁdharva patayaḥ paṁca sūrya sama prabhāḥ ॥4-41-42॥",
+      "translations": {
+        "english": "'Never touch when you see the sandal trees, for they are guarded by dreadful gandharvas named Rohitas.",
+        "hindi": "जहा पर यह दिव्य चन्दन उत्पन्न होता हे, वहीं पर अभ्नि के समान रंग का चन्दन भी पेदा होता हे । उस चन्दन को देख कर उसे कभी मत छूना",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 41,
+      "verse": 43,
+      "sloka": "शैलूषो ग्रामणीः शिक्षः शुको बभ्रुः तथैव च ।रवि सोम अग्नि वपुषा निवासः पुण्य कर्मणाम् ॥४-४१-४३॥",
+      "transliteration": "śailūṣo grāmaṇīḥ śikṣaḥ śuko babhruḥ tathaiva ca ।ravi soma agni vapuṣā nivāsaḥ puṇya karmaṇām ॥4-41-43॥",
+      "translations": {
+        "english": "'Five ghandharva kings named Sailusha, Gramani, Sigru, Subhra and Babhru who have the radiance like the Sun reside there. It is the abode of those who have done meritorious deeds.They glow like Sun, Moon and Fire.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 41,
+      "verse": 44,
+      "sloka": "अन्ते पृथिव्या दुर्धर्षाः ततः स्वर्ग जितः स्थिताः ।ततः परम् न वः सेव्यः पितृ लोकः सुदारुणः ॥४-४१-४४॥",
+      "transliteration": "ante pṛthivyā durdharṣāḥ tataḥ svarga jitaḥ sthitāḥ ।tataḥ param na vaḥ sevyaḥ pitṛ lokaḥ sudāruṇaḥ ॥4-41-44॥",
+      "translations": {
+        "english": "'Five ghandharva kings named Sailusha, Gramani, Sigru, Subhra and Babhru who have the radiance like the Sun reside there. It is the abode of those who have done meritorious deeds.They glow like Sun, Moon and Fire.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 41,
+      "verse": 45,
+      "sloka": "राजधानी यमस्य एषा कष्टेन तमसा आवृता ।एतावत् एव युष्माभिः वीरा वानर पुंगवाः ।शक्यम् विचेतुम् गन्तुम् वा न अतो गतिमताम् गतिः ॥४-४१-४५॥",
+      "transliteration": "rājadhānī yamasya eṣā kaṣṭena tamasā āvṛtā ।etāvat eva yuṣmābhiḥ vīrā vānara puṁgavāḥ ।śakyam vicetum gantum vā na ato gatimatām gatiḥ ॥4-41-45॥",
+      "translations": {
+        "english": "'The divine people who have earned a place in heaven stay there at the end of their life on earth. Beyond, lies the dreadful world of deceased ancestors. It is not possible for you to enter that place.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 41,
+      "verse": 46,
+      "sloka": "सर्वम् एतत् समालोक्य यत् च अन्यत् अपि दृश्यते ।गतिम् विदित्वा वैदेह्याः संनिवर्तितम् अर्हथ ॥४-४१-४६॥",
+      "transliteration": "sarvam etat samālokya yat ca anyat api dṛśyate ।gatim viditvā vaidehyāḥ saṁnivartitam arhatha ॥4-41-46॥",
+      "translations": {
+        "english": "'O heroic monkeys that is the capital of Yama (god of death) covered with pitch darkness. You can go till that place. Beyond, there is no access for the earthlings.",
+        "hindi": "वहाँ पर अंधकार से आच्छोदित यमराज की राजधानी ९ संयमिनी पुरी ) है | वहाँ पर तुम क्षणमात्र भी नहीं ठहर सकते हे बानरश्रेष्ठो ! बस यहीं तक तुम लोग जा सकोगे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 41,
+      "verse": 47,
+      "sloka": "यः च मासान् निवृत्तो अग्रे दृष्टा सीत इति वक्ष्यति ।मत् तुल्य विभवो भोगैः सुखम् स विहरिष्यति ॥४-४१-४७॥",
+      "transliteration": "yaḥ ca māsān nivṛtto agre dṛṣṭā sīta iti vakṣyati ।mat tulya vibhavo bhogaiḥ sukham sa vihariṣyati ॥4-41-47॥",
+      "translations": {
+        "english": "'Ransack this and all other places you can see. You should search for the whereabouts of Vaidehi before you return.",
+        "hindi": "उन पाँच के नाम हैं शैलूष, प्र र बहा पर सूर्य, चन्द्रमा ओर अग्नि रहा करते हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 41,
+      "verse": 48,
+      "sloka": "ततः प्रियतरो न अस्ति मम प्राणात् विशेषतः ।कृत अपराधो बहुशो मम बन्धुः भविष्यति ॥४-४१-४८॥",
+      "transliteration": "tataḥ priyataro na asti mama prāṇāt viśeṣataḥ ।kṛta aparādho bahuśo mama bandhuḥ bhaviṣyati ॥4-41-48॥",
+      "translations": {
+        "english": "'He who returns in a month to announce Sita has been found will spend his life in luxury with as much prosperity as I do have.",
+        "hindi": "सीता जी का पता लगा कर तुम लोग लोट आओ । एक मास के भीतर जो मुझसे सीता के देखने का संवाद देगा बह मेरे सदृशा विभव पा कर, अनेक प्रकार के भोगां ऑर सुखा का उपभोग करता हुआ, विहार करेगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 41,
+      "verse": 49,
+      "sloka": "अमित बल पराक्रमा भवन्तोविपुल गुणेषु कुलेषु च प्रसूताः ।मनुज पति सुताम् यथा लभध्वम्तत् अधिगुणम् पुरुषार्थम् आरभध्वम् ॥४-४१-४९॥",
+      "transliteration": "amita bala parākramā bhavantovipula guṇeṣu kuleṣu ca prasūtāḥ ।manuja pati sutām yathā labhadhvamtat adhiguṇam puruṣārtham ārabhadhvam ॥4-41-49॥",
+      "translations": {
+        "english": "'None will be dearer to me than he. Even if he has made a mistake, he will be to me dear and near.",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

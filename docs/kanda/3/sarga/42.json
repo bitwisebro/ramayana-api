@@ -1,0 +1,499 @@
+{
+  "kanda": 3,
+  "kanda_name": "Aranya Kanda",
+  "kanda_name_sanskrit": "अरण्यकाण्डम्",
+  "sarga": 42,
+  "verses_count": 35,
+  "verses": [
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 42,
+      "verse": 1,
+      "sloka": "एवम् उक्त्वा तु परुषम् मारीचो रावणम् ततः ।गच्छावः इति अब्रवीत् दीनो भयात् रात्रिम् चर प्रभोः ॥३-४२-१॥",
+      "transliteration": "evam uktvā tu paruṣam mārīco rāvaṇam tataḥ ।gacchāvaḥ iti abravīt dīno bhayāt rātrim cara prabhoḥ ॥3-42-1॥",
+      "translations": {
+        "english": "Having thus spoken to the demonking, the distressed Maricha said out of fear, Let both of us go.",
+        "hindi": "अरण्यकाएड का इकतालौसवां सगै पूरा हुआ । हिचत्वारिशः सग; — एबसुक्त्वा तु वचनं मारीचो रावणा ततः | गच्छावेत्यब्रवीहीनो २ भयाद्वात्रिचरप्रभो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 42,
+      "verse": 2,
+      "sloka": "दृष्टाः च अहम् पुनः तेन शर चाप असि धारिणा ।मद्वधो उद्यत शस्त्रेण विनष्टम् जीवितम् च मे ॥३-४२-२॥",
+      "transliteration": "dṛṣṭāḥ ca aham punaḥ tena śara cāpa asi dhāriṇā ।madvadho udyata śastreṇa vinaṣṭam jīvitam ca me ॥3-42-2॥",
+      "translations": {
+        "english": "If that warrior Rama carrying bow, arrows and sword sees me once again he will raise his weapon to kill me, and I will cease to be.",
+        "hindi": "शो )२ दीन दौस्म्यमुपपाद्यति । \"कील लक लक लक कक सीसी लाज का सति कक न कक Se किन्तु यदि मेरे मारने को थबुर्बाश एबं खड्ग लिए हुए राम सुमे फिर दिखलाइ पड़े, तो सेरा प्राण गया हुआ ही ख़ममाना",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 42,
+      "verse": 3,
+      "sloka": "न हि रामम् पराक्रम्य जीवन् प्रति निवर्तते ।वर्तते प्रति रूपो असौ यम दण्ड हतस्य ते ॥३-४२-३॥",
+      "transliteration": "na hi rāmam parākramya jīvan prati nivartate ।vartate prati rūpo asau yama daṇḍa hatasya te ॥3-42-3॥",
+      "translations": {
+        "english": "No one who exhibits his heroism before Rama will come back alive. To you, already hit by Yama's staff, he is another form of the same Yama.",
+        "hindi": "क्योंकि कोई भी पुरुप रान के सामने जा, अपने पराक्रम से जीता जागता नहीं लौट सकता। क्योकि राम, यमद्णड के समान हैं । सो त ओर में दोनों ही मारे जाँयगे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 42,
+      "verse": 4,
+      "sloka": "किम् नु कर्तुम् मया शक्यम् एवम् त्वयि दुरात्मनि ।एष गच्छामि अहम् तात स्वस्ति ते अस्तु निशाचरः ॥३-४२-४॥",
+      "transliteration": "kim nu kartum mayā śakyam evam tvayi durātmani ।eṣa gacchāmi aham tāta svasti te astu niśācaraḥ ॥3-42-4॥",
+      "translations": {
+        "english": "What can I do if you remain evilminded? O dear demon, I am going. May your path be auspicious",
+        "hindi": "तुम जैसे ' दुरात्मा पर मेरा क्या वश हे । अस्तु, दवे तात ! हे निशाचर ! तेरा मङ्गल हो, ले में अब,चज्ञता हूँ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 42,
+      "verse": 5,
+      "sloka": "प्रहृष्टः तु अभवत् तेन वचनेन स राक्षसः ।परिष्वज्य सुसंश्लिष्टम् इदम् वचनम् अब्रवीत् ॥३-४२-५॥",
+      "transliteration": "prahṛṣṭaḥ tu abhavat tena vacanena sa rākṣasaḥ ।pariṣvajya susaṁśliṣṭam idam vacanam abravīt ॥3-42-5॥",
+      "translations": {
+        "english": "Ravana was so overwhelmed with joy to hear those words that he embraced him tightly and said:.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 42,
+      "verse": 6,
+      "sloka": "एतत् शौण्डीर्य - चौत्तिर्य -न्युक्तम् ते मत् च्छंद वश वर्तिनः ।इदानीम् असि मारीचः पूर्वम् अन्यो निशाचरः ॥३-४२-६॥",
+      "transliteration": "etat śauṇḍīrya - cauttirya -nyuktam te mat cchaṁda vaśa vartinaḥ ।idānīm asi mārīcaḥ pūrvam anyo niśācaraḥ ॥3-42-6॥",
+      "translations": {
+        "english": "Act according to my wish. It befits your valour. You were a different demon earlier. Now you are Maricha.",
+        "hindi": "है मारीच ! अव तूने वीरतायुक्त बात मेरे मन के अनुसार कहीं है । अब मैंने जाना कि, तू मारीच हे । पहिले तो मैं तुमे एक.साघारण राक्षस समझता था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 42,
+      "verse": 7,
+      "sloka": "आरुह्यताम् शीघ्रम् खगो रत्न विभूषितः ।मया सह रथो युक्तः पिशाच वदनैः खरैः ॥३-४२-७॥",
+      "transliteration": "āruhyatām śīghram khago ratna vibhūṣitaḥ ।mayā saha ratho yuktaḥ piśāca vadanaiḥ kharaiḥ ॥3-42-7॥",
+      "translations": {
+        "english": "Ascend quickly with me this chariot encrusted with gems and yoked with donkeys with devils' faces৷৷",
+        "hindi": "Fe 5 लिंक उन अब तू इस रत्नविभूषित और पिशाच-मुख खरो से युक्त रथ पर मेरे साथ सवार हो ले",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 42,
+      "verse": 8,
+      "sloka": "प्रलोभयित्वा वैदेहीम् यथा इष्टम् गन्तुम् अर्हसि ।ताम् शून्ये प्रसभम् सीताम् आनयिष्यामि मैथिलीम् ॥३-४२-८॥",
+      "transliteration": "pralobhayitvā vaidehīm yathā iṣṭam gantum arhasi ।tām śūnye prasabham sītām ānayiṣyāmi maithilīm ॥3-42-8॥",
+      "translations": {
+        "english": "You may go whereever you like after tempting Vaidehi. When the princess of Mithila is alone, I will bring her by force.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 42,
+      "verse": 9,
+      "sloka": "तथा इति उवाच एनम् रावणम् ताटका सुतः ।ततो रावण मारीचौ विमानम् इव तम् रथम् ॥३-४२-९॥",
+      "transliteration": "tathā iti uvāca enam rāvaṇam tāṭakā sutaḥ ।tato rāvaṇa mārīcau vimānam iva tam ratham ॥3-42-9॥",
+      "translations": {
+        "english": "Thereafter Ravana and Maricha ascended the chariot, which was like an aerial car, and quickly departed from that cluster of hermitages.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 42,
+      "verse": 10,
+      "sloka": "आरुह्य ययतुः शीघ्रम् तस्मात् आश्रम मण्डलात् ।तथैव तत्र पश्यन्तौ पत्तनानि वनानि च ॥३-४२-१०॥",
+      "transliteration": "āruhya yayatuḥ śīghram tasmāt āśrama maṇḍalāt ।tathaiva tatra paśyantau pattanāni vanāni ca ॥3-42-10॥",
+      "translations": {
+        "english": "And likewise, they went past towns, forests, mountains, streams, states and cities.",
+        "hindi": "जाते हुए उन दोनों ने रास्ते में । अनेक म्रामों, वनों, पतों नदियों राष्ट्रों और नगरों को देख!६$",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 42,
+      "verse": 11,
+      "sloka": "गिरीम् च सरिताः सर्वा राष्ट्राणि नगराणि च ।समेत्य दण्डक अरण्यम् राघवस्य आश्रमम् ततः ॥३-४२-११॥",
+      "transliteration": "girīm ca saritāḥ sarvā rāṣṭrāṇi nagarāṇi ca ।sametya daṇḍaka araṇyam rāghavasya āśramam tataḥ ॥3-42-11॥",
+      "translations": {
+        "english": "Ravana, king of the demons, accompanied by Maricha, then reached Dandaka forest and saw Rama's hermitage.",
+        "hindi": "ड [टिप्पशी--कतिपयपाश्चात्यलेखकों की अटकल हे कि प्राचीन काल में दक्षिण भारत में नगरादि न थे । किन्तु रावण की लङ्का से पञ्चबरी की यात्रा का विबरण पढ्ने से रामायण काल में दक्षिण भारत में अनेक समृद्धशालीन गरो का होना सिद्ध हे । ] सभेत्य दएडकारणयं राघवस्याश्रमं ततः। ददश सहमारीचो रावणो राक्षसायिप;",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 42,
+      "verse": 12,
+      "sloka": "ददर्श सह मरीचो रावणो राक्षसाधिपः ।अवतीर्य रथात् तस्मात् ततः कांचन भूषणात् ॥३-४२-१२॥",
+      "transliteration": "dadarśa saha marīco rāvaṇo rākṣasādhipaḥ ।avatīrya rathāt tasmāt tataḥ kāṁcana bhūṣaṇāt ॥3-42-12॥",
+      "translations": {
+        "english": "Then Ravana got off the chariot decorated with golden embellishments and, holding Maricha's hand, said:.",
+        "hindi": "कलोगों का अनुमान हे कि, वर्तमान्‌ के रहने का स्थान था | इनान है कि, वर्तमानू बंबई नगर का अपू हो परज नगर का टापू हो मारीच अवतीय रथात्तस्मात्ततः काञ्चनभूषणात्‌ । हस्ते शृहीत्वा मारीचं रावणो वाक्यमत्रवीत्‌",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 42,
+      "verse": 13,
+      "sloka": "हस्ते गृहीत्वा मारीचम् रावणो वाक्यम् अब्रवीत् ।एतत् राम आश्रम पदम् दृश्यते कदली वृतम् ॥३-४२-१३॥",
+      "transliteration": "haste gṛhītvā mārīcam rāvaṇo vākyam abravīt ।etat rāma āśrama padam dṛśyate kadalī vṛtam ॥3-42-13॥",
+      "translations": {
+        "english": "O friend here is the site of the hermitage surrounded by banana plants. Quickly get to work on the purpose for which we have come.",
+        "hindi": "केले के वृक्षं से घिरा हुआ यही राम का आश्रम है; अब हे मित्र! जिस काम के लिए हम लोग आए हैं, उसे झटपट कर डाल",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 42,
+      "verse": 14,
+      "sloka": "क्रियताम् तत् सखे शीघ्रम् यत् अर्थम् वयम् आगताः ।स रावण वचः श्रुत्वा मारीचो राक्षसः तदा ॥३-४२-१४॥",
+      "transliteration": "kriyatām tat sakhe śīghram yat artham vayam āgatāḥ ।sa rāvaṇa vacaḥ śrutvā mārīco rākṣasaḥ tadā ॥3-42-14॥",
+      "translations": {
+        "english": "Hearing Ravana's words, Maricha transformed himself into a deer and started moving at the entrance of Rama's hermitage.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 42,
+      "verse": 15,
+      "sloka": "मृगो भूत्वा आश्रम द्वारि रामस्य विचचार ह ।स तु रूपम् समास्थाय महत् अद्भुत दर्शनम् ॥३-४२-१५॥",
+      "transliteration": "mṛgo bhūtvā āśrama dvāri rāmasya vicacāra ha ।sa tu rūpam samāsthāya mahat adbhuta darśanam ॥3-42-15॥",
+      "translations": {
+        "english": "Maricha assumed the form of a wonderful and magnificent deer with his antlers studded with the most precious gems, his face dappled with luminous spots of white and black.",
+        "hindi": "डस समय मारीच ने अपना बड़ा अद्भुत सग का रूप बनाया । नीलम की तो उसके सांगों की नोंके थीं और मुख की रंगत कुछ सफेद और कुछ काली थी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 42,
+      "verse": 16,
+      "sloka": "मणिप्रवर शृंगाग्रः सित असित मुखाकृतिः ।रक्तपद्मोत्पल मुख इन्द्रनीलोत्पल श्रवाः ॥३-४२-१६॥",
+      "transliteration": "maṇipravara śṛṁgāgraḥ sita asita mukhākṛtiḥ ।raktapadmotpala mukha indranīlotpala śravāḥ ॥3-42-16॥",
+      "translations": {
+        "english": "The deer's face was like a pink lotus, his ears were like blue lotus. His neck slightly raised, his lips were like petals of blue lotus.",
+        "hindi": "मुख लाल कमल जैसा था ओर कान नील कमल के समान थे । गदेन कुछ उठी हुई और शरीर का निचला भाग नील कमल की तरह बैजनी रंग का था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 42,
+      "verse": 17,
+      "sloka": "किम्चित् अभ्युन्नत ग्रीव इन्द्रनील निभ उदरः ।मधूक निभ पार्श्वः च कंज किंजल्क सम्निभः ॥३-४२-१७॥",
+      "transliteration": "kimcit abhyunnata grīva indranīla nibha udaraḥ ।madhūka nibha pārśvaḥ ca kaṁja kiṁjalka samnibhaḥ ॥3-42-17॥",
+      "translations": {
+        "english": "His bright belly was shining like kunda flowers or the Moon or diamond. His flanks were like the golden madhuka flowers. comparable to the filaments of lotus. His hooves were like vaidurya, and his legs were slim and willshaped.",
+        "hindi": "उसका पेट नीले कमल,के रंग का और हीरा की तरह चस- कता था। महुआ के पुष्प के रंग की तरह उसकी दोनों कोखे दीं और कमल की केसर के रंग जैसे रंग की उसकी छनि थी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 42,
+      "verse": 18,
+      "sloka": "वैदूर्य संकाश खुरः तनु जंघः सुसंहतः ।इन्द्र आयुध सवर्णेन पुच्छेन ऊर्ध्वम् विराजितः ॥३-४२-१८॥",
+      "transliteration": "vaidūrya saṁkāśa khuraḥ tanu jaṁghaḥ susaṁhataḥ ।indra āyudha savarṇena pucchena ūrdhvam virājitaḥ ॥3-42-18॥",
+      "translations": {
+        "english": "His tail stood up looking magnificent like a colourful rainbow. Bedecked with various gems, he shone beautiful.",
+        "hindi": "पन्ने के रंग जैसे रंग के उसके खुर, उसकी जांघे पतली और सब सन्धियां भरी हुई थीं और इन्द्रधनुप जैसे रंग की पूछ को. वह्‌ ऊपर उठाए हुए था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 42,
+      "verse": 19,
+      "sloka": "मनोहर स्निग्ध वर्णो रत्नैः नाना विधैः वृतः ।क्षणेन राक्षसो जातो मृगः परम शोभनः ॥३-४२-१९॥",
+      "transliteration": "manohara snigdha varṇo ratnaiḥ nānā vidhaiḥ vṛtaḥ ।kṣaṇena rākṣaso jāto mṛgaḥ parama śobhanaḥ ॥3-42-19॥",
+      "translations": {
+        "english": "Transformed into a most beautiful deer in a moment, Maricha brightened the beautiful forest and Rama's hermitage.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 42,
+      "verse": 20,
+      "sloka": "वनम् प्रज्वलयन् रम्यम् राम आश्रम पदम् च तत् ।मनोहरम् दर्शनीयम् रूपम् कृत्वा स राक्षसः ॥३-४२-२०॥",
+      "transliteration": "vanam prajvalayan ramyam rāma āśrama padam ca tat ।manoharam darśanīyam rūpam kṛtvā sa rākṣasaḥ ॥3-42-20॥",
+      "translations": {
+        "english": "Transfigured into a beautiful, magnificent form painted with the colours of different minerals in order to tempt Sita, Maricha roamed all around the grassland.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 42,
+      "verse": 21,
+      "sloka": "प्रलोभनार्थम् वैदेह्या नाना धातु विचित्रितम् ।विचरन् गच्छते सम्यक् शाद्वलानि समंततः ॥३-४२-२१॥",
+      "transliteration": "pralobhanārtham vaidehyā nānā dhātu vicitritam ।vicaran gacchate samyak śādvalāni samaṁtataḥ ॥3-42-21॥",
+      "translations": {
+        "english": "Transfigured into a beautiful, magnificent form painted with the colours of different minerals in order to tempt Sita, Maricha roamed all around the grassland.",
+        "hindi": "प्रलोभनाथ वैदेह्या नानाधातुविचित्रितम्‌ । . बिचरन्‌ गच्छते तस्माच्छाद्दलानि समन्ततः ॥२१) वह, जानकी जी को लुभाने के लिए नाना प्रकार की धातुओं जैसे रंगों से विचित्र रूप धारण कर, हरी हरी दूब चरता हुआ, श्रीरामचन्द्र जी के आश्रम में चारों ओर घूमने लगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 42,
+      "verse": 22,
+      "sloka": "रोप्यैः बिन्दु शतैः चित्रो भूत्वा च प्रिय दर्शनः ।विटपीनाम् किसलयान् भक्षयन् विचचार ह ॥३-४२-२२॥",
+      "transliteration": "ropyaiḥ bindu śataiḥ citro bhūtvā ca priya darśanaḥ ।viṭapīnām kisalayān bhakṣayan vicacāra ha ॥3-42-22॥",
+      "translations": {
+        "english": "That deer with hundreds of silver spots on the body appeared enchanting and pleasing to the eyes while he wandered about nibbling the tender leaves of trees.",
+        "hindi": "चांदी के रंग की सैकड़ों बूँदों से विभूषित होने के कारण बह्‌ बहुत ही भला मालूम पड़ता था और वृक्षों के कोमल पत्तों को चरता हुआ वह घूम रहा था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 42,
+      "verse": 23,
+      "sloka": "कदली गृहकम् गत्वा कर्णिकारानि ततः ततः ।समाश्रयन् मंदगतिः सीता संदर्शनम् ततः ॥३-४२-२३॥",
+      "transliteration": "kadalī gṛhakam gatvā karṇikārāni tataḥ tataḥ ।samāśrayan maṁdagatiḥ sītā saṁdarśanam tataḥ ॥3-42-23॥",
+      "translations": {
+        "english": "The deer went wandering about the banana groves surrounding Rama's hermitage and moved slowly towards the karnikara trees in order to catch the attention of Sita.",
+        "hindi": "वद्द धीमी चाल से इधर उधर घूमता हुआ कभी केलों के अर कभी कनेर की कँजो की ओर जाता, जिससे सीता की दृष्टि उस पर पड़ जाय",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 42,
+      "verse": 24,
+      "sloka": "राजीव चित्र पृष्ठः स विरराज महामृगः ।राम आश्रम पद अभ्याशे विचचार यथा सुखम् ॥३-४२-२४॥",
+      "transliteration": "rājīva citra pṛṣṭhaḥ sa virarāja mahāmṛgaḥ ।rāma āśrama pada abhyāśe vicacāra yathā sukham ॥3-42-24॥",
+      "translations": {
+        "english": "That magnificent deer glittered with the colour of blue lotus on its back, wandered merrily in the vicinity of Rama's hermitage.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 42,
+      "verse": 25,
+      "sloka": "पुनर् गत्वा निवृत्तः च विचचार मृगोत्तमः ।गत्वा मुहूर्तम् त्वरया पुनः प्रति निवर्तते ॥३-४२-२५॥",
+      "transliteration": "punar gatvā nivṛttaḥ ca vicacāra mṛgottamaḥ ।gatvā muhūrtam tvarayā punaḥ prati nivartate ॥3-42-25॥",
+      "translations": {
+        "english": "The wonderful deer moved to and fro, now disappearing and now swiftly returning.",
+        "hindi": "वह सृगोत्तम बार बार आश्रम में जाता और वार बार लौट आता था। फिर कुछ ही देर बाद बह आश्रम में जाता और थोड़े ही देर बाद वहाँ से फिर लोट आता था। इस प्रकार वह्‌ सग आश्रमृ में घूस फिर रहा .था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 42,
+      "verse": 26,
+      "sloka": "विक्रीडन् च पुनर् भूमौ पुनर् एव निषीदति ।आश्रम द्वारम् आगम्य मृग यूथानि गच्छति ॥३-४२-२६॥",
+      "transliteration": "vikrīḍan ca punar bhūmau punar eva niṣīdati ।āśrama dvāram āgamya mṛga yūthāni gacchati ॥3-42-26॥",
+      "translations": {
+        "english": "The deer is now sporting, now sitting on the ground, now standing at the entrance of the hermitage and now running with the herds of deer.",
+        "hindi": "बह्‌ कुछ काल तक कुत्तेल करता और फिर क्षण भर विश्राम करता । फिर आश्रम के होर पर आ कर मूगों के झु डों भें चला जाता",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 42,
+      "verse": 27,
+      "sloka": "मृग यूथैः अनुगतः पुनर् एव निवर्तते ।सीता दर्शनम् आकांक्षन् राक्षसो मृगताम् गतः ॥३-४२-२७॥",
+      "transliteration": "mṛga yūthaiḥ anugataḥ punar eva nivartate ।sītā darśanam ākāṁkṣan rākṣaso mṛgatām gataḥ ॥3-42-27॥",
+      "translations": {
+        "english": "Followed by herds of deer and coming back to see Sita again and again, the deer cavorted and pranced and frisked in circles in a wonderful way.",
+        "hindi": "और गों के झु डों के पीछे पाळे हो लेता और फिर लौट आता था। उस राक्षस ने जानकी के दर्शन की इच्छा से मृग का रूप धारण किआ था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 42,
+      "verse": 28,
+      "sloka": "परिभ्रमति चित्राणि मण्डलानि विनिष्पतन् ।समुद्वीक्ष्य च सर्वे तम् मृगा ये अन्ये वनेचराः ॥३-४२-२८॥",
+      "transliteration": "paribhramati citrāṇi maṇḍalāni viniṣpatan ।samudvīkṣya ca sarve tam mṛgā ye anye vanecarāḥ ॥3-42-28॥",
+      "translations": {
+        "english": "Seeing the deer, other animals wandering in the forest come near and sniffing him run away in all ten directions.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 42,
+      "verse": 29,
+      "sloka": "उपगम्य समाघ्राय विद्रवन्ति दिशो दश ।राक्षसः सो अपि तान् वन्यान् मृगान् मृगवधे रतः ॥३-४२-२९॥",
+      "transliteration": "upagamya samāghrāya vidravanti diśo daśa ।rākṣasaḥ so api tān vanyān mṛgān mṛgavadhe rataḥ ॥3-42-29॥",
+      "translations": {
+        "english": "The demon who was interested in killing wild deer touched and felt them but did not kill or feed on them in order to hide his intention.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 42,
+      "verse": 30,
+      "sloka": "प्रच्छादनार्थम् भावस्य न भक्षयति संस्पृशन् ।तस्मिन् एव ततः काले वैदेही शुभलोचना ॥३-४२-३०॥",
+      "transliteration": "pracchādanārtham bhāvasya na bhakṣayati saṁspṛśan ।tasmin eva tataḥ kāle vaidehī śubhalocanā ॥3-42-30॥",
+      "translations": {
+        "english": "In the mean time Sita who, with her auspicious looks, was busy plucking flowers drew near the trees.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 42,
+      "verse": 31,
+      "sloka": "कुसुम अपचये व्यग्रा पादपान् अभ्यवर्तत ।कर्णिकारान् अशोकान् च चूताम् च मदिरेक्षणा ॥३-४२-३१॥",
+      "transliteration": "kusuma apacaye vyagrā pādapān abhyavartata ।karṇikārān aśokān ca cūtām ca madirekṣaṇā ॥3-42-31॥",
+      "translations": {
+        "english": "With her bewitching eyes and beautiful face, Sita, went about plucking flowers from karnikara, ashoka and mango trees.",
+        "hindi": "जानकी जी फूल तोड़ने में ब्यम्र कभी कनेर, कभी अशोक ओर कभी आम के वृक्षां के नीचे घम रही थीं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 42,
+      "verse": 32,
+      "sloka": "कुसुमानि अपचिन्वन्ती चचार रुचिरानना ।अनर्हा अरण्य वासस्य सा तम् रत्नमयम् मृगम् ॥३-४२-३२॥",
+      "transliteration": "kusumāni apacinvantī cacāra rucirānanā ।anarhā araṇya vāsasya sā tam ratnamayam mṛgam ॥3-42-32॥",
+      "translations": {
+        "english": "The great lady Sita, unworthy of dwelling in the forest, saw the wonderful deer decked with gems, with spots of pearls all over the body.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 42,
+      "verse": 33,
+      "sloka": "मुक्ता मणि विचित्र अंगम् ददर्श परम अंगना ।तम् वै रुचिर दंत ओष्ठम् रूप्य धातु तनू रुहम् ॥३-४२-३३॥",
+      "transliteration": "muktā maṇi vicitra aṁgam dadarśa parama aṁganā ।tam vai rucira daṁta oṣṭham rūpya dhātu tanū ruham ॥3-42-33॥",
+      "translations": {
+        "english": "A lady with beautiful teeth and lips, Sita saw the deer having silver and mineral coloured hair on the body. She gazed at the animal with wonder and joy and love.",
+        "hindi": "सुन्दर दाँतों ओर अधर वाली जानकी जी ने उस मणि मुक्ताआं से सर्वाङ्ग-विभूषित ओर रुपेहले रोओ से चमकते हुए सुरा को",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 42,
+      "verse": 34,
+      "sloka": "विस्मयात् उत्फुल्ल नयना स स्नेहम् समुदैक्षत ।स च ताम् राम दयिताम् पश्यन् मायामयो मृगः ॥३-४२-३४॥",
+      "transliteration": "vismayāt utphulla nayanā sa sneham samudaikṣata ।sa ca tām rāma dayitām paśyan māyāmayo mṛgaḥ ॥3-42-34॥",
+      "translations": {
+        "english": "That illusory deer saw Rama's wife and moved around wonderfully as if illuminating the forest with his radiance.",
+        "hindi": "आश्चय चकित हो बड़े प्यार से देखा । बह बनावटी हिरन भी श्रीराम चन्द्र की प्यारी जानकी को देखता रहा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 3,
+      "kanda_name": "Aranya Kanda",
+      "kanda_name_sanskrit": "अरण्यकाण्डम्",
+      "sarga": 42,
+      "verse": 35,
+      "sloka": "विचचार ततः तत्र दीपयन् इव तत् वनम् ।अदृष्ट पूर्वम् दृष्ट्वा तम् नाना रत्नमयम् मृगम् ।विस्मयम् परमम् सीता जगाम जनक आत्मजा ॥३-४२-३५॥",
+      "transliteration": "vicacāra tataḥ tatra dīpayan iva tat vanam ।adṛṣṭa pūrvam dṛṣṭvā tam nānā ratnamayam mṛgam ।vismayam paramam sītā jagāma janaka ātmajā ॥3-42-35॥",
+      "translations": {
+        "english": "Seeing such an unprecedented deer decorated with different gems, Sita, daughter of Janaka, stood amazed. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अरण्यकाण्डे द्विचत्वारिंशस्सर्गः।। Thus ends the fortysecond sarga of Aranyakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,597 @@
+{
+  "kanda": 4,
+  "kanda_name": "Kishkindha Kanda",
+  "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+  "sarga": 26,
+  "verses_count": 42,
+  "verses": [
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 26,
+      "verse": 1,
+      "sloka": "ततः शोक अभिसंतप्तम् सुग्रीवम् क्लिन्न वासनम् ।शाखा मृग महामात्राः परिवार्य उपतस्थिरे ॥४-२६-१॥",
+      "transliteration": "tataḥ śoka abhisaṁtaptam sugrīvam klinna vāsanam ।śākhā mṛga mahāmātrāḥ parivārya upatasthire ॥4-26-1॥",
+      "translations": {
+        "english": "Then the chiefs of the army of the monkeys surrounded Sugriva, who was overcome with grief and was still in wet clothes (since he had taken bath at the conclusion of the funeral rites) and waited.",
+        "hindi": "शोकरूपी अभि से सन्तापित और गोले वस्त्र पहिने खड़े हुए सु्री ब को संत्रीगण घेर कर खड़े हो गए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 26,
+      "verse": 2,
+      "sloka": "अभिगम्य महाबाहुम् रामम् अक्लिष्ट कारिणम् ।स्थिताः प्रांजलयः सर्वे पितामहम् इव ऋषयः ॥४-२६-२॥",
+      "transliteration": "abhigamya mahābāhum rāmam akliṣṭa kāriṇam ।sthitāḥ prāṁjalayaḥ sarve pitāmaham iva ṛṣayaḥ ॥4-26-2॥",
+      "translations": {
+        "english": "Just like sages stand before the creator Brahma, all the monkeys stood with folded hands before the longarmed Rama, the remover of sorrow.",
+        "hindi": "समस्त वानर लंबी भुजाओं वाले और सरलता से कार्य करने डाले श्रीरामचन्द्र जी के पास जा, उसी प्रकारं खड़े हुए, जिसः _ प्रकार ऋषिगण ब्रह्मा जी के षास जा और हाथ जोड़ कर खड़े होते हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 26,
+      "verse": 3,
+      "sloka": "ततः कांचन शैल आभः तरुण अर्क निभ आननः ।अब्रवीत् प्रांजलिर् वाक्यम् हनुमान् मारुत आत्मजः ॥४-२६-३॥",
+      "transliteration": "tataḥ kāṁcana śaila ābhaḥ taruṇa arka nibha ānanaḥ ।abravīt prāṁjalir vākyam hanumān māruta ātmajaḥ ॥4-26-3॥",
+      "translations": {
+        "english": "Hanuman, son of the Windgod, glowing like a golden mountain, whose face resembled the rising Sun addressed Rama with folded hands:",
+        "hindi": "तदनन्तर तरुण सूर्यं की तरह लाल मुख वाले और सुबणं पर्वत की तरह प्रकाशमान पवनतनय श्रीहनुमान जी हाथ जोड कर, श्रीरामचन्द्र जी से बोले",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 26,
+      "verse": 4,
+      "sloka": "भवत् प्रसादात् काकुत्स्थ पितृ पैतामहम् महत् ।वानराणाम् सुदंष्ट्राणाम् संपन्न बलशालिनाम् ॥४-२६-४॥",
+      "transliteration": "bhavat prasādāt kākutstha pitṛ paitāmaham mahat ।vānarāṇām sudaṁṣṭrāṇām saṁpanna balaśālinām ॥4-26-4॥",
+      "translations": {
+        "english": "'O Lord by your grace Sugriva inherited the ancestral kingdom which would have been otherwise difficult.",
+        "hindi": "डे राम आप की कृपा से.सुग्रीव ने, बड़े बड़े दांतों वाले ओर बड़े बली एवं महात्मा वानरों का अपने पिता पितामहादिको का यह राज्य जिसका मिलना दुर्लभ था, पाया है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 26,
+      "verse": 5,
+      "sloka": "महात्मानाम् सुदुष्प्रापम् प्राप्तम् राज्यम् इदम् प्रभो ।भवता समनुज्ञातः प्रविश्य नगरम् शुभम् ॥४-२६-५॥",
+      "transliteration": "mahātmānām suduṣprāpam prāptam rājyam idam prabho ।bhavatā samanujñātaḥ praviśya nagaram śubham ॥4-26-5॥",
+      "translations": {
+        "english": "'Permitted by your gracious self, he will enter the auspicious city along with his friends and perform his duties. He had his auspicious bath in fragrant waters with medicinal herbs as per tradition.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 26,
+      "verse": 6,
+      "sloka": "संविधास्यति कार्याणि सर्वाणि ससुहृत् गणः।स्नातो अयम् विविधैर् गन्धैर् औषधैः च यथा विधि ॥४-२६-६॥",
+      "transliteration": "saṁvidhāsyati kāryāṇi sarvāṇi sasuhṛt gaṇaḥ।snāto ayam vividhair gandhair auṣadhaiḥ ca yathā vidhi ॥4-26-6॥",
+      "translations": {
+        "english": "'Permitted by your gracious self, he will enter the auspicious city along with his friends and perform his duties. He had his auspicious bath in fragrant waters with medicinal herbs as per tradition.",
+        "hindi": "हे सोम्य ! में चोदह वर्षा तक ग्राम अथवा नगर के भीतर नहीं जा सकता | क्योंकि मुझे पिता की आज्ञा का पालन करना है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 26,
+      "verse": 7,
+      "sloka": "अर्चयिष्यति माल्यैः च रत्नैः च त्वाम् विशेषतः ।इमाम् गिरि गुहाम् रम्याम् अभिगन्तुम् त्वम् अर्हसि ॥४-२६-७॥",
+      "transliteration": "arcayiṣyati mālyaiḥ ca ratnaiḥ ca tvām viśeṣataḥ ।imām giri guhām ramyām abhigantum tvam arhasi ॥4-26-7॥",
+      "translations": {
+        "english": "'He wants to propitiate you first specially with garlands and gems. Pray enter this beautiful mountain cave for the pleasure of the monkeys and establish relationship with king Sugriva.'",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 26,
+      "verse": 8,
+      "sloka": "कुरुष्व स्वामि संबन्धम् वानरान् संप्रहर्षयन् ।एवम् उक्तो हनुमता राघवः पर वीरहा ॥४-२६-८॥",
+      "transliteration": "kuruṣva svāmi saṁbandham vānarān saṁpraharṣayan ।evam ukto hanumatā rāghavaḥ para vīrahā ॥4-26-8॥",
+      "translations": {
+        "english": "Requested by Hanuman who was skilful in conversation, wise Rama, slayer of enemies, replied:",
+        "hindi": "शत्रुहन्ता, अतिबुद्धिमान्‌ और वाक्यविशारद श्रीरामचन्द्र जी हनुमान जी के ये वचन सुन, उनसे बोले",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 26,
+      "verse": 9,
+      "sloka": "प्रत्युवाच हनूमन्तम् बुद्धिमान् वाक्य कोविदः ।चतुर्दश समाः सौम्य ग्रामम् वा यदि वा पुरम् ॥४-२६-९॥",
+      "transliteration": "pratyuvāca hanūmantam buddhimān vākya kovidaḥ ।caturdaśa samāḥ saumya grāmam vā yadi vā puram ॥4-26-9॥",
+      "translations": {
+        "english": "'Dear Hanuman In obedience to my father's command I should not enter any village or city for fourteen years.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 26,
+      "verse": 10,
+      "sloka": "न प्रवेक्ष्यामि हनुमन् पितुर् निर्देश पालकः ।सुसमृद्धाम् गुहाम् दिव्याम् सुग्रीवो वानरर्षभः ॥४-२६-१०॥",
+      "transliteration": "na pravekṣyāmi hanuman pitur nirdeśa pālakaḥ ।susamṛddhām guhām divyām sugrīvo vānararṣabhaḥ ॥4-26-10॥",
+      "translations": {
+        "english": "'Let Sugriva enter the beautiful prosperous cavern (Kishkinda) and be installed by you as king with due rituals.'",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 26,
+      "verse": 11,
+      "sloka": "प्रविष्टो विधिवत् वीरः क्षिप्रम् राज्ये अभिषिच्यताम् ।एवम् उक्त्वा हनूमन्तम् रामः सुग्रीवम् अब्रवीत् ॥४-२६-११॥",
+      "transliteration": "praviṣṭo vidhivat vīraḥ kṣipram rājye abhiṣicyatām ।evam uktvā hanūmantam rāmaḥ sugrīvam abravīt ॥4-26-11॥",
+      "translations": {
+        "english": "Having thus spoken to Hanuman, Rama who knew etiquette addressed mighty Sugriva, endowed with wisdom:",
+        "hindi": "श्रीरामचन्द्र जी हनुमान जी से यह कह कर, फिर ; रा ग » फिर सुग्रीव से कहने लगे, हे वीर ! देखो तुम व्यवहारकुशल , हो, अक वाळी \"9 क पाठमा hy त त उदार एवं बलविक्रमशाली वीर अंगद को युवराज बनाओ। क्योंकि यह तुम्हारे बड़े भाई का अ्येष्ठपुत्र है और पराक्रस में तुम्हारे ही सश है.",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 26,
+      "verse": 12,
+      "sloka": "वृत्तज्ञो वृत्त संपन्नम् उदार बल विक्रमम् ।इमम् अपि अंगदम् वीरम् यौवराज्ये अभिषेचय ॥४-२६-१२॥",
+      "transliteration": "vṛttajño vṛtta saṁpannam udāra bala vikramam ।imam api aṁgadam vīram yauvarājye abhiṣecaya ॥4-26-12॥",
+      "translations": {
+        "english": "'O hero consecrate Angada as heirapparent since he deserves it as the eldest son of your brother, a noble soul and equal to you in prowess.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 26,
+      "verse": 13,
+      "sloka": "ज्येष्ठस्य हि सुतो ज्येष्ठः सदृशो विक्रमेण च ।अंगदो अयम् अदीनात्मा यौवराज्यस्य भाजनम् ॥४-२६-१३॥",
+      "transliteration": "jyeṣṭhasya hi suto jyeṣṭhaḥ sadṛśo vikrameṇa ca ।aṁgado ayam adīnātmā yauvarājyasya bhājanam ॥4-26-13॥",
+      "translations": {
+        "english": "'O hero consecrate Angada as heirapparent since he deserves it as the eldest son of your brother, a noble soul and equal to you in prowess.",
+        "hindi": "र वड़ा उत्साही हे ओर युवराज होने योग्य है “देखो वषा ऋतु का थह प्रथम मास श्रावण हे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 26,
+      "verse": 14,
+      "sloka": "पूर्वो अयम् वार्षिको मासः श्रावणः सलिल आगमः ।प्रवृत्ताः सौम्य चत्वारो मासा वार्षिक संज्ञिताः ॥४-२६-१४॥",
+      "transliteration": "pūrvo ayam vārṣiko māsaḥ śrāvaṇaḥ salila āgamaḥ ।pravṛttāḥ saumya catvāro māsā vārṣika saṁjñitāḥ ॥4-26-14॥",
+      "translations": {
+        "english": "'O noble Sugriva the four months from now will be rainy season. This is Sravana, the first month of the season in which rain is expected to start pouring.",
+        "hindi": "प्त सोम्य चत्वारो मासा वार्पिकसंज्ञिका: । ` नायशुद्योगसमयः प्रविश त्वं पुरी शुभाम्‌ ॥१४४ ओर चोमासे के चार मास होते हैं यह प्रसिद्ध ही है।इस समय सीता जी के खोजने का काम नहीं हो सकता । अतः तुमः: किष्किन्धा में जाओ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 26,
+      "verse": 15,
+      "sloka": "न अयम् उद्योग समयः प्रविश त्वम् पुरीम् शुभाम् ।अस्मिन् वत्स्यामि अहम् सौम्य पर्वते सह लक्ष्मणः ॥४-२६-१५॥",
+      "transliteration": "na ayam udyoga samayaḥ praviśa tvam purīm śubhām ।asmin vatsyāmi aham saumya parvate saha lakṣmaṇaḥ ॥4-26-15॥",
+      "translations": {
+        "english": "'O goodnatured Sugriva this is not a suitable time for any endeavour. Go to the auspicious capital city of Kishkinda and I will reside on the mountain with Lakshmana.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 26,
+      "verse": 16,
+      "sloka": "इयम् गिरि गुहा रम्या विशाला युक्त मारुता ।प्रभूत सलिला सौम्य प्रभूत कमल उत्पला ॥४-२६-१६॥",
+      "transliteration": "iyam giri guhā ramyā viśālā yukta mārutā ।prabhūta salilā saumya prabhūta kamala utpalā ॥4-26-16॥",
+      "translations": {
+        "english": "'Dear Sugriva this cavern of the mountain is large and airy. It has abundant water resources with lotuses and lilies.",
+        "hindi": "इसके पाल,ही बहुत जलयुक्त और खिले. हुए कमल के.कूलॉ से युक्त जलाशय भी है । जव कार्तिक मासःखगे, तब. तुम सवर के-चध के लिए यत्न करना",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 26,
+      "verse": 17,
+      "sloka": "कार्तिके समनुप्राप्ते त्वम् रावण वधे यत ।एष नः समयः सौम्य प्रविश त्वम् स्वम् आलयम् ॥४-२६-१७॥",
+      "transliteration": "kārtike samanuprāpte tvam rāvaṇa vadhe yata ।eṣa naḥ samayaḥ saumya praviśa tvam svam ālayam ॥4-26-17॥",
+      "translations": {
+        "english": "'Enter the city and get yourself installed and cheer your friends. Make all arrangement for killing Ravana when the month of Kartika begins as it is the proper time (for the purpose).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 26,
+      "verse": 18,
+      "sloka": "अभिषिंचस्व राज्ये च सुहृदः संप्रहर्षय ।इति राम अभ्यनुज्ञातः सुग्रीवो वानरर्षभः ॥४-२६-१८॥",
+      "transliteration": "abhiṣiṁcasva rājye ca suhṛdaḥ saṁpraharṣaya ।iti rāma abhyanujñātaḥ sugrīvo vānararṣabhaḥ ॥4-26-18॥",
+      "translations": {
+        "english": "Thus permitted by Rama , Sugriva, lord of the monkeys entered the beautiful city of Kishkinda (once) ruled by Vali.",
+        "hindi": "जब श्रीराम ने इस प्रकार आज्ञा दी, तब वानरराज सुग्रीव बलि की रमणीक राजधानी किष्किन्धा पुरी में गया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 26,
+      "verse": 19,
+      "sloka": "प्रविवेश पुरीम् रम्याम् किष्किंधाम् वालि पालिताम् ।तम् वानर सहस्राणि प्रविष्टम् वानर ईश्वरम् ॥४-२६-१९॥",
+      "transliteration": "praviveśa purīm ramyām kiṣkiṁdhām vāli pālitām ।tam vānara sahasrāṇi praviṣṭam vānara īśvaram ॥4-26-19॥",
+      "translations": {
+        "english": "Thousands of monkeys entered the city of Kishkinda along with their king, and stood in attendance everywhere.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 26,
+      "verse": 20,
+      "sloka": "अभिवार्य प्रहृष्टानि सर्वतः प्लवगेश्वरम् ।ततः प्रकृतयः सर्वा दृष्ट्वा हरि गण ईश्वरम् ॥४-२६-२०॥",
+      "transliteration": "abhivārya prahṛṣṭāni sarvataḥ plavageśvaram ।tataḥ prakṛtayaḥ sarvā dṛṣṭvā hari gaṇa īśvaram ॥4-26-20॥",
+      "translations": {
+        "english": "Then all the subjects of the city collected together, prostrated to the chief of the monkey clan with their forehead touching the ground (as a mark of respect) and sat down.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 26,
+      "verse": 21,
+      "sloka": "प्रणम्य मूर्ध्ना पतिता वसुधायाम् समाहिताः ।सुग्रीवः प्रकृतीः सर्वाः संभाष्य उत्थाप्य वीर्यवान् ॥४-२६-२१॥",
+      "transliteration": "praṇamya mūrdhnā patitā vasudhāyām samāhitāḥ ।sugrīvaḥ prakṛtīḥ sarvāḥ saṁbhāṣya utthāpya vīryavān ॥4-26-21॥",
+      "translations": {
+        "english": "Asking the monkeys to rise to their feet, the mighty and powerful Sugriva entered the inner chambers of his brother.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 26,
+      "verse": 22,
+      "sloka": "भ्रातुर् अंतः पुरम् सौम्यम् प्रविवेश महाबलः ।प्रविष्टम् भीम विक्रांतम् सुग्रीवम् वानरर्षभम् ॥४-२६-२२॥",
+      "transliteration": "bhrātur aṁtaḥ puram saumyam praviveśa mahābalaḥ ।praviṣṭam bhīma vikrāṁtam sugrīvam vānararṣabham ॥4-26-22॥",
+      "translations": {
+        "english": "With Sugriva,the lord of the monkeys, returned to Kishkinda, his kith and kin coronated him just as the gods consecrated the thousandeyed Indra.",
+        "hindi": "» पाठान्तरे-झवगेश्‍वरम्‌ ` क ,2ल कूट IN”: षड्विशः सगः २४३ वान रश्रेऽठ जम्‌ रनवास' से निकले, तब' उनके सुहृदों ने उनका राज्याभिपेक उसी प्रकार किआ, जिल प्रकार देवता लोग इन्द्र का किआ करते हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 26,
+      "verse": 23,
+      "sloka": "अभ्यषिंचंत सुहृदः सहस्राक्षम् इव अमराः ।तस्य पाण्डुरम् आजह्रुः छत्रम् हेम परिष्कृतम् ॥४-२६-२३॥",
+      "transliteration": "abhyaṣiṁcaṁta suhṛdaḥ sahasrākṣam iva amarāḥ ।tasya pāṇḍuram ājahruḥ chatram hema pariṣkṛtam ॥4-26-23॥",
+      "translations": {
+        "english": "The monkeys brought a white canopy decorated with gold and two chamaras with glorious golden staff. They also brought jewels, all kinds of medicinal herbs, sprouts, sap from trees, white flowers and white clothes, unguents, garlands of fragrant lotuses that grow on land and water, heavently sandal, fragrants of different kinds, goldcoloured paddy, honey of priyanga, curds, tiger skin and sandals made of boar skin. Then sixteen beautiful, cheerful females appeared with unguent, gorochana mixed with red arsenic (used for putting tilaka on the forehead).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 26,
+      "verse": 24,
+      "sloka": "शुक्ले च वाल व्यजने हेम दण्डे यशस्करे ।तथा सर्वाणि रत्नानि सर्व बीज औषधानि च ॥४-२६-२४॥",
+      "transliteration": "śukle ca vāla vyajane hema daṇḍe yaśaskare ।tathā sarvāṇi ratnāni sarva bīja auṣadhāni ca ॥4-26-24॥",
+      "translations": {
+        "english": "The monkeys brought a white canopy decorated with gold and two chamaras with glorious golden staff. They also brought jewels, all kinds of medicinal herbs, sprouts, sap from trees, white flowers and white clothes, unguents, garlands of fragrant lotuses that grow on land and water, heavently sandal, fragrants of different kinds, goldcoloured paddy, honey of priyanga, curds, tiger skin and sandals made of boar skin. Then sixteen beautiful, cheerful females appeared with unguent, gorochana mixed with red arsenic (used for putting tilaka on the forehead).",
+        "hindi": "तथा सर्वाणि रत्नानि सर्ववीजोपथारपि । ओर अनेक प्रकार व रत्न, सव प्रकार के बीज, सब औष- धियां, चोर वाले व्रक्षा के अङ्कुर और तरह तरह के फूल मी. एकत्र किए गए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 26,
+      "verse": 25,
+      "sloka": "स क्षीराणाम् च वृक्षाणाम् प्ररोहान् कुसुमानि च ।शुक्लानि चैव वस्त्राणि श्वेतम् चैव अनुलेपनम् ॥४-२६-२५॥",
+      "transliteration": "sa kṣīrāṇām ca vṛkṣāṇām prarohān kusumāni ca ।śuklāni caiva vastrāṇi śvetam caiva anulepanam ॥4-26-25॥",
+      "translations": {
+        "english": "The monkeys brought a white canopy decorated with gold and two chamaras with glorious golden staff. They also brought jewels, all kinds of medicinal herbs, sprouts, sap from trees, white flowers and white clothes, unguents, garlands of fragrant lotuses that grow on land and water, heavently sandal, fragrants of different kinds, goldcoloured paddy, honey of priyanga, curds, tiger skin and sandals made of boar skin. Then sixteen beautiful, cheerful females appeared with unguent, gorochana mixed with red arsenic (used for putting tilaka on the forehead).",
+        "hindi": "सफेद वस्न, कपू रादिक. सफेद उबट़न, सुगन्धियुक्त पुष्पो के हार, गुलाब के फूल, दिष्य चन्दन, दिव्य सुगन्धियुक् वस्तुएँ, अचत, प्रियंगु, मघु, सरसों, दद्दी, व्याघचम, शूकर के चाम के जूने # पाठन्तरे--“श्रधताञ्जात'? | ४४४ किश्किन्धि समालम्भन नाम का अनुलेपन विशेष, गोरोचन, मैनसिल आदि ल्ञामग्री अभिषेक के लिए एकत्र की गई",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 26,
+      "verse": 26,
+      "sloka": "सुगंधीनि च माल्यानि स्थलजानि अंबुजानि च ।चन्दनानि च दिव्यानि गन्धाम् च विविधान् बहून् ॥४-२६-२६॥",
+      "transliteration": "sugaṁdhīni ca mālyāni sthalajāni aṁbujāni ca ।candanāni ca divyāni gandhām ca vividhān bahūn ॥4-26-26॥",
+      "translations": {
+        "english": "The monkeys brought a white canopy decorated with gold and two chamaras with glorious golden staff. They also brought jewels, all kinds of medicinal herbs, sprouts, sap from trees, white flowers and white clothes, unguents, garlands of fragrant lotuses that grow on land and water, heavently sandal, fragrants of different kinds, goldcoloured paddy, honey of priyanga, curds, tiger skin and sandals made of boar skin. Then sixteen beautiful, cheerful females appeared with unguent, gorochana mixed with red arsenic (used for putting tilaka on the forehead).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 26,
+      "verse": 27,
+      "sloka": "अक्षतम् जात रूपम् च प्रियंगु मधु सर्पिषी ।दधि चर्म च वैयाघ्रम् परार्ध्ये च अपि उपानहौ ॥४-२६-२७॥",
+      "transliteration": "akṣatam jāta rūpam ca priyaṁgu madhu sarpiṣī ।dadhi carma ca vaiyāghram parārdhye ca api upānahau ॥4-26-27॥",
+      "translations": {
+        "english": "The monkeys brought a white canopy decorated with gold and two chamaras with glorious golden staff. They also brought jewels, all kinds of medicinal herbs, sprouts, sap from trees, white flowers and white clothes, unguents, garlands of fragrant lotuses that grow on land and water, heavently sandal, fragrants of different kinds, goldcoloured paddy, honey of priyanga, curds, tiger skin and sandals made of boar skin. Then sixteen beautiful, cheerful females appeared with unguent, gorochana mixed with red arsenic (used for putting tilaka on the forehead).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 26,
+      "verse": 28,
+      "sloka": "समालंभनम् आदाय गोरोचनम् मनः शिलाम् ।आजग्मुः तत्र मुदिता वराः कन्याः च षोडश ॥४-२६-२८॥",
+      "transliteration": "samālaṁbhanam ādāya gorocanam manaḥ śilām ।ājagmuḥ tatra muditā varāḥ kanyāḥ ca ṣoḍaśa ॥4-26-28॥",
+      "translations": {
+        "english": "The monkeys brought a white canopy decorated with gold and two chamaras with glorious golden staff. They also brought jewels, all kinds of medicinal herbs, sprouts, sap from trees, white flowers and white clothes, unguents, garlands of fragrant lotuses that grow on land and water, heavently sandal, fragrants of different kinds, goldcoloured paddy, honey of priyanga, curds, tiger skin and sandals made of boar skin. Then sixteen beautiful, cheerful females appeared with unguent, gorochana mixed with red arsenic (used for putting tilaka on the forehead).",
+        "hindi": "बरस ह कन्याएँ पी हुईं अभिषेकस्थल ऐकर सुलक्षण युक्त सोलह कन्याएं प्रसन्न होती हुई अभिपेः है आई करत इन वानरों ने यथाविधि अभिषेक करने के लिए (सें. बस्यों और भक्त्य पदार्थों से (अभिषेक कृत्य कराने के लिए आए हुए) ब्राह्मण को सन्तुष्ट किआ । मंत्र जानने वाले ब्राह्मण, वेदी वर'कुश बिल्ला कर ओर अग्नि प्रज्ज्जलित कर, मंत्रों से पवित्र हवि- व्याग की आहुति देने लगे । जब हवन समाप्त हुआ, तब मनोहर हुजणे भूषित बिछौनों से युक्त, चित्र और मालाओं से सुशोभित शसशीय भबन की अटारी पर श्रे्ठसिह्वासन पर, मंत्रों से विधि- (खे, पूर्वे को मुख करवा, सुग्रीव को बैठाया .",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 26,
+      "verse": 29,
+      "sloka": "ततः ते वानर श्रेष्ठम् अभिषेक्तुम् यथा विधि ।रत्नैर् वस्त्रैः च भक्ष्यैः च तोषयित्वा द्विजर्षभान् ॥४-२६-२९॥",
+      "transliteration": "tataḥ te vānara śreṣṭham abhiṣektum yathā vidhi ।ratnair vastraiḥ ca bhakṣyaiḥ ca toṣayitvā dvijarṣabhān ॥4-26-29॥",
+      "translations": {
+        "english": "Then they duly propitiated the brahmins, offering them gifts of gems, clothes and eatables.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 26,
+      "verse": 30,
+      "sloka": "ततः कुश परिस्तीर्णम् समिद्धम् जात वेदसम् ।मंत्र पूतेन हविषा हुत्वा मंत्रविदो जनाः ॥४-२६-३०॥",
+      "transliteration": "tataḥ kuśa paristīrṇam samiddham jāta vedasam ।maṁtra pūtena haviṣā hutvā maṁtravido janāḥ ॥4-26-30॥",
+      "translations": {
+        "english": "Then the priests (people who recite Vedic hymns) strew around kusa grass, kindled sacred fire with recitation of mantras and made offerings of havis into the fire.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 26,
+      "verse": 31,
+      "sloka": "ततो हेम प्रतिष्ठाने वर आस्तरण संवृते ।प्रासाद शिखरे रम्ये चित्र माल्य उपशोभिते ॥४-२६-३१॥",
+      "transliteration": "tato hema pratiṣṭhāne vara āstaraṇa saṁvṛte ।prāsāda śikhare ramye citra mālya upaśobhite ॥4-26-31॥",
+      "translations": {
+        "english": "Then Sugriva was seated facing the east on a golden throne with fine coverings on top of the mansion decorated with multicoloured garlands. As per tradition, sacred waters collected from rivers and rivulets and stored in golden pots was aportioned in accordance with the procedure ordained by the sages in sastras. At the appropriate time the pure and fragrant water was poured by Gaja, Gavaya, Sarabha, Mainda, Dvivida, Hanumanta, Jambavan and Nala on Sugriva, the bull among monkeys through horns of bulls and jars of gold, like the eight Vasus bathed the thousandeyed Indra. Thus they performed the consecration.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 26,
+      "verse": 32,
+      "sloka": "प्राङ्मुखम् विधिवत् मंत्रैः स्थापयित्वा वर आसने ।नदी नदेभ्यः संहृत्य तीर्थेभ्यः च समंततः ॥४-२६-३२॥",
+      "transliteration": "prāṅmukham vidhivat maṁtraiḥ sthāpayitvā vara āsane ।nadī nadebhyaḥ saṁhṛtya tīrthebhyaḥ ca samaṁtataḥ ॥4-26-32॥",
+      "translations": {
+        "english": "Then Sugriva was seated facing the east on a golden throne with fine coverings on top of the mansion decorated with multicoloured garlands. As per tradition, sacred waters collected from rivers and rivulets and stored in golden pots was aportioned in accordance with the procedure ordained by the sages in sastras. At the appropriate time the pure and fragrant water was poured by Gaja, Gavaya, Sarabha, Mainda, Dvivida, Hanumanta, Jambavan and Nala on Sugriva, the bull among monkeys through horns of bulls and jars of gold, like the eight Vasus bathed the thousandeyed Indra. Thus they performed the consecration.",
+        "hindi": "फिर नदियों, नदों, तीर्था और समुद्रों से वानरोत्तम द्वारा लाए हुए विमल जलों को सोनों के घढ़ों में भर दिआ। फिर बैल के धींगों में तथा सोने के कलसों में उन्हे भर कर, महर्थिप्रोक्त शास्त्र: की विधि से, गज, गवाक्ष, गत्य, शरभ, गन्धमादन, मैंद, द्विविदः हनुमान और जाम्बवान ने विमल सुगन्धियुक्त जल सुग्रीव को. बेसे.ही स्नान कराये, जैसे अष्टवसु इन्द्र को स्नान करवाते हैं। जब इस प्रकार सुग्रीव का अभिषेक हो गया, तव हजारा वानरपुङ्गवः हर्षित हो आनन्दथ्वनि करने लगे । तदनन्तर वानरश्रेष्ठ सुग्रीव नेः रामचन्द्र जी की आज्ञा के अनुसार",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 26,
+      "verse": 33,
+      "sloka": "आहृत्य च समुद्रेभ्यः सर्वेभ्यो वानरर्षभाः ।अपः कनक कुंभेषु निधाय विमलम् जलम् ॥४-२६-३३॥",
+      "transliteration": "āhṛtya ca samudrebhyaḥ sarvebhyo vānararṣabhāḥ ।apaḥ kanaka kuṁbheṣu nidhāya vimalam jalam ॥4-26-33॥",
+      "translations": {
+        "english": "Then Sugriva was seated facing the east on a golden throne with fine coverings on top of the mansion decorated with multicoloured garlands. As per tradition, sacred waters collected from rivers and rivulets and stored in golden pots was aportioned in accordance with the procedure ordained by the sages in sastras. At the appropriate time the pure and fragrant water was poured by Gaja, Gavaya, Sarabha, Mainda, Dvivida, Hanumanta, Jambavan and Nala on Sugriva, the bull among monkeys through horns of bulls and jars of gold, like the eight Vasus bathed the thousandeyed Indra. Thus they performed the consecration.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 26,
+      "verse": 34,
+      "sloka": "शुभैः वृषभ शृन्गैः च कलशैः च एव कांचनैः ।शास्त्र दृष्टेन विधिना महर्षि विहितेन च ॥४-२६-३४॥",
+      "transliteration": "śubhaiḥ vṛṣabha śṛngaiḥ ca kalaśaiḥ ca eva kāṁcanaiḥ ।śāstra dṛṣṭena vidhinā maharṣi vihitena ca ॥4-26-34॥",
+      "translations": {
+        "english": "Then Sugriva was seated facing the east on a golden throne with fine coverings on top of the mansion decorated with multicoloured garlands. As per tradition, sacred waters collected from rivers and rivulets and stored in golden pots was aportioned in accordance with the procedure ordained by the sages in sastras. At the appropriate time the pure and fragrant water was poured by Gaja, Gavaya, Sarabha, Mainda, Dvivida, Hanumanta, Jambavan and Nala on Sugriva, the bull among monkeys through horns of bulls and jars of gold, like the eight Vasus bathed the thousandeyed Indra. Thus they performed the consecration.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 26,
+      "verse": 35,
+      "sloka": "गजो गवाक्षो गवयः शरभो गंधमादनः ।मैन्दः च द्विविदः चैव हनूमान् जांबवान् तथा ॥४-२६-३५॥",
+      "transliteration": "gajo gavākṣo gavayaḥ śarabho gaṁdhamādanaḥ ।maindaḥ ca dvividaḥ caiva hanūmān jāṁbavān tathā ॥4-26-35॥",
+      "translations": {
+        "english": "Then Sugriva was seated facing the east on a golden throne with fine coverings on top of the mansion decorated with multicoloured garlands. As per tradition, sacred waters collected from rivers and rivulets and stored in golden pots was aportioned in accordance with the procedure ordained by the sages in sastras. At the appropriate time the pure and fragrant water was poured by Gaja, Gavaya, Sarabha, Mainda, Dvivida, Hanumanta, Jambavan and Nala on Sugriva, the bull among monkeys through horns of bulls and jars of gold, like the eight Vasus bathed the thousandeyed Indra. Thus they performed the consecration.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 26,
+      "verse": 36,
+      "sloka": "अभ्यषिंचंत सुग्रीवम् प्रसन्नेन सुगंधिना ।सलिलेन सहस्राक्षम् वसवो वासवम् यथा ॥४-२६-३६॥",
+      "transliteration": "abhyaṣiṁcaṁta sugrīvam prasannena sugaṁdhinā ।salilena sahasrākṣam vasavo vāsavam yathā ॥4-26-36॥",
+      "translations": {
+        "english": "Then Sugriva was seated facing the east on a golden throne with fine coverings on top of the mansion decorated with multicoloured garlands. As per tradition, sacred waters collected from rivers and rivulets and stored in golden pots was aportioned in accordance with the procedure ordained by the sages in sastras. At the appropriate time the pure and fragrant water was poured by Gaja, Gavaya, Sarabha, Mainda, Dvivida, Hanumanta, Jambavan and Nala on Sugriva, the bull among monkeys through horns of bulls and jars of gold, like the eight Vasus bathed the thousandeyed Indra. Thus they performed the consecration.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 26,
+      "verse": 37,
+      "sloka": "अभिषिक्ते तु सुग्रीवे सर्वे वानर पुंगवाः ।प्रचुक्रुशुर् महात्मानो हृष्टाः शत सहस्रशः ॥४-२६-३७॥",
+      "transliteration": "abhiṣikte tu sugrīve sarve vānara puṁgavāḥ ।pracukruśur mahātmāno hṛṣṭāḥ śata sahasraśaḥ ॥4-26-37॥",
+      "translations": {
+        "english": "As Sugriva was ceremoniously consecrated, thousands of monkeys rejoiced and shrieked out of joy.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 26,
+      "verse": 38,
+      "sloka": "रामस्य तु वचः कुर्वन् सुग्रीवो हरि पुंगवः ।अंगदम् संपरिष्वज्य यौवराज्ये अभिषेचयत् ॥४-२६-३८॥",
+      "transliteration": "rāmasya tu vacaḥ kurvan sugrīvo hari puṁgavaḥ ।aṁgadam saṁpariṣvajya yauvarājye abhiṣecayat ॥4-26-38॥",
+      "translations": {
+        "english": "In obedience to Rama's instruction, Sugriva, lord of the monkeys installed Angada as prince regent and embraced him.",
+        "hindi": "ओर अंगद को गने लगा युवराजपद्‌ पर प्रतिष्ठित किया । अंगद को युवराज पद पर अभिषिक्त देख और अंगद पर दख्य 'दिखलाई, सब बानर “वाह वाह बाह”? कह कर, महात्मा सुग्रीच की बड़ाई करने लगे । तदनन्तर वे सब प्रसन्न हो महात्मा श्रीराम न्द्र और लक्ष्मण को बार बार स्तुति करने लगे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 26,
+      "verse": 39,
+      "sloka": "अंगदे च अभिषिक्ते तु सानुक्रोशाः प्लवंगमाः ।साधु साधु इति सुग्रीवम् महात्मानो हि अपूजयन् ॥४-२६-३९॥",
+      "transliteration": "aṁgade ca abhiṣikte tu sānukrośāḥ plavaṁgamāḥ ।sādhu sādhu iti sugrīvam mahātmāno hi apūjayan ॥4-26-39॥",
+      "translations": {
+        "english": "The great monkeys concerned hailed Sugriva's action saying, 'well done, well done' on the installation of Angada.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 26,
+      "verse": 40,
+      "sloka": "रामम् च एव महात्मानम् लक्ष्मणम् च पुनः पुनः ।प्रीताः च तुष्टुवुः सर्वे तादृशे तत्र वर्तिनि ॥४-२६-४०॥",
+      "transliteration": "rāmam ca eva mahātmānam lakṣmaṇam ca punaḥ punaḥ ।prītāḥ ca tuṣṭuvuḥ sarve tādṛśe tatra vartini ॥4-26-40॥",
+      "translations": {
+        "english": "As Sugriva and Angada were installed, all the monkeys were highly pleased and praised the noblehearted Rama and Lakshmana again and again.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 26,
+      "verse": 41,
+      "sloka": "हृष्ट पुष्ट जन आकीर्णा पताका ध्वज शोभिता ।बभूव नगरी रम्या क्षिकिंधा गिरि गह्वरे ॥४-२६-४१॥",
+      "transliteration": "hṛṣṭa puṣṭa jana ākīrṇā patākā dhvaja śobhitā ।babhūva nagarī ramyā kṣikiṁdhā giri gahvare ॥4-26-41॥",
+      "translations": {
+        "english": "The beautiful city of Kishkinda situated in a mountaincave, decorated with banners and flags was filled with happy, wellfed citizens.",
+        "hindi": "सुग्रीव और अंगद का अभिषेक देख सब वानर प्रसन्न हुए बोर दह किष्किन्धा नगरी दृष्ट पुष्ट जर्नो से भर गई तथा ध्वजा इताकाओं से सुशोभित हो अत्यन्त दर्शनीय हो गई ॥ ४०) निवेद्य रासाय तदा महात्मने महाभिषेकं कपिवाहिनीपतिः | रुमां च भार्या प्रतिलभ्य बीयवा- नाप राज्यं त्रिदशाधिपो यथा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 26,
+      "verse": 42,
+      "sloka": "निवेद्य रामाय तदा महात्मनेमहा अभिषेकम् कपि वाहनी पतिः ।रुमाम् च भार्याम् उपलभ्य वीर्यवान्अवाप राज्यम् त्रिदश अधिपो यथा ॥४-२६-४२॥",
+      "transliteration": "nivedya rāmāya tadā mahātmanemahā abhiṣekam kapi vāhanī patiḥ ।rumām ca bhāryām upalabhya vīryavānavāpa rājyam tridaśa adhipo yathā ॥4-26-42॥",
+      "translations": {
+        "english": "Then the valorous lord of the vanara host, having announced the great consecration to the great-souled Rama and regained his wife Ruma, obtained the kingdom as the lord of the thirty gods obtains his.",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

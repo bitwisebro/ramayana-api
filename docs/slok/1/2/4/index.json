@@ -1,0 +1,14 @@
+{
+  "kanda": 1,
+  "kanda_name": "Bala Kanda",
+  "kanda_name_sanskrit": "बालकाण्डम्",
+  "sarga": 2,
+  "verse": 4,
+  "sloka": "स तु तीरम् समासाद्य तमसाया मुनिः तदा ।शिष्यम् आह स्थितम् पार्श्वे दृष्ट्वा तीर्थम् अकर्दमम् ॥१-२-४॥",
+  "transliteration": "sa tu tīram samāsādya tamasāyā muniḥ tadā ।śiṣyam āha sthitam pārśve dṛṣṭvā tīrtham akardamam ॥1-2-4॥",
+  "translations": {
+    "english": "The eminent sage Valmiki reached the bank of Tamasa and seen a descent into the river with pellucid waters, spoke to the disciple standing by the side.",
+    "hindi": "नदी के वट पर पहुँच और नदी का स्वच्छ जल ( अर्थात्‌ कीचड़ रहित ) देख, मद्दषि वाल्मीकि जी पास खड़े हुए अपने शिष्य भरद्वाज से बोले",
+    "telugu": "ఆ మహర్షి తమసానదీతీరమునకు చేరి, నిర్మలములైన ఆ జలములలోనికి దిగుచు పక్కననున్న శిష్యునితో ఇట్లనెను."
+  }
+}

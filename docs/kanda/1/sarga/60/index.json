@@ -1,0 +1,485 @@
+{
+  "kanda": 1,
+  "kanda_name": "Bala Kanda",
+  "kanda_name_sanskrit": "बालकाण्डम्",
+  "sarga": 60,
+  "verses_count": 34,
+  "verses": [
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 60,
+      "verse": 1,
+      "sloka": "तपो बल हतान् ज्ञात्वा वासिष्ठान् स महोदयान् ।ऋषि मध्ये महातेजा विह्वामित्रो अभ्यभाषत ॥१-६०-१॥",
+      "transliteration": "tapo bala hatān jñātvā vāsiṣṭhān sa mahodayān ।ṛṣi madhye mahātejā vihvāmitro abhyabhāṣata ॥1-60-1॥",
+      "translations": {
+        "english": "The most brilliant Viswamitra, having destroyed the sons of Vasishta including Mahodaya by his ascetic power, said this in the midst of saints:",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 60,
+      "verse": 2,
+      "sloka": "अयम् इक्ष्वाकु दायादः त्रिशंकुः इति विश्रुतः ।धर्मिष्ठः च वदान्यः च माम् चैव शरणम् गतः ॥१-६०-२॥",
+      "transliteration": "ayam ikṣvāku dāyādaḥ triśaṁkuḥ iti viśrutaḥ ।dharmiṣṭhaḥ ca vadānyaḥ ca mām caiva śaraṇam gataḥ ॥1-60-2॥",
+      "translations": {
+        "english": "\"This religious and generous king born in the Ikshvaku race, wellknown as Trisanku sought my refuge to gain heaven with his physical body,",
+        "hindi": "वसिष्ठ जी ने भी दसरे कालदण्ड के समान ब्रह्मदण्ड को -डठा कर क्रोवपर्वेक विश्वामित्र से यह कहा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 60,
+      "verse": 3,
+      "sloka": "स्वेन अनेन शरीरेण देव लोक जिगीषया ।यथा अयम् स्व शरीरेण देव लोकम् गमिष्यति ॥१-६०-३॥",
+      "transliteration": "svena anena śarīreṇa deva loka jigīṣayā ।yathā ayam sva śarīreṇa deva lokam gamiṣyati ॥1-60-3॥",
+      "translations": {
+        "english": "Join me in the performance of this sacrifice in a manner by which he (Trisanku) attains heaven with his physical body\".",
+        "hindi": "चूत्रवन्धो स्थितोऽस्म्येष यद्दल तहिदशेय । नाशायाम्यद्य ते दपं शस्त्रस्य तव गाविज ॥ २३!) अरे चत्रियों में नीच! ले में खड़ा हूँ। तूने महादेव से जो अञ्च शाख्-प्राप्त किए हैं, उन सव को मेरे ऊपर चरा | अरे गाधि के छोकड़े ! तुझे जो इन असों की शेखी ६, उसे में अभी दर किये देता हूँ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 60,
+      "verse": 4,
+      "sloka": "तथा प्रवर्त्यताम् यज्ञो भवद्भिः च मया सह ।विश्वामित्र वचः श्रुत्वा सर्व एव महर्षयः ॥१-६०-४॥",
+      "transliteration": "tathā pravartyatām yajño bhavadbhiḥ ca mayā saha ।viśvāmitra vacaḥ śrutvā sarva eva maharṣayaḥ ॥1-60-4॥",
+      "translations": {
+        "english": "Agreeing to these words of Viswamitra all the rishis, knowers of spiritual order and endowed with righteousness assembled there said:",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 60,
+      "verse": 5,
+      "sloka": "ऊचुः समेताः सहसा धर्मज्ञा धर्म संहितम् ।अयम् कुशिक दायादो मुनिः परम कोपनः ॥१-६०-५॥",
+      "transliteration": "ūcuḥ sametāḥ sahasā dharmajñā dharma saṁhitam ।ayam kuśika dāyādo muniḥ parama kopanaḥ ॥1-60-5॥",
+      "translations": {
+        "english": "\"Born in the line of Kusika, this sage is extremely cholerictempered. Whatever he says must be properly carried out. There should be no resitation on this score. The venerable sage is like fire. He will curse us if angered.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 60,
+      "verse": 6,
+      "sloka": "यत् आह वचनम् सम्यक् एतत् कार्यम् न संशयः ।अग्नि कल्पो हि भगवान् शापम् दास्यति रोषितः ॥१-६०-६॥",
+      "transliteration": "yat āha vacanam samyak etat kāryam na saṁśayaḥ ।agni kalpo hi bhagavān śāpam dāsyati roṣitaḥ ॥1-60-6॥",
+      "translations": {
+        "english": "\"Born in the line of Kusika, this sage is extremely cholerictempered. Whatever he says must be properly carried out. There should be no resitation on this score. The venerable sage is like fire. He will curse us if angered.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 60,
+      "verse": 7,
+      "sloka": "तस्मात् प्रवर्त्यताम् यज्ञः स शरीरो यथा दिवम् ।गच्छेत् इक्ष्वाकु दायादो विश्वामित्रस्य तेजसा ॥१-६०-७॥",
+      "transliteration": "tasmāt pravartyatām yajñaḥ sa śarīro yathā divam ।gacchet ikṣvāku dāyādo viśvāmitrasya tejasā ॥1-60-7॥",
+      "translations": {
+        "english": "Hence let the sacrifice be performed in such a manner that the descendant of the Ikshvakus would attain heaven with his physical body through the spiritual power of Viswamitra. All of you commence the sacrifice\".",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 60,
+      "verse": 8,
+      "sloka": "ततः प्रवर्त्यताम् यज्ञः सर्वे समधितिष्ठत ।एवम् उक्त्वा महर्षयः संजह्रुः ताः क्रियाः तदा ॥१-६०-८॥",
+      "transliteration": "tataḥ pravartyatām yajñaḥ sarve samadhitiṣṭhata ।evam uktvā maharṣayaḥ saṁjahruḥ tāḥ kriyāḥ tadā ॥1-60-8॥",
+      "translations": {
+        "english": "The maharshis having resolved performed their respective activities relating to the sacrifice. The brilliant Viswamitra acted as the chief officiating priest.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 60,
+      "verse": 9,
+      "sloka": "याजकः च महातेजा विश्वामित्रो अभवत् क्रतौ ।ऋत्विजः च आनुपूर्व्येण मंत्रवत् मंत्र कोविदाः ॥१-६०-९॥",
+      "transliteration": "yājakaḥ ca mahātejā viśvāmitro abhavat kratau ।ṛtvijaḥ ca ānupūrvyeṇa maṁtravat maṁtra kovidāḥ ॥1-60-9॥",
+      "translations": {
+        "english": "The officiating priests proficient in chanting mantras performed in order of their respective ranks all the rites in accordance with the Yojanakalpa adhering to codes and traditions.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 60,
+      "verse": 10,
+      "sloka": "चक्रुः सर्वाणि कर्माणि यथा कल्पम् यथा विधि ।ततः कालेन महता विश्वामित्रो महातपाः ॥१-६०-१०॥",
+      "transliteration": "cakruḥ sarvāṇi karmāṇi yathā kalpam yathā vidhi ।tataḥ kālena mahatā viśvāmitro mahātapāḥ ॥1-60-10॥",
+      "translations": {
+        "english": "Long after, the mighty ascetic Viswamitra invoked all the gods to partake their share of offerings.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 60,
+      "verse": 11,
+      "sloka": "चकार आवाहनम् तत्र भाग अर्थम् सर्व देवताः ।न अभ्यागमन् तदा भाग अर्थम् सर्व देवताः ॥१-६०-११॥",
+      "transliteration": "cakāra āvāhanam tatra bhāga artham sarva devatāḥ ।na abhyāgaman tadā bhāga artham sarva devatāḥ ॥1-60-11॥",
+      "translations": {
+        "english": "When, the gods invited by him did not come to receive their share of offerings, the great ascetic Viswamitra seized with anger lifted the sacrificial ladle and said to Trisanku:",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 60,
+      "verse": 12,
+      "sloka": "ततः कोप समाविष्टो विश्वमित्रो महामुनिः ।स्रुवम् उद्यम्य स क्रोधः त्रिशंकुम् इदम् अब्रवीत् ॥१-६०-१२॥",
+      "transliteration": "tataḥ kopa samāviṣṭo viśvamitro mahāmuniḥ ।sruvam udyamya sa krodhaḥ triśaṁkum idam abravīt ॥1-60-12॥",
+      "translations": {
+        "english": "When, the gods invited by him did not come to receive their share of offerings, the great ascetic Viswamitra seized with anger lifted the sacrificial ladle and said to Trisanku:",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 60,
+      "verse": 13,
+      "sloka": "पश्य मे तपसो वीर्यम् स्व आर्जितस्य नर ईश्वर ।एष त्वाम् स्व शरीरेण नयामि स्वर्गम् ओजसा ॥१-६०-१३॥",
+      "transliteration": "paśya me tapaso vīryam sva ārjitasya nara īśvara ।eṣa tvām sva śarīreṇa nayāmi svargam ojasā ॥1-60-13॥",
+      "translations": {
+        "english": "\"O King behold the prowess of my selfearned asceticism. With my spiritual might, I shall send you to heaven with your physical body O King go to heaven with physical body which is not possible for anybody to accomplish.",
+        "hindi": "किन्तु यह वड़े अचम्मे की बात हुई कि, बरह्मा जी द ओर... तपखियों में श्रेष्ठ वसिष्ठ जीने इन सब ही अखों को अपने: ; ब्रह्मदण्ड से ग्रस लिया ( अर्थात्‌ पकड़ लिया )",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 60,
+      "verse": 14,
+      "sloka": "दुष्प्रापम् स्व शरीरेण दिवम् गच्छ नर अधिप ।स्वार्जितम् किंचित् अपि अस्ति मया हि तपसः फलम् ॥१-६०-१४॥",
+      "transliteration": "duṣprāpam sva śarīreṇa divam gaccha nara adhipa ।svārjitam kiṁcit api asti mayā hi tapasaḥ phalam ॥1-60-14॥",
+      "translations": {
+        "english": "By the power of what little fruit of austerities I have earned, I shall send to heaven with your body\".",
+        "hindi": "देवषिं, गन्धर्वं और महोरग घवड़ा गये | त्रह्माख के उठाते ही तीनों लोक 5हुत भयभीत हुए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 60,
+      "verse": 15,
+      "sloka": "राजन् त्वम् तेजसा तस्य स शरीरो दिवम् व्रज ।उक्त वाक्ये मुनौ तस्मिन् स शरीरो नर ईश्वरः ॥१-६०-१५॥",
+      "transliteration": "rājan tvam tejasā tasya sa śarīro divam vraja ।ukta vākye munau tasmin sa śarīro nara īśvaraḥ ॥1-60-15॥",
+      "translations": {
+        "english": "\"O Descendant of Kakustha (Rama) when the sage had said these words, the king with his physical body ascended to heaven in the presence of the sages.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 60,
+      "verse": 16,
+      "sloka": "दिवम् जगाम काकुत्स्थ मुनीनाम् पश्यताम् तदा ।स्वर्ग लोकम् गतम् दृष्ट्वा त्रिशंकुम् पाक शासनः ॥१-६०-१६॥",
+      "transliteration": "divam jagāma kākutstha munīnām paśyatām tadā ।svarga lokam gatam dṛṣṭvā triśaṁkum pāka śāsanaḥ ॥1-60-16॥",
+      "translations": {
+        "english": "On ascending to heaven Trisanku saw Indra (destroyer of Paka) along with hosts of gods. Indra said to him:",
+        "hindi": "वसिष्ठ जी के हाथ का ब्रह्मररड--ज़ो धूमरहित कालाग्नि के तुल्य अथवा दूसरे यमदण्ड के समान था--जल उठा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 60,
+      "verse": 17,
+      "sloka": "सह सर्वैः सुर गणैः इदम् वचनम् अब्रवीत् ।त्रिशंको गच्छ भूयः त्वम् न असि स्वर्ग कृत आलयः ॥१-६०-१७॥",
+      "transliteration": "saha sarvaiḥ sura gaṇaiḥ idam vacanam abravīt ।triśaṁko gaccha bhūyaḥ tvam na asi svarga kṛta ālayaḥ ॥1-60-17॥",
+      "translations": {
+        "english": "\"O Trisanku you are not fit to inhabit heaven. Go back, you fool Doomed by the curse of your spiritual preceptor, fall on earth, head down.",
+        "hindi": "नह्यास्र को मास करते समय वसिष्ठ जी का तीनों लोकों को भय से मूच्छित करने वाला और अत्यन्त डरावना रूप हो गया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 60,
+      "verse": 18,
+      "sloka": "गुरु शाप हतो मूढ पत भूमिम् अवाग् शिराः ।एवम् उक्तो महेन्द्रेण त्रिशंकुः अपतत् पुनः ॥१-६०-१८॥",
+      "transliteration": "guru śāpa hato mūḍha pata bhūmim avāg śirāḥ ।evam ukto mahendreṇa triśaṁkuḥ apatat punaḥ ॥1-60-18॥",
+      "translations": {
+        "english": "Thus spoken to by Indra, Trisanku crying, \"O Viswamitra, Protect me, Protect me\" started falling down.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 60,
+      "verse": 19,
+      "sloka": "विक्रोशमानः त्राहि इति विश्वामित्रम् तपो धनम् ।तत् श्रुत्वा वचनम् तस्य क्रोशमानस्य कौशिकः ॥१-६०-१९॥",
+      "transliteration": "vikrośamānaḥ trāhi iti viśvāmitram tapo dhanam ।tat śrutvā vacanam tasya krośamānasya kauśikaḥ ॥1-60-19॥",
+      "translations": {
+        "english": "Having heard the wailing Trisanku, the enraged Viswamitra shouted, \"Stay, Stay\".",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 60,
+      "verse": 20,
+      "sloka": "रोषम् आहारयत् तीव्रम् तिष्ठ तिष्ठ इति च अब्रवीत् ।ऋषि मध्ये स तेजस्वी प्रजापतिः इव अपरः ॥१-६०-२०॥",
+      "transliteration": "roṣam āhārayat tīvram tiṣṭha tiṣṭha iti ca abravīt ।ṛṣi madhye sa tejasvī prajāpatiḥ iva aparaḥ ॥1-60-20॥",
+      "translations": {
+        "english": "Standing in the midst of the ascetics, that mighty sage who conjured up a constellation of seven new rishis (stars) looked like another creator Brahma. Overcome by anger the illustrious sage created a new group of stars in the southern direction.",
+        "hindi": "यह देख अन्य झुनिगण तपस्तियों में श्रेष्ठ वसिष्ठ जी की स्तुति करने लगे और बोले- है ब्रह्मन्‌ ! आपका बल अमोघ है । आप ब्रह्मात्च के इस तेज को अपने तप की महिमा से शान्त कीजिए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 60,
+      "verse": 21,
+      "sloka": "सृजन् दक्षिण मार्गस्थान् सप्त ऋषीन् अपरान् पुनः ।नक्षत्र वंश परंपरम् असृजत् क्रोध मूर्छितः ॥१-६०-२१॥",
+      "transliteration": "sṛjan dakṣiṇa mārgasthān sapta ṛṣīn aparān punaḥ ।nakṣatra vaṁśa paraṁparam asṛjat krodha mūrchitaḥ ॥1-60-21॥",
+      "translations": {
+        "english": "Standing in the midst of the ascetics, that mighty sage who conjured up a constellation of seven new rishis (stars) looked like another creator Brahma. Overcome by anger the illustrious sage created a new group of stars in the southern direction.",
+        "hindi": "हे ब्रह्मन्‌ - आपने इस महातपा विश्वामित्र का गर्व खर्व कर दिया । हे तपस्विप्रवर ! अब आप प्रसन्न हो, जिससे सब लोगों को शान्ति प्राप्त हो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 60,
+      "verse": 22,
+      "sloka": "दक्षिणाम् दिशम् आस्थाय मुनि मध्ये महायशाः ।सृष्ट्वा नक्षत्र वंशम् च क्रोधेन कलुषी कृतः ॥१-६०-२२॥",
+      "transliteration": "dakṣiṇām diśam āsthāya muni madhye mahāyaśāḥ ।sṛṣṭvā nakṣatra vaṁśam ca krodhena kaluṣī kṛtaḥ ॥1-60-22॥",
+      "translations": {
+        "english": "Having created a constellation of stars, Viswamitra out of anger said, \"I will create another Indra or this world will be without Indra\" and commenced to create even gods.",
+        "hindi": "मुनियों के ऐसा कहने पर महातपा - बसिष्ठ जी शान्त हो गए | तिरस्कृत विश्वामित्र भी ठंडी सांसें लेकर यह बोले",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 60,
+      "verse": 23,
+      "sloka": "अन्यम् इंद्रम् करिष्यामि लोको वा स्यात् अनिंद्रकः ।दैवतानि अपि स क्रोधात् स्रष्टुम् समुपचक्रमे ॥१-६०-२३॥",
+      "transliteration": "anyam iṁdram kariṣyāmi loko vā syāt aniṁdrakaḥ ।daivatāni api sa krodhāt sraṣṭum samupacakrame ॥1-60-23॥",
+      "translations": {
+        "english": "Having created a constellation of stars, Viswamitra out of anger said, \"I will create another Indra or this world will be without Indra\" and commenced to create even gods.",
+        "hindi": "ञा० रा०--२ क्षत्रिय-चल को धिक्कार है । ब्रह्मतेज ही का बल यथार्थ बल है । देखो न, अकेले ब्रह्मदण्ड ने मेरे सब अघ्यों १ र घ्नो को दिया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 60,
+      "verse": 24,
+      "sloka": "ततः परम संभ्रान्ताः स ऋषि संघाः सुर असुराः ।विश्वामित्रम् महात्मानम् ऊचुः स अनुनयम् वचः ॥१-६०-२४॥",
+      "transliteration": "tataḥ parama saṁbhrāntāḥ sa ṛṣi saṁghāḥ sura asurāḥ ।viśvāmitram mahātmānam ūcuḥ sa anunayam vacaḥ ॥1-60-24॥",
+      "translations": {
+        "english": "Struck with wonder and fear, hosts of rishis, suras and asuras humbly addressed Viswamitra.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 60,
+      "verse": 25,
+      "sloka": "अयम् राजा महाभाग गुरु शाप परिक्षतः ।स शरीरो दिवम् यातुम् न अर्हति एव तपो धन ॥१-६०-२५॥",
+      "transliteration": "ayam rājā mahābhāga guru śāpa parikṣataḥ ।sa śarīro divam yātum na arhati eva tapo dhana ॥1-60-25॥",
+      "translations": {
+        "english": "\"O Glorious maharshi, this king cursed by his spiritual preceptor is not worthy of going to heaven with his physical body\".",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 60,
+      "verse": 26,
+      "sloka": "तेषाम् तत् वचनम् श्रुत्वा देवानाम् मुनि पुंगवः ।अब्रवीत् सु महत् वाक्यम् कौशिकः सर्व देवताः ॥१-६०-२६॥",
+      "transliteration": "teṣām tat vacanam śrutvā devānām muni puṁgavaḥ ।abravīt su mahat vākyam kauśikaḥ sarva devatāḥ ॥1-60-26॥",
+      "translations": {
+        "english": "The son of Kushika (Viswamitra), the preeminent ascetic heard the gods and said these praiseworthy words:",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 60,
+      "verse": 27,
+      "sloka": "स शरीरस्य भद्रम् वः त्रिहन्कोः अस्य भूपतेः ।आरोहणम् प्रतिज्ञातम् न अनृतम् कर्तुम् उत्सहे ॥१-६०-२७॥",
+      "transliteration": "sa śarīrasya bhadram vaḥ trihankoḥ asya bhūpateḥ ।ārohaṇam pratijñātam na anṛtam kartum utsahe ॥1-60-27॥",
+      "translations": {
+        "english": "\"I wish you well Having promised king Trisanku ascent to heaven with his physical form, I do not wish to go back on my word.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 60,
+      "verse": 28,
+      "sloka": "स्वर्गो अस्तु स शरीरस्य त्रिशंकोः अस्य शाश्वतः ।नक्षत्राणि च सर्वाणि मामकानि ध्रुवाणि अथ ॥१-६०-२८॥",
+      "transliteration": "svargo astu sa śarīrasya triśaṁkoḥ asya śāśvataḥ ।nakṣatrāṇi ca sarvāṇi māmakāni dhruvāṇi atha ॥1-60-28॥",
+      "translations": {
+        "english": "Let this heaven be an eternal abode for Trisanku in his physical form All these stars created by me shall endure as long as the worlds survive. O gods it behoves of you to accord consent to this\".",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 60,
+      "verse": 29,
+      "sloka": "यावत् लोका धरिष्यन्ति तिष्ठन्ति एतानि सर्वशः ।यत् कृतानि सुराः सर्वे तत् अनुज्ञातुम् अर्हथ ॥१-६०-२९॥",
+      "transliteration": "yāvat lokā dhariṣyanti tiṣṭhanti etāni sarvaśaḥ ।yat kṛtāni surāḥ sarve tat anujñātum arhatha ॥1-60-29॥",
+      "translations": {
+        "english": "Let this heaven be an eternal abode for Trisanku in his physical form All these stars created by me shall endure as long as the worlds survive. O gods it behoves of you to accord consent to this\".",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 60,
+      "verse": 30,
+      "sloka": "एवम् उक्ताः सुराः सर्वे प्रति ऊचुः मुनि पुंगवम् ।एवम् भवतु भद्रम् ते तिष्ठन्तु एतानि सर्वशः ॥१-६०-३०॥",
+      "transliteration": "evam uktāḥ surāḥ sarve prati ūcuḥ muni puṁgavam ।evam bhavatu bhadram te tiṣṭhantu etāni sarvaśaḥ ॥1-60-30॥",
+      "translations": {
+        "english": "Thus addressed, all the gods, replied to the preeminent ascetic, \"O Best among sages, be blessed let thy will be donel. Those many celebrated stars shall stay on all sides outside the path of Vaisvanara (zodiac) in the firmament. Amidst those stars, Trisanku, shining brilliantly like an immortal, shall stay on, head down\".",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 60,
+      "verse": 31,
+      "sloka": "गगने तानि अनेकानि वैश्वानर पथात् बहिः ।नक्षत्राणि मुनि श्रेष्ठ तेषु ज्योतिःषु जाज्वलन् ॥१-६०-३१॥",
+      "transliteration": "gagane tāni anekāni vaiśvānara pathāt bahiḥ ।nakṣatrāṇi muni śreṣṭha teṣu jyotiḥṣu jājvalan ॥1-60-31॥",
+      "translations": {
+        "english": "Thus addressed, all the gods, replied to the preeminent ascetic, \"O Best among sages, be blessed let thy will be donel. Those many celebrated stars shall stay on all sides outside the path of Vaisvanara (zodiac) in the firmament. Amidst those stars, Trisanku, shining brilliantly like an immortal, shall stay on, head down\".",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 60,
+      "verse": 32,
+      "sloka": "अवाग् शिराः त्रिशंकुः च तिष्ठतु अमर संनिभः ।अनुयास्यन्ति च एतानि ज्योतीन्षि नृप सत्तमम् ॥१-६०-३२॥",
+      "transliteration": "avāg śirāḥ triśaṁkuḥ ca tiṣṭhatu amara saṁnibhaḥ ।anuyāsyanti ca etāni jyotīnṣi nṛpa sattamam ॥1-60-32॥",
+      "translations": {
+        "english": "These stars will follow this illustrious one (Trisanku), the best of kings who gained his object, as if he had attained heaven.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 60,
+      "verse": 33,
+      "sloka": "कृतार्थम् कीर्तिमन्तम् च स्वर्ग लोक गतम् यथा ।विश्वामित्रः तु धर्मात्मा सर्व देवैः अभिष्टुतः ॥१-६०-३३॥",
+      "transliteration": "kṛtārtham kīrtimantam ca svarga loka gatam yathā ।viśvāmitraḥ tu dharmātmā sarva devaiḥ abhiṣṭutaḥ ॥1-60-33॥",
+      "translations": {
+        "english": "In this manner extolled by all devatas and rishis, mighty and righteous Viswamitra said, 'well let it be so'.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 60,
+      "verse": 34,
+      "sloka": "ऋषि मध्ये महातेजा बाढम् इति आह देवताः ।ततो देवा महात्मानो ऋषयः च तपो धनाः ।जग्मुः यथा आगतम् सर्वे यज्ञस्य अन्ते नरोत्तम ॥१-६०-३४॥",
+      "transliteration": "ṛṣi madhye mahātejā bāḍham iti āha devatāḥ ।tato devā mahātmāno ṛṣayaḥ ca tapo dhanāḥ ।jagmuḥ yathā āgatam sarve yajñasya ante narottama ॥1-60-34॥",
+      "translations": {
+        "english": "\"O Best among men (Rama) then at the conclusion of the sacrifice the great gods and saints went the way they had come\". इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे षष्टितमस्सर्ग:।। Thus ends the sixtieth sarga of Balakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

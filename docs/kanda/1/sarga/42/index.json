@@ -1,0 +1,359 @@
+{
+  "kanda": 1,
+  "kanda_name": "Bala Kanda",
+  "kanda_name_sanskrit": "बालकाण्डम्",
+  "sarga": 42,
+  "verses_count": 25,
+  "verses": [
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 42,
+      "verse": 1,
+      "sloka": "कालधर्मम् गते राम सगरे प्रकृती जनाः ।राजानम् रोचयामासुर् अम्शुमन्तम् सुधार्मिकम् ॥१-४२-१॥",
+      "transliteration": "kāladharmam gate rāma sagare prakṛtī janāḥ ।rājānam rocayāmāsur amśumantam sudhārmikam ॥1-42-1॥",
+      "translations": {
+        "english": "\"O Rama when Sagara died, the subjects installed the highly virtuous Anshuman as king.",
+        "hindi": "र चत्वारिशः सगः देवतानां वचः श्रृत्वा भगवान्‌ बै पितामहः । प्रत्युवाच सुसत्ररतान्‌ कृतान्तबलमो हितान्‌",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 42,
+      "verse": 2,
+      "sloka": "स राजा सुमहान् आसीत् अंशुमान् रघुनंदन ।तस्य पुत्रो महान् आसीत् दिलीप इति विश्रुतः ॥१-४२-२॥",
+      "transliteration": "sa rājā sumahān āsīt aṁśumān raghunaṁdana ।tasya putro mahān āsīt dilīpa iti viśrutaḥ ॥1-42-2॥",
+      "translations": {
+        "english": "O descendnt of the Raghus that Anshuman became a very great monarch. He had a great son, Dilipa who became famous.",
+        "hindi": "देवगण ! यह समस्त भूमि जिन धीमान्‌ भगवान्‌ वासते पू न्‌ वासुदेव की है, - वे ही कपिल के रूप में निरन्तर इस प्रथ्बी को धारण करते हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 42,
+      "verse": 3,
+      "sloka": "तस्मै राज्यम् समादिश्य दिलीपे रघुनंदन ।हिमवत् शिखरे रम्ये तपः तेपे सुदारुणम् ॥१-४२-३॥",
+      "transliteration": "tasmai rājyam samādiśya dilīpe raghunaṁdana ।himavat śikhare ramye tapaḥ tepe sudāruṇam ॥1-42-3॥",
+      "translations": {
+        "english": "O Delight of the Raghus having vested the kingdom with Dilipa, Anshuman performed rigid penance on the sacred peak of the Himavat mountain.",
+        "hindi": "वो वे समस्त राजकुमार उन्हीं कपिल के क्रोधानल से दग्ध हो न । यह्‌ प्रथ्वी तो सनातन हे । निश्चय ही इसका नाश नहीं हो सकता",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 42,
+      "verse": 4,
+      "sloka": "द्वा त्रिंशत् सहस्राम् वर्षाणि सुमहा यशाः ।तपोवन गतो राजा स्वर्गम् लेभे तपोधनः ॥१-४२-४॥",
+      "transliteration": "dvā triṁśat sahasrām varṣāṇi sumahā yaśāḥ ।tapovana gato rājā svargam lebhe tapodhanaḥ ॥1-42-4॥",
+      "translations": {
+        "english": "O Rama highly renowned Anshuman, having lived for thirtytwo thousand years in the tapovana, turned an ascetic and attained heaven (without accomplishing his objective).",
+        "hindi": "शीघ्र नाशवान्‌ सगर के पुत्रों का नाश ही होगा; अतः पृ ; अतः तुम चिन्ता मत करो । ब्रह्मा जी के ये वचन सुन तैतीसो&",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 42,
+      "verse": 5,
+      "sloka": "दिलीपः तु महातेजाः श्रुत्वा पैतामहम् वधम् ।दुःख उपहतया बुद्ध्या निश्चयम् न अध्यगच्छत ॥१-४२-५॥",
+      "transliteration": "dilīpaḥ tu mahātejāḥ śrutvā paitāmaham vadham ।duḥkha upahatayā buddhyā niścayam na adhyagacchata ॥1-42-5॥",
+      "translations": {
+        "english": "When exceedingly brilliant Dilipa heard about the death of his grandfathers, he was overtaken by grief but could not arrive at any conclusion with his intellect (regarding means of bringing down the sacred river).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 42,
+      "verse": 6,
+      "sloka": "कथम् गंगा अवतरणम् कथम् तेषां जलक्रिया ।तारयेयम् कथम् च एतान् इति चिंतापरो अभवत् ॥१-४२-६॥",
+      "transliteration": "katham gaṁgā avataraṇam katham teṣāṁ jalakriyā ।tārayeyam katham ca etān iti ciṁtāparo abhavat ॥1-42-6॥",
+      "translations": {
+        "english": "How to bring about the descent of Ganga? How to perform funeral rites of the ancestors with Ganga water? How to liberate them Thus Dilipa was constantly engaged in such thoughts.",
+        "hindi": "॥ ~ ७ ० ल्र “२ 0 ताम्‌ किं करिष्याम भद्रं ते बुद्धिरत्र विचायेताम्‌ । तेषां तद्वचनं श्रत्मा पुत्राणां राजसत्तमः ।॥ 8 आपका मङ्गल हो, आपही सोच कर ववलाइए कि, अब हम क्या करें । राजकुमारों को यह्‌ वात सुन नृपश्रेष्ठ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 42,
+      "verse": 7,
+      "sloka": "तस्य चिंतयतो नित्यम् धर्मेण विदित आत्मनः ।पुत्रो भगीरथो नाम जज्ञे परम धार्मिकः ॥१-४२-७॥",
+      "transliteration": "tasya ciṁtayato nityam dharmeṇa vidita ātmanaḥ ।putro bhagīratho nāma jajñe parama dhārmikaḥ ॥1-42-7॥",
+      "translations": {
+        "english": "As Dilipa known for his knowledge of the soul constantly reflected righteously on (this matter of Ganga), a highly virtuous son named Bhagiratha was born to him.",
+        "hindi": "अपने पिता से जा कर बोले कि, हमने ससागरा समस्त प्रथ्वी ढँढ डाली और देव, राक्षस, पिशाच, उरग और पन्नग जो हमें मिले उन्हें हमने मार डाला; किन्तु हमें न तो यज्ञीय अश्व का ओर न उसके चुराने वाले का पता चला",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 42,
+      "verse": 8,
+      "sloka": "दिलीपः तु महातेजा यज्ञैः बहुभिः इष्टवान् ।त्रिंशत् वर्ष सहस्राणि राजा राज्यम् अकारयत् ॥१-४२-८॥",
+      "transliteration": "dilīpaḥ tu mahātejā yajñaiḥ bahubhiḥ iṣṭavān ।triṁśat varṣa sahasrāṇi rājā rājyam akārayat ॥1-42-8॥",
+      "translations": {
+        "english": "Most brilliant king Dilipa ruled the kingdom for thirty thousand years performing many sacrifices.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 42,
+      "verse": 9,
+      "sloka": "अगत्वा निश्चयम् राजा तेषाम् उद्धरणम् प्रति ।व्याधिना नर शार्दूल काल धर्मम् उपेयिवान् ॥१-४२-९॥",
+      "transliteration": "agatvā niścayam rājā teṣām uddharaṇam prati ।vyādhinā nara śārdūla kāla dharmam upeyivān ॥1-42-9॥",
+      "translations": {
+        "english": "O Tiger among men king Dilipa was unable to arrive at a conclusion regarding the salvation of his ancestors.He was affected by illness and died.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 42,
+      "verse": 10,
+      "sloka": "इन्द्रलोकम् गतो राजा स्व अर्जितेन एव कर्मणा ।रज्ये भगीरथम् पुत्रम् अभिषिच्य नरर्षभः ॥१-४२-१०॥",
+      "transliteration": "indralokam gato rājā sva arjitena eva karmaṇā ।rajye bhagīratham putram abhiṣicya nararṣabhaḥ ॥1-42-10॥",
+      "translations": {
+        "english": "The king (Dilipa) performed the coronation of his son Bhagiratha and reached the region of Indra as a reward for virtuous acts done by him.",
+        "hindi": "सगर, हे राम ! कुपित हो, उनसे बोले--जाओ और पुनः प्रथ्वी खोदो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 42,
+      "verse": 11,
+      "sloka": "भगीरथः तु राजर्षिः धार्मिको रघुनंदन ।अनपत्यो महारजाः प्रजा कामः स च प्रजाः ॥१-४२-११॥",
+      "transliteration": "bhagīrathaḥ tu rājarṣiḥ dhārmiko raghunaṁdana ।anapatyo mahārajāḥ prajā kāmaḥ sa ca prajāḥ ॥1-42-11॥",
+      "translations": {
+        "english": "O delight of the Raghus righteous Bhagiratha who was highly lustrous rajarshi was without sons. He was desirous of progeny but did not beget children.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 42,
+      "verse": 12,
+      "sloka": "मंत्रिषु आधाय तत् रज्यम् गङ्ग अवतरणे रतः।तपो दीर्घम् समातिष्ठत् गोकर्णे रघुनंदन ॥१-४२-१२॥",
+      "transliteration": "maṁtriṣu ādhāya tat rajyam gaṅga avataraṇe rataḥ।tapo dīrgham samātiṣṭhat gokarṇe raghunaṁdana ॥1-42-12॥",
+      "translations": {
+        "english": "O son of the Raghus (Rama), Bhagiratha, with a determination to bring down Ganga entrusted the kingdom to his ministers and went to a sacred place known as Gokarna. There with arms uplifted surrounded by four fires, partaking food once a month, with his senses controlled, carried out panchatapa for a number of years.",
+        "hindi": "आर घोड़ा चुराने वाले को पकड़ और सफल हो कर ही लाटो । महाराज सगर की इस आज्ञा के अनुसार ॥ ११ षष्टः पुत्रसहस्राणि रसातसमभिद्रवन्‌ । खन्यमाने ततस्तस्मिन्ददशुः पर्वतोपमम्‌",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 42,
+      "verse": 13,
+      "sloka": "ऊर्ध्व बाहुः पंच तपा मास आहारो जितेइन्द्रियः ।तस्य वर्ष सहस्राणि घोरे तपसि तिष्ठतः ॥१-४२-१३॥",
+      "transliteration": "ūrdhva bāhuḥ paṁca tapā māsa āhāro jiteindriyaḥ ।tasya varṣa sahasrāṇi ghore tapasi tiṣṭhataḥ ॥1-42-13॥",
+      "translations": {
+        "english": "O mightyarmed, (Rama) Bhagiratha continued in that state for a thousand years amidst rigid austerities. Lord of all creatures, Brahma was highly pleased with that illustrious king.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 42,
+      "verse": 14,
+      "sloka": "अतीतानि महबहो तस्य राज्ञो महात्मनः ।सुप्रीतो भगवान् ब्रह्मा प्रजानाम् पतिः ईश्वरः ॥१-४२-१४॥",
+      "transliteration": "atītāni mahabaho tasya rājño mahātmanaḥ ।suprīto bhagavān brahmā prajānām patiḥ īśvaraḥ ॥1-42-14॥",
+      "translations": {
+        "english": "O mightyarmed, (Rama) Bhagiratha continued in that state for a thousand years amidst rigid austerities. Lord of all creatures, Brahma was highly pleased with that illustrious king.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 42,
+      "verse": 15,
+      "sloka": "ततः सुर गणैः सार्धम् उपागम्य पितामहः ।भगीरथम् महात्मानम् तप्यमानम् अथ अब्रवीत् ॥१-४२-१५॥",
+      "transliteration": "tataḥ sura gaṇaiḥ sārdham upāgamya pitāmahaḥ ।bhagīratham mahātmānam tapyamānam atha abravīt ॥1-42-15॥",
+      "translations": {
+        "english": "Thereafter, the Grandsire arrived with the gods and spoke to the noble Bhagiratha engaged in austerities.",
+        "hindi": "अपना सिर हिलाता है, तभी प्रथ्यी डोजती और भूडोल' होता है । राजकुमार दिगपाल गजेन्द्र को परिक्रमा कर,",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 42,
+      "verse": 16,
+      "sloka": "भगीरथ महाराज प्रीतः ते अहम् जनाधिप ।तपसा च सुतप्तेन वरम् वरय सुव्रत ॥१-४२-१६॥",
+      "transliteration": "bhagīratha mahārāja prītaḥ te aham janādhipa ।tapasā ca sutaptena varam varaya suvrata ॥1-42-16॥",
+      "translations": {
+        "english": "'O distinguished one O mighty monarch O Bhagiratha of excellent vows I am pleased with your welldisciplined austerities. Ask for a boon'.",
+        "hindi": "टिप्पणी --प्राचीन धारणा, भूकम्प होने की यही है । ] मानयन्तो हि ते राम जग्घुमिस्रा रसातलम्‌ | ततः पूर्वा दिशं भित्मा दविणां बिभिदुः पुनः",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 42,
+      "verse": 17,
+      "sloka": "तम् उवाच महातेजाः सर्वलोक पितामहम् ।भगीरथो महाबाहुः कृत अंजलिपुटः स्थितः ॥१-४२-१७॥",
+      "transliteration": "tam uvāca mahātejāḥ sarvaloka pitāmaham ।bhagīratho mahābāhuḥ kṛta aṁjalipuṭaḥ sthitaḥ ॥1-42-17॥",
+      "translations": {
+        "english": "Brilliant, glorious Bhagiratha, stood before the Grandsire of all the worlds with folded palms and spoke\":",
+        "hindi": "तथा पूजन 'करके है राम ! बे रसातल खोदते हुए आगे बढ़े ओर पूर्व दिशा को खोद कर वे दक्षिण दिशा को पुनः खोदने' लगे ॥१ दक्षिणस्यामषि दिशि ददृशुस्ते महागजम्‌ । सहापद्मं महात्मानं सुमहत्पवेतोपमम्‌",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 42,
+      "verse": 18,
+      "sloka": "यदि मे भगवान् प्रीतो यदि अस्ति तपसः फलम् ।सगरस्य आत्मजाः सर्वे मत्तः सलिलम् आप्नुयुः ॥१-४२-१८॥",
+      "transliteration": "yadi me bhagavān prīto yadi asti tapasaḥ phalam ।sagarasya ātmajāḥ sarve mattaḥ salilam āpnuyuḥ ॥1-42-18॥",
+      "translations": {
+        "english": "'O Lord if you are pleased with my austerities and if they are worthy of a reward, grant me the boon whereby all the sons of Sagara will receive from me funeral rites with the waters (of Ganga)'.",
+        "hindi": "उसे अपने सिर पर उस दिशा की प्रथ्वी रखे हुए देख, के गोग अत्यन्त विस्मित हुए | महाराज सगर के पुत्रों न उसकी भो परिक्रमा की",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 42,
+      "verse": 19,
+      "sloka": "गन्गायाः सलिल क्लिन्ने भस्मनि एषाम् महात्मनाम् ।स्वर्गम् गच्छेयुर् अत्यंतम् सर्वे मे प्रपितामहाः ॥१-४२-१९॥",
+      "transliteration": "gangāyāḥ salila klinne bhasmani eṣām mahātmanām ।svargam gaccheyur atyaṁtam sarve me prapitāmahāḥ ॥1-42-19॥",
+      "translations": {
+        "english": "'The ashes of these eminent uncles of my grandfather, immersed by the waters of Ganga may ultimately go to heaven'.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 42,
+      "verse": 20,
+      "sloka": "देव याचे ह संतत्यै न अवसीदेत् कुलम् च नः ।इक्ष्वाकूणाम् कुले देव एष मे अस्तु वरः परः ॥१-४२-२०॥",
+      "transliteration": "deva yāce ha saṁtatyai na avasīdet kulam ca naḥ ।ikṣvākūṇām kule deva eṣa me astu varaḥ paraḥ ॥1-42-20॥",
+      "translations": {
+        "english": "'O Lord let the progeny be perpuated in our race of the Ikshvakus. Let not that dynasty be terminated with me. This is another boon I seek'.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 42,
+      "verse": 21,
+      "sloka": "उक्त वाक्यम् तु राजानम् सर्वलोक पितामहः ।प्रत्युवाच शुभाम् वाणीम् मधुरम् मधुर अक्षराम् ॥१-४२-२१॥",
+      "transliteration": "ukta vākyam tu rājānam sarvaloka pitāmahaḥ ।pratyuvāca śubhām vāṇīm madhuram madhura akṣarām ॥1-42-21॥",
+      "translations": {
+        "english": "To this the Grandsire of all the worlds replied with a sweet voice full of good wishes and sweet words.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 42,
+      "verse": 22,
+      "sloka": "मनोरथो महान् एष भगीरथ महारथ ।एवम् भवतु भद्रम् ते इक्ष्वाकु कुल वर्धन ॥१-४२-२२॥",
+      "transliteration": "manoratho mahān eṣa bhagīratha mahāratha ।evam bhavatu bhadram te ikṣvāku kula vardhana ॥1-42-22॥",
+      "translations": {
+        "english": "'O Great charioteer Bhagiratha, your desire is great. O Perpetuator of dynasty of the Ikshvakus, let your wish be fulfilled. Prosperity to you'.",
+        "hindi": "भद्र नामक बड़े डीलडोल का दिग्गज देखा, जो 3 THE उरः जा उस दिशा की भूमि को धारण किए हुए था। उसकी भी प्रदक्षिणा कर",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 42,
+      "verse": 23,
+      "sloka": "इयम् हैमवती ज्येष्ठा गंगा हिमवतः सुता ।ताम् वै धारयितुम् राजन् हरः तत्र नियुज्यताम् ॥१-४२-२३॥",
+      "transliteration": "iyam haimavatī jyeṣṭhā gaṁgā himavataḥ sutā ।tām vai dhārayitum rājan haraḥ tatra niyujyatām ॥1-42-23॥",
+      "translations": {
+        "english": "'This Hymavati (Ganga) is Himavat's eldest daughter and only lord Siva is capable to hold (the force of her descent to earth). Therefore let Siva be entreated'.",
+        "hindi": "साठों हजार रामकुमार प्रथ्ची खोदते हुए आगे बढ़े और -प्रसिद्ध दिशा ईशान में जा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 42,
+      "verse": 24,
+      "sloka": "गंगायाः पतनम् राजन् पृथिवी न सहिष्यते ।ताम् वै धारयितुम् राजन् न अन्यम् पश्यामि शूलिनः ॥१-४२-२४॥",
+      "transliteration": "gaṁgāyāḥ patanam rājan pṛthivī na sahiṣyate ।tām vai dhārayitum rājan na anyam paśyāmi śūlinaḥ ॥1-42-24॥",
+      "translations": {
+        "english": "'O King Ganga's descent cannot be sustained by earth. O Hero I do not see any other person to hold her than the wielder of the trident (Siva)'.",
+        "hindi": "बड़े क्रोध से प्रथ्वी खोदने लगे | उन सब भीमवेग वाले महात्मा और महाबली सगर-पुत्रों ने",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 42,
+      "verse": 25,
+      "sloka": "तम् एवम् उक्त्वा राजानम् गंगाम् च आभाष्य लोककृत् ।जगाम त्रिदिवम् देवैः सर्वैः सह मरुत् गणैः ॥१-४२-२५॥",
+      "transliteration": "tam evam uktvā rājānam gaṁgām ca ābhāṣya lokakṛt ।jagāma tridivam devaiḥ sarvaiḥ saha marut gaṇaiḥ ॥1-42-25॥",
+      "translations": {
+        "english": "The Creator of the worlds having thus addressed the king and conversing with Ganga went towards heaven along with devatas and maruts\". इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे द्विचत्वारिंशस्सर्ग:।। Thus ends the fortysecond sarga of Balakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,415 @@
+{
+  "kanda": 7,
+  "kanda_name": "Uttara Kanda",
+  "kanda_name_sanskrit": "उत्तरकाण्डम्",
+  "sarga": 56,
+  "verses_count": 29,
+  "verses": [
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 56,
+      "verse": 1,
+      "sloka": "रामस्य भाषितं श्रुत्वा लक्ष्मणः परवीरहा ।उवाच प्राञ्जलिर्वाक्यं राघवं दीप्ततेजसम् ।। ७.५६.१ ॥",
+      "transliteration": "rāmasya bhāṣitaṁ śrutvā lakṣmaṇaḥ paravīrahā ।uvāca prāñjalirvākyaṁ rāghavaṁ dīptatejasam ।। 7.56.1 ॥",
+      "translations": {
+        "english": "Having heard Rama's words, Lakshmana, the destroyer of enemy heroes, spoke with folded hands to the radiant Rama.",
+        "hindi": "जब वे सब कु वर उदास हो बैठ गए; तब श्रीरामचन्द्र जी | ने सूखे मुंह से कहा--",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 56,
+      "verse": 2,
+      "sloka": "निक्षिप्तदेहौ काकुत्स्य कथं तौ द्विजपार्थिवौ ।पुनर्देहेन संयोगं जग्मतुर्देवसम्मतौ ।। ७.५६.२ ॥",
+      "transliteration": "nikṣiptadehau kākutsya kathaṁ tau dvijapārthivau ।punardehena saṁyogaṁ jagmaturdevasammatau ।। 7.56.2 ॥",
+      "translations": {
+        "english": "O Kakutstha, how did those two, the Brahmin and the king, who had cast off their bodies and were honored by the gods, attain union with a body again?",
+        "hindi": "हे भाइयो ! तुम लोगों का भला हो । में जो कुछ कहूँ उसके विपरीत मत चलना । मेरी सीता के बारे में पुरवासियों का जो मत है, उसे आप सब सुने",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 56,
+      "verse": 3,
+      "sloka": "लक्ष्मणेनैवमुक्तस्तु रामश्चेक्ष्वाकुनन्दनः ।प्रत्युवाच महातेजा लक्ष्मणं पुरुषर्षभः ।। ७.५६.३ ॥",
+      "transliteration": "lakṣmaṇenaivamuktastu rāmaścekṣvākunandanaḥ ।pratyuvāca mahātejā lakṣmaṇaṁ puruṣarṣabhaḥ ।। 7.56.3 ॥",
+      "translations": {
+        "english": "Rama, the greatly effulgent best among men and descendant of Ikshvaku, thus replied to Lakshmana who had spoken to him.",
+        "hindi": "पुरवासियों और जनपद्वासियों में मेरे बारे मे ऐसा भयानक अपवाद फैला हुआ है, जो मेरे मसस्थला को विदीण करे डालता है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 56,
+      "verse": 4,
+      "sloka": "तौ परस्परशापेन देहावुत्सृज्य धार्मिकौ ।अभूतां नृपविप्रर्षी वायुभूतौ तपोधनौ ।। ७.५६.४ ॥",
+      "transliteration": "tau parasparaśāpena dehāvutsṛjya dhārmikau ।abhūtāṁ nṛpaviprarṣī vāyubhūtau tapodhanau ।। 7.56.4 ॥",
+      "translations": {
+        "english": "Those two righteous ones, the king and the brahmin sage, having abandoned their bodies due to a mutual curse, became beings of air, their wealth being penance.",
+        "hindi": "आहं किल कुले जात इच्याकूर्रा महात्मनाम । सीताऽपि सत्कुले जाता जनक्रानां महात्मनाम्‌",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 56,
+      "verse": 5,
+      "sloka": "अशरीरः शरीरस्य कृते ऽन्यस्य महामुनिः ।वसिष्ठः सुमहातेजा जगाम पितुरन्तिकम् ।। ७.५६.५ ॥",
+      "transliteration": "aśarīraḥ śarīrasya kṛte 'nyasya mahāmuniḥ ।vasiṣṭhaḥ sumahātejā jagāma piturantikam ।। 7.56.5 ॥",
+      "translations": {
+        "english": "The great sage Vasishtha, exceedingly greatly effulgent, being bodiless, went to his father's presence for the sake of another body.",
+        "hindi": "दढ हे सौम्य लक्ष्मण ! तुम तो यह जानते ही हो कि, दण्डका रण्य में रावण जानकी को हर ले गया था। सो «उस दुरात्मा का तो सबेनाश मैंने कर ही डाला",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 56,
+      "verse": 6,
+      "sloka": "सो ऽभिवाद्य ततः पादौ देवदेवस्य धर्मवित् ।पितामहमथोवाच वायुभूत इदं वचः ।। ७.५६.६ ॥",
+      "transliteration": "so 'bhivādya tataḥ pādau devadevasya dharmavit ।pitāmahamathovāca vāyubhūta idaṁ vacaḥ ।। 7.56.6 ॥",
+      "translations": {
+        "english": "Then, he, the knower of dharma, having become air, saluted the feet of the god of gods, his grandfather (Brahma), and spoke these words.",
+        "hindi": "अत लल ळक. लङ्का ही सें मेरे मन में यह बात खटकी थी कि, राक्षस के ) » . घर में रही हुई सीता को में अपने नगर में कैसे ले चलू",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 56,
+      "verse": 7,
+      "sloka": "भगवन्निमिशापेन विदेहत्वमुपागमम् ।लोकनाथ महादेव अण्डजो ऽपि त्वमब्जजः ।। ७.५६.७ ॥",
+      "transliteration": "bhagavannimiśāpena videhatvamupāgamam ।lokanātha mahādeva aṇḍajo 'pi tvamabjajaḥ ।। 7.56.7 ॥",
+      "translations": {
+        "english": "O Lord, O Lord of the worlds, O great god, I have attained a bodiless state due to Nimi's curse, and you yourself are born from an egg and a lotus.",
+        "hindi": "द्वे लक्ष्मण ! तुम्हारी आँखों देखी बात है कि, मुझे ( अपने सतीत्व का ) विश्वास कराने के लिए सीता ने दहकती हुई | आग सें प्रवेश किआ था। तब हव्यवाहन अग्निदेव ने प्रकट ४ हो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 56,
+      "verse": 8,
+      "sloka": "सर्वेषां देहहीनानां महद्दुःखं भविष्यति ।लुप्यन्ते सर्वकार्यणि हीनदेहस्य वै प्रभो ।देहस्यान्यस्य सद्भावे प्रसादं कर्तुमर्हसि ।। ७.५६.८ ॥",
+      "transliteration": "sarveṣāṁ dehahīnānāṁ mahadduḥkhaṁ bhaviṣyati ।lupyante sarvakāryaṇi hīnadehasya vai prabho ।dehasyānyasya sadbhāve prasādaṁ kartumarhasi ।। 7.56.8 ॥",
+      "translations": {
+        "english": "O Lord, great sorrow will befall all those without a body, as all actions are lost for one who lacks a physical form; therefore, you ought to grant the favor of another body.",
+        "hindi": "LO 20 भी ७ =ऋछष!णा चव सवपामपापा जनकात्मजाम्‌ । ० च CH गै एवं शुद्धसमाचारा देवगन्धवसन्निधौ ॥ & ॥ तथा आकाशस्थित वायु ने सीता को दोषरहित बतलाया था । देवताओं और ऋषियों के सामने चन्द्र ओर सूर्य ने भी जानकी के पापरहित होने ही की बात कही थी। ऐसी शुद्ध चरित्र बाली सीता को देवता और गन्धर्वो के सामने",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 56,
+      "verse": 9,
+      "sloka": "तमुवाच ततो ब्रह्मा स्वयम्भूरमितप्रभः ।मित्रावरुणजं तेज प्रविश त्वं महायशः ।। ७.५६.९ ॥",
+      "transliteration": "tamuvāca tato brahmā svayambhūramitaprabhaḥ ।mitrāvaruṇajaṁ teja praviśa tvaṁ mahāyaśaḥ ।। 7.56.9 ॥",
+      "translations": {
+        "english": "Then, Brahma, the self-born one of immeasurable splendor, said to him, \"O greatly renowned one, enter the essence born of Mitra and Varuna.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 56,
+      "verse": 10,
+      "sloka": "अयोनिजस्त्वं भविता तत्रापि द्विजसत्तम ।धर्मेण महता युक्तः पुनरेष्यसि मे वशम् ।। ७.५६.१० ॥",
+      "transliteration": "ayonijastvaṁ bhavitā tatrāpi dvijasattama ।dharmeṇa mahatā yuktaḥ punareṣyasi me vaśam ।। 7.56.10 ॥",
+      "translations": {
+        "english": "O best among twice-born, even there you will be born without a womb, and endowed with great righteousness, you will again return to my control.",
+        "hindi": "लङ्का में इन्द्र ने मेरे हाथ में सौंपा था । इसके अतिरिक्त सेरा अन्तरात्मा भी यही कहता है कि, यशस्विनी सीता शुद्ध है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 56,
+      "verse": 11,
+      "sloka": "एवमुक्तस्तु देवेन चाभिवाद्य प्रदक्षिणम् ।कृत्वा पितामहं तूर्णं प्रययौ वरुणालयम् ।। ७.५६.११ ॥",
+      "transliteration": "evamuktastu devena cābhivādya pradakṣiṇam ।kṛtvā pitāmahaṁ tūrṇaṁ prayayau varuṇālayam ।। 7.56.11 ॥",
+      "translations": {
+        "english": "Thus spoken to by the god, and having saluted and circumambulated the grandfather Brahma, he quickly went to the abode of Varuna.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 56,
+      "verse": 12,
+      "sloka": "तमेव कालं मित्रो ऽपि वरुणत्वमकारयत् ।क्षीरोदेन सहोपेतः पूज्यमानः सुरोत्तमैः ।। ७.५६.१२ ॥",
+      "transliteration": "tameva kālaṁ mitro 'pi varuṇatvamakārayat ।kṣīrodena sahopetaḥ pūjyamānaḥ surottamaiḥ ।। 7.56.12 ॥",
+      "translations": {
+        "english": "At that very time, Mitra also performed the role of Varuna, accompanied by the Ocean of Milk and being worshipped by the best of gods.",
+        "hindi": "पौरापवादः सुमहांस्तथा जनपदस्य च । ति (९ ~ ~ ~ ॥) अकीर्तियस्य गीयेत लोके भूतस्य कस्याचत्‌ || १२ पुरवासी और जनपदवासी मेरी बड़ी निन्दा करते ६. । लोक में जिसकी निन्दा या बदनामी फल जाती हे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 56,
+      "verse": 13,
+      "sloka": "एतस्मिन्नेव काले तु उर्वशी परमाप्सराः ।यदृच्छया तमुद्देशमाययौ सखिभिर्वृता ।। ७.५६.१३ ॥",
+      "transliteration": "etasminneva kāle tu urvaśī paramāpsarāḥ ।yadṛcchayā tamuddeśamāyayau sakhibhirvṛtā ।। 7.56.13 ॥",
+      "translations": {
+        "english": "At that very time, Urvashi, the foremost Apsara, arrived at that place by chance, accompanied by her friends.",
+        "hindi": "बह्‌ व्यक्ति, जब तक उसकी वह श्रकांति फैली रहती हे, तब तक अधम लोकों में पड़ा रहता है । देवता भी अकीति-- ( बदनामी ) को बुरा बतलाते हैं। कीतिमान का सवंत्र बड़- प्पन समभा जाता हे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 56,
+      "verse": 14,
+      "sloka": "तां दृष्ट्वा रूपसम्पन्नां क्रीडन्तीं वरुणालये ।आविशत्परमो हर्षो वरुणं चोर्वशीकृते ।। ७.५६.१४ ॥",
+      "transliteration": "tāṁ dṛṣṭvā rūpasampannāṁ krīḍantīṁ varuṇālaye ।āviśatparamo harṣo varuṇaṁ corvaśīkṛte ।। 7.56.14 ॥",
+      "translations": {
+        "english": "Having seen her, beautiful and playing in Varuna's abode, great joy entered Varuna because of Urvashi.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 56,
+      "verse": 15,
+      "sloka": "स तां पद्मपलाशाक्षीं पूर्णचन्द्रनिभाननाम् ।वरुणो वरयामास मैथुनायाप्सरोवराम् ।। ७.५६.१५ ॥",
+      "transliteration": "sa tāṁ padmapalāśākṣīṁ pūrṇacandranibhānanām ।varuṇo varayāmāsa maithunāyāpsarovarām ।। 7.56.15 ॥",
+      "translations": {
+        "english": "Varuna, seeing her with lotus-petal eyes and a face like the full moon, desired her, the best of Apsaras, for union.",
+        "hindi": "अपवाद के भय से भीत हो परित्याग कर सकता हूँ ) फिर सीता की तो बात ही क्या है। आप लोग देखें, में इस समय कीति रूपी शोकसागर में इब रहा हू",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 56,
+      "verse": 16,
+      "sloka": "प्रत्युवाच ततः सा तु वरुणं प्राञ्जलिः स्थिता ।मित्रेणाहं वृता साक्षात्पूर्वमेव सुरेश्वर ।। ७.५६.१६ ॥",
+      "transliteration": "pratyuvāca tataḥ sā tu varuṇaṁ prāñjaliḥ sthitā ।mitreṇāhaṁ vṛtā sākṣātpūrvameva sureśvara ।। 7.56.16 ॥",
+      "translations": {
+        "english": "Then she, standing with folded hands, replied to Varuna, saying, \"O Lord of gods, I have already been directly chosen by Mitra.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 56,
+      "verse": 17,
+      "sloka": "वरुणस्त्वब्रवीद्वाक्यं कन्दर्पशरपीडितः ।इदं तेजः समुत्स्रक्ष्ये कुम्भे ऽस्मिन्देवनिर्मिते ।। ७.५६.१७ ॥",
+      "transliteration": "varuṇastvabravīdvākyaṁ kandarpaśarapīḍitaḥ ।idaṁ tejaḥ samutsrakṣye kumbhe 'smindevanirmite ।। 7.56.17 ॥",
+      "translations": {
+        "english": "Tormented by the arrows of Kama, Varuna then spoke, saying, \"I shall discharge this semen into this pot made by the gods.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 56,
+      "verse": 18,
+      "sloka": "एवमुत्सृज्य सुश्रोणि त्वय्यहं वरवर्णिनि ।कृतकामो भविष्यामि यदि नेच्छसि सङ्गमम् ।। ७.५६.१८ ॥",
+      "transliteration": "evamutsṛjya suśroṇi tvayyahaṁ varavarṇini ।kṛtakāmo bhaviṣyāmi yadi necchasi saṅgamam ।। 7.56.18 ॥",
+      "translations": {
+        "english": "O beautiful-hipped lady of excellent complexion, if you do not desire union, I shall thus abandon my desire for you and consider my wish fulfilled.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 56,
+      "verse": 19,
+      "sloka": "तस्य तल्लोकपालस्य वरुणस्य सुभाषितम् ।उर्वशी परमप्रीता श्रुत्वा वाक्यमुवाच ह ।। ७.५६.१९ ॥",
+      "transliteration": "tasya tallokapālasya varuṇasya subhāṣitam ।urvaśī paramaprītā śrutvā vākyamuvāca ha ।। 7.56.19 ॥",
+      "translations": {
+        "english": "Having heard those well-spoken words of Varuna, the protector of the world, Urvashi was extremely pleased and spoke.",
+        "hindi": "इसीसे में उसे अयोध्या में ले आया था । किन्तु अब यह सहापवाद्‌ सुझको बड़ा सता रहा हे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 56,
+      "verse": 20,
+      "sloka": "काममेतद्भवत्वेवं हृदयं मे त्वयि स्थितम् ।भावश्चाप्यधिकस्तुभ्यं देहो मित्रस्य तु प्रभो ।। ७.५६.२० ॥",
+      "transliteration": "kāmametadbhavatvevaṁ hṛdayaṁ me tvayi sthitam ।bhāvaścāpyadhikastubhyaṁ deho mitrasya tu prabho ।। 7.56.20 ॥",
+      "translations": {
+        "english": "O lord, let it be so; my heart is indeed fixed on you, and my affection for you is great, but my body belongs to Mitra.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 56,
+      "verse": 21,
+      "sloka": "उर्वश्या एवमुक्तस्तु रेतस्तन्महदद्भुतम् ।ज्वलदग्निशिखाप्रख्यं तस्मिन्कुम्भे ह्यपासृजत् ।। ७.५६.२१ ॥",
+      "transliteration": "urvaśyā evamuktastu retastanmahadadbhutam ।jvaladagniśikhāprakhyaṁ tasminkumbhe hyapāsṛjat ।। 7.56.21 ॥",
+      "translations": {
+        "english": "Thus addressed by Urvashi, he indeed discharged that great and wonderful semen, resembling a burning flame of fire, into that pot.",
+        "hindi": "में तुम्हें अपने दोनों चरणों की और प्राणों की शपथ दिलाता हूँ कि, इस बार में तुम किसी प्रकार का अनुनय विनय मभसे मत करना । यदि करोगे तो मेरे अभीष्टकाय में बाधा पड़ेगी और में तुम्हें सदा अपना अहितकारी समझ गा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 56,
+      "verse": 22,
+      "sloka": "उर्वशी त्वगमत्तत्र मित्रो वै यत्र देवता ।तां तु मित्रः सुसङ्क्रम्य उर्वशीमिदमब्रवीत् ।। ७.५६.२२ ॥",
+      "transliteration": "urvaśī tvagamattatra mitro vai yatra devatā ।tāṁ tu mitraḥ susaṅkramya urvaśīmidamabravīt ।। 7.56.22 ॥",
+      "translations": {
+        "english": "But Urvashi went to the place where the deity Mitra was, and Mitra, having approached her, spoke these words to Urvashi.",
+        "hindi": "दि तम लोग मेरी आज्ञा मानते हो तो में जो कडँ सो करो । में कहता हूँ सीता को यहाँ से ले जा कर मेरी आज्ञा पूरी करो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 56,
+      "verse": 23,
+      "sloka": "मया निमन्त्रिता पूर्वं कस्मात्त्वमवसर्जिता ।पतिमन्यं वृतवती तस्मात्त्वं दुष्टचारिणी ।। ७.५६.२३ ॥",
+      "transliteration": "mayā nimantritā pūrvaṁ kasmāttvamavasarjitā ।patimanyaṁ vṛtavatī tasmāttvaṁ duṣṭacāriṇī ।। 7.56.23 ॥",
+      "translations": {
+        "english": "Why did you abandon me, whom I had previously invited, and choose another husband; therefore, you are an ill-behaved woman.",
+        "hindi": "इसके 'पूवे एक बार सीता ने मुझसे कहा भी था कि, में श्रीगङ्गातटवासी सुनियों के आश्रमों को देखना चाहती हूँ ) अतः ऐसा करने से उसका मन भी रह जायगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 56,
+      "verse": 24,
+      "sloka": "अनेन दुष्कृतेन त्वं मत्क्रोधकलुषीकृता ।मनुष्यलोकमास्थाय कञ्चित्कालं निवत्स्यसि ।। ७.५६.२४ ॥",
+      "transliteration": "anena duṣkṛtena tvaṁ matkrodhakaluṣīkṛtā ।manuṣyalokamāsthāya kañcitkālaṁ nivatsyasi ।। 7.56.24 ॥",
+      "translations": {
+        "english": "Due to this misdeed, you, sullied by my wrath, will reside in the human world for some time.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 56,
+      "verse": 25,
+      "sloka": "बुधस्य पुत्रो राजर्षिः काशीराजः पुरूरवाः ।तमद्य गच्छ दुर्बुद्धे स ते भर्ता भविष्यति ।। ७.५६.२५ ॥",
+      "transliteration": "budhasya putro rājarṣiḥ kāśīrājaḥ purūravāḥ ।tamadya gaccha durbuddhe sa te bhartā bhaviṣyati ।। 7.56.25 ॥",
+      "translations": {
+        "english": "Go today to Pururavas, the royal sage, son of Budha and king of Kashi, O ill-minded one, for he will be your husband.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 56,
+      "verse": 26,
+      "sloka": "ततः सा शापदोषेण पुरूरवसमभ्यगात् ।प्रतियाते पुरूरवं बुधस्यात्मजमौरसम् ।। ७.५६.२६ ॥",
+      "transliteration": "tataḥ sā śāpadoṣeṇa purūravasamabhyagāt ।pratiyāte purūravaṁ budhasyātmajamaurasam ।। 7.56.26 ॥",
+      "translations": {
+        "english": "Then she, by the effect of the curse, went to Pururavas, the legitimate son of Budha, who had returned.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 56,
+      "verse": 27,
+      "sloka": "तस्य जज्ञे ततः श्रीमानायुः पुत्रो महाबलः ।नहुषो यस्य पुत्रस्तु बभूवेन्द्रसमद्युतिः ।। ७.५६.२७ ॥",
+      "transliteration": "tasya jajñe tataḥ śrīmānāyuḥ putro mahābalaḥ ।nahuṣo yasya putrastu babhūvendrasamadyutiḥ ।। 7.56.27 ॥",
+      "translations": {
+        "english": "Then to him was born a glorious and very powerful son named Ayus, whose son, Nahusha, became one with splendor equal to Indra.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 56,
+      "verse": 28,
+      "sloka": "वज्रमुत्सृज्य वृत्राय भ्रान्ते ऽथ त्रिदिवेश्वरे ।शतं वर्षसहस्राणि येनेन्द्रत्वं प्रशासितम् ।। ७.५६.२८ ॥",
+      "transliteration": "vajramutsṛjya vṛtrāya bhrānte 'tha tridiveśvare ।śataṁ varṣasahasrāṇi yenendratvaṁ praśāsitam ।। 7.56.28 ॥",
+      "translations": {
+        "english": "This refers to the one who ruled as Indra for a hundred thousand years when the actual Indra was agitated after casting his thunderbolt at Vritra.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 7,
+      "kanda_name": "Uttara Kanda",
+      "kanda_name_sanskrit": "उत्तरकाण्डम्",
+      "sarga": 56,
+      "verse": 29,
+      "sloka": "सा तेन शापेन जगाम भूमिं तदोर्वशी चारुदती सुनेत्रा ।बहूनि वर्षाण्यवसच्च सुभ्रूः शापक्षयादिन्द्रसदो ययौ च ।। ७.५६.२९ ।।",
+      "transliteration": "sā tena śāpena jagāma bhūmiṁ tadorvaśī cārudatī sunetrā ।bahūni varṣāṇyavasacca subhrūḥ śāpakṣayādindrasado yayau ca ।। 7.56.29 ।।",
+      "translations": {
+        "english": "That Urvashi, with beautiful teeth, eyes, and eyebrows, then went to the earth due to that curse, resided there for many years, and returned to Indra's assembly upon the curse's expiration. इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये श्रीमदुत्तरकाण्डे षट्पञ्चाशः सर्गः ।। 56 ।। Thus ends the fifty-sixth sarga of Uttara Kanda of the holy Ramayana the first epic composed by sage Valmiki.",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

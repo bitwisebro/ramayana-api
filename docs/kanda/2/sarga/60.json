@@ -1,0 +1,331 @@
+{
+  "kanda": 2,
+  "kanda_name": "Ayodhya Kanda",
+  "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+  "sarga": 60,
+  "verses_count": 23,
+  "verses": [
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 60,
+      "verse": 1,
+      "sloka": "ततः भूत उपसृष्टा इव वेपमाना पुनः पुनः ।धरण्याम् गत सत्त्वा इव कौसल्या सूतम् अब्रवीत् ॥२-६०-१॥",
+      "transliteration": "tataḥ bhūta upasṛṣṭā iva vepamānā punaḥ punaḥ ।dharaṇyām gata sattvā iva kausalyā sūtam abravīt ॥2-60-1॥",
+      "translations": {
+        "english": "Thereafter Kausalya, trembling as if possessed by an evil spirit and rolling on the floor like one who her senses now and again, said to the charioteer (Sumantra):",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 60,
+      "verse": 2,
+      "sloka": "नय माम् यत्र काकुत्स्थः सीता यत्र च लक्ष्मणः ।तान् विना क्षणम् अपि अत्र जीवितुम् न उत्सहे हि अहम् ॥२-६०-२॥",
+      "transliteration": "naya mām yatra kākutsthaḥ sītā yatra ca lakṣmaṇaḥ ।tān vinā kṣaṇam api atra jīvitum na utsahe hi aham ॥2-60-2॥",
+      "translations": {
+        "english": "Take me where Rama, Sita and Lakshmana are. I do not wish to live even for a moment without them.",
+        "hindi": "सुमंत्र, महाराज के सामने हाथ जोड़े खंडे थे। उस समय महाराज दशरथ, श्रीरामचन्द्र के वियोग से चिन्तित और शोक से विकलं थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 60,
+      "verse": 3,
+      "sloka": "निवर्तय रथम् शीघ्रम् दण्डकान् नय माम् अपि ।अथ तान् न अनुगच्चामि गमिष्यामि यम क्षयम् ॥२-६०-३॥",
+      "transliteration": "nivartaya ratham śīghram daṇḍakān naya mām api ।atha tān na anugaccāmi gamiṣyāmi yama kṣayam ॥2-60-3॥",
+      "translations": {
+        "english": "'Turn back your chariot immediately and take me to the Dandaka forest. If I do not follow them, I shall enter the world of Yama'.",
+        "hindi": "बूढ़े महाराज दशरथ, हाल के पकड़े हुए हाथी की-तरह्‌ परम सन्तप्त थे और उसी तरह उसाँसे ले रहे थे, जिस प्रकार एक व्याधिग्रस्त हाथी उसासे लेता हे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 60,
+      "verse": 4,
+      "sloka": "बाष्प वेगौपहतया स वाचा सज्जमानया ।इदम् आश्वासयन् देवीम् सूतः प्रान्जलिर् अब्रवीत् ॥२-६०-४॥",
+      "transliteration": "bāṣpa vegaupahatayā sa vācā sajjamānayā ।idam āśvāsayan devīm sūtaḥ prānjalir abravīt ॥2-60-4॥",
+      "translations": {
+        "english": "With folded hands and faltering words choked by his fastflowing tears the charioteer tried to console Kausalya:",
+        "hindi": "प्रत्याश्वस्तः--उपचारैरुदूबो।धितः । ( ग० ) २ प्रत्यागतः-- सूतस्यागि मुख.गतः | (गो० ) ३ नव्ग्रहं--त्द्योग्रहीतं |. ( गो०) ४ अस्वस्थ--व्याधिग्रस्त । ( गो० ) # पाठान्तरे--“धूतं ।” सुमंत्र के सारे शरीर में घूल लगी थी, आँखों से आँसू बह रहे थे, देंखने से वे अत्यन्त विकल जान पड़ते थे । ऐसी दशा को प्राप्त सुमंत्र से, महाराज दशरथ अत्यन्त कातर मनुष्य की तरह बोले",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 60,
+      "verse": 5,
+      "sloka": "त्यज शोकम् च मोहम् च सम्भ्रमम् दुह्खजम् तथा ।व्यवधूय च सम्तापम् वने वत्स्यति राघवः ॥२-६०-५॥",
+      "transliteration": "tyaja śokam ca moham ca sambhramam duhkhajam tathā ।vyavadhūya ca samtāpam vane vatsyati rāghavaḥ ॥2-60-5॥",
+      "translations": {
+        "english": "Abandon your tears, delusion and despair arising out of sorrow. Rama is going to live in the forest, brushing aside all agony.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 60,
+      "verse": 6,
+      "sloka": "लक्ष्मणः च अपि रामस्य पादौ परिचरन् वने ।आराधयति धर्मज्ञः पर लोकम् जित इन्द्रियः ॥२-६०-६॥",
+      "transliteration": "lakṣmaṇaḥ ca api rāmasya pādau paricaran vane ।ārādhayati dharmajñaḥ para lokam jita indriyaḥ ॥2-60-6॥",
+      "translations": {
+        "english": "Selfcontrolled Lakshmana, aware of his duty, serves Rama in the forest. By this he is securing his next world.",
+        "hindi": "हे सुमंत्र ! बह धर्मात्मा कहाँ--इक्त के नीचे वास करता होगा और जो हर प्रकार से सुखपूव क रहने योग्य है--बह्‌ राम बन में क्या खाता होगा ? दुःखस्यानुचितो दुःखं सुमन्त्र शयनो चित; । भूमिपालात्मजो भूमी शेते कथमनाथबत्‌",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 60,
+      "verse": 7,
+      "sloka": "विजने अपि वने सीता वासम् प्राप्य गृहेष्व् इव ।विस्रम्भम् लभते अभीता रामे सम्न्यस्त मानसा ॥२-६०-७॥",
+      "transliteration": "vijane api vane sītā vāsam prāpya gṛheṣv iva ।visrambham labhate abhītā rāme samnyasta mānasā ॥2-60-7॥",
+      "translations": {
+        "english": "Sita with her mind fixed on Rama is living confidently in that desolate forest without any fear as if it were her home.",
+        "hindi": "जिस राजकुमार की सबारी के पीछे अनेक पैदल सिपाही, रथ ओर घोड़े चज्ञा करते थे, वह राम निजन वन में केसे रह सकेगा ?",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 60,
+      "verse": 8,
+      "sloka": "न अस्या दैन्यम् कृतम् किम्चित् सुसूक्ष्मम् अपि लक्षये ।उचिता इव प्रवासानाम् वैदेही प्रतिभाति मा ॥२-६०-८॥",
+      "transliteration": "na asyā dainyam kṛtam kimcit susūkṣmam api lakṣaye ।ucitā iva pravāsānām vaidehī pratibhāti mā ॥2-60-8॥",
+      "translations": {
+        "english": "I could not see even the slightest depression in Sita as if she was accustomed to staying away from home.",
+        "hindi": "डे जिस वन में अनेक अजगर और दुष्ट वनजन्तु विचरा करते हैं और जिलमें काले साँप रहा करते हैं, उस वन में सीता! सहित दोनों राजकुमार कैसे रहते होंगे ?",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 60,
+      "verse": 9,
+      "sloka": "नगर उपवनम् गत्वा यथा स्म रमते पुरा ।तथैव रमते सीता निर्जनेषु वनेष्व् अपि ॥२-६०-९॥",
+      "transliteration": "nagara upavanam gatvā yathā sma ramate purā ।tathaiva ramate sītā nirjaneṣu vaneṣv api ॥2-60-9॥",
+      "translations": {
+        "english": "Earlier, just as Sita used to revel in the gardens of the city, so does she now in those desolate forests.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 60,
+      "verse": 10,
+      "sloka": "बाला इव रमते सीता बाल चन्द्र निभ आनना ।रामा रामे हि अदीन आत्मा विजने अपि वने सती ॥२-६०-१०॥",
+      "transliteration": "bālā iva ramate sītā bāla candra nibha ānanā ।rāmā rāme hi adīna ātmā vijane api vane satī ॥2-60-10॥",
+      "translations": {
+        "english": "Charming Sita whose face resembles the full Moon, with her mind fixed on Rama, is enjoying even the desolate forest like a child.",
+        "hindi": "हे सुमत्र ! तू बड़ा भाग्यवान्‌ है, जिसन मेरे दोनों राज- कुमारों को वन में उसी प्रकार जाते देखा, जिस प्रकार अद्विनी- कुमार मन्दराचल पर जाते हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 60,
+      "verse": 11,
+      "sloka": "तत् गतम् हृदयम् हि अस्याः तत् अधीनम् च जीवितम् ।अयोध्या अपि भवेत् तस्या राम हीना तथा वनम् ॥२-६०-११॥",
+      "transliteration": "tat gatam hṛdayam hi asyāḥ tat adhīnam ca jīvitam ।ayodhyā api bhavet tasyā rāma hīnā tathā vanam ॥2-60-11॥",
+      "translations": {
+        "english": "Her heart is ever united with Rama, and her life is under his control. Without Rama, even Ayodhya would become a forest for her.",
+        "hindi": "हे सुमत्र ! वन में पहुँच, राम ने क्या कहा, लक्ष्मण ने क्या कहा आर सीता ने क्या कहा ?",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 60,
+      "verse": 12,
+      "sloka": "परि पृच्चति वैदेही ग्रामामः च नगराणि च ।गतिम् दृष्ट्वा नदीनाम् च पादपान् विविधान् अपि ॥२-६०-१२॥",
+      "transliteration": "pari pṛccati vaidehī grāmāmaḥ ca nagarāṇi ca ।gatim dṛṣṭvā nadīnām ca pādapān vividhān api ॥2-60-12॥",
+      "translations": {
+        "english": "Seeing villages, cities, trees of different kinds and courses of rivers, Sita is enquiring from Rama or Lakshmana about them. She feels as though she is sporting in the pleasuregarden just a krosa from Ayodhya.",
+        "hindi": "हें सूत ! तुम राम के उपव शन, शयन तथा भोजन का वृत्तान्त कहो, जिसके सुनने से मैं कुछ देर और उसी प्रकार | जीवित रह सकू , जिस प्रकार साधु के बचनों को सुन, राजा ययाति जीवित रहे थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 60,
+      "verse": 13,
+      "sloka": "रामम् हि लक्ष्मनम् वापि पृष्ट्वा जानाति जानती ।अयोध्याक्रोशमात्रे तु विहारमिव सम्श्रिता ॥२-६०-१३॥",
+      "transliteration": "rāmam hi lakṣmanam vāpi pṛṣṭvā jānāti jānatī ।ayodhyākrośamātre tu vihāramiva samśritā ॥2-60-13॥",
+      "translations": {
+        "english": "Seeing villages, cities, trees of different kinds and courses of rivers, Sita is enquiring from Rama or Lakshmana about them. She feels as though she is sporting in the pleasuregarden just a krosa from Ayodhya.",
+        "hindi": "टिप्पणी- [लिखा है, राजा ययाति जत्र स्पग में पहुँचे और अपने सुकृतों का वणुन करने लगे; तब इन्द्र ने उनसे कहा कि, जिह्वा पर अग्निदेव का वास हे | तुमने अपने सुकृतों का अपने आप वणन कर, अपने सुक्तो को दग्य कर डला, अतः अब तुम स्वर्ग में नहीं रह सकते | मृत्युलोक को चले ज'ग्रो | तव ययाति ने यह प्रार्थता को क्रि, यदि आप मुझे मृत्यु गक में भेजते हैं, तो वहाँ ऐ) जगः भेजिए जहाँ साधुओं का साथ मिले । ययाति का यह प्रार्थना स्व कृत हुई और इसका फल यह हुआ फि, ययाति को स्वगं से गिरने का जे। दुःव हुआ था, वह साधुःमागम से दूर हो गया था| ] इति सरतो नरेन्द्रेण चोदितः सञ्जमानया? । उवाच वाचा राजानं स बाष्पर परिरब्धया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 60,
+      "verse": 14,
+      "sloka": "इदमेव स्मराम्यस्याः सहसैवोपजल्पितम् ।कैकेयीसम्श्रितम् वाक्यम् नेदानीम् प्रतिभाति माम् ॥२-६०-१४॥",
+      "transliteration": "idameva smarāmyasyāḥ sahasaivopajalpitam ।kaikeyīsamśritam vākyam nedānīm pratibhāti mām ॥2-60-14॥",
+      "translations": {
+        "english": "Sita did say something about Kaikeyi, but now I do not remember what.",
+        "hindi": "हे महाराज ! धम के पालन करने बाले श्रीरामचन्द्र ने हाथ जोड़ और मस्तक झुका कर यह कहा कि, मेरी ओर से संसार में धर्माम्मा कह कर प्रसिद्ध एवं वन्दनीय महाराज पिता के चरणों को वार बार प्रणाम कर",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 60,
+      "verse": 15,
+      "sloka": "ध्वम्सयित्वा तु तद्वाक्यम् प्रमादात्पर्युपस्थितम् ।ह्लदनम् वचनम् सूतो देव्या मधुरमब्रवीत् ॥२-६०-१५॥",
+      "transliteration": "dhvamsayitvā tu tadvākyam pramādātparyupasthitam ।hladanam vacanam sūto devyā madhuramabravīt ॥2-60-15॥",
+      "translations": {
+        "english": "Diverting the context of what he uttered inadvertently relating to Kaikeyi, the charioteer said pleasing words of consolation to Kausalya.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 60,
+      "verse": 16,
+      "sloka": "अध्वना वात वेगेन सम्भ्रमेण आतपेन च ।न हि गच्चति वैदेह्याः चन्द्र अम्शु सदृशी प्रभा ॥२-६०-१६॥",
+      "transliteration": "adhvanā vāta vegena sambhrameṇa ātapena ca ।na hi gaccati vaidehyāḥ candra amśu sadṛśī prabhā ॥2-60-16॥",
+      "translations": {
+        "english": "Just like the beams of the Moon, Sita's glow is not affected by the fatigue of the journey or by the speed of the wind or by the scorching heat.",
+        "hindi": "आर कुलाभिसान.एवं बड्प्पन का विचार त्याग कर, मेरी §प्रन्य माताओं के साथ व्यवहार करना । महाराज की विशेष . १ अग्न्यागारपरा-यागशालाःक्षिकाभव । (शि०)। २ परि- पालय--निषेबस्व | (शि०) ३ कारय--राजानं कैदे यीतुल्य श्रनुवतस्व । (६ 304 कृपापात्र माता कैकेयी है । अतः उनके प्रति भी पैसा ही व्यवहार करना जैसा महाराज के साथ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 60,
+      "verse": 17,
+      "sloka": "सदृशम् शत पत्रस्य पूर्ण चन्द्र उपम प्रभम् ।वदनम् तत् वदान्याया वैदेह्या न विकम्पते ॥२-६०-१७॥",
+      "transliteration": "sadṛśam śata patrasya pūrṇa candra upama prabham ।vadanam tat vadānyāyā vaidehyā na vikampate ॥2-60-17॥",
+      "translations": {
+        "english": "The countenance of Sita with her gentle eloquence resembles a hundredpetalled lotus. She has the luminance of the full Moon that has not wilted.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 60,
+      "verse": 18,
+      "sloka": "अलक्त रस रक्त अभाव् अलक्त रस वर्जितौ ।अद्य अपि चरणौ तस्याः पद्म कोश सम प्रभौ ॥२-६०-१८॥",
+      "transliteration": "alakta rasa rakta abhāv alakta rasa varjitau ।adya api caraṇau tasyāḥ padma kośa sama prabhau ॥2-60-18॥",
+      "translations": {
+        "english": "Her feet, now devoid of lacdye, still look red like lac and shine like the lotus bud.",
+        "hindi": "ओर यथासुमय नित्य धर्मानुष्ठानादि करती रहै और यज्ञ- शाला की चोकसी रखें । फिर यह कहा है कि, हे देवि ! महाराज | को देवतावत्‌ मान उनकी चरणसेवा करो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 60,
+      "verse": 19,
+      "sloka": "नूपुर उद्घुष्ट हेला इव खेलम् गच्चति भामिनी ।इदानीम् अपि वैदेही तत् रागा न्यस्त भूषणा ॥२-६०-१९॥",
+      "transliteration": "nūpura udghuṣṭa helā iva khelam gaccati bhāminī ।idānīm api vaidehī tat rāgā nyasta bhūṣaṇā ॥2-60-19॥",
+      "translations": {
+        "english": "Casting off her ornaments, the damsel (Sita) is gracefully walking as if dalliant with her tinkling anklets for her love for him (Rama).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 60,
+      "verse": 20,
+      "sloka": "गजम् वा वीक्ष्य सिम्हम् वा व्याघ्रम् वा वनम् आश्रिता ।न आहारयति सम्त्रासम् बाहू रामस्य सम्श्रिता ॥२-६०-२०॥",
+      "transliteration": "gajam vā vīkṣya simham vā vyāghram vā vanam āśritā ।na āhārayati samtrāsam bāhū rāmasya samśritā ॥2-60-20॥",
+      "translations": {
+        "english": "Though in the forest, Sita, under the protection of Rama's arms, is afraid of neither elephants nor lions nor tigers.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 60,
+      "verse": 21,
+      "sloka": "न शोच्याः ते न च आत्मा ते शोच्यो न अपि जन अधिपः ।इदम् हि चरितम् लोके प्रतिष्ठास्यति शाश्वतम् ॥२-६०-२१॥",
+      "transliteration": "na śocyāḥ te na ca ātmā te śocyo na api jana adhipaḥ ।idam hi caritam loke pratiṣṭhāsyati śāśvatam ॥2-60-21॥",
+      "translations": {
+        "english": "You need not lament for them or for yourself or for the king. This story of Rama will endure permanently in the world.",
+        "hindi": "हे महाराज ! श्रीरामचन्द्र जी ने भरत जीं के लिए यह कहा है कि) भरत जी से मेरा कुशलवृत्त कहना और यह बात कहना कि, वे सत्र माताओं के साथ न्यायपू्वक व्यवहार करें",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 60,
+      "verse": 22,
+      "sloka": "विधूय शोकम् परिहृष्ट मानसा ।महर्षि याते पथि सुव्यवस्थिताः ।वने रता वन्य फल अशनाः पितुः ।शुभाम् प्रतिज्ञाम् परिपालयन्ति ते ॥२-६०-२२॥",
+      "transliteration": "vidhūya śokam parihṛṣṭa mānasā ।maharṣi yāte pathi suvyavasthitāḥ ।vane ratā vanya phala aśanāḥ pituḥ ।śubhām pratijñām paripālayanti te ॥2-60-22॥",
+      "translations": {
+        "english": "They are upholding the sacred promise of their father with cheerful hearts, grief given the goby, steadfastly pursuing the path established by maharsis, subsisting on forest fruits and enjoying the forest life.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 60,
+      "verse": 23,
+      "sloka": "तथा अपि सूतेन सुयुक्त वादिना ।निवार्यमाणा सुत शोक कर्शिता ।न चैव देवी विरराम कूजितात् ।प्रिय इति पुत्र इति च राघव इति च ॥२-६०-२३॥",
+      "transliteration": "tathā api sūtena suyukta vādinā ।nivāryamāṇā suta śoka karśitā ।na caiva devī virarāma kūjitāt ।priya iti putra iti ca rāghava iti ca ॥2-60-23॥",
+      "translations": {
+        "english": "Though Sumantra was speaking with befitting words to prevent Kausalya from weeping over her son which had enfeebled her, she did not stop crying, 'O my beloved', 'O my son', 'O Rama'. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे षष्टितमस्सर्गः।। Thus ends the sixtieth sarga in Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+        "hindi": "इक्ष्वाङुकुलनन्दन भरत, से यह भी कहना कि, युवराज हो कर वे फ्ता की आज्ञा अनुसार चलें ॥ २२-॥ अतिक्रान्तवया राजा मा स्मैनं व्यवरोरुधः १ | कुमारराज्ये जीव त्वं तस्यैवाज्ञाप्रवतेनात्‌",
+        "telugu": ""
+      }
+    }
+  ]
+}

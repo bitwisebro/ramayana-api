@@ -1,0 +1,723 @@
+{
+  "kanda": 4,
+  "kanda_name": "Kishkindha Kanda",
+  "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+  "sarga": 31,
+  "verses_count": 51,
+  "verses": [
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 31,
+      "verse": 1,
+      "sloka": "स कामिनम् दीनम् अदीन सत्त्वःशोक अभिपन्नम् समुदीर्ण कोपम् ।नरेन्द्र सूनुर् नरदेव पुत्रम्रामानुजः पूर्वजम् इति उवाच ॥४-३१-१॥",
+      "transliteration": "sa kāminam dīnam adīna sattvaḥśoka abhipannam samudīrṇa kopam ।narendra sūnur naradeva putramrāmānujaḥ pūrvajam iti uvāca ॥4-31-1॥",
+      "translations": {
+        "english": "Seeing the indomitable hero, his elder brother, son of a king, lovesick, dejected and overcome by anger and grief, spoke prince Lakshmana:",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 31,
+      "verse": 2,
+      "sloka": "न वानरः स्थास्यति साधु वृत्तेन मन्यते कर्म फल अनुषंगान् ।न भोक्ष्यते वानर राज्य लक्ष्मीम्तथा हि न अभिक्रमते अस्य बुद्धिः ॥४-३१-२॥",
+      "transliteration": "na vānaraḥ sthāsyati sādhu vṛttena manyate karma phala anuṣaṁgān ।na bhokṣyate vānara rājya lakṣmīmtathā hi na abhikramate asya buddhiḥ ॥4-31-2॥",
+      "translations": {
+        "english": "'Sugriva has not stuck to the conduct of the virtuous, of sharing the fruits of action equally. He does not realize that he obtained the prosperous kingship of vanaras as a result of your (friendly) action. He does not have the intelligence of conducting himself in your favour (of searching Sita). Therefore he will not enjoy the kingship for long.",
+        "hindi": "सुमीब आखिर है तो वानर ही। भला बह क्या जाने कि सत्पुरुषं को अपने मित्रों के साथ केसा व्यवहार करना होता हे, 'इसका इन बार्तो पर भी ध्यान नहीं हे कि, उसने अग्नि को साक्षी कर मैत्री की है और मैत्री के कारण ही उसका शत्र वालि मारा गया, उसको उप्तकी स्री और राज्य की प्राप्ति हुई। इससे जान पड़ता हे कि, सुग्रीव से भाग्य में बहुत दिनों तक राज्यलदमी का १ दीनमदी “न5७-एतेन वस्तुतः अदी नसस्चोपिदैन्य _ मावयती- तिगम्यते ( गो० ब) रोकाभिपन्नं-शोकं प्राप्तं । ( गो० ) ३ समुदीर्य ओपं--श्रभिबृद्वको पं। ग० ) भोगना नहीं बदा। इसीसे रो वह दम लोगों के काम को भूले हुए बेठा है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 31,
+      "verse": 3,
+      "sloka": "मति क्षयात् ग्राम्य सुखेषु सक्तःतव प्रसाद अप्रतिकार बुद्धिः ।हतो अग्रजम् पश्यतु वालिनम्न राज्यम् एवम् विगुणस्य देयम् ॥४-३१-३॥",
+      "transliteration": "mati kṣayāt grāmya sukheṣu saktaḥtava prasāda apratikāra buddhiḥ ।hato agrajam paśyatu vālinamna rājyam evam viguṇasya deyam ॥4-31-3॥",
+      "translations": {
+        "english": "'O hero he is too ungrateful to return the favour done to him, Engaged in rustic, vulgar pleasures, he is not thinking of it. Let him see his killed elder brother. Kingship should not be given to an individual who is a destitute of virtues.",
+        "hindi": "उसकी बुद्धि सारी जाने के कारण ही बह घरेलू. सुखों में फंस छुआ है और आपने उसका जो उपकार किया हे, उसके बदले में प्रत्युपकार करने की उसकी इच्छा नहीं हे । अतः उसे अत्र सर कर अपने दीर बढ़े भाई से भेंट करनी होगी । क्योंकि ऐसे गुण रहित अथवा बेसहूर को राज्य देना ठीक नहीं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 31,
+      "verse": 4,
+      "sloka": "न धारये कोपम् उदीर्ण वेगम्निहन्मि सुग्रीवम् असत्यम् अद्य ।हरि प्रवीरैः सह वालि पुत्रोनरेन्द्र पुत्र्या विचयम् करोतु ॥४-३१-४॥",
+      "transliteration": "na dhāraye kopam udīrṇa vegamnihanmi sugrīvam asatyam adya ।hari pravīraiḥ saha vāli putronarendra putryā vicayam karotu ॥4-31-4॥",
+      "translations": {
+        "english": "'I cannot hold my overflowing anger. I shall kill this untruthful Sugriva. Let Vali's son along with the foremost of monkeys search for the queen (Sita).'",
+        "hindi": "सुझसे यह बढ्ता हुआ क्रोध अब थासे नहीं थमता-। में आज उस असत्यवादी सुग्रीब को मारे विना न रहूँगा। वालि का पुत्र अंगद, चीर बानरों को साथ ले सीता जी का पता लगा देगा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 31,
+      "verse": 5,
+      "sloka": "तम् आत्त बाण आसनम् उत्पतंतम्निवेदित अर्थम् रण चण्ड कोपम् ।उवच रामः पर वीर हन्तास्व वेक्षितम् स अनुनयम् च वाक्यम् ॥४-३१-५॥",
+      "transliteration": "tam ātta bāṇa āsanam utpataṁtamnivedita artham raṇa caṇḍa kopam ।uvaca rāmaḥ para vīra hantāsva vekṣitam sa anunayam ca vākyam ॥4-31-5॥",
+      "translations": {
+        "english": "Rama, a slayer of enemy heroes but not of those who seek his refuge, spoke in a conciliatory tone to Lakshmana who jumped, wielding bow and arrows, inspired with his fierce fighting spirit.",
+        "hindi": "लवेदित- खु'डुनिरूपिते । ( गो० ) २ ब्रायेश--सम्पस्बिधिकेन । ९ गो० ) २ रूव्दारि--परुषारि । ( गो० ) दकत्रिशाः पः ions ३ १ ङ्‌ देखो सुम्रीब से कठोर बचन मत कहना, भली भाँति समम कर उनसे इतना ही कहना कि, तुम्हारा नियत किआ हुआ समय बीत गया है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 31,
+      "verse": 6,
+      "sloka": "न हि वै त्वत् विधो लोके पापम् एवम् समाचरेत् ।कोपम् आर्येण यो हन्ति स वीरः पुरुषोत्तमः ॥४-३१-६॥",
+      "transliteration": "na hi vai tvat vidho loke pāpam evam samācaret ।kopam āryeṇa yo hanti sa vīraḥ puruṣottamaḥ ॥4-31-6॥",
+      "translations": {
+        "english": "A man like you would not commit such a sin in this world; he who destroys evil by noble means is a true hero, the best of men.",
+        "hindi": "हे लचमण ! तुम जैसे पुरुष को मित्र वध रूपी पाप कर्म का करना उचित नहीं । जो मनुष्य अच्छो तरह विवेचना कर अपने क्रोध को मारता है, बही वीर ओर वही पुरुषों में श्रेष्ठ कहलाता है !",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 31,
+      "verse": 7,
+      "sloka": "न इदम् अत्र त्वया ग्राह्यम् साधु वृत्तेन लक्ष्मण ।ताम् प्रीतिम् अनुवर्तस्व पूर्व वृत्तम् च संगतम् ॥४-३१-७॥",
+      "transliteration": "na idam atra tvayā grāhyam sādhu vṛttena lakṣmaṇa ।tām prītim anuvartasva pūrva vṛttam ca saṁgatam ॥4-31-7॥",
+      "translations": {
+        "english": "'O Lakshmana with your good conduct you should not do so. Keeping in view the affectionate friendship extended (by Sugriva) earlier, be friendly.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 31,
+      "verse": 8,
+      "sloka": "साम उपहितया वाचा रूक्षाणि परिवर्जयन् ।वक्तुम् अर्हसि सुग्रीवम् व्यतीतम् काल पर्यये ॥४-३१-८॥",
+      "transliteration": "sāma upahitayā vācā rūkṣāṇi parivarjayan ।vaktum arhasi sugrīvam vyatītam kāla paryaye ॥4-31-8॥",
+      "translations": {
+        "english": "'Sugriva has exceeded the time limit. Avoiding harsh words, you ought to speak to him in a conciliatory manner.",
+        "hindi": "हे लक्ष्मण ! तुम उत्तम चरित्रवान थे । अतः तुम्हें ऐसा काम करना उचित नहीं, सुग्रीव के साथ वैसी ही प्रीति रखना और पहले स्थापित की हुई मैत्री का स्मरण रखना ॥७) सामोपहितया वाचा रूक्षाणिर परिवर्जयन्‌ । वक्तमहसि सुग्रीव व्यतीत कालपर्यये",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 31,
+      "verse": 9,
+      "sloka": "सो अग्रजेन अनुशिष्ट अर्थो यथावत् पुरुषर्षभः ।प्रविवेश पुरीम् वीरो लक्ष्मणः पर वीर हा ॥४-३१-९॥",
+      "transliteration": "so agrajena anuśiṣṭa artho yathāvat puruṣarṣabhaḥ ।praviveśa purīm vīro lakṣmaṇaḥ para vīra hā ॥4-31-9॥",
+      "translations": {
+        "english": "Having been duly briefed by his elder brother, the heroic Lakshmana, destroyer of enemies, a bull among men entered the city.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 31,
+      "verse": 10,
+      "sloka": "ततः शुभ मतिः प्राज्ञो भ्रातुः प्रियहितेरतः ।लक्ष्मणः प्रतिसंरब्धो जगाम भवनम् कपेः ॥४-३१-१०॥",
+      "transliteration": "tataḥ śubha matiḥ prājño bhrātuḥ priyahiterataḥ ।lakṣmaṇaḥ pratisaṁrabdho jagāma bhavanam kapeḥ ॥4-31-10॥",
+      "translations": {
+        "english": "The noblehearted, benevolent and wise Lakshmana, eager to please Rama, picked up his bow looking like a mountain peak, comparable to the bow of Indra and agitated with the anger of the god of Death entered the mansion of Sugriva which stood like the mountain peak of Mandara.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 31,
+      "verse": 11,
+      "sloka": "शक्र बाणासन प्रख्यम् धनुः कालांतक उपमः ।प्रगृह्य गिरि शृंगाभम् मन्दरः सानुमान् इव ॥४-३१-११॥",
+      "transliteration": "śakra bāṇāsana prakhyam dhanuḥ kālāṁtaka upamaḥ ।pragṛhya giri śṛṁgābham mandaraḥ sānumān iva ॥4-31-11॥",
+      "translations": {
+        "english": "The noblehearted, benevolent and wise Lakshmana, eager to please Rama, picked up his bow looking like a mountain peak, comparable to the bow of Indra and agitated with the anger of the god of Death entered the mansion of Sugriva which stood like the mountain peak of Mandara.",
+        "hindi": "इन्द्रघलुष की तरह अथवा कालान्तक यम की तरह अथवा वर्वत-शिक्षर की तरह लम्बा धनुष ले; लमण जी, मन्दराचल पर्वत की तरह वहाँ जा खड़े हुए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 31,
+      "verse": 12,
+      "sloka": "यथा उक्त कारी वचनम् उत्तरम् चैव स उत्तरम् ।बृहस्पति समो बुद्ध्या मत्त्वा रामानुजः तदा ॥४-३१-१२॥",
+      "transliteration": "yathā ukta kārī vacanam uttaram caiva sa uttaram ।bṛhaspati samo buddhyā mattvā rāmānujaḥ tadā ॥4-31-12॥",
+      "translations": {
+        "english": "Then Lakshmana, obedient, intelligent like Brihaspati, like a tempest, encompassed by the fire of anger and deliberating in his mind as to the possible questions from Sugriva and the reply from him.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 31,
+      "verse": 13,
+      "sloka": "काम क्रोध समुत्थेन भ्रातुः कोपाग्निना वृतः ।प्रभंजन इव अप्रीतः प्रययौ लक्ष्मणः तदा ॥४-३१-१३॥",
+      "transliteration": "kāma krodha samutthena bhrātuḥ kopāgninā vṛtaḥ ।prabhaṁjana iva aprītaḥ prayayau lakṣmaṇaḥ tadā ॥4-31-13॥",
+      "translations": {
+        "english": "Then Lakshmana, obedient, intelligent like Brihaspati, like a tempest, encompassed by the fire of anger and deliberating in his mind as to the possible questions from Sugriva and the reply from him.",
+        "hindi": "ञ १ क्षेत्तम-स्वेनश्यमाणोत्त रसितं | (गो०) 7६ ३९४ करिस्किन्धीकि आता के बचनानुसार कार्य करने बाले अथवा भाई फे चचन को पूरा करने वाले, बुद्धि में बृहस्पति के समान लक्ष्मण जी अपने मन में श्रीरामचन्द्र जी के वचन के अतिरिक्त अपनी ओर से जो कुछ ओर कहना था सो बिचारते जाते थे ।।१२!। कामक्रोधसमुत्थेन भ्रातुः कोपाग्निना इतः । ` प्रभञ्जन इवाप्रीतः प्रययो लक्ष्मणस्तद्‌ः",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 31,
+      "verse": 14,
+      "sloka": "साल ताल अश्व कर्णाम् च तरसा पातयन् बलात् ।पर्यस्यन् गिरि कूटानि द्रुमान् अन्याम् च वेगितः ॥४-३१-१४॥",
+      "transliteration": "sāla tāla aśva karṇām ca tarasā pātayan balāt ।paryasyan giri kūṭāni drumān anyām ca vegitaḥ ॥4-31-14॥",
+      "translations": {
+        "english": "'Lakshmana rushed on foot speedily, cutting the branches of sala, tala and asvakarna and other trees on the way and forcibly turning and crushing the mountain rocks into pieces with a single foot, like a swiftmoving elephant taking long strides, to carry out the task.",
+        "hindi": "वे रास्ते में बहुन से साखू ताल, अश्वकर्ण तथा अन्य पेड़ों को, एवं पकेतश्व्गो को गिराते चले जाते थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 31,
+      "verse": 15,
+      "sloka": "शिलाः च शकली कुर्वन् पद्भ्याम् गज इव आशु गः ।दूरम् एक पदम् त्यक्त्वा ययौ कार्यवशात् द्रुतम् ॥४-३१-१५॥",
+      "transliteration": "śilāḥ ca śakalī kurvan padbhyām gaja iva āśu gaḥ ।dūram eka padam tyaktvā yayau kāryavaśāt drutam ॥4-31-15॥",
+      "translations": {
+        "english": "'Lakshmana rushed on foot speedily, cutting the branches of sala, tala and asvakarna and other trees on the way and forcibly turning and crushing the mountain rocks into pieces with a single foot, like a swiftmoving elephant taking long strides, to carry out the task.",
+        "hindi": "सुम्रीच के ऊपर कुपित होने से लचमण जी के अधर फड़क र्दे थे । उन्होंने भीम पराक्रमी अनेक बानरों को किष्किन्धा के बाहिर घूमते फिरते देखा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 31,
+      "verse": 16,
+      "sloka": "ताम् अपश्यत् बल आकीर्णाम् हरिराज महापुरीम् ।दुर्गाम् इक्ष्वाकु शार्दूलः किष्किंधाम् गिरि संकटे ॥४-३१-१६॥",
+      "transliteration": "tām apaśyat bala ākīrṇām harirāja mahāpurīm ।durgām ikṣvāku śārdūlaḥ kiṣkiṁdhām giri saṁkaṭe ॥4-31-16॥",
+      "translations": {
+        "english": "The tiger of the Ikshvaku race saw the inaccessible Kishkinda, the capital of vanara kingdom, located between mountains and fortified with the army.",
+        "hindi": "वे पवेत की शिलाओं को अपने परो से फोडते, दूर दूर पर कदस रखते, कार्यंवश अति शीघ्रता से चले जाते थे। उस समय 'ऐसा जान पड़ता था कि मानों कोई मतवाला हाथी तोडता फोड़ता चला जा रहा है ॥ १४ तासपश्यदबलाकीणा हरिराजमहाघुरीम्‌ । दुगोमिक्ष्वाकृशादूलः किष्किन्धां गिरिसङ्कटे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 31,
+      "verse": 17,
+      "sloka": "रोषात् प्रस्फुरमाण ओष्ठः सुग्रीवम् प्रति लक्ष्मणः ।ददर्श वानरान् भीमान् किष्किंधाया बहिः चरान् ॥४-३१-१७॥",
+      "transliteration": "roṣāt prasphuramāṇa oṣṭhaḥ sugrīvam prati lakṣmaṇaḥ ।dadarśa vānarān bhīmān kiṣkiṁdhāyā bahiḥ carān ॥4-31-17॥",
+      "translations": {
+        "english": "His lips trembling in anger, Lakshmana saw fierceful monkey guards of Sugriva at the entrance of Kishkinda city.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 31,
+      "verse": 18,
+      "sloka": "तम् दृष्ट्वा वानराः सर्वे लक्ष्मणम् पुरुषर्षभम्शैल शृंगाणि शतशः प्रवृद्धाम् च महीरुहान् ।जगृहुः कुंजर प्रख्या वानराः पर्वत अंतरे ॥४-३१-१८॥",
+      "transliteration": "tam dṛṣṭvā vānarāḥ sarve lakṣmaṇam puruṣarṣabhamśaila śṛṁgāṇi śataśaḥ pravṛddhām ca mahīruhān ।jagṛhuḥ kuṁjara prakhyā vānarāḥ parvata aṁtare ॥4-31-18॥",
+      "translations": {
+        "english": "Hundreds of monkeys of the size of elephants stood holding huge trees and boulders of rocks on seeing Lakshmana, the bull among men.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 31,
+      "verse": 19,
+      "sloka": "तान् गृहीत प्रहरणान् सर्वान् दृष्ट्वा तु लक्ष्मणः ।बभूव द्विगुणम् क्रुद्धो बहु इंधन इव अनलः ॥४-३१-१९॥",
+      "transliteration": "tān gṛhīta praharaṇān sarvān dṛṣṭvā tu lakṣmaṇaḥ ।babhūva dviguṇam kruddho bahu iṁdhana iva analaḥ ॥4-31-19॥",
+      "translations": {
+        "english": "On seeing the monkeys wielding weapons, Lakshmana's anger doubled like logs of firewood put to burning.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 31,
+      "verse": 20,
+      "sloka": "तम् ते भयपरीत अंगाः ख्सुब्धम् दृष्ट्वा प्लवंगमाः ।काल मृत्यु युगांताअभम् शतशो विद्रुता दिशः ॥४-३१-२०॥",
+      "transliteration": "tam te bhayaparīta aṁgāḥ khsubdham dṛṣṭvā plavaṁgamāḥ ।kāla mṛtyu yugāṁtāabham śataśo vidrutā diśaḥ ॥4-31-20॥",
+      "translations": {
+        "english": "Seeing enraged Lakshmana, who looked like a veritable god of Death at the time of dissolution of the universe, hundreds of monkeys, their limbs trembling in fear ran in different directions.",
+        "hindi": "का क्रोध इतना बढ़ गया मानों बहुत से इंधन से आगा प्रच्वलित हुई हो | तत्र उन सब बानरों ने लदमण को क्रुद्ध देख,",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 31,
+      "verse": 21,
+      "sloka": "ततः सुग्रीव भवनम् प्रविश्य हरिपुंगवाः ।क्रोधम् आगमनम् चैव लक्ष्मणस्य न्यवेदयन् ॥४-३१-२१॥",
+      "transliteration": "tataḥ sugrīva bhavanam praviśya haripuṁgavāḥ ।krodham āgamanam caiva lakṣmaṇasya nyavedayan ॥4-31-21॥",
+      "translations": {
+        "english": "Having entered Sugriva's palace, the monkeychiefs reported the arrival of angry Lakshmana.",
+        "hindi": "प्रलयकालीन मत्यु के समान लक्ष्मण को क्रुद्ध देख, सैकड़ों बंदर चारों ओर भाग गए। उनमें जो श्रेष्ठ वानर थे, उन्होंने सुग्रीव के भवन में जा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 31,
+      "verse": 22,
+      "sloka": "तारया सहितः कामी सक्तः कपिवृषः तदा ।न तेषाम् कपि वीराणाम् शुश्राव वचनम् तदा ॥४-३१-२२॥",
+      "transliteration": "tārayā sahitaḥ kāmī saktaḥ kapivṛṣaḥ tadā ।na teṣām kapi vīrāṇām śuśrāva vacanam tadā ॥4-31-22॥",
+      "translations": {
+        "english": "But Sugriva who was engrossed in overtures with passionate Tara, did not heed the words of the monkeychiefs.",
+        "hindi": "लद्दमण का क्रद्ध हो आना कह सुनाया । सुग्रीव उस समय तारा के साथ कामासक्त था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 31,
+      "verse": 23,
+      "sloka": "ततः सचिव संदिष्टा हरयो रोमहर्षणाः ।गिरि कुंजर मेघ आभा नगर्या निर्ययुः तदा ॥४-३१-२३॥",
+      "transliteration": "tataḥ saciva saṁdiṣṭā harayo romaharṣaṇāḥ ।giri kuṁjara megha ābhā nagaryā niryayuḥ tadā ॥4-31-23॥",
+      "translations": {
+        "english": "Commanded by the ministers, the monkeys who looked like fierce mountains, elephants and clouds that caused horripilation, left the place at once.",
+        "hindi": "अतः उसने उन वानरवीरों की बात पर कुछ भी ध्यान न दिआ । तब मंत्रियों की आज्ञा से बड़े बड़े वानर, जिनको देखने से रोंगटे खड़े हो जाते",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 31,
+      "verse": 24,
+      "sloka": "नख दंष्ट्र आयुधा सर्वे वीराः विकृत दर्शनाः ।सर्वे शार्दूल दर्पाः च सर्वे च विकृत आननाः ॥४-३१-२४॥",
+      "transliteration": "nakha daṁṣṭra āyudhā sarve vīrāḥ vikṛta darśanāḥ ।sarve śārdūla darpāḥ ca sarve ca vikṛta ānanāḥ ॥4-31-24॥",
+      "translations": {
+        "english": "The monkeys, their faces, deformed, their nails and teeth like weapons were dreadful and horrifying in appearance, proud as tigers",
+        "hindi": "र जिनके शरीर का डीलडोल, पहाड़ अथवा हाथी अथवा मेघों के समान था, किष्किन्धा नगरी से निऊले । उनके बड़े कड़े दाँत और नख उनके आयुध थे और उनको देखने से डर मालूम पड़ता था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 31,
+      "verse": 25,
+      "sloka": "दश नाग बलाः केचित् केचित् दश गुणोत्तराः ।केचित् नाग सहस्रस्य बभूवुः तुल्य वर्चसः ॥४-३१-२५॥",
+      "transliteration": "daśa nāga balāḥ kecit kecit daśa guṇottarāḥ ।kecit nāga sahasrasya babhūvuḥ tulya varcasaḥ ॥4-31-25॥",
+      "translations": {
+        "english": "Of them some possessed the strength of ten, some a hundred and some a thousand elephants. All of them were of equal valour.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 31,
+      "verse": 26,
+      "sloka": "ततः तैः कपिभिर् व्याप्ताम् द्रुम हस्तैर् महाबलैः ।अपश्यत् लक्ष्मणः क्रुद्धः किष्किंधाम् ताम् दुरासदम् ॥४-३१-२६॥",
+      "transliteration": "tataḥ taiḥ kapibhir vyāptām druma hastair mahābalaiḥ ।apaśyat lakṣmaṇaḥ kruddhaḥ kiṣkiṁdhām tām durāsadam ॥4-31-26॥",
+      "translations": {
+        "english": "Enraged Lakshmana saw the huge inacccessible city of Kishkinda filled with mighty strong and fierce monkeys holding trees in hand.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 31,
+      "verse": 27,
+      "sloka": "ततः ते हरयः सर्वे प्राकार परिख अंतरात् ।निष्क्रम्य उदग्र सत्त्वाः तु तस्थुर् आविष्कृतम् तदा ॥४-३१-२७॥",
+      "transliteration": "tataḥ te harayaḥ sarve prākāra parikha aṁtarāt ।niṣkramya udagra sattvāḥ tu tasthur āviṣkṛtam tadā ॥4-31-27॥",
+      "translations": {
+        "english": "The mighty monkeys came out of the entrance of the ironboundary wall from beneath and made their appearance and stood in full attention.",
+        "hindi": "ऋद्ध लमण जी ने देखा कि, समस्त किष्छन्धा नगरी बानरों से भरी हुई हे और कोई भी शत्रु उसे जीत नहीं सकता | तदनन्तर बे सब भारी बानर कोट और खाई से निकल खुनंखुल्ला लड़ने को खडे हों गए । तदनन्तर सुग्रीब के प्रमाद ओर अपने बडे भाई के कार्य को",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 31,
+      "verse": 28,
+      "sloka": "सुग्रीवस्य प्रमादम् च पूर्वजस्य अर्थम् आत्मवान् ।दृष्ट्वा कोप वशम् वीरः पुनर् एव जगाम सः ॥४-३१-२८॥",
+      "transliteration": "sugrīvasya pramādam ca pūrvajasya artham ātmavān ।dṛṣṭvā kopa vaśam vīraḥ punar eva jagāma saḥ ॥4-31-28॥",
+      "translations": {
+        "english": "The sensible warrior, recognising Sugriva's dereliction of duty and his own brother's agony once again flew into fury.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 31,
+      "verse": 29,
+      "sloka": "स दीर्घ उष्ण महा उच्छ्वासः कोप संरक्त लोचनः ।बभूव नर शार्दूल स धूम इव पावकः ॥४-३१-२९॥",
+      "transliteration": "sa dīrgha uṣṇa mahā ucchvāsaḥ kopa saṁrakta locanaḥ ।babhūva nara śārdūla sa dhūma iva pāvakaḥ ॥4-31-29॥",
+      "translations": {
+        "english": "Sighing hot, deep breath, eyes turned red in anger, this tiger among men appeared like fire with smoke (The sigh was smoke and red eyes, fire).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 31,
+      "verse": 30,
+      "sloka": "बाण शल्य स्फुरत् जिह्वः सायक आसन भोगवान् ।स्व तेजो विष संघातः पंच आस्य इव पन्नगः ॥४-३१-३०॥",
+      "transliteration": "bāṇa śalya sphurat jihvaḥ sāyaka āsana bhogavān ।sva tejo viṣa saṁghātaḥ paṁca āsya iva pannagaḥ ॥4-31-30॥",
+      "translations": {
+        "english": "His bow was like the hood of a snake,with the iron nails fixed on the tip of his arrows like moving fangs and his own brightness like the venom of the fivehooded snake.",
+        "hindi": "बिचार कर, वीर लदमण अत्यन्त क्रुद्ध हुए । लम्बी और गरम श्वास लेते मारे क्रोध के लाल लाल आखा वाले: धूम सहित श्राप की तरह जान पढ़ने लगे । फिर लगे हुए बाण ही मानों लपलपाती हुई जिह्ा हे, धनुष जिसका शरीर है; ऐसे पाँच सिर 25% विप- घर सर्प की तरह वे जान पड़ने लगे। का ज्ञाप्ति की तरद्द प्रदीप्त आर क्रुद्ध गजराज की तरह",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 31,
+      "verse": 31,
+      "sloka": "तम् दीप्तम् इव कालाग्निम् नागेन्द्रम् इव कोपितम् ।समासाद्य अंगदः त्रासात् विषादम् अगमत् परम् ॥४-३१-३१॥",
+      "transliteration": "tam dīptam iva kālāgnim nāgendram iva kopitam ।samāsādya aṁgadaḥ trāsāt viṣādam agamat param ॥4-31-31॥",
+      "translations": {
+        "english": "Dismayed, Angada approached Lakshmana, who was glowing like fire at the time of dissolution of the world and enraged like the lord of serpents.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 31,
+      "verse": 32,
+      "sloka": "सो अंगदम् रोष ताम्राक्षः संदिदेश महायशाः ।सुग्रीवः कथ्यताम् वत्स मम आगमनम् इति उत ॥४-३१-३२॥",
+      "transliteration": "so aṁgadam roṣa tāmrākṣaḥ saṁdideśa mahāyaśāḥ ।sugrīvaḥ kathyatām vatsa mama āgamanam iti uta ॥4-31-32॥",
+      "translations": {
+        "english": "Renowned Lakshmana, with his eyes turned red in anger said to Angada 'O dear, inform Sugriva, about my arrival'.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 31,
+      "verse": 33,
+      "sloka": "एष रामानुजः प्राप्तः त्वत् सकाशम् अरिन्दमः ।भ्रातुर् व्यसन संतप्तो द्वारि तिष्ठति लक्ष्मणः ॥४-३१-३३॥",
+      "transliteration": "eṣa rāmānujaḥ prāptaḥ tvat sakāśam arindamaḥ ।bhrātur vyasana saṁtapto dvāri tiṣṭhati lakṣmaṇaḥ ॥4-31-33॥",
+      "translations": {
+        "english": "'O subduer of enemies speak in this way: 'Lakshmana, the dear younger brother of Rama has come to you and waits for your presence at the entrance, burning in grief of his elder brother. Well, if you like to hear his words, do as you please.' 'Return swiftly after saying so.'",
+        "hindi": "लक्ष्मण को देख अंगद बहुत डर गए ओर बडे दुःखी हुए । इस समय लाल लाल नेत्रों से अंगर को देख, महायशस्त्रो लद्षमणा ने उनको आज्ञा दी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 31,
+      "verse": 34,
+      "sloka": "तस्य वाक्यम् यदि रुचिः क्रियताम् साधु वानरः ।इति उक्त्वा शीघ्रम् आगच्छ वत्स वाक्यम् अरिन्दम ॥४-३१-३४॥",
+      "transliteration": "tasya vākyam yadi ruciḥ kriyatām sādhu vānaraḥ ।iti uktvā śīghram āgaccha vatsa vākyam arindama ॥4-31-34॥",
+      "translations": {
+        "english": "'O subduer of enemies speak in this way: 'Lakshmana, the dear younger brother of Rama has come to you and waits for your presence at the entrance, burning in grief of his elder brother. Well, if you like to hear his words, do as you please.' 'Return swiftly after saying so.'",
+        "hindi": "हे वत्स! ज!कर सुग्रींव के मेरे आगमन की सूचना दो और कहना कि हे शात्रुनाशक ! श्रीराम वन्द्र जी के छोटे भाई लक्ष्मण अपने भाई के दुःख से सम्तप्त हो, तुमसे मिलने के लिए दरवाजे पर खड़े हूँ । «दि तुम उनके वचन सुनना पसन्द करो, तो शीघ्र आकर सुनो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 31,
+      "verse": 35,
+      "sloka": "लक्ष्मणस्य वचः श्रुत्वा शोकाविष्टो अंगदो अब्रवीत् ।पितुः समीपम् आगम्य सौमित्रिः अयम् आगतः ॥४-३१-३५॥",
+      "transliteration": "lakṣmaṇasya vacaḥ śrutvā śokāviṣṭo aṁgado abravīt ।pituḥ samīpam āgamya saumitriḥ ayam āgataḥ ॥4-31-35॥",
+      "translations": {
+        "english": "On hearing Lakshmana's words Angada became sad. He approached his father (Sugriva) and said 'Saumitri has come'. (This sloka appears an interpolation).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 31,
+      "verse": 36,
+      "sloka": "अथ अंगदः तस्य सुतीव्र वाचासंभ्रांत भावः परिदीन वक्त्रः ।निर्गत्य पूर्वम् नृपतेः तरस्वीततो रुमायाः चरणौ ववन्दे ॥४-३१-३६॥",
+      "transliteration": "atha aṁgadaḥ tasya sutīvra vācāsaṁbhrāṁta bhāvaḥ paridīna vaktraḥ ।nirgatya pūrvam nṛpateḥ tarasvītato rumāyāḥ caraṇau vavande ॥4-31-36॥",
+      "translations": {
+        "english": "On hearing Lakshmana's words powerful Angada felt agitated. His face turned pale. He went and prostrated at once to the king and then to the queen, Ruma.",
+        "hindi": "लक्ष्मणस्य वच! श्रुत्वा शोकाविष्टोडच्डदोउ्ब्रबीत्‌ । पितुः समीपमागम्य सौमित्रिरयमागत; ॥३७)॥ हे वत्स ! मेरा यह संदेसा सुमोव से कह, तुम शोघ्र वापिस आओ । लक्षण के ये वचन सुन, शोकाकुन हो, अंगद दौड़ कर सुम्रीब के पास गए ओर बोले कि, देखिये लक्ष्मण आए हुए हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 31,
+      "verse": 37,
+      "sloka": "संगृह्य पादौ पितुः उग्रतेजाजग्राह मातुः पुनर् एव पादौ ।पादौ रुमायाः च निपीडयित्वानिवेदयामास ततः तत् अर्थम् ॥४-३१-३७॥",
+      "transliteration": "saṁgṛhya pādau pituḥ ugratejājagrāha mātuḥ punar eva pādau ।pādau rumāyāḥ ca nipīḍayitvānivedayāmāsa tataḥ tat artham ॥4-31-37॥",
+      "translations": {
+        "english": "Highly brilliant Angada holding his father's feet first, then mother's and thereafter Ruma's, reported the matter to Sugriva.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 31,
+      "verse": 38,
+      "sloka": "स निद्रा मद संवीतो वानरो न विबुद्धवान् ।बभूव मद मत्तः च मदनेन च मोहितः ॥४-३१-३८॥",
+      "transliteration": "sa nidrā mada saṁvīto vānaro na vibuddhavān ।babhūva mada mattaḥ ca madanena ca mohitaḥ ॥4-31-38॥",
+      "translations": {
+        "english": "The monkey was too drowsy with drink, too intoxicated with passion to come back to his senses.",
+        "hindi": "अंगद, लक्ष्मण के वचन सुन, अत्यन्त विकल और उदास हुए । उन्होंने लक्ष्मण के पास से जा पहले सुग्रीव को, फिर रुमा को प्रणाम झिया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 31,
+      "verse": 39,
+      "sloka": "ततः किल किलाम् चक्रुः लक्ष्मणम् प्रेक्ष्य वानराः ।प्रसादयन्तः तम् क्रुद्धम् भय मोहित चेतसः ॥४-३१-३९॥",
+      "transliteration": "tataḥ kila kilām cakruḥ lakṣmaṇam prekṣya vānarāḥ ।prasādayantaḥ tam kruddham bhaya mohita cetasaḥ ॥4-31-39॥",
+      "translations": {
+        "english": "Looking at angry Lakshmana, and scared at heart, the monkeys started making a noise in order to please him.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 31,
+      "verse": 40,
+      "sloka": "ते महा ओघ निभम् दृष्ट्वा वज्र अशनि सम स्वनम् ।सिंह नादम् समम् चक्रुर् लक्ष्मणस्य समीपतः ॥४-३१-४०॥",
+      "transliteration": "te mahā ogha nibham dṛṣṭvā vajra aśani sama svanam ।siṁha nādam samam cakrur lakṣmaṇasya samīpataḥ ॥4-31-40॥",
+      "translations": {
+        "english": "They saw Lakshmana advancing like a mighty flood and went near him making sounds like the thunderbolt or a lion.",
+        "hindi": "मदनमोहित मदमत्त वानर सुग्रीव निद्रा के कारण ऐसे बेसुध थे कि, अंगद कीबातें न तो उन्होंने सुनी और न सभमी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 31,
+      "verse": 41,
+      "sloka": "तेन शब्देन महता प्रत्यबुध्यत वानरः ।मद विह्वल ताम्राक्षो व्याकुल स्रग्वि भूषणः ॥४-३१-४१॥",
+      "transliteration": "tena śabdena mahatā pratyabudhyata vānaraḥ ।mada vihvala tāmrākṣo vyākula sragvi bhūṣaṇaḥ ॥4-31-41॥",
+      "translations": {
+        "english": "By the great sound (of the monkeys) the drunken redeyed vanara king awakened, his garlands and ornaments in disarray.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 31,
+      "verse": 42,
+      "sloka": "अथ अंगद वचः श्रुत्वा तेन एव च समागतौ ।मंत्रिणो वानरेन्द्रस्य सम्मत उदार दर्शिनौ ॥४-३१-४२॥",
+      "transliteration": "atha aṁgada vacaḥ śrutvā tena eva ca samāgatau ।maṁtriṇo vānarendrasya sammata udāra darśinau ॥4-31-42॥",
+      "translations": {
+        "english": "On hearing Angada's words the two ministers named Plaksha and Prabhava who were perrmitted to have audience with the queens went to the harem on invitation from Angada. They reported to Sugriva about the arrival of Lakshmana who had come to speak to him about matters regading wealth and righteousness.",
+        "hindi": "उस समय उन दानरों का एक साथ किलकारियों. का शब्द ऐसा हुआ जैसा कि, बिजली की कड़क का अथवा सिंहनाद का होता है । यह शब्द लक्ष्मण जी के पास ही हुआ था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 31,
+      "verse": 43,
+      "sloka": "प्लक्षः च एव प्रभावः च मंत्रिणौ अर्थ धर्मयोः ।वक्तुम् उच्चावचम् प्राप्तम् लक्ष्मणम् तौ शशंसतुः ॥४-३१-४३॥",
+      "transliteration": "plakṣaḥ ca eva prabhāvaḥ ca maṁtriṇau artha dharmayoḥ ।vaktum uccāvacam prāptam lakṣmaṇam tau śaśaṁsatuḥ ॥4-31-43॥",
+      "translations": {
+        "english": "On hearing Angada's words the two ministers named Plaksha and Prabhava who were perrmitted to have audience with the queens went to the harem on invitation from Angada. They reported to Sugriva about the arrival of Lakshmana who had come to speak to him about matters regading wealth and righteousness.",
+        "hindi": "उस महाकोलाहल को सुन सुप्रीब होश में आए । परन्तु उस समय सुग्रीब के नेत्र नशे से लाल हो रदे थे और पुष्पमाला उनके गले में सुशोभित हो रही थी । किन्तु वे उस समय घबडाए हूए थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 31,
+      "verse": 44,
+      "sloka": "प्रसादयित्वा सुग्रीवम् वचनैः स अर्थ निश्चितैः ।आसीनम् पर्युपासीनौ यथा शक्रम् मरुत्पतिम् ॥४-३१-४४॥",
+      "transliteration": "prasādayitvā sugrīvam vacanaiḥ sa artha niścitaiḥ ।āsīnam paryupāsīnau yathā śakram marutpatim ॥4-31-44॥",
+      "translations": {
+        "english": "Both of them sat close by Sugriva who was like Indra and said these pleasing words:",
+        "hindi": "सुप्रीब ने अंगद के बचन सुने । इतने में अंगद के साथ ही सद ओर प्रभाव नामक सुमोब के दो मन्त्री भी सुग्रीव के पास पहुँचे । ये दोनां मन्त्री सुपीव के कपापात्र और सच से मिलते भेंटते थे ये अर्थं और धमं सम्बन्धी विषयों में सुधाक ड नीच सममाया करते थे। इन दोनों ने भी लक्ष्मंण के आगमन की सूचना सु्रीब को दी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 31,
+      "verse": 45,
+      "sloka": "सत्य संधौ महाभागौ भ्रातरौ राम लक्ष्मणौ ।वयस्य भावम् संप्राप्तौ राज्य अर्हौ राज्य दायिनौ ॥४-३१-४५॥",
+      "transliteration": "satya saṁdhau mahābhāgau bhrātarau rāma lakṣmaṇau ।vayasya bhāvam saṁprāptau rājya arhau rājya dāyinau ॥4-31-45॥",
+      "translations": {
+        "english": "'Rama and Lakshmana, both the brothers venerable and true to their promise, have conferred on you sovereignty and have extended friendship.'",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 31,
+      "verse": 46,
+      "sloka": "तयोः एको धनुष्पाणिर् द्वारि तिष्ठति लक्ष्मणः ।यस्य भीताः प्रवेपन्ते नादान् मुंचन्ति वानराः ॥४-३१-४६॥",
+      "transliteration": "tayoḥ eko dhanuṣpāṇir dvāri tiṣṭhati lakṣmaṇaḥ ।yasya bhītāḥ pravepante nādān muṁcanti vānarāḥ ॥4-31-46॥",
+      "translations": {
+        "english": "'Of the two, only Lakshmana is standing at the entrance wielding his bow in hand. The monkeys are trembling in fear and running about, making a loud noise'.",
+        "hindi": "लक्ष्मण को किस प्रकार सांत्वना देनी उचित है--प्रथम तो इस विषय की वार्तालाप कर, उन दोनों ने सुग्रीव को प्रसन्न किआ । फिर वे दोनों सुग्रीव के दोनों ओर, बैसे ही बैठ गए, जैसे इन्द्र के पास देवता बैठते हें",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 31,
+      "verse": 47,
+      "sloka": "स एष राघव भ्राता लक्ष्मणो वाक्य सारथिः ।व्यवसाय रथः प्राप्तः तस्य रामस्य शासनात् ॥४-३१-४७॥",
+      "transliteration": "sa eṣa rāghava bhrātā lakṣmaṇo vākya sārathiḥ ।vyavasāya rathaḥ prāptaḥ tasya rāmasya śāsanāt ॥4-31-47॥",
+      "translations": {
+        "english": "'By the command of Rama, his brother has come to you, Rama's words as charioteer and his work as chariot'.",
+        "hindi": "ु तदनन्तर उन दोनों ने कहा--आपको राज्य दिलाने वाले, स्वयं राज्यशासन करने की योग्यता रखने बाले, महाभाग सत्य प्रतिज्ञ, दोनों भाई श्रीरामचन्द्र और लक्ष्मण, जो तुम्हारे साथ मैत्री कर चुके हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 31,
+      "verse": 48,
+      "sloka": "अयम् च तनयो राजन् ताराया दयितो अंगदः ।लक्ष्मणेन सकाशम् ते प्रेषितः त्वरया अनघ ॥४-३१-४८॥",
+      "transliteration": "ayam ca tanayo rājan tārāyā dayito aṁgadaḥ ।lakṣmaṇena sakāśam te preṣitaḥ tvarayā anagha ॥4-31-48॥",
+      "translations": {
+        "english": "'O blameless king Tara's son, Angada, has sent us into your presence. Lakshmana has come.'",
+        "hindi": "उन दोनों में से एक जन लक्ष्मण धनुष हाथ में लिये द्वारा पर खड़े हें । उन्हींके डर से वानर थर थर काँपते नुए कोलाहल मचा रहे हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 31,
+      "verse": 49,
+      "sloka": "सः अयम् रोष परीताक्षो द्वारि तिष्ठति वीर्यवान् ।वानरान् वानरपते चक्षुसा निर्दहन इव ॥४-३१-४९॥",
+      "transliteration": "saḥ ayam roṣa parītākṣo dvāri tiṣṭhati vīryavān ।vānarān vānarapate cakṣusā nirdahana iva ॥4-31-49॥",
+      "translations": {
+        "english": "'O lord of monkeys Valiant Lakshmana is standing at the entrance,eyes filled with anger as if he would burn the vanaras'.",
+        "hindi": "हे वानरपते ! वे पराक्रत लक्ष्मण जी ही क्रोध से लाल नेत्र किए, मानों अपने नेत्रान्नि से वानरौं को जलाते हुए, द्वार पर खड़े हे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 31,
+      "verse": 50,
+      "sloka": "तस्य मूर्ध्ना प्रणम्य त्वम् स पुत्र सह बान्धवः ।गच्छ शीघ्रम् महाराज रोषो हि अद्य उपशम्यताम् ॥४-३१-५०॥",
+      "transliteration": "tasya mūrdhnā praṇamya tvam sa putra saha bāndhavaḥ ।gaccha śīghram mahārāja roṣo hi adya upaśamyatām ॥4-31-50॥",
+      "translations": {
+        "english": "'O great king Go at once with your son and relations, salute him now and avert his anger'.",
+        "hindi": "टिप्पणी--ब्यवटाय रूपी रथ से अभिप्राय है कत्तन्यकार्य का निश्चय करने के लिए--( शि ) “ व्यवसाय; करणीयार्थविषयकनिश्चयः । ] अयं च दयितो राजंम्तारायास्तनयोऽङ्गदः । लक्ष्मणेन सकाशं ते प्रेपितस्त्वरयानघ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 4,
+      "kanda_name": "Kishkindha Kanda",
+      "kanda_name_sanskrit": "किष्किन्धाकाण्डम्",
+      "sarga": 31,
+      "verse": 51,
+      "sloka": "यथा आह रामो धर्मात्मा तत् कुरुष्व समाहितः ।राजन् तिष्ठ स्व समये भव सत्य प्रतिश्रवः ॥४-३१-५१॥",
+      "transliteration": "yathā āha rāmo dharmātmā tat kuruṣva samāhitaḥ ।rājan tiṣṭha sva samaye bhava satya pratiśravaḥ ॥4-31-51॥",
+      "translations": {
+        "english": "'O king be true to your promise to his brother, righteous Rama without fail. Honour the agreement.' इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये किष्किन्धाकाण्डे एकत्रिंशस्सर्गः।। Thus ends the thirtyfirst sarga of Kishkindakanda of the Holy Ramayana, the first epic, composed by sage Valmiki.",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

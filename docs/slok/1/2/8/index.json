@@ -1,0 +1,14 @@
+{
+  "kanda": 1,
+  "kanda_name": "Bala Kanda",
+  "kanda_name_sanskrit": "बालकाण्डम्",
+  "sarga": 2,
+  "verse": 8,
+  "sloka": "स शिष्य हस्तात् आदाय वल्कलम् नियतेन्द्रियः ।विचचार ह पश्यन् तत् सर्वतो विपुलम् वनम् ॥१-२-८॥",
+  "transliteration": "sa śiṣya hastāt ādāya valkalam niyatendriyaḥ ।vicacāra ha paśyan tat sarvato vipulam vanam ॥1-2-8॥",
+  "translations": {
+    "english": "Valmiki who had his senses under his command received the barkgarment from the hands of his disciple and wandered about in that extensive forest, looking all around.",
+    "hindi": "शिष्य के हाथ से बल्कल ले, महर्षि विशाल वनं की शोभा निरखते हुए टहलने लगे",
+    "telugu": "మహామనస్వియైన వాల్మీకి ఇట్లు ఆదేశింపగా గురుసేవా నిరతుడైన భరద్వాజుడు ఆ మహర్షికి వల్కలమును అందించెను. జితేంద్రియుడైన ఆ ముని శిష్యునినుండి తనవస్త్రమును గ్రహించి, విశాలమైన ఆ వనమును తిలకించుచు దివ్యమైన దాని రమణీయకమునకు మిక్కిలి అబ్బురపడెను."
+  }
+}

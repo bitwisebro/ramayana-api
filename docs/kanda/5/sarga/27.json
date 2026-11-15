@@ -1,0 +1,723 @@
+{
+  "kanda": 5,
+  "kanda_name": "Sundara Kanda",
+  "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+  "sarga": 27,
+  "verses_count": 51,
+  "verses": [
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 27,
+      "verse": 1,
+      "sloka": "इत्युक्ताः सीतया घोरा राक्षस्यः क्रोधमूर्च्छिताः ।काश्चिज्जग्मुस्तदाख्यातुं रावणस्य तरस्विनः ।। ५.२७.१।।।।",
+      "transliteration": "ityuktāḥ sītayā ghorā rākṣasyaḥ krodhamūrcchitāḥ ।kāścijjagmustadākhyātuṁ rāvaṇasya tarasvinaḥ ।। 5.27.1।।।।",
+      "translations": {
+        "english": "Hearing Sita's words, some terrifying demonesses, overwhelmed with anger, went to inform Ravana, who was quick to act.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 27,
+      "verse": 2,
+      "sloka": "ततः सीतामुपागम्य राक्षस्यो घोरदर्शनाः ।पुनः परुषमेकार्थमनर्थार्थमथाब्रुवन् ।। ५.२७.२।।।।",
+      "transliteration": "tataḥ sītāmupāgamya rākṣasyo ghoradarśanāḥ ।punaḥ paruṣamekārthamanarthārthamathābruvan ।। 5.27.2।।।।",
+      "translations": {
+        "english": "The dreadfullooking demonesses once again approached Sita and conveyed her categorically in harsh words the terrible consequences (ahead)",
+        "hindi": "राक्षसियों में फंसी और रावण से डराई-धमकाई हुई सीता, निर्जन वनः में छोड़ी हुई एक लड़की की तरह विलाप करने लगी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 27,
+      "verse": 3,
+      "sloka": "अद्येदानीं तवानार्ये सीते पापविनिश्चये ।राक्षस्यो भक्षयिष्यन्ति मांसमतेद्यतासुखम् ।। ५.२७.३।।।।",
+      "transliteration": "adyedānīṁ tavānārye sīte pāpaviniścaye ।rākṣasyo bhakṣayiṣyanti māṁsamatedyatāsukham ।। 5.27.3।।।।",
+      "translations": {
+        "english": "\"O vile one you are determined in your evil ways. Today these shedemons will eat away your flesh to their heart's content \".",
+        "hindi": "सुन्दरकाण्ड बड़े दुःख की बात है सज्जनों का यह कथन सत्य ही है कि, बिना समय आए कोई नहीं भरता । क्योंकि यदि ऐसा न होता, तो इतनी डराई-घमकाई रौर तिरस्कार किए जाने पर, में पापिन (क्या) एक क्षण भी जीती, जागती बनी रह सकती थी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 27,
+      "verse": 4,
+      "sloka": "सीतां ताभिरनार्याभिर्दृष्ट्वा सन्तर्जितां तदा ।राक्षसी त्रिजटा वृद्धा शयाना वाक्यमब्रवीत् ।। ५.२७.४।।।।",
+      "transliteration": "sītāṁ tābhiranāryābhirdṛṣṭvā santarjitāṁ tadā ।rākṣasī trijaṭā vṛddhā śayānā vākyamabravīt ।। 5.27.4।।।।",
+      "translations": {
+        "english": "Then seeing the ignoble shedemons threatening Sita, an old demoness called Trijata, who was lying down there, said:",
+        "hindi": "मुखरहित मर दुःखपूर्ण मेरा हृदय निश्चय ही बड़ा कठोर है । यदि यह ऐसा न होता तो, वज्र से तोड़े गए पर्वत शिखर की तरह यह हजार टुकड़े क्यों नहीं हो गया ?",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 27,
+      "verse": 5,
+      "sloka": "आत्मानं खादतानार्या न सीतां भक्षयिष्यथ ।जनकस्य सुतामिष्टां स्नुषां दशरथस्य च ।। ५.२७.५।।।।",
+      "transliteration": "ātmānaṁ khādatānāryā na sītāṁ bhakṣayiṣyatha ।janakasya sutāmiṣṭāṁ snuṣāṁ daśarathasya ca ।। 5.27.5।।।।",
+      "translations": {
+        "english": "\"Devour yourselves now, O ignoble ones, if you will. Do not eat Janaka's favourite daughter, the daughterinlaw of Dasaratha.",
+        "hindi": "निश्चय ही मुझे आत्महत्या का पाप नहीं होगा । क्योंकि अन्त में तो यह भयङ्कर राक्षस मुझे मार ही डालेगा । ग्रतः इसके द्वारा मारी जाने की अपेक्षा स्वयं ही मर जाना अच्छा है । फिर जिस प्रकार ब्राह्मण शूद्र को वेद- मन्त्र नहीं दे सकता, वेसे ही में पना हृदय रावण को नहीं दे सकती (अर्थात्‌ उसे नहीं चाह सकती)",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 27,
+      "verse": 6,
+      "sloka": "स्वप्नो ह्यद्य मया दृष्टो दारुणो रोमहर्षणः ।राक्षसानामभावाय भर्तुरस्या भवाय च ।। ५.२७.६।।।।",
+      "transliteration": "svapno hyadya mayā dṛṣṭo dāruṇo romaharṣaṇaḥ ।rākṣasānāmabhāvāya bharturasyā bhavāya ca ।। 5.27.6।।।।",
+      "translations": {
+        "english": "\"Tonight I had a terrific, horriplating nightmare in which I saw the annihilation of all demons and the triumph of Sita's husband\".",
+        "hindi": "नोट--भ्रलं द्विजो मन्त्रमिवाद्विजाय से पता चलता है कि रामायण काल में भी शूट्रों को वेद पढ़ने का अधिकार प्राप्त न था । नूनं ममाङ्गान्यचिरादनायंः शस्त्र: शितेश्छेत्स्यति राक्षसेन्द्रः । १ भावं--हूदयं । (गो०) तस्मिन्ननागच्छति लोकनाथे गर्भस्थजन्तोरिव शल्यकृन्तः",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 27,
+      "verse": 7,
+      "sloka": "एवमुक्तास्त्रिजटया राक्षस्यः क्रोधमूर्च्छिताः ।सर्वा एवाब्रुवन् भीतास्त्रिजटां तामिदं वचः ।कथयस्व त्वया दृष्टः स्वप्नो ऽयं कीदृशो निशि ।। ५.२७.७।।।।",
+      "transliteration": "evamuktāstrijaṭayā rākṣasyaḥ krodhamūrcchitāḥ ।sarvā evābruvan bhītāstrijaṭāṁ tāmidaṁ vacaḥ ।kathayasva tvayā dṛṣṭaḥ svapno 'yaṁ kīdṛśo niśi ।। 5.27.7।।।।",
+      "translations": {
+        "english": "Seized with fear, the shedemons, overcome with wrath on hearing Trijata's words said to her.",
+        "hindi": "नोट--गर्भस्थ जन्तोरिव शल्यक्ृन्त: से जान पड़ता है शस्त्र-चिकित्सा रामायण काल में, भारतवर्ष में थी । 9४८४० का ज्ञान भारत में श्रङ्गरेजों के श्राने पर हुप्रा यह वाक्य, इस धारणा को खण्डन करता है । ] दुःखं बतेदं मम दुःखिताया सासो चिरायाधिगमिष्यतो द्वौ । बद्धस्य बध्यस्य यथा निशान्ते रजोपरोधादिव तस्करस्य",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 27,
+      "verse": 8,
+      "sloka": "तासां श्रुत्वा तु वचनं राक्षसीनां मुखाच्च्युतम् ।उवाच वचनं काले त्रिजटा स्वप्नसंश्रितम् ।। ५.२७.८।।।।",
+      "transliteration": "tāsāṁ śrutvā tu vacanaṁ rākṣasīnāṁ mukhāccyutam ।uvāca vacanaṁ kāle trijaṭā svapnasaṁśritam ।। 5.27.8।।।।",
+      "translations": {
+        "english": "\"O Trijata, tell us the kind of dream you dreamt last night\", they insisted. Hearing the words from the mouth of the shedemons, Trijata told them all about her dream.",
+        "hindi": "हा राम! हा लक्ष्मण ! हा सुमित्रे ! हा कौसिल्ये ! हा मेरी माता | में प्पने मन्दभाग्य के कारण वेसे ही नाश को प्राप्त होने वाली हूं; जेसे महासागर में तूफान से नाव का नाश होता है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 27,
+      "verse": 9,
+      "sloka": "गजदन्तमयीं दिव्यां शिबिकामन्तरिक्षगाम् ।। ५.२७.९।।।।",
+      "transliteration": "gajadantamayīṁ divyāṁ śibikāmantarikṣagām ।। 5.27.9।।।।",
+      "translations": {
+        "english": "\"Rama, in white attire, wearing a garland of white flowers, ascending a palanquin made of ivory drawn by a thousand swans and coursing through the sky with Lakshmana arrived.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 27,
+      "verse": 10,
+      "sloka": "युक्तां हंससहस्रेण स्वयमास्थाय राघवः ।शुक्लमाल्याम्बरधरो लक्ष्मणेन सहा गतः ।। ५.२७.१०।।।।",
+      "transliteration": "yuktāṁ haṁsasahasreṇa svayamāsthāya rāghavaḥ ।śuklamālyāmbaradharo lakṣmaṇena sahā gataḥ ।। 5.27.10।।।।",
+      "translations": {
+        "english": "\"Rama, in white attire, wearing a garland of white flowers, ascending a palanquin made of ivory drawn by a thousand swans and coursing through the sky with Lakshmana arrived.",
+        "hindi": "मुगरूपघारी उस काल ने भ्रवष्य ही मुझ मन्दभाम्यवाली की बुद्धि उस समय हर ली थी । तमी तो मुझ मूढ़िबुद्धि वाली ने दोनों के दोनों राजकुमार को--पर्थात्‌ श्रीराम और लक्ष्मण को, ग्राश्रम के बाहर भेज दिया था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 27,
+      "verse": 11,
+      "sloka": "स्वप्ने चाद्य मया दृष्टा सीता शुक्लाम्बरावृता ।सागरेण परिक्षिप्तं श्वेतं पर्वतमास्थिता ।रामेण सङ्गता सीता भास्करेण प्रभा यथा ।। ५.२७.११।।।।",
+      "transliteration": "svapne cādya mayā dṛṣṭā sītā śuklāmbarāvṛtā ।sāgareṇa parikṣiptaṁ śvetaṁ parvatamāsthitā ।rāmeṇa saṅgatā sītā bhāskareṇa prabhā yathā ।। 5.27.11।।।।",
+      "translations": {
+        "english": "\"I also saw Sita in my dream wearing white robes and perched on a white mountain surrounded by the ocean.",
+        "hindi": "हा राम ! हा सत्यब्रतघारी ! हा बड़ी बाहों वाले ! हा पूर्णिमा के चन्द्र की तरह मुख वाले ! हा प्राणीमात्र के हितैषी और प्रिय तुम यह बात झभी नहीं जानते कि, में राक्षसों के हाथ से मारी जाने वाली हूं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 27,
+      "verse": 12,
+      "sloka": "राघवश्च मया दृष्टाश्चतुर्दन्तं महागजम् ।आरूढः शैलसङ्काशं चचार सह लक्ष्मणः ।। ५.२७.१२।।।।",
+      "transliteration": "rāghavaśca mayā dṛṣṭāścaturdantaṁ mahāgajam ।ārūḍhaḥ śailasaṅkāśaṁ cacāra saha lakṣmaṇaḥ ।। 5.27.12।।।।",
+      "translations": {
+        "english": "\"Just as light is united with the Sun, I saw Sita united with Rama. I saw Rama with Lakshmana riding a huge, mountainlike elephant having four tusks.",
+        "hindi": "मैं जो भ्रपने पति को छोड़ प्रन्य किसी देवी-देवता की मान-मनौती नहीं करती--तो मेरी यह श्रनन्यता, मेरी यह क्षमा, मेरा भूमिशयन-ब्रत, पातिब्रत- घर्म का नियमित रूप से पालन, ये समस्त पतिव्रता स्त्रियों के पालने योग्य अनुष्ठान, वैसे ही व्यर्थ हो गए, जैसे किसी का किया हुआ उपकार कृतघ्नों में निष्फल हो जाता है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 27,
+      "verse": 13,
+      "sloka": "ततस्तौ नहशार्दूलौ दीप्यमानौ स्वतेजसा ।शुक्लमाल्याम्बरधरौ जानकीं पर्युपस्थितौ ।। ५.२७.१३।।।।",
+      "transliteration": "tatastau nahaśārdūlau dīpyamānau svatejasā ।śuklamālyāmbaradharau jānakīṁ paryupasthitau ।। 5.27.13।।।।",
+      "translations": {
+        "english": "\"Dressed in white garlands and clothes, the two brothers, tigers among men, glowing in their effulgence approached Janaki.",
+        "hindi": "मेरा ्राचरित यह पातिव्रत घ्म प्रौर मेरा यह श्रभिमान कि, में श्रीराम की एकमात्र पत्नी हूं--निष्पल हुए जाते हें । जो में ऐसी दुर्बल श्रौर विवरण होकर भी तुम्हारे दर्शन नहीं पा रही हैं श्रोर तुम्हारा वियोग होने पर भी तुम्हारे संयोग से हताश हो रही हूँ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 27,
+      "verse": 14,
+      "sloka": "ततस्तस्य नगस्याग्रे ह्याकाशस्थस्य दन्तिनः ।भर्त्रा परिगृहीतस्य जानकी स्कन्धमाश्रिता ।। ५.२७.१४।।।।",
+      "transliteration": "tatastasya nagasyāgre hyākāśasthasya dantinaḥ ।bhartrā parigṛhītasya jānakī skandhamāśritā ।। 5.27.14।।।।",
+      "translations": {
+        "english": "\"Then from the front of the mountain Janaki shifted to the back of the elephant held by her husband waiting in the sky.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 27,
+      "verse": 15,
+      "sloka": "भर्तुरङ्कात् समुत्पत्य ततः कमललोचना ।चन्द्रसूर्यो मया दृष्टा पाणिना परिमार्जती ।। ५.२७.१५।।।।",
+      "transliteration": "bharturaṅkāt samutpatya tataḥ kamalalocanā ।candrasūryo mayā dṛṣṭā pāṇinā parimārjatī ।। 5.27.15।।।।",
+      "translations": {
+        "english": "\"Then I saw the lotuseyed Sita springing up from the lap of her husband and playfully caressing the Moon and Sun with her palms.",
+        "hindi": "किन्तु हे श्रीरामचन्द्र ! मेने तो अपना नाश करने ही के लिए तुमको चाहा और तुमसे प्रेम बढ़ाया । मेरे ब्रत और तप दोनों व्यर्थ गए अतः मुझ शल्प भाग्यवती के जोवन को धिक्कार है । प्रतः में तो भ्रत्र अपने प्राण त्यागती हु",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 27,
+      "verse": 16,
+      "sloka": "ततस्ताभ्यां कुमाराभ्यामास्थितः स गजोत्तमः ।सीतया च विशालाक्ष्या लङ्काया उपरि स्थितः ।। ५.२७.१६।।।।",
+      "transliteration": "tatastābhyāṁ kumārābhyāmāsthitaḥ sa gajottamaḥ ।sītayā ca viśālākṣyā laṅkāyā upari sthitaḥ ।। 5.27.16।।।।",
+      "translations": {
+        "english": "\"Then the excellent elephant was seen halted in the city of Lanka with both princes and the largeeyed Sita mounted on the elephant.",
+        "hindi": "मे अपना जीवन, विष खाकर अथवा गले में पेनी कटारी मार कर शीघ्र समाप्त करती । किन्तु क्या करूं न तो मुझे कोई विष ही लाकर देने वाला यहाँ देख पड़ता है और न मुझे राक्षस के घर में भपना गला काटने को शस्त्र हौ मिल सकता है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 27,
+      "verse": 17,
+      "sloka": "पाण्डुरर्षभयुक्तेन रथेनाष्टयुजा स्वयम् ।इहोपयातः काकुत्स्थः सीतया सह भार्यया ।। ५.२७.१७।।।।",
+      "transliteration": "pāṇḍurarṣabhayuktena rathenāṣṭayujā svayam ।ihopayātaḥ kākutsthaḥ sītayā saha bhāryayā ।। 5.27.17।।।।",
+      "translations": {
+        "english": "\"Rama accompanied by his wife Sita came on a chariot yoked to eight white oxen.",
+        "hindi": "इस प्रकार देवी सीता अनेक प्रकार से विलाप करती तथा श्रीरामचन्द्र का स्मरण करती, थरथराती और मह सुखाए, पुष्पित एवं श्रेष्ठ (शिशपा) वृक्ष के निकट चलो गई और वहाँ जा शोक से विकल हो गई",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 27,
+      "verse": 18,
+      "sloka": "लक्ष्मणेन सह भ्रात्रा सीतया सह वीर्यवान् ।। ५.२७.१८।।।।",
+      "transliteration": "lakṣmaṇena saha bhrātrā sītayā saha vīryavān ।। 5.27.18।।।।",
+      "translations": {
+        "english": "\"Valiant Rama, foremost among men, accompanied by his brother Lakshmana and wife Sita went towards the northerly direction in the wonderful Pushpaka chariot that resembled the Sun.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 27,
+      "verse": 19,
+      "sloka": "आरुह्य पुष्पकं दिव्यं विमानं सूर्यसन्निभम् ।उत्तरां दिशमालोक्य जगाम पुरुषोत्तमः ।। ५.२७.१९।।।।",
+      "transliteration": "āruhya puṣpakaṁ divyaṁ vimānaṁ sūryasannibham ।uttarāṁ diśamālokya jagāma puruṣottamaḥ ।। 5.27.19।।।।",
+      "translations": {
+        "english": "\"Valiant Rama, foremost among men, accompanied by his brother Lakshmana and wife Sita went towards the northerly direction in the wonderful Pushpaka chariot that resembled the Sun.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 27,
+      "verse": 20,
+      "sloka": "एवं स्वप्ने मया दृष्टो रामो विष्णुपराक्रमः ।लक्ष्मणेन सह भ्रात्रा सीतया सह भार्यया * ।। ५.२७.२०।।।।",
+      "transliteration": "evaṁ svapne mayā dṛṣṭo rāmo viṣṇuparākramaḥ ।lakṣmaṇena saha bhrātrā sītayā saha bhāryayā * ।। 5.27.20।।।।",
+      "translations": {
+        "english": "\"In this way I saw in my dream Rama as valiant as Lord Visnu accompanied by his brother Lakshmana and his wife Sita.",
+        "hindi": "इस बीच ही में सीता जी के शोक को नाश करने वाले और वैय घराने वाले लोक में श्रेष्ठ समझे जाने वाले, शुभ शकुन उन्हें देख पड़े",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 27,
+      "verse": 21,
+      "sloka": "न हि रामो महातेजाः शक्यो जेतुं सुरासुरैः ।राक्षसैर्वापि चान्यैर्वा स्वर्गः पापजनैरिव ।। ५.२७.२१।।।।",
+      "transliteration": "na hi rāmo mahātejāḥ śakyo jetuṁ surāsuraiḥ ।rākṣasairvāpi cānyairvā svargaḥ pāpajanairiva ।। 5.27.21।।।।",
+      "translations": {
+        "english": "\"Just as a sinner cannot attain heaven Rama cannot be won by gods or demons, even rakshasas and others.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 27,
+      "verse": 22,
+      "sloka": "रावणश्च मया दृष्टः क्षितौ तैलसमुक्षितः ।रक्तवासाः पिबन् मत्तः करवीरकृतस्रजः ।। ५.२७.२२।।।।",
+      "transliteration": "rāvaṇaśca mayā dṛṣṭaḥ kṣitau tailasamukṣitaḥ ।raktavāsāḥ piban mattaḥ karavīrakṛtasrajaḥ ।। 5.27.22।।।।",
+      "translations": {
+        "english": "\"I saw the body of Ravana lying on the ground smeared with oil, clad in red, wearing a garland of lilies and intoxicated with drinking.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 27,
+      "verse": 23,
+      "sloka": "विमानात् पुष्पकादद्य रावणः पतितो भुवि ।कृष्यमाणः स्त्रिया दृष्टो मुण्डः कृष्णाम्बरः पुनः ।। ५.२७.२३।।।।",
+      "transliteration": "vimānāt puṣpakādadya rāvaṇaḥ patito bhuvi ।kṛṣyamāṇaḥ striyā dṛṣṭo muṇḍaḥ kṛṣṇāmbaraḥ punaḥ ।। 5.27.23।।।।",
+      "translations": {
+        "english": "\"Tonight I saw (in another dream) Ravana with shaven head, clad in black clothes, fallen down on the ground from the Pushpaka chariot, being dragged by a woman.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 27,
+      "verse": 24,
+      "sloka": "रथेन खरयुक्तेन रक्तमाल्यानुलेपनः ।पिबंस्तैलं हसन् नृत्यन् भ्रान्तचित्ताकुलेन्द्रियः ।गर्दभेन ययौ शीघ्रं दक्षिणां दिशमास्थितः ।। ५.२७.२४।।।।",
+      "transliteration": "rathena kharayuktena raktamālyānulepanaḥ ।pibaṁstailaṁ hasan nṛtyan bhrāntacittākulendriyaḥ ।gardabhena yayau śīghraṁ dakṣiṇāṁ diśamāsthitaḥ ।। 5.27.24।।।।",
+      "translations": {
+        "english": "\"He was wearing red garlands and unguents, his body smeared with oil. He was drinking, laughing and dancing, his mind and senses perplexed. He was driving on a chariot yoked to donkeys.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 27,
+      "verse": 25,
+      "sloka": "पुनरेव मया दृष्टो रावणो राक्षसेश्वरः ।पतितो ऽवाविछरा भूमौ गर्दभाद्भयमोहितः ।। ५.२७.२५।।।।",
+      "transliteration": "punareva mayā dṛṣṭo rāvaṇo rākṣaseśvaraḥ ।patito 'vāvicharā bhūmau gardabhādbhayamohitaḥ ।। 5.27.25।।।।",
+      "translations": {
+        "english": "\"I saw the demon king Ravana running behind the chariot driven by donkeys in the southerly direction. He was falling with his head bent down and deluded by the fear of the donkey.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 27,
+      "verse": 26,
+      "sloka": "सहसोत्थाय सम्भ्रान्तो भयार्तो मदविह्वलः ।उन्मत्त इव दिग्वासा दुर्वाक्यं प्रलपन् बहु ।। ५.२७.२६।।।।",
+      "transliteration": "sahasotthāya sambhrānto bhayārto madavihvalaḥ ।unmatta iva digvāsā durvākyaṁ pralapan bahu ।। 5.27.26।।।।",
+      "translations": {
+        "english": "\"I saw Ravana, getting up quickly, in a bewildered state, terrorstricken, totally confused in intoxication. He had gone almost insane, naked uttering words of abuse. Plunged into a pool of filth and emitting foul smell he disappeared into a helllike dark chamber.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 27,
+      "verse": 27,
+      "sloka": "दुर्गन्धं दुस्सहं घोरं तिमिरं नरकोपमम् ।मलपङ्कं प्रविश्याशु मग्नस्तत्र स रावणः ।। ५.२७.२७।।।।",
+      "transliteration": "durgandhaṁ dussahaṁ ghoraṁ timiraṁ narakopamam ।malapaṅkaṁ praviśyāśu magnastatra sa rāvaṇaḥ ।। 5.27.27।।।।",
+      "translations": {
+        "english": "\"I saw Ravana, getting up quickly, in a bewildered state, terrorstricken, totally confused in intoxication. He had gone almost insane, naked uttering words of abuse. Plunged into a pool of filth and emitting foul smell he disappeared into a helllike dark chamber.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 27,
+      "verse": 28,
+      "sloka": "कण्ठे बद्ध्वा दशग्रीवं प्रमदा रक्तवासिना ।काली कर्दमलिप्ताङ्गी दिशं याम्यां प्रकर्षति ।। ५.२७.२८।।।।",
+      "transliteration": "kaṇṭhe baddhvā daśagrīvaṁ pramadā raktavāsinā ।kālī kardamaliptāṅgī diśaṁ yāmyāṁ prakarṣati ।। 5.27.28।।।।",
+      "translations": {
+        "english": "A dark woman clad in red, body smeared with wet mud was seen dragging the ten-necked Ravana by his neck towards the abode of Yama in the southerly direction.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 27,
+      "verse": 29,
+      "sloka": "एवं तत्र मया दृष्टः कुम्भकर्णौ निशाचरः ।रावणस्य सुताः सर्वे तृष्टास्तैलसमुक्षिताः ।। ५.२७.२९।।।।",
+      "transliteration": "evaṁ tatra mayā dṛṣṭaḥ kumbhakarṇau niśācaraḥ ।rāvaṇasya sutāḥ sarve tṛṣṭāstailasamukṣitāḥ ।। 5.27.29।।।।",
+      "translations": {
+        "english": "\"There I saw the nightranger, Kumbhakarna and also Ravana's sons, their bodies smeared with oil.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 27,
+      "verse": 30,
+      "sloka": "वराहेण दशग्रीवः शिंशुमारेण चेन्द्रजित् ।उष्ट्रेण कुम्भकर्णश्च प्रयातो दक्षिणां दिशम् ।। ५.२७.३०।।।।",
+      "transliteration": "varāheṇa daśagrīvaḥ śiṁśumāreṇa cendrajit ।uṣṭreṇa kumbhakarṇaśca prayāto dakṣiṇāṁ diśam ।। 5.27.30।।।।",
+      "translations": {
+        "english": "\"The tennecked Ravana was seen (this time) riding on a boar, Indrajit on a crocodile and Kumbhakarna on a camel all set towards the southerly direction.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 27,
+      "verse": 31,
+      "sloka": "एकस्तत्र मया दृष्टः श्वेतच्छत्रो विभीषणः ।। ५.२७.३१।।।।",
+      "transliteration": "ekastatra mayā dṛṣṭaḥ śvetacchatro vibhīṣaṇaḥ ।। 5.27.31।।।।",
+      "translations": {
+        "english": "\"Only Vibhishana was under a white umbrella clad in white, with white garlands and white sandal paste.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 27,
+      "verse": 32,
+      "sloka": "शुक्लमाल्याम्बरधरः शुक्लगन्धानुलेपनः ।शङ्खदुन्दुभिनिर्घोषैर्नृत्तगीतैरलङ्कृतः ।। ५.२७.३२।।।।",
+      "transliteration": "śuklamālyāmbaradharaḥ śuklagandhānulepanaḥ ।śaṅkhadundubhinirghoṣairnṛttagītairalaṅkṛtaḥ ।। 5.27.32।।।।",
+      "translations": {
+        "english": "\"(Hailed by) the sounds of conches and drums, and of musicians and dancers, Vibhishana was seen ascending on to a decorated fourtust elephant which was huge like a mountain and trumpting like a thundering cloud. He stood there along with four ministers and reached the aerial region.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 27,
+      "verse": 33,
+      "sloka": "आरुह्य शौलसङ्काशं मेघस्तनितनिःस्वनम् ।चतुर्दन्तं गजं दिव्यमास्ते तत्र विभीषणः ।चतुर्भिः सचिवैः सार्धं वैहायसमुपस्थितः ।। ५.२७.३३।।।।",
+      "transliteration": "āruhya śaulasaṅkāśaṁ meghastanitaniḥsvanam ।caturdantaṁ gajaṁ divyamāste tatra vibhīṣaṇaḥ ।caturbhiḥ sacivaiḥ sārdhaṁ vaihāyasamupasthitaḥ ।। 5.27.33।।।।",
+      "translations": {
+        "english": "\"(Hailed by) the sounds of conches and drums, and of musicians and dancers, Vibhishana was seen ascending on to a decorated fourtust elephant which was huge like a mountain and trumpting like a thundering cloud. He stood there along with four ministers and reached the aerial region.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 27,
+      "verse": 34,
+      "sloka": "समाजश्च मया दृष्टो गीतवादित्रनिःस्वनः ।पिबतां रक्तमाल्यानां रक्षसां रक्तवाससाम् ।। ५.२७.३४।।।।",
+      "transliteration": "samājaśca mayā dṛṣṭo gītavāditraniḥsvanaḥ ।pibatāṁ raktamālyānāṁ rakṣasāṁ raktavāsasām ।। 5.27.34।।।।",
+      "translations": {
+        "english": "\" A large group of demons was seen collected together, drinking, wearing red garlands and red clothes, singing and playing musical instruments.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 27,
+      "verse": 35,
+      "sloka": "लङ्कां चेयं पुरी रम्या सवाजिरथकुञ्जरा ।सागरे पतिता दृष्टा भग्नगोपुरतोरणा ।। ५.२७.३५।।।।",
+      "transliteration": "laṅkāṁ ceyaṁ purī ramyā savājirathakuñjarā ।sāgare patitā dṛṣṭā bhagnagopuratoraṇā ।। 5.27.35।।।।",
+      "translations": {
+        "english": "\"I saw this delightful Lanka teeming with horses, chariots and elephants, archways and towers crumbling and falling into the ocean.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 27,
+      "verse": 36,
+      "sloka": "लङ्का दृष्टा मया स्वप्ने रावणेनाभिरक्षिता ।दग्धा रामस्य दूतेन वानरेण तरस्विना ।। ५.२७.३६।।।।",
+      "transliteration": "laṅkā dṛṣṭā mayā svapne rāvaṇenābhirakṣitā ।dagdhā rāmasya dūtena vānareṇa tarasvinā ।। 5.27.36।।।।",
+      "translations": {
+        "english": "In my dream I saw this city of Lanka protected by Ravana burnt down by a powerful vanara , a messenger of Rama.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 27,
+      "verse": 37,
+      "sloka": "पीत्वा तैलं प्रनृत्ताश्च प्रहसन्त्यो महास्वनाः ।लङ्कायां भस्मरूक्षायां प्रविष्टा राक्षसस्त्रियः ।। ५.२७.३७।।।।",
+      "transliteration": "pītvā tailaṁ pranṛttāśca prahasantyo mahāsvanāḥ ।laṅkāyāṁ bhasmarūkṣāyāṁ praviṣṭā rākṣasastriyaḥ ।। 5.27.37।।।।",
+      "translations": {
+        "english": "\"All the demonesses in the city of Lanka which had turned dry, reduced to ashes, were dancing, laughing and shouting loudly drunk with oil..",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 27,
+      "verse": 38,
+      "sloka": "कुम्भकर्णादयश्चेमे सर्वे राक्षसपुङ्गवाः ।रक्तं निवसनं गृह्य प्रविष्टा गोमयह्रदे ।। ५.२७.३८।।।।",
+      "transliteration": "kumbhakarṇādayaśceme sarve rākṣasapuṅgavāḥ ।raktaṁ nivasanaṁ gṛhya praviṣṭā gomayahrade ।। 5.27.38।।।।",
+      "translations": {
+        "english": "\"Kumbhakarna and other demon leaders wearing red clothes entered into a pool of cow dung.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 27,
+      "verse": 39,
+      "sloka": "अपगच्छत नश्यध्वं सीतामाप स राघवः ।घातयेत् परमामर्षी सर्वैः सार्धं हि राक्षसैः ।। ५.२७.३९।।।।",
+      "transliteration": "apagacchata naśyadhvaṁ sītāmāpa sa rāghavaḥ ।ghātayet paramāmarṣī sarvaiḥ sārdhaṁ hi rākṣasaiḥ ।। 5.27.39।।।।",
+      "translations": {
+        "english": "\"(Therefore) go away from here. You will be totally destroyed by Rama who will secure his wife and will kill all of you along with others in great anger.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 27,
+      "verse": 40,
+      "sloka": "प्रियां बहुमतां भार्यां वनवासमनुव्रताम् ।भर्त्सितां तर्जितां वापि नानुमंस्यति राघवः ।।। ५.२७.४०।।।।",
+      "transliteration": "priyāṁ bahumatāṁ bhāryāṁ vanavāsamanuvratām ।bhartsitāṁ tarjitāṁ vāpi nānumaṁsyati rāghavaḥ ।।। 5.27.40।।।।",
+      "translations": {
+        "english": "\"Rama will not approve of any one abusing or threatening his venerable, beloved wife, who had led a life of exile with him.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 27,
+      "verse": 41,
+      "sloka": "तदलं क्रूरवाक्यैर्वः सान्त्वमेवाभिधीयताम् ।अभियाचाम वैदैहीमेतद्धि मम रोचते ।। ५.२७.४१।।।।",
+      "transliteration": "tadalaṁ krūravākyairvaḥ sāntvamevābhidhīyatām ।abhiyācāma vaidaihīmetaddhi mama rocate ।। 5.27.41।।।।",
+      "translations": {
+        "english": "\"Give up these cruel taunts. Speak to her in a cordial manner. We will beg Vaidehi's forgiveness. I like this kind of action.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 27,
+      "verse": 42,
+      "sloka": "यस्यामेव विधः स्वप्नो दुःखितायां प्रदृश्यते ।सा दुःखैर्विविधैर्मुक्ता प्रियं प्राप्नोत्यनुत्तमम् ।। ५.२७.४२।।।।",
+      "transliteration": "yasyāmeva vidhaḥ svapno duḥkhitāyāṁ pradṛśyate ।sā duḥkhairvividhairmuktā priyaṁ prāpnotyanuttamam ।। 5.27.42।।।।",
+      "translations": {
+        "english": "\"When any demoness in a sorrowful state dreams this kind of dream, she will be relieved of sorrow and will obtain supreme joy.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 27,
+      "verse": 43,
+      "sloka": "भर्त्सितामपि याचध्वं राक्षस्यः किं विवक्षया ।राघवाद्धि भयं घोरं राक्षसानामुपस्थितम् ।। ५.२७.४३।।।।",
+      "transliteration": "bhartsitāmapi yācadhvaṁ rākṣasyaḥ kiṁ vivakṣayā ।rāghavāddhi bhayaṁ ghoraṁ rākṣasānāmupasthitam ।। 5.27.43।।।।",
+      "translations": {
+        "english": "\"O demonesses beg her (pardon) now even though you had threatened her earlier. Where is the need to hesitate? There is cause for concern for demons from Rama.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 27,
+      "verse": 44,
+      "sloka": "प्रणिपातप्रसन्ना हि मैथिली जनकात्मजा ।अलमेषा परित्रातुं राक्षस्यो महतो भयात् ।। ५.२७.४४।।।।",
+      "transliteration": "praṇipātaprasannā hi maithilī janakātmajā ।alameṣā paritrātuṁ rākṣasyo mahato bhayāt ।। 5.27.44।।।।",
+      "translations": {
+        "english": "\"O shedemons, this Janaka's daughter from Mithila who is capable of protecting you against great dangers will be pleased by your submission.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 27,
+      "verse": 45,
+      "sloka": "अपि चास्या विशालाक्ष्या न किञ्चिदुपलक्षये ।विरूपमपि चाङ्गेषु सुसूक्ष्ममपि लक्षण् ।। ५.२७.४५।।।।",
+      "transliteration": "api cāsyā viśālākṣyā na kiñcidupalakṣaye ।virūpamapi cāṅgeṣu susūkṣmamapi lakṣaṇ ।। 5.27.45।।।।",
+      "translations": {
+        "english": "\"Look at the signs on her body. There is not a little inauspiciousness in the limbs of the largeeyed princess from Mithila.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 27,
+      "verse": 46,
+      "sloka": "छायावैगुण्यमात्रं तु शङ्केः दुःखमुपस्थितम् ।अदुःखार्हामिमां देवीं वैहायसमुपस्थिताम् ।। ५.२७.४६।।।।",
+      "transliteration": "chāyāvaiguṇyamātraṁ tu śaṅkeḥ duḥkhamupasthitam ।aduḥkhārhāmimāṁ devīṁ vaihāyasamupasthitām ।। 5.27.46।।।।",
+      "translations": {
+        "english": "A great suffering has befallen a lady who does not deserve to suffer. Therefore, a change in her complexion has occured.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 27,
+      "verse": 47,
+      "sloka": "अर्थसिद्धिं तु वैदेह्याः पश्याम्यहमुपस्थिताम् ।राक्षसेन्द्रविनाशं च विजयं राघवस्य च ।। ५.२७.४७।।।।",
+      "transliteration": "arthasiddhiṁ tu vaidehyāḥ paśyāmyahamupasthitām ।rākṣasendravināśaṁ ca vijayaṁ rāghavasya ca ।। 5.27.47।।।।",
+      "translations": {
+        "english": "\"I see the day of fulfilment for Vaidehi has drawn near. I can also foresee the destruction of the demon king and the triumph of Rama.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 27,
+      "verse": 48,
+      "sloka": "निमित्तभूतमेत्तु श्रोतुमस्या महत् प्रियम् ।। ५.२७.४८।।।।",
+      "transliteration": "nimittabhūtamettu śrotumasyā mahat priyam ।। 5.27.48।।।।",
+      "translations": {
+        "english": "\"This dream indeed served as an augery for good news about her. Look, her (left) eye which is large like a lotus petal is throbbing.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 27,
+      "verse": 49,
+      "sloka": "दृश्यते च स्फुरच्चक्षुः पद्मपत्रमिवायतम् ।ईषच्च हृषितो वा ऽस्या दक्षिणाया ह्यदक्षिणः ।। ५.२७.४९।।।।",
+      "transliteration": "dṛśyate ca sphuraccakṣuḥ padmapatramivāyatam ।īṣacca hṛṣito vā 'syā dakṣiṇāyā hyadakṣiṇaḥ ।। 5.27.49।।।।",
+      "translations": {
+        "english": "\"The left shoulder of this great Vaidehi has started suddenly throbbing, indicating that she is feeling a bit happy.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 27,
+      "verse": 50,
+      "sloka": "अकस्मादेव वैदेह्या बाहुरेकः प्रकम्पते ।करेणुहस्तप्रतिमः सव्यश्चोरुरनुत्तमः ।वेपमानः सूचयति राघवं पुरतः स्थितम् ।। ५.२७.५०।।।।",
+      "transliteration": "akasmādeva vaidehyā bāhurekaḥ prakampate ।kareṇuhastapratimaḥ savyaścoruranuttamaḥ ।vepamānaḥ sūcayati rāghavaṁ purataḥ sthitam ।। 5.27.50।।।।",
+      "translations": {
+        "english": "\"Her excellent left thigh, comparable to a female elephant's trunk is trembling, as though indicating that Rama is standing in her presence.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 5,
+      "kanda_name": "Sundara Kanda",
+      "kanda_name_sanskrit": "सुन्दरकाण्डम्",
+      "sarga": 27,
+      "verse": 51,
+      "sloka": "पक्षी च शाखानिलयः प्रहृष्टः पुनः पुनश्चोत्तमसान्त्ववादी ।सुस्वागतां वाचमुदीरयानः पुनः पुनश्चोदयतीव हृष्टः ।। ५.२७.५१।।",
+      "transliteration": "pakṣī ca śākhānilayaḥ prahṛṣṭaḥ punaḥ punaścottamasāntvavādī ।susvāgatāṁ vācamudīrayānaḥ punaḥ punaścodayatīva hṛṣṭaḥ ।। 5.27.51।।",
+      "translations": {
+        "english": "\"One can see the bird which utters excellent sweet notes indicating happy tidings, entering again and again the foliage of the tree, a delightful bird, as if prompting Sita again and again to rejoice. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये सुन्दरकाण्डे सप्तविंशस्सर्गः। Thus ends the twentyseventh sarga of Sundarakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

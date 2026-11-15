@@ -1,0 +1,275 @@
+{
+  "kanda": 2,
+  "kanda_name": "Ayodhya Kanda",
+  "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+  "sarga": 47,
+  "verses_count": 19,
+  "verses": [
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 47,
+      "verse": 1,
+      "sloka": "प्रभातायाम् तु शर्वर्याम् पौराः ते राघवो विना ।शोक उपहत निश्चेष्टा बभूवुर् हत चेतसः ॥२-४७-१॥",
+      "transliteration": "prabhātāyām tu śarvaryām paurāḥ te rāghavo vinā ।śoka upahata niśceṣṭā babhūvur hata cetasaḥ ॥2-47-1॥",
+      "translations": {
+        "english": "When the night advanced towards dawn the citizens were stunned not to see the scion of the Raghus (Rama). Overwhelmed with sorrow they lost their senses.",
+        "hindi": "अयोध्याकाएड का छियालिसवाँ सग पूरा हुआ । —;ot—— १ उंपरयुक्त -सम्यगानीतं । ( गो० ) २ निमित्त-शकुन) (राश) ) `: PASSE RS च [aN शा ९ सप्तचत्वा[रशः सग; ७ ९०:९८, 2 गड ० प्रभातायां तु शवयाँ पारास्ते राघवं विना | शोकोपहतनिश्चेष्य. बथूबुहतचेतसः",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 47,
+      "verse": 2,
+      "sloka": "शोकज अश्रु परिद्यूना वीक्षमाणाः ततः ततः ।आलोकम् अपि रामस्य न पश्यन्ति स्म दुह्खिताः ॥२-४७-२॥",
+      "transliteration": "śokaja aśru paridyūnā vīkṣamāṇāḥ tataḥ tataḥ ।ālokam api rāmasya na paśyanti sma duhkhitāḥ ॥2-47-2॥",
+      "translations": {
+        "english": "Anguished and drenched with tears of grief they looked hither and thither but could not find even a trace of Rama.",
+        "hindi": "शोकाश्र आँ से तर, इधर-उधर खोज करने पर भी जब वे औरामचन्द्र जो के जाने के माग का कुड मी निशान न पासके तब तो वे सब बहुत दुःखित हुए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 47,
+      "verse": 3,
+      "sloka": "ते विषादार्तवदना रहितास्तेन धिमता ।कृपणाः करुणा वाचो वदन्ति स्म मनस्विनः ॥२-४७-३॥",
+      "transliteration": "te viṣādārtavadanā rahitāstena dhimatā ।kṛpaṇāḥ karuṇā vāco vadanti sma manasvinaḥ ॥2-47-3॥",
+      "translations": {
+        "english": "Those highminded people with sorrowful faces due to separation from sagacious Rama expressed themselves in piteous words:",
+        "hindi": "श्रीरामचन्द्र जी के बिना व्याकुल, आते और दीन हो, वे करुणायुक्त वचन कहने लगे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 47,
+      "verse": 4,
+      "sloka": "धिगस्तु खलु निद्राम् ताम् ययापहृतचेतसः ।नाद्य पश्यामहे रामम् पृथूरस्कम् महाभुजम् ॥२-४७-४॥",
+      "transliteration": "dhigastu khalu nidrām tām yayāpahṛtacetasaḥ ।nādya paśyāmahe rāmam pṛthūraskam mahābhujam ॥2-47-4॥",
+      "translations": {
+        "english": "Fie on this sleep which robbed us of our senses. We are unable to see (now) that broadchested and mightyarmed Rama.",
+        "hindi": "धिक्कार है हमारी नींद को, जिसने हमें ऐसा अचेत कर दिया कि हम विशालवक्षःस्थल ओर महाभुज श्रीरामचन्द्र को अब नहीं देख सकगे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 47,
+      "verse": 5,
+      "sloka": "कथम् नाम महाबाहुः स तथाऽवितथक्रियः ।भक्तम् जनम् परित्यज्य प्रवासम् राघवो गतः ॥२-४७-५॥",
+      "transliteration": "katham nāma mahābāhuḥ sa tathā'vitathakriyaḥ ।bhaktam janam parityajya pravāsam rāghavo gataḥ ॥2-47-5॥",
+      "translations": {
+        "english": "How is it that the mightyarmed Rama who never renders services done to him fruitless has deserted his devoted people and gone into exile?",
+        "hindi": "देखो श्रीरामचन्द्र जी कैसे निष्फल करने वाले ( अर्थात्‌ भक्तों की कामनाओं को निष्फल करने वाले) काम करते हैं, जो हम जैसे अपने अनुरागियों को यहाँ छोड़ कर बन को चल दिए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 47,
+      "verse": 6,
+      "sloka": "यो नः सदा पालयति पिता पुत्रानिवौरसान् ।कथम् रघूणाम् स श्रेष्ठस्त्यक्त्वा नो विपिनम् गतः ॥२-४७-६॥",
+      "transliteration": "yo naḥ sadā pālayati pitā putrānivaurasān ।katham raghūṇām sa śreṣṭhastyaktvā no vipinam gataḥ ॥2-47-6॥",
+      "translations": {
+        "english": "How could he, the best among the kings of Raghu dynasty, who used to protect us as a father protects his own children, go to the forest, abandoning us?",
+        "hindi": "जो हुम लोगों को अपने निज सन्तानबत्‌ पालते थे, वे रघुकुल- श्रेष्ठ क्यों हमें छोड़ बन को चले गए ?",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 47,
+      "verse": 7,
+      "sloka": "इहैव निधनम् यामो महाप्रस्थानमेव वा ।रामेण रहितानाम् हि किमर्थम् जीवितम् हि नः ॥२-४७-७॥",
+      "transliteration": "ihaiva nidhanam yāmo mahāprasthānameva vā ।rāmeṇa rahitānām hi kimartham jīvitam hi naḥ ॥2-47-7॥",
+      "translations": {
+        "english": "We all will die here. We will go on the everlasting journey to death. Of what use is this life to us without Rama?",
+        "hindi": "रयाः तो हम लोग यहीं प्राण दे देंगे अथवा हिमालय पर जा वफ में गल कर मर जायेंगे। क्योंकि बिना श्रीराम के हमारे जीने से क्या प्रयोजन है ?",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 47,
+      "verse": 8,
+      "sloka": "सन्ति शुष्काणि काष्ठानि प्रभूतानि महान्ति च ।तैः प्रज्वाल्य चिताम् सर्वे प्रविशामोऽथ पावकम् ॥२-४७-८॥",
+      "transliteration": "santi śuṣkāṇi kāṣṭhāni prabhūtāni mahānti ca ।taiḥ prajvālya citām sarve praviśāmo'tha pāvakam ॥2-47-8॥",
+      "translations": {
+        "english": "There are plenty of dry logs of wood. We will prepare a pyre with them, set fire to it and we all will enter it.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 47,
+      "verse": 9,
+      "sloka": "किम् व्ख्स्यामो महाबाहुरनसूयः प्रियम्वद ।नीतः स राघवोऽस्माभिर्ति वक्तुम् कथम् क्षमम् ॥२-४७-९॥",
+      "transliteration": "kim vkhsyāmo mahābāhuranasūyaḥ priyamvada ।nītaḥ sa rāghavo'smābhirti vaktum katham kṣamam ॥2-47-9॥",
+      "translations": {
+        "english": "What shall we say (to the people)? How can we say, 'We have conducted him (to the forest), that scion of the Raghus, that mightyarmed Rama, who is of gentle speech and free from malice?",
+        "hindi": "यहाँ सूखी ओर बड़ी-बड़ी बहुत सी लकड़ियाँ पड़ी हैं, इनको एकत्र कर और चिता बना जलती आग में गिर, हम सब भस्म हो जायें ॥=।। el स अवितथक्रियः--अमोघा नुवृत्तिः । (नो?) . मेरणदीच्षापूवकमुत्तराभिमुखगमनं । ( गो० ) २ सहाप्रस्थान-- ` ~. he ee ३.. SC = 325. 5 मे 2 निड कि वक्ष्यामो महाबाहु रनसूयः प्रियंवदः | नीतः स राधतोऽस्माभिरिति वक्त कथं क्षमम्‌",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 47,
+      "verse": 10,
+      "sloka": "सा नूनम् नगरी दीना दृष्ट्वाऽस्मान् राघवम् विना ।भविष्यति निरानन्दा सस्त्रीबालवयोधिका ॥२-४७-१०॥",
+      "transliteration": "sā nūnam nagarī dīnā dṛṣṭvā'smān rāghavam vinā ।bhaviṣyati nirānandā sastrībālavayodhikā ॥2-47-10॥",
+      "translations": {
+        "english": "Seeing us return without Rama, the women, children and the aged of the city (Ayodhya) will certainly feel miserable and cheerless.",
+        "hindi": "बह दीन अयोध्यापुरी, श्रीरामचन्द्र बिना हमको लौटा हुआ देख, स्त्री, बालक, बूढ़े लोगों के सहित उदास हो जायगी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 47,
+      "verse": 11,
+      "sloka": "निर्यातास्तेन वीरेण सह नित्यम् जितात्मना ।विहिनास्तेन च पुनः कथम् पश्याम ताम् पुरीम् ॥२-४७-११॥",
+      "transliteration": "niryātāstena vīreṇa saha nityam jitātmanā ।vihināstena ca punaḥ katham paśyāma tām purīm ॥2-47-11॥",
+      "translations": {
+        "english": "Having left (that city) with the valiant and selfrestrained Rama, how can we now return without him ?",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 47,
+      "verse": 12,
+      "sloka": "इतीव बहुधा वाचो बाहुमुद्यम्य ते जनाः ।विलपन्तिस्म दुःखर्ता विवत्सा इव धेनवः ॥२-४७-१२॥",
+      "transliteration": "itīva bahudhā vāco bāhumudyamya te janāḥ ।vilapantisma duḥkhartā vivatsā iva dhenavaḥ ॥2-47-12॥",
+      "translations": {
+        "english": "All of them with grief distressed, and with their arms thrown up lamented like cows deprived of their calves.",
+        "hindi": "हम लोग तो उस बीर एवं जितेन्द्रिय के साथ सदैव चलने के लिए घर से निकले थे । अब हम उनको छोड़ किस प्रकार फिर पुरी को देखें ( अथीत्‌ पुरी में अपना मु ह क्योंकर दिखला ) ।:११॥ इतीव बहुधा वाचो वाहुशुद्यम्य ते जनाः | विलपन्ति स्म दुःखार्ता विवत्सा इब धेनवः",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 47,
+      "verse": 13,
+      "sloka": "ततः मार्ग अनुसारेण गत्वा किम्चित् क्षणम् पुनःमार्ग नाशात् विषादेन महता समभिप्लुतः ॥२-४७-१३॥",
+      "transliteration": "tataḥ mārga anusāreṇa gatvā kimcit kṣaṇam punaḥmārga nāśāt viṣādena mahatā samabhiplutaḥ ॥2-47-13॥",
+      "translations": {
+        "english": "For a short while they followed the tracks (of the chariot) and after having gone a little distance, they missed the way. They were again submerged in deep sorrow.",
+        "hindi": "वे लोग रथ के पहियों की लकोर के सहारे Maes य हारे कुऊ दर तक गए भी किन्तु आगे रथ के जाने का कु भी चिञ न पा, र्‌ ओर भो क दुःखी हुए । (जान पड़ता है पहले तो रास्ता रेतीला था स पर रथ के पहियों के चिह्न हो गए थे, किन्तु आगे के रास्ते पर घास आदि उगी होगी जिससे बहाँ पहियों का रि , नेशान न बन सका होगा )",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 47,
+      "verse": 14,
+      "sloka": "रथस्य मार्ग नाशेन न्यवर्तन्त मनस्विनः ।किम् इदम् किम् करिष्यामः दैवेन उपहताइति ॥२-४७-१४॥",
+      "transliteration": "rathasya mārga nāśena nyavartanta manasvinaḥ ।kim idam kim kariṣyāmaḥ daivena upahatāiti ॥2-47-14॥",
+      "translations": {
+        "english": "When they could not find the tracks of the chariot, those highminded people turned back and said to themselves 'What is this? We have been deceived by fate. What are we to do now?'",
+        "hindi": "जब रथ के आगे जाने का रास्ता न'मिला, तब वे सब हृ चित्त वाले लोग लौट आए और आपस सें कहने लगे कि यह क्या हुआ--अब हुम क्या कर; हमारा भागय ही खोटा है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 47,
+      "verse": 15,
+      "sloka": "ततः यथा आगतेन एव मार्गेण क्लान्त चेतसः ।अयोध्याम् अगमन् सर्वे पुरीम् व्यथित सज्जनाम् ॥२-४७-१५॥",
+      "transliteration": "tataḥ yathā āgatena eva mārgeṇa klānta cetasaḥ ।ayodhyām agaman sarve purīm vyathita sajjanām ॥2-47-15॥",
+      "translations": {
+        "english": "Thereafter, all of them, the virtuous people grieving, their minds fatigued, returned to Ayodhya the same way they had come.",
+        "hindi": "तद्नन्तर वे सव के सब अत्यन्त उदास हो जिस गे माग से आए थे; उसी से फिर अयोध्या को लौट गए । श्रीरामचन्द्र जी ने स्वयं न लोट कर, अयोध्यापुरी के सज्जनों को व्यथित किया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 47,
+      "verse": 16,
+      "sloka": "आलोक्य नगरीम् ताम् च क्षयव्याकुलमानसाः ।आवर्तयन्त तऽश्रूणि नयनैः शोकपीडितैः ॥२-४७-१६॥",
+      "transliteration": "ālokya nagarīm tām ca kṣayavyākulamānasāḥ ।āvartayanta ta'śrūṇi nayanaiḥ śokapīḍitaiḥ ॥2-47-16॥",
+      "translations": {
+        "english": "On seeing the city the minds of the people were agitated due to the loss (of their prince). Tears streamed down their eyes, oppressed with sorrow.",
+        "hindi": "चयो--इ्षच्यस्तेनव्याकुलमानसाः । ( रा० ) ET de wo NSS &- sere, = Jen ne MSIE सप्तचत्वारिंशः सग ४६३ वहाँ जा कर वे लोग पुरी को देख, हषेरहित विकल मन और शोकपीड़ित हो नेत्र से आँसू बहाने लगे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 47,
+      "verse": 17,
+      "sloka": "एषा रामेण नगरी रहिता नातिशोभते ।आपगा गरुडेनेव ह्रदादुद्धृतपन्नगा ॥२-४७-१७॥",
+      "transliteration": "eṣā rāmeṇa nagarī rahitā nātiśobhate ।āpagā garuḍeneva hradāduddhṛtapannagā ॥2-47-17॥",
+      "translations": {
+        "english": "This city without Rama just as a river with serpents lifted away by Garuda from its depths looks no longer beautiful.",
+        "hindi": "बे आपस में कहने लगे कि देखो श्रीरामचन्द्र जी के न होने से इस नगरी की शोभा भी नहीं रही । यह तो अब उस नदी के दह के समान दीख पड़ती है, जिसके सप गरुड़ ने हरण कर लिए हद",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 47,
+      "verse": 18,
+      "sloka": "चन्द्रहीनमिवाकाशम् तोयहीनमिवार्णवम् ।अपश्यन्निहतानन्दम् नगरम् ते विचेतसः ॥२-४७-१८॥",
+      "transliteration": "candrahīnamivākāśam toyahīnamivārṇavam ।apaśyannihatānandam nagaram te vicetasaḥ ॥2-47-18॥",
+      "translations": {
+        "english": "Plunged in grief, they saw the city deprived of all joy, looking like a sky without the Moon and an ocean without water.",
+        "hindi": "चन्द्रहीन आकाश अथवा जलहीन समुद्र की तरह बे लोग, आनन्द्‌शूत्य नगरी को देख अचेत-से हो गए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 2,
+      "kanda_name": "Ayodhya Kanda",
+      "kanda_name_sanskrit": "अयोध्याकाण्डम्",
+      "sarga": 47,
+      "verse": 19,
+      "sloka": "ते तानि वेश्मानि महाधनानि ।दुःखेन दुःखोपहता विशन्तः ।नैव प्रजज्ञुः स्वजनम् जनम् वा ।निरीक्षमाणाः प्रविणष्टहर्षाः ॥२-४७-१९॥",
+      "transliteration": "te tāni veśmāni mahādhanāni ।duḥkhena duḥkhopahatā viśantaḥ ।naiva prajajñuḥ svajanam janam vā ।nirīkṣamāṇāḥ praviṇaṣṭaharṣāḥ ॥2-47-19॥",
+      "translations": {
+        "english": "Those people devoid of delight entered their rich mansions with great difficulty. Even though they, stricken with sorrow, looked at men and their own kinsmen they could not recognise them. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये अयोध्याकाण्डे सप्तचत्वारिंशस्सर्गः।। Thus ends the fortyseventh sarga of Ayodhyakanda of the holy Ramayana, the first epic composed by sage Valmiki.",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

@@ -1,0 +1,373 @@
+{
+  "kanda": 1,
+  "kanda_name": "Bala Kanda",
+  "kanda_name_sanskrit": "बालकाण्डम्",
+  "sarga": 30,
+  "verses_count": 26,
+  "verses": [
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 30,
+      "verse": 1,
+      "sloka": "अथ तौ देश कालज्ञौ राजपुत्रौ अरिंदमौ ।देशे काले च वाक्यज्ञौ अब्रूताम् कौशिकम् वचः ॥१-३०-१॥",
+      "transliteration": "atha tau deśa kālajñau rājaputrau ariṁdamau ।deśe kāle ca vākyajñau abrūtām kauśikam vacaḥ ॥1-30-1॥",
+      "translations": {
+        "english": "Thus spoke the two princes to Viswamitra. They were conscious of place and time to speak and capable of conquering enemies.",
+        "hindi": "बालकाण्ड का सत्ताइसबाँ सर्ग .समाप्त हुआ । लु 00 ७ 6 र अष्टाविंशः सगः प्रतिगृह्य ततोऽस्त्राणि प्रहृष्टवदनः शुचिः । गच्छन्नेव च काकुत्स्थो विश्वा मित्रमथात्रवीत्‌",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 30,
+      "verse": 2,
+      "sloka": "भगवन् श्रोतुम् इच्छावो यस्मिन् काले निशाचरौ ।संरक्षणीयौ तौ ब्रूहि न अतिवर्तेत तत् क्षणम् ॥१-३०-२॥",
+      "transliteration": "bhagavan śrotum icchāvo yasmin kāle niśācarau ।saṁrakṣaṇīyau tau brūhi na ativarteta tat kṣaṇam ॥1-30-2॥",
+      "translations": {
+        "english": "\"O adorable Brahmarshi, we want to know around what time the rakshasas will make their appearance so that the sacrifice can be protected. Let not that moment pass\".",
+        "hindi": "PS बालकाण्डे हे भगवन्‌ ! आपके अनुप्रह से मुझे वे अख, जो सुरों और असुरों 'को भी दुष्प्राप्प हैं, मिल गए, ( और उनके चलाने की विधि भी मालूम हो गई, किन्तु अव) मुझे आप इनके संहार ( अथात्‌ अखन चला कर उसे वापस लेने की विधि) भी बतला -दीजिए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 30,
+      "verse": 3,
+      "sloka": "एवम् ब्रुवाणौ काकुत्स्थौ त्वरमाणौ युयुत्सया ।सर्वे ते मुनयः प्रीताः प्रशशंसुर् नृपात्मजौ ॥१-३०-३॥",
+      "transliteration": "evam bruvāṇau kākutsthau tvaramāṇau yuyutsayā ।sarve te munayaḥ prītāḥ praśaśaṁsur nṛpātmajau ॥1-30-3॥",
+      "translations": {
+        "english": "The sages (of the asrama) were very pleased. They extolled the princes of Kakustha dynasty, who were eager to fight the rakshasas.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 30,
+      "verse": 4,
+      "sloka": "अद्य प्रभृति षट् रात्रम् रक्षतम् राघवौ युवाम् ।दीक्षाम् गतो हि येष मुनिर् मौनित्वम् च गमिष्यति ॥१-३०-४॥",
+      "transliteration": "adya prabhṛti ṣaṭ rātram rakṣatam rāghavau yuvām ।dīkṣām gato hi yeṣa munir maunitvam ca gamiṣyati ॥1-30-4॥",
+      "translations": {
+        "english": "\"O sons of Raghu's lineage protect the sacrifice for six nights from today. With the ceremoney initiated, the sage would observe silence said the inmates\".",
+        "hindi": "फिर ओर भी मा बतलाए ( जो प्रथम वतलाने से रह गए थे) उनके नाम ये हैं--सत्यवन्त, सत्यकीर्ति, वृष्ट, रभस प्रतिहारतर, पणाङमुख, अवाङ्मुख",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 30,
+      "verse": 5,
+      "sloka": "तौ तु तद् वचनम् श्रुत्वा राजपुत्रौ यशस्विनौ ।अनिद्रौ षट् अहोरात्रम् तपोवनम् अरक्षताम् ॥१-३०-५॥",
+      "transliteration": "tau tu tad vacanam śrutvā rājaputrau yaśasvinau ।anidrau ṣaṭ ahorātram tapovanam arakṣatām ॥1-30-5॥",
+      "translations": {
+        "english": "At these words of the sages the illustrious princes got ready to protect the tapovana for six days and six nights without sleep.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 30,
+      "verse": 6,
+      "sloka": "उपासाम् चक्रतुर् वीरौ यत्तौ परम धन्विनौ ।ररक्षतुर् मुनिवरम् विश्वामित्रम् अरिंदमौ ॥१-३०-६॥",
+      "transliteration": "upāsām cakratur vīrau yattau parama dhanvinau ।rarakṣatur munivaram viśvāmitram ariṁdamau ॥1-30-6॥",
+      "translations": {
+        "english": "The two mighty, heroic archers (Rama and Lakshmana), destroyers of enemies attended upon the sacrifice in order to protect sage Viswamitra.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 30,
+      "verse": 7,
+      "sloka": "अथ काले गते तस्मिन् षष्ठे अहनि तदा आगते ।सौमित्रम् अब्रवीद् रामो यत्तो भव समाहितः ॥१-३०-७॥",
+      "transliteration": "atha kāle gate tasmin ṣaṣṭhe ahani tadā āgate ।saumitram abravīd rāmo yatto bhava samāhitaḥ ॥1-30-7॥",
+      "translations": {
+        "english": "Time passed. When the sixth day arrived Rama cautioned Lakshmana to be vigilant.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 30,
+      "verse": 8,
+      "sloka": "रामस्य एवम् ब्रुवाणस्य त्वरितस्य युयुत्सया ।प्रजज्वाल ततो वेदिः स उपाध्याय पुरोहिता ॥१-३०-८॥",
+      "transliteration": "rāmasya evam bruvāṇasya tvaritasya yuyutsayā ।prajajvāla tato vediḥ sa upādhyāya purohitā ॥1-30-8॥",
+      "translations": {
+        "english": "While he was fracing up for a fight, the fire on the sacrificial altar with the officiating priests and spiritual guides suddenly brightened.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 30,
+      "verse": 9,
+      "sloka": "स दर्भ चमस स्रुक्का स समित् कुसुमोच्चया ।विश्वामित्रेण सहिता वेदिः जज्वाल स ऋत्विजा ॥१-३०-९॥",
+      "transliteration": "sa darbha camasa srukkā sa samit kusumoccayā ।viśvāmitreṇa sahitā vediḥ jajvāla sa ṛtvijā ॥1-30-9॥",
+      "translations": {
+        "english": "The altar with Viswamitra and the officiating priests, kusa grass, ladles and square vessels, bundles of sticks and flowers, (used in the sacrificfial fire) got brightened up.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 30,
+      "verse": 10,
+      "sloka": "मंत्रवत् च यथा न्यायम् यज्ञो असौ संप्रवर्तते ।आकाशे च महान् शब्दः प्रादुर् आसीत् भयानकः ॥१-३०-१०॥",
+      "transliteration": "maṁtravat ca yathā nyāyam yajño asau saṁpravartate ।ākāśe ca mahān śabdaḥ prādur āsīt bhayānakaḥ ॥1-30-10॥",
+      "translations": {
+        "english": "While the sacrifice was being performed in accordance with mantras, a great sound causing fear emerged from the sky.",
+        "hindi": "जुम्भक, सर्वनाम, सन्तान और वरुण । विश्वामित्र जी कहने लगे ) हे राम ! ये सब. कृशाश्व के पुत्र बड़े तेजस्वी और कामरूपी हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 30,
+      "verse": 11,
+      "sloka": "आवार्य गगनम् मेघो यथा प्रावृषि दृश्यते ।तथा मायाम् विकुर्वाणौ राक्षसौ अभ्यधावताम् ॥१-३०-११॥",
+      "transliteration": "āvārya gaganam megho yathā prāvṛṣi dṛśyate ।tathā māyām vikurvāṇau rākṣasau abhyadhāvatām ॥1-30-11॥",
+      "translations": {
+        "english": "Like the clouds in the rainy season, the two rakshasas (Maricha and Subahu), covering the sky through their power of illusion, came running (to the sacrificial place).",
+        "hindi": "इनकी तुम ग्रहण करो । तुम्हारा कल्याण हो । क्योंकि हे राघव! तुम इनके ग्रहण करने के योग्य हो । यह सुन श्रीरामचन्द्र जी ने प्रसन्न हो कहा “बहुत अच्छा”",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 30,
+      "verse": 12,
+      "sloka": "मारीचः च सुबाहुः च तयोर् अनुचराः तथा ।आगम्य भीम संकाशा रुधिर ओघान् अवासृजन् ॥१-३०-१२॥",
+      "transliteration": "mārīcaḥ ca subāhuḥ ca tayor anucarāḥ tathā ।āgamya bhīma saṁkāśā rudhira oghān avāsṛjan ॥1-30-12॥",
+      "translations": {
+        "english": "Maricha and Subahu of fearful appearance arrived with their followers and rained streams of blood (on the sacrificial altar).",
+        "hindi": "तब दिव्यरूप, देदीप्यमान, मूत्तिमान्‌ और सुखप्रद (ये अस्त्र श्रीरामचन्द्र जी के सामने उपस्थित हुए ।) उनमें कोई तो दृहकते हुए अंगार ( राले ) के समान, कोई धुएँ के रंग वाले,",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 30,
+      "verse": 13,
+      "sloka": "ताम् तेन रुधिर ओघेण वेदीम् वीक्ष्य समुक्षिताम् ।सहसा अभिद्रुतो रामः तान् अपश्यत् ततो दिवि ॥१-३०-१३॥",
+      "transliteration": "tām tena rudhira ogheṇa vedīm vīkṣya samukṣitām ।sahasā abhidruto rāmaḥ tān apaśyat tato divi ॥1-30-13॥",
+      "translations": {
+        "english": "Flames rose on the sacrificial altar drenched by the stream of blood. Immediately Rama rushed forward and beheld them in the sky.",
+        "hindi": "कोई चन्द्र और सूर्य के समान थे और कोई हाथ जोड़े हुए थे । वे श्रीरामचन्द्र जी से बड़ी नम्रता के साथ बोले",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 30,
+      "verse": 14,
+      "sloka": "तौ आपतन्तौ सहसा दृष्ट्वा राजीव लोचनः ।लक्ष्मणम् तौ अभिसंप्रेक्ष्य रामो वचनम् अब्रवीत् ॥१-३०-१४॥",
+      "transliteration": "tau āpatantau sahasā dṛṣṭvā rājīva locanaḥ ।lakṣmaṇam tau abhisaṁprekṣya rāmo vacanam abravīt ॥1-30-14॥",
+      "translations": {
+        "english": "Having seen them (Maricha and Subahu) suddenly advancing the lotuseyed Rama gazed at Lakshmana and said:",
+        "hindi": "हे नरशादूल ! हम उपस्थित हैं, क्या 9 आज्ञा है? ( इस परः श्रीरामचन्द्र जी ने उनसे कहा ) तुम मेरे मन में वात करो और काम पड़ने पर मेरी सहायता करना",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 30,
+      "verse": 15,
+      "sloka": "पश्य लक्ष्मण दुर्वृत्तान् राक्षसान् पिशित अशनान् ।मानवास्त्र समाधूतान् अनिलेन यथा घनान् ॥१-३०-१५॥",
+      "transliteration": "paśya lakṣmaṇa durvṛttān rākṣasān piśita aśanān ।mānavāstra samādhūtān anilena yathā ghanān ॥1-30-15॥",
+      "translations": {
+        "english": "\"O Lakshmana, behold, by manavaastra I shall chase, like clouds scattered by winds those wicked rakshasas who eat human flesh\".",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 30,
+      "verse": 16,
+      "sloka": "करिष्यामि न संदेहो न उत्सहे हन्तुम् ईदृशान् ।इति उक्त्वा वचनम् रामः चापे संधाय वेगवान् ॥१-३०-१६॥",
+      "transliteration": "kariṣyāmi na saṁdeho na utsahe hantum īdṛśān ।iti uktvā vacanam rāmaḥ cāpe saṁdhāya vegavān ॥1-30-16॥",
+      "translations": {
+        "english": "The inflamed Rama hurled the highly powerful and effulgent Manavaastra on the chest of Maricha.",
+        "hindi": "ओर “बहुत अच्छा” कह कर बे जहाँ से आए थे वहा चा वहाँ इस प्रकार इन अखों को पाकर, श्रीरामचन्द्र जी ने ps जश विश्वामित्र जी से",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 30,
+      "verse": 17,
+      "sloka": "मानवम् परम उदारम् अस्त्रम् परम भास्वरम् ।चिक्षेप परम क्रुद्धो मारीच उरसि राघवः ॥१-३०-१७॥",
+      "transliteration": "mānavam parama udāram astram parama bhāsvaram ।cikṣepa parama kruddho mārīca urasi rāghavaḥ ॥1-30-17॥",
+      "translations": {
+        "english": "Smitten by that powerful Manavaastra, Maricha was thrown to a full distance of hundred yojanas into the surging high seas.",
+        "hindi": "चलते-चलते पूछा-महाराज ! पहाड़ के समीप जो काले मेघ जैसा देख पड़ता है वह क्या है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 30,
+      "verse": 18,
+      "sloka": "स तेन परमास्त्रेण मानवेन समाहितः ।संपूर्णम् योजन शतम् क्षिप्तः सागर संप्लवे ॥१-३०-१८॥",
+      "transliteration": "sa tena paramāstreṇa mānavena samāhitaḥ ।saṁpūrṇam yojana śatam kṣiptaḥ sāgara saṁplave ॥1-30-18॥",
+      "translations": {
+        "english": "Having seen Maricha beaten by the power of that coolarrowed astra, thrown to a distance, reeling and lying unconscious, Rama spoke to Lakshmana:",
+        "hindi": "वह तो वृक्षों का समूह जैसा जान पड़ता है । उसे देखने से मुझे बड़ा कुतूहल हो रहा है । वह अनेक वन-पशुश्रों से युक्त, देखने योग्य एवं अत्यन्त मनोहर-सा जान पड़ता है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 30,
+      "verse": 19,
+      "sloka": "विचेतनम् विघूर्णन्तम् शीतेषु बल पीडितम् ।निरस्तम् दृश्य मारीचम् रामो लक्ष्मणम् अब्रवीत् ॥१-३०-१९॥",
+      "transliteration": "vicetanam vighūrṇantam śīteṣu bala pīḍitam ।nirastam dṛśya mārīcam rāmo lakṣmaṇam abravīt ॥1-30-19॥",
+      "translations": {
+        "english": "\"O Lakshmana behold this Manavaastra associated with righteousness employing a cool arrow, which carries him away by making him unconscious and yet not taking his life.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 30,
+      "verse": 20,
+      "sloka": "पश्य लक्ष्मण शीतेषुम् मानवम् मनु संहितम् ।मोहयित्वा नयति एनम् न च प्राणैर् व्ययुज्यत ॥१-३०-२०॥",
+      "transliteration": "paśya lakṣmaṇa śīteṣum mānavam manu saṁhitam ।mohayitvā nayati enam na ca prāṇair vyayujyata ॥1-30-20॥",
+      "translations": {
+        "english": "\"I shall slay these merciless, wicked, doers of sinful acts, destroyers of sacrifices and blood-thirsty rakshasas \".",
+        "hindi": "वहाँ चल कर सुखी होने की मेरी इच्छा हे । भगवन्‌ ! कृपया बसलाइए कि, यह किसका आश्रम है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 30,
+      "verse": 21,
+      "sloka": "इमान् अपि वधिष्यामि निर्घृणान् दुष्ट चारिणः ।राक्षसान् पाप कर्मस्थान् यज्ञ घ्नान् रुधिर अशनान् ॥१-३०-२१॥",
+      "transliteration": "imān api vadhiṣyāmi nirghṛṇān duṣṭa cāriṇaḥ ।rākṣasān pāpa karmasthān yajña ghnān rudhira aśanān ॥1-30-21॥",
+      "translations": {
+        "english": "Then Rama took hold of the celestial, marvellous Agneya weapon and hurled it into the chest of Subahu. Struck, Subahuhe fell down on the ground.",
+        "hindi": "हे महामुने ! क्या हम लोग आपके उस आश्रम में पहुँच गये, द दुराचारी ब्रह्महत्यारे राक्षस आकर यज्ञ में विन्न किया करते !",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 30,
+      "verse": 22,
+      "sloka": "इति उक्त्वा लक्ष्मणम् च अशु लाघवम् दर्शयन् इव ।संगृह्य सुमहत् च अस्त्रम् आग्नेयम् रघुनंदनः ।सुबाहु उरसि चिक्षेप स विद्धः प्रापतत् भुवि ॥१-३०-२२॥",
+      "transliteration": "iti uktvā lakṣmaṇam ca aśu lāghavam darśayan iva ।saṁgṛhya sumahat ca astram āgneyam raghunaṁdanaḥ ।subāhu urasi cikṣepa sa viddhaḥ prāpatat bhuvi ॥1-30-22॥",
+      "translations": {
+        "english": "Illustrious and highly generous Rama killed the remaining rakshasas with the Vayavya weapon to the delight of the ascetics.",
+        "hindi": "हे ब्रह्मन्‌ ! में राक्षसों को सार कर आपके यज्ञ की रक्षा करूँगा । हे मुनिवर ! हे प्रभो ! ये सब वातें में जानना चाहता हूँ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 30,
+      "verse": 23,
+      "sloka": "शेषान् वायव्यम् आदाय निजघान महायशाः ।राघवः परमोदारो मुनीनाम् मुदम् आवहन् ॥१-३०-२३॥",
+      "transliteration": "śeṣān vāyavyam ādāya nijaghāna mahāyaśāḥ ।rāghavaḥ paramodāro munīnām mudam āvahan ॥1-30-23॥",
+      "translations": {
+        "english": "Having killed the rakshasas, obstructors of sacrifices, Rama was worshipped by the hermits like Indra was honoured in the past when he was victorious.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 30,
+      "verse": 24,
+      "sloka": "स हत्वा राक्षसान् सर्वान् यज्ञ घ्नान् रघुनंदनः ।ऋषिभिः पूजितः तत्र यथा इन्द्रो विजये पुरा ॥१-३०-२४॥",
+      "transliteration": "sa hatvā rākṣasān sarvān yajña ghnān raghunaṁdanaḥ ।ṛṣibhiḥ pūjitaḥ tatra yathā indro vijaye purā ॥1-30-24॥",
+      "translations": {
+        "english": "Thereafter, when the sacrifice was completed, maharshi Viswamitra beholding all the directions bereft of evils, said to Rama:",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 30,
+      "verse": 25,
+      "sloka": "अथ यज्ञे समाप्ते तु विश्वामित्रो महामुनिः ।निरीतिका दिशो दृष्ट्वा काकुत्स्थम् इदम् अब्रवीत् ॥१-३०-२५॥",
+      "transliteration": "atha yajñe samāpte tu viśvāmitro mahāmuniḥ ।nirītikā diśo dṛṣṭvā kākutstham idam abravīt ॥1-30-25॥",
+      "translations": {
+        "english": "\"I have attained my end, mighty-armed one. By you the word of your teacher has been fulfilled, and this Siddhashrama, O hero of great renown, has been made true to its name.\" Having thus praised Rama, he performed the twilight rite with the two of them.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 30,
+      "verse": 26,
+      "sloka": "कृतार्थो अस्मि महाबाहो कृतम् गुरु वचः त्वया ।सिद्धाश्रमम् इदम् सत्यम् कृतम् वीर महायशः ।स हि रामम् प्रशस्य एवम् ताभ्याम् संध्याम् उपागमत् ॥१-३०-२६॥",
+      "transliteration": "kṛtārtho asmi mahābāho kṛtam guru vacaḥ tvayā ।siddhāśramam idam satyam kṛtam vīra mahāyaśaḥ ।sa hi rāmam praśasya evam tābhyām saṁdhyām upāgamat ॥1-30-26॥",
+      "translations": {
+        "english": "",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

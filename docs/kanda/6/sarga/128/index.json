@@ -1,0 +1,653 @@
+{
+  "kanda": 6,
+  "kanda_name": "Yuddha Kanda",
+  "kanda_name_sanskrit": "युद्धकाण्डम्",
+  "sarga": 128,
+  "verses_count": 46,
+  "verses": [
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 128,
+      "verse": 1,
+      "sloka": "अयोध्यां तु समालोक्य चिन्तयामास राघवः ।चिन्तयित्वा हनूमन्तमुवाच प्लवगोत्तमम् ।। ६.१२८.१ ।।",
+      "transliteration": "ayodhyāṁ tu samālokya cintayāmāsa rāghavaḥ ।cintayitvā hanūmantamuvāca plavagottamam ।। 6.128.1 ।।",
+      "translations": {
+        "english": "There upon Raghava who was quick in exhibiting his prowess started thinking with his friends looking at Ayodhya (from Pushpaka).",
+        "hindi": "णा 8-7 विंशद्युत्तरशततमः सग: —:°0:— ततो हि दुर्मना रामः शरुस्वैव बदतां गिरः । १द्ध्यौ सुहुतं धमात्मां बाष्पव्याङुललोचनः",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 128,
+      "verse": 2,
+      "sloka": "जानीहि कच्चित् कुशली जनो नृपतिमन्दिरे ।। ६.१२८.२ ।।",
+      "transliteration": "jānīhi kaccit kuśalī jano nṛpatimandire ।। 6.128.2 ।।",
+      "translations": {
+        "english": "Then wise and energetic Rama, thinking, casting his attention on the Vanaras, spoke to Hanuman.",
+        "hindi": "जब उस चिता की आग ठंडी पड़ गई तब अग्निदेव मनुष्य जैसा शरीर धारण कर जनक्रनन्दिनी बे देही को लिये हुए शीघ्रता- पूवक निकले",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 128,
+      "verse": 3,
+      "sloka": "शृङ्गिबेरपुरं प्राप्य गुहं गहनगोचरम् ।निषादाधिपतिं ब्रूहि कुशलं वचनान्मम ।। ६.१२८.३ ।।",
+      "transliteration": "śṛṅgiberapuraṁ prāpya guhaṁ gahanagocaram ।niṣādādhipatiṁ brūhi kuśalaṁ vacanānmama ।। 6.128.3 ।।",
+      "translations": {
+        "english": "\"Chief of monkeys! Going quickly to the king's mansion in Ayodhya try to find out about the wellbeing of the people.\"",
+        "hindi": "उस समय सीता , तरुण ( मध्याह्यकालीन ) सूय की तरह सुबर्ण के भूषणों से भूषित, लाल साड़ी पहिने, काले और घुँधराले १ विभावसुः अग्नि; | ( गो० ) २ विधूय--चितां शिथिलीकृत्य | ( गो० ) ३ मूर्तिमान--मनुष्यविग्रहवान्‌ ( गा? ) ४ मनस्विनीम्‌-- श्रसन्नमनस्कामित्वर्थः ( गो० ) १२८० युद्धकाण्डे वालों से शोभित, खिले हुए फूलों की माला तथा आभूषण पहि ने | एवं पहिला ही रूप धारण क्रिए हुए थीं । उस समय उनका मन प्रसन्न हो रहा था । ( अग्निपरीक्षा द्वारा निर्दोष सिद्ध होने के कारण । ) ऐसी जनकनन्दिनी को गोद में लेकर, अग्नि देव ने श्रीरामचन्द्र जी को समपर किया",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 128,
+      "verse": 4,
+      "sloka": "श्रुत्वा तु मां कुशलिनमरोगं विगतज्वरम् ।भविष्यति गुहः प्रीतः स ममात्मसमः सखा ।। ६.१२८.४ ।।",
+      "transliteration": "śrutvā tu māṁ kuśalinamarogaṁ vigatajvaram ।bhaviṣyati guhaḥ prītaḥ sa mamātmasamaḥ sakhā ।। 6.128.4 ।।",
+      "translations": {
+        "english": "\"Go to Sringaberipuram which is seen from the sky, meet Guha the leader of Nishadas and tell him of my inquiry and wellbeing.\"",
+        "hindi": "हे वाकपटु ! हे सवेसुरेश्वर ! यदि तुम सुक पर प्रशन्न हुए हो तो जो में कहता हूँ उसे सत्य अर्थात्‌ पूरा करो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 128,
+      "verse": 5,
+      "sloka": "अयोध्यायाश्च ते मार्गं प्रवृत्तिं भरतस्य च ।निवेदयिष्यति प्रीतो निषादाधिपतिर्गुहः ।। ६.१२८.५ ।।",
+      "transliteration": "ayodhyāyāśca te mārgaṁ pravṛttiṁ bharatasya ca ।nivedayiṣyati prīto niṣādādhipatirguhaḥ ।। 6.128.5 ।।",
+      "translations": {
+        "english": "\"He will be very happy to hear that I am in good health free from anxiety. He is equal to me and my friend.\"",
+        "hindi": "उन सब देवताओं को आया हुआ देख, श्रीरामचन्द्र जी हाथ जोड़ कर खड़े हो गए | तब भूषणों से भूषित देवता गण, अपनी अपनी विशाल भुजाओं को उठा कर बोले",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 128,
+      "verse": 6,
+      "sloka": "भरतस्तु त्वया वाच्यः कुशलं वचनान्मम ।सिद्धार्थं शंस मां तस्मै सभार्यं सहलक्ष्मणम् ।। ६.१२८.६ ।।",
+      "transliteration": "bharatastu tvayā vācyaḥ kuśalaṁ vacanānmama ।siddhārthaṁ śaṁsa māṁ tasmai sabhāryaṁ sahalakṣmaṇam ।। 6.128.6 ।।",
+      "translations": {
+        "english": "\"Dear Guha, the king of Nishadas will tell you the way to Ayodhya and Bharata's nature.\"",
+        "hindi": "तुम समस्त लोकों के रचने वाले, सब देवताओं में श्रेष्ठ और ज्ञानियों के शिरोमुकुट हो | ऐसे होकर भी, अग्नि में गिरती हुई जानकी जी की तुम क्यों उपेक्षा कर रद्दे हो ?",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 128,
+      "verse": 7,
+      "sloka": "हरणं चापि वैदेह्या रावणेन बलीयसा ।। ६.१२८.७ ।।",
+      "transliteration": "haraṇaṁ cāpi vaidehyā rāvaṇena balīyasā ।। 6.128.7 ।।",
+      "translations": {
+        "english": "\"Please tell Bharata my words of inquiry of his wellbeing and that having accomplished my purpose I returned with my wife and Lakshmana.\"",
+        "hindi": "ऋतधांमाख्यो वसुः । (गो०)' १२७२ युद्धकाण्डे हे देवताओं में श्रेष्ठ ! क्या तुम अपने को नहीं जानते? ' अथवा तुम देवताओं में श्रेष्ठ होन पर भी, किसी कारणवश अपने को भूले हुए हो ? तुम ( प्रथम कल्प में ) अष्टवसुओं में से ग्रज्ञापात ऋतुधास। नाम के बसु थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 128,
+      "verse": 8,
+      "sloka": "सुग्रीवेण च संसर्गं वालिनश्च वधं रणे ।मैथिल्यन्वेषणं चैव यथा चाधिगता त्वया ।। ६.१२८.८ ।।",
+      "transliteration": "sugrīveṇa ca saṁsargaṁ vālinaśca vadhaṁ raṇe ।maithilyanveṣaṇaṁ caiva yathā cādhigatā tvayā ।। 6.128.8 ।।",
+      "translations": {
+        "english": "\"O powerful Hanuman! you may tell him of the abduction of Vaidehi by Ravana, my friendship with Sugriva and killing of Vali in combat.\"",
+        "hindi": "तुम तीनों लोकों के आदिरचयिता, स्वयं प्रभु, रुद्रों में आठवें रुद्र और साध्या में पांचवें साध्य हो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 128,
+      "verse": 9,
+      "sloka": "लङ्घयित्वा महातोयमापगापतिमव्ययम् ।उपयानं समुद्रस्य सागरस्य च दर्शनम् ।। ६.१२८.९ ।।",
+      "transliteration": "laṅghayitvā mahātoyamāpagāpatimavyayam ।upayānaṁ samudrasya sāgarasya ca darśanam ।। 6.128.9 ।।",
+      "translations": {
+        "english": "\"You may tell him of the search for Mythili by you, crossing the vast never decreasing stretch of water, leaping across and finding Sita.\"",
+        "hindi": "परम्परागत नियमानुसार राज्य सौंपने के लिए तुम भाई के यास चित्रकूट गये, परन्तु पिता के वचन पर अटल रहने के कारण श्रीरामचन्द्र जीं ने राज्य लेला स्त्रीकार न. किआ । और {जस प्रकार तुम अपने बड़े भाई की खड़ाऊ लेकर फिर अयोध्या में लौट आए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 128,
+      "verse": 10,
+      "sloka": "यथा च कारितः सेतू रावणश्च यथा हतः ।वरदानं महेन्द्रेण ब्रह्मणा वरुणेन च ।। ६.१२८.१० ।।",
+      "transliteration": "yathā ca kāritaḥ setū rāvaṇaśca yathā hataḥ ।varadānaṁ mahendreṇa brahmaṇā varuṇena ca ।। 6.128.10 ।।",
+      "translations": {
+        "english": "\" Also, about my going near ocean and his (Ocean god) appearance before me, construction of the bridge killing of Ravana.\"",
+        "hindi": "ऐसे हो कर भी) तुम संसारी मनुष्य की तरह बेदेही को. उपेक्षा करते हो ! जब उन लोकपालों ने इस प्रकार कहा, तब लोरूनाथ एवं घमात्मो में श्रेष्ठ श्रारामचन्द्र जी ने उन श्रेष्ठ देवताओं से कहा, में तो अपने का महारा न दशरथ का पुत्र राम साम का एक मनुष्य (मात्र) जानता हूँ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 128,
+      "verse": 11,
+      "sloka": "महादेवप्रसादाच्च पित्रा मम समागमम् ।उपयातं च मां सौम्य भरतस्य निवेदय ।। ६.१२८.११ ।।",
+      "transliteration": "mahādevaprasādācca pitrā mama samāgamam ।upayātaṁ ca māṁ saumya bharatasya nivedaya ।। 6.128.11 ।।",
+      "translations": {
+        "english": "\" About Mahendra accompanied by Brahma and Varuna bestowing boon and by the grace of Mahadeva and meeting my father.\"",
+        "hindi": "अग्निदेव के इन वचनों को सुन, बोलने वालों में श्रेष्ठ धर्मात्मा श्रीरामचन्द्र जी प्रसन्न हो गए और कुछ देर तक सोचते रहे तथा उनके नेत्रा में आंसू उमड़ आए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 128,
+      "verse": 12,
+      "sloka": "सह राक्षसराजेन हरीणां प्रवरेण च ।। ६.१२८.१२ ।।",
+      "transliteration": "saha rākṣasarājena harīṇāṁ pravareṇa ca ।। 6.128.12 ।।",
+      "translations": {
+        "english": "\"Gentle Hanuman! tell him about my coming with Sugriva the king of Vanaras, and king of Rakshasas, Vibheeshana.\"",
+        "hindi": "परन्तु मेरा जो स्वरूप है, जिससे मेरा सम्बन्ध है ओर मेरा जो प्रयोजन है, उसे आप स्पष्ट रूप से प्रकट करें । जव श्राराम- > Os चन्द्र जी ने यह पू छा, तब ब्रह्मचादियाँ में श्रेष्ठ ब्रह्मा जी ने उत्तर देते हुए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 128,
+      "verse": 13,
+      "sloka": "एतच्छुत्वा यमाकारं भजते भरतस्तदा ।स च ते वेदितव्यः स्यात् सर्वं यच्चापि मां प्रति ।। ६.१२८.१३ ।।",
+      "transliteration": "etacchutvā yamākāraṁ bhajate bharatastadā ।sa ca te veditavyaḥ syāt sarvaṁ yaccāpi māṁ prati ।। 6.128.13 ।।",
+      "translations": {
+        "english": "\"Tell him that Rama , after conquering hosts of enemies, attaining unsurpassed fame, accomplished his purpose, has returned with mighty friends.\"",
+        "hindi": "कहा कि, हे सत्यपराक्रमी श्रीरामचन्द्र : में जो सत्य सत्य बातें कहता हूँ, उन्हें सुनो । तुम ही जल में शयन करने वाले श्रीसान्‌ चक्रधारी सबेव्यापी श्रीमन्नारायण हो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 128,
+      "verse": 14,
+      "sloka": "जित्वा शत्रुगणान् रामः प्राप्य चानुत्तमं यशः ।उपयाति समृद्धार्थः सह मित्रैर्महाबलैः ।। ६.१२८.१४ ।।",
+      "transliteration": "jitvā śatrugaṇān rāmaḥ prāpya cānuttamaṁ yaśaḥ ।upayāti samṛddhārthaḥ saha mitrairmahābalaiḥ ।। 6.128.14 ।।",
+      "translations": {
+        "english": "\"Listening to Bharata, and seeing his form, expression on hearing this news and knowing his intent, checking all this you may return to me.\"",
+        "hindi": "हे राघव ! प्रलयकाल में जल में डूबी हुई प्रथिबी का उद्धार “करने वाले एक श्वङ्खघारी वराह तुम ही हो । (श्रुति भी कहती हे--“उद्धतासि वराह्देण”) | तुम मत त की शत्रुओं के तथा आगे उत्पन्न होने वाले शिशुपालादि शत्रुआ के नाश करने वाले हो | तुम ही अक्षय्य ( कभी नाशन होने वाले ) सत्य- ब्रह्म हो । सृष्टि के मध्य और अन्त में वर्तमान रहने वाले भी तुम्ही हो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 128,
+      "verse": 15,
+      "sloka": "ज्ञेयाश्च सर्वे वृत्तान्ता भरतस्येङ्गितानि च ।तत्त्वेन मुखवर्णेन दृष्ट्या व्याभाषणेन च ।। ६.१२८.१५ ।।",
+      "transliteration": "jñeyāśca sarve vṛttāntā bharatasyeṅgitāni ca ।tattvena mukhavarṇena dṛṣṭyā vyābhāṣaṇena ca ।। 6.128.15 ।।",
+      "translations": {
+        "english": "\" All the information, everything to be known by his facial colour, expression, by his speech, his intention to be ascertained truly.\"",
+        "hindi": "सघ लोकों के तुम सिद्ध रूप धर्म हो । विष्वक्सेन और चतु- भुज तुम्हीं हो । तुम्हीं #शाङ्गधन्वा, हृषीकेश, पुरुष ओर पुरुषो- न्तस हो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 128,
+      "verse": 16,
+      "sloka": "सर्वकामसमृद्धं हि हस्त्यश्वरथसङ्कुलम् ।पितृपैतामहं राज्यं कस्य नावर्तयेन्मनः ।। ६.१२८.१६ ।।",
+      "transliteration": "sarvakāmasamṛddhaṁ hi hastyaśvarathasaṅkulam ।pitṛpaitāmahaṁ rājyaṁ kasya nāvartayenmanaḥ ।। 6.128.16 ।।",
+      "translations": {
+        "english": "\"Whose mind will not be tempted at the abundance of elephants and horses of father's and grandfather's kingdom?\"",
+        "hindi": "तुस अजित हो, नन्दन नामक खन्गघारी तुम्हीं हो, तुम्हीं बिष्णु हो. तुम्हीं कृष्ण हो, तुम्हीं बृहद्वल हो । तुम्हीं सेनानी हो । तुम्हीं ्रामणी ( ग्रामं नयतीति ग्रामणीः ) हो, तुम्हीं निश्चयात्मक बुद्धि वाले हो तुम्ही सत्त्व, तुम्हीं क्षमा, तुम्हीं दम हो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 128,
+      "verse": 17,
+      "sloka": "सङ्गत्या भरतः श्रीमान् राज्यार्थी चेत् स्वयं भवेत् ।प्रशास्तु वसुधां कृत्स्नामखिलां रघुनन्दनः ।। ६.१२८.१७ ।।",
+      "transliteration": "saṅgatyā bharataḥ śrīmān rājyārthī cet svayaṁ bhavet ।praśāstu vasudhāṁ kṛtsnāmakhilāṁ raghunandanaḥ ।। 6.128.17 ।।",
+      "translations": {
+        "english": "\"If the glorious Bharata who is an enhancer of the joy of Raghus having enjoyed the kingdom for long himself, let him rule all the entire earth it is laudable.\"",
+        "hindi": "प्पशी--कृष्ण नाम से ब्रह्मा का ग्रभिप्राय वासुदेव या वसुदेव रण सुतसे नहीं किन्तु - ` 'कृषिभूंवाचकः शब्दो णश्च निब्रत्तिवाचकः से है ] प्रभवश्चाप्ययश्च त्वप्नुपेन्द्रो मधुसूदन; । इन्द्रकर्मा महेन्द्रस्त्वं पञ्ननाभो रणान्तकृत्‌",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 128,
+      "verse": 18,
+      "sloka": "तस्य बुद्धिं च विज्ञाय व्यवसायं च वानर ।यावन्न दूरं याताः स्म क्षिप्रमागन्तुमर्हसि ।। ६.१२८.१८ ।।",
+      "transliteration": "tasya buddhiṁ ca vijñāya vyavasāyaṁ ca vānara ।yāvanna dūraṁ yātāḥ sma kṣipramāgantumarhasi ।। 6.128.18 ।।",
+      "translations": {
+        "english": "\"Hanuman, making an effort to know his mind you ought to come quickly before we go too far a distance.\"",
+        "hindi": "हा जीन न डी: on १ परोधमः--सिद्धरूपो धर्म: । (गो०) २ कृप्रिभू वाचकः शब्दो शुश्च निङ्गेतिवाचक; । ( गो० ) ७ %. (| गीकेश * शाङ ग नामक धनुष वाले । † हृषीकेश का ग्रर्थ है इन्द्रियों केस्वामी) . द विशत्युत्तरंशततम: सग: १२७४ दिव्य महर्षिगण तुम्हीं को शरणागनबत्खल और रक्षणोपाय बतलाते हैं। तुम्हीं सहस्रश्वङ्गधारी, वेदों के आत्मा, शातजिह्वा ओर वृषभ रूप हो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 128,
+      "verse": 19,
+      "sloka": "इति प्रतिसमादिष्टो हनुमान् मारुतात्मजः ।मानुषं धारयन् रूपमयोध्यां त्वरितो ययौ ।। ६.१२८.१९ ।।",
+      "transliteration": "iti pratisamādiṣṭo hanumān mārutātmajaḥ ।mānuṣaṁ dhārayan rūpamayodhyāṁ tvarito yayau ।। 6.128.19 ।।",
+      "translations": {
+        "english": "Commanded like that Hanuman went speedily taking human form to Ayodhya.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 128,
+      "verse": 20,
+      "sloka": "अथोत्पपात वेगेन हनुमान् मारुतात्मजः ।गरुत्मानिव वेगेन जिघृक्षन् भुजगोत्तमम् ।। ६.१२८.२० ।।",
+      "transliteration": "athotpapāta vegena hanumān mārutātmajaḥ ।garutmāniva vegena jighṛkṣan bhujagottamam ।। 6.128.20 ।।",
+      "translations": {
+        "english": "Then Hanuman rose up just like Garuda who goes at great speed to vanquish the best of serpents.",
+        "hindi": "अब तो (अग्निपरीक्षा द्वारा भी ) जनकनन्दिनी मैथिली विशुद्ध सिद्ध हो चुकी । में इन्हें वैसे ही नहीं त्याग सकता, जैसे प्रसिद्ध या कीतिमान्‌ पुरुष कीति को नहीं त्याग सकता",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 128,
+      "verse": 21,
+      "sloka": "लङ्घयित्वा पितृपथं भुजगेन्द्रालयं शुभम् ।गङ्गायमुनयोर्मध्यं सन्निपातमतीत्य च ।शृङ्गिबेरपुरं प्राप्य गुहमासाद्य वीर्यवान् ।। ६.१२८.२१ ।।",
+      "transliteration": "laṅghayitvā pitṛpathaṁ bhujagendrālayaṁ śubham ।gaṅgāyamunayormadhyaṁ sannipātamatītya ca ।śṛṅgiberapuraṁ prāpya guhamāsādya vīryavān ।। 6.128.21 ।।",
+      "translations": {
+        "english": "Valiant Hanuman, flying through the course of the birds, through the auspicious path of the wind god, leaping across Ganga and Yamuna, reached Sringaberipuram, saw Guha, rejoiced and thus spoke charming words.",
+        "hindi": "तुम्हीं समस्त प्राणियों में, समस्त ब्राह्मणों में, समस्त गोओं में, समस्त दिशाओं में, आफाश में,पर्वेतों में, और वनों में दिख- लाई देते हो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 128,
+      "verse": 22,
+      "sloka": "स वाचा शुभया हृष्टो हनुमानिदमब्रवीत् ।। ६.१२८.२२ ।।ुनयोर्मध्यं सन्निपातमतीत्य च ।सखा तु तव काकुत्स्थो रामः सत्यपराक्रमः ।सहसीतः ससौमित्रिः स त्वां कुशलमब्रवीत् ।। ६.१२८.२३ ।।",
+      "transliteration": "sa vācā śubhayā hṛṣṭo hanumānidamabravīt ।। 6.128.22 ।।unayormadhyaṁ sannipātamatītya ca ।sakhā tu tava kākutstho rāmaḥ satyaparākramaḥ ।sahasītaḥ sasaumitriḥ sa tvāṁ kuśalamabravīt ।। 6.128.23 ।।",
+      "translations": {
+        "english": "Valiant Hanuman, flying through the course of the birds, through the auspicious path of the wind god, leaping across Ganga and Yamuna, reached Sringaberipuram, saw Guha, rejoiced and thus spoke charming words.",
+        "hindi": "तुम सह्नचरण ( सहस्र पैरोंवाले ), तुम श्रीमान्‌ ( शोभा- सम्पन्न ), शतशीष ( सहस्त्र सिरवाले ) और सहस्रक (सहस १२७६ युद्धकाण्डे नेत्रों बाले) हो । तुम समस्त पबेतों सहित इस प्रथिवी को तथा समस्त प्राणियों को धारण करने वाले हो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 128,
+      "verse": 23,
+      "sloka": "पञ्चमीमद्य रजनीमुषित्वा वचनान्मुनेः ।भरद्वाजाभ्यनुज्ञातं द्रक्ष्यस्यद्यैव राघवम् ।। ६.१२८.२४ ।।",
+      "transliteration": "pañcamīmadya rajanīmuṣitvā vacanānmuneḥ ।bharadvājābhyanujñātaṁ drakṣyasyadyaiva rāghavam ।। 6.128.24 ।।",
+      "translations": {
+        "english": "\"Your friend Rama, truly valiant one, with his wife Sita, with Lakshmana conveys his welfare to you.\"",
+        "hindi": "प्राँथवी के विनाशक्राल में जल में तुम शेपशायी रूप धारण करते हो । हे राम ! तुम देवता, गन्धव और दानवों सहित तीनों लोकों को धारण करने बाले हो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 128,
+      "verse": 24,
+      "sloka": "एवमुक्त्वा महातेजाः सम्प्रहृष्टतनूरुहः ।उत्पपात महावेगो वेगवानविचारयन् ।। ६.१२८.२५ ।।",
+      "transliteration": "evamuktvā mahātejāḥ samprahṛṣṭatanūruhaḥ ।utpapāta mahāvego vegavānavicārayan ।। 6.128.25 ।।",
+      "translations": {
+        "english": "\"Tomorrow that is the fifth lunar day, after spending the night at sage Bharadwaja's hermitage Raghava will see you.\"",
+        "hindi": "हे राम ! में तुम्हारा हृदय और सरस्वती देवी हम्हारी जिह्वा हैं। हे प्रभो! मेरे रचे हुए समस्त देवता तुम्हारे शरीर के रोम हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 128,
+      "verse": 25,
+      "sloka": "सो ऽपश्यद्रामतीर्थं च नदीं वालुकिनीं तथा ।गोमतीं तां च सो ऽपश्यद्भीमं सालवनं तथा ।प्रजाश्च बहुसाहस्राः स्फीतान् जनपदानपि ।। ६.१२८.२६ ।।",
+      "transliteration": "so 'paśyadrāmatīrthaṁ ca nadīṁ vālukinīṁ tathā ।gomatīṁ tāṁ ca so 'paśyadbhīmaṁ sālavanaṁ tathā ।prajāśca bahusāhasrāḥ sphītān janapadānapi ।। 6.128.26 ।।",
+      "translations": {
+        "english": "Highly energetic Hanuman, was thrilled, overcome with happiness (that he was able to communicate to Guha) and unmindful of the fatigue, being endowed with speed and swift movement, went up.",
+        "hindi": "हे प्रभो ! आपने कैकेयी से जो यह कहा था कि “मैं पुत्र सहित तेरा त्याग करता हूँ” सो आपका यह शाप (क्रोध में भर कर कहा हुआ वचन ) मारा कैकेयो और भरत के लिए यथाथ न हो अर्थात्‌ आपका ओर भरत-सहित कैकेयी का पूववत्‌ सम्बन्ध बना रहे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 128,
+      "verse": 26,
+      "sloka": "स गत्वा दूरमध्वानं त्वरितः कपिकुञ्जरः ।आससाद द्रुमान् फुल्लान् नन्दिग्रामसमीपगान् ।। ६.१२८.२७ ।।",
+      "transliteration": "sa gatvā dūramadhvānaṁ tvaritaḥ kapikuñjaraḥ ।āsasāda drumān phullān nandigrāmasamīpagān ।। 6.128.27 ।।",
+      "translations": {
+        "english": "He saw waters associated with Parasurama, and rivers Valukini, Varuthini, and Gomathi so also fearful woods of Sala trees and thousands of people, numerous kingdoms on the way.",
+        "hindi": "रावण के बढ़िया रनवास में रह कर भी, सीता उसके ऐश्वय की चाहना नहीं कर सकती थीं- अर्थात्‌ लोभ में नहीं फँस सकती थीं ! क्योंकि सीता तो मुझमें वैसे ही अनन्यरूप से अनुरागवती है अर्थात्‌ मुमसे अभिन्न हे, जैसे प्रभा सूर्य से",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 128,
+      "verse": 27,
+      "sloka": "स्त्रीभिः सपुत्रैर्वृद्धैश्च रममाणैरलङ्कृतान् ।सुराधिपस्योपवने यथा चैत्ररथे द्रुमान् ।। ६.१२८.२८ ।।",
+      "transliteration": "strībhiḥ saputrairvṛddhaiśca ramamāṇairalaṅkṛtān ।surādhipasyopavane yathā caitrarathe drumān ।। 6.128.28 ।।",
+      "translations": {
+        "english": "Speeding on the journey for long distance Hanuman, the elephant among the monkeys saw women, their sons, grand sons and the old, well decorated, sporting in the gardens which were like the gardens of Indra and the gardens of Chaitraratha of Kubera with trees and close to Nandigrama, he saw trees full of blossoms.",
+        "hindi": "पूर्वकाल में तीन पग से तीनों लोको को नापने वाले तुम्ही हो और दानवराज बलि का बाँध कर इन्द्र को राजा बनाने वाले भी तुम्हीं हो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 128,
+      "verse": 28,
+      "sloka": "क्रोशमात्रे त्वयोध्यायाश्चीरकृष्णाजिनाम्बरम् ।ददर्श भरतं दीनं कृशमाश्रमवासिनम् ।। ६.१२८.२९ ।।",
+      "transliteration": "krośamātre tvayodhyāyāścīrakṛṣṇājināmbaram ।dadarśa bharataṁ dīnaṁ kṛśamāśramavāsinam ।। 6.128.29 ।।",
+      "translations": {
+        "english": "Speeding on the journey for long distance Hanuman, the elephant among the monkeys saw women, their sons, grand sons and the old, well decorated, sporting in the gardens which were like the gardens of Indra and the gardens of Chaitraratha of Kubera with trees and close to Nandigrama, he saw trees full of blossoms.",
+        "hindi": "टिप्पणो--श्रीरामचन्द्र जी के, बारहवें श्‍लोक में किए. हुए स्वरूप सम्बंधी तथा जगत्‌ से सम्बंध रूपी प्रश्नों का उत्त' यहाँ तक दे, ब्रह्मा जी इसके आगे उनके पुथिवीतल पर आगमन सम्बंधी प्रयोजन को इस प्रकार. बंतलाते हैं:--] . 6 न्य सीता लक्ष्मीभवान्‌ विष्णुदवः कृष्णः प्रजापति; || वधाथ रावणस्येह प्रविष्टी मानुषी तनुम्र्‌",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 128,
+      "verse": 29,
+      "sloka": "जटिलं मलदिग्धाङ्गं भ्रातृव्यसनकर्शितम् ।फलमूलाशिनं दान्तं तापसं धर्मचारिणम् ।। ६.१२८.३० ।।",
+      "transliteration": "jaṭilaṁ maladigdhāṅgaṁ bhrātṛvyasanakarśitam ।phalamūlāśinaṁ dāntaṁ tāpasaṁ dharmacāriṇam ।। 6.128.30 ।।",
+      "translations": {
+        "english": "' At a distance of two miles from Ayodhya, Hanuman saw Bharata living in a hermitage wearing black skin of antelope, emaciated, piteous, not clean, without any cleaning of the body, affected by the separation from brother living on fruits and roots, subdued practicing austerities, following righteous practices disciplined, soul purified by meditation, like Brahmarshi in brilliance, placing your sandals on ground ruling the earth, all the four divisions free from fear on all sides, protecting the upright, ministers, priests, united with chiefs of army stood there' (reported Hanuman).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 128,
+      "verse": 30,
+      "sloka": "समुन्नतजटाभारं वल्कलाजिनवाससम् ।नियतं भावितात्मानं ब्रह्मर्षिसमतेजसम् ।। ६.१२८.३१ ।।",
+      "transliteration": "samunnatajaṭābhāraṁ valkalājinavāsasam ।niyataṁ bhāvitātmānaṁ brahmarṣisamatejasam ।। 6.128.31 ।।",
+      "translations": {
+        "english": "' At a distance of two miles from Ayodhya, Hanuman saw Bharata living in a hermitage wearing black skin of antelope, emaciated, piteous, not clean, without any cleaning of the body, affected by the separation from brother living on fruits and roots, subdued practicing austerities, following righteous practices disciplined, soul purified by meditation, like Brahmarshi in brilliance, placing your sandals on ground ruling the earth, all the four divisions free from fear on all sides, protecting the upright, ministers, priests, united with chiefs of army stood there' (reported Hanuman).",
+        "hindi": "तुम्हीं यज्ञ, तुम्हीं वषट्कार, तुम्हीं ओंकार ओर तम्ही उत्कृष्ट तप हो | तुम्हारी उत्पत्ति और लय का हाल किसी को नहीं मालूम । यह भी कोइ नहीं जानता कि, आप हैँ क्या ?",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 128,
+      "verse": 31,
+      "sloka": "पादुके ते पुरस्कृत्य शासन्तं वै वसुन्धराम् ।चातुर्वर्ण्यस्य लोकस्य त्रातारं सर्वतो भयात् ।। ६.१२८.३२ ।।",
+      "transliteration": "pāduke te puraskṛtya śāsantaṁ vai vasundharām ।cāturvarṇyasya lokasya trātāraṁ sarvato bhayāt ।। 6.128.32 ।।",
+      "translations": {
+        "english": "' At a distance of two miles from Ayodhya, Hanuman saw Bharata living in a hermitage wearing black skin of antelope, emaciated, piteous, not clean, without any cleaning of the body, affected by the separation from brother living on fruits and roots, subdued practicing austerities, following righteous practices disciplined, soul purified by meditation, like Brahmarshi in brilliance, placing your sandals on ground ruling the earth, all the four divisions free from fear on all sides, protecting the upright, ministers, priests, united with chiefs of army stood there' (reported Hanuman).",
+        "hindi": "जो लोग भक्तिपुवेक तुम्हारा आराधन करेंगे उनका आराधन आ कभी निष्फल नहीं होगा । जो लोग' पुराणपुरुषोत्तम अर्थात्‌ तुम्हारे दृढ सक्त अथवा अनन्य भक्त होंगे वे इस लोक और पर- लोक में सदा अपने अभीष्ट को पावेंगे । अर्थात. सदा उनकी अनोकासनाएँ पूरी होंगी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 128,
+      "verse": 32,
+      "sloka": "उपस्थितममात्यैश्च शुचिभिश्च पुरोहितैः ।बलमुख्यैश्च युक्तैश्च काषायाम्बरधारिभिः ।। ६.१२८.३३ ।।",
+      "transliteration": "upasthitamamātyaiśca śucibhiśca purohitaiḥ ।balamukhyaiśca yuktaiśca kāṣāyāmbaradhāribhiḥ ।। 6.128.33 ।।",
+      "translations": {
+        "english": "' At a distance of two miles from Ayodhya, Hanuman saw Bharata living in a hermitage wearing black skin of antelope, emaciated, piteous, not clean, without any cleaning of the body, affected by the separation from brother living on fruits and roots, subdued practicing austerities, following righteous practices disciplined, soul purified by meditation, like Brahmarshi in brilliance, placing your sandals on ground ruling the earth, all the four divisions free from fear on all sides, protecting the upright, ministers, priests, united with chiefs of army stood there' (reported Hanuman).",
+        "hindi": "गो० ) १२६२ युद्धकाण्डे वैदेही सहित इन श्रीरामचन्द्र की भक्तिपूर्वक सेबा करते हुए तुमने बड़ा पुण्य ओर बड़ा यश पाया है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 128,
+      "verse": 33,
+      "sloka": "न हि ते राजपुत्रं तं चीरकृष्णाजिनाम्बरम् ।परिभोक्तुं व्यवस्यन्ति पौरा वै धर्मवत्सलम् ।। ६.१२८.३४ ।।",
+      "transliteration": "na hi te rājaputraṁ taṁ cīrakṛṣṇājināmbaram ।paribhoktuṁ vyavasyanti paurā vai dharmavatsalam ।। 6.128.34 ।।",
+      "translations": {
+        "english": "' At a distance of two miles from Ayodhya, Hanuman saw Bharata living in a hermitage wearing black skin of antelope, emaciated, piteous, not clean, without any cleaning of the body, affected by the separation from brother living on fruits and roots, subdued practicing austerities, following righteous practices disciplined, soul purified by meditation, like Brahmarshi in brilliance, placing your sandals on ground ruling the earth, all the four divisions free from fear on all sides, protecting the upright, ministers, priests, united with chiefs of army stood there' (reported Hanuman).",
+        "hindi": "इस प्रकार महाबाहु लक्ष्मण से कह कर धर्मात्मा महाराज ' दशरथ ने हाथ जोड़े खड़ी हुई सीता जी से ये सुन्दर वचन कहे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 128,
+      "verse": 34,
+      "sloka": "तं धर्ममिव धर्मज्ञं देहवन्तमिवापरम् ।उवाच प्राञ्जलिर्वाक्यं हनुमान् मरुतात्मजः ।। ६.१२८.३५ ।।",
+      "transliteration": "taṁ dharmamiva dharmajñaṁ dehavantamivāparam ।uvāca prāñjalirvākyaṁ hanumān marutātmajaḥ ।। 6.128.35 ।।",
+      "translations": {
+        "english": "The citizens (of Ayodhya) who were lovers of virtues did not enjoy any luxuries, not inclined for pleasures as the prince himself was wearing bark of trees and skin of antelope.",
+        "hindi": "हे. वैदेही ! श्रीरामचन्द्र द्वारा इस प्रकार अपना त्याग किए जाने का, तुम बुरा मत मानना । क्योंकि श्रीरामचन्द्र ने तुम्हारा हित सोच कर ही, तुम्हें विशुद्ध सिद्ध करने के लिए यहं किआ था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 128,
+      "verse": 35,
+      "sloka": "वसन्तं दण्डकारण्ये यं त्वं चीरजटाधरम् ।अनुशोचसि काकुत्स्थं स त्वां कुशलमब्रवीत् ।। ६.१२८.३६ ।।",
+      "transliteration": "vasantaṁ daṇḍakāraṇye yaṁ tvaṁ cīrajaṭādharam ।anuśocasi kākutsthaṁ sa tvāṁ kuśalamabravīt ।। 6.128.36 ।।",
+      "translations": {
+        "english": "Maruti's son Hanuman offered salutations to Bharata who was seen like a supreme body of dharma itself as if he was another form of dharma.",
+        "hindi": "ओर यहीं मैंने बालि के मारने का संकेत किआ था अर्थात्‌ प्रतिज्ञा की थी । यह रंगबिरंगे फूलों से लदे वृक्षों से पूण, वनों के बीच पम्पासरोवर देख पड़ती है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 128,
+      "verse": 36,
+      "sloka": "प्रियमाख्यामि ते देव शोकं त्यज सुदारुणम् ।अस्मिन् मुहूर्ते भ्रात्रा त्वं रामेण सह सङ्गतः ।। ६.१२८.३७ ।।",
+      "transliteration": "priyamākhyāmi te deva śokaṁ tyaja sudāruṇam ।asmin muhūrte bhrātrā tvaṁ rāmeṇa saha saṅgataḥ ।। 6.128.37 ।।",
+      "translations": {
+        "english": "\"That Kakuthsa for whom you are worrying and living as he was at Dandaka forest with bark tree fabric, and matted hair sent me to tell you about his welfare.\"",
+        "hindi": "इति द्वाबिशस्युत्तरशततमः सगः || १ न समाधेया--नोपदेष्टव्या CO 6: ८ CC-0. Nanalji Deshmukh Library, प (गोऽ) ५ पाठान्तरे त ति | त्रयोविशत्युत्त रशतत मः सग: १२६३ . इस प्रकार महाराज दशरथ अपने दोनों पुत्रों को तथा अगनी बहू सीता को उपदेश देकर बिदा हुए और विमान में बैठ, इन्द्र- , लोक ( स्वर्ग ) को चले गए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 128,
+      "verse": 37,
+      "sloka": "निहत्य रावणं रामः प्रतिलभ्य च मैथिलीम् ।उपयाति समृद्धार्थः सह मित्रैर्महाबलैः ।। ६.१२८.३८ ।।",
+      "transliteration": "nihatya rāvaṇaṁ rāmaḥ pratilabhya ca maithilīm ।upayāti samṛddhārthaḥ saha mitrairmahābalaiḥ ।। 6.128.38 ।।",
+      "translations": {
+        "english": "\"O God! I will tell you some pleasant news. Give up that terrible grief. You will be reunited with your brother this moment.\"",
+        "hindi": "अत्र याजनबाहुश्च कबन्धो निहतो मया । दृश्यते च जनस्थाने सीते रश्रीमान्‌ वनस्पतिः ॥३७)| यहाँ पर मैंने एक योजन लंबी भुजाओं वाले कबन्ध को मारा था । देखो यह जनस्थान देख पढ़ता है । हे सीते ! यह देखो, यह बह शोभायमान वटवृक्ष है, जिव पर जटायु रहा करते थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 128,
+      "verse": 38,
+      "sloka": "लक्ष्मणश्च महातेजा वैदेही च यशस्विनी ।सीता समग्रा रामेण महेन्द्रेण यथा शची ।। ६.१२८.३९ ।।",
+      "transliteration": "lakṣmaṇaśca mahātejā vaidehī ca yaśasvinī ।sītā samagrā rāmeṇa mahendreṇa yathā śacī ।। 6.128.39 ।।",
+      "translations": {
+        "english": "\"Rama killed Ravana and recovered Mythili. He, having accomplished the purpose, is coming with his mighty friends.\"",
+        "hindi": "यहीं पर तुम्हारे लिए महातेजस्वी जटायु के साथ निष्ठुर रावण का घोर युद्ध हुआ था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 128,
+      "verse": 39,
+      "sloka": "एवमुक्तो हनुमता भरतो भ्रातृवत्सलः ।पपात सहसा हृष्टो हर्षान्मोहं जगाम ह ।। ६.१२८.४० ।।",
+      "transliteration": "evamukto hanumatā bharato bhrātṛvatsalaḥ ।papāta sahasā hṛṣṭo harṣānmohaṁ jagāma ha ।। 6.128.40 ।।",
+      "translations": {
+        "english": "\"Lakshmana who is endowed with extraordinary energy, and illustrious Sita accompanied by Rama will be coming as Sachi with Mahendra.\"",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 128,
+      "verse": 40,
+      "sloka": "ततो मुहूर्तादुत्थाय प्रत्याश्वस्य च राघवः ।हनुमन्तमुवाचेदं भरतः प्रियवादिनम् ।। ६.१२८.४१ ।।",
+      "transliteration": "tato muhūrtādutthāya pratyāśvasya ca rāghavaḥ ।hanumantamuvācedaṁ bharataḥ priyavādinam ।। 6.128.41 ।।",
+      "translations": {
+        "english": "Hanuman having said that, the son of Kaikeyi was delighted and instantly fell on ground and lost senses by extreme joy.",
+        "hindi": "हे सुन्दरी ! यह हम लोगों का बही आश्रम है और यह वही हम लोगों की पणेकुटी है । हे शुभदशना ! यह पर्णकुटी ( अब भी पूर्ववत्‌ ) सुन्दर बनी हुई हे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 128,
+      "verse": 41,
+      "sloka": "अशोकजैः प्रीतिमयैः कपिमालिङ्ग्य सम्भ्रमात् ।सिषेच भरतः श्रीमान् विपुलैरस्त्रबिन्दुभिः ।। ६.१२८.४२ ।।",
+      "transliteration": "aśokajaiḥ prītimayaiḥ kapimāliṅgya sambhramāt ।siṣeca bharataḥ śrīmān vipulairastrabindubhiḥ ।। 6.128.42 ।।",
+      "translations": {
+        "english": "Bharata got up in a moment and saw Hanuman, who is sweet in speech said this.",
+        "hindi": "यहीं पर रावण ने बरजोरी तुमको हरा था । यह्‌ वही रम- शीक, शुभ ओर निर्मल जल वाली गोदावरी नदी हे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 128,
+      "verse": 42,
+      "sloka": "देवो वा मानुषो वा त्वमनुक्रोशादिहागतः ।प्रियाख्यानस्य ते सौम्य ददामि ब्रुवतः प्रियम् ।। ६.१२८.४३ ।।",
+      "transliteration": "devo vā mānuṣo vā tvamanukrośādihāgataḥ ।priyākhyānasya te saumya dadāmi bruvataḥ priyam ।। 6.128.43 ।।",
+      "translations": {
+        "english": "Glorious Bharata was overwhelmed with joy and embraced Hanuman and copious tears of joy born of joy.",
+        "hindi": "अगस्त्यस्याश्रमो ह्येष हश्यते पश्य मैथिलि । दीप्तश्चैवाश्रमो ह्येष सुतीक्ष्णस्य महात्मनः ।।४२ हे मैथिली ! यह अगस्त्य का आश्रम देख पड़ता है और यह चसचमाता महात्मा सुतीच्ण का आश्रम है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 128,
+      "verse": 43,
+      "sloka": "गवां शतसहस्रं च ग्रामाणां च शतं परम् ।सुकुण्डलाः शुभाचारा भार्याः कन्याश्च षोडश ।। ६.१२८.४४ ।।",
+      "transliteration": "gavāṁ śatasahasraṁ ca grāmāṇāṁ ca śataṁ param ।sukuṇḍalāḥ śubhācārā bhāryāḥ kanyāśca ṣoḍaśa ।। 6.128.44 ।।",
+      "translations": {
+        "english": "\"O Gentle Hanuman! You have come here with great compassion. Are you God or a human being? For the sweet tidings brought by you to me, I will bestow a hundred thousand cows, hundred best villages, sixteen virgin women of good conduct as wives with earrings, with shapely noses, full moon like face, golden complexioned, decked with ornaments and rich women.\"",
+        "hindi": "हे चैरेहि ! यहाँ पर शरभङ्ग का बिशाल आश्रम देख पड़ता है। ( जिस समय हम लोग यहाँ आए थे उस समय ) सहस्वाक्ष देवराज इन्द्र भी यहाँ आए हुए थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 128,
+      "verse": 44,
+      "sloka": "हेमवर्णाः सुनासोरूः शशिसौम्याननाः स्त्रियः ।सर्वाभरणसम्पन्नाः सम्पन्नाः कुलजातिभिः ।। ६.१२८.४५ ।।",
+      "transliteration": "hemavarṇāḥ sunāsorūḥ śaśisaumyānanāḥ striyaḥ ।sarvābharaṇasampannāḥ sampannāḥ kulajātibhiḥ ।। 6.128.45 ।।",
+      "translations": {
+        "english": "\"O Gentle Hanuman! You have come here with great compassion. Are you God or a human being? For the sweet tidings brought by you to me, I will bestow a hundred thousand cows, hundred best villages, sixteen virgin women of good conduct as wives with earrings, with shapely noses, full moon like face, golden complexioned, decked with ornaments and rich women.\"",
+        "hindi": "इस जगह मैंने विशाल शरीरधारी विराध नामक राक्षस को मारा था । हे तनुमध्यमे ! ( पतली कमरत्राली ) ये तपस्तरियाँ के आश्रम देख पड़ते हैं",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 128,
+      "verse": 45,
+      "sloka": "निशम्य रामागमनं नृपात्मजः कपिप्रवीरस्य तदद्भुतोपमम् ।प्रहर्षितो रामदिदृक्षया ऽभवत् पुनश्च हर्षादिदमब्रवीद्वचः ।। ६.१२८.४६ ।।",
+      "transliteration": "niśamya rāmāgamanaṁ nṛpātmajaḥ kapipravīrasya tadadbhutopamam ।praharṣito rāmadidṛkṣayā 'bhavat punaśca harṣādidamabravīdvacaḥ ।। 6.128.46 ।।",
+      "translations": {
+        "english": "\"O Gentle Hanuman! You have come here with great compassion. Are you God or a human being? For the sweet tidings brought by you to me, I will bestow a hundred thousand cows, hundred best villages, sixteen virgin women of good conduct as wives with earrings, with shapely noses, full moon like face, golden complexioned, decked with ornaments and rich women.\"",
+        "hindi": "जहाँ सूये अथवा अग्नि के समाम तेजस्वी कुलपति 'अत्रि रहते हैं हे सीते ! यहीं पर धर्मचारिणी ओर तपस्विनी अनुसूया जी से तुम्हारी भेंट हुईं थी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 128,
+      "verse": 46,
+      "sloka": "इत्यार्षे श्रीमद्रामायणे वाल्मीकीये आदिकाव्ये श्रीमद्युद्धकाण्डे अष्टाविंशत्युत्तरशततमः सर्गः ।। १२८ ।।",
+      "transliteration": "ityārṣe śrīmadrāmāyaṇe vālmīkīye ādikāvye śrīmadyuddhakāṇḍe aṣṭāviṁśatyuttaraśatatamaḥ sargaḥ ।। 128 ।।",
+      "translations": {
+        "english": "Hearing from that foremost of monkey heroes the marvellous news of Rama's coming, the prince was thrilled with longing to behold Rama, and in his joy spoke these words once more:",
+        "hindi": "टिप्पणी-रामायणकाल मं कुलपति वह अध्यापक कहलाता था, जो दससहस्त विद्यार्थियों का भरणपोषण करता .हुआ, उनको शिक्षा देता था । ] असौ सुतनु शैलेन्द्रश्चित्रकूटः प्रकाशते | यत्र मां केकयीपुत्रः प्रसादयितुमागतः",
+        "telugu": ""
+      }
+    }
+  ]
+}

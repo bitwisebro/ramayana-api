@@ -1,0 +1,457 @@
+{
+  "kanda": 1,
+  "kanda_name": "Bala Kanda",
+  "kanda_name_sanskrit": "बालकाण्डम्",
+  "sarga": 29,
+  "verses_count": 32,
+  "verses": [
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 29,
+      "verse": 1,
+      "sloka": "अथ तस्य अप्रमेयस्य वचनम् परिपृच्छतः ।विश्वामित्रो महातेजा व्याख्यातुम् उपचक्रमे ॥१-२९-१॥",
+      "transliteration": "atha tasya aprameyasya vacanam paripṛcchataḥ ।viśvāmitro mahātejā vyākhyātum upacakrame ॥1-29-1॥",
+      "translations": {
+        "english": "The highly lustrous Viswamitra heard the words of Rama of immeasurable prowess. On his (Rama's) query about the forest, Viswamitra explains.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 29,
+      "verse": 2,
+      "sloka": "इह राम महाबाहो विष्णुर् देव नमस्कृत ।वर्षाणि सुबहूनि इह तथा युग शतानि च ॥१-२९-२॥",
+      "transliteration": "iha rāma mahābāho viṣṇur deva namaskṛta ।varṣāṇi subahūni iha tathā yuga śatāni ca ॥1-29-2॥",
+      "translations": {
+        "english": "\"O mightyarmed Rama Lord Visnu, the foremost among the gods, and master the great ascetic lived here carrying out yogic practices and penance for innumerable years constituting hundreds of yugas.",
+        "hindi": "उस रात में वहाँ निवास कर, महायशस्बी बिश्वा मित्र ने सुसकुरा \"कर मधुर वाणी से श्रीरामचन्द्र जी से कहा ।.१॥ परितुष्टोऽस्मि भद्रं ते राजपुत्र महायशः । प्रीत्या परमया युक्तो ददाम्यस्त्राणि सवशः",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 29,
+      "verse": 3,
+      "sloka": "तपः चरण योगार्थम् उवास सु महातपाः ।एष पूर्व आश्रमो राम वामनस्य महात्मनः ॥१-२९-३॥",
+      "transliteration": "tapaḥ caraṇa yogārtham uvāsa su mahātapāḥ ।eṣa pūrva āśramo rāma vāmanasya mahātmanaḥ ॥1-29-3॥",
+      "translations": {
+        "english": "\"O Rama this was the hermitage of glorious Vamana. The great sage her performed his ascetic pratices here, hence it is known as siddhashrama.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 29,
+      "verse": 4,
+      "sloka": "सिद्ध आश्रम इति ख्यातः सिद्धो हि अत्र महातपाः ।एतस्मिन् एव काले तु राजा वैरोचनिर् बलिः ॥१-२९-४॥",
+      "transliteration": "siddha āśrama iti khyātaḥ siddho hi atra mahātapāḥ ।etasmin eva kāle tu rājā vairocanir baliḥ ॥1-29-4॥",
+      "translations": {
+        "english": "\"During the period Visnu (in the incarnation of Vamana) was observing austerities at this hermitage, king Bali, son of Virochana, having vanquished Indra and maruts and devatas ruled this kingdom and became famous in all the three worlds (for his prowess and generosity.)",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 29,
+      "verse": 5,
+      "sloka": "निर्जित्य दैवत गणान् स इन्द्रान् स मरुद् गणान् ।कारयामास तद् राज्यम् त्रिषु लोकेषु विश्रुतः ॥१-२९-५॥",
+      "transliteration": "nirjitya daivata gaṇān sa indrān sa marud gaṇān ।kārayāmāsa tad rājyam triṣu lokeṣu viśrutaḥ ॥1-29-5॥",
+      "translations": {
+        "english": "\"During the period Visnu (in the incarnation of Vamana) was observing austerities at this hermitage, king Bali, son of Virochana, having vanquished Indra and maruts and devatas ruled this kingdom and became famous in all the three worlds (for his prowess and generosity.)",
+        "hindi": "हे राजकमार राम ! मैं तुमको अत्यन्त उम्र धर्मपाश और काल- पाश नामक अख देता हूँ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 29,
+      "verse": 6,
+      "sloka": "यज्ञम् चकार सुमहान् असुरेन्द्रो महाबलः ।बलेः तु यजमानस्य देवाः साग्नि पुरोगमाः ।समागम्य स्वयम् चैव विष्णुम् ऊचुः इह आश्रमे ॥१-२९-६॥",
+      "transliteration": "yajñam cakāra sumahān asurendro mahābalaḥ ।baleḥ tu yajamānasya devāḥ sāgni purogamāḥ ।samāgamya svayam caiva viṣṇum ūcuḥ iha āśrame ॥1-29-6॥",
+      "translations": {
+        "english": "\"While Bali was performing the sacrifice (to confirm his position as lord of the three worlds), the devas got together with Agni in the forefront and approached Lord Visnu at this hermitage, saying:",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 29,
+      "verse": 7,
+      "sloka": "बलिः वैरोचनिः विष्णो यजते यज्ञम् उत्तमम् ।असमाप्त व्रते तस्मिन् स्व कार्यम् अभिपद्यताम् ॥१-२९-७॥",
+      "transliteration": "baliḥ vairocaniḥ viṣṇo yajate yajñam uttamam ।asamāpta vrate tasmin sva kāryam abhipadyatām ॥1-29-7॥",
+      "translations": {
+        "english": "'O Visnu son of Virochana is performing a great sacrifice. Before its completion, our purpose ought to be achieved'.",
+        "hindi": "हे नरश्रेष्ठ ! यह लो वज्रा, मद्दादेवाख ! हे राघव ! यह है ब्रह्मशिर ओर ऐषीक ॥ :॥ ददामि ते महाबाहो ब्राह्ममस्त्रमनुत्तमम्‌ | गदे द्वे चेव काकुत्स्थ मोदकी शिखरी उभे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 29,
+      "verse": 8,
+      "sloka": "ये च एनम् अभिवर्तन्ते याचितार इतः ततः ।यत् च यत्र यथावत् च सर्वम् तेभ्यः प्रयच्छति ॥१-२९-८॥",
+      "transliteration": "ye ca enam abhivartante yācitāra itaḥ tataḥ ।yat ca yatra yathāvat ca sarvam tebhyaḥ prayacchati ॥1-29-8॥",
+      "translations": {
+        "english": "'He is granting the seekers whatever, wherever and in whichever maner they, coming from here and there approach him for favour'.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 29,
+      "verse": 9,
+      "sloka": "स त्वम् सुर हितार्थाय माया योगम् उपाश्रितः ।वामनत्वम् गतो विष्णो कुरु कल्याणम् उत्तमम् ॥१-२९-९॥",
+      "transliteration": "sa tvam sura hitārthāya māyā yogam upāśritaḥ ।vāmanatvam gato viṣṇo kuru kalyāṇam uttamam ॥1-29-9॥",
+      "translations": {
+        "english": "\"O Visnu perform this supreme, auspicious act assuming the form of a dwarf through, the power of illusion for the welfare of the devatas'.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 29,
+      "verse": 10,
+      "sloka": "एतस्मिन् अनन्तरे राम काश्यपो अग्नि सम प्रभः ।अदित्या सहितः राम दीप्यमान इव ओजसा ॥१-२९-१०॥",
+      "transliteration": "etasmin anantare rāma kāśyapo agni sama prabhaḥ ।adityā sahitaḥ rāma dīpyamāna iva ojasā ॥1-29-10॥",
+      "translations": {
+        "english": "\"O Rama in the mean time revered Kasyapa resplendent like the god of fire radiating lustre with Aditi who had completed a thousand divine years of austerities pleased (with her penance) the conferer of boons, Lord Madhusudana\" (Visnu) (And she said to Visnu):",
+        "hindi": "यह्‌ लो पैनाकाख, नारायणाख और आग्नेया जिसका नाम शिखर है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 29,
+      "verse": 11,
+      "sloka": "देवी सहायो भगवन् दिव्यम् वर्ष सहस्रकम् ।व्रतम् समाप्य वरदम् तुष्टाव मधुसूदनम् ॥१-२९-११॥",
+      "transliteration": "devī sahāyo bhagavan divyam varṣa sahasrakam ।vratam samāpya varadam tuṣṭāva madhusūdanam ॥1-29-11॥",
+      "translations": {
+        "english": "\"O Rama in the mean time revered Kasyapa resplendent like the god of fire radiating lustre with Aditi who had completed a thousand divine years of austerities pleased (with her penance) the conferer of boons, Lord Madhusudana\" (Visnu) (And she said to Visnu):",
+        "hindi": "है राम ! यह लो प्रथन नामक वायव्यास्र, हयशिराञ्ज और क्रोश्चाख। मैं दो शक्तियाँ भी तुम्हें देता हूँ। में तुम्हें अब भयङ्कर कङ्काल नामक मुशल, कापाल और कङ्कण देता हूँ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 29,
+      "verse": 12,
+      "sloka": "तपोमयम् तपोराशिम् तपोमूर्तिम् तपात्मकम् ।तपसा त्वाम् सुतप्तेन पश्यामि पुरोषोत्तमम् ॥१-२९-१२॥",
+      "transliteration": "tapomayam taporāśim tapomūrtim tapātmakam ।tapasā tvām sutaptena paśyāmi puroṣottamam ॥1-29-12॥",
+      "translations": {
+        "english": "\"You are all ascetism, a mass of tapas, and an embodiment of tapas. Your soul is tapas. O Purushottama I am beholding you after a rigorous penance.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 29,
+      "verse": 13,
+      "sloka": "शरीरे तव पश्यामि जगत् सर्वम् इदम् प्रभो ।त्वम् अनादिः अनिर्देश्यः त्वाम् अहम् शरणम् गतः ॥१-२९-१३॥",
+      "transliteration": "śarīre tava paśyāmi jagat sarvam idam prabho ।tvam anādiḥ anirdeśyaḥ tvām aham śaraṇam gataḥ ॥1-29-13॥",
+      "translations": {
+        "english": "\"O Lord I am beholding this entire universe in your body. You are beginningless and indescribable. I take refuge in you\".",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 29,
+      "verse": 14,
+      "sloka": "तम् उवाच हरिः प्रीतः कश्यपम् धूत कल्मषम् ।वरम् वरय भद्रम् ते वर अर्हः असि मतो मम ॥१-२९-१४॥",
+      "transliteration": "tam uvāca hariḥ prītaḥ kaśyapam dhūta kalmaṣam ।varam varaya bhadram te vara arhaḥ asi mato mama ॥1-29-14॥",
+      "translations": {
+        "english": "Addressing Kasyapa whose sins had been washed clean, Lord Visnu pleased (with his penance) said: \"Be prosperous you are dear to me. Worthy of a boon. Ask.\"",
+        "hindi": "मैं तुम्हें वे सब अस्त्र देता हूँ जो राक्षसों के उपयोगी हैं । यह विद्याधराख्र है और यह नन्दन ज १ ण । 39 असिरत्नं सि महाद्राहो ददामि नुवरात्मज । न्धवमस्त्रं दयिते मानवं नाम नामतः",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 29,
+      "verse": 15,
+      "sloka": "तत् श्रुत्वा वचनम् तस्य मारीचः कश्यपो अब्रवीत् ।अदित्या देवतानाम् च मम च एव अनुयाचितम् ॥१-२९-१५॥",
+      "transliteration": "tat śrutvā vacanam tasya mārīcaḥ kaśyapo abravīt ।adityā devatānām ca mama ca eva anuyācitam ॥1-29-15॥",
+      "translations": {
+        "english": "Having heard those words of Vishnu, Kasyapa, son of Maricha, replied, \"O bestower of boons, O great practitioner of austerities Be pleased to grant a boon for Aditi, devatas and for myself.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 29,
+      "verse": 16,
+      "sloka": "वरम् वरद सुप्रीतो दातुम् अर्हसि सुव्रत ।पुत्रत्वम् गच्छ भगवन् अदित्या मम च अनघ ॥१-२९-१६॥",
+      "transliteration": "varam varada suprīto dātum arhasi suvrata ।putratvam gaccha bhagavan adityā mama ca anagha ॥1-29-16॥",
+      "translations": {
+        "english": "\"O Sinless Lord, Be born son to Aditi and to me, O Destroyer of asuras, be the younger brother to Indra. You can help these sorrowstricken devatas.",
+        "hindi": "ये हैं ) कन्दे देवता का प्यारा दुर्धेषे मदना और यह है 'पैशाचास्थ और प्यारा मोहनास्त्र",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 29,
+      "verse": 17,
+      "sloka": "भ्राता भव यवीयान् त्वम् शक्रस्य असुरसूदन ।शोक आर्तानाम् तु देवानाम् साहाय्यम् कर्तुम् अर्हसि ॥१-२९-१७॥",
+      "transliteration": "bhrātā bhava yavīyān tvam śakrasya asurasūdana ।śoka ārtānām tu devānām sāhāyyam kartum arhasi ॥1-29-17॥",
+      "translations": {
+        "english": "\"O Sinless Lord, Be born son to Aditi and to me, O Destroyer of asuras, be the younger brother to Indra. You can help these sorrowstricken devatas.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 29,
+      "verse": 18,
+      "sloka": "अयम् सिद्ध आश्रमो नाम प्रसादात् ते भविष्यति ।सिद्धे कर्मणि देवेश उत्तिष्ठ भगवन् इतः ॥१-२९-१८॥",
+      "transliteration": "ayam siddha āśramo nāma prasādāt te bhaviṣyati ।siddhe karmaṇi deveśa uttiṣṭha bhagavan itaḥ ॥1-29-18॥",
+      "translations": {
+        "english": "O Lord of the celestials, with my penance accomplished (here) this place will be known as siddhaashrama by your grace. O Lord arise from here\".",
+        "hindi": "हे राजकुमार ! हे महाबाहो ! ये हैं संवत्ते, दुर्धर्ष मौसल, ससत्यास्त्र और परमास्त्र मायाधर",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 29,
+      "verse": 19,
+      "sloka": "अथ विष्णुर् महातेजाअ आदित्याम् समजायत ।वामनम् रूपम् आस्थाय वैरोचनिम् उपागमत् ॥१-२९-१९॥",
+      "transliteration": "atha viṣṇur mahātejāa ādityām samajāyata ।vāmanam rūpam āsthāya vairocanim upāgamat ॥1-29-19॥",
+      "translations": {
+        "english": "Then the resplendent Visnu, born from the womb of Aditi and assuming the form of Vamana, approached, the son of Virochana (Bali).",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 29,
+      "verse": 20,
+      "sloka": "त्रीन् पादान् अथ भिक्षित्वा प्रतिगृह्य च मेदिनीम् ।आक्रम्य लोकान् लोकार्थो सर्व लोक हिते रतः ॥१-२९-२०॥",
+      "transliteration": "trīn pādān atha bhikṣitvā pratigṛhya ca medinīm ।ākramya lokān lokārtho sarva loka hite rataḥ ॥1-29-20॥",
+      "translations": {
+        "english": "Thereafter, Visnu, soul of the universe who restores respect (for the righeous), and renders the welfare of all living beings, having begged from Bali, and been granted three places to put his footsteps on occupied the (three) worlds and by restraining Bali with his energy, gave (it) back to Mahendra. In this manner the highly lustrous Visnu, gave possession of the three worlds to Mahendra.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 29,
+      "verse": 21,
+      "sloka": "महेन्द्राय पुनः प्रादात् नियम्य बलिम् ओजसा ।त्रैलोक्यम् स महातेजाः चक्रे शक्र वशम् पुनः ॥१-२९-२१॥",
+      "transliteration": "mahendrāya punaḥ prādāt niyamya balim ojasā ।trailokyam sa mahātejāḥ cakre śakra vaśam punaḥ ॥1-29-21॥",
+      "translations": {
+        "english": "Thereafter, Visnu, soul of the universe who restores respect (for the righeous), and renders the welfare of all living beings, having begged from Bali, and been granted three places to put his footsteps on occupied the (three) worlds and by restraining Bali with his energy, gave (it) back to Mahendra. In this manner the highly lustrous Visnu, gave possession of the three worlds to Mahendra.",
+        "hindi": "तथा परमोदार अस्रो को हे राजकुमार ! शीघ्र प्रह करो। तदनन्तर मुनिश्रेष्ठ विश्वामित्र ने पूर्व की ओर मुख कर, पवित्र हो",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 29,
+      "verse": 22,
+      "sloka": "तेन एव पूर्वम् आक्रान्त आश्रमः श्रम नाशनः ।मया अपि भक्त्या तस्य एव वामनस्य उपभुज्यते ॥१-२९-२२॥",
+      "transliteration": "tena eva pūrvam ākrānta āśramaḥ śrama nāśanaḥ ।mayā api bhaktyā tasya eva vāmanasya upabhujyate ॥1-29-22॥",
+      "translations": {
+        "english": "\"This asrama, which relieves fatigue, previously under the possession of Vamana, has come under my occoupation for my devotion to him.",
+        "hindi": "और प्रसन्न हो, उन सम्पूर्ण अख्रों के मंत्र ( अर्थात्‌ चलाने गर रोकने की विधि ) बतलाए, जिन सव असतों का प्राप्त होना देवताओं के लिए भी ठुलेभ है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 29,
+      "verse": 23,
+      "sloka": "एनम् आश्रमम् आयान्ति राक्षसा विघ्न कारिणः ।अत्र ते पुरुषव्याघ्र हन्तव्या दुष्ट चारिणः ॥१-२९-२३॥",
+      "transliteration": "enam āśramam āyānti rākṣasā vighna kāriṇaḥ ।atra te puruṣavyāghra hantavyā duṣṭa cāriṇaḥ ॥1-29-23॥",
+      "translations": {
+        "english": "\"O tiger among men, wicked rakshasas who prowl about the asram and cause obstacles ought to be killed here only.",
+        "hindi": "वे सब असन विश्वामित्र जी ने श्रीरामचन्द्र जी दिए | (ज्योंहीं) ५ श्रीमान्‌ विश्वामित्र जी उन मंत्राखों का म, क लगे (त्योंहीं) वे मंत्र अपना साक्षात्‌ रूप धारण कर, श्रीरामचन्द्र जी के सामने हाथ जोड़ कर आ खड़े हुए और मुदित हो कहने | लगे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 29,
+      "verse": 24,
+      "sloka": "अद्य गच्छामहे राम सिद्धाश्रमम् अनुत्तमम् ।तत् आश्रम पदम् तात तव अपि एतद् यथा मम ॥१-२९-२४॥",
+      "transliteration": "adya gacchāmahe rāma siddhāśramam anuttamam ।tat āśrama padam tāta tava api etad yathā mama ॥1-29-24॥",
+      "translations": {
+        "english": "\"O Rama, now let's go to the unparalleled Siddhashrama. O child this asrama is the same to you as it is to me (treat this as your own)\".",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 29,
+      "verse": 25,
+      "sloka": "इति उक्त्वा परम प्रीतो गृह्य रामम् स लक्ष्मणम् ।प्रविशन् आश्रम पदम् व्यरोचत महामुनिः ।शशी इव गत नीहारः पुनर्वसु समन्वितः ॥१-२९-२५॥",
+      "transliteration": "iti uktvā parama prīto gṛhya rāmam sa lakṣmaṇam ।praviśan āśrama padam vyarocata mahāmuniḥ ।śaśī iva gata nīhāraḥ punarvasu samanvitaḥ ॥1-29-25॥",
+      "translations": {
+        "english": "While enetering the hermitage the great ascetic appeared resplendent (in the company of Rama and Lakshmana) like the moon in conjunction with Punarvasu star emerging out of the mist.",
+        "hindi": "हे परमोदार राघव ! हम सब आपके दास है.। जो काम आप हमसे लेना चाहेंगे वही हम करेंगे। तब श्रीरामचन्द्र जी ने उनको अपने हाथ से छुआ और बोले--मैं जब तुम्हारा स्मरण करू तब तुम आकर मेरा काम कर जाना",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 29,
+      "verse": 26,
+      "sloka": "तम् दृष्ट्वा मुनयः सर्वे सिद्धाश्रम निवासिनः ।उत्पत्योत्पत्य सहसा विश्वामित्रम् अपूजयन् ॥१-२९-२६॥",
+      "transliteration": "tam dṛṣṭvā munayaḥ sarve siddhāśrama nivāsinaḥ ।utpatyotpatya sahasā viśvāmitram apūjayan ॥1-29-26॥",
+      "translations": {
+        "english": "At the sight of Viswamitra all the ascetics, inmates of Siddhashrama, jumped out instantly and offered him their worship.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 29,
+      "verse": 27,
+      "sloka": "यथा अर्हम् चक्रिरे पूजाम् विश्वामित्राय धीमते ।तथैव राज पुत्राभ्याम् अकुर्वन् अतिथि क्रियाम् ॥१-२९-२७॥",
+      "transliteration": "yathā arham cakrire pūjām viśvāmitrāya dhīmate ।tathaiva rāja putrābhyām akurvan atithi kriyām ॥1-29-27॥",
+      "translations": {
+        "english": "They extended hospitality to both the princes in the same way they offered their worship to the sagacious Viswamitra.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 29,
+      "verse": 28,
+      "sloka": "मुहूर्तम् अथ विश्रान्तौ राज पुत्रौ अरिन्दमौ ।प्रांजली मुनि शार्दूलम् ऊचतू रघुनंदनौ ॥१-२९-२८॥",
+      "transliteration": "muhūrtam atha viśrāntau rāja putrau arindamau ।prāṁjalī muni śārdūlam ūcatū raghunaṁdanau ॥1-29-28॥",
+      "translations": {
+        "english": "The two princes of the lineage of Raghu, destroyers of foes rested a while and then said to Viswamitra, a tiger amon sages:",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 29,
+      "verse": 29,
+      "sloka": "अद्य एव दीक्षाम् प्रविश भद्रम् ते मुनिपुंगव ।सिद्धाश्रमो अयम् सिद्धः स्यात् सत्यम् अस्तु वचः तव ॥१-२९-२९॥",
+      "transliteration": "adya eva dīkṣām praviśa bhadram te munipuṁgava ।siddhāśramo ayam siddhaḥ syāt satyam astu vacaḥ tava ॥1-29-29॥",
+      "translations": {
+        "english": "O foremost of ascetics Get initialed today. You will prosper and this asram will attain its fulfilment. Your words shall come true.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 29,
+      "verse": 30,
+      "sloka": "एवम् उक्तो महातेजा विश्वामित्रो महानृषिः ।प्रविवेश तदा दीक्षाम् नियतो नियतेन्द्रियः ॥१-२९-३०॥",
+      "transliteration": "evam ukto mahātejā viśvāmitro mahānṛṣiḥ ।praviveśa tadā dīkṣām niyato niyatendriyaḥ ॥1-29-30॥",
+      "translations": {
+        "english": "Saying this, Viswamitra, the great saint effulgent and self trained engaged himself in the initiation ceremony.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 29,
+      "verse": 31,
+      "sloka": "कुमारौ एव ताम् रात्रिम् उषित्वा सुसमाहितौ ।प्रभात काले च उत्थाय पूर्वाम् संध्याम् उपास्य च ॥१-२९-३१॥",
+      "transliteration": "kumārau eva tām rātrim uṣitvā susamāhitau ।prabhāta kāle ca utthāya pūrvām saṁdhyām upāsya ca ॥1-29-31॥",
+      "translations": {
+        "english": "The two princes spent the right comfortably and woke up at daybreak. They performed morning in accordance with the prescribed rule, ablutions, said their prayers and paid their respects to Viswamitra seated at the kindled firesacrifice. इत्यार्षे श्रीमद्रामायणे वाल्मीकीय आदिकाव्ये बालकाण्डे एकोनत्रिंशस्सर्ग:।। Thus ends the twentyninth sarga of Balakanda of the holy Ramayana the first epic composed by sage Valmiki.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 1,
+      "kanda_name": "Bala Kanda",
+      "kanda_name_sanskrit": "बालकाण्डम्",
+      "sarga": 29,
+      "verse": 32,
+      "sloka": "प्रशुची परम् जाप्यम् समाप्य नियमेन च ।हुत अग्निहोत्रम् आसीनम् विश्वमित्रम् अवन्दताम् ॥१-२९-३२॥",
+      "transliteration": "praśucī param jāpyam samāpya niyamena ca ।huta agnihotram āsīnam viśvamitram avandatām ॥1-29-32॥",
+      "translations": {
+        "english": "",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}

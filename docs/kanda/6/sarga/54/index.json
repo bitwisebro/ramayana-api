@@ -1,0 +1,541 @@
+{
+  "kanda": 6,
+  "kanda_name": "Yuddha Kanda",
+  "kanda_name_sanskrit": "युद्धकाण्डम्",
+  "sarga": 54,
+  "verses_count": 38,
+  "verses": [
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 54,
+      "verse": 1,
+      "sloka": "बलस्य च निघातेन अङ्गदस्य जयेन च ।राक्षसः क्रोधमाविष्टो वज्रदंष्ट्रो महाबलः ।। ६.५४.१ ।।।।",
+      "transliteration": "balasya ca nighātena aṅgadasya jayena ca ।rākṣasaḥ krodhamāviṣṭo vajradaṁṣṭro mahābalaḥ ।। 6.54.1 ।।।।",
+      "translations": {
+        "english": "Vajradamshtra, the mighty Rakshasa became enraged with the destruction of his army and victory of Angada.",
+        "hindi": "युद्धकाण्ड का बावनवों सग पूरा हुआ । कि ——— > त्रिपञ्चाशः सग; ूम्रा्ष' निहतं श्रुत्वा रावणो राक्षसेश्वरः | क्रोधेन महताऽऽविष्टो निःखसन्नुरशो यथा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 54,
+      "verse": 2,
+      "sloka": "स विस्फार्य धनुर्घोरं शक्राशनिसमस्वनम् ।वानराणामनीकानि प्राकिरच्छरवृष्टिभिः ।। ६.५४.२ ।।।।",
+      "transliteration": "sa visphārya dhanurghoraṁ śakrāśanisamasvanam ।vānarāṇāmanīkāni prākiraccharavṛṣṭibhiḥ ।। 6.54.2 ।।।।",
+      "translations": {
+        "english": "Stretching his terrific bow which had the splendour of Indra's bow he (Vajradamshtra) showered shafts at the army troops of Vanaras and assailed them.",
+        "hindi": "बह क्रोध से अधीर हो और गमे गमं साँस ले, महाबली एनं वजदंट्र राक्षस से बोला",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 54,
+      "verse": 3,
+      "sloka": "राक्षसाश्चापि मुख्यास्ते रथेषु समवस्थिताः ।नानाप्रहरणाः शूराः प्रायुद्ध्यन्त तदा रणे ।। ६.५४.३ ।।।।",
+      "transliteration": "rākṣasāścāpi mukhyāste ratheṣu samavasthitāḥ ।nānāpraharaṇāḥ śūrāḥ prāyuddhyanta tadā raṇe ।। 6.54.3 ।।।।",
+      "translations": {
+        "english": "Seated firmly on the chariots the chiefs and heroes of Rakshasas also fought steadily with different weapons in the combat.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 54,
+      "verse": 4,
+      "sloka": "वानराणां तु शूरा ये सर्वे ते प्लवगर्षभाः ।आयुद्ध्यन्त शिलाहस्ताः समवेताः समन्ततः ।। ६.५४.४ ।।।।",
+      "transliteration": "vānarāṇāṁ tu śūrā ye sarve te plavagarṣabhāḥ ।āyuddhyanta śilāhastāḥ samavetāḥ samantataḥ ।। 6.54.4 ।।।।",
+      "translations": {
+        "english": "The best of Vanara warriors also gathered together with rocks in hand contended.",
+        "hindi": "& उसके साथ हाथी, घोड़े, खच्चर और ऊँट तथा ध्वजा पताकाओं से सजे हुए रथ थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 54,
+      "verse": 5,
+      "sloka": "तत्रायुधसहस्राणि तस्मिन्नायोधने भृशम् ।राक्षसाः कपिमुख्येषु पातयाञ्चक्रिरे तदा ।। ६.५४.५ ।।।।",
+      "transliteration": "tatrāyudhasahasrāṇi tasminnāyodhane bhṛśam ।rākṣasāḥ kapimukhyeṣu pātayāñcakrire tadā ।। 6.54.5 ।।।।",
+      "translations": {
+        "english": "Then in that battle the Rakshasas went on hurling thousands of missiles at the chiefs of Vanaras.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 54,
+      "verse": 6,
+      "sloka": "वानराश्चापि रक्षस्सु गिरीन् वृक्षान् महाशिलाः ।प्रवीराः पातयामासुर्मत्तवारणसन्निभाः ।। ६.५४.६ ।।।।",
+      "transliteration": "vānarāścāpi rakṣassu girīn vṛkṣān mahāśilāḥ ।pravīrāḥ pātayāmāsurmattavāraṇasannibhāḥ ।। 6.54.6 ।।।।",
+      "translations": {
+        "english": "Heroic Vanaras who resembled elephants in rut showered mountains and trees and huge rocks at Rakshasas.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 54,
+      "verse": 7,
+      "sloka": "शूराणां युद्ध्यमानानां समरेष्वनिवर्तिनाम् ।तद्राक्षसगणानां च सुयुद्धं समवर्तत ।। ६.५४.७ ।।।।",
+      "transliteration": "śūrāṇāṁ yuddhyamānānāṁ samareṣvanivartinām ।tadrākṣasagaṇānāṁ ca suyuddhaṁ samavartata ।। 6.54.7 ।।।।",
+      "translations": {
+        "english": "Between the heroes fighting the battle, who never returned, Great War continued between Rakshasas troops and Vanaras.",
+        "hindi": "पताकाओं से अलड्कृत, चमचमाते तथा सुवणंभूषित रथ की प्रदक्षिणा कर, सेनापति बज्रदृष्ट्र उक्ष पर सवार हुआ",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 54,
+      "verse": 8,
+      "sloka": "प्रभिन्नशिरसः केचिद्भिन्नैः पादैश्च बाहुभिः ।शस्त्रैरर्पितदेहास्तु रुधिरेण समुक्षिताः ।। ६.५४.८ ।।।।",
+      "transliteration": "prabhinnaśirasaḥ kecidbhinnaiḥ pādaiśca bāhubhiḥ ।śastrairarpitadehāstu rudhireṇa samukṣitāḥ ।। 6.54.8 ।।।।",
+      "translations": {
+        "english": "There lay strewn some monkeys and Rakshasas also with severed heads, broken feet, with many weapons mangled with bodies, bathed in blood, arms and feet looped to necks devolving as prey to buzzards, vultures and crows surrounded.",
+        "hindi": "खड्डे शचक्रेगदामिश्च निशितैश्च परश्यधैः । पदातयश्च निर्यान्ति विबिधाः शख्रपाणयः ॥ & ॥ डंडे, रंगबिरंगे तोमर, शूल, मूसल, गदाविशेष, पाश, पट्ट, खङ्ग, चक्र, गदा और तेज परसे आदि विविध आयुधों को हाथों में [लय हुए पैदल सैनिक निकले",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 54,
+      "verse": 9,
+      "sloka": "हरयो राक्षसाश्चैव शेरते गां समाश्रिताः ।कङ्कगृध्रवलैराढ्या गोमायुगणसङ्कुलाः ।। ६.५४.९ ।।।।",
+      "transliteration": "harayo rākṣasāścaiva śerate gāṁ samāśritāḥ ।kaṅkagṛdhravalairāḍhyā gomāyugaṇasaṅkulāḥ ।। 6.54.9 ।।।।",
+      "translations": {
+        "english": "There lay strewn some monkeys and Rakshasas also with severed heads, broken feet, with many weapons mangled with bodies, bathed in blood, arms and feet looped to necks devolving as prey to buzzards, vultures and crows surrounded.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 54,
+      "verse": 10,
+      "sloka": "कबन्धानि समुत्पेतुर्भीरुणां भीषणानि वै ।। ६.५४.१० ।।।।",
+      "transliteration": "kabandhāni samutpeturbhīruṇāṁ bhīṣaṇāni vai ।। 6.54.10 ।।।।",
+      "translations": {
+        "english": "Then in the battlefield, the timid vanaras and even rakshasas with their arms and heads cut off, bodies wounded allover dropped down.",
+        "hindi": "वे सब राक्षसश्रेष्ठ सोनक रगांबरंगी पोशाकें पहिने हुए थे और (उन बहुमूल्य पोशाक से) प्रदाप्त हो (दमक) रहे थे। मत्त और त्रि काः ’ खगा ५ युद्धविद्या में शिक्षित हाथी ऐसे जान पड़ते थे, मानों चलते , फरते पहाड़ हों",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 54,
+      "verse": 11,
+      "sloka": "भुजपाणिशिरश्छिन्नाश्छिन्नकायाश्च भूतले ।वानरा राक्षसाश्चापि निपेतुस्तत्र वै रणे ।। ६.५४.११ ।।।।",
+      "transliteration": "bhujapāṇiśiraśchinnāśchinnakāyāśca bhūtale ।vānarā rākṣasāścāpi nipetustatra vai raṇe ।। 6.54.11 ।।।।",
+      "translations": {
+        "english": "Thereafter Rakshasas were killed by Vanaras as Vajradamshtra kept looking at them and the Rakshasas ran from there.",
+        "hindi": "वे सब यद्ध में निपुण थे और उनके ऊपर भाले और अङ्क श हाथों में लिये हुए सेनिक सवार थे । इनके अतिरिक्त ओर भी महाबली वीर राक्षस घोड़ों पर सवार थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 54,
+      "verse": 12,
+      "sloka": "ततो वानरसैन्येन हन्यमानं निशाचरम् ।प्राभज्यत बलं सर्वं वज्रदंष्ट्रस्य पश्यतः ।। ६.५४.१२ ।।।।",
+      "transliteration": "tato vānarasainyena hanyamānaṁ niśācaram ।prābhajyata balaṁ sarvaṁ vajradaṁṣṭrasya paśyataḥ ।। 6.54.12 ।।।।",
+      "translations": {
+        "english": "Struck by monkeys the Rakshasas were in fear. Seeing the Rakshasas Vajraddamshtra's eyes turned red in anger with bow in hand penetrating the Vanara troops terrifying them.",
+        "hindi": "बर्षाऋतु में विजली की कड़कड़ाहट के साथ गरजते हुए बादलों की जैसा शोभा होतो है, उसी प्रहार युद्ध करने के लिए जाती हुई राज्ञस्रो सेना शोभायमान हो रद्दी थी",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 54,
+      "verse": 13,
+      "sloka": "राक्षसान् भयवित्रस्तान् हन्यमानान् प्लवङ्गमैः ।दृष्ट्वा स रोषताम्राक्षो वज्रदंष्ट्रः प्रतापवान् ।। ६.५४.१३ ।।।।",
+      "transliteration": "rākṣasān bhayavitrastān hanyamānān plavaṅgamaiḥ ।dṛṣṭvā sa roṣatāmrākṣo vajradaṁṣṭraḥ pratāpavān ।। 6.54.13 ।।।।",
+      "translations": {
+        "english": "Struck by monkeys the Rakshasas were in fear. Seeing the Rakshasas Vajraddamshtra's eyes turned red in anger with bow in hand penetrating the Vanara troops terrifying them.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 54,
+      "verse": 14,
+      "sloka": "प्रविवेश धनुष्पाणिस्त्रासयन् हरिवाहिनीम् ।शरैर्विदारयामास कङ्कपत्रैरजिह्मगैः ।। ६.५४.१४ ।।।।",
+      "transliteration": "praviveśa dhanuṣpāṇistrāsayan harivāhinīm ।śarairvidārayāmāsa kaṅkapatrairajihmagaiḥ ।। 6.54.14 ।।।।",
+      "translations": {
+        "english": "Valiant Vajradamshtra became very furious and pierced with arrows of plumes of buzzard which never missed target in seven, eight, nine and five Vanaras at a time.",
+        "hindi": "यह सेना लङ्का के दक्षिणी फाटक से निकली, जहाँ पर बानरयुथ-पति अङ्गद थे जिस समय यह राक्षसी सेना युद्ध करने के लिए निकली, उस समय बड़े बड़े असगुन हुए ।! १३ । आकाशाहियनात्तीत्रा उल्काश्चाभ्यपत स्तदा । वमन्त्यः पावकज्वालाः शिवा घोरं ववाशिरे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 54,
+      "verse": 15,
+      "sloka": "बिभेद वानरांस्तत्र सप्ताष्टौ नव पञ्च च ।विव्याध परमक्रुद्धो वज्रदंष्ट्रः प्रतापवान् ।। ६.५४.१५ ।।।।",
+      "transliteration": "bibheda vānarāṁstatra saptāṣṭau nava pañca ca ।vivyādha paramakruddho vajradaṁṣṭraḥ pratāpavān ।। 6.54.15 ।।।।",
+      "translations": {
+        "english": "Struck with fear the Vanaras sought the protection of Angada just as people seek protection of Brahma, the creator of beings.",
+        "hindi": "उस समय जानवर ऐसी बोलियाँ बोल रहे थे, जिससे मालूम पडता था कि, मानों वे रात्तसों के नाश की सूचना दे रहे थे। अत भय से मोहित हो, राक्षसबीर फिल फिसल पड़ते थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 54,
+      "verse": 16,
+      "sloka": "त्रस्ताः सर्वे हरिगणाः शरैः सङ्कृत्तकन्धराः ।अङ्गदं सम्प्रधावन्ति प्रजापतिमिव प्रजाः ।। ६.५४.१६ ।।।।",
+      "transliteration": "trastāḥ sarve harigaṇāḥ śaraiḥ saṅkṛttakandharāḥ ।aṅgadaṁ sampradhāvanti prajāpatimiva prajāḥ ।। 6.54.16 ।।।।",
+      "translations": {
+        "english": "Then the son of Vali gazing at the broken monkeys looking at Vajradamshtra in anger, faced himself.",
+        "hindi": "तु रणोत्सुक, महाबली एवं तेजस्वी बजद्रंष्ट्र, इन उत्पातों को देख कर भी, धैय घारण कर चल्ला ही जाता था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 54,
+      "verse": 17,
+      "sloka": "ततो हरिगणान् भग्नान् दृष्ट्वा वालिसुतस्तदा ।क्रोधेन वज्रदंष्ट्रं तमुदीक्षन्तमुदैक्षत ।। ६.५४.१७ ।।।।",
+      "transliteration": "tato harigaṇān bhagnān dṛṣṭvā vālisutastadā ।krodhena vajradaṁṣṭraṁ tamudīkṣantamudaikṣata ।। 6.54.17 ।।।।",
+      "translations": {
+        "english": "Vajradamshtra and Angada both enraged and strode among Rakshasas and monkeys and fought like a lion and intoxicated elephant.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 54,
+      "verse": 18,
+      "sloka": "वज्रदंष्ट्रो ऽङ्गदश्चोभौ सङ्गतौ हरिराक्षसौ ।चेरतुः परमक्रुद्धौ हरिमत्तगजाविव ।। ६.५४.१८ ।।।।",
+      "transliteration": "vajradaṁṣṭro 'ṅgadaścobhau saṅgatau harirākṣasau ।ceratuḥ paramakruddhau harimattagajāviva ।। 6.54.18 ।।।।",
+      "translations": {
+        "english": "Then Angada endowed with great strength, pierced Vajradamshtra in his private parts with clubs used for piercing elephants.",
+        "hindi": "तदनन्तर एक दूसरे को मार डालने के आकांत्ी, भयङ्कर एवं बलवान वानरों और राक्षसां की घमासान लड़ाई हुई",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 54,
+      "verse": 19,
+      "sloka": "ततः शरसहस्रेण वालिपुत्रं महाबलः ।जघान मर्मदेशेषु मातङ्गमिव तोमरैः ।। ६.५४.१९ ।।।।",
+      "transliteration": "tataḥ śarasahasreṇa vāliputraṁ mahābalaḥ ।jaghāna marmadeśeṣu mātaṅgamiva tomaraiḥ ।। 6.54.19 ।।।।",
+      "translations": {
+        "english": "Angada who was endowed with great strength all his limbs bathed in blood and terrific valour took hold of a huge tree and shattered Vajradamshtra.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 54,
+      "verse": 20,
+      "sloka": "रुधिरोक्षितसर्वाङ्गो वालिसूनुर्महाबलः ।चिक्षेप वज्रदंष्ट्राय वृक्षं भीमपराक्रमः ।। ६.५४.२० ।।।।",
+      "transliteration": "rudhirokṣitasarvāṅgo vālisūnurmahābalaḥ ।cikṣepa vajradaṁṣṭrāya vṛkṣaṁ bhīmaparākramaḥ ।। 6.54.20 ।।।।",
+      "translations": {
+        "english": "That Rakshasa (Vajradamshtra) seeing the tree coming towards him was not bewildered. He shattered it into pieces, and it fell on the ground.",
+        "hindi": "लड़ाई के मैदान में रात्र, को कभी पीठ न दिखलाने वाले वीर राक्षस, हाथ में परिघ लिये हुए, वानरों के ऊपर विविध प्रकार ' के श्न चला रहे थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 54,
+      "verse": 21,
+      "sloka": "दृष्ट्वा ऽ ऽपतन्तं तं वृक्षमसम्भ्रान्तश्च राक्षसः ।चिच्छेद बहुधा सो ऽपि निकृत्तः पतितो भुवि ।। ६.५४.२१ ।।।।",
+      "transliteration": "dṛṣṭvā ' 'patantaṁ taṁ vṛkṣamasambhrāntaśca rākṣasaḥ ।ciccheda bahudhā so 'pi nikṛttaḥ patito bhuvi ।। 6.54.21 ।।।।",
+      "translations": {
+        "english": "The bull among monkeys, Angada seeing the valour of Vajradamshtra seizing a huge hillock hurled at the Rakshasa making loud sounds and breaking.",
+        "hindi": "इस युद्ध में पेड़ों पत्थरों और शब्ों के प्रहारों का ऐसा भयानक शब्द हो रहा था, जिससे सुनने से हृदय दहला जाता था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 54,
+      "verse": 22,
+      "sloka": "तं दृष्ट्वा वज्रदंष्ट्रस्य विक्रमं प्लवगर्षभः ।प्रगृह्य विपुलं शैलं चिक्षेप च ननाद च ।। ६.५४.२२ ।।।।",
+      "transliteration": "taṁ dṛṣṭvā vajradaṁṣṭrasya vikramaṁ plavagarṣabhaḥ ।pragṛhya vipulaṁ śailaṁ cikṣepa ca nanāda ca ।। 6.54.22 ।।।।",
+      "translations": {
+        "english": "The valiant Rakshasa who was not perplexed with mace in hand leaping down the chariot looking (at the hillock hurled) sat on the ground.",
+        "hindi": "रथों के पहियों की घरराइट का, धनुष की टंकार का और शाङ्क भेरी तथा मृदज्ञों के बजने का बड़ा भारी शब्द हो रहा था",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 54,
+      "verse": 23,
+      "sloka": "समापतन्तं तं दृष्ट्वा रथादाप्लुत्य वीर्यवान् ।गदापाणिरसम्भ्रान्तः पृथिव्यां समतिष्ठत ।। ६.५४.२३ ।।।।",
+      "transliteration": "samāpatantaṁ taṁ dṛṣṭvā rathādāplutya vīryavān ।gadāpāṇirasambhrāntaḥ pṛthivyāṁ samatiṣṭhata ।। 6.54.23 ।।।।",
+      "translations": {
+        "english": "The hillock discharged by Angada went right in the forefront of the battle and shattered the chariot along with its wheels and pole.",
+        "hindi": "अनेक राक्षस तो हथियारों को फेंक, वानरों से सल्लयुद्ध कर रहे थे । कितने ही थप्पड़ों, लातों, घूं सों ओर पेढ़ों से लड़ रहे थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 54,
+      "verse": 24,
+      "sloka": "सा ऽङ्गदेन गदा ऽ ऽक्षिप्ता गत्वा तु रणमूर्धनि ।। ६.५४.२४ ।।।।",
+      "transliteration": "sā 'ṅgadena gadā ' 'kṣiptā gatvā tu raṇamūrdhani ।। 6.54.24 ।।।।",
+      "translations": {
+        "english": "Then Angada seized a huge hillock adorned with trees hurled at Vajradamshtra.",
+        "hindi": "छ) युद्धका एड | युद्धदुमंद वानरों ने अनेक राक्षसों को घुटनों की मार से चूर चूर कर डाला और कितने ही वानरों के फेंक्रे हुए पत्थरों की मार से पिसे गए",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 54,
+      "verse": 25,
+      "sloka": "सचक्रकूबरं साश्वं प्रममाथ रथं तदा ।। ६.५४.२५ ।।।।",
+      "transliteration": "sacakrakūbaraṁ sāśvaṁ pramamātha rathaṁ tadā ।। 6.54.25 ।।।।",
+      "translations": {
+        "english": "Vajradamshtra vomiting blood became unconscious and clasping his mace breathing heavily he remained senseless for a while.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 54,
+      "verse": 26,
+      "sloka": "ततो ऽन्यं गिरिमाक्षिप्य विपुलं द्रुमभूषितम् ।वज्रदंष्ट्रस्य शिरसि पातयामास सो ऽङ्गदः ।। ६.५४.२६ ।।।।",
+      "transliteration": "tato 'nyaṁ girimākṣipya vipulaṁ drumabhūṣitam ।vajradaṁṣṭrasya śirasi pātayāmāsa so 'ṅgadaḥ ।। 6.54.26 ।।।।",
+      "translations": {
+        "english": "The night ranger regained his senses, extremely angry, stood firmly and attacked Angada, son of Vali on his chest with his mace.",
+        "hindi": "अन्य बलवान राक्षस भी अत्यन्त क्रद्ध हो, युद्ध करने के समय शारो का प्रयोग कर, वानरी सेना का नाश कर रहे थे",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 54,
+      "verse": 27,
+      "sloka": "अभवच्छोणितोद्गारी वज्रदंष्ट्रः स मूर्च्छितः ।मुहूर्तमभवन्मूढो गदामालिङ्ग्य निःश्वसन् ।। ६.५४.२७ ।।।।",
+      "transliteration": "abhavacchoṇitodgārī vajradaṁṣṭraḥ sa mūrcchitaḥ ।muhūrtamabhavanmūḍho gadāmāliṅgya niḥśvasan ।। 6.54.27 ।।।।",
+      "translations": {
+        "english": "Then leaving off the mace, a dual fight started there between one another, the monkeys, and Rakshasas.",
+        "hindi": "वानरों को न करते हुए राक्षसों को देख, अङ्गद दूने कद हुए ; उनका क्रोध प्रलयकालीन अग्नि की तरह घधक उठा",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 54,
+      "verse": 28,
+      "sloka": "स लब्धसञ्ज्ञो गदया वालिपुत्रमवस्थितम् ।जघान परमक्रुद्धो वक्षोदेशे निशाचरः ।गदां त्यक्त्वा ततस्तत्र मुष्टियुद्धमवर्तत ।। ६.५४.२८ ।।।।",
+      "transliteration": "sa labdhasañjño gadayā vāliputramavasthitam ।jaghāna paramakruddho vakṣodeśe niśācaraḥ ।gadāṁ tyaktvā tatastatra muṣṭiyuddhamavartata ।। 6.54.28 ।।।।",
+      "translations": {
+        "english": "Exhausted by strain both very valiant fought like planets Angaraka and Budha and spit out blood.",
+        "hindi": "मारे क्रोध के अङ्गद के नेत्र लाल हो गए । तब दीह अङ्गद एक वृक्ष उखाड़ उससे राक्षसा को वैसे ही मारने लगे, जैसे सिह छुद्र गों को मारता है",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 54,
+      "verse": 29,
+      "sloka": "अन्योन्यं जघ्नतुस्तत्र तावुभौ हरिराक्षसौ ।रुधिरोद्गारिणो तौ तु प्रहरैर्जनितश्रमौ ।बभूवतुः सुविक्रान्तावङ्गारकबुधाविव ।। ६.५४.२९ ।।।।",
+      "transliteration": "anyonyaṁ jaghnatustatra tāvubhau harirākṣasau ।rudhirodgāriṇo tau tu praharairjanitaśramau ।babhūvatuḥ suvikrāntāvaṅgārakabudhāviva ।। 6.54.29 ।।।।",
+      "translations": {
+        "english": "Then highly energetic, bull among Vanaras, Angada, uprooting a tree full of many flowers and fruits stood there.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 54,
+      "verse": 30,
+      "sloka": "ततः परमतेजस्वी अङ्गदः कपिकुञ्जरः ।उत्पाट्य वृक्षं स्थितवान् बहुपुष्पफलाञ्चितम् ।। ६.५४.३० ।।।।",
+      "transliteration": "tataḥ paramatejasvī aṅgadaḥ kapikuñjaraḥ ।utpāṭya vṛkṣaṁ sthitavān bahupuṣpaphalāñcitam ।। 6.54.30 ।।।।",
+      "translations": {
+        "english": "(The Rakshasa seized) a huge bright sword, a shield decorated with tiny bells and sword encased in hide sheath.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 54,
+      "verse": 31,
+      "sloka": "जग्राह चार्षभं चर्म खड्गं च विपुलं शुभम् ।किङ्किणीजालसञ्छन्नं चर्मणा च परिष्कृतम् ।। ६.५४.३१ ।।।।",
+      "transliteration": "jagrāha cārṣabhaṁ carma khaḍgaṁ ca vipulaṁ śubham ।kiṅkiṇījālasañchannaṁ carmaṇā ca pariṣkṛtam ।। 6.54.31 ।।।।",
+      "translations": {
+        "english": "Then desiring victory both monkey and Rakshasa struck one another passionately in wonderful harsh ways.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 54,
+      "verse": 32,
+      "sloka": "विचित्रांश्चेरतुर्मार्गान् रुषितौ कपिराक्षसौ ।जघ्नतुश्च तदा ऽन्योन्यं निर्दयं जयकाङ्क्षिणौ ।। ६.५४.३२ ।।।।",
+      "transliteration": "vicitrāṁśceraturmārgān ruṣitau kapirākṣasau ।jaghnatuśca tadā 'nyonyaṁ nirdayaṁ jayakāṅkṣiṇau ।। 6.54.32 ।।।।",
+      "translations": {
+        "english": "Their wounds streaming blood, exhausted in the battlefield, when they rested on their knees on the ground, they were like charming Kimsuka blossoms.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 54,
+      "verse": 33,
+      "sloka": "व्रणैः सास्त्रैरशोभेतां पुष्पिताविव किंशुकौ ।युद्ध्यमानौ परिश्रान्तौ जानुभ्यामवनीं गतौ ।। ६.५४.३३ ।।।।",
+      "transliteration": "vraṇaiḥ sāstrairaśobhetāṁ puṣpitāviva kiṁśukau ।yuddhyamānau pariśrāntau jānubhyāmavanīṁ gatau ।। 6.54.33 ।।।।",
+      "translations": {
+        "english": "Angada, the elephant among the monkeys rose up in the mere twinkling of eyes, like a serpent struck by staff glowing in his eyes.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 54,
+      "verse": 34,
+      "sloka": "निमेषान्तरमात्रेण अङ्गदः कपिकुञ्जरः ।उदतिष्ठत दीप्ताक्षो दण्डाहत इवोरगः ।। ६.५४.३४ ।।।।",
+      "transliteration": "nimeṣāntaramātreṇa aṅgadaḥ kapikuñjaraḥ ।udatiṣṭhata dīptākṣo daṇḍāhata ivoragaḥ ।। 6.54.34 ।।।।",
+      "translations": {
+        "english": "Mighty son of Vali lopped off the great head of Vajradamshtra's with a sharpened stainless sword.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 54,
+      "verse": 35,
+      "sloka": "निर्मलेन सुधौतेन खड्गेनास्य महच्छिरः ।जघान वज्रदंष्ट्रस्य वालिसूनुर्महाबलः ।। ६.५४.३५ ।।।।",
+      "transliteration": "nirmalena sudhautena khaḍgenāsya mahacchiraḥ ।jaghāna vajradaṁṣṭrasya vālisūnurmahābalaḥ ।। 6.54.35 ।।।।",
+      "translations": {
+        "english": "His (Vajradamshtra's) limbs bathed in blood, cut off by sword, eyeballs rolling cleft into two dropped down.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 54,
+      "verse": 36,
+      "sloka": "रुधिरोक्षितगात्रस्य बभूव पतितं द्विधा ।सरोषपरिवृत्ताक्षं शुभं खड्गहतं शिरः ।। ६.५४.३६ ।।।।",
+      "transliteration": "rudhirokṣitagātrasya babhūva patitaṁ dvidhā ।saroṣaparivṛttākṣaṁ śubhaṁ khaḍgahataṁ śiraḥ ।। 6.54.36 ।।।।",
+      "translations": {
+        "english": "Deluded with fear, the Rakshasas seeing Vajradamshtra killed by monkeys, panic stricken, heads bent in shame, faces woebegone fled to Lanka.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 54,
+      "verse": 37,
+      "sloka": "वज्रदंष्ट्रं हतं दृष्ट्वा राक्षसा भयमोहिताः ।त्रस्ताः प्रत्यपतन् लङ्कां वध्यमानाः प्लवङ्गमै ।विषण्णवदना दीना ह्रिया किञ्चिदवाङ्मुखाः ।। ६.५४.३७ ।।।।",
+      "transliteration": "vajradaṁṣṭraṁ hataṁ dṛṣṭvā rākṣasā bhayamohitāḥ ।trastāḥ pratyapatan laṅkāṁ vadhyamānāḥ plavaṅgamai ।viṣaṇṇavadanā dīnā hriyā kiñcidavāṅmukhāḥ ।। 6.54.37 ।।।।",
+      "translations": {
+        "english": "Deluded with fear, the Rakshasas seeing Vajradamshtra killed by monkeys, panic stricken, heads bent in shame, faces woebegone fled to Lanka.",
+        "hindi": "",
+        "telugu": ""
+      }
+    },
+    {
+      "kanda": 6,
+      "kanda_name": "Yuddha Kanda",
+      "kanda_name_sanskrit": "युद्धकाण्डम्",
+      "sarga": 54,
+      "verse": 38,
+      "sloka": "निहत्य तं वज्रधरप्रभावः स वालिसूनुः कपिसैन्यमध्ये ।जगाम हर्षं महितो महाबलः सहस्रनेत्रस्त्रिदशैरिवावृतः ।। ६.५४.३८ ।।",
+      "transliteration": "nihatya taṁ vajradharaprabhāvaḥ sa vālisūnuḥ kapisainyamadhye ।jagāma harṣaṁ mahito mahābalaḥ sahasranetrastridaśairivāvṛtaḥ ।। 6.54.38 ।।",
+      "translations": {
+        "english": "Mighty son of Vali, having killed Vajradamshtra, honoured in the midst of great Vanara army was joyful surrounded like the thousand eyed Indra, the Lord of gods. ।।इत्यार्षेवाल्मीकीयेश्रीमद्रामायणेआदिकाव्येयुद्धकाण्डेचतुःपञ्चाशस्सर्गः This is the end of the fifty fourth sarga of Yuddha Kanda of the first epic the holy Ramayana composed by sage Valmiki.",
+        "hindi": "",
+        "telugu": ""
+      }
+    }
+  ]
+}
