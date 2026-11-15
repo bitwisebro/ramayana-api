@@ -2,18 +2,21 @@
 
 [![GitHub Pages](https://img.shields.io/badge/Hosted%20on-GitHub%20Pages-blue?style=flat-square&logo=github)](https://bitwisebro.github.io/ramayana-api/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=flat-square)](LICENSE)
-[![Verses](https://img.shields.io/badge/Verses-23%2C334-orange?style=flat-square)](#)
+[![Verses](https://img.shields.io/badge/Verses-23%2C334%20(Dataset)-orange?style=flat-square)](#)
 [![Chapters](https://img.shields.io/badge/Sargas-645-yellow?style=flat-square)](#)
 [![Books](https://img.shields.io/badge/Kandas-7-red?style=flat-square)](#)
 
 > **A keyless, open-source, serverless RESTful JSON API for Sage Valmiki's Ramayana, inspired by and built following the model of [vedicscriptures.github.io](https://vedicscriptures.github.io).**
+
+> [!NOTE]
+> **On Verse Counts:** While tradition classically refers to the Valmiki Ramayana as having 24,000 verses (*Chaturvimshati Sahasri*), the exact verse count varies across recensions (Northern, Southern, Eastern) and critical editions. The **23,334 verses** advertised here represent the specific count digitized and aligned in this dataset (sourced from Sanskrit Wikisource with IIT Kanpur critical edition corrections).
 
 ---
 
 ## 🌟 Highlights
 
 * **Keyless & 100% Free:** Zero registration, zero rate limits, and hosted directly via GitHub Pages CDN.
-* **Complete Epic Coverage:** All **7 Kandas**, all **645 Sargas (Chapters)**, and all **23,334 Shlokas (Verses)**.
+* **Comprehensive Dataset:** All **7 Kandas**, **645 Sargas (Chapters)**, and **23,334 indexed Shlokas (Verses)** in this edition.
 * **Multilingual:** Sanskrit text in original Devanagari script, IAST romanized transliteration, and English/regional translations.
 * **Fast & Static:** Powered by pre-rendered, minified JSON static files served with zero latency.
 
