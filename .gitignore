@@ -8,3 +8,4 @@ venv/
 data-source/
 *.log
 .DS_Store
+*/.github/
